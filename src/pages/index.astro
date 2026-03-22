@@ -1,0 +1,297 @@
+---
+import Base from '../layouts/Base.astro';
+
+const services = [
+  { title: 'Resident Card In Switzerland', href: '/resident-card-in-switzerland/', color: 'red' },
+  { title: 'Swiss Company Formation', href: '/swiss-company-formation/', color: 'gray' },
+  { title: 'Business In Switzerland', href: '/business-in-switzerland/', color: 'black' },
+  { title: 'Accounting In Switzerland', href: '/accounting-in-switzerland/', color: 'red' },
+  { title: 'Company Liquidation', href: '/company-liquidation-in-switzerland/', color: 'black' },
+  { title: 'Shelf Company In Switzerland', href: '/shelf-company-in-switzerland/', color: 'gray' },
+  { title: 'Migration To Switzerland', href: '/migration-to-switzerland/', color: 'red' },
+  { title: 'Swiss Bank Account', href: '/swiss-bank-account/', color: 'black' },
+];
+
+const whyChoose = [
+  { title: 'Expertise in Swiss Corporate Law', desc: 'Our team of experienced Swiss lawyers specialises in corporate law, ensuring your business is set up correctly from the start.' },
+  { title: 'Efficient Company Formation', desc: 'We provide seamless and efficient company formation services, handling all administrative and legal requirements.' },
+  { title: 'Shelf Companies Available', desc: 'Need to start quickly? We offer ready-made shelf companies for an expedited business launch in Switzerland.' },
+  { title: 'Resident Card Assistance', desc: 'We assist with obtaining resident cards and work permits, helping you establish a physical presence in Switzerland.' },
+  { title: 'Swiss Bank Account Setup', desc: 'We help you open Swiss bank accounts, ensuring your financial management is properly structured.' },
+  { title: 'Accounting Services', desc: 'Professional financial record management and accounting services to keep your Swiss business compliant.' },
+  { title: 'Company Liquidation Support', desc: 'When needed, we provide expert support for company dissolution, ensuring all legal obligations are met.' },
+  { title: 'Personalised Approach', desc: 'Every business is unique. We develop custom approaches aligned with your specific needs and Swiss standards.' },
+];
+
+const steps = [
+  { num: '01', title: 'Consultation', desc: 'We start by understanding your business objectives and requirements for establishing operations in Switzerland.' },
+  { num: '02', title: 'Customised Strategy', desc: 'Our team develops a strategy aligned with Swiss standards and regulations, covering all legal and administrative aspects.' },
+  { num: '03', title: 'Execution', desc: 'We handle all administrative tasks, from company registration to bank account setup, ensuring a smooth process.' },
+  { num: '04', title: 'Ongoing Support', desc: 'After setup, we provide continuous guidance on compliance, accounting, and any legal matters that arise.' },
+];
+
+const advantages = [
+  { title: 'Strategic Location', desc: 'Switzerland sits at the heart of Europe, providing a gateway to multiple markets with excellent infrastructure.' },
+  { title: 'Political Stability', desc: 'One of the most politically stable countries in the world, offering a secure environment for your business.' },
+  { title: 'Innovation Hub', desc: 'Home to world-class research institutions and a thriving startup ecosystem that fosters innovation.' },
+  { title: 'Tax Benefits', desc: 'Competitive tax rates and favourable treaties make Switzerland an attractive destination for businesses worldwide.' },
+];
+
+const schema = [
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Lawsupport — Corporate Services in Switzerland",
+    "description": "Professional corporate services and legal support for businesses in Switzerland.",
+    "url": "https://lawsupport.ch/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [{ "@type": "ListItem", "position": 1, "name": "Home", "item": "https://lawsupport.ch/" }]
+  }
+];
+---
+
+<Base title="Lawsupport — Corporate Services in Switzerland" description="Professional corporate services, company formation, and legal support for businesses in Switzerland." schema={schema}>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero-content">
+      <div class="hero-text">
+        <h1>Business<br/>In Switzerland</h1>
+        <p>And company registration in Switzerland</p>
+      </div>
+      <div class="hero-image">
+        <div class="hero-image-placeholder"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Service Cards -->
+  <section class="service-cards">
+    {services.map(s => (
+      <a href={s.href} class={`service-card service-card--${s.color}`}>
+        <span>{s.title}</span>
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+      </a>
+    ))}
+  </section>
+
+  <!-- Why Choose -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title">Why Choose <span class="text-red">Lawsupport</span> for<br/>Your Swiss Business Needs</h2>
+      <div class="grid-2 why-grid">
+        {whyChoose.map(item => (
+          <div class="why-card">
+            <div class="why-card-img"></div>
+            <div class="why-card-content">
+              <h3>{item.title}</h3>
+              <p>{item.desc}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Our Approach — 4 Steps -->
+  <section class="section section-gray">
+    <div class="container">
+      <h2 class="section-title">Our approach</h2>
+      <div class="grid-4 steps-grid">
+        {steps.map(step => (
+          <div class="step-card">
+            <span class="step-num">{step.num}</span>
+            <h3>{step.title}</h3>
+            <p>{step.desc}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Swiss Advantage -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title">Unlock the Swiss Advantage</h2>
+      <div class="grid-4 advantage-grid">
+        {advantages.map(adv => (
+          <div class="advantage-card">
+            <div class="advantage-icon">
+              <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="var(--red)" stroke-width="2"><path d="M22 11.08V12a10 10 0 11-5.93-9.14" /><path d="M22 4L12 14.01l-3-3" /></svg>
+            </div>
+            <h3>{adv.title}</h3>
+            <p>{adv.desc}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact Form -->
+  <section class="section section-gray" id="contact">
+    <div class="container">
+      <div class="contact-grid">
+        <div class="contact-info">
+          <h2>Contact us</h2>
+          <div class="contact-person">
+            <div class="contact-avatar"></div>
+            <div>
+              <p class="contact-name">Morgan Hartley</p>
+              <p class="contact-role">Senior Corporate Lawyer &amp; Partner</p>
+            </div>
+          </div>
+          <div class="contact-details">
+            <a href="tel:+41445152590">+41 44 51 52 590</a>
+            <a href="mailto:info@lawsupport.ch">info@lawsupport.ch</a>
+          </div>
+        </div>
+        <form class="contact-form" action="#" method="post">
+          <div class="form-group">
+            <label for="name">Name</label>
+            <input type="text" id="name" name="name" placeholder="Your name" required />
+          </div>
+          <div class="form-group">
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" placeholder="your@email.com" required />
+          </div>
+          <div class="form-group">
+            <label for="whatsapp">WhatsApp</label>
+            <input type="tel" id="whatsapp" name="whatsapp" placeholder="+41..." />
+          </div>
+          <div class="form-group">
+            <label for="message">Message</label>
+            <textarea id="message" name="message" placeholder="How can we help you?"></textarea>
+          </div>
+          <button type="submit" class="btn btn-red" style="width:100%">Order A Callback</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+</Base>
+
+<style>
+  .hero {
+    background: var(--red);
+    color: var(--white);
+  }
+  .hero-content {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr;
+    min-height: 400px;
+  }
+  .hero-text {
+    padding: 60px 20px 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .hero-text h1 { font-size: 2.5rem; margin-bottom: 12px; }
+  .hero-text p { font-size: 1.1rem; opacity: 0.9; }
+  .hero-image { position: relative; overflow: hidden; }
+  .hero-image-placeholder {
+    width: 100%;
+    height: 100%;
+    min-height: 250px;
+    background: linear-gradient(135deg, #c00 0%, #900 100%);
+  }
+
+  .service-cards {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .service-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 24px 20px;
+    font-weight: 600;
+    font-size: 0.85rem;
+    transition: opacity 0.2s;
+  }
+  .service-card:hover { opacity: 0.85; }
+  .service-card--red { background: var(--red); color: var(--white); }
+  .service-card--black { background: var(--black); color: var(--white); }
+  .service-card--gray { background: var(--gray); color: var(--black); }
+
+  .text-red { color: var(--red); }
+
+  .why-card {
+    display: grid;
+    grid-template-columns: 1fr;
+    border-radius: 12px;
+    overflow: hidden;
+    background: var(--white);
+    box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+  }
+  .why-card-img { height: 180px; background: #ddd; }
+  .why-card-content { padding: 24px; }
+  .why-card-content h3 { font-size: 1.1rem; margin-bottom: 8px; }
+  .why-card-content p { color: var(--gray-text); font-size: 0.9rem; }
+
+  .step-card { text-align: center; padding: 32px 16px; }
+  .step-num {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    background: var(--red);
+    color: var(--white);
+    font-weight: 700;
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+  }
+  .step-card h3 { font-size: 1.1rem; margin-bottom: 8px; }
+  .step-card p { color: var(--gray-text); font-size: 0.9rem; }
+
+  .advantage-card { text-align: center; padding: 32px 16px; }
+  .advantage-icon { margin-bottom: 16px; }
+  .advantage-card h3 { font-size: 1.1rem; margin-bottom: 8px; }
+  .advantage-card p { color: var(--gray-text); font-size: 0.9rem; }
+
+  .contact-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 48px;
+  }
+  .contact-info h2 { margin-bottom: 24px; }
+  .contact-person {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 24px;
+  }
+  .contact-avatar {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: #ddd;
+    flex-shrink: 0;
+  }
+  .contact-name { font-weight: 700; font-size: 1.1rem; }
+  .contact-role { color: var(--gray-text); font-size: 0.9rem; }
+  .contact-details { display: flex; flex-direction: column; gap: 8px; }
+  .contact-details a { font-weight: 500; }
+  .contact-details a:hover { color: var(--red); }
+
+  @media (min-width: 768px) {
+    .hero-content { grid-template-columns: 1fr 1fr; }
+    .hero-text h1 { font-size: 3.5rem; }
+    .service-cards { grid-template-columns: repeat(4, 1fr); }
+    .why-card { grid-template-columns: 1fr 1fr; }
+    .why-card-img { height: auto; min-height: 200px; }
+    .contact-grid { grid-template-columns: 1fr 1fr; }
+  }
+
+  @media (min-width: 1024px) {
+    .hero-text { padding: 80px 40px; }
+    .hero-text h1 { font-size: 4rem; }
+  }
+</style>

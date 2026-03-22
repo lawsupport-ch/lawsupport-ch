@@ -1,0 +1,69 @@
+---
+import Base from '../../layouts/Base.astro';
+
+const articles = [
+  { title: 'Swiss AG Formation: Requirements, Process, and Costs', href: '/blog/ag-formation-switzerland/', category: 'Swiss Company Formation', date: '06.03.2026' },
+  { title: 'Swiss Company Formation: Complete Guide to AG and GmbH Registration', href: '/blog/swiss-company-formation-guide/', category: 'Swiss Company Formation', date: '01.03.2026' },
+  { title: 'Structuring a Neurotech Venture: From Market Analysis to Swiss GmbH Formation', href: '/blog/neurotech-venture-switzerland/', category: 'Business In Switzerland', date: '25.02.2026' },
+];
+
+const schema = [
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Blog — Lawsupport.ch",
+    "url": "https://lawsupport.ch/blog/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://lawsupport.ch/" },
+      { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://lawsupport.ch/blog/" }
+    ]
+  }
+];
+---
+
+<Base title="Blog — Lawsupport.ch" description="Articles and guides about company formation, tax, and legal services in Switzerland." schema={schema}>
+
+  <div class="container">
+    <nav class="breadcrumb">
+      <a href="/">Home</a> <span>/</span> <span>Blog</span>
+    </nav>
+  </div>
+
+  <section class="section">
+    <div class="container">
+      <h1>Blog</h1>
+      <p class="blog-lead">Articles and guides about corporate services in Switzerland.</p>
+      <div class="grid-3 blog-grid">
+        {articles.map(article => (
+          <a href={article.href} class="card">
+            <div class="card-img" style="background:#ddd"></div>
+            <div class="card-body">
+              <span class="blog-card-category">{article.category}</span>
+              <h3>{article.title}</h3>
+              <span class="blog-card-date">{article.date}</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+</Base>
+
+<style>
+  .blog-lead { color: var(--gray-text); margin: 12px 0 40px; }
+  .blog-card-category {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--red);
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  .blog-card-date { font-size: 0.8rem; color: var(--gray-text); margin-top: 8px; display: block; }
+</style>

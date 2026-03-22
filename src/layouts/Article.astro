@@ -1,0 +1,269 @@
+---
+import Base from './Base.astro';
+
+interface Props {
+  title: string;
+  description?: string;
+  category?: string;
+  categoryHref?: string;
+  date?: string;
+  readTime?: string;
+  tocItems?: { id: string; title: string }[];
+  faqItems?: { question: string; answer: string }[];
+  relatedArticles?: { title: string; href: string; image?: string }[];
+}
+
+const {
+  title,
+  description = '',
+  category = 'Swiss Company Formation',
+  categoryHref = '/swiss-company-formation/',
+  date = '06.03.2026',
+  readTime = '4 min read',
+  tocItems = [],
+  faqItems = [],
+  relatedArticles = [],
+} = Astro.props;
+
+const schema = [
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": title,
+    "description": description,
+    "datePublished": date,
+    "author": { "@type": "Person", "name": "Morgan Hartley" },
+    "publisher": { "@type": "Organization", "name": "Lawsupport.ch" }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": title,
+    "url": `https://lawsupport.ch${Astro.url.pathname}`
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://lawsupport.ch/" },
+      { "@type": "ListItem", "position": 2, "name": category, "item": `https://lawsupport.ch${categoryHref}` },
+      { "@type": "ListItem", "position": 3, "name": title, "item": `https://lawsupport.ch${Astro.url.pathname}` }
+    ]
+  },
+  ...(faqItems.length > 0 ? [{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faqItems.map(f => ({
+      "@type": "Question",
+      "name": f.question,
+      "acceptedAnswer": { "@type": "Answer", "text": f.answer }
+    }))
+  }] : [])
+];
+---
+
+<Base title={`${title} — Lawsupport.ch`} description={description} schema={schema}>
+
+  <div class="container">
+    <nav class="breadcrumb">
+      <a href="/">Home</a> <span>/</span>
+      <a href={categoryHref}>{category}</a> <span>/</span>
+      <span>{title}</span>
+    </nav>
+  </div>
+
+  <!-- Article Hero -->
+  <section class="article-hero">
+    <div class="container">
+      <div class="article-hero-grid">
+        <div class="article-hero-content">
+          <div class="article-meta">
+            <span class="article-date">{date} &bull; {readTime}</span>
+            <a href={categoryHref} class="article-category">{category}</a>
+          </div>
+          <h1>{title}</h1>
+          {description && <p class="article-desc">{description}</p>}
+        </div>
+        <div class="article-hero-image">
+          <div class="article-hero-placeholder"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Two-column: content + sidebar -->
+  <section class="article-section">
+    <div class="container">
+      <div class="article-layout">
+        <div class="article-content">
+          <slot />
+        </div>
+        <aside class="article-sidebar">
+          {tocItems.length > 0 && (
+            <div class="toc">
+              <h4>Table of Contents</h4>
+              <ul>
+                {tocItems.map(item => (
+                  <li><a href={`#${item.id}`}>{item.title}</a></li>
+                ))}
+              </ul>
+            </div>
+          )}
+          <div class="sidebar-contact">
+            <h4>Contact Us</h4>
+            <div class="sidebar-author">
+              <div class="sidebar-avatar"></div>
+              <div class="sidebar-author-info">
+                <p>Morgan Hartley</p>
+                <span>Senior Corporate Lawyer &amp; Partner</span>
+              </div>
+            </div>
+            <div class="sidebar-contact-links">
+              <a href="tel:+41445152590" aria-label="Phone">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07 19.5 19.5 0 01-6-6 19.79 19.79 0 01-3.07-8.67A2 2 0 014.11 2h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L8.09 9.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 16.92z"/></svg>
+              </a>
+              <a href="mailto:info@lawsupport.ch" aria-label="Email">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+              </a>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  {faqItems.length > 0 && (
+    <section class="section section-gray">
+      <div class="container">
+        <h2 class="section-title">FAQ</h2>
+        <div class="faq-list">
+          {faqItems.map(item => (
+            <div class="faq-item">
+              <button class="faq-question">{item.question}</button>
+              <div class="faq-answer">
+                <div class="faq-answer-inner">{item.answer}</div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- Related Articles -->
+  {relatedArticles.length > 0 && (
+    <section class="section">
+      <div class="container">
+        <h2 class="section-title">Related Articles</h2>
+        <div class="grid-3 related-grid">
+          {relatedArticles.map(article => (
+            <a href={article.href} class="card">
+              <div class="card-img" style="background:#ddd"></div>
+              <div class="card-body">
+                <h3>{article.title}</h3>
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+</Base>
+
+<style>
+  .article-hero {
+    padding: 24px 0 48px;
+    border-bottom: 4px solid var(--red);
+  }
+  .article-hero-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 32px;
+    align-items: center;
+  }
+  .article-meta {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 16px;
+    flex-wrap: wrap;
+  }
+  .article-date { font-size: 0.85rem; color: var(--gray-text); }
+  .article-category {
+    display: inline-block;
+    padding: 4px 12px;
+    background: var(--black);
+    color: var(--white);
+    border-radius: 4px;
+    font-size: 0.8rem;
+    font-weight: 500;
+  }
+  .article-desc {
+    color: var(--gray-text);
+    margin-top: 16px;
+    max-width: 600px;
+  }
+  .article-hero-placeholder {
+    width: 100%;
+    height: 280px;
+    background: #ddd;
+    border-radius: 12px;
+  }
+
+  .article-section { padding: 48px 0 80px; }
+  .article-layout {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 48px;
+  }
+
+  .sidebar-avatar {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    background: #ddd;
+  }
+
+  .faq-list { max-width: 800px; margin: 0 auto; }
+
+  @media (min-width: 768px) {
+    .article-hero-grid { grid-template-columns: 1fr 1fr; }
+  }
+
+  @media (min-width: 1024px) {
+    .article-layout { grid-template-columns: 1fr 320px; }
+    .article-sidebar { display: block; }
+  }
+</style>
+
+<script>
+  document.querySelectorAll('.faq-question').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const item = btn.parentElement;
+      item?.classList.toggle('active');
+    });
+  });
+
+  // TOC active state on scroll
+  const tocLinks = document.querySelectorAll('.toc a');
+  if (tocLinks.length > 0) {
+    const headings = Array.from(tocLinks).map(link => {
+      const id = link.getAttribute('href')?.slice(1);
+      return id ? document.getElementById(id) : null;
+    }).filter(Boolean) as HTMLElement[];
+
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          tocLinks.forEach(l => l.classList.remove('active'));
+          const active = document.querySelector(`.toc a[href="#${entry.target.id}"]`);
+          active?.classList.add('active');
+        }
+      });
+    }, { rootMargin: '-80px 0px -60% 0px' });
+
+    headings.forEach(h => observer.observe(h));
+  }
+</script>
