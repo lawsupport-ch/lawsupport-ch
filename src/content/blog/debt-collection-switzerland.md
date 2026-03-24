@@ -1,6 +1,6 @@
 ---
 title: "Debt Collection Switzerland (SchKG): Enforcement Process & Timeline (2026)"
-description: "How Swiss debt collection works under the SchKG: Betreibung, payment order, objection, bankruptcy. Steps, timeline, and practical guidance for creditors."
+description: "Swiss debt collection (SchKG): Betreibung, payment order, objection, and bankruptcy steps with timelines. Contact Lawsupport for creditor advice."
 date: "19.03.2026"
 category: "Company Formation"
 categoryHref: "/services/company-formation/"
@@ -22,6 +22,27 @@ tocItems:
     title: "Betreibungsregisterauszug: The Swiss Credit Record"
   - id: "need-advice-on-debt-enforcement-or-swiss-company-obligations"
     title: "Need Advice on Debt Enforcement or Swiss Company Obligations?"
+faqItems:
+  - question: "Can I file a Betreibung for any amount?"
+    answer: "Yes. There is no minimum amount. In practice, the fixed fees make very small claims inefficient."
+  - question: "What if the debtor is in another canton?"
+    answer: "Enforcement is always in the debtor's canton of domicile (registered office for companies). You file with the Betreibungsamt of that canton regardless of where you are located."
+  - question: "Does filing a Betreibung freeze the debtor's bank accounts immediately?"
+    answer: "No. A Betreibung alone does not freeze accounts. Account freezing only occurs after the Pfändung stage (for natural persons) when the Betreibungsamt actually seizes assets."
+  - question: "How long does a Betreibung stay on the register?"
+    answer: "Betreibungen remain on the register for 5 years if no payment was made. A paid Betreibung (withdrawn by the creditor) is removed from the register. Betreibungen where the objection was upheld do not appear on the extract after the Betreibung lapses."
+  - question: "What is the difference between Betreibung auf Pfändung and Betreibung auf Konkurs?"
+    answer: "Betreibung auf Pfändung is used against individuals and partnerships — the enforcement officer seizes specific assets. Betreibung auf Konkurs applies to incorporated companies such as an AG or GmbH and can lead to formal bankruptcy if unpaid. The type of debtor determines which track applies automatically."
+  - question: "Can a creditor enforce a foreign court judgment in Switzerland?"
+    answer: "Foreign court judgments can be enforced in Switzerland under the Private International Law Act (IPRG) or bilateral treaties, but recognition must first be obtained from a Swiss court. Once recognised, the judgment is enforced through the standard SchKG process. The recognition stage can add several months to the overall timeline."
+  - question: "What priority do I have as an unsecured creditor in Swiss bankruptcy?"
+    answer: "Unsecured creditors fall into Class 3 — the lowest priority class in Swiss bankruptcy. Class 1 covers employee salary claims (up to 4 months per employee) and Class 2 covers social insurance and certain rent claims. Class 3 creditors are paid only after Classes 1 and 2 are satisfied from available assets. In many Swiss bankruptcies, Class 3 creditors receive little or nothing."
+  - question: "How long does a formal Swiss bankruptcy (Konkurs) typically take?"
+    answer: "Simple bankruptcies with limited assets can close within 6–12 months. Complex cases involving multiple creditors, asset disputes, or international elements can take 2–3 years or more."
+  - question: "Is it possible to reach a settlement with a debtor after a Betreibung is filed?"
+    answer: "Yes. A creditor and debtor can settle at any stage of the enforcement process. If the creditor accepts payment or agrees to a payment plan, they can withdraw the Betreibung. A withdrawn and paid Betreibung is removed from the public register, making settlement genuinely worthwhile for the debtor."
+  - question: "What happens if a Swiss company receives a Betreibung but disputes the debt?"
+    answer: "The company files a Rechtsvorschlag (objection) within 10 days. This suspends the enforcement. The creditor must then either obtain a court ruling (Rechtsöffnung) or sue on the merits to resume the process. The objection itself requires no reason and costs nothing to file."
 ---
 
 # Debt Collection Switzerland (SchKG): Enforcement Process & Timeline (2026)

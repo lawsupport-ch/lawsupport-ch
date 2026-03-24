@@ -1,6 +1,6 @@
 ---
-title: "Bankruptcy Switzerland (Konkurs): Corporate Insolvency Process (2026)"
-description: "Swiss corporate bankruptcy (Konkurs): triggers, court process, creditor priority, director liability, and alternatives to formal insolvency. From Lawsupport, Zug."
+title: "Bankruptcy Switzerland: Corporate Insolvency Guide"
+description: "Swiss corporate bankruptcy (Konkurs): triggers, creditor priority, director liability, and alternatives. Free assessment from Lawsupport."
 date: "19.03.2026"
 category: "Company Formation"
 categoryHref: "/services/company-formation/"

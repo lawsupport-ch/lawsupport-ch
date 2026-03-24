@@ -1,5 +1,5 @@
 ---
-title: "AG Formation Switzerland (Aktiengesellschaft): Complete Guide (2026)"
+title: "AG Formation Switzerland: Aktiengesellschaft Guide"
 description: "Form a Swiss AG (Aktiengesellschaft) with CHF 100,000 capital. Shareholder anonymity, board requirements, notarisation steps. Expert guide by Lawsupport, Zug."
 date: "19.03.2026"
 category: "Company Formation"

@@ -22,6 +22,27 @@ tocItems:
     title: "Three Planning Scenarios"
   - id: "why-work-with-lawsupport"
     title: "Why Work With Lawsupport"
+faqItems:
+  - question: "What is the corporate tax rate in Switzerland in 2026?"
+    answer: "Switzerland does not have a single corporate tax rate. The federal corporate income tax is 8.5% on profit after tax (effective approximately 7.83%). Cantonal and communal taxes are added on top, giving combined effective rates ranging from approximately 11.8% (Zug) to approximately 20.7% (Bern). The rate that applies to your company depends on where it is registered and where it conducts its business."
+  - question: "How does the Swiss IP Box work?"
+    answer: "The Swiss IP Box allows cantonal and communal income tax on qualifying IP income to be reduced by up to 90%. It applies to income attributable to patents and patent-equivalent rights, and uses the OECD modified nexus approach. The IP Box is a cantonal-level regime available in all cantons since the 2020 tax reform."
+  - question: "Can a foreign company get a Swiss tax ruling before incorporating?"
+    answer: "Yes. A tax ruling application can be submitted on behalf of a planned but not yet incorporated entity. Cantonal authorities will review the proposed facts and issue a ruling that will bind them once the entity is established on the described terms."
+  - question: "What is the withholding tax on dividends from a Swiss company?"
+    answer: "The statutory Swiss withholding tax rate on dividends is 35%. For non-resident shareholders, the rate is reduced under double tax treaties: common treaty rates are 0% or 5% for qualifying corporate shareholders. Under the EU-Switzerland bilateral agreement, dividends to an EU parent with 25% or more participation may qualify for a full exemption."
+  - question: "Is Switzerland subject to OECD Pillar Two minimum tax?"
+    answer: "Yes, from 2024. It applies to Swiss entities in multinational groups with consolidated global revenue exceeding EUR 750 million per year. For companies below that threshold, Pillar Two does not apply."
+  - question: "What taxes does a Swiss holding company pay?"
+    answer: "A Swiss holding company whose income consists primarily of qualifying dividends and capital gains from participations of 10% or more benefits from the participation exemption, reducing effective corporate income tax toward zero on those receipts. It will still be subject to a cantonal capital tax on its net equity and federal corporate income tax on any income not covered by the participation exemption."
+  - question: "What is the Swiss participation exemption?"
+    answer: "The participation exemption (Beteiligungsabzug) applies at both federal and cantonal levels. It covers dividend income from participations of 10% or more and capital gains on disposals of participations of 10% or more held for at least one year. For a pure holding company, the effective rate on qualifying receipts can approach zero."
+  - question: "How much is Swiss VAT in 2026?"
+    answer: "Switzerland's standard VAT rate is 8.1%. A reduced rate of 2.6% applies to food, books, newspapers, and medicines. The accommodation rate is 3.8%. Businesses must register when worldwide taxable turnover exceeds CHF 100,000 per calendar year."
+  - question: "What is stamp duty (Emissionsabgabe) in Switzerland?"
+    answer: "Stamp duty is a one-time federal levy of 1% on equity contributions exceeding CHF 1 million. Contributions up to CHF 1 million are exempt. Qualifying restructurings may be exempt, and careful structuring of initial capitalisation can eliminate this charge entirely."
+  - question: "How does Swiss capital tax (Kapitalsteuer) work?"
+    answer: "Capital tax is an annual cantonal levy on the company's net equity. Rates range from approximately 0.001% to 0.5% depending on the canton. Several cantons allow offset of capital tax against income tax, making the net capital tax burden close to zero for profitable companies."
 ---
 
 # Corporate Tax Switzerland: Rates, Cantons & Planning (2026)

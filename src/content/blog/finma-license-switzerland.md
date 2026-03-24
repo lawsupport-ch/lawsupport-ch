@@ -1,6 +1,6 @@
 ---
-title: "FINMA License Switzerland: Financial Services Licensing Guide (2026)"
-description: "FINMA licensing in Switzerland: banking, securities dealer, asset manager, fund manager, FinTech, and crypto licences. Requirements and process from Lawsupport, Zug."
+title: "FINMA License Switzerland: Licensing Guide (2026)"
+description: "FINMA licensing in Switzerland: banking, securities, asset manager, FinTech, and crypto licences. Requirements and process."
 date: "19.03.2026"
 category: "Licensing & Permits"
 categoryHref: "/services/financial-licensing/"
@@ -28,7 +28,7 @@ tocItems:
     title: "Get Expert Advice on Your FINMA Licence Application"
 ---
 
-# FINMA License Switzerland: Financial Services Licensing Guide (2026)
+# FINMA License Switzerland: Licensing Guide (2026)
 
 The Swiss Financial Market Supervisory Authority (FINMA) is Switzerland's integrated financial regulator, responsible for licensing and supervising banks, securities dealers, asset managers, collective investment schemes, insurance companies, and other financial intermediaries. A FINMA license Switzerland is a prerequisite for conducting regulated financial services in Switzerland. This guide explains the main FINMA licence categories, requirements, and the application process for 2026.
 
@@ -66,7 +66,7 @@ A full banking licence is required for any entity that:
 - FINMA-approved auditor (Prüfgesellschaft)
 - Swiss domicile
 
-**Process:** Application to FINMA with a comprehensive business plan, capital proof, governance documentation, and personal questionnaires for all key persons. FINMA typically takes 12–24 months for a full banking licence.
+**Process:** Application to FINMA with a detailed business plan, capital proof, governance documentation, and personal questionnaires for all key persons. FINMA typically takes 12–24 months for a full banking licence.
 
 **Cost:** FINMA fees are CHF 10,000–100,000+ depending on complexity. Legal and advisory costs for a banking licence application: CHF 500,000–2,000,000.
 

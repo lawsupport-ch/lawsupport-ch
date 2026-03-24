@@ -1,6 +1,6 @@
 ---
 title: "Crypto Exchange Licence Switzerland: FINMA Requirements (2026)"
-description: "How to licence a crypto exchange in Switzerland: FINMA requirements, FinTech licence vs banking licence, VQF/SRO AML requirements, DLT Act, and VASP registration."
+description: "Crypto exchange licence Switzerland: FINMA FinTech vs banking licence, VQF/SRO membership, AML rules, DLT Act. Contact Lawsupport for expert guidance."
 date: "19.03.2026"
 category: "Licensing & Permits"
 categoryHref: "/services/financial-licensing/"
@@ -24,6 +24,27 @@ tocItems:
     title: "Cost Estimates"
   - id: "ready-to-start-your-swiss-crypto-exchange-application"
     title: "Ready to Start Your Swiss Crypto Exchange Application?"
+faqItems:
+  - question: "Can a foreign crypto exchange operate in Switzerland without a Swiss licence?"
+    answer: "Cross-border provision of crypto services to Swiss clients without a Swiss licence is possible in limited circumstances, but FINMA takes a restrictive view. Exchanges actively targeting Swiss clients without Swiss authorisation risk enforcement action."
+  - question: "Is Switzerland better than other jurisdictions for crypto exchanges?"
+    answer: "Switzerland's credibility with institutional clients, clear legal framework, and DLT Act innovations make it a leading jurisdiction. Competitors include Liechtenstein (TVTG framework), Cayman Islands (VASP), and UAE (VARA in Dubai). Switzerland is preferred where EU/global institutional client credibility is essential."
+  - question: "How long does VQF SRO membership take?"
+    answer: "VQF membership can be obtained in 4–8 weeks, allowing a crypto business to operate in AML-compliant mode while the FINMA FinTech licence application is in progress."
+  - question: "What is the minimum capital for a FinTech licence in Switzerland?"
+    answer: "The minimum paid-up capital for a FinTech licence under Art. 1b of the Banking Act is CHF 300,000. This must be unencumbered and held throughout the licence period."
+  - question: "What happens if my crypto exchange exceeds CHF 100 million in client deposits?"
+    answer: "Once client deposits exceed CHF 100 million, you must migrate from a FinTech licence to a full banking licence. This is a significant regulatory step requiring substantially higher capital, full banking governance, and a longer FINMA review process."
+  - question: "Does the Travel Rule apply to all crypto transfers in Switzerland?"
+    answer: "Yes. FINMA enforces the FATF Travel Rule for all crypto transfers above CHF 1,000. Both originator and beneficiary data must be transmitted with the transfer. This applies to VASP-to-VASP transfers and requires documented procedures for unhosted wallet transactions."
+  - question: "Can a Swiss crypto exchange hold client fiat currency as well as crypto?"
+    answer: "Yes. Under the FinTech licence, a Swiss crypto exchange can hold both fiat and crypto assets for clients, subject to the CHF 100 million aggregate cap and the prohibition on investing or lending those funds."
+  - question: "What SRO should a new crypto exchange join in Switzerland?"
+    answer: "VQF is the principal SRO for Swiss crypto businesses. PolyReg is a viable alternative. VQF membership is widely recognised by Swiss banks and materially assists with corporate account opening."
+  - question: "How are crypto assets protected if a Swiss custodian goes bankrupt?"
+    answer: "Under the DLT Act amendments to the Banking Act, crypto assets held in custody are segregated from the custodian's bankruptcy estate. Client crypto assets are not available to general creditors in insolvency proceedings."
+  - question: "Is Zug the best location for a Swiss crypto exchange?"
+    answer: "Zug is the preferred location. It has the lowest effective corporate tax rate in Switzerland (approximately 11.8%), the deepest crypto ecosystem in the country, cantonal tax authority expertise in digital assets, and a concentration of compliance specialists, notaries, and crypto-native banking relationships."
 ---
 
 # Crypto Exchange Licence Switzerland: FINMA Requirements (2026)

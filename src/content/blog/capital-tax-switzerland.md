@@ -1,5 +1,5 @@
 ---
-title: "Capital Tax Switzerland (Kapitalsteuer): Rates, Calculation & Planning (2026)"
+title: "Capital Tax Switzerland: Rates & Calculation (2026)"
 description: "Swiss cantonal capital tax (Kapitalsteuer) on company equity: how it's calculated, current cantonal rates, and planning approaches. From Lawsupport, Zug."
 date: "19.03.2026"
 category: "Tax & Accounting"
@@ -28,7 +28,7 @@ tocItems:
     title: "Further Reading"
 ---
 
-# Capital Tax Switzerland (Kapitalsteuer): Rates, Calculation & Planning (2026)
+# Capital Tax Switzerland: Rates & Calculation (2026)
 
 Switzerland levies a **cantonal capital tax** (Kapitalsteuer) on Swiss companies in addition to corporate income tax. This tax is assessed on the company's net equity (taxable capital) rather than its profits — meaning it applies even in years when the company earns no taxable income. For holding and finance structures with significant balance sheet capital, capital tax is a recurring cost that demands careful cantonal selection and structural planning.
 

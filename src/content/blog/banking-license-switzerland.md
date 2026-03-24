@@ -1,6 +1,6 @@
 ---
-title: "Swiss Banking Licence: FINMA Requirements & Application Process (2026)"
-description: "Obtain a Swiss banking licence from FINMA: minimum capital CHF 10M, organisational requirements, fit & proper criteria, and 12–24 month timeline. Lawsupport, Zug."
+title: "Swiss Banking Licence: FINMA Requirements (2026)"
+description: "Swiss banking licence from FINMA: CHF 10M capital, fit & proper criteria, 12-24 month timeline. Get expert guidance from Lawsupport, Zug."
 date: "19.03.2026"
 category: "Licensing & Permits"
 categoryHref: "/services/financial-licensing/"

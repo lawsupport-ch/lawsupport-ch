@@ -1,6 +1,6 @@
 ---
 title: "Cost of Living Switzerland: Realistic Numbers for 2026"
-description: "Realistic cost of living in Switzerland for 2026: rent, healthcare, groceries, tax, childcare, and transport in Zug, Zurich, and Geneva. Actual CHF figures."
+description: "Cost of living Switzerland 2026: rent, health insurance, groceries, tax in Zug, Zurich, Geneva. Real CHF figures. Plan your move with Lawsupport."
 date: "19.03.2026"
 category: "Immigration"
 categoryHref: "/blog/"
@@ -24,6 +24,27 @@ tocItems:
     title: "Healthcare Out-of-Pocket"
   - id: "summary-annual-income-required"
     title: "Summary: Annual Income Required"
+faqItems:
+  - question: "How much does it cost to live in Switzerland per month?"
+    answer: "A professional couple with one child should budget CHF 8,000–11,500 per month in Zug, or CHF 9,000–14,000 in Zurich and Geneva, before income tax. These figures cover rent, health insurance, groceries, transport, and childcare."
+  - question: "Is Zug cheaper than Zurich to live in?"
+    answer: "Rent in Zug is typically 10–20% lower than in Zurich city, and income tax rates are significantly lower. For high earners, the tax difference alone can exceed CHF 20,000 per year. Zug is the more financially efficient choice for internationally mobile professionals and business owners."
+  - question: "How much is health insurance in Switzerland per month?"
+    answer: "A single adult pays approximately CHF 300–700 per month for basic health insurance, depending on the canton, insurer, and chosen deductible. A family of two adults and one child typically pays CHF 1,200–1,800 per month in basic premiums."
+  - question: "Do I need Swiss health insurance when I move to Switzerland?"
+    answer: "Yes. Health insurance (Krankenkasse) is mandatory for all Swiss residents within three months of arrival. You purchase it individually — employers do not provide group health plans. You must register with an insurer and choose your annual deductible (CHF 300–2,500)."
+  - question: "What is the Swiss reference rent (Referenzzinssatz)?"
+    answer: "The reference interest rate is a Swiss national mortgage reference rate. Swiss residential rents are partially linked to this rate — when it changes, landlords can adjust rents by approximately 3% per quarter-point move. Tenants have the right to request a rent reduction when the rate falls."
+  - question: "How much do international schools cost in Switzerland?"
+    answer: "International school fees range from CHF 30,000–50,000 per year per child. Major institutions include ISZL (Zug and Luzern), ZIS (Zurich), and Geneva English School. Public schools are free for all residents with valid permits."
+  - question: "What is the Swiss GA travel pass?"
+    answer: "The GA (General Abonnement) is an annual pass for unlimited travel on all SBB trains, buses, and boats. The 2026 second-class price is CHF 3,860 per year (approximately CHF 322 per month). Most residents use the Halbtax half-fare card (CHF 190 per year) instead."
+  - question: "How does the cost of living in Switzerland compare to Germany or the UK?"
+    answer: "Switzerland is approximately 60–80% more expensive than Germany and approximately 40–60% more expensive than the UK. However, Swiss salaries are commensurately higher, and the tax burden in low-tax cantons such as Zug is lower than in most Western European countries."
+  - question: "Are there income-related subsidies for health insurance in Switzerland?"
+    answer: "Yes. Approximately 30% of the Swiss population receives cantonal premium subsidies (Prämienverbilligungen). Eligibility thresholds vary by canton."
+  - question: "What gross income do I need to live comfortably in Switzerland?"
+    answer: "A professional family of three in Zug needs approximately CHF 200,000–300,000 gross household income for a comfortable lifestyle with housing and international school. Zurich and Geneva require approximately 15–25% more for comparable standards due to higher rent and tax."
 ---
 
 # Cost of Living Switzerland: Realistic Numbers for 2026

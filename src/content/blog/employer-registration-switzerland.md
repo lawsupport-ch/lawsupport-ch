@@ -1,6 +1,6 @@
 ---
-title: "Employer Registration Switzerland: AHV, VAT & Social Insurance (2026)"
-description: "Registering as an employer in Switzerland: AHV compensation office, accident insurance, pension fund, VAT registration. Steps, timeline, and ongoing obligations."
+title: "Employer Registration Switzerland: AHV & VAT (2026)"
+description: "Registering as an employer in Switzerland: AHV, accident insurance, pension fund, VAT. Steps, timelines, and ongoing obligations."
 date: "19.03.2026"
 category: "Tax & Accounting"
 categoryHref: "/blog/"
@@ -26,7 +26,7 @@ tocItems:
     title: "Request a Free Assessment"
 ---
 
-# Employer Registration Switzerland: AHV, VAT & Social Insurance (2026)
+# Employer Registration Switzerland: AHV & VAT (2026)
 
 Before hiring the first employee in Switzerland, a company must complete employer registration with several authorities. Failure to register correctly results in retroactive liability for unpaid social insurance contributions, interest at 5% per annum, and penalties. This guide covers every mandatory registration step — AHV, accident insurance, occupational pension, sickness benefits, source tax, and VAT — with timelines and contribution rates for 2026.
 

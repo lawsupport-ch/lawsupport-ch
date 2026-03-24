@@ -1,6 +1,6 @@
 ---
-title: "Company Liquidation Switzerland: Process, Costs & Timeline (2026)"
-description: "How to liquidate a Swiss GmbH or AG in 2026. Voluntary dissolution process, Commercial Register deletion, tax clearance, timeline, and costs. From Lawsupport, Zug."
+title: "Company Liquidation Switzerland: Process & Costs (2026)"
+description: "How to liquidate a Swiss GmbH or AG. Voluntary dissolution, tax clearance, timeline, and costs explained. Request a free assessment from Lawsupport."
 date: "19.03.2026"
 category: "Company Formation"
 categoryHref: "/services/company-formation/"
@@ -20,9 +20,20 @@ tocItems:
     title: "Alternatives to Full Liquidation"
   - id: "what-lawsupport-handles"
     title: "What Lawsupport Handles"
+faqItems:
+  - question: "Can I just stop using my Swiss company without formally liquidating it?"
+    answer: "No. A dormant Swiss company that is still registered in the Commercial Register continues to have legal obligations: annual tax returns must be filed, social insurance must be reported, and the company remains a legal entity with potential liability. Abandoning a company without formal liquidation does not make it disappear — and can result in outstanding tax liabilities and potential director liability for non-compliance."
+  - question: "What if my Swiss company has no assets?"
+    answer: "Even a company with zero assets must go through the formal dissolution process. The steps are the same: resolution, notarial deed, creditor notice, tax clearance, deletion. The absence of assets makes the process simpler (no distribution to organise) but does not shorten it significantly — the 3-month creditor notice period still applies."
+  - question: "Can I liquidate a Swiss company remotely?"
+    answer: "Yes. The dissolution deed can be executed via power of attorney — the shareholder(s) grant a Swiss representative (such as Lawsupport) authority to execute the notarial deed on their behalf. The PoA must be notarised and apostilled in the shareholder's home country."
+  - question: "Does the existing director have to be the liquidator?"
+    answer: "By default, existing directors become liquidators at dissolution. It is also possible to appoint a separate liquidator (e.g., Lawsupport) at the dissolution stage. This is common where the existing director is abroad or unavailable for Swiss-based liquidation tasks."
+  - question: "How is the 35% withholding tax on liquidation distributions handled?"
+    answer: "When the company distributes assets to shareholders upon liquidation, any amount above the nominal share capital is treated as a taxable dividend. The company must withhold 35% of that amount and pay it to the Swiss Federal Tax Administration (ESTV). Shareholders resident in treaty countries can apply for a refund of all or part of the withholding tax via their local tax authority."
 ---
 
-# Company Liquidation Switzerland: Process, Costs & Timeline (2026)
+# Company Liquidation Switzerland: Process & Costs (2026)
 
 Liquidating a Swiss company — whether an AG or GmbH — is a structured legal process governed by the Swiss Code of Obligations (CO/OR). It cannot be done informally: the company must be formally dissolved, its assets distributed or applied to liabilities, and its entry deleted from the Commercial Register. This guide explains the process, realistic timelines, and what to expect in terms of costs.
 

@@ -1,5 +1,5 @@
 ---
-title: "Cantonal Banks Switzerland (Kantonalbanken): Complete List & Guide (2026)"
+title: "Cantonal Banks Switzerland: Full List & Guide (2026)"
 description: "Switzerland has 24 cantonal banks — state-owned, state-guaranteed, regionally focused. Full list, key banks, and how to open a corporate account."
 date: "19.03.2026"
 category: "Banking & Finance"
@@ -18,7 +18,7 @@ tocItems:
     title: "Cantonal Banks vs. Private Banks"
 ---
 
-# Cantonal Banks Switzerland (Kantonalbanken): Complete List & Guide (2026)
+# Cantonal Banks Switzerland: Full List & Guide (2026)
 
 Switzerland has 24 cantonal banks — one per canton. State-owned or majority state-owned, most carry a cantonal government guarantee on deposits. They form the backbone of Swiss regional banking, providing retail accounts, mortgages, SME lending, and — increasingly — corporate banking services for internationally owned companies. This guide explains what cantonal banks are, lists all 24, and covers their relevance for foreign businesses.
 

@@ -1,5 +1,5 @@
 ---
-title: "Betreibungsamt Switzerland: Debt Enforcement Offices by Canton (2026)"
+title: "Betreibungsamt Switzerland: Offices by Canton"
 description: "Find the Betreibungsamt for every Swiss canton, request a Betreibungsregisterauszug, and understand how SchKG debt enforcement works step by step."
 date: "19.03.2026"
 category: "Swiss Legal System"

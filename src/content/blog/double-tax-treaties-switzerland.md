@@ -1,5 +1,5 @@
 ---
-title: "Double Tax Treaties Switzerland: How They Work & Key Treaty Rates (2026)"
+title: "Double Tax Treaties Switzerland: Key Rates (2026)"
 description: "Switzerland's 100+ double tax treaties explained: withholding rates, LOB, PPT, PE rules, and relief procedures. Practitioner guide from Lawsupport, Zug."
 date: "19.03.2026"
 category: "Tax & Accounting"
@@ -26,7 +26,7 @@ tocItems:
     title: "How Lawsupport Advises on Swiss DTA Planning"
 ---
 
-# Double Tax Treaties Switzerland: How They Work & Key Treaty Rates (2026)
+# Double Tax Treaties Switzerland: Key Rates (2026)
 
 Switzerland's double tax treaties directly determine how much withholding tax is deducted at source on dividends, interest, and royalties paid to foreign recipients — and whether a foreign business has a taxable presence in Switzerland. With over 100 double tax agreements (DTAs) currently in force, Switzerland operates one of the most extensive treaty networks in the world. This guide sets out the mechanics, the key treaty rates, and the anti-avoidance rules that practitioners and clients must understand in 2026.
 

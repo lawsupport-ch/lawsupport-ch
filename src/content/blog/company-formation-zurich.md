@@ -1,6 +1,6 @@
 ---
-title: "Company Formation Zurich: Register a Company in Switzerland's Business Capital (2026)"
-description: "Complete guide to company formation in Zurich. AG and GmbH registration, Handelsregisteramt Zürich, corporate tax rates, and an honest Zurich vs Zug comparison."
+title: "Company Formation Zurich: Full Guide (2026)"
+description: "Form a company in Zurich: AG and GmbH registration, tax rates, and honest Zurich vs Zug comparison. Free assessment from Lawsupport."
 date: "19.03.2026"
 category: "Company Formation"
 categoryHref: "/services/company-formation/"
@@ -30,9 +30,20 @@ tocItems:
     title: "Real-World Scenario: Tech Startup Evaluates Zurich vs. Zug"
   - id: "how-lawsupport-can-help"
     title: "How Lawsupport Can Help"
+faqItems:
+  - question: "Can I register a company in Zurich if I do not live in Switzerland?"
+    answer: "Yes. Non-residents can own and direct Swiss companies. The legal requirement is that at least one person authorised to represent the company (a director with signatory power) is resident in Switzerland."
+  - question: "How long does it take to register a company in Zurich?"
+    answer: "From the date of the notarial deed, the Handelsregisteramt Zürich typically processes standard formations in 10–20 business days. Pre-formation preparation — name clearance, KYC, share capital deposit, power of attorney — typically takes 2–4 weeks depending on how quickly clients provide documentation. Total timeline from engagement to registered company: typically 4–8 weeks."
+  - question: "What is the minimum capital required to form a company in Zurich?"
+    answer: "For a GmbH: CHF 20,000, fully paid in at formation. For an AG: CHF 100,000 minimum, with at least CHF 50,000 paid in at formation (the remainder can be paid in within a period set in the articles). These are Swiss federal requirements and apply in every canton."
+  - question: "Is the corporate tax rate in Zurich really that much higher than Zug?"
+    answer: "Yes. The effective combined rate (federal + cantonal + communal) in Zurich city is approximately 19.7% in 2026. In Zug, the equivalent rate is approximately 11.8%."
+  - question: "Can I register my company in Zug but have my office and employees in Zurich?"
+    answer: "Yes, entirely. This is a common and legally straightforward structure. Your company's statutory seat, registered address, and Commercial Register entry are in Zug; your operational office, employees, and client-facing presence are in Zurich."
 ---
 
-# Company Formation Zurich: Register a Company in Switzerland's Business Capital (2026)
+# Company Formation Zurich: Full Guide (2026)
 
 Zurich is Switzerland's largest city, its undisputed financial capital, and one of the most recognisable business addresses in the world. For international entrepreneurs asking where to incorporate in Switzerland, Zurich is often the first name that comes to mind — and in many cases, it is the right answer.
 
@@ -287,47 +298,47 @@ We can form your company in Zurich if that is the right choice. We can form it i
 
 ## Frequently Asked Questions
 
-### Can I register a company in Zurich if I do not live in Switzerland?
+**Can I register a company in Zurich if I do not live in Switzerland?**
 
 Yes. Non-residents can own and direct Swiss companies. The legal requirement is that at least one person authorised to represent the company (a director with signatory power) is resident in Switzerland. If you do not have a Swiss-resident co-founder, you will need a nominee director. We provide Swiss-resident nominee directors as part of our formation service. See our [nominee director services](/blog/nominee-director-switzerland/) for details.
 
-### How long does it take to register a company in Zurich?
+**How long does it take to register a company in Zurich?**
 
 From the date of the notarial deed, the Handelsregisteramt Zürich typically processes standard formations in 10–20 business days. Pre-formation preparation — name clearance, KYC, share capital deposit, power of attorney — typically takes 2–4 weeks depending on how quickly clients provide documentation. Total timeline from engagement to registered company: typically 4–8 weeks.
 
-### What is the minimum capital required to form a company in Zurich?
+**What is the minimum capital required to form a company in Zurich?**
 
 For a GmbH: CHF 20,000, fully paid in at formation. For an AG: CHF 100,000 minimum, with at least CHF 50,000 paid in at formation (the remainder can be paid in within a period set in the articles). These are Swiss federal requirements and apply in every canton.
 
-### Is the corporate tax rate in Zurich really that much higher than Zug?
+**Is the corporate tax rate in Zurich really that much higher than Zug?**
 
 Yes. The effective combined rate (federal + cantonal + communal) in Zurich city is approximately 19.7% in 2026. In Zug, the equivalent rate is approximately 11.8%. The difference is real, material, and consistent year over year. Zurich's tax rate is one of the highest among Swiss cantons; Zug's is one of the lowest. For a profitable company, this difference accumulates significantly over time.
 
-### Can I register my company in Zug but have my office and employees in Zurich?
+**Can I register my company in Zug but have my office and employees in Zurich?**
 
 Yes, entirely. This is a common and legally straightforward structure. Your company's statutory seat, registered address, and Commercial Register entry are in Zug; your operational office, employees, and client-facing presence are in Zurich. You pay cantonal taxes in Zug. There is no prohibition on this arrangement under Swiss law.
 
-### Does a company formed in Zurich need to be audited?
+**Does a company formed in Zurich need to be audited?**
 
 Swiss audit requirements depend on size and structure, not canton. A GmbH with annual turnover below CHF 500,000 and fewer than 10 full-time employees can generally opt out of auditing entirely (ordinary opting-out). Larger companies face limited or ordinary audit requirements. The rules are the same whether the company is registered in Zurich or elsewhere in Switzerland.
 
-### What documents do I need to provide to form a company in Zurich?
+**What documents do I need to provide to form a company in Zurich?**
 
 All founders, directors, and beneficial owners must provide a certified copy of their passport or national identity document, proof of residential address (a recent utility bill or bank statement), and documentation explaining the source of the funds used as share capital. For corporate shareholders, certified constitutional documents and beneficial ownership declarations are required.
 
-### Can a foreign company form a subsidiary in Zurich?
+**Can a foreign company form a subsidiary in Zurich?**
 
 Yes. A foreign company can form a fully owned Swiss subsidiary (AG or GmbH) in Zurich or any Swiss canton. Alternatively, it can open a Swiss branch office (Zweigniederlassung) without forming a new legal entity. The branch must also be registered in the Commercial Register. See our guide to [branch offices in Switzerland](/blog/branch-office-switzerland/).
 
-### Is it difficult to open a Swiss bank account for a Zurich-registered company?
+**Is it difficult to open a Swiss bank account for a Zurich-registered company?**
 
 Swiss corporate bank account opening has become more documentation-intensive since 2015, but it is not impossible. The key factors are the complexity of the ownership structure and the nature of the business activity. Companies with straightforward structures and standard business activities typically open accounts without difficulty. KYC documentation must be thorough and complete. We support clients through the banking introduction process.
 
-### What taxes does a Zurich company pay beyond corporate income tax?
+**What taxes does a Zurich company pay beyond corporate income tax?**
 
 In addition to corporate income tax (approximately 19.7% effective in Zurich city), Swiss companies typically face: cantonal capital tax (on equity), employer AHV/ALV contributions (social insurance), VAT at 8.1% standard rate on turnover above CHF 100,000, and withholding tax at 35% on dividend distributions to shareholders (refundable to treaty-resident shareholders). See our [VAT registration guide](/blog/vat-registration-switzerland/) for more detail.
 
-### How does company formation in Zurich compare to other European cities?
+**How does company formation in Zurich compare to other European cities?**
 
 Zurich is more expensive and more heavily taxed than some European locations (notably Ireland, Luxembourg, and Malta for corporate structures), but Switzerland offers advantages that offset this: political and legal stability, the Swiss franc, strong banking, and an extensive double tax treaty network. The Swiss network covers over 100 countries, including the US, UK, Germany, and most of Asia. See the <a href="https://www.estv.admin.ch" target="_blank" rel="nofollow noopener">Swiss federal tax authority treaty list</a> for the full list.
 

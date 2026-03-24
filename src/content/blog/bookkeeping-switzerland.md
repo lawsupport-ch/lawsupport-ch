@@ -1,6 +1,6 @@
 ---
-title: "Bookkeeping Switzerland: Obligations & Requirements for Swiss Companies (2026)"
-description: "Bookkeeping obligations for Swiss companies under Art. 957–963 CO: who must keep books, double-entry rules, 10-year retention, digital records, and outsourcing costs."
+title: "Bookkeeping Switzerland: Rules & Requirements (2026)"
+description: "Bookkeeping rules for Swiss companies under Art. 957–963 CO: who must keep books, double-entry rules, retention, and outsourcing costs. Get expert help."
 date: "19.03.2026"
 category: "Tax & Accounting"
 categoryHref: "/blog/"
@@ -40,7 +40,7 @@ tocItems:
 
 <!-- SCHEMA: Article -->
 <!-- schema_type: Article -->
-<!-- schema_headline: Bookkeeping Switzerland: Obligations & Requirements for Swiss Companies (2026) -->
+<!-- schema_headline: Bookkeeping Switzerland: Rules & Requirements (2026) -->
 <!-- schema_author: Morgan Hartley -->
 <!-- schema_datePublished: 2026-03-19 -->
 <!-- schema_dateModified: 2026-03-22 -->
@@ -54,7 +54,7 @@ tocItems:
 
 <!-- Suggested alt: "Bookkeeping obligations for Swiss companies — Art. 957 Code of Obligations" -->
 
-# Bookkeeping Switzerland: Obligations & Requirements for Swiss Companies (2026)
+# Bookkeeping Switzerland: Rules & Requirements (2026)
 
 Every company operating in Switzerland must maintain proper accounting records. There is no exception for foreign-owned entities, dormant companies, or startups with minimal activity. If your company is registered in the Swiss commercial register, your bookkeeping obligations under <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_32/chap_1" target="_blank" rel="nofollow noopener">Articles 957 to 963 of the Swiss Code of Obligations (CO)</a> apply from the date of incorporation.
 

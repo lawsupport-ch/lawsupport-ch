@@ -1,6 +1,6 @@
 ---
-title: "Swiss Cooperative (Genossenschaft): Formation, Structure & Uses (2026)"
-description: "Swiss Genossenschaft (cooperative): formation, member liability, governance, and when it is the right structure for housing, agricultural, or commercial uses."
+title: "Swiss Cooperative (Genossenschaft): Formation Guide (2026)"
+description: "Swiss Genossenschaft: formation steps, member liability, governance, and when a cooperative is right for you. Get expert advice from Lawsupport."
 date: "19.03.2026"
 category: "Company Formation"
 categoryHref: "/services/company-formation/"
@@ -26,9 +26,20 @@ tocItems:
     title: "Dissolution"
   - id: "work-with-lawsupport"
     title: "Work with Lawsupport"
+faqItems:
+  - question: "Can a single company be the sole member of a Swiss cooperative?"
+    answer: "No. A cooperative requires a minimum of seven members at formation. A sole-member cooperative is not permissible under Swiss law."
+  - question: "Is a cooperative right for a tech startup or investor-backed business?"
+    answer: "Rarely. The one-member-one-vote rule makes it structurally incompatible with investor-driven governance, where capital providers expect voting rights proportional to their investment. Investor-backed ventures should look at the AG, which allows flexible share class structures."
+  - question: "Do housing cooperative members own their apartment?"
+    answer: "No. Members own a share in the cooperative, not the apartment itself. The cooperative owns the property and grants the member the right to occupy the apartment under a tenancy agreement."
+  - question: "How many members does a Swiss cooperative need?"
+    answer: "A minimum of seven members is required at the time of formation. After formation, the membership can in theory fall below seven — Swiss law does not automatically dissolve a cooperative that falls below this number after registration — but the articles typically address minimum membership thresholds."
+  - question: "Can a foreign national be a member or board member of a Swiss cooperative?"
+    answer: "Yes. There is no Swiss nationality or residency requirement for cooperative members. For board members (Verwaltungsrat), Swiss law does not impose a residency requirement for cooperatives, unlike the Swiss resident director rule that applies to AG and GmbH formations."
 ---
 
-# Swiss Cooperative (Genossenschaft): Formation, Structure & Uses (2026)
+# Swiss Cooperative (Genossenschaft): Formation Guide (2026)
 
 The Swiss cooperative — *Genossenschaft* in German, *Société coopérative* in French — is one of Switzerland's most distinctive legal entity types and, in sheer economic scale, one of its most significant. Migros and Coop, two of the country's largest companies, are cooperatives. So is Raiffeisen, one of Switzerland's three systemically important banks. Yet for most founders and business owners exploring Swiss entity types, the cooperative is poorly understood and rarely considered.
 

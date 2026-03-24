@@ -1,6 +1,6 @@
 ---
-title: "Branch Office Switzerland (Zweigniederlassung): Registration & Requirements (2026)"
-description: "Register a branch office (Zweigniederlassung) in Switzerland: requirements, costs, timelines, tax treatment, and when a subsidiary is the better choice. Expert guide by Lawsupport, Zug."
+title: "Branch Office Switzerland: Registration & Requirements"
+description: "Register a branch office (Zweigniederlassung) in Switzerland: requirements, costs, timelines, tax rules, and when a subsidiary is better. Free assessment."
 date: "19.03.2026"
 category: "Company Formation"
 categoryHref: "/services/company-formation/"
@@ -24,7 +24,7 @@ tocItems:
     title: "Register Your Swiss Branch Office"
 ---
 
-# Branch Office Switzerland (Zweigniederlassung): Registration & Requirements (2026)
+# Branch Office Switzerland: Registration & Requirements
 
 A Swiss branch office (Zweigniederlassung) lets a foreign company establish a legally registered presence in Switzerland without forming a new Swiss legal entity. The branch is an extension of the foreign parent — not a separate legal person — and the parent remains fully liable for the branch's obligations. Under <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en" target="_blank" rel="nofollow noopener">Article 935 of the Swiss Code of Obligations (CO)</a>, every branch of a foreign company must be entered in the Swiss Commercial Register. This guide sets out when a branch office makes sense, how to register one, what it costs, and when a GmbH or AG subsidiary is the better choice.
 

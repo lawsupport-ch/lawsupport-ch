@@ -1,6 +1,6 @@
 ---
-title: "Copyright Law Switzerland: Protection, Duration & Enforcement (2026)"
-description: "Swiss copyright law (URG/LDA): what is protected, how long, moral rights, transfer of rights, software copyright, and how to enforce Swiss copyright. Lawsupport, Zug."
+title: "Copyright Law Switzerland: Protection & Enforcement (2026)"
+description: "Swiss copyright law (URG/LDA): what is protected, moral rights, software copyright, and enforcement. Get expert IP advice from Lawsupport, Zug."
 date: "19.03.2026"
 category: "IP & Commercial Law"
 categoryHref: "/blog/"
@@ -36,9 +36,20 @@ tocItems:
     title: "Contact Lawsupport for Copyright Advice"
   - id: "related-topics"
     title: "Related Topics"
+faqItems:
+  - question: "Does Swiss copyright need to be registered?"
+    answer: "No. Protection arises automatically at the moment of creation. There is no Swiss copyright register and no registration system."
+  - question: "Can a company own copyright in Switzerland?"
+    answer: "A company can hold copyright through assignment or, in the case of software, through the Art. 17 URG employer rule. But copyright can only originate with a human author."
+  - question: "What should I do if someone infringes my Swiss copyright?"
+    answer: "The first practical step is a formal cease-and-desist letter (Unterlassungsschreiben) to the infringer, documenting the infringement and demanding they stop. If that fails, you can apply to the civil courts for an interim injunction — which can be granted on an expedited basis if you can show urgency and a prima facie case. For commercial-scale infringement, a criminal complaint to the cantonal prosecutor is an additional option."
+  - question: "How does Swiss copyright law apply to AI-generated content?"
+    answer: "Swiss law, like most jurisdictions, does not currently recognise AI as an author. Copyright requires a human author who exercises creative judgment. Output generated purely by an AI tool — without meaningful human creative input into the specific expression — does not attract copyright protection under the URG."
+  - question: "What happens if I commission a logo or website design from a freelancer in Switzerland?"
+    answer: "Under Swiss law, copyright in a commissioned design remains with the freelancer (the human creator) unless there is a written assignment. A contract that says \"all work product belongs to the client\" is sufficient if signed before or at the time of creation. Without such a clause, you may own the physical deliverable but not the copyright — meaning you cannot legally stop the freelancer from reusing elements of the design for other clients."
 ---
 
-# Copyright Law Switzerland: Protection, Duration & Enforcement (2026)
+# Copyright Law Switzerland: Protection & Enforcement (2026)
 
 Swiss copyright law gives creators strong, automatic protection the moment a work comes into existence. No registration. No formalities. But the law has nuances — especially around moral rights, work-for-hire, software, and enforcement — that matter significantly in practice.
 

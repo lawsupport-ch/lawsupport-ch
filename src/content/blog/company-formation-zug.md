@@ -1,6 +1,6 @@
 ---
-title: "Company Formation Zug: Switzerland's Tax-Efficient Canton (2026)"
-description: "Form a company in Zug, Switzerland's lowest-tax canton at 11.8% effective corporate rate. AG, GmbH & Foundation formation. 1,000+ formations. Zug-based lawyers."
+title: "Company Formation Zug: Tax-Efficient Canton (2026)"
+description: "Form a company in Zug at 11.8% tax rate. AG, GmbH and foundation formation. 1,000+ incorporations. Request a free assessment."
 date: "19.03.2026"
 category: "Company Formation"
 categoryHref: "/services/company-formation/"
@@ -26,9 +26,20 @@ tocItems:
     title: "Living in Zug: For Relocating Entrepreneurs"
   - id: "work-with-us"
     title: "Work With Us"
+faqItems:
+  - question: "Is Zug really the cheapest canton for company formation?"
+    answer: "In terms of ongoing corporate taxation, yes — Zug has Switzerland's lowest effective combined corporate tax rate at approximately 11.8%. In terms of formation fees, Zug's Commercial Register charges are comparable to other major Swiss cantons (CHF 600 for a GmbH, CHF 800+ for an AG). The cost advantage of Zug is structural and ongoing rather than a one-time saving at incorporation."
+  - question: "How long does it take to form a company in Zug?"
+    answer: "From complete filing with the Handelsregisteramt Zug, a GmbH typically takes 10–15 business days and an AG 15–20 business days to be registered. From first instruction to us, including KYC, PoA, notarisation, and bank capital deposit, the total elapsed time is typically 3–5 weeks for a clean formation."
+  - question: "Do I need to live in Zug to have a company there?"
+    answer: "No. Swiss law requires that a company have at least one director or manager resident in Switzerland with signatory authority, but that person does not need to be a founder or shareholder, and it does not need to be you. We provide Swiss-resident directorship and registered address services for clients who wish to maintain a Zug-domiciled company without relocating."
+  - question: "What makes Zug attractive for crypto companies?"
+    answer: "Zug combines four things that matter uniquely to crypto projects: a clear regulatory framework (DLT Act, FINMA guidance, VASP registration pathway), a tax-efficient environment including the IP Box and participation exemption, an advance ruling practice at the cantonal tax authority with specific competency in crypto questions, and the Crypto Valley ecosystem — the densest concentration of blockchain talent, investors, foundations, and infrastructure providers outside of a handful of global tech cities. No other jurisdiction offers all four at the same level."
+  - question: "What is the minimum share capital to form a GmbH in Zug?"
+    answer: "The minimum share capital for a GmbH in Zug is CHF 20,000, which must be fully paid in at the time of formation. For an AG, the minimum is CHF 100,000, of which at least CHF 50,000 must be paid in at formation."
 ---
 
-# Company Formation Zug: Switzerland's Tax-Efficient Canton (2026)
+# Company Formation Zug: Tax-Efficient Canton (2026)
 
 Zug is Switzerland's lowest-tax canton, with an effective combined corporate tax rate of **11.8%**. It is home to some of the world's largest commodity traders, crypto companies, and international holding structures. This guide explains exactly why Zug is the preferred choice for company formation and how the process works in 2026.
 

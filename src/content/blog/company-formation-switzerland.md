@@ -1,6 +1,6 @@
 ---
 title: "Company Formation Switzerland: Complete Guide (2026)"
-description: "Register a company in Switzerland in 2-4 weeks. AG, GmbH, holding, foundation. No travel required. Fixed fees. 18 years Swiss corporate law practice. Lawsupport, Zug."
+description: "Register a company in Switzerland in 2-4 weeks. AG, GmbH, holding, foundation. No travel required. Fixed fees. Request a free assessment today."
 date: "19.03.2026"
 category: "Company Formation"
 categoryHref: "/services/company-formation/"
@@ -24,6 +24,17 @@ tocItems:
     title: "Why Lawsupport for Your Swiss Company Formation"
   - id: "start-your-swiss-company-formation"
     title: "Start Your Swiss Company Formation"
+faqItems:
+  - question: "How long does company formation in Switzerland take?"
+    answer: "For a standard AG or GmbH, the process from initial instruction to Commercial Register confirmation takes 2-4 weeks. The main variables are: the speed of the capital deposit account opening at the chosen bank, the availability of a notary appointment, and the processing time at the relevant cantonal Commercial Register. Zug and Zurich are generally faster."
+  - question: "Do I need to travel to Switzerland to incorporate?"
+    answer: "No. Swiss law expressly permits incorporation via power of attorney. The founding documents are executed by a Swiss-resident representative before the notary, acting under authority granted by the foreign founder."
+  - question: "What is the difference between a GmbH and an AG in Switzerland?"
+    answer: "The primary differences are: minimum capital (CHF 20,000 for a GmbH versus CHF 100,000 for an AG, with CHF 50,000 paid in at formation); shareholder disclosure (GmbH shareholders are named in the public Commercial Register, AG shareholders are not); and transferability of ownership interests (AG shares are in principle freely transferable unless the articles restrict transfer; GmbH quotas require a notarised deed and are subject to a right of first refusal). For a detailed comparison, see our GmbH formation Switzerland and AG formation guides."
+  - question: "Can a foreigner own 100% of a Swiss company?"
+    answer: "Yes. There are no nationality or residency restrictions on ownership of a Swiss AG or GmbH. Foreign nationals and foreign legal entities can hold 100% of the shares or quotas."
+  - question: "What is the Stampa Declaration and why is it required?"
+    answer: "The Stampa Declaration is a statutory confirmation provided by the founders at the notarisation appointment, confirming that there are no undisclosed contributions in kind, no undisclosed acquisitions of assets, and no special advantages granted to founders in connection with the formation. It is named after a landmark Swiss Federal Supreme Court decision. The declaration protects creditors and third parties and cannot be waived."
 ---
 
 # Company Formation Switzerland: Complete Guide (2026)

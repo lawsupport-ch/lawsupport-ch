@@ -26,6 +26,27 @@ tocItems:
     title: "How This Compares to Other Swiss Licences"
   - id: "next-steps"
     title: "Next Steps"
+faqItems:
+  - question: "Can a DLT Trading Facility trade cryptocurrencies like Bitcoin or Ether?"
+    answer: "No. The DLT Trading Facility licence specifically covers **DLT securities** — ledger-based securities within the meaning of Art. 973d OR (Swiss Code of Obligations). Bitcoin and Ether are payment tokens or utility tokens, not securities, and do not qualify as Registerwertrechte. Trading those assets may fall under other regulatory frameworks, including VASP registration obligations, but not the DLT Trading Facility regime."
+  - question: "Do we need a separate banking licence to operate a DLT Trading Facility?"
+    answer: "Not necessarily. The DLT Trading Facility licence authorises trading, post-trade services, and custody of DLT securities. However, if the operator accepts cash deposits from clients — for example, as settlement funds — and those deposits exceed the FinTech licence threshold (CHF 100 million) or are held for longer than permitted under the FinTech regime, a banking licence becomes necessary. The exact structuring of cash flows through the platform is a critical licensing design question."
+  - question: "How long does a DLT Trading Facility licence application realistically take?"
+    answer: "FINMA has not published a fixed statutory timeline for DLT Trading Facility applications. Based on the applications processed since 2021, a realistic end-to-end timeline — from first FINMA engagement to licence grant — is **12 to 18 months**. Applications that arrive at FINMA with complete documentation, approved legal opinions, and finalised operating rules move faster. Applications requiring significant back-and-forth on the operating rules or IT security architecture take longer."
+  - question: "What is the minimum capital required for a DLT Trading Facility in Switzerland?"
+    answer: "A full DLT Trading Facility requires CHF 10 million minimum own funds. A limited-scope facility requires CHF 5 million. Capital must be held as paid-in equity and remain available at all times. Capital requirements are among the most significant barriers to entry for this licence category."
+  - question: "Can retail investors trade on a DLT Trading Facility directly?"
+    answer: "Yes. Unlike a traditional Swiss stock exchange, a DLT Trading Facility can admit non-professional participants directly. However, admitting retail participants triggers enhanced conduct-of-business and investor protection obligations that must be addressed in the operating rules submitted to FINMA for approval."
+  - question: "What assets can be traded on a DLT Trading Facility?"
+    answer: "Only DLT securities — ledger-based securities (Registerwertrechte) as defined under Art. 973d of the Swiss Code of Obligations. This includes tokenised bonds, equity interests, and structured products issued on a compliant DLT register. Cryptocurrencies such as Bitcoin are not DLT securities and cannot be traded on a DLT Trading Facility."
+  - question: "Does a DLT Trading Facility need FINMA approval for its operating rules?"
+    answer: "Yes. FINMA must approve the operating rules before the facility opens. Any material amendment to the rules after licensing also requires FINMA approval. This is a substantive review — not a notification procedure — and reviewing and approving operating rules typically adds several months to the application timeline."
+  - question: "How does a DLT Trading Facility differ from a securities firm licence?"
+    answer: "A securities firm licence authorises dealing in securities as principal or agent on behalf of clients. It does not authorise operating a trading venue. A securities firm that wants to run a DLT platform needs a separate DLT Trading Facility licence for the venue itself. The two licences serve different regulatory functions and are not interchangeable."
+  - question: "Is SDX (SIX Digital Exchange) an example of a DLT Trading Facility?"
+    answer: "SDX operates under the exchange licence framework as a subsidiary of SIX Group rather than as a standalone DLT Trading Facility applicant — an important structural distinction. Independent operators have progressed through FINMA's licensing pipeline since 2022 and represent the emerging cohort of genuine DLT Trading Facility licensees."
+  - question: "What happens if you operate a DLT Trading Facility without a FINMA licence?"
+    answer: "Operating without a licence is a criminal offence under Art. 44 FINMASA, with personal liability for management. FINMA can also issue injunctions, impose conditions, or order the cessation of business. The regulatory consequences of unlicensed operation are severe and extend to individuals responsible for the management of the entity."
 ---
 
 # DLT Trading Facility Switzerland: Licence, Requirements & Process (2026)

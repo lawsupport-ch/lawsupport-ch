@@ -1,5 +1,5 @@
 ---
-title: "Asset Management License Switzerland (FINMA): Requirements & Process (2026)"
+title: "Asset Management License Switzerland: FINMA Guide"
 description: "FINMA asset management licence (FinIA): capital requirements, fit & proper, supervisory organisation affiliation, and application timeline for 2026."
 date: "19.03.2026"
 category: "Licensing & Permits"

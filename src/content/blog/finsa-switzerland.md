@@ -1,6 +1,6 @@
 ---
-title: "Swiss FinSA (FIDLEG): Financial Services Act Obligations for 2026"
-description: "Switzerland's Financial Services Act (FinSA/FIDLEG): who it applies to, client classification, suitability requirements, prospectus rules, and financial service provider registration."
+title: "Swiss FinSA (FIDLEG): Obligations for 2026"
+description: "Swiss FinSA (FIDLEG) obligations: client classification, suitability rules, prospectus requirements, and advisor registration for 2026."
 date: "19.03.2026"
 category: "Licensing & Permits"
 categoryHref: "/services/financial-licensing/"
@@ -28,7 +28,7 @@ tocItems:
     title: "FAQ"
 ---
 
-# Swiss FinSA (FIDLEG): Financial Services Act Obligations for 2026
+# Swiss FinSA (FIDLEG): Obligations for 2026
 
 !<a href="https://lawsupport.ch/images/finsa-switzerland-hero.jpg" target="_blank" rel="nofollow noopener">Swiss Financial Services Act (FinSA/FIDLEG) — obligations and requirements for 2026</a>
 

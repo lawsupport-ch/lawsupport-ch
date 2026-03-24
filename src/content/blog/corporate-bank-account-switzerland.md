@@ -1,6 +1,6 @@
 ---
 title: "Corporate Bank Account Switzerland: How to Open One in 2026"
-description: "Opening a corporate bank account in Switzerland in 2026? Learn what Swiss banks require, which bank fits your business, and how to avoid the 20–30% rejection rate."
+description: "Open a corporate bank account in Switzerland. What Swiss banks require, which bank fits, and how to avoid rejection. Free assessment available."
 date: "19.03.2026"
 category: "Banking & Finance"
 categoryHref: "/blog/"
@@ -26,6 +26,17 @@ tocItems:
     title: "Our Banking Introduction Service"
   - id: "request-a-free-assessment"
     title: "Request a Free Assessment"
+faqItems:
+  - question: "Do I need a Swiss company to open a Swiss corporate bank account?"
+    answer: "Yes. Swiss banks open corporate accounts for Swiss-registered legal entities only. A foreign company cannot open a standard Swiss corporate operating account without a Swiss branch registration or a Swiss subsidiary."
+  - question: "How long does it take to open a Swiss corporate bank account?"
+    answer: "For the capital deposit account required before company formation, allow 2–6 weeks. For a regular operating account opened after formation, allow 4–8 weeks. With professional preparation and the right bank selected at the outset, the process can be completed at the faster end of those ranges."
+  - question: "Can I open a Swiss corporate bank account remotely?"
+    answer: "In some cases, yes. Several Swiss banks and all major fintech providers permit remote onboarding with video identification. Traditional cantonal banks and major banks, however, often require at least one in-person meeting — either at the branch or with a certified intermediary."
+  - question: "Are Swiss bank accounts still confidential?"
+    answer: "Swiss banking secrecy as it existed prior to 2009 is no longer in effect in the way many clients expect. Switzerland has adopted the OECD Common Reporting Standard (CRS) and participates in the Automatic Exchange of Information (AEOI) with over 100 countries. Swiss accounts are still subject to strong domestic data protection laws, but they do not provide tax secrecy for foreign account holders."
+  - question: "Which Swiss bank is best for foreign-owned companies?"
+    answer: "Cantonal banks are generally the best starting point for operating companies with genuine Swiss substance. Fintech platforms offer faster onboarding for simpler business profiles. For crypto or blockchain businesses, AMINA Bank (formerly SEBA) and Sygnum are the only credible options."
 ---
 
 # Corporate Bank Account Switzerland: How to Open One in 2026

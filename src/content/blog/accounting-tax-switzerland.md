@@ -1,10 +1,10 @@
 ---
-title: "Accounting Tax Switzerland"
-description: ""
+title: "Accounting Services Switzerland: Tax & Audit Guide"
+description: "Swiss accounting for AG and GmbH: bookkeeping rules, annual accounts, audit thresholds, VAT reporting and corporate tax. Free assessment from Lawsupport, Zug."
 date: "19.03.2026"
 category: "Swiss Corporate Law"
 categoryHref: "/blog/"
-readTime: "5 min read"
+readTime: "13 min read"
 tocItems:
   - id: "swiss-accounting-obligations-the-legal-foundation"
     title: "Swiss Accounting Obligations: The Legal Foundation"
@@ -34,48 +34,6 @@ tocItems:
     title: "Get Your Swiss Accounting in Order"
   - id: "request-a-free-assessment"
     title: "Request a Free Assessment"
----
-
----
-title: "Accounting Services Switzerland: Bookkeeping, Audit & Tax for Swiss Companies (2026)"
-slug: /accounting-tax-switzerland/
-primary_keyword: "accounting services switzerland"
-meta_title: "Accounting Services Switzerland: AG & GmbH (2026)"
-meta_description: "Swiss accounting obligations for AG and GmbH: bookkeeping, annual accounts, audit thresholds, VAT reporting and corporate tax. Expert guidance from Lawsupport, Zug."
-date: 2026-03-19
-lastmod: 2026-03-22
-word_count: 3200
-reading_time: "13 min"
-keywords:
-  - accounting services switzerland
-  - bookkeeping switzerland
-  - accounting switzerland
-  - swiss company accounts
-  - annual accounts switzerland
-  - swiss corporate tax
-  - vat switzerland
-  - swiss audit requirements
-cluster: Tax, Accounting & Audit
-type: pillar
-og_title: "Accounting Services Switzerland: Bookkeeping, Audit & Tax (2026)"
-og_description: "Swiss accounting obligations explained: double-entry bookkeeping, annual accounts, audit thresholds, VAT and corporate tax for AG and GmbH companies."
-og_image: /images/accounting-services-switzerland-hero.jpg
-og_type: article
-twitter_card: summary_large_image
-twitter_title: "Swiss Accounting Services for AG & GmbH (2026)"
-twitter_description: "Everything foreign-owned Swiss companies need to know about bookkeeping, annual accounts, audits and tax filing in Switzerland."
-twitter_image: /images/accounting-services-switzerland-hero.jpg
-schema:
-  - type: Article
-  - type: BreadcrumbList
-  - type: FAQPage
-author:
-  name: "Morgan Hartley"
-  title: "Senior Corporate Lawyer & Partner"
-  organisation: "Lawsupport (Morgan Hartley Consulting)"
-  address: "Grafenauweg 4, 6300 Zug, Switzerland"
-  phone: "+41 44 51 52 592"
-  email: "info@lawsupport.ch"
 ---
 
 # Accounting Services Switzerland: Bookkeeping, Audit & Tax for Swiss Companies (2026)

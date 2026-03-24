@@ -1,6 +1,6 @@
 ---
-title: "Commercial Register Switzerland: Cantonal Offices & Online Search (2026)"
-description: "Swiss Commercial Register (Handelsregister) by canton: how to search Zefix.ch, obtain official extracts, register a company, and contact cantonal register offices."
+title: "Commercial Register Switzerland: Cantonal Offices (2026)"
+description: "Swiss Commercial Register by canton: search Zefix, obtain extracts, register a company. All 26 cantonal offices listed. Contact Lawsupport for help."
 date: "19.03.2026"
 category: "Company Formation"
 categoryHref: "/services/company-formation/"
@@ -20,9 +20,20 @@ tocItems:
     title: "Registering a New Company"
   - id: "how-lawsupport-can-help"
     title: "How Lawsupport Can Help"
+faqItems:
+  - question: "Is the Swiss Commercial Register in English?"
+    answer: "The Commercial Register is maintained in the official cantonal language (German, French, or Italian). Company entries are in the cantonal language. Zefix provides search in all national languages."
+  - question: "How often is the Commercial Register updated?"
+    answer: "Changes filed with the Handelsregisteramt are typically processed and published within 3–10 business days. Zefix reflects updates shortly after publication in SHAB."
+  - question: "Can I search the register for free?"
+    answer: "Yes — Zefix.ch provides free search access to all Swiss commercial register data. Official certified extracts carry a fee of CHF 20–40 depending on the canton."
+  - question: "What is the UID number for a Swiss company?"
+    answer: "Every Swiss company receives a UID (Unternehmens-Identifikationsnummer) in the format CHE-123.456.789. It is the universal business identifier used across all Swiss authorities including tax, VAT, and social insurance filings."
+  - question: "Which cantonal commercial register handles the most international companies?"
+    answer: "Zug handles a disproportionately high number of international holding companies, crypto entities, and financial firms relative to its size. Zurich is the largest by total registrations, and Geneva is the second busiest for international companies."
 ---
 
-# Commercial Register Switzerland: Cantonal Offices & Online Search (2026)
+# Commercial Register Switzerland: Cantonal Offices (2026)
 
 The Swiss Commercial Register (Handelsregister / Registre du Commerce / Registro di commercio) is the official public register of Swiss companies, partnerships, and other legal entities. It is maintained at cantonal level — each canton has its own Commercial Register office (Handelsregisteramt or HRA). The central federal search platform, **Zefix.ch**, provides free online access to all cantonal registers in one place.
 

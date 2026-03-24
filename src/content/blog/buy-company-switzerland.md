@@ -1,5 +1,5 @@
 ---
-title: "Buy a Company in Switzerland: Acquisition Process & Legal Framework (2026)"
+title: "Buy a Company in Switzerland: Process & Legal Guide"
 description: "How to buy a Swiss company: finding targets, LOI, due diligence, SPA structuring, financing, and closing. Practical guide from Lawsupport, Zug."
 date: "19.03.2026"
 category: "Corporate Transactions"
@@ -37,7 +37,7 @@ SCHEMA: Article
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Buy a Company in Switzerland: Acquisition Process & Legal Framework (2026)",
+  "headline": "Buy a Company in Switzerland: Process & Legal Guide",
   "description": "Step-by-step guide to buying a Swiss company: finding targets, letter of intent, due diligence, SPA negotiation, financing, and Commercial Register formalities.",
   "datePublished": "2026-03-19",
   "dateModified": "2026-03-22",
@@ -96,7 +96,7 @@ SCHEMA: BreadcrumbList
 }
 -->
 
-# Buy a Company in Switzerland: Acquisition Process & Legal Framework (2026)
+# Buy a Company in Switzerland: Process & Legal Guide
 
 Buying an existing Swiss company is often the faster, more commercially rational route into the Swiss market. You inherit an operational business — clients, contracts, permits, staff, and a track record. Formation of a new entity gives you a clean slate but zero traction on day one. For most buyers with a clear target sector and timeline, acquisition wins.
 

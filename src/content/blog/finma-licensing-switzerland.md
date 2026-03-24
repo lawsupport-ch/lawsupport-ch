@@ -1,6 +1,6 @@
 ---
-title: "FINMA Licensing Switzerland: Banking, Crypto & Securities (2026)"
-description: "FINMA licensing in Switzerland for 2026: banking, crypto (VASP), FinIA securities firms, fund management. Timelines, capital requirements, step-by-step process. Expert advice from Lawsupport, Zug."
+title: "FINMA Licensing Switzerland: Crypto & Banking (2026)"
+description: "FINMA licensing in Switzerland: banking, crypto (VASP), FinIA securities, fund management. Capital requirements and process."
 date: "19.03.2026"
 category: "Licensing & Permits"
 categoryHref: "/services/financial-licensing/"
@@ -28,7 +28,7 @@ tocItems:
     title: "Work With Lawsupport on Your FINMA Application"
 ---
 
-# FINMA Licensing Switzerland: Banking, Crypto & Securities (2026)
+# FINMA Licensing Switzerland: Crypto & Banking (2026)
 
 !<a href="https://lawsupport.ch/images/finma-licensing-switzerland-hero.jpg" target="_blank" rel="nofollow noopener">FINMA licensing Switzerland overview — banking, crypto and securities regulation in Zug</a>
 

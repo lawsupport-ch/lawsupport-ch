@@ -1,6 +1,6 @@
 ---
 title: "Corporate Tax Return Switzerland: Filing Guide for Swiss Companies (2026)"
-description: "Complete guide to filing a corporate tax return in Switzerland. Deadlines, what to include, cantonal differences, and how to avoid common errors. From Lawsupport, Zug."
+description: "Corporate tax return Switzerland: deadlines, required documents, cantonal differences, and common errors. Get expert filing support from Lawsupport, Zug."
 date: "19.03.2026"
 category: "Tax & Accounting"
 categoryHref: "/blog/"
@@ -20,6 +20,27 @@ tocItems:
     title: "Electronic Filing in Zug"
   - id: "what-lawsupport-handles"
     title: "What Lawsupport Handles"
+faqItems:
+  - question: "When is the Swiss corporate tax return due?"
+    answer: "The return is due within 6 months of the financial year end. For a calendar-year company, this means 30 June of the following year. Extensions are available on request and are routinely granted with professional representation."
+  - question: "Can I file the Swiss corporate tax return in English?"
+    answer: "No. Swiss cantonal tax returns must be completed in the official language of the canton — German in Zug and most German-speaking cantons. The accompanying financial statements may be in any language, but the return form itself must be in the cantonal language. Lawsupport handles this for all clients regardless of the client's language."
+  - question: "What happens if my Swiss company makes a loss?"
+    answer: "Losses are carried forward and offset against taxable profits in future years. Swiss law allows loss carryforward for 7 years from the year the loss was incurred. There is no loss carryback provision in Swiss federal tax law (some cantons have limited exceptions)."
+  - question: "Does a dormant Swiss company still need to file a tax return?"
+    answer: "Yes. A dormant company that has been registered with the Commercial Register must file an annual return, even with zero activity and zero income. The return shows zero revenue, zero profit, and the current equity balance. Failure to file is not excused by dormancy."
+  - question: "What is a discretionary assessment (Ermessensveranlagung)?"
+    answer: "If a Swiss company fails to file its tax return, the cantonal tax authority will estimate taxable income based on available information and issue an assessment. This is almost always unfavourable to the company and may result in fines. The assessment can be challenged within 30 days, but the burden of proof shifts to the company to demonstrate the correct figures."
+  - question: "What are the Swiss tax depreciation rates?"
+    answer: "Standard Swiss tax depreciation rates are: computers 40% declining balance, machinery 30%, vehicles 40%, goodwill 40%. These rates may differ from commercial depreciation used in statutory accounts, which creates reconciling items in the tax return."
+  - question: "What is thin capitalisation under Swiss tax law?"
+    answer: "Swiss tax authorities apply safe harbour debt-to-equity ratios. If a company is financed above these limits by related-party loans, interest on the excess is not deductible and may be reclassified as a deemed dividend, triggering 35% withholding tax."
+  - question: "How long after filing will the tax assessment be issued?"
+    answer: "The assessment is typically received 6–18 months after the submission date. Once issued, you have 30 days to file an objection (Einsprache) if you disagree. Missing this deadline forfeits your right to challenge."
+  - question: "Can Swiss companies claim an IP Box deduction on their tax return?"
+    answer: "Yes. Companies holding qualifying patents can claim the IP Box deduction, which reduces cantonal and communal income tax on qualifying IP income by up to 90%. A separate schedule must be included detailing qualifying income, R&D expenditure, and the nexus calculation."
+  - question: "Does the cantonal tax return also cover federal income tax?"
+    answer: "Yes. You do not file separately with the federal government. The cantonal return covers all three levels: federal direct tax, cantonal income tax, and cantonal capital tax. The canton collects federal tax on behalf of the federal government."
 ---
 
 # Corporate Tax Return Switzerland: Filing Guide for Swiss Companies (2026)

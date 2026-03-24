@@ -1,6 +1,6 @@
 ---
-title: "Statutory Audit Switzerland: Requirements, Thresholds & Opting Out (2026)"
-description: "Statutory audit requirements in Switzerland explained: ordinary revision, limited audit, opting out thresholds, auditor licensing, costs, and what foreign-owned GmbH and AG companies need to know in 2026."
+title: "Statutory Audit Switzerland: Thresholds & Opt-Out"
+description: "Swiss statutory audit: ordinary vs limited revision, opting-out thresholds, FAOA licensing, and costs for AG and GmbH. Get a free assessment."
 date: "19.03.2026"
 category: "Tax & Accounting"
 categoryHref: "/blog/"

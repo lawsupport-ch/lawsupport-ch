@@ -1,6 +1,6 @@
 ---
-title: "Swiss Commercial Register (Handelsregister): What It Is & How to File (2026)"
-description: "The Swiss Handelsregister (commercial register): what information is public, how to search it, what changes require filing, and timeline for registrations."
+title: "Swiss Commercial Register: What It Is & How to File"
+description: "Swiss Handelsregister explained: public data, search methods, filing triggers, and registration timelines. Get expert filing support from Lawsupport."
 date: "19.03.2026"
 category: "Company Formation"
 categoryHref: "/services/company-formation/"
@@ -26,9 +26,20 @@ tocItems:
     title: "FAQ"
   - id: "working-with-the-swiss-commercial-register"
     title: "Working with the Swiss Commercial Register"
+faqItems:
+  - question: "Can anyone view who owns shares in a Swiss AG?"
+    answer: "No. AG shareholders are not recorded in the Swiss Commercial Register and are not publicly accessible through any official register. The shareholder register is a private internal document."
+  - question: "How long does it take to complete an initial registration?"
+    answer: "For a standard GmbH or AG, registration typically takes five to ten business days from the date of notarial deed execution, assuming the filing is complete and correctly prepared. Zug and Zurich are among the faster cantonal offices. The company has no legal existence as an AG or GmbH until the entry appears in the register — the notarial deed alone is not sufficient."
+  - question: "What happens if I do not register a change to my company's directors?"
+    answer: "The unregistered change has no effect against third parties. A counterparty dealing with the former director — who still appears in the register — can hold the company to commitments made by that person. Conversely, a new director whose appointment is not yet registered cannot be relied upon to bind the company in the eyes of a third party acting in good faith."
+  - question: "What is the Zefix portal and how do I use it?"
+    answer: "Zefix (zefix.ch) aggregates all cantonal commercial register data in one searchable portal. Search by company name, UID number, or canton. Results show the current extract and full change history."
+  - question: "Are GmbH shareholders publicly visible in Switzerland?"
+    answer: "Yes. The quota holders (Gesellschafter) of a GmbH are publicly registered — their names, domiciles, and quota values appear in the extract. This is a material privacy distinction from the AG, where shareholders are not public."
 ---
 
-# Swiss Commercial Register (Handelsregister): What It Is & How to File (2026)
+# Swiss Commercial Register: What It Is & How to File
 
 The Swiss Commercial Register — Handelsregister in German — is the official public record of all commercial entities operating in Switzerland. If you are incorporating a company, appointing a new director, moving offices, or winding down a business, the register is central to every step. Understanding how it works, what it discloses, and when you are legally required to file is not optional knowledge for anyone running or advising a Swiss business.
 

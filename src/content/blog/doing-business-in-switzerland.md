@@ -38,6 +38,27 @@ tocItems:
     title: "How Lawsupport Supports International Investors"
   - id: "request-a-free-assessment"
     title: "Request a Free Assessment"
+faqItems:
+  - question: "Ready to establish your business in Switzerland?"
+    answer: "Whether you are at the initial evaluation stage or ready to incorporate, Morgan Hartley and the Lawsupport team are available for a no-obligation consultation. We advise on entity selection, canton selection, banking, tax, and regulatory compliance — and we manage the entire formation process."
+  - question: "How long does it take to incorporate a company in Switzerland?"
+    answer: "A GmbH or AG can typically be incorporated within 5–10 business days once all documentation is in order and the notarial appointment is scheduled. The Commercial Register processes applications within 1–3 business days in most cantons. The practical constraint is usually assembling certified identity documents and paying in the share capital, which requires a temporary bank account or notarial capital deposit arrangement."
+  - question: "Do I need to be a Swiss resident to own a Swiss company?"
+    answer: "No. Non-residents can own 100% of a Swiss GmbH or AG. However, at least one manager (GmbH) or one board member (AG) who is authorised to represent the company must be domiciled in Switzerland. For non-residents without a Swiss director in their network, Lawsupport provides qualified nominee director services."
+  - question: "What is the most tax-efficient canton for a holding company?"
+    answer: "Zug is the most widely used canton for holding companies, combining the lowest effective corporate tax rates in Switzerland (approximately 11.8%), a well-developed ecosystem of service providers, and proximity to Zurich's financial infrastructure. Nidwalden and Lucerne offer comparable rates. The optimal canton depends on the specific business model, substance requirements, and the location of key personnel."
+  - question: "Is Switzerland subject to global minimum tax (BEPS Pillar Two)?"
+    answer: "Yes. Switzerland implemented the OECD/G20 Pillar Two global minimum tax (15% effective rate for large multinationals) through a constitutional amendment approved by Swiss voters in June 2023, with entry into force from January 2024. Companies within scope (consolidated revenue exceeding EUR 750 million) are subject to a Swiss top-up tax (Ergänzungssteuer) if their effective tax rate in Switzerland falls below 15%. For most SMEs and mid-market companies, Pillar Two does not apply, and the cant..."
+  - question: "Can I open a Swiss bank account before my company is incorporated?"
+    answer: "Most Swiss banks require the company to be incorporated (i.e., registered in the Commercial Register) before opening an operating account. However, some banks offer a capital deposit account (Einzahlungskonto) for the share capital payment prior to registration, which is a mandatory step in the incorporation process. Engaging a formation adviser who has existing banking relationships significantly accelerates the account opening process."
+  - question: "What is the minimum share capital for a Swiss GmbH?"
+    answer: "The minimum share capital for a Swiss GmbH is CHF 20,000, fully paid up at the time of incorporation. For a Swiss AG, the minimum is CHF 100,000, of which at least CHF 50,000 must be paid up at formation."
+  - question: "What are the Swiss VAT rates?"
+    answer: "The standard Swiss VAT rate is 8.1% following the January 2024 increase. Reduced rates of 2.6% apply to essential goods (food, medicines, books) and 3.8% to accommodation services. Businesses must register for VAT once annual taxable turnover exceeds CHF 100,000; voluntary registration is available below this threshold."
+  - question: "Does Switzerland have a patent box (IP Box) regime?"
+    answer: "Yes. All Swiss cantons are required to offer a Patent Box under the 2020 STAF corporate tax reform. Net income from qualifying intellectual property — patents, supplementary protection certificates, and certain other rights — can receive up to a 90% tax reduction, resulting in effective rates as low as 1.2% in the most favourable cantons."
+  - question: "Do I need a resident director for a Swiss company?"
+    answer: "Yes. At least one manager of a GmbH, or one board member of an AG, who is authorised to represent the company individually or jointly must be domiciled in Switzerland. Lawsupport provides qualified nominee director services for international clients who do not have a Swiss-resident director available."
 ---
 
 # Doing Business in Switzerland: The Investor's Legal Guide (2026)
@@ -72,7 +93,7 @@ For a business operating in Switzerland, the Code of Obligations is the primary 
 
 Switzerland is a confederation of 26 cantons. This is not a formality. Cantons have genuine legislative and executive autonomy across a wide range of areas, including taxation, certain licensing regimes, and administrative procedures. The federal government sets minimum standards in areas such as corporate law, labour law, and financial services regulation; cantons then legislate within or above those standards.
 
-For businesses, **where you incorporate and where you operate** matters in ways that go beyond symbolism. The canton of Zug charges a materially lower corporate tax rate than the canton of Bern. A hospitality business must navigate cantonal licensing requirements. Employment rules can be supplemented by cantonal collective agreements.
+For businesses, **where you incorporate and where you operate** matters in ways that go beyond symbolism. The canton of Zug charges a materially lower corporate tax rate than the canton of Bern. A hospitality business must comply with cantonal licensing requirements. Employment rules can be supplemented by cantonal collective agreements.
 
 Understanding the federal/cantonal distinction is essential to operating in Switzerland efficiently and compliantly. The <a href="https://www.admin.ch/gov/en/start/federal-council/swiss-confederation.html" target="_blank" rel="nofollow noopener">Swiss Confederation's official portal</a> provides an authoritative overview of the federal structure.
 
@@ -152,7 +173,7 @@ Switzerland's banking infrastructure is among the most sophisticated in the worl
 
 ### The Reality of Corporate Account Opening
 
-Opening a [Swiss corporate bank account](/blog/corporate-bank-account-switzerland/) is not a formality. Swiss banks operate under strict anti-money laundering obligations under the Anti-Money Laundering Act (AMLA/GwG), and due diligence requirements for foreign-owned companies are extensive. For companies without professional guidance, rejection rates of **20–30%** are not uncommon. Banks require certified corporate documents, comprehensive beneficial ownership disclosure, business plans, and evidence of genuine Swiss nexus.
+Opening a [Swiss corporate bank account](/blog/corporate-bank-account-switzerland/) is not a formality. Swiss banks operate under strict anti-money laundering obligations under the Anti-Money Laundering Act (AMLA/GwG), and due diligence requirements for foreign-owned companies are extensive. For companies without professional guidance, rejection rates of **20–30%** are not uncommon. Banks require certified corporate documents, full beneficial ownership disclosure, business plans, and evidence of genuine Swiss nexus.
 
 The typical timeline from application to operational account is **4–8 weeks** — longer for regulated sectors or complex ownership structures. A [capital deposit account](/blog/capital-deposit-account-switzerland/) is required at the formation stage to pay in share capital. Engaging a formation and compliance adviser significantly improves both timeline and approval probability.
 

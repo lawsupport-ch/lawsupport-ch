@@ -1,6 +1,6 @@
 ---
-title: "Best Swiss Banks for Foreigners: Which Bank Is Right for Your Business (2026)"
-description: "Not every Swiss bank accepts every foreign business. This guide matches your company profile to the right Swiss bank — based on 18+ years of account openings for 40+ nationalities."
+title: "Best Swiss Banks for Foreigners: Business Guide"
+description: "Match your company profile to the right Swiss bank. Based on 18+ years of account openings for 40+ nationalities. Free assessment available."
 date: "19.03.2026"
 category: "Banking & Finance"
 categoryHref: "/blog/"

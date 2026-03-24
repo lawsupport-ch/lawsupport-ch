@@ -1,6 +1,6 @@
 ---
 title: "Design Registration Switzerland: Process, Costs & Protection (2026)"
-description: "How to register a design in Switzerland: IPI application process, fees, duration, and the difference between design rights and copyright or trademark. Lawsupport, Zug."
+description: "Register a design in Switzerland: IPI process, fees from CHF 300, protection up to 25 years. Learn design vs copyright vs trademark. Contact Lawsupport."
 date: "19.03.2026"
 category: "IP & Commercial Law"
 categoryHref: "/blog/"
@@ -30,6 +30,27 @@ tocItems:
     title: "Enforcement"
   - id: "work-with-lawsupport-on-design-registration"
     title: "Work with Lawsupport on Design Registration"
+faqItems:
+  - question: "Does Switzerland examine whether my design is actually new before registering it?"
+    answer: "No. The IPI conducts only a formal examination — it checks that the application is complete and fees are paid. It does not search prior designs or assess novelty. This means registration is fast and relatively inexpensive, but it also means a registered design can be invalidated later if a third party can demonstrate it was not new or lacked individual character at the filing date."
+  - question: "Can I register a design that I have already shown publicly?"
+    answer: "There is a 12-month grace period: public disclosure by the applicant (or by a third party based on information from the applicant) within the 12 months before the filing date does not count as prior art under Swiss law. However, this grace period does not apply in all jurisdictions. If you plan to seek protection internationally, file before any public disclosure wherever possible."
+  - question: "What is the difference between a design and a patent, and which do I need?"
+    answer: "A design protects **how a product looks**. A patent protects **how a product works** — a new technical solution to a technical problem. If your innovation is purely aesthetic (a new shape or surface pattern), design registration is the correct instrument. If your innovation is functional (a new mechanism or process), you need a patent. Many products involve both an innovative function and a distinctive appearance; in those cases, both a patent and a design registration may be warranted."
+  - question: "How many designs can I include in a single Swiss application?"
+    answer: "Up to 100 designs can be included in a single application at a significantly reduced per-design cost. The additional design fee of CHF 100 per design (versus CHF 300 for a standalone filing) makes batch applications financially worthwhile for businesses with multiple designs to register."
+  - question: "What is the maximum duration of design protection in Switzerland?"
+    answer: "Design rights can be renewed every 5 years up to a maximum of 25 years from the filing date. Each renewal requires a fee payment before the end of the current five-year period. Missing a renewal deadline results in the registration lapsing."
+  - question: "Can I protect my Swiss design internationally?"
+    answer: "Yes. Switzerland participates in the Hague System for the International Registration of Industrial Designs, administered by WIPO. A single international application can extend design protection to 90+ countries simultaneously, using one language and one set of fees. Each designated country then applies its own substantive law, but the administrative burden is centralised."
+  - question: "What remedies are available if someone infringes my registered Swiss design?"
+    answer: "Available civil law remedies include injunctions preventing further infringement, damages or an account of the infringer's profits, destruction of infringing goods, and Swiss customs border measures to detain suspected counterfeits at the border. A registered right is the clearest basis for enforcement action."
+  - question: "Can a design right and copyright apply to the same product simultaneously?"
+    answer: "Yes. The two rights can co-exist for the same product. A registered design gives a clear, dated, enforceable right. Copyright for applied art in Switzerland is frequently contested in litigation, making the registered design the stronger starting position for any enforcement claim."
+  - question: "What products are not eligible for design registration in Switzerland?"
+    answer: "Features determined exclusively by technical function cannot be registered as a design — patents are the correct instrument for technical innovations. Designs contrary to public order or morality are also excluded from registration."
+  - question: "How long does it take to register a design in Switzerland?"
+    answer: "The IPI conducts only a formal examination, so registration is typically completed within a few weeks of filing. The design right takes effect from the filing date, not the date of publication or certificate issue — meaning your protection is backdated to the moment you filed."
 ---
 
 # Design Registration Switzerland: Process, Costs & Protection (2026)

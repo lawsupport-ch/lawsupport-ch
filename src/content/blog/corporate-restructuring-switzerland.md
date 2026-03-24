@@ -1,6 +1,6 @@
 ---
-title: "Corporate Restructuring Switzerland: Mergers, Demergers & Conversions (2026)"
-description: "Corporate restructuring in Switzerland under the Swiss Merger Act: mergers, spin-offs, demergers, and conversions. Legal process, timeline, and tax implications."
+title: "Corporate Restructuring Switzerland: Full Guide (2026)"
+description: "Swiss corporate restructuring under the Merger Act (FusG): mergers, demergers, conversions. Process, timeline, and tax treatment. Free assessment."
 date: "19.03.2026"
 category: "Corporate Transactions"
 categoryHref: "/blog/"
@@ -22,9 +22,20 @@ tocItems:
     title: "Tax Treatment of Swiss Restructurings"
   - id: "work-with-lawsupport-on-your-swiss-restructuring"
     title: "Work with Lawsupport on Your Swiss Restructuring"
+faqItems:
+  - question: "How long does a merger take in Switzerland?"
+    answer: "A standard merger between two Swiss AGs or GmbHs takes 4 to 6 months from the signing of the merger plan to Commercial Register entry. The main constraint is the three-month SHAB creditor call period, which cannot be shortened. Simplified parent-subsidiary mergers (100% ownership) have reduced documentation requirements but are subject to the same creditor call timeline."
+  - question: "Can a GmbH convert to an AG without dissolving?"
+    answer: "Yes. Under Art. 54–68 FusG, a conversion changes the legal form of the entity without dissolution."
+  - question: "Are Swiss restructurings tax-neutral?"
+    answer: "They can be. Mergers, demergers, conversions, and asset transfers that meet the conditions of Art. 61 DBG — primarily continuation of the business and a five-year holding requirement — are carried out without triggering income tax on hidden reserves."
+  - question: "What is the difference between a spin-off and a division under Swiss law?"
+    answer: "A spin-off (Abspaltung) transfers part of a company's assets and liabilities to another entity while the original company continues to exist. A division (Aufspaltung) splits the entire company into two or more successor entities and the original company ceases to exist. Both require a demerger plan, board report, auditor review, shareholder approval, and the SHAB creditor call."
+  - question: "What is universal succession in Swiss restructuring law?"
+    answer: "Universal succession means that when a merger, demerger, conversion, or asset transfer is registered with the Commercial Register, all assets, liabilities, contracts, and employees transfer automatically by operation of law to the successor entity. No individual assignment agreements, novation of contracts, or separate real estate deeds are required. This is the central procedural advantage of the FusG over a conventional asset deal."
 ---
 
-# Corporate Restructuring Switzerland: Mergers, Demergers & Conversions (2026)
+# Corporate Restructuring Switzerland: Full Guide (2026)
 
 Corporate restructuring in Switzerland is governed by a single, purpose-built statute: the Federal Act on Mergers, Demergers, Transformations and Asset Transfers — known in German as the *Fusionsgesetz* (FusG) and in French as the *Loi sur la fusion* (LFus). In force since 1 July 2004, the FusG replaced a patchwork of cantonal and federal provisions with a unified federal framework. If you are reorganising a Swiss group, splitting a company, converting a GmbH into an AG, or transferring a business division between entities, the FusG is your primary legal reference — and getting the process right from the start saves months of remediation later.
 
