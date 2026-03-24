@@ -1,9 +1,13 @@
 ---
 const services = [
-  { title: 'Swiss Company Formation', href: '/services/company-formation/' },
-  { title: 'Shelf Companies', href: '/services/shelf-companies/' },
-  { title: 'Financial Licensing', href: '/services/financial-licensing/' },
-  { title: 'SECO Work Permits', href: '/services/seco-permits/' },
+  { title: "Swiss Company Formation", href: "/services/company-formation/" },
+  { title: "Shelf Companies", href: "/services/shelf-companies/" },
+  { title: "Financial Licensing", href: "/services/financial-licensing/" },
+  { title: "SECO Work Permits", href: "/services/seco-permits/" },
+  { title: "Swiss Bank Account", href: "/contacts/" },
+  { title: "Accounting In Switzerland", href: "/contacts/" },
+  { title: "Resident Card In Switzerland", href: "/contacts/" },
+  { title: "Company Liquidation In Switzerland", href: "/contacts/" },
 ];
 ---
 
@@ -37,22 +41,23 @@ const services = [
         <li><a href="/blog/">Blog</a></li>
         <li><a href="/contacts/">Contacts</a></li>
         <li><a href="/privacy-policy/">Privacy Policy</a></li>
+        <li><a href="/privacy-policy/">Cookies Policy</a></li>
         <li><a href="/terms/">Terms of Service</a></li>
       </ul>
     </div>
     <div class="footer-col">
       <h4>Contact</h4>
       <ul>
-        <li><a href="tel:+41445152590">+41 44 51 52 590</a></li>
+        <li class="footer-phone"><a href="tel:+41445152590">+41 44 51 52 590</a></li>
         <li><a href="mailto:info@lawsupport.ch">info@lawsupport.ch</a></li>
-        <li>Stockerstrasse 45, 8002 Zürich</li>
+        <li>Stockerstrasse 45, 8002 Z&uuml;rich</li>
         <li>Baarerstrasse 135, 6300 Zug</li>
       </ul>
     </div>
   </div>
   <div class="footer-bottom">
     <div class="container">
-      <p>&copy; {new Date().getFullYear()} Lawsupport.ch. All rights reserved.</p>
+      <p>&copy; 2007 &ndash; 2026 Goldblum and Partners. All rights reserved.</p>
     </div>
   </div>
 </footer>
@@ -88,6 +93,12 @@ const services = [
   .footer-col ul a { color: #999; font-size: 0.9rem; transition: color 0.2s; }
   .footer-col ul a:hover { color: var(--white); }
   .footer-col ul li:not(:has(a)) { color: #999; font-size: 0.9rem; }
+
+  .footer-phone a {
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: var(--white) !important;
+  }
 
   .footer-bottom {
     border-top: 1px solid #222;

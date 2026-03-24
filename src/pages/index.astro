@@ -3,33 +3,27 @@ import Base from '../layouts/Base.astro';
 
 const services = [
   { title: 'Swiss Company Formation', href: '/services/company-formation/', color: 'red' },
-  { title: 'Shelf Companies', href: '/services/shelf-companies/', color: 'gray' },
+  { title: 'Shelf Companies', href: '/services/shelf-companies/', color: 'white' },
   { title: 'Financial Licensing', href: '/services/financial-licensing/', color: 'black' },
-  { title: 'SECO Work Permits', href: '/services/seco-permits/', color: 'red' },
+  { title: 'SECO Work Permits', href: '/services/seco-permits/', color: 'gray' },
+  { title: 'Swiss Bank Account', href: '/contacts/', color: 'gray' },
+  { title: 'Accounting In Switzerland', href: '/contacts/', color: 'black' },
+  { title: 'Resident Card In Switzerland', href: '/contacts/', color: 'white' },
+  { title: 'Company Liquidation In Switzerland', href: '/contacts/', color: 'red' },
 ];
 
-const whyChoose = [
-  { title: 'Expertise in Swiss Corporate Law', desc: 'Our team of experienced Swiss lawyers specialises in corporate law, ensuring your business is set up correctly from the start.', img: '/images/expertiseAndServices/write.webp' },
-  { title: 'Efficient Company Formation', desc: 'We provide seamless and efficient company formation services, handling all administrative and legal requirements.', img: '/images/expertiseAndServices/show.webp' },
-  { title: 'Shelf Companies Available', desc: 'Need to start quickly? We offer ready-made shelf companies for an expedited business launch in Switzerland.', img: '/images/expertiseAndServices/flag.webp' },
-  { title: 'Resident Card Assistance', desc: 'We assist with obtaining resident cards and work permits, helping you establish a physical presence in Switzerland.', img: '/images/expertiseAndServices/citi.webp' },
-  { title: 'Accounting Services', desc: 'Professional financial record management and accounting services to keep your Swiss business compliant.', img: '/images/expertiseAndServices/build.webp' },
-  { title: 'Company Liquidation Support', desc: 'When needed, we provide expert support for company dissolution, ensuring all legal obligations are met.', img: '/images/expertiseAndServices/bark.webp' },
-  { title: 'Personalised Approach', desc: 'Every business is unique. We develop custom approaches aligned with your specific needs and Swiss standards.', img: '/images/expertiseAndServices/speack.webp' },
-];
-
-const steps = [
-  { num: '01', title: 'Consultation', desc: 'We start by understanding your business objectives and requirements for establishing operations in Switzerland.', icon: '/icons/ourApproach/people.svg' },
-  { num: '02', title: 'Customised Strategy', desc: 'Our team develops a strategy aligned with Swiss standards and regulations, covering all legal and administrative aspects.', icon: '/icons/ourApproach/sign.svg' },
-  { num: '03', title: 'Execution', desc: 'We handle all administrative tasks, from company registration to bank account setup, ensuring a smooth process.', icon: '/icons/ourApproach/execution.svg' },
-  { num: '04', title: 'Ongoing Support', desc: 'After setup, we provide continuous guidance on compliance, accounting, and any legal matters that arise.', icon: '/icons/ourApproach/support.svg' },
+const approachCards = [
+  { title: 'Consultation', desc: 'We start by understanding your business objectives and requirements for establishing operations in Switzerland.', icon: '/icons/ourApproach/people.svg' },
+  { title: 'Customised Strategy', desc: 'Our team develops a strategy aligned with Swiss standards and regulations, covering all legal and administrative aspects.', icon: '/icons/ourApproach/sign.svg' },
+  { title: 'Execution', desc: 'We handle all administrative tasks, from company registration to bank account setup, ensuring a smooth process.', icon: '/icons/ourApproach/execution.svg' },
+  { title: 'Ongoing Support', desc: 'After setup, we provide continuous guidance on compliance, accounting, and any legal matters that arise.', icon: '/icons/ourApproach/support.svg' },
 ];
 
 const advantages = [
-  { title: 'Strategic Location', desc: 'Switzerland sits at the heart of Europe, providing a gateway to multiple markets with excellent infrastructure.', icon: '/icons/unlockSwissAdvantage/icon-1.svg', img: '/images/unlockSwissAdvantage/image-1.webp' },
-  { title: 'Political Stability', desc: 'One of the most politically stable countries in the world, offering a secure environment for your business.', icon: '/icons/unlockSwissAdvantage/icon-2.svg', img: '/images/unlockSwissAdvantage/image-2.webp' },
-  { title: 'Innovation Hub', desc: 'Home to world-class research institutions and a thriving startup ecosystem that fosters innovation.', icon: '/icons/unlockSwissAdvantage/icon-3.svg', img: '/images/unlockSwissAdvantage/image-3.webp' },
-  { title: 'Tax Benefits', desc: 'Competitive tax rates and favourable treaties make Switzerland an attractive destination for businesses worldwide.', icon: '/icons/unlockSwissAdvantage/icon-4.svg', img: '/images/unlockSwissAdvantage/image-4.webp' },
+  { title: 'Strategic Location', desc: 'Switzerland sits at the heart of Europe, providing a gateway to multiple markets with excellent transport links, world-class infrastructure, and proximity to major financial centres. Businesses established here benefit from seamless access to the EU single market through bilateral agreements, while maintaining independence from EU regulations.', icon: '/icons/unlockSwissAdvantage/icon-1.svg', img: '/images/unlockSwissAdvantage/image-1.webp' },
+  { title: 'Political Stability', desc: 'One of the most politically stable countries in the world, Switzerland offers a secure environment for your business. Its direct democracy, consensus-based governance, and long-standing neutrality create a predictable regulatory framework that protects investments and fosters long-term business planning with minimal political risk.', icon: '/icons/unlockSwissAdvantage/icon-2.svg', img: '/images/unlockSwissAdvantage/image-2.webp' },
+  { title: 'Innovation Hub', desc: 'Home to world-class research institutions like ETH Zurich and EPFL, Switzerland consistently ranks as the most innovative country globally. A thriving startup ecosystem, generous R&D tax incentives, and strong intellectual property protection make it an ideal base for technology-driven enterprises seeking to push boundaries.', icon: '/icons/unlockSwissAdvantage/icon-3.svg', img: '/images/unlockSwissAdvantage/image-3.webp' },
+  { title: 'Tax Benefits', desc: 'Competitive corporate tax rates — as low as 11.85% in the Canton of Zug — combined with an extensive network of double taxation treaties and favourable holding company regimes make Switzerland one of the most attractive jurisdictions for international businesses. Canton-level competition ensures ongoing tax optimisation opportunities.', icon: '/icons/unlockSwissAdvantage/icon-4.svg', img: '/images/unlockSwissAdvantage/image-4.webp' },
 ];
 
 const schema = [
@@ -63,14 +57,9 @@ const schema = [
 
   <!-- Hero -->
   <section class="hero">
-    <div class="hero-content">
-      <div class="hero-text">
-        <h1>Swiss Corporate Services & Company Formation</h1>
-        <p>Legal support for your business in Switzerland</p>
-      </div>
-      <div class="hero-image">
-        <img src="/images/lawsupport.webp" alt="Business in Switzerland" width="800" height="600" />
-      </div>
+    <div class="hero-content container">
+      <h1>Business In Switzerland</h1>
+      <p>And company registration<br/>in Switzerland</p>
     </div>
   </section>
 
@@ -79,41 +68,28 @@ const schema = [
     {services.map(s => (
       <a href={s.href} class={`service-card service-card--${s.color}`}>
         <span>{s.title}</span>
-
       </a>
     ))}
   </section>
 
-  <!-- Why Choose -->
+  <!-- Why Choose + Approach Cards -->
   <section class="section">
     <div class="container">
-      <h2 class="section-title">Why Choose <span class="text-red">Lawsupport</span> for<br/>Your Swiss Business Needs</h2>
-      <div class="grid-2 why-grid">
-        {whyChoose.map(item => (
-          <div class="why-card">
-            <div class="why-card-img">
-              <img src={item.img} alt={item.title} width="350" height="350" loading="lazy" />
-            </div>
-            <div class="why-card-content">
-              <h3>{item.title}</h3>
-              <p>{item.desc}</p>
-            </div>
-          </div>
-        ))}
+      <div class="why-top">
+        <div class="why-left">
+          <h2>Why <span class="text-red">Lawsupport</span></h2>
+          <p>We are a team of experienced Swiss lawyers specialising in corporate law and business advisory. From company formation to ongoing compliance, we handle every aspect of your Swiss business journey with precision and care.</p>
+        </div>
+        <div class="why-right">
+          <p>Every business is unique. Whether you are a startup founder looking to establish your first European entity, or a multinational expanding into Switzerland, we develop a custom approach aligned with your specific needs and Swiss standards. Our offices in Zurich and Zug give us direct access to the two most business-friendly cantons in the country.</p>
+        </div>
       </div>
-    </div>
-  </section>
-
-  <!-- Our Approach — 4 Steps -->
-  <section class="section section-gray">
-    <div class="container">
-      <h2 class="section-title">Our approach</h2>
-      <div class="steps-grid">
-        {steps.map(step => (
-          <div class="step-card">
-            <img src={step.icon} alt={step.title} width="56" height="56" class="step-icon" loading="lazy" />
-            <h3>{step.title}</h3>
-            <p>{step.desc}</p>
+      <div class="approach-grid">
+        {approachCards.map(card => (
+          <div class="approach-card">
+            <img src={card.icon} alt={card.title} width="48" height="48" loading="lazy" />
+            <h3>{card.title}</h3>
+            <p>{card.desc}</p>
           </div>
         ))}
       </div>
@@ -121,49 +97,48 @@ const schema = [
   </section>
 
   <!-- Swiss Advantage -->
-  <section class="section">
+  <section class="section section-gray">
     <div class="container">
       <h2 class="section-title">Unlock the Swiss Advantage</h2>
-      <div class="grid-4 advantage-grid">
-        {advantages.map(adv => (
-          <div class="advantage-card">
-            <div class="advantage-img">
-              <img src={adv.img} alt={adv.title} width="700" height="209" loading="lazy" />
+      <div class="advantage-stack">
+        {advantages.map((adv, i) => (
+          <div class={`advantage-block ${i % 2 === 1 ? 'advantage-block--reverse' : ''}`}>
+            <div class="advantage-block-img">
+              <img src={adv.img} alt={adv.title} width="700" height="400" loading="lazy" />
             </div>
-            <div class="advantage-icon">
-              <img src={adv.icon} alt="" width="32" height="32" />
+            <div class="advantage-block-content">
+              <div class="advantage-block-icon">
+                <img src={adv.icon} alt="" width="40" height="40" />
+              </div>
+              <h3>{adv.title}</h3>
+              <p>{adv.desc}</p>
             </div>
-            <h3>{adv.title}</h3>
-            <p>{adv.desc}</p>
           </div>
         ))}
       </div>
     </div>
   </section>
 
-
-  <!-- Join Our Success Stories -->
+  <!-- Insight / Blog -->
   <section class="section">
     <div class="container">
-      <h2 class="section-title">Join Our Success Stories</h2>
-      <p class="stories-text">Over the years, we have helped hundreds of entrepreneurs and businesses establish and grow their presence in Switzerland. From company formation to bank account setup, our clients trust us to handle the complexities of Swiss corporate law so they can focus on what matters most — their business.</p>
-      <div class="stories-stats">
-        <div class="stat-item">
-          <span class="stat-number">500+</span>
-          <span class="stat-label">Companies formed</span>
-        </div>
-        <div class="stat-item">
-          <span class="stat-number">15+</span>
-          <span class="stat-label">Years of experience</span>
-        </div>
-        <div class="stat-item">
-          <span class="stat-number">98%</span>
-          <span class="stat-label">Client satisfaction</span>
-        </div>
+      <h2 class="section-title">Insight</h2>
+      <div class="insight-grid">
+        <a href="/blog/ag-formation-switzerland/" class="insight-card">
+          <img src="/images/blog/ag-formation.webp" alt="AG Formation in Switzerland" loading="lazy" />
+          <h3>AG Formation in Switzerland: Complete Step-by-Step Guide</h3>
+        </a>
+        <a href="/blog/" class="insight-card">
+          <img src="/images/blog/company-formation.webp" alt="Company Formation" loading="lazy" />
+          <h3>How to Register a Company in Switzerland as a Foreigner</h3>
+        </a>
+        <a href="/blog/" class="insight-card">
+          <img src="/images/blog/swiss-bank.webp" alt="Swiss Bank Account" loading="lazy" />
+          <h3>Opening a Swiss Bank Account for Your Business</h3>
+        </a>
       </div>
     </div>
   </section>
-
 
   <!-- FAQ -->
   <section class="section section-gray" id="faq">
@@ -200,16 +175,17 @@ const schema = [
       <div class="contact-grid">
         <div class="contact-info">
           <h2>Contact us</h2>
-          <div class="contact-person">
-            <img src="/images/morgan-hartley-56.webp" alt="Morgan Hartley" width="80" height="80" class="contact-avatar" />
-            <div>
+          <div class="contact-person-large">
+            <img src="/images/morgan-hartley.jpg" alt="Morgan Hartley" width="400" height="500" class="contact-photo" loading="lazy" />
+            <div class="contact-person-details">
               <p class="contact-name"><a href="/team/morgan-hartley/" style="color:inherit">Morgan Hartley</a></p>
               <p class="contact-role">Senior Corporate Lawyer &amp; Partner</p>
+              <div class="contact-details">
+                <a href="tel:+41445152590"><img src="/icons/tel.svg" alt="" width="18" height="18" /> +41 44 51 52 590</a>
+                <a href="mailto:info@lawsupport.ch"><img src="/icons/massage.svg" alt="" width="18" height="18" /> info@lawsupport.ch</a>
+              </div>
+              <a href="#contact" class="btn btn-red contact-callback-btn">Order A Callback</a>
             </div>
-          </div>
-          <div class="contact-details">
-            <a href="tel:+41445152590"><img src="/icons/tel.svg" alt="" width="18" height="18" /> +41 44 51 52 590</a>
-            <a href="mailto:info@lawsupport.ch"><img src="/icons/massage.svg" alt="" width="18" height="18" /> info@lawsupport.ch</a>
           </div>
         </div>
         <form class="contact-form" action="#" method="post">
@@ -238,187 +214,181 @@ const schema = [
 </Base>
 
 <style>
+  /* Hero */
   .hero {
     background: var(--red);
     color: var(--white);
+    padding: 60px 0;
   }
   .hero-content {
     max-width: var(--max-width);
     margin: 0 auto;
-    display: grid;
-    grid-template-columns: 1fr;
-    min-height: 400px;
+    padding: 0 20px;
   }
-  .hero-text {
-    padding: 60px 20px 40px;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
+  .hero-content h1 {
+    font-size: clamp(2rem, 5vw, 3rem);
+    margin-bottom: 8px;
+    font-weight: 800;
   }
-  .hero-text h1 { font-size: clamp(1.8rem, 5vw, 2.5rem); margin-bottom: 12px; }
-  .hero-text p { font-size: 1.1rem; opacity: 0.9; }
-  .hero-image { position: relative; overflow: hidden; }
-  .hero-image img {
-    width: 100%;
-    height: 100%;
-    min-height: 250px;
-    object-fit: cover;
+  .hero-content p {
+    font-size: clamp(1rem, 2.5vw, 1.3rem);
+    opacity: 0.8;
+    line-height: 1.5;
   }
 
+  /* Service Cards */
   .service-cards {
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: repeat(2, 1fr);
   }
   .service-card {
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    padding: 24px 20px;
+    justify-content: center;
+    text-align: center;
+    padding: 28px 16px;
     font-weight: 600;
     font-size: 0.85rem;
     transition: opacity 0.2s;
+    min-height: 80px;
   }
   .service-card:hover { opacity: 0.85; }
   .service-card--red { background: var(--red); color: var(--white); }
   .service-card--black { background: var(--black); color: var(--white); }
   .service-card--gray { background: var(--gray); color: var(--black); }
-  .service-card--white { background: var(--white); color: var(--black); }
+  .service-card--white { background: var(--white); color: var(--black); border: 1px solid #e5e5e5; }
 
   .text-red { color: var(--red); }
 
-  .why-card {
+  /* Why Choose */
+  .why-top {
     display: grid;
     grid-template-columns: 1fr;
-    border-radius: 12px;
-    overflow: hidden;
-    background: var(--white);
-    box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+    gap: 24px;
+    margin-bottom: 48px;
   }
-  .why-card:nth-child(even) .why-card-img { order: 2; }
-  .why-card:nth-child(even) .why-card-content { order: 1; }
-  .why-card-img { min-height: 200px; overflow: hidden; }
-  .why-card-img img { width: 100%; height: 100%; object-fit: cover; }
-  .why-card-content { padding: 24px; }
-  .why-card-content h3 { font-size: 1.1rem; margin-bottom: 8px; }
-  .why-card-content p { color: var(--gray-text); font-size: 0.9rem; }
+  .why-left h2 {
+    font-size: clamp(1.6rem, 4vw, 2.2rem);
+    margin-bottom: 16px;
+  }
+  .why-left p, .why-right p {
+    color: var(--gray-text);
+    font-size: 0.95rem;
+    line-height: 1.7;
+  }
 
-  .steps-grid {
+  .approach-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 24px;
   }
-  .step-card { text-align: center; padding: 32px 16px; }
-  .step-icon {
-    margin-bottom: 20px;
-  }
-  .step-card h3 { font-size: 1.1rem; margin-bottom: 8px; }
-  .step-card p { color: var(--gray-text); font-size: 0.9rem; }
-
-  .advantage-card { text-align: center; padding: 0; border-radius: 12px; overflow: hidden; background: var(--white); box-shadow: 0 2px 12px rgba(0,0,0,0.06); }
-  .advantage-img { height: 160px; overflow: hidden; }
-  .advantage-img img { width: 100%; height: 100%; object-fit: cover; }
-  .advantage-icon { margin: 16px 0 8px; }
-  .advantage-card h3 { font-size: 1.1rem; margin-bottom: 8px; padding: 0 16px; }
-  .advantage-card p { color: var(--gray-text); font-size: 0.9rem; padding: 0 16px 24px; }
-
-  .stories-text {
+  .approach-card {
     text-align: center;
-    max-width: 720px;
-    margin: 0 auto 48px;
+    padding: 24px 16px;
+    background: var(--white);
+    border-radius: 12px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+  }
+  .approach-card img { margin-bottom: 16px; }
+  .approach-card h3 { font-size: 1rem; margin-bottom: 8px; }
+  .approach-card p { color: var(--gray-text); font-size: 0.85rem; line-height: 1.6; }
+
+  /* Swiss Advantage */
+  .advantage-stack {
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+  }
+  .advantage-block {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 24px;
+    align-items: center;
+  }
+  .advantage-block-img {
+    border-radius: 12px;
+    overflow: hidden;
+  }
+  .advantage-block-img img {
+    width: 100%;
+    height: 100%;
+    min-height: 220px;
+    object-fit: cover;
+    display: block;
+  }
+  .advantage-block-icon {
+    margin-bottom: 12px;
+  }
+  .advantage-block-content h3 {
+    font-size: 1.3rem;
+    margin-bottom: 12px;
+  }
+  .advantage-block-content p {
     color: var(--gray-text);
-    font-size: 1rem;
+    font-size: 0.95rem;
     line-height: 1.7;
   }
-  .stories-stats {
-    display: flex;
-    justify-content: center;
-    gap: 32px;
-    flex-wrap: wrap;
+
+  /* Insight / Blog */
+  .insight-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 24px;
   }
-  .stat-item { text-align: center; }
-  .stat-number {
+  .insight-card {
+    border-radius: 12px;
+    overflow: hidden;
+    background: var(--white);
+    box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+    transition: box-shadow 0.2s;
+  }
+  .insight-card:hover {
+    box-shadow: 0 4px 20px rgba(0,0,0,0.12);
+  }
+  .insight-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
     display: block;
-    font-size: 2.5rem;
-    font-weight: 800;
-    color: var(--red);
-    margin-bottom: 4px;
   }
-  .stat-label {
-    font-size: 0.9rem;
-    color: var(--gray-text);
+  .insight-card h3 {
+    padding: 16px;
+    font-size: 1rem;
+    line-height: 1.4;
   }
 
+  /* Contact */
   .contact-grid {
     display: grid;
     grid-template-columns: 1fr;
     gap: 48px;
   }
   .contact-info h2 { margin-bottom: 24px; }
-  .contact-person {
+  .contact-person-large {
     display: flex;
-    align-items: center;
-    gap: 16px;
-    margin-bottom: 24px;
+    flex-direction: column;
+    gap: 20px;
   }
-  .contact-avatar {
-    width: 80px;
-    height: 80px;
-    border-radius: 50%;
+  .contact-photo {
+    width: 100%;
+    max-width: 320px;
+    height: auto;
+    border-radius: 12px;
     object-fit: cover;
-    flex-shrink: 0;
   }
-  .contact-name { font-weight: 700; font-size: 1.1rem; }
-  .contact-role { color: var(--gray-text); font-size: 0.9rem; }
-  .contact-details { display: flex; flex-direction: column; gap: 8px; }
-  .contact-details a { font-weight: 500; display: flex; align-items: center; gap: 8px; }
+  .contact-person-details {}
+  .contact-name { font-weight: 700; font-size: 1.2rem; margin-bottom: 4px; }
+  .contact-role { color: var(--gray-text); font-size: 0.9rem; margin-bottom: 16px; }
+  .contact-details { display: flex; flex-direction: column; gap: 8px; margin-bottom: 20px; }
+  .contact-details a { font-weight: 500; display: flex; align-items: center; gap: 8px; font-size: 1rem; }
   .contact-details a:hover { color: var(--red); }
-
-  @media (min-width: 480px) {
-    .service-cards { grid-template-columns: repeat(2, 1fr); }
-  }
-  @media (min-width: 640px) {
-    .steps-grid { grid-template-columns: repeat(4, 1fr); }
-  }
-  @media (min-width: 768px) {
-    .hero-content { grid-template-columns: 1fr 1fr; }
-    .hero-text h1 { font-size: 3.5rem; }
-    .service-cards { grid-template-columns: repeat(4, 1fr); }
-    .why-card-img { min-height: 220px; }
-    .stories-text {
-    text-align: center;
-    max-width: 720px;
-    margin: 0 auto 48px;
-    color: var(--gray-text);
-    font-size: 1rem;
-    line-height: 1.7;
-  }
-  .stories-stats {
-    display: flex;
-    justify-content: center;
-    gap: 32px;
-    flex-wrap: wrap;
-  }
-  .stat-item { text-align: center; }
-  .stat-number {
-    display: block;
-    font-size: 2.5rem;
-    font-weight: 800;
-    color: var(--red);
-    margin-bottom: 4px;
-  }
-  .stat-label {
-    font-size: 0.9rem;
-    color: var(--gray-text);
+  .contact-callback-btn {
+    display: inline-block;
+    padding: 12px 28px;
+    font-size: 0.95rem;
   }
 
-  .contact-grid { grid-template-columns: 1fr 1fr; }
-  }
-
-  @media (min-width: 1024px) {
-    .hero-text { padding: 80px 40px; }
-    .hero-text h1 { font-size: 4rem; }
-  }
-
+  /* FAQ */
   .faq-list { display: flex; flex-direction: column; gap: 0; }
   .faq-item { border-bottom: 1px solid #e0e0e0; }
   .faq-question {
@@ -432,6 +402,37 @@ const schema = [
   .faq-answer { max-height: 0; overflow: hidden; transition: max-height 0.3s ease; }
   .faq-item.active .faq-answer { max-height: 300px; }
   .faq-answer-inner { padding: 0 0 20px; color: var(--gray-text); font-size: 0.95rem; line-height: 1.7; }
+
+  /* Responsive */
+  @media (min-width: 480px) {
+    .insight-grid { grid-template-columns: repeat(2, 1fr); }
+  }
+
+  @media (min-width: 768px) {
+    .hero { padding: 80px 0; }
+    .hero-content h1 { font-size: 3rem; }
+
+    .service-cards { grid-template-columns: repeat(4, 1fr); }
+
+    .why-top { grid-template-columns: 1fr 1fr; gap: 48px; }
+
+    .approach-grid { grid-template-columns: repeat(4, 1fr); }
+
+    .advantage-block { grid-template-columns: 1fr 1fr; }
+    .advantage-block--reverse .advantage-block-img { order: 2; }
+    .advantage-block--reverse .advantage-block-content { order: 1; }
+
+    .insight-grid { grid-template-columns: repeat(3, 1fr); }
+
+    .contact-grid { grid-template-columns: 1fr 1fr; }
+    .contact-person-large { flex-direction: column; }
+    .contact-photo { max-width: 100%; }
+  }
+
+  @media (min-width: 1024px) {
+    .hero { padding: 100px 0; }
+    .advantage-block-img img { min-height: 300px; }
+  }
 </style>
 <script>
 document.querySelectorAll(".faq-question").forEach(btn => {
