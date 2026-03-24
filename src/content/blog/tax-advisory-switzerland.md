@@ -1,0 +1,138 @@
+---
+title: "Tax Advisory Switzerland: Corporate Tax Planning for Swiss Companies (2026)"
+description: "Swiss corporate tax advisory for international clients: tax structuring, advance rulings, IP Box, holding structures, and treaty planning from Lawsupport, Zug."
+date: "19.03.2026"
+publishDate: "2026-07-30"
+category: "Tax & Accounting"
+categoryHref: "/blog/"
+readTime: "13 min read"
+tocItems:
+  - id: "what-swiss-tax-advisory-covers"
+    title: "What Swiss Tax Advisory Covers"
+  - id: "what-we-do-not-do"
+    title: "What We Do Not Do"
+  - id: "our-approach-to-tax-advisory"
+    title: "Our Approach to Tax Advisory"
+  - id: "contact-lawsupport-for-tax-advisory-request-a-free-assessmen"
+    title: "Contact Lawsupport for Tax Advisory: Request a Free Assessment"
+---
+
+# Tax Advisory Switzerland: Corporate Tax Planning for Swiss Companies (2026)
+
+Tax advisory in Switzerland covers the strategic planning of your company's structure, financing, and operations to minimise tax liability within the law. The effective combined corporate tax rate varies from 11.8% in Zug to 20.7% in Bern — for a company generating CHF 1 million in taxable profit, the difference between cantons alone can exceed CHF 79,000 per year. This guide explains what Swiss corporate tax advisory covers, what it delivers, and how Lawsupport advises clients on Swiss tax matters.
+
+---
+
+## What Swiss Tax Advisory Covers
+
+Tax advisory in the Swiss corporate context is not tax filing — it is strategic planning. The goal is to ensure that the structure, financing, and operations of your Swiss company are arranged to minimise tax liability within the law and consistent with international standards.
+
+The areas where Swiss tax advisory has the greatest impact:
+
+**1. Entity structure and canton selection**
+The choice of canton is one of the most consequential tax decisions you make at [company formation](/blog/company-formation-switzerland/). The effective combined corporate tax rate varies from 11.8% (Zug) to 20.7% (Bern). For a company generating CHF 1 million in taxable profit annually, the difference between Zug and Zurich is approximately CHF 79,000 per year. Advice on this decision — which must be made before formation — is among the highest-return planning activities available. [See Swiss tax rates by canton](/blog/swiss-tax-rates-by-canton/)
+
+**2. Participation exemption planning**
+Switzerland's participation exemption (Beteiligungsabzug) eliminates corporate tax on dividends and capital gains from qualifying shareholdings (10% or more, or CHF 1 million or more in value). Structuring your company's participation in subsidiaries to meet these thresholds, and planning dividend flows through the Swiss [holding structure](/blog/holding-company-switzerland/), is a core tax advisory function.
+
+**3. IP Box structuring**
+If your company generates income from patents or equivalent rights, the Swiss IP Box provides a reduction of up to 90% on net qualifying IP income at the cantonal level. Advisory work involves identifying qualifying IP, calculating the OECD nexus ratio, and structuring R&D activities and IP ownership to maximise the benefit.
+
+**4. Advance tax rulings**
+For any non-standard structure — a holding company, an IP holding arrangement, a cross-border restructuring, a crypto treasury — we prepare and submit advance [tax ruling requests](/blog/tax-ruling-switzerland/) to the Steuerverwaltung Zug. A ruling provides written certainty on your tax treatment before you commit to a structure. This is one of the most valuable services in Swiss tax planning — certainty has its own commercial value.
+
+**5. Transfer pricing**
+Swiss companies transacting with related parties — parent companies, subsidiaries, affiliated entities — must document that those transactions occur at arm's length prices. Tax advisory includes designing [transfer pricing](/blog/transfer-pricing-switzerland/) policies, preparing documentation, and reviewing intercompany pricing on an ongoing basis. The Steuerverwaltung Zug can issue rulings on transfer pricing for specific intercompany arrangements.
+
+**6. Thin capitalisation management**
+Swiss tax law limits the deductibility of interest on related-party debt exceeding safe harbour debt-to-equity ratios. Advisory work involves structuring the company's financing to stay within these limits, or accepting and managing the consequences where they cannot be met. The safe harbour ratios are published by the <a href="https://www.estv.admin.ch" target="_blank" rel="nofollow noopener">Federal Tax Administration (ESTV)</a> and vary by asset type.
+
+**7. Withholding tax planning**
+Switzerland levies 35% [withholding tax](/blog/withholding-tax-switzerland/) on dividends paid by Swiss companies to shareholders. For foreign shareholders, this is refundable or creditable under [double tax treaties](/blog/double-tax-treaties-switzerland/) — but only if the treaty conditions are met and the recipient is the beneficial owner. Planning dividend distributions through the Swiss company, and ensuring treaty entitlement is documented in advance, avoids unnecessary withholding tax costs.
+
+**8. VAT structuring**
+For companies providing both taxable and exempt supplies, input tax recovery is partial. Structuring business activities to maximise the proportion of fully taxable supplies — and, where possible, using separate legal entities for distinct supply types — can improve the [VAT](/blog/vat-switzerland/) position.
+
+**9. Crypto and blockchain tax planning**
+FINMA's token classifications (payment tokens, utility tokens, asset tokens) have different tax consequences. Staking income, DeFi treasury management, token issuance, and foundation taxation all require specific advice. The Steuerverwaltung Zug has more developed competency in this area than most other Swiss cantonal tax authorities. [FINMA licensing](/blog/finma-licensing-switzerland/)
+
+<!-- VIDEO: Overview of Swiss corporate tax advisory services and when to engage an adviser -->
+
+---
+
+## What We Do Not Do
+
+We do not advise on structures that rely on:
+- Artificial substance arrangements intended to claim treaty benefits or the participation exemption without genuine economic activity
+- Tax positions that have no reasonable legal basis
+- Offshore elements that are misrepresented to Swiss or foreign tax authorities
+
+Switzerland's international reputation — and the credibility of Swiss tax structures — depends on their genuine legal basis. Every structure we advise on must be defensible under Swiss law and consistent with <a href="https://www.admin.ch/gov/en/start.html" target="_blank" rel="nofollow noopener">OECD BEPS standards</a>.
+
+---
+
+## Our Approach to Tax Advisory
+
+Every tax advisory engagement begins with understanding the business: what the company does, where it operates, who owns it, what transactions it enters into, and what the commercial objectives are. Tax planning that does not serve the underlying business is neither legal nor commercially sustainable.
+
+We then map the applicable Swiss tax rules, identify the relevant opportunities and risks, and develop a structured recommendation. Where an advance ruling is appropriate, we prepare it. Where an existing structure requires adjustment, we advise on the specific steps.
+
+All advice is given in writing. We do not provide verbal opinions on significant tax positions.
+
+<!-- VIDEO: How advance tax rulings work in Switzerland and why they matter for corporate structuring -->
+
+---
+
+## Frequently Asked Questions
+
+**What is the difference between tax advisory and tax compliance?**
+
+Tax compliance is filing what is required — annual [tax returns](/blog/corporate-tax-return-switzerland/), VAT returns, withholding tax declarations. Tax advisory is planning how your company's structure and transactions are arranged to minimise legally what those returns will show. Both are necessary; advisory determines the outcome, compliance records it.
+
+**When should I engage a tax adviser for my Swiss company?**
+
+Before you form the company — the cantonal choice alone can be worth tens of thousands of francs per year. And whenever you plan a significant structural change: acquiring or disposing of a subsidiary, moving IP into or out of Switzerland, distributing profits, taking on related-party debt, or applying for an IP Box. Retrospective planning is more limited than prospective planning.
+
+**Does every Swiss company need tax advisory?**
+
+Simple operating companies with standard domestic transactions and no international elements can often manage with good tax compliance alone. Tax advisory becomes materially valuable for: holding structures, international groups, IP-intensive businesses, companies receiving dividends from subsidiaries, businesses considering Swiss residence from a [tax efficiency perspective](/blog/tax-residency-switzerland/), and any structure where the tax treatment is not straightforwardly clear from published rules.
+
+**What does a Swiss tax adviser typically charge?**
+
+Fees vary by complexity. A straightforward cantonal selection analysis costs CHF 2,000-5,000. An advance tax ruling preparation typically costs CHF 5,000-15,000. Ongoing advisory retainers for international structures range from CHF 10,000-50,000 per year depending on the number of entities and transaction complexity.
+
+**Can a Swiss tax adviser help with international tax planning?**
+
+Yes. Swiss tax advisory routinely involves cross-border elements — double tax treaty analysis, transfer pricing, withholding tax optimisation, and coordinating with advisers in other jurisdictions. Switzerland's network of over 100 double tax treaties and its participation in the OECD BEPS framework make it a structurally sound base for international tax planning.
+
+**What is the Swiss participation exemption?**
+
+The Beteiligungsabzug eliminates corporate tax on dividends and capital gains from qualifying shareholdings of 10% or more (or CHF 1 million or more in value). This makes Switzerland one of the most attractive jurisdictions for [holding companies](/blog/holding-company-switzerland/). Proper structuring of participation thresholds and dividend flows is a core tax advisory function.
+
+**How does the Swiss IP Box work?**
+
+The Swiss IP Box provides a reduction of up to 90% on net qualifying IP income at the cantonal level. It applies to income from patents and equivalent rights. The benefit is calculated using the OECD nexus ratio, which links the tax advantage to genuine R&D expenditure in Switzerland. Advisory work involves identifying qualifying IP, calculating the ratio, and structuring R&D activities to maximise the benefit.
+
+**What is an advance tax ruling in Switzerland?**
+
+A written confirmation from the cantonal tax authority stating how a specific transaction or structure will be taxed before implementation. Rulings are binding once issued and the facts are implemented as described. They are available for holding structures, IP Box qualification, transfer pricing, corporate restructurings, and individual relocations. In Zug, typical turnaround is 4-8 weeks.
+
+**What are the thin capitalisation rules in Switzerland?**
+
+Swiss tax law limits interest deductions on related-party debt exceeding safe harbour debt-to-equity ratios set by the Federal Tax Administration (ESTV). These ratios vary by asset type — for example, 85% for trade receivables but only 50% for intangible assets. Exceeding the safe harbour means the excess interest is treated as a hidden dividend, subject to 35% withholding tax.
+
+**Is Swiss tax advisory only for large companies?**
+
+No. SMEs and startups benefit significantly from tax advisory, particularly at formation when choosing the right canton and entity type. A GmbH in Zug with CHF 500,000 annual profit saves approximately CHF 40,000 per year compared to the same company in a high-tax canton. The advisory cost is typically recovered within the first year.
+
+---
+
+## Contact Lawsupport for Tax Advisory: Request a Free Assessment
+
+If you are forming a Swiss company, restructuring an existing Swiss entity, planning a dividend distribution, or seeking advice on IP Box eligibility, [request a free assessment](/blog/contact/).
+
+**Lawsupport (Morgan Hartley Consulting)**
+Grafenauweg 4, 6300 Zug, Switzerland
+Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
+
+[Request a Free Assessment →](/blog/contact/)

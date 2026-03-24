@@ -1,0 +1,194 @@
+---
+title: "Private Banking Switzerland: How It Works, Minimum Deposits & Top Banks (2026)"
+description: "Swiss private banking for high-net-worth individuals: minimum AUM thresholds, services included, top private banks, and how to open a private banking relationship."
+date: "19.03.2026"
+publishDate: "2026-05-21"
+category: "Banking & Finance"
+categoryHref: "/blog/"
+readTime: "11 min read"
+tocItems:
+  - id: "what-swiss-private-banking-is"
+    title: "What Swiss Private Banking Is"
+  - id: "minimum-assets-under-management-aum"
+    title: "Minimum Assets Under Management (AUM)"
+  - id: "services-offered"
+    title: "Services Offered"
+  - id: "opening-a-swiss-private-banking-relationship"
+    title: "Opening a Swiss Private Banking Relationship"
+  - id: "fees"
+    title: "Fees"
+  - id: "switzerland-after-the-credit-suisse-collapse"
+    title: "Switzerland After the Credit Suisse Collapse"
+  - id: "choosing-between-a-universal-bank-and-an-independent-private"
+    title: "Choosing Between a Universal Bank and an Independent Private Bank"
+---
+
+# Private Banking Switzerland: How It Works, Minimum Deposits & Top Banks (2026)
+
+Switzerland manages approximately one-quarter of the world's cross-border private wealth — roughly USD 2.5 trillion. The country's private banking sector is built on a combination of political stability, professional discretion, asset protection, sophisticated investment management, and a legal framework that has historically prioritised client privacy. This guide explains how Swiss private banking works, what the minimums are, and what to expect when approaching a Swiss private bank.
+
+---
+
+## What Swiss Private Banking Is
+
+Swiss private banking refers to premium, relationship-based banking and wealth management services for high-net-worth (HNW) and ultra-high-net-worth (UHNW) individuals. It is distinct from standard commercial banking:
+
+| Feature | Commercial Banking | Private Banking |
+|---|---|---|
+| Account minimums | None to CHF 1,000 | CHF 500,000 – CHF 5,000,000+ AUM |
+| Services | Payments, deposits, basic lending | Discretionary portfolio management, tax planning, estate planning, lending against assets |
+| Relationship model | Transactional | Long-term relationship manager |
+| Fees | Low/flat | Fee on AUM (typically 0.5–1.5%/year) |
+| Investment products | Standard retail | Structured products, alternatives, direct investments |
+
+---
+
+## Minimum Assets Under Management (AUM)
+
+Swiss private banks do not publish precise minimums, but typical entry thresholds as of 2026:
+
+| Bank | Typical Entry Minimum |
+|---|---|
+| UBS (private banking division) | CHF 1,000,000–2,000,000 |
+| Credit Suisse (now part of UBS) | — |
+| Julius Baer | CHF 1,000,000 |
+| Pictet | CHF 1,000,000–2,000,000 |
+| Lombard Odier | CHF 1,000,000–2,000,000 |
+| Vontobel | CHF 500,000 |
+| EFG International | CHF 1,000,000 |
+| Mirabaud | CHF 1,000,000 |
+| Bordier & Cie | CHF 500,000 |
+
+These are indicative — private banks exercise discretion and may accept lower amounts for clients with strong future income prospects or clear referral relationships.
+
+---
+
+## Services Offered
+
+**Discretionary portfolio management:** The bank manages the client's portfolio according to agreed risk parameters without requiring the client's approval for each transaction. The bank has full discretion within the mandate.
+
+**Advisory mandate:** The bank advises on investments but the client makes final decisions. More suitable for clients who want involvement in their portfolio.
+
+**Custody services:** Safe custody of securities, bonds, structured products, and other assets. The bank holds the assets but does not manage them actively — the client directs trades.
+
+**Structured lending:** Lombard loans — credit facilities secured against the portfolio. Typically available at 50–70% of the portfolio value at competitive rates. Also mortgage lending on Swiss real estate for qualifying clients.
+
+**Tax and estate planning:** Swiss private banks offer access to tax advisory teams and estate planning specialists. They coordinate with external advisors (lawyers, tax consultants) on cross-border structuring.
+
+**Family office services:** For UHNW clients (typically CHF 20M+), full family office services — consolidated reporting across all assets, generational planning, philanthropy advisory.
+
+---
+
+## Opening a Swiss Private Banking Relationship
+
+The process involves:
+
+**1. Initial contact and referral:** Most top private banks prefer — or require — a warm referral from an existing client, lawyer, or intermediary. Cold approaches are possible but less effective.
+
+**2. KYC documentation:** Extensive — comparable to opening a [corporate bank account in Switzerland](/blog/corporate-bank-account-switzerland/) for complex structures. Required: passport, proof of address, source of wealth documentation (how assets were accumulated — not just where they are now), structure of any holding companies, beneficial ownership confirmation.
+
+**3. Relationship manager interview:** A meeting (in person or video) with the private banker. They assess fit, understand the client's needs, and begin establishing the relationship.
+
+**4. Compliance review:** Swiss banks conduct AML and KYC review at senior compliance level. For politically exposed persons (PEPs) or clients from high-risk jurisdictions, enhanced due diligence applies. Banks must also comply with obligations under Swiss anti-money laundering regulations and [due diligence requirements](/blog/due-diligence-switzerland/).
+
+**5. Account agreement:** Signing of account opening documentation, mandate agreement, and investment policy statement.
+
+**Timeline:** 4–12 weeks for straightforward cases; longer for complex structures or high-risk jurisdictions.
+
+---
+
+## Fees
+
+Swiss private bank fees vary by mandate type:
+
+**Discretionary management:** All-in fee of 0.5–1.5% of AUM per year, typically including custody, trading, and management. Higher-fee tiers for smaller portfolios.
+
+**Advisory/custody only:** 0.2–0.6% custody fee plus transaction fees per trade.
+
+**No retrocessions:** Swiss law (following the landmark Federal Supreme Court retrocession rulings from 2006–2012) prohibits banks from keeping commissions/retrocessions from third-party products without explicit client consent. Swiss banks must either pass retrocessions to the client or obtain explicit waiver.
+
+---
+
+## Switzerland After the Credit Suisse Collapse
+
+The March 2023 forced merger of Credit Suisse into UBS changed Switzerland's private banking sector. UBS is now the dominant force in Swiss private banking with approximately USD 3.5 trillion in AUM globally. Independent private banks (Pictet, Lombard Odier, Julius Baer, etc.) have benefited from clients seeking diversification away from UBS.
+
+FINMA has strengthened supervision of systemically important banks and raised liquidity requirements. The sector remains fundamentally sound — Swiss private banks are well-capitalised by international standards. For details on how FINMA oversees financial institutions, see our guide on [FINMA licensing in Switzerland](/blog/finma-licensing-switzerland/).
+
+---
+
+## Choosing Between a Universal Bank and an Independent Private Bank
+
+Universal banks such as UBS offer the full range of services — retail banking, investment banking, asset management, and private banking — under one roof. Independent private banks (Pictet, Lombard Odier, Mirabaud, Bordier) focus exclusively on wealth management and typically operate as partnerships, meaning the managing partners bear personal liability. This partnership structure aligns the bank's interests more directly with the client's.
+
+Key differences to consider:
+
+- **Conflict of interest:** Universal banks may steer clients towards proprietary products. Partnership-model banks have less incentive to do so.
+- **Service depth:** Large universal banks have broader product ranges and global reach. Smaller banks offer more personalised attention.
+- **Stability:** UBS is systemically important and backed implicitly by the Swiss state. Independent banks rely on their own capitalisation and reputation.
+- **Minimum thresholds:** Some independent banks accept lower entry amounts than the major universal banks, particularly for clients referred by established intermediaries.
+
+---
+
+## Frequently Asked Questions
+
+**Is Swiss banking secrecy still in force?**
+
+Swiss banking secrecy between bank and client remains a domestic legal obligation under Swiss law. However, automatic exchange of financial account information (AEOI) under the OECD Common Reporting Standard (CRS) means that Swiss banks now automatically report account information for non-Swiss tax residents to their home countries (via the Swiss tax authority). Over 100 countries participate. Swiss banking secrecy is no longer a means of concealing offshore assets from tax authorities.
+
+**Can a non-resident open a Swiss private banking account?**
+
+Yes. Swiss private banks work extensively with non-resident clients — international wealth management for non-residents is their core business. Residency requirements apply to some services (e.g., mortgages on Swiss real estate), not to portfolio management or custody. For standard accounts, see our guide on [Swiss bank accounts for non-residents](/blog/swiss-bank-account-non-residents/).
+
+**What currencies do Swiss private banks manage?**
+
+Multi-currency management is standard. Swiss private banks manage in CHF, EUR, USD, GBP, and most major currencies. CHF is the reporting currency for Swiss-domiciled portfolios unless otherwise agreed.
+
+**What is the difference between a discretionary mandate and an advisory mandate?**
+
+Under a discretionary mandate, the bank makes all investment decisions within agreed parameters — the client does not approve individual trades. Under an advisory mandate, the bank recommends investments but the client decides whether to proceed. Discretionary mandates suit clients who prefer a hands-off approach; advisory mandates suit those who want direct involvement.
+
+**Do Swiss private banks accept clients from all countries?**
+
+Not all. Swiss banks apply risk-based onboarding and may decline clients from certain high-risk jurisdictions or where sanctions restrictions apply. US persons face additional requirements due to FATCA reporting obligations. Each bank sets its own risk appetite for country exposure.
+
+**How are private banking fees structured?**
+
+Most Swiss private banks charge an all-in fee based on assets under management, typically 0.5–1.5% per year for discretionary mandates. This usually covers custody, trading, and management. Advisory-only mandates charge lower custody fees (0.2–0.6%) plus per-transaction costs. Performance-based fees are rare but available for certain alternative investment strategies.
+
+**Can I hold a Swiss private banking account through a company or trust?**
+
+Yes. Swiss private banks regularly serve corporate clients, [holding companies](/blog/holding-company-switzerland/), trusts, and foundations. Additional KYC requirements apply — the bank must identify all beneficial owners and understand the purpose of the structure. Complex structures take longer to onboard.
+
+**What reporting do Swiss private banks provide?**
+
+Clients receive regular portfolio statements (monthly or quarterly), performance reports benchmarked against agreed indices, tax reporting packages (including CRS and, for US persons, FATCA reporting), and consolidated views across multiple accounts or mandates. UHNW clients with family office services receive bespoke reporting covering all asset classes.
+
+**Is my money protected if a Swiss bank fails?**
+
+Swiss depositor protection covers deposits up to CHF 100,000 per depositor per bank through the esisuisse scheme. For assets held in custody (securities, funds), these are segregated from the bank's own assets and are not part of the bankruptcy estate — they are returned to the client. This segregation applies to all Swiss banks.
+
+**What role does FINMA play in overseeing private banks?**
+
+FINMA (the Swiss Financial Market Supervisory Authority) supervises all banks operating in Switzerland, including private banks. FINMA sets capital requirements, conducts on-site inspections, and enforces anti-money laundering regulations. Following the Credit Suisse collapse, FINMA has increased its supervisory intensity, particularly regarding liquidity management and risk governance.
+
+---
+
+<div style="background:#f5f5f5;border-left:4px solid #003366;padding:1.5rem;margin:2rem 0;">
+
+**Request a Free Assessment**
+
+Whether you are establishing a new private banking relationship or reviewing your existing arrangements, we can introduce you to suitable Swiss private banks based on your requirements. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
+
+[Request a Free Assessment](/blog/contact/)
+
+**Lawsupport (Morgan Hartley Consulting)**
+Grafenauweg 4, Zug, Switzerland
++41 44 51 52 592
+info@lawsupport.ch
+
+</div>
+
+Related services: [Swiss bank account](/blog/swiss-bank-account/) | [Corporate bank account Switzerland](/blog/corporate-bank-account-switzerland/) | [Swiss banking system](/blog/swiss-banking-system/) | [Holding company Switzerland](/blog/holding-company-switzerland/)
+
+For an overview of Switzerland's banking regulations, see the <a href="https://www.finma.ch/en/supervision/banks-and-securities-firms/" target="_blank" rel="nofollow noopener">FINMA banks and securities firms supervision page</a>. Details on the automatic exchange of information (AEOI) are published by the <a href="https://www.sif.admin.ch/sif/en/home/multilateral/aia.html" target="_blank" rel="nofollow noopener">State Secretariat for International Finance (SIF)</a>. The esisuisse depositor protection scheme is documented at <a href="https://www.esisuisse.ch/en" target="_blank" rel="nofollow noopener">esisuisse.ch</a>.

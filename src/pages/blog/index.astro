@@ -1,11 +1,27 @@
 ---
 import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
 
-const articles = [
-  { title: 'Swiss AG Formation: Requirements, Process, and Costs', href: '/blog/ag-formation-switzerland/', category: 'Swiss Company Formation', date: '06.03.2026', image: '/images/blog/ag-formation.png' },
-  { title: 'Swiss Company Formation: Complete Guide to AG and GmbH Registration', href: '/blog/swiss-company-formation-guide/', category: 'Swiss Company Formation', date: '01.03.2026', image: '/images/blog/company-formation.avif' },
-  { title: 'Structuring a Neurotech Venture: From Market Analysis to Swiss GmbH Formation', href: '/blog/neurotech-venture-switzerland/', category: 'Business In Switzerland', date: '25.02.2026', image: '/images/blog/company-swiss.avif' },
-];
+const allPosts = await getCollection('blog', ({ data }) => {
+  if (!data.publishDate) return true;
+  return new Date(data.publishDate) <= new Date();
+});
+
+const articles = allPosts
+  .sort((a, b) => {
+    const dateA = a.data.date.split('.').reverse().join('-');
+    const dateB = b.data.date.split('.').reverse().join('-');
+    return dateB.localeCompare(dateA);
+  })
+  .map(post => ({
+    title: post.data.title,
+    href: `/blog/${post.id}/`,
+    category: post.data.category,
+    date: post.data.date,
+    description: post.data.description,
+  }));
+
+const categories = [...new Set(articles.map(a => a.category))].sort();
 
 const schema = [
   {
@@ -38,17 +54,14 @@ const schema = [
       <h1>Blog — Swiss Corporate Law Guides</h1>
       <p class="blog-lead">Articles and guides about corporate services in Switzerland.</p>
       <div class="blog-filters">
-        <button class="blog-filter active" data-filter="all">All</button>
-        <button class="blog-filter" data-filter="Business In Switzerland">Business in Switzerland</button>
-        <button class="blog-filter" data-filter="Swiss Company Formation">Swiss Company Formation</button>
-        <button class="blog-filter" data-filter="Taxes">Taxes</button>
-        <button class="blog-filter" data-filter="Immigration">Immigration</button>
-        <button class="blog-filter" data-filter="Investments">Investments</button>
+        <button class="blog-filter active" data-filter="all">All ({articles.length})</button>
+        {categories.map(cat => (
+          <button class="blog-filter" data-filter={cat}>{cat}</button>
+        ))}
       </div>
       <div class="grid-3 blog-grid">
         {articles.map(article => (
           <a href={article.href} class="card" data-category={article.category}>
-            <div class="card-img" style={`background-image:url(${article.image});background-size:cover;background-position:center`}></div>
             <div class="card-body">
               <span class="blog-card-category">{article.category}</span>
               <h3>{article.title}</h3>
@@ -102,7 +115,7 @@ const schema = [
       btn.classList.add("active");
       const filter = btn.dataset.filter;
       document.querySelectorAll(".blog-grid .card").forEach(card => {
-        card.style.display = (filter === "all" || card.dataset.category === filter) ? "" : "none";
+        (card as HTMLElement).style.display = (filter === "all" || card.dataset.category === filter) ? "" : "none";
       });
     });
   });

@@ -1,0 +1,250 @@
+---
+title: "Swiss Work Permit for EU/EEA Nationals: Rights & Process (2026)"
+description: "EU and EEA nationals working in Switzerland benefit from the AFMP free movement agreement. L permit, B permit, and registration process explained."
+date: "19.03.2026"
+publishDate: "2026-07-24"
+category: "Immigration"
+categoryHref: "/blog/"
+readTime: "14 min read"
+tocItems:
+  - id: "the-legal-basis-agreement-on-free-movement-of-persons-afmp"
+    title: "The Legal Basis: Agreement on Free Movement of Persons (AFMP)"
+  - id: "key-principle-notification-not-permit"
+    title: "Key Principle: Notification, Not Permit"
+  - id: "permit-types-for-eueea-nationals"
+    title: "Permit Types for EU/EEA Nationals"
+  - id: "step-by-step-process-for-eueea-national-starting-work-in-swi"
+    title: "Step-by-Step Process for EU/EEA National Starting Work in Switzerland"
+  - id: "cross-border-commuters-g-permit"
+    title: "Cross-Border Commuters (G Permit)"
+  - id: "self-employment-for-eueea-nationals"
+    title: "Self-Employment for EU/EEA Nationals"
+  - id: "third-country-nationals-vs-eueea-nationals-key-differences"
+    title: "Third-Country Nationals vs EU/EEA Nationals: Key Differences"
+  - id: "from-eu-work-permit-to-swiss-citizenship"
+    title: "From EU Work Permit to Swiss Citizenship"
+  - id: "employment-law-considerations"
+    title: "Employment Law Considerations"
+  - id: "get-expert-guidance-on-swiss-work-permits-and-immigration"
+    title: "Get Expert Guidance on Swiss Work Permits and Immigration"
+---
+
+# Swiss Work Permit for EU/EEA Nationals: Rights & Process (2026)
+
+EU and EEA nationals enjoy a fundamentally different — and significantly easier — pathway to working in Switzerland compared to third-country nationals. The Swiss work permit process for EU nationals operates through a straightforward registration and notification system rather than a quota-based application. Under the Agreement on the Free Movement of Persons (AFMP / FZA) between Switzerland and the EU, EU/EEA citizens have the right to work in Switzerland with virtually automatic permit issuance upon proof of employment. This guide explains the practical steps, permit types, and registration requirements.
+
+---
+
+## The Legal Basis: Agreement on Free Movement of Persons (AFMP)
+
+The **AFMP (Freizuegigkeitsabkommen / Accord sur la libre circulation des personnes)** is a bilateral agreement between Switzerland and the EU, in force since 2002. Under the AFMP:
+
+- EU/EEA nationals have the **right to enter Switzerland to work** without needing a traditional [work permit](/blog/work-permit-switzerland/)
+- They must **register** with Swiss authorities after arrival
+- They receive **residence permits** automatically upon meeting basic conditions (employed, self-employed, or sufficient own resources)
+
+The AFMP does not apply to third-country nationals (non-EU/EEA). For non-EU/EEA nationals, see our guide on [work permits for non-EU nationals](/blog/work-permit-non-eu-switzerland/).
+
+**EU/EEA nationals covered:** Citizens of all 27 EU member states plus Iceland, Liechtenstein, and Norway (EEA). Switzerland is not an EU member but applies the AFMP through bilateral agreements.
+
+---
+
+## Key Principle: Notification, Not Permit
+
+For EU/EEA nationals working in Switzerland:
+
+**Short-term work (up to 90 days/year):**
+- No registration required for the first 90 days
+- Employer (or self-employed person) must submit an **online notification** to the cantonal migration authority within 8 days of starting work
+- Free of charge
+
+**Work exceeding 90 days:**
+- Must apply for a Swiss residence/work permit
+- The permit is issued virtually automatically upon proof of employment
+- No labour market test, no quotas
+
+---
+
+## Permit Types for EU/EEA Nationals
+
+### L Permit — Short-Term Residence (< 12 months)
+
+- Issued for employment contracts of 3–12 months
+- Renewable if contract is renewed
+- Application to cantonal migration authority within 14 days of arrival
+- Processing: 1–4 weeks
+- Fee: CHF 50–100 depending on canton
+
+### B Permit — Long-Term Residence
+
+- Issued for employment contracts of 12 months or longer, or for indefinite-term employment
+- Valid for 5 years (renewable automatically as long as employed or with adequate resources)
+- **Automatically granted** to EU/EEA nationals who are employed — no labour market test, no employer quota
+- Application to cantonal migration authority within 14 days of arrival
+- Processing: 1–4 weeks
+- Fee: CHF 50–150 depending on canton
+
+For full details on the B permit, see our [B permit Switzerland](/blog/b-permit-switzerland/) guide.
+
+### C Permit — Settlement Permit
+
+- Issued after 5 years (EU-15/EFTA nationals) or 10 years (new EU member state nationals) of continuous residence
+- No time limit; no further renewal required
+- Full freedom of movement — no restriction to specific employer or canton
+
+The [C permit](/blog/c-permit-switzerland/) is the prerequisite for [Swiss naturalization](/blog/swiss-naturalization/) and eventual [Swiss citizenship](/blog/swiss-citizenship/).
+
+---
+
+## Step-by-Step Process for EU/EEA National Starting Work in Switzerland
+
+**Before arrival:**
+- EU/EEA nationals do not need a [visa](/blog/swiss-visa/) to enter Switzerland
+- Ensure you have a valid passport or national ID card
+
+**Within 14 days of arrival (for stays > 90 days):**
+
+**Step 1 — Register with the commune:**
+Report to the Einwohnerkontrolle (resident registration office) of your commune of residence. Bring:
+- Valid passport or national ID
+- Employment contract
+- 3 passport photos
+- Completed registration form
+
+**Step 2 — Apply for residence permit:**
+The commune registration triggers the permit application process with the cantonal migration authority (Migrationsamt). In most cantons, the commune does this automatically on your behalf.
+
+Documents typically required:
+- Employment contract
+- Proof of accommodation (rental contract or landlord declaration)
+- Passport or ID copy
+
+**Step 3 — Permit issued:**
+The cantonal Migrationsamt issues the permit card (Auslaenderausweis B or L) within 1–4 weeks. The card is sent by post or collected in person.
+
+**Employer notification (parallel to above):**
+For the first 90 days of work by EU/EEA cross-border workers or short-term assignees, the employer must notify the cantonal authority online via the notification system (meldeverfahren.ch).
+
+---
+
+## Cross-Border Commuters (G Permit)
+
+EU/EEA nationals who work in Switzerland but live in an EU/EEA country within the border zone (France, Germany, Italy, Austria, Liechtenstein) can obtain a **G Permit (Grenzgaenger):**
+
+- Allows working in Switzerland while maintaining primary residence abroad
+- Must return to home country at least once per week
+- Valid for 5 years (renewable)
+- Application to cantonal Migrationsamt of the Swiss work canton
+
+The G permit category is particularly common in cantons bordering France (Geneva, Vaud, Valais, Neuchatel, Jura, Basel) and Germany (Zurich, Basel, Thurgau, Schaffhausen).
+
+<!-- VIDEO: EU national work permit process — from arrival to B permit in Switzerland -->
+
+---
+
+## Self-Employment for EU/EEA Nationals
+
+EU/EEA nationals who are **self-employed** in Switzerland (freelancers, consultants, sole traders) also benefit from the AFMP:
+
+- Entitled to a B permit for self-employed activity
+- Must demonstrate genuine economic activity (business plan, client contracts, or revenue history)
+- Register as self-employed with AHV (social insurance) — mandatory
+- Register for [VAT](/blog/vat-switzerland/) if turnover exceeds CHF 100,000/year
+
+No labour market test applies — EU/EEA self-employed persons do not need to show that a Swiss national was not available for the work. Those planning to establish a formal business should also consider [company formation in Switzerland](/blog/company-formation-switzerland/) as a parallel step.
+
+---
+
+## Third-Country Nationals vs EU/EEA Nationals: Key Differences
+
+| Feature | EU/EEA National | Third-Country National |
+|---|---|---|
+| Right to work | Yes (AFMP) | No — requires employer sponsorship |
+| Quota | No (mostly) | Yes — quota-limited permits |
+| Labour market test | No | Yes (priority to Swiss/EU) |
+| Processing time | 1–4 weeks | 8–16 weeks |
+| Permit type on arrival | B or L (automatic) | L or B (discretionary) |
+
+For non-EU nationals, the process involves significantly more requirements as outlined under <a href="https://www.seco.admin.ch/seco/en/home.html" target="_blank" rel="nofollow noopener">SECO</a> and <a href="https://www.sem.admin.ch/sem/en/home.html" target="_blank" rel="nofollow noopener">SEM</a> regulations.
+
+---
+
+## From EU Work Permit to Swiss Citizenship
+
+For EU/EEA nationals who wish to build a long-term future in Switzerland, the pathway from initial work permit to citizenship follows a clear timeline:
+
+1. **B permit:** Issued upon arrival with employment (year 0)
+2. **C permit:** After 5 years of continuous residence for EU-15/EFTA nationals
+3. **[Swiss naturalization](/blog/swiss-naturalization/):** After 10 years of total residence, with C permit held
+4. **[Swiss passport](/blog/swiss-passport/):** Issued upon confirmation of citizenship
+
+The relatively straightforward permit process for EU nationals means the main barrier to citizenship is the 10-year residence requirement, not the permit system itself.
+
+---
+
+## Employment Law Considerations
+
+EU/EEA nationals working in Switzerland are subject to Swiss [employment law](/blog/employment-law-switzerland/), not EU labour law. Key points include:
+
+- **Probation period:** Maximum 3 months under Art. 335b CO
+- **Notice period:** 1 month in the first year, 2 months in years 2–9, 3 months from year 10
+- **Working hours:** Standard 42–45 hours per week depending on industry
+- **Social insurance:** Both employee and employer contribute to AHV/IV, ALV, and occupational pension (BVG)
+
+---
+
+## Frequently Asked Questions
+
+**Do I need a job offer before coming to Switzerland as an EU national?**
+
+You can enter Switzerland as an EU/EEA national without a job offer and search for work for up to 3 months. After 3 months without employment, you must demonstrate sufficient own resources or leave. If you find employment within 3 months, you apply for the appropriate B or L permit.
+
+**Can my EU/EEA national family members join me in Switzerland?**
+
+Yes. Spouses and dependent children of EU/EEA permit holders have derived rights to join and reside in Switzerland, regardless of their own nationality. This includes non-EU/EEA family members under the [family reunification](/blog/family-reunification-switzerland/) provisions of the AFMP.
+
+**Does Brexit affect UK nationals working in Switzerland?**
+
+The UK left the EU and the AFMP no longer applies to UK nationals. UK nationals are now subject to the same third-country national rules (quota-based, employer sponsorship required). An Agreement on Citizens' Rights protects UK nationals who were already in Switzerland with valid status before 1 January 2021.
+
+**How long does it take to get a Swiss work permit as an EU national?**
+
+Processing takes 1–4 weeks for both B and L permits. EU/EEA nationals are not subject to labour market tests or quotas, so permits are issued virtually automatically upon proof of employment.
+
+**What is the difference between an L permit and a B permit for EU nationals?**
+
+An L permit is for employment contracts of 3–12 months. A B permit is for contracts of 12 months or longer and is valid for 5 years with automatic renewal.
+
+**Can EU nationals be self-employed in Switzerland?**
+
+Yes. EU/EEA nationals receive a B permit for self-employed activity under the AFMP. They must demonstrate genuine economic activity, register with AHV, and register for VAT if turnover exceeds CHF 100,000 per year.
+
+**What is a G permit for cross-border commuters?**
+
+The G permit allows EU/EEA nationals to work in Switzerland while living in a neighbouring EU/EEA country. Holders must return home at least weekly. It is valid for 5 years and renewable.
+
+**Do EU nationals need to register for social insurance in Switzerland?**
+
+Yes. Employed EU/EEA nationals contribute to AHV/IV (old age and disability), ALV (unemployment), and occupational pension (BVG). Both employee and employer make contributions.
+
+**Can an EU national lose their Swiss residence permit?**
+
+A B permit can be revoked if the holder is no longer employed and has exhausted unemployment benefits without finding new work, or if they become permanently dependent on social assistance. In practice, permits are retained as long as the holder remains economically active.
+
+**What is the 90-day notification system for short-term work?**
+
+For EU/EEA nationals working up to 90 days per year in Switzerland, no residence permit is needed. The employer must submit an online notification within 8 days via the meldeverfahren.ch system.
+
+---
+
+## Get Expert Guidance on Swiss Work Permits and Immigration
+
+Whether you are an EU national relocating to Switzerland for employment, a self-employed professional establishing a Swiss presence, or an employer hiring EU staff, Morgan Hartley and the Lawsupport team provide practical guidance on permits, registration, and compliance.
+
+**[Request a Free Assessment](/blog/contact/)**
+
+**Morgan Hartley** — Senior Corporate Lawyer & Partner
+Lawsupport (Morgan Hartley Consulting)
+Grafenauweg 4, Zug, Switzerland
+Phone: +41 44 51 52 592
+Email: info@lawsupport.ch

@@ -1,0 +1,22 @@
+name: Scheduled Publish
+on:
+  schedule:
+    - cron: '0 6 */2 * *'
+  workflow_dispatch: {}
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm ci
+      - run: npm run build
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CF_API_TOKEN }}
+          accountId: 70621e4c4407e5653a07aeb45de2749d
+          command: pages deploy dist --project-name=lawsupport-ch
