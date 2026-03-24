@@ -1,0 +1,253 @@
+---
+import Base from "../../layouts/Base.astro";
+
+const schema = [
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Financial Licensing in Switzerland — FINMA, SRO & Crypto",
+    "description": "Obtain FINMA licences, SRO membership, and crypto authorisation in Switzerland. Expert legal support for banks, asset managers, and fintech firms.",
+    "url": "https://lawsupport.ch/services/financial-licensing/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://lawsupport.ch/" },
+      { "@type": "ListItem", "position": 2, "name": "Financial Licensing", "item": "https://lawsupport.ch/services/financial-licensing/" }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {"@type": "Question", "name": "What activities require a FINMA licence?", "acceptedAnswer": {"@type": "Answer", "text": "Banking, securities dealing, fund management, insurance, and certain fintech activities require a FINMA licence. Asset managers and trustees must be authorised under FinIA (Financial Institutions Act) since January 2020. Payment services and crypto custody may also trigger licensing requirements depending on the business model."}},
+      {"@type": "Question", "name": "How long does the FINMA licensing process take?", "acceptedAnswer": {"@type": "Answer", "text": "The timeline depends on the licence type. A FinIA authorisation for asset managers typically takes 6 to 12 months. A full banking licence may require 12 to 18 months. We recommend starting the application process well before your intended launch date."}},
+      {"@type": "Question", "name": "What is an SRO and do I need to join one?", "acceptedAnswer": {"@type": "Answer", "text": "A Self-Regulatory Organisation (SRO) supervises financial intermediaries for anti-money laundering compliance under AMLA. If you are a financial intermediary not directly supervised by FINMA — for example, a forex broker, payment processor, or crypto exchange — you must join an SRO such as VQF, PolyReg, or SO-FIT."}},
+      {"@type": "Question", "name": "Can crypto companies operate legally in Switzerland?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Switzerland has a clear regulatory framework for crypto and blockchain businesses. Depending on the activity — custody, trading, token issuance — you may need a FINMA fintech licence, banking licence, or SRO membership. The DLT Act (2021) introduced specific provisions for tokenised securities and DLT trading facilities."}},
+      {"@type": "Question", "name": "What are the capital requirements for a FINMA licence?", "acceptedAnswer": {"@type": "Answer", "text": "Capital requirements vary by licence type. A fintech licence requires CHF 300,000 minimum capital. Asset managers under FinIA need CHF 100,000 or 25% of fixed costs (whichever is higher). A full banking licence requires at least CHF 10 million. We advise on structuring capital to meet these thresholds."}}
+    ]
+  }
+];
+---
+
+<Base title="Financial Licensing Switzerland — FINMA & Crypto" description="Obtain FINMA licences, SRO membership, and crypto authorisation in Switzerland. Legal support for banks, asset managers, and fintech firms. Free consultation." schema={schema}>
+
+  <!-- Breadcrumb -->
+  <div class="container">
+    <nav class="breadcrumb">
+      <a href="/">Home</a> <span>/</span> <span>Financial Licensing</span>
+    </nav>
+  </div>
+
+  <!-- Hero -->
+  <section class="section">
+    <div class="container">
+      <div class="service-hero-grid">
+        <div>
+          <h1>Financial Licensing in Switzerland</h1>
+          <p class="service-lead">Any firm that accepts deposits, manages assets, deals in securities, or provides payment services in Switzerland must hold the appropriate licence from FINMA (Swiss Financial Market Supervisory Authority) or be supervised through a recognised Self-Regulatory Organisation (SRO). Our team guides applicants through every stage — from initial assessment of which licence applies to your business model, through document preparation, to the final authorisation decision.</p>
+          <a href="/contacts/" class="btn btn-red">Discuss Your Licensing Needs</a>
+        </div>
+        <div class="service-hero-image">
+          <img src="/images/lawsupport.webp" alt="Financial licensing services in Switzerland" class="service-hero-img" loading="lazy" />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FINMA Licences -->
+  <section class="section section-gray">
+    <div class="container">
+      <h2 class="section-title">FINMA Licence Categories</h2>
+      <div class="content-block">
+        <p>FINMA issues licences under several federal acts. The Banking Act (BankA) covers deposit-taking institutions and banks. The Financial Institutions Act (FinIA), in force since January 2020, governs asset managers, trustees, fund management companies, and securities firms. The Insurance Supervision Act (ISA) applies to insurers and reinsurers.</p>
+        <p>The FinIA introduced a graduated licensing regime: portfolio managers and trustees require authorisation, while fund management companies and securities firms need a full licence with higher capital and organisational requirements. Each category has distinct conditions regarding minimum capital, risk management, governance, and audit.</p>
+        <p>We assess which licence category applies to your planned activities, prepare the application dossier, and liaise directly with FINMA throughout the review process. Our clients include independent asset managers, family offices, and fintech startups.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- SRO Membership -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title">SRO Membership for AML Compliance</h2>
+      <div class="content-block">
+        <p>Under the Anti-Money Laundering Act (AMLA), financial intermediaries that are not directly supervised by FINMA must join a FINMA-recognised Self-Regulatory Organisation. SROs set and enforce anti-money laundering standards, conduct audits, and report to FINMA.</p>
+        <p>The main SROs in Switzerland include VQF (Verein zur Qualitaetssicherung von Finanzdienstleistungen), PolyReg, and SO-FIT. Each has its own admission criteria, membership fees, and ongoing compliance requirements. We help clients select the most suitable SRO and prepare the membership application, including the required AML framework documentation (risk assessment, KYC procedures, transaction monitoring policies).</p>
+        <p>SRO membership is typically granted within 4 to 8 weeks once a complete application is submitted. We assist with the initial audit preparation as well.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Crypto Licensing -->
+  <section class="section section-gray">
+    <div class="container">
+      <h2 class="section-title">Crypto and Blockchain Licensing</h2>
+      <div class="content-block">
+        <p>Switzerland's regulatory approach to crypto assets is among the clearest in Europe. The DLT Act, which entered into force in stages during 2021, amended existing financial market legislation to accommodate distributed ledger technology. It introduced the concept of DLT securities (ledger-based securities under Article 973d et seq. of the Code of Obligations) and DLT trading facilities.</p>
+        <p>Crypto businesses must determine whether their activities fall under existing licence categories. Custodial wallet providers handling third-party crypto assets may qualify as banks or require a fintech licence. Crypto exchanges typically need a securities firm licence or DLT trading facility authorisation. Token issuers must assess whether their tokens qualify as securities under FinSA.</p>
+        <p>We work with crypto firms from initial regulatory classification through to licence acquisition and SRO membership. Our services cover legal opinions on token classification, FINMA pre-discussions (Vorabklaerung), and ongoing regulatory compliance. If you are also forming a Swiss entity for your crypto project, see our <a href="/services/company-formation/">company formation services</a>.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Fintech Licence -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title">Fintech Licence (Sandbox and Beyond)</h2>
+      <div class="content-block">
+        <p>Since 2019, Switzerland offers a fintech licence under Article 1b of the Banking Act. This permits firms to accept public deposits of up to CHF 100 million without a full banking licence, provided the deposits are not invested and the firm maintains minimum capital of CHF 300,000.</p>
+        <p>Below the fintech licence threshold, the sandbox exemption (Article 6 para. 2 BankO) allows firms to accept deposits up to CHF 1 million without any licence, as long as depositors are informed that the firm is not FINMA-supervised. This is often used for early-stage fintech products and pilot projects.</p>
+        <p>We advise on structuring your operations to fit within these frameworks and, when necessary, prepare full licence applications. For businesses needing <a href="/services/seco-permits/">work permits for foreign staff</a>, we coordinate with the SECO permit process to ensure both regulatory and immigration requirements are met concurrently.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="section section-gray" id="faq">
+    <div class="container">
+      <h2 class="section-title">Frequently Asked Questions</h2>
+      <div class="faq-list" style="max-width:800px;margin:0 auto">
+        <div class="faq-item">
+          <button class="faq-question">What activities require a FINMA licence?</button>
+          <div class="faq-answer"><div class="faq-answer-inner">Banking, securities dealing, fund management, insurance, and certain fintech activities require a FINMA licence. Asset managers and trustees must be authorised under FinIA (Financial Institutions Act) since January 2020. Payment services and crypto custody may also trigger licensing requirements depending on the business model.</div></div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question">How long does the FINMA licensing process take?</button>
+          <div class="faq-answer"><div class="faq-answer-inner">The timeline depends on the licence type. A FinIA authorisation for asset managers typically takes 6 to 12 months. A full banking licence may require 12 to 18 months. We recommend starting the application process well before your intended launch date.</div></div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question">What is an SRO and do I need to join one?</button>
+          <div class="faq-answer"><div class="faq-answer-inner">A Self-Regulatory Organisation (SRO) supervises financial intermediaries for anti-money laundering compliance under AMLA. If you are a financial intermediary not directly supervised by FINMA — for example, a forex broker, payment processor, or crypto exchange — you must join an SRO such as VQF, PolyReg, or SO-FIT.</div></div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question">Can crypto companies operate legally in Switzerland?</button>
+          <div class="faq-answer"><div class="faq-answer-inner">Yes. Switzerland has a clear regulatory framework for crypto and blockchain businesses. Depending on the activity — custody, trading, token issuance — you may need a FINMA fintech licence, banking licence, or SRO membership. The DLT Act (2021) introduced specific provisions for tokenised securities and DLT trading facilities.</div></div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question">What are the capital requirements for a FINMA licence?</button>
+          <div class="faq-answer"><div class="faq-answer-inner">Capital requirements vary by licence type. A fintech licence requires CHF 300,000 minimum capital. Asset managers under FinIA need CHF 100,000 or 25% of fixed costs (whichever is higher). A full banking licence requires at least CHF 10 million. We advise on structuring capital to meet these thresholds.</div></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact -->
+  <section class="section">
+    <div class="container">
+      <div class="about-contact-grid">
+        <div>
+          <h2>Start Your Licence Application</h2>
+          <p class="service-lead">Regulatory requirements are specific to your business model. Contact us for an initial assessment — we will identify which licence or SRO membership applies and outline the process.</p>
+          <div class="contact-person">
+            <img src="/images/morgan-hartley-56.webp" alt="Morgan Hartley" width="80" height="80" class="contact-avatar" />
+            <div>
+              <p class="contact-name">Morgan Hartley</p>
+              <p class="contact-role">Senior Corporate Lawyer &amp; Partner</p>
+            </div>
+          </div>
+          <div class="contact-details">
+            <a href="tel:+41445152590">+41 44 51 52 590</a>
+            <a href="mailto:info@lawsupport.ch">info@lawsupport.ch</a>
+          </div>
+        </div>
+        <div class="about-contact-image">
+          <img src="/images/lawsupport.webp" alt="Lawsupport office" class="about-contact-img" loading="lazy" />
+        </div>
+      </div>
+    </div>
+  </section>
+
+</Base>
+
+<style>
+  .service-hero-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 40px;
+    align-items: center;
+  }
+  .service-lead {
+    color: var(--gray-text);
+    font-size: 1.05rem;
+    margin: 16px 0 32px;
+    line-height: 1.7;
+  }
+  .service-hero-img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 12px;
+  }
+  .content-block {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  .content-block p {
+    color: var(--gray-text);
+    font-size: 1rem;
+    line-height: 1.8;
+    margin-bottom: 16px;
+  }
+  .content-block a {
+    color: var(--red);
+    font-weight: 500;
+  }
+  .content-block a:hover {
+    text-decoration: underline;
+  }
+  .about-contact-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 40px;
+    align-items: center;
+  }
+  .contact-person {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin: 24px 0;
+  }
+  .contact-avatar {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    flex-shrink: 0;
+  }
+  .contact-name { font-weight: 700; font-size: 1.1rem; }
+  .contact-role { color: var(--gray-text); font-size: 0.85rem; }
+  .contact-details { display: flex; flex-direction: column; gap: 8px; }
+  .contact-details a { font-weight: 500; }
+  .contact-details a:hover { color: var(--red); }
+  .about-contact-img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 12px;
+  }
+  .faq-list { display: flex; flex-direction: column; gap: 0; }
+  .faq-item { border-bottom: 1px solid #e0e0e0; }
+  .faq-question {
+    width: 100%; background: none; border: none; padding: 20px 0;
+    font-size: 1.05rem; font-weight: 600; text-align: left; cursor: pointer;
+    display: flex; justify-content: space-between; align-items: center;
+    font-family: inherit; color: inherit;
+  }
+  .faq-question::after { content: "+"; font-size: 1.4rem; font-weight: 300; transition: transform 0.2s; }
+  .faq-item.active .faq-question::after { content: "\2212"; }
+  .faq-answer { max-height: 0; overflow: hidden; transition: max-height 0.3s ease; }
+  .faq-item.active .faq-answer { max-height: 300px; }
+  .faq-answer-inner { padding: 0 0 20px; color: var(--gray-text); font-size: 0.95rem; line-height: 1.7; }
+
+  @media (min-width: 768px) {
+    .service-hero-grid { grid-template-columns: 1fr 1fr; }
+    .about-contact-grid { grid-template-columns: 1fr 1fr; }
+  }
+</style>
+<script>
+document.querySelectorAll(".faq-question").forEach(btn => {
+  btn.addEventListener("click", () => { btn.parentElement?.classList.toggle("active"); });
+});
+</script>

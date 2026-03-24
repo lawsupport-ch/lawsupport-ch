@@ -1,0 +1,417 @@
+---
+import Base from "../../layouts/Base.astro";
+
+const schema = [
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Morgan Hartley — Corporate Lawyer | Lawsupport",
+    "description": "Morgan Hartley is a Swiss-admitted corporate lawyer specialising in company formation, M&A, and financial regulation. Book a free consultation today.",
+    "url": "https://lawsupport.ch/team/morgan-hartley/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://lawsupport.ch/" },
+      { "@type": "ListItem", "position": 2, "name": "Team", "item": "https://lawsupport.ch/team/" },
+      { "@type": "ListItem", "position": 3, "name": "Morgan Hartley", "item": "https://lawsupport.ch/team/morgan-hartley/" }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Morgan Hartley",
+    "jobTitle": "Lead Corporate Counsel",
+    "worksFor": {
+      "@type": "LegalService",
+      "@id": "https://lawsupport.ch/#organization",
+      "name": "Lawsupport"
+    },
+    "alumniOf": [
+      { "@type": "CollegeOrUniversity", "name": "University of Zurich" },
+      { "@type": "CollegeOrUniversity", "name": "University of Bern" }
+    ],
+    "hasCredential": [
+      { "@type": "EducationalOccupationalCredential", "name": "Swiss Bar Admission, Canton of Zurich" },
+      { "@type": "EducationalOccupationalCredential", "name": "LLM, University of Zurich" },
+      { "@type": "EducationalOccupationalCredential", "name": "lic. iur., University of Bern" }
+    ],
+    "memberOf": [
+      { "@type": "Organization", "name": "Swiss Bar Association" },
+      { "@type": "Organization", "name": "Zurich Bar Association" }
+    ],
+    "knowsAbout": ["Swiss corporate law", "company formation", "mergers and acquisitions", "financial regulation"],
+    "sameAs": [],
+    "email": "m.hartley@lawsupport.ch",
+    "telephone": "+41445152590",
+    "image": "https://lawsupport.ch/images/morgan-hartley.jpg",
+    "url": "https://lawsupport.ch/team/morgan-hartley/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What areas of law does Morgan Hartley practise?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Morgan Hartley focuses on Swiss corporate law, company formation (AG and GmbH), mergers and acquisitions, and financial regulation. With over 15 years of experience, Morgan advises both Swiss and international clients on structuring businesses, regulatory compliance, and cross-border transactions."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What qualifications does Morgan Hartley hold?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Morgan holds a lic. iur. from the University of Bern and an LLM from the University of Zurich. Morgan is admitted to the Swiss Bar in the Canton of Zurich and is a member of both the Swiss Bar Association and the Zurich Bar Association."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can I book a consultation with Morgan Hartley?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "You can book a free 30-minute initial consultation by calling +41 44 51 52 590, emailing m.hartley@lawsupport.ch, or using the contact form on our website. Morgan is available at our Zurich office on Stockerstrasse 45."
+        }
+      }
+    ]
+  }
+];
+
+const practiceAreas = [
+  {
+    title: "Company Formation",
+    desc: "Structuring and registering Swiss AGs, GmbHs, and branch offices for domestic and international clients. Full support from articles of association through to commercial register entry.",
+    href: "/swiss-company-formation/"
+  },
+  {
+    title: "Mergers & Acquisitions",
+    desc: "End-to-end advisory on share and asset deals, due diligence coordination, and post-transaction integration under Swiss corporate and competition law.",
+    href: "/mergers-and-acquisitions/"
+  },
+  {
+    title: "Financial Regulation",
+    desc: "Licensing applications with FINMA, anti-money laundering compliance frameworks, and ongoing regulatory advisory for financial intermediaries and fintech firms.",
+    href: "/compliance-and-regulatory/"
+  },
+  {
+    title: "Shelf Companies",
+    desc: "Ready-made Swiss companies available for immediate transfer. Ideal for clients who need an operational entity within days rather than weeks.",
+    href: "/shelf-company-in-switzerland/"
+  }
+];
+---
+
+<Base
+  title="Morgan Hartley — Corporate Lawyer | Lawsupport"
+  description="Morgan Hartley is a Swiss-admitted corporate lawyer specialising in company formation, M&A, and financial regulation. Book a free consultation today."
+  schema={schema}
+  ogImage="https://lawsupport.ch/images/morgan-hartley.jpg"
+>
+
+  <!-- Breadcrumb -->
+  <div class="container">
+    <nav class="breadcrumb">
+      <a href="/">Home</a> <span>/</span> <a href="/about/">Team</a> <span>/</span> <span>Morgan Hartley</span>
+    </nav>
+  </div>
+
+  <!-- Profile Hero -->
+  <section class="section">
+    <div class="container">
+      <div class="profile-hero">
+        <div class="profile-photo">
+          <img src="/images/morgan-hartley.jpg" alt="Morgan Hartley — Lead Corporate Counsel at Lawsupport" width="400" height="500" class="profile-img" />
+        </div>
+        <div class="profile-intro">
+          <h1>Morgan Hartley</h1>
+          <p class="profile-title">Lead Corporate Counsel</p>
+          <p class="profile-lead">Morgan Hartley is a Swiss-admitted corporate lawyer who has spent over 15 years advising businesses on formation, restructuring, and regulatory matters across multiple Swiss cantons. Based at the Zurich office, Morgan works directly with entrepreneurs, holding companies, and financial institutions seeking to establish or expand operations in Switzerland.</p>
+          <div class="profile-credentials">
+            <div class="credential-item">
+              <span class="credential-label">Bar Admission</span>
+              <span>Canton of Zurich</span>
+            </div>
+            <div class="credential-item">
+              <span class="credential-label">Education</span>
+              <span>LLM, University of Zurich</span>
+            </div>
+            <div class="credential-item">
+              <span class="credential-label">Education</span>
+              <span>lic. iur., University of Bern</span>
+            </div>
+          </div>
+          <div class="profile-contact-links">
+            <a href="tel:+41445152590" class="btn btn-red">Call +41 44 51 52 590</a>
+            <a href="mailto:m.hartley@lawsupport.ch" class="btn btn-outline">Email Morgan</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Biography -->
+  <section class="section section-gray">
+    <div class="container">
+      <div class="bio-content">
+        <h2 class="section-title">Background and Career</h2>
+        <p>Morgan studied law at the University of Bern, graduating with a lic. iur. before completing an LLM at the University of Zurich with a focus on corporate and commercial law. Following admission to the Zurich Bar, Morgan joined a mid-sized Swiss law firm where the early years were spent on cross-border M&A transactions and corporate restructurings.</p>
+        <p>In 2010, Morgan joined Lawsupport to build out the firm&rsquo;s corporate advisory practice. Since then, the team has assisted in forming over 500 companies across Switzerland, from single-member GmbHs to multi-entity holding structures spanning several cantons.</p>
+        <p>Morgan is a member of both the Swiss Bar Association (SAV) and the Zurich Bar Association (ZAV). Outside the office, Morgan regularly contributes to professional publications on Swiss corporate governance and speaks at industry events on regulatory developments affecting foreign-owned businesses in Switzerland.</p>
+
+        <h3>Professional Memberships</h3>
+        <ul class="membership-list">
+          <li>Swiss Bar Association (Schweizerischer Anwaltsverband, SAV)</li>
+          <li>Zurich Bar Association (Zurich Anwaltsverband, ZAV)</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- Practice Areas -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title">Areas of Expertise</h2>
+      <div class="practice-grid">
+        {practiceAreas.map((area, i) => (
+          <a href={area.href} class="practice-card">
+            <span class="practice-num">{String(i + 1).padStart(2, 0)}</span>
+            <h3>{area.title}</h3>
+            <p>{area.desc}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Publications -->
+  <section class="section section-gray">
+    <div class="container">
+      <div class="bio-content">
+        <h2 class="section-title">Publications and Contributions</h2>
+        <p>Morgan contributes regularly to the <a href="/blog/">Lawsupport blog</a>, covering topics such as recent changes to the Swiss Code of Obligations, FINMA licensing requirements, and practical guidance for foreign entrepreneurs setting up in Switzerland.</p>
+        <p>Selected articles include analysis of the 2023 amendments to Swiss corporate law, guidance on <a href="/blog/ag-formation-switzerland/">AG formation procedures</a>, and commentary on anti-money laundering obligations for company directors.</p>
+        <p>Morgan also contributes to external legal journals and has presented at conferences organised by the Zurich Bar Association and the Swiss-American Chamber of Commerce.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title">Frequently Asked Questions</h2>
+      <div class="faq-list" style="max-width:800px;margin:0 auto">
+        <div class="faq-item">
+          <button class="faq-question">What areas of law does Morgan Hartley practise?</button>
+          <div class="faq-answer"><div class="faq-answer-inner">Morgan focuses on Swiss corporate law, company formation (AG and GmbH), mergers and acquisitions, and financial regulation. With over 15 years of experience, Morgan advises both Swiss and international clients on structuring businesses, regulatory compliance, and cross-border transactions.</div></div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question">What qualifications does Morgan Hartley hold?</button>
+          <div class="faq-answer"><div class="faq-answer-inner">Morgan holds a lic. iur. from the University of Bern and an LLM from the University of Zurich. Morgan is admitted to the Swiss Bar in the Canton of Zurich and is a member of both the Swiss Bar Association and the Zurich Bar Association.</div></div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question">How can I book a consultation with Morgan Hartley?</button>
+          <div class="faq-answer"><div class="faq-answer-inner">You can book a free 30-minute initial consultation by calling +41 44 51 52 590, emailing m.hartley@lawsupport.ch, or using the contact form on our website. Morgan is available at our Zurich office on Stockerstrasse 45.</div></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact CTA -->
+  <section class="section section-gray">
+    <div class="container">
+      <div class="cta-block">
+        <div class="cta-info">
+          <h2>Book a Free Consultation</h2>
+          <p>Discuss your corporate law matter directly with Morgan. The initial 30-minute consultation is free of charge and without obligation.</p>
+          <div class="contact-person">
+            <img src="/images/morgan-hartley-56.webp" alt="Morgan Hartley" width="80" height="80" class="contact-avatar" />
+            <div>
+              <p class="contact-name">Morgan Hartley</p>
+              <p class="contact-role">Lead Corporate Counsel, Lawsupport</p>
+            </div>
+          </div>
+          <div class="contact-details">
+            <a href="tel:+41445152590">+41 44 51 52 590</a>
+            <a href="mailto:m.hartley@lawsupport.ch">m.hartley@lawsupport.ch</a>
+          </div>
+          <a href="/contacts/" class="btn btn-red" style="margin-top:24px">Contact Us</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</Base>
+
+<style>
+  .profile-hero {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 40px;
+    align-items: start;
+  }
+  .profile-img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    border-radius: 12px;
+    object-fit: cover;
+  }
+  .profile-title {
+    color: var(--red);
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin: 4px 0 20px;
+  }
+  .profile-lead {
+    color: var(--gray-text);
+    font-size: 1.05rem;
+    line-height: 1.7;
+    margin-bottom: 28px;
+    max-width: 560px;
+  }
+  .profile-credentials {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 28px;
+  }
+  .credential-item {
+    display: flex;
+    gap: 12px;
+    font-size: 0.9rem;
+    align-items: baseline;
+  }
+  .credential-label {
+    font-weight: 700;
+    color: var(--red);
+    min-width: 110px;
+    flex-shrink: 0;
+  }
+  .profile-contact-links {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .btn-outline {
+    border: 2px solid var(--black);
+    color: var(--black);
+    background: transparent;
+    padding: 12px 28px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 0.9rem;
+    transition: background 0.2s, color 0.2s;
+    text-decoration: none;
+    display: inline-block;
+  }
+  .btn-outline:hover {
+    background: var(--black);
+    color: var(--white);
+  }
+
+  .bio-content {
+    max-width: 760px;
+    margin: 0 auto;
+  }
+  .bio-content p {
+    color: var(--gray-text);
+    font-size: 0.95rem;
+    line-height: 1.8;
+    margin-bottom: 16px;
+  }
+  .bio-content h3 {
+    font-size: 1.1rem;
+    margin: 32px 0 12px;
+  }
+  .membership-list {
+    list-style: none;
+    padding: 0;
+  }
+  .membership-list li {
+    padding: 8px 0;
+    border-bottom: 1px solid var(--gray-border);
+    font-size: 0.9rem;
+    color: var(--gray-text);
+  }
+
+  .practice-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+  .practice-card {
+    background: var(--gray);
+    border-radius: 12px;
+    padding: 32px 24px;
+    text-decoration: none;
+    color: inherit;
+    transition: box-shadow 0.2s;
+    display: block;
+  }
+  .practice-card:hover {
+    box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+  }
+  .practice-num {
+    color: var(--red);
+    font-weight: 700;
+    font-size: 0.8rem;
+    display: block;
+    margin-bottom: 12px;
+  }
+  .practice-card h3 {
+    font-size: 1.1rem;
+    margin-bottom: 8px;
+  }
+  .practice-card p {
+    color: var(--gray-text);
+    font-size: 0.9rem;
+    line-height: 1.6;
+  }
+
+  .cta-block {
+    text-align: left;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  .cta-block h2 { margin-bottom: 12px; }
+  .cta-block > p {
+    color: var(--gray-text);
+    font-size: 0.95rem;
+    line-height: 1.7;
+    margin-bottom: 24px;
+  }
+  .cta-info .contact-person {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin: 24px 0;
+  }
+  .contact-avatar {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    flex-shrink: 0;
+  }
+  .contact-name { font-weight: 700; font-size: 1.1rem; }
+  .contact-role { color: var(--gray-text); font-size: 0.85rem; }
+  .contact-details { display: flex; flex-direction: column; gap: 8px; }
+  .contact-details a { font-weight: 500; }
+  .contact-details a:hover { color: var(--red); }
+
+  @media (min-width: 768px) {
+    .profile-hero { grid-template-columns: 1fr 1.2fr; }
+    .practice-grid { grid-template-columns: 1fr 1fr; }
+  }
+</style>
+
+<script>
+document.querySelectorAll(".faq-question").forEach(btn => {
+  btn.addEventListener("click", () => {
+    btn.parentElement?.classList.toggle("active");
+  });
+});
+</script>

@@ -22,7 +22,7 @@ const schema = [
   {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "name": "About Us — Lawsupport.ch",
+    "name": "About Lawsupport — Swiss Corporate Law Firm in Zurich & Zug",
     "description": "Meet our team of international legal experts offering services for company formation, tax consulting, and more in Switzerland.",
     "url": "https://lawsupport.ch/about/"
   },
@@ -37,7 +37,7 @@ const schema = [
 ];
 ---
 
-<Base title="About Us — Lawsupport.ch" description="Meet our team of international legal experts offering services for company formation, tax consulting, and more in Switzerland." schema={schema}>
+<Base title="About Lawsupport — Swiss Corporate Law Firm in Zurich & Zug" description="Meet our team of international legal experts offering services for company formation, tax consulting, and more in Switzerland." schema={schema}>
 
   <!-- Breadcrumb -->
   <div class="container">
@@ -51,7 +51,7 @@ const schema = [
     <div class="container">
       <div class="about-hero-grid">
         <div>
-          <h1>About us</h1>
+          <h1>About Lawsupport</h1>
           <p class="about-lead">Lawsupport is a team of international legal experts offering services for company formation, tax consulting, and more. Trust us for your legal needs.</p>
           <div class="about-countries">
             <h4>We working in these countries</h4>
@@ -66,7 +66,7 @@ const schema = [
           <a href="/contacts/" class="btn btn-red">Contact us</a>
         </div>
         <div class="about-hero-image">
-          <div class="about-hero-placeholder"></div>
+          <img src="/images/morgan-hartley-56.webp" alt="Morgan Hartley — Senior Corporate Lawyer" width="964" height="987" class="about-hero-img" />
         </div>
       </div>
     </div>
@@ -103,15 +103,23 @@ const schema = [
     </div>
   </section>
 
-  <!-- Awards -->
+  <!-- FAQ -->
   <section class="section section-gray">
     <div class="container">
-      <h2 class="section-title">Our Awards</h2>
-      <div class="awards-grid">
-        <div class="award-placeholder"></div>
-        <div class="award-placeholder"></div>
-        <div class="award-placeholder"></div>
-        <div class="award-placeholder"></div>
+      <h2 class="section-title">Frequently Asked Questions</h2>
+      <div class="faq-list" style="max-width:800px;margin:0 auto">
+        <div class="faq-item">
+          <button class="faq-question">What countries does Lawsupport operate in?</button>
+          <div class="faq-answer"><div class="faq-answer-inner">Our primary focus is Switzerland, with offices in Zurich and Zug. We also assist clients with corporate matters in Germany, Cyprus, Hong Kong, and the United Kingdom through our partner network.</div></div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question">How many companies has Lawsupport formed?</button>
+          <div class="faq-answer"><div class="faq-answer-inner">Since 2003, we have assisted in forming over 500 companies in Switzerland, including AGs, GmbHs, and branch offices of foreign corporations.</div></div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question">Do you offer free initial consultations?</button>
+          <div class="faq-answer"><div class="faq-answer-inner">Yes, we provide a free 30-minute initial consultation to understand your needs and outline the best path forward. You can book a consultation through our contact page or call us directly.</div></div>
+        </div>
       </div>
     </div>
   </section>
@@ -123,7 +131,7 @@ const schema = [
         <div>
           <h2>Contact us</h2>
           <div class="contact-person">
-            <div class="contact-avatar"></div>
+            <img src="/images/morgan-hartley-56.webp" alt="Morgan Hartley" width="80" height="80" class="contact-avatar" />
             <div>
               <p class="contact-name">Morgan Hartley</p>
               <p class="contact-role">Senior Corporate Lawyer &amp; Partner, Lawsupport.ch</p>
@@ -135,7 +143,7 @@ const schema = [
           </div>
         </div>
         <div class="about-contact-image">
-          <div class="about-contact-placeholder"></div>
+          <img src="/images/lawsupport.webp" alt="Lawsupport office" width="789" height="387" class="about-contact-img" />
         </div>
       </div>
     </div>
@@ -165,10 +173,10 @@ const schema = [
     border-radius: 20px;
     font-size: 0.85rem;
   }
-  .about-hero-placeholder {
+  .about-hero-img {
     width: 100%;
     height: 300px;
-    background: #ddd;
+    object-fit: cover;
     border-radius: 12px;
   }
 
@@ -217,19 +225,6 @@ const schema = [
   .hiw-card h3 { font-size: 1.05rem; margin-bottom: 8px; }
   .hiw-card p { color: var(--gray-text); font-size: 0.9rem; }
 
-  /* Awards */
-  .awards-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 24px;
-  }
-  .award-placeholder {
-    height: 120px;
-    background: var(--white);
-    border-radius: 12px;
-    border: 1px solid var(--gray-border);
-  }
-
   /* Contact */
   .about-contact-grid {
     display: grid;
@@ -247,7 +242,7 @@ const schema = [
     width: 80px;
     height: 80px;
     border-radius: 50%;
-    background: #ddd;
+    object-fit: cover;
     flex-shrink: 0;
   }
   .contact-name { font-weight: 700; font-size: 1.1rem; }
@@ -255,17 +250,16 @@ const schema = [
   .contact-details { display: flex; flex-direction: column; gap: 8px; }
   .contact-details a { font-weight: 500; }
   .contact-details a:hover { color: var(--red); }
-  .about-contact-placeholder {
+  .about-contact-img {
     width: 100%;
     height: 250px;
-    background: #ddd;
+    object-fit: cover;
     border-radius: 12px;
   }
 
   @media (min-width: 768px) {
     .about-hero-grid { grid-template-columns: 1fr 1fr; }
     .services-grid { grid-template-columns: repeat(3, 1fr); }
-    .awards-grid { grid-template-columns: repeat(4, 1fr); }
     .about-contact-grid { grid-template-columns: 1fr 1fr; }
   }
 
@@ -273,3 +267,9 @@ const schema = [
     .services-grid { grid-template-columns: repeat(4, 1fr); }
   }
 </style>
+
+<script>
+document.querySelectorAll(".faq-question").forEach(btn => {
+  btn.addEventListener("click", () => { btn.parentElement?.classList.toggle("active"); });
+});
+</script>

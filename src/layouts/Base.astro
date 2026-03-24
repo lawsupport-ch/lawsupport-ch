@@ -1,16 +1,75 @@
 ---
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
-import '../styles/global.css';
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import "../styles/global.css";
 
 interface Props {
   title: string;
   description?: string;
   schema?: object[];
+  ogImage?: string;
 }
 
-const { title, description = 'Professional corporate services and legal support for businesses in Switzerland.', schema = [] } = Astro.props;
-const canonicalURL = new URL(Astro.url.pathname, 'https://lawsupport.ch');
+const {
+  title,
+  description = "Professional corporate services and legal support for businesses in Switzerland.",
+  schema = [],
+  ogImage = "https://lawsupport.ch/images/lawsupport.webp",
+} = Astro.props;
+const canonicalURL = new URL(Astro.url.pathname, "https://lawsupport.ch");
+
+const organizationSchema = {
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "@id": "https://lawsupport.ch/#organization",
+  "name": "Lawsupport",
+  "url": "https://lawsupport.ch",
+  "logo": "https://lawsupport.ch/images/logo.png",
+  "description": "Professional corporate services and legal support for businesses in Switzerland.",
+  "telephone": "+41445152590",
+  "email": "info@lawsupport.ch",
+  "address": [
+    {
+      "@type": "PostalAddress",
+      "streetAddress": "Stockerstrasse 45",
+      "addressLocality": "Zurich",
+      "postalCode": "8002",
+      "addressCountry": "CH"
+    },
+    {
+      "@type": "PostalAddress",
+      "streetAddress": "Baarerstrasse 21",
+      "addressLocality": "Zug",
+      "postalCode": "6300",
+      "addressCountry": "CH"
+    }
+  ],
+  "knowsAbout": ["Swiss corporate law", "company formation", "shelf companies", "financial services licensing", "SECO permits", "residence permits", "Swiss bank accounts", "accounting"],
+  "sameAs": [],
+  "foundingDate": "2003",
+  "numberOfEmployees": {"@type": "QuantitativeValue", "value": 12}
+};
+
+const personSchema = {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://lawsupport.ch/#morgan-hartley",
+  "name": "Morgan Hartley",
+  "jobTitle": "Senior Corporate Lawyer & Partner",
+  "affiliation": {"@id": "https://lawsupport.ch/#organization"},
+  "hasCredential": [
+    {"@type": "EducationalOccupationalCredential", "name": "Swiss Bar Admission, Canton of Zurich"},
+    {"@type": "EducationalOccupationalCredential", "name": "LLM, University of Zurich"},
+    {"@type": "EducationalOccupationalCredential", "name": "lic. iur., University of Bern"}
+  ],
+  "memberOf": [
+    {"@type": "Organization", "name": "Swiss Bar Association"},
+    {"@type": "Organization", "name": "Zurich Bar Association"}
+  ],
+  "email": "m.hartley@lawsupport.ch"
+};
+
+const allSchemas = [organizationSchema, personSchema, ...schema];
 ---
 
 <!doctype html>
@@ -22,10 +81,27 @@ const canonicalURL = new URL(Astro.url.pathname, 'https://lawsupport.ch');
   <title>{title}</title>
   <meta name="description" content={description} />
   <link rel="canonical" href={canonicalURL} />
+  <link rel="icon" href="/favicon.ico" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={canonicalURL} />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content={ogImage} />
+  <meta property="og:site_name" content="Lawsupport" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={description} />
+
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Geologica:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
-  {schema.map(s => (
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Geologica:wght@300;400;500;600;700;800&display=optional" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+  <noscript><link href="https://fonts.googleapis.com/css2?family=Geologica:wght@300;400;500;600;700;800&display=optional" rel="stylesheet" /></noscript>
+  {allSchemas.map(s => (
     <script type="application/ld+json" set:html={JSON.stringify(s)} />
   ))}
 </head>
@@ -35,5 +111,6 @@ const canonicalURL = new URL(Astro.url.pathname, 'https://lawsupport.ch');
     <slot />
   </main>
   <Footer />
+  <script src="/js/form-handler.js" defer></script>
 </body>
 </html>

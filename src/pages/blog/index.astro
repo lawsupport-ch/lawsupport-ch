@@ -2,16 +2,16 @@
 import Base from '../../layouts/Base.astro';
 
 const articles = [
-  { title: 'Swiss AG Formation: Requirements, Process, and Costs', href: '/blog/ag-formation-switzerland/', category: 'Swiss Company Formation', date: '06.03.2026' },
-  { title: 'Swiss Company Formation: Complete Guide to AG and GmbH Registration', href: '/blog/swiss-company-formation-guide/', category: 'Swiss Company Formation', date: '01.03.2026' },
-  { title: 'Structuring a Neurotech Venture: From Market Analysis to Swiss GmbH Formation', href: '/blog/neurotech-venture-switzerland/', category: 'Business In Switzerland', date: '25.02.2026' },
+  { title: 'Swiss AG Formation: Requirements, Process, and Costs', href: '/blog/ag-formation-switzerland/', category: 'Swiss Company Formation', date: '06.03.2026', image: '/images/blog/ag-formation.png' },
+  { title: 'Swiss Company Formation: Complete Guide to AG and GmbH Registration', href: '/blog/swiss-company-formation-guide/', category: 'Swiss Company Formation', date: '01.03.2026', image: '/images/blog/company-formation.avif' },
+  { title: 'Structuring a Neurotech Venture: From Market Analysis to Swiss GmbH Formation', href: '/blog/neurotech-venture-switzerland/', category: 'Business In Switzerland', date: '25.02.2026', image: '/images/blog/company-swiss.avif' },
 ];
 
 const schema = [
   {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "name": "Blog — Lawsupport.ch",
+    "name": "Blog — Swiss Corporate Law & Company Formation Guides",
     "url": "https://lawsupport.ch/blog/"
   },
   {
@@ -25,7 +25,7 @@ const schema = [
 ];
 ---
 
-<Base title="Blog — Lawsupport.ch" description="Articles and guides about company formation, tax, and legal services in Switzerland." schema={schema}>
+<Base title="Blog — Swiss Corporate Law & Company Formation Guides" description="Expert guides on Swiss company formation, corporate law, tax planning, and business setup. Practical advice from experienced Swiss lawyers." schema={schema}>
 
   <div class="container">
     <nav class="breadcrumb">
@@ -35,12 +35,20 @@ const schema = [
 
   <section class="section">
     <div class="container">
-      <h1>Blog</h1>
+      <h1>Blog — Swiss Corporate Law Guides</h1>
       <p class="blog-lead">Articles and guides about corporate services in Switzerland.</p>
+      <div class="blog-filters">
+        <button class="blog-filter active" data-filter="all">All</button>
+        <button class="blog-filter" data-filter="Business In Switzerland">Business in Switzerland</button>
+        <button class="blog-filter" data-filter="Swiss Company Formation">Swiss Company Formation</button>
+        <button class="blog-filter" data-filter="Taxes">Taxes</button>
+        <button class="blog-filter" data-filter="Immigration">Immigration</button>
+        <button class="blog-filter" data-filter="Investments">Investments</button>
+      </div>
       <div class="grid-3 blog-grid">
         {articles.map(article => (
-          <a href={article.href} class="card">
-            <div class="card-img" style="background:#ddd"></div>
+          <a href={article.href} class="card" data-category={article.category}>
+            <div class="card-img" style={`background-image:url(${article.image});background-size:cover;background-position:center`}></div>
             <div class="card-body">
               <span class="blog-card-category">{article.category}</span>
               <h3>{article.title}</h3>
@@ -66,4 +74,36 @@ const schema = [
     letter-spacing: 0.5px;
   }
   .blog-card-date { font-size: 0.8rem; color: var(--gray-text); margin-top: 8px; display: block; }
+  .blog-filters {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 32px;
+    flex-wrap: wrap;
+  }
+  .blog-filter {
+    padding: 8px 20px;
+    border-radius: 24px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    background: var(--gray);
+    color: var(--gray-text);
+    border: 1px solid var(--gray-border);
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .blog-filter:hover { border-color: var(--red); color: var(--black); }
+  .blog-filter.active { background: var(--red); color: var(--white); border-color: var(--red); }
 </style>
+
+<script>
+  document.querySelectorAll(".blog-filter").forEach(btn => {
+    btn.addEventListener("click", () => {
+      document.querySelectorAll(".blog-filter").forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      const filter = btn.dataset.filter;
+      document.querySelectorAll(".blog-grid .card").forEach(card => {
+        card.style.display = (filter === "all" || card.dataset.category === filter) ? "" : "none";
+      });
+    });
+  });
+</script>

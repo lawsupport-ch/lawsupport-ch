@@ -1,0 +1,76 @@
+---
+import Base from "../layouts/Base.astro";
+
+const schema = [
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Terms of Service — Lawsupport",
+    "description": "Terms and conditions for using lawsupport.ch. Governing law, disclaimers and liability under Swiss law.",
+    "url": "https://lawsupport.ch/terms/",
+    "publisher": { "@id": "https://lawsupport.ch/#organization" }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://lawsupport.ch/" },
+      { "@type": "ListItem", "position": 2, "name": "Terms of Service", "item": "https://lawsupport.ch/terms/" }
+    ]
+  }
+];
+---
+
+<Base title="Terms of Service — Lawsupport" description="Terms and conditions for using lawsupport.ch. Governing law, disclaimers and liability under Swiss law." schema={schema}>
+
+<section class="legal-page">
+  <div class="container">
+    <h1>Terms of Service</h1>
+    <p class="legal-updated">Last updated: March 2026</p>
+
+    <p>By accessing and using the website lawsupport.ch, you agree to be bound by these terms and conditions. If you do not agree with any part of these terms, please do not use this website.</p>
+
+    <h2>1. Scope</h2>
+    <p>This website is operated by Lawsupport, Stockerstrasse 45, 8002 Zurich, Switzerland. The website provides general information about corporate services and legal support available in Switzerland. It is intended for informational purposes only and does not constitute legal, tax or financial advice.</p>
+
+    <h2>2. Disclaimer</h2>
+    <p>The content published on this website is provided for general informational purposes. While we make every effort to keep the information accurate and up to date, we make no warranties or representations of any kind, express or implied, about the completeness, accuracy, reliability or suitability of the information.</p>
+    <p>The information on this website does not constitute professional legal advice. Laws and regulations change frequently, and the application of law depends on individual circumstances. You should always consult a qualified professional before making decisions based on the content of this website.</p>
+
+    <h2>3. Liability</h2>
+    <p>To the fullest extent permitted by Swiss law, Lawsupport excludes all liability for any loss or damage arising from or in connection with the use of this website. This includes, but is not limited to, direct, indirect, incidental, consequential or punitive damages.</p>
+    <p>Our website may contain links to external websites operated by third parties. We have no control over the content or availability of those sites and accept no responsibility for them. The inclusion of a link does not imply endorsement of the linked website or its operator.</p>
+
+    <h2>4. Copyright</h2>
+    <p>All content on this website, including text, graphics, logos, images and software, is the property of Lawsupport or its content suppliers and is protected by Swiss copyright law (Urheberrechtsgesetz, URG) and international copyright treaties.</p>
+    <p>You may view, download and print pages from this website for your personal, non-commercial use only. Any other reproduction, distribution, modification or use of the content without prior written consent from Lawsupport is prohibited.</p>
+
+    <h2>5. Contact Form Submissions</h2>
+    <p>Submitting an enquiry through our contact form does not create an attorney-client relationship or any other professional relationship. We are under no obligation to respond to or act upon any enquiry received. Any information you submit through the contact form will be treated in accordance with our <a href="/privacy-policy/">Privacy Policy</a>.</p>
+
+    <h2>6. Governing Law and Jurisdiction</h2>
+    <p>These terms are governed by and construed in accordance with the laws of Switzerland. Any disputes arising from or relating to the use of this website shall be subject to the exclusive jurisdiction of the courts of Zurich, Switzerland.</p>
+
+    <h2>7. Changes to These Terms</h2>
+    <p>We reserve the right to modify these terms at any time. Changes take effect immediately upon publication on this website. Your continued use of the website after changes are posted constitutes your acceptance of the revised terms.</p>
+
+    <p style="margin-top: 40px;">If you have any questions about these terms, please contact us at <a href="mailto:info@lawsupport.ch">info@lawsupport.ch</a>.</p>
+  </div>
+</section>
+
+</Base>
+
+<style>
+  .legal-page { padding: 80px 0 64px; }
+  .legal-page h1 { font-size: 2.4rem; margin-bottom: 8px; }
+  .legal-updated { color: var(--gray-text); font-size: 0.9rem; margin-bottom: 40px; }
+  .legal-page h2 { font-size: 1.3rem; margin-top: 36px; margin-bottom: 12px; }
+  .legal-page p, .legal-page li { font-size: 0.95rem; line-height: 1.7; color: #444; }
+  .legal-page ul { padding-left: 24px; margin: 12px 0; }
+  .legal-page li { margin-bottom: 8px; }
+  .legal-page a { color: var(--red); text-decoration: underline; }
+  @media (min-width: 768px) {
+    .legal-page { padding: 120px 0 80px; }
+    .legal-page h1 { font-size: 2.8rem; }
+  }
+</style>

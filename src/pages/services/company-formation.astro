@@ -1,0 +1,253 @@
+---
+import Base from "../../layouts/Base.astro";
+
+const schema = [
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Swiss Company Formation — AG, GmbH & Branch Offices",
+    "description": "Register an AG or GmbH in Switzerland with full legal support. From articles of incorporation to commercial register entry in 2-4 weeks.",
+    "url": "https://lawsupport.ch/services/company-formation/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://lawsupport.ch/" },
+      { "@type": "ListItem", "position": 2, "name": "Company Formation", "item": "https://lawsupport.ch/services/company-formation/" }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {"@type": "Question", "name": "How long does Swiss company formation take?", "acceptedAnswer": {"@type": "Answer", "text": "A standard AG or GmbH formation takes 2 to 4 weeks from notarial deed execution to entry in the cantonal commercial register. Pre-formation steps such as name checks and capital deposits may add another week."}},
+      {"@type": "Question", "name": "What is the minimum share capital for a Swiss AG?", "acceptedAnswer": {"@type": "Answer", "text": "The minimum share capital for a Swiss AG (Aktiengesellschaft) is CHF 100,000, of which at least CHF 50,000 must be paid in at the time of incorporation. For a GmbH, the minimum capital is CHF 20,000, fully paid in."}},
+      {"@type": "Question", "name": "Can a foreigner form a company in Switzerland?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Foreign nationals may own 100% of a Swiss AG or GmbH. However, Swiss law requires at least one person authorised to represent the company to be resident in Switzerland. We provide nominee director services to satisfy this requirement."}},
+      {"@type": "Question", "name": "Which canton should I register my company in?", "acceptedAnswer": {"@type": "Answer", "text": "Canton selection depends on your tax situation, industry, and operational needs. Zug offers corporate tax rates around 11.85%, while Zurich provides access to a larger talent pool. We advise on optimal canton selection based on your business model."}},
+      {"@type": "Question", "name": "Do I need a Swiss bank account before incorporating?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, for an AG or GmbH you must open a capital deposit account at a Swiss bank before the notarial deed is executed. We assist with bank account opening and coordinate the deposit process."}}
+    ]
+  }
+];
+---
+
+<Base title="Swiss Company Formation — AG, GmbH & Branches" description="Register an AG or GmbH in Switzerland with full legal support. From articles of incorporation to commercial register entry in 2-4 weeks. Free consultation." schema={schema}>
+
+  <!-- Breadcrumb -->
+  <div class="container">
+    <nav class="breadcrumb">
+      <a href="/">Home</a> <span>/</span> <span>Company Formation</span>
+    </nav>
+  </div>
+
+  <!-- Hero -->
+  <section class="section">
+    <div class="container">
+      <div class="service-hero-grid">
+        <div>
+          <h1>Swiss Company Formation</h1>
+          <p class="service-lead">Setting up a company in Switzerland requires a notarial deed, a capital deposit at a Swiss bank, and registration with the cantonal commercial register (Handelsregisteramt). The two most common legal forms are the AG (corporation) with CHF 100,000 minimum capital and the GmbH (LLC) with CHF 20,000. Our lawyers handle the entire process — from drafting articles of incorporation to obtaining your extract from the Federal Commercial Registry (EHRA).</p>
+          <a href="/contacts/" class="btn btn-red">Book a Free Consultation</a>
+        </div>
+        <div class="service-hero-image">
+          <img src="/images/lawsupport.webp" alt="Swiss company formation services" class="service-hero-img" loading="lazy" />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- AG Formation -->
+  <section class="section section-gray">
+    <div class="container">
+      <h2 class="section-title">AG Formation (Aktiengesellschaft)</h2>
+      <div class="content-block">
+        <p>The AG is Switzerland's most recognised corporate form, governed by Articles 620-763 of the Swiss Code of Obligations. It suits businesses seeking external investment or planning an eventual IPO. Bearer shares were abolished in 2021 under the Federal Act on the Implementation of FATF Recommendations — all shareholders must now be registered.</p>
+        <p>Formation requires a minimum of one founder (natural person or legal entity), articles of incorporation executed before a Swiss notary, and a capital deposit of at least CHF 50,000. The board of directors must include at least one member who is resident in Switzerland.</p>
+        <p>We prepare the articles of incorporation, coordinate with the notary and the bank, file the application with the commercial register, and register for VAT and social insurance where required.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- GmbH Formation -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title">GmbH Formation (Limited Liability Company)</h2>
+      <div class="content-block">
+        <p>The GmbH is governed by Articles 772-827 of the Code of Obligations. It is the preferred structure for small and medium-sized enterprises, with lower capital requirements (CHF 20,000, fully paid in) and a simpler governance framework than the AG.</p>
+        <p>Quota holders (shareholders) are recorded in the commercial register by name, making the GmbH less suitable for businesses that require shareholder anonymity. However, the transparency is often an advantage when opening bank accounts or applying for permits.</p>
+        <p>Our team handles the full formation process including articles of association, notarisation, capital deposit, and registration with the cantonal Handelsregisteramt.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Branch Offices -->
+  <section class="section section-gray">
+    <div class="container">
+      <h2 class="section-title">Branch Offices of Foreign Companies</h2>
+      <div class="content-block">
+        <p>Foreign companies may establish a branch (Zweigniederlassung) in Switzerland without creating a separate legal entity. The branch operates under the parent company's legal personality but must register with the local commercial register and appoint a resident representative.</p>
+        <p>Branch registration requires certified copies of the parent company's incorporation documents, board resolutions authorising the branch, and details of the appointed Swiss representative. The process typically takes 2 to 3 weeks.</p>
+        <p>We advise on whether a branch or a subsidiary (AG/GmbH) better fits your operational and tax requirements, and manage the entire registration process.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Choosing the Right Structure -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title">Choosing the Right Legal Structure</h2>
+      <div class="content-block">
+        <p>The choice between AG, GmbH, and branch depends on several factors: capital availability, number of shareholders, tax planning, liability preferences, and whether Swiss residency is available within the management team.</p>
+        <p>An AG allows anonymous share ownership (registered shares can be transferred without public disclosure), while GmbH quota transfers require notarial authentication and shareholder approval. A branch avoids double taxation under many treaties but exposes the parent company to unlimited liability for Swiss operations.</p>
+        <p>During your initial consultation, we analyse your specific circumstances and recommend the structure that best serves your commercial goals. Learn more about purchasing an existing company on our <a href="/services/shelf-companies/">shelf companies page</a>, or explore our <a href="/services/financial-licensing/">financial licensing services</a> if your business requires regulatory authorisation.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="section section-gray" id="faq">
+    <div class="container">
+      <h2 class="section-title">Frequently Asked Questions</h2>
+      <div class="faq-list" style="max-width:800px;margin:0 auto">
+        <div class="faq-item">
+          <button class="faq-question">How long does Swiss company formation take?</button>
+          <div class="faq-answer"><div class="faq-answer-inner">A standard AG or GmbH formation takes 2 to 4 weeks from notarial deed execution to entry in the cantonal commercial register. Pre-formation steps such as name checks and capital deposits may add another week.</div></div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question">What is the minimum share capital for a Swiss AG?</button>
+          <div class="faq-answer"><div class="faq-answer-inner">The minimum share capital for a Swiss AG (Aktiengesellschaft) is CHF 100,000, of which at least CHF 50,000 must be paid in at the time of incorporation. For a GmbH, the minimum capital is CHF 20,000, fully paid in.</div></div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question">Can a foreigner form a company in Switzerland?</button>
+          <div class="faq-answer"><div class="faq-answer-inner">Yes. Foreign nationals may own 100% of a Swiss AG or GmbH. However, Swiss law requires at least one person authorised to represent the company to be resident in Switzerland. We provide nominee director services to satisfy this requirement.</div></div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question">Which canton should I register my company in?</button>
+          <div class="faq-answer"><div class="faq-answer-inner">Canton selection depends on your tax situation, industry, and operational needs. Zug offers corporate tax rates around 11.85%, while Zurich provides access to a larger talent pool. We advise on optimal canton selection based on your business model.</div></div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question">Do I need a Swiss bank account before incorporating?</button>
+          <div class="faq-answer"><div class="faq-answer-inner">Yes, for an AG or GmbH you must open a capital deposit account at a Swiss bank before the notarial deed is executed. We assist with bank account opening and coordinate the deposit process.</div></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact -->
+  <section class="section">
+    <div class="container">
+      <div class="about-contact-grid">
+        <div>
+          <h2>Get Started</h2>
+          <p class="service-lead">Ready to form your Swiss company? Contact us for a free initial consultation. We will assess your needs and outline the steps, timeline, and costs.</p>
+          <div class="contact-person">
+            <img src="/images/morgan-hartley-56.webp" alt="Morgan Hartley" width="80" height="80" class="contact-avatar" />
+            <div>
+              <p class="contact-name">Morgan Hartley</p>
+              <p class="contact-role">Senior Corporate Lawyer &amp; Partner</p>
+            </div>
+          </div>
+          <div class="contact-details">
+            <a href="tel:+41445152590">+41 44 51 52 590</a>
+            <a href="mailto:info@lawsupport.ch">info@lawsupport.ch</a>
+          </div>
+        </div>
+        <div class="about-contact-image">
+          <img src="/images/lawsupport.webp" alt="Lawsupport office" class="about-contact-img" loading="lazy" />
+        </div>
+      </div>
+    </div>
+  </section>
+
+</Base>
+
+<style>
+  .service-hero-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 40px;
+    align-items: center;
+  }
+  .service-lead {
+    color: var(--gray-text);
+    font-size: 1.05rem;
+    margin: 16px 0 32px;
+    line-height: 1.7;
+  }
+  .service-hero-img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 12px;
+  }
+  .content-block {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  .content-block p {
+    color: var(--gray-text);
+    font-size: 1rem;
+    line-height: 1.8;
+    margin-bottom: 16px;
+  }
+  .content-block a {
+    color: var(--red);
+    font-weight: 500;
+  }
+  .content-block a:hover {
+    text-decoration: underline;
+  }
+  .about-contact-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 40px;
+    align-items: center;
+  }
+  .contact-person {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin: 24px 0;
+  }
+  .contact-avatar {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    flex-shrink: 0;
+  }
+  .contact-name { font-weight: 700; font-size: 1.1rem; }
+  .contact-role { color: var(--gray-text); font-size: 0.85rem; }
+  .contact-details { display: flex; flex-direction: column; gap: 8px; }
+  .contact-details a { font-weight: 500; }
+  .contact-details a:hover { color: var(--red); }
+  .about-contact-img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 12px;
+  }
+  .faq-list { display: flex; flex-direction: column; gap: 0; }
+  .faq-item { border-bottom: 1px solid #e0e0e0; }
+  .faq-question {
+    width: 100%; background: none; border: none; padding: 20px 0;
+    font-size: 1.05rem; font-weight: 600; text-align: left; cursor: pointer;
+    display: flex; justify-content: space-between; align-items: center;
+    font-family: inherit; color: inherit;
+  }
+  .faq-question::after { content: "+"; font-size: 1.4rem; font-weight: 300; transition: transform 0.2s; }
+  .faq-item.active .faq-question::after { content: "\2212"; }
+  .faq-answer { max-height: 0; overflow: hidden; transition: max-height 0.3s ease; }
+  .faq-item.active .faq-answer { max-height: 300px; }
+  .faq-answer-inner { padding: 0 0 20px; color: var(--gray-text); font-size: 0.95rem; line-height: 1.7; }
+
+  @media (min-width: 768px) {
+    .service-hero-grid { grid-template-columns: 1fr 1fr; }
+    .about-contact-grid { grid-template-columns: 1fr 1fr; }
+  }
+</style>
+<script>
+document.querySelectorAll(".faq-question").forEach(btn => {
+  btn.addEventListener("click", () => { btn.parentElement?.classList.toggle("active"); });
+});
+</script>

@@ -11,6 +11,7 @@
   "author": "Goldblum und Partner AG",
   "license": "UNLICENSED",
   "dependencies": {
+    "@astrojs/sitemap": "^3.7.1",
     "astro": "^6.0.8"
   }
 }

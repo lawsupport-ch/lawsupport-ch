@@ -1,0 +1,253 @@
+---
+import Base from "../../layouts/Base.astro";
+
+const schema = [
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "SECO Work Permits Switzerland — Staff Leasing & EOR",
+    "description": "Obtain SECO work permits for personnel leasing, outstaffing, headhunting, and employer of record services in Switzerland. Full regulatory compliance.",
+    "url": "https://lawsupport.ch/services/seco-permits/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://lawsupport.ch/" },
+      { "@type": "ListItem", "position": 2, "name": "SECO Permits", "item": "https://lawsupport.ch/services/seco-permits/" }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {"@type": "Question", "name": "What is a SECO personnel leasing permit?", "acceptedAnswer": {"@type": "Answer", "text": "Any business that supplies temporary workers to client companies in Switzerland must hold a personnel leasing permit (Personalverleihbewilligung) issued by SECO or the cantonal labour authority. This applies to staffing agencies, outstaffing providers, and employer of record (EOR) services. Operating without a permit carries fines and potential criminal liability under the Employment Services Act (AVG)."}},
+      {"@type": "Question", "name": "How long does it take to obtain a SECO permit?", "acceptedAnswer": {"@type": "Answer", "text": "A cantonal personnel leasing permit typically takes 4 to 8 weeks from application submission. A federal permit, required for cross-cantonal or international leasing, may take 8 to 12 weeks. Processing times depend on the completeness of the application and the cantonal authority workload."}},
+      {"@type": "Question", "name": "Do I need a permit for private employment placement?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Headhunting and recruitment agencies that place candidates for a fee must hold a private employment placement permit (Vermittlungsbewilligung) under the AVG. A cantonal permit covers placement within one canton; a federal permit is needed for cross-cantonal or international placement activities."}},
+      {"@type": "Question", "name": "What is the difference between personnel leasing and employment placement?", "acceptedAnswer": {"@type": "Answer", "text": "Personnel leasing (Personalverleih) means a staffing agency employs workers and assigns them to work at a client company. The agency remains the employer. Employment placement (Arbeitsvermittlung) means a recruiter connects a candidate with an employer, but the employment relationship is directly between the candidate and the hiring company."}},
+      {"@type": "Question", "name": "Can a foreign company obtain a SECO permit?", "acceptedAnswer": {"@type": "Answer", "text": "A foreign company cannot hold a Swiss SECO permit directly. It must establish a Swiss legal entity (AG, GmbH, or branch) with a registered office in Switzerland. The Swiss entity then applies for the permit. We assist with both company formation and the subsequent SECO application."}}
+    ]
+  }
+];
+---
+
+<Base title="SECO Work Permits — Staff Leasing & EOR in CH" description="Obtain SECO work permits for personnel leasing, outstaffing, headhunting, and employer of record services in Switzerland. Full regulatory support." schema={schema}>
+
+  <!-- Breadcrumb -->
+  <div class="container">
+    <nav class="breadcrumb">
+      <a href="/">Home</a> <span>/</span> <span>SECO Permits</span>
+    </nav>
+  </div>
+
+  <!-- Hero -->
+  <section class="section">
+    <div class="container">
+      <div class="service-hero-grid">
+        <div>
+          <h1>SECO Work Permits for Switzerland</h1>
+          <p class="service-lead">Businesses that supply temporary staff, operate as employers of record (EOR), or provide headhunting services in Switzerland must hold a permit issued under the Federal Employment Services Act (Arbeitsvermittlungsgesetz, AVG). SECO (State Secretariat for Economic Affairs) oversees the federal permit regime, while cantonal labour offices handle local authorisations. We manage the entire application process — from preparing the required documentation to liaising with the relevant authorities.</p>
+          <a href="/contacts/" class="btn btn-red">Request a Permit Assessment</a>
+        </div>
+        <div class="service-hero-image">
+          <img src="/images/lawsupport.webp" alt="SECO work permits Switzerland" class="service-hero-img" loading="lazy" />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Personnel Leasing -->
+  <section class="section section-gray">
+    <div class="container">
+      <h2 class="section-title">Personnel Leasing Permits</h2>
+      <div class="content-block">
+        <p>Personnel leasing (Personalverleih) is regulated under Articles 12-20 of the AVG and the corresponding ordinance (AVV). Any company that employs workers and assigns them to perform work under the direction of a third-party client must obtain a personnel leasing permit before commencing operations.</p>
+        <p>There are two permit levels. A cantonal permit authorises leasing within a single canton. A federal permit, issued by SECO, covers cross-cantonal and international personnel leasing. Most staffing agencies operating across Switzerland require the federal variant.</p>
+        <p>Applicants must demonstrate financial stability (typically through a bank guarantee of CHF 50,000 for a cantonal permit or CHF 100,000 for a federal permit), compliance with Swiss labour law, and adequate professional qualifications of the management team. We prepare the application, draft the required guarantee documentation, and ensure your employment contracts meet AVG standards.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Employment Placement -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title">Private Employment Placement</h2>
+      <div class="content-block">
+        <p>Headhunting, executive search, and recruitment agencies that place candidates for a fee are classified as private employment agencies under Articles 2-8 of the AVG. These businesses need a placement permit (Vermittlungsbewilligung) — cantonal for single-canton operations, federal for cross-cantonal or international recruitment.</p>
+        <p>The distinction from personnel leasing is important: in placement, the employment relationship forms directly between the candidate and the client company. The recruiter acts as an intermediary, not as an employer. However, the permit requirements are equally strict, covering financial guarantees, professional qualifications, and compliance with data protection rules when handling candidate information.</p>
+        <p>We advise on which permit type matches your business model and prepare the complete application package for submission to SECO or the cantonal authority.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Outstaffing and EOR -->
+  <section class="section section-gray">
+    <div class="container">
+      <h2 class="section-title">Outstaffing and Employer of Record</h2>
+      <div class="content-block">
+        <p>Outstaffing and EOR arrangements, where a Swiss entity formally employs staff on behalf of a foreign client, fall under the personnel leasing regime. The Swiss EOR company acts as the legal employer, handles payroll, social insurance contributions (AHV/IV/EO), pension fund enrolment (BVG), and accident insurance (UVG), while the worker performs duties directed by the foreign client.</p>
+        <p>This model is increasingly used by international companies that want to hire talent in Switzerland without establishing their own subsidiary. However, the EOR provider must hold a valid personnel leasing permit under the AVG. Without it, both the EOR company and the client face administrative sanctions and potential fines.</p>
+        <p>We assist EOR operators with permit applications and ongoing compliance, and advise foreign companies on selecting a compliant EOR provider. If you need to <a href="/services/company-formation/">form a Swiss company</a> to serve as your EOR vehicle, we handle that as well.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Compliance and Obligations -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section-title">Ongoing Compliance Obligations</h2>
+      <div class="content-block">
+        <p>Holding a SECO permit is not a one-time event. Permit holders must comply with ongoing obligations: maintaining the bank guarantee, adhering to equal pay requirements (Gleichstellungsgesetz), respecting minimum wage provisions in cantons that impose them, and ensuring proper social insurance coverage for all leased workers.</p>
+        <p>SECO and cantonal authorities conduct periodic audits. Non-compliance can result in permit revocation, fines, or criminal proceedings under Article 39 of the AVG. We provide ongoing compliance support, including contract reviews, audit preparation, and regulatory updates.</p>
+        <p>For businesses also requiring <a href="/services/financial-licensing/">financial services licensing</a> — for example, fintech staffing agencies — we coordinate both regulatory processes to avoid duplication and delays.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="section section-gray" id="faq">
+    <div class="container">
+      <h2 class="section-title">Frequently Asked Questions</h2>
+      <div class="faq-list" style="max-width:800px;margin:0 auto">
+        <div class="faq-item">
+          <button class="faq-question">What is a SECO personnel leasing permit?</button>
+          <div class="faq-answer"><div class="faq-answer-inner">Any business that supplies temporary workers to client companies in Switzerland must hold a personnel leasing permit (Personalverleihbewilligung) issued by SECO or the cantonal labour authority. This applies to staffing agencies, outstaffing providers, and employer of record (EOR) services. Operating without a permit carries fines and potential criminal liability under the Employment Services Act (AVG).</div></div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question">How long does it take to obtain a SECO permit?</button>
+          <div class="faq-answer"><div class="faq-answer-inner">A cantonal personnel leasing permit typically takes 4 to 8 weeks from application submission. A federal permit, required for cross-cantonal or international leasing, may take 8 to 12 weeks. Processing times depend on the completeness of the application and the cantonal authority workload.</div></div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question">Do I need a permit for private employment placement?</button>
+          <div class="faq-answer"><div class="faq-answer-inner">Yes. Headhunting and recruitment agencies that place candidates for a fee must hold a private employment placement permit (Vermittlungsbewilligung) under the AVG. A cantonal permit covers placement within one canton; a federal permit is needed for cross-cantonal or international placement activities.</div></div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question">What is the difference between personnel leasing and employment placement?</button>
+          <div class="faq-answer"><div class="faq-answer-inner">Personnel leasing (Personalverleih) means a staffing agency employs workers and assigns them to work at a client company. The agency remains the employer. Employment placement (Arbeitsvermittlung) means a recruiter connects a candidate with an employer, but the employment relationship is directly between the candidate and the hiring company.</div></div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question">Can a foreign company obtain a SECO permit?</button>
+          <div class="faq-answer"><div class="faq-answer-inner">A foreign company cannot hold a Swiss SECO permit directly. It must establish a Swiss legal entity (AG, GmbH, or branch) with a registered office in Switzerland. The Swiss entity then applies for the permit. We assist with both company formation and the subsequent SECO application.</div></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact -->
+  <section class="section">
+    <div class="container">
+      <div class="about-contact-grid">
+        <div>
+          <h2>Apply for Your Permit</h2>
+          <p class="service-lead">Whether you are launching a staffing agency, expanding EOR services into Switzerland, or starting a recruitment firm, we will identify the right permit type and manage the application from start to finish.</p>
+          <div class="contact-person">
+            <img src="/images/morgan-hartley-56.webp" alt="Morgan Hartley" width="80" height="80" class="contact-avatar" />
+            <div>
+              <p class="contact-name">Morgan Hartley</p>
+              <p class="contact-role">Senior Corporate Lawyer &amp; Partner</p>
+            </div>
+          </div>
+          <div class="contact-details">
+            <a href="tel:+41445152590">+41 44 51 52 590</a>
+            <a href="mailto:info@lawsupport.ch">info@lawsupport.ch</a>
+          </div>
+        </div>
+        <div class="about-contact-image">
+          <img src="/images/lawsupport.webp" alt="Lawsupport office" class="about-contact-img" loading="lazy" />
+        </div>
+      </div>
+    </div>
+  </section>
+
+</Base>
+
+<style>
+  .service-hero-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 40px;
+    align-items: center;
+  }
+  .service-lead {
+    color: var(--gray-text);
+    font-size: 1.05rem;
+    margin: 16px 0 32px;
+    line-height: 1.7;
+  }
+  .service-hero-img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 12px;
+  }
+  .content-block {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  .content-block p {
+    color: var(--gray-text);
+    font-size: 1rem;
+    line-height: 1.8;
+    margin-bottom: 16px;
+  }
+  .content-block a {
+    color: var(--red);
+    font-weight: 500;
+  }
+  .content-block a:hover {
+    text-decoration: underline;
+  }
+  .about-contact-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 40px;
+    align-items: center;
+  }
+  .contact-person {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin: 24px 0;
+  }
+  .contact-avatar {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    flex-shrink: 0;
+  }
+  .contact-name { font-weight: 700; font-size: 1.1rem; }
+  .contact-role { color: var(--gray-text); font-size: 0.85rem; }
+  .contact-details { display: flex; flex-direction: column; gap: 8px; }
+  .contact-details a { font-weight: 500; }
+  .contact-details a:hover { color: var(--red); }
+  .about-contact-img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 12px;
+  }
+  .faq-list { display: flex; flex-direction: column; gap: 0; }
+  .faq-item { border-bottom: 1px solid #e0e0e0; }
+  .faq-question {
+    width: 100%; background: none; border: none; padding: 20px 0;
+    font-size: 1.05rem; font-weight: 600; text-align: left; cursor: pointer;
+    display: flex; justify-content: space-between; align-items: center;
+    font-family: inherit; color: inherit;
+  }
+  .faq-question::after { content: "+"; font-size: 1.4rem; font-weight: 300; transition: transform 0.2s; }
+  .faq-item.active .faq-question::after { content: "\2212"; }
+  .faq-answer { max-height: 0; overflow: hidden; transition: max-height 0.3s ease; }
+  .faq-item.active .faq-answer { max-height: 300px; }
+  .faq-answer-inner { padding: 0 0 20px; color: var(--gray-text); font-size: 0.95rem; line-height: 1.7; }
+
+  @media (min-width: 768px) {
+    .service-hero-grid { grid-template-columns: 1fr 1fr; }
+    .about-contact-grid { grid-template-columns: 1fr 1fr; }
+  }
+</style>
+<script>
+document.querySelectorAll(".faq-question").forEach(btn => {
+  btn.addEventListener("click", () => { btn.parentElement?.classList.toggle("active"); });
+});
+</script>
