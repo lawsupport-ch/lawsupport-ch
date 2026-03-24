@@ -19,6 +19,17 @@ tocItems:
     title: "Payroll-Specific Software"
   - id: "how-to-choose-the-right-software"
     title: "How to Choose the Right Software"
+faqItems:
+  - question: "Does a Swiss GmbH need accounting software?"
+    answer: "Yes. Swiss law requires double-entry bookkeeping. Accounting software or a fiduciary is essential."
+  - question: "Is cloud or local accounting software better?"
+    answer: "Both work. Swiss data protection leads some to prefer local; cloud offers convenience and remote access."
+  - question: "What is the Kontenrahmen KMU?"
+    answer: "The standard Swiss chart of accounts for SMEs with standardised numbering. All Swiss accounting software includes it."
+  - question: "Do I need Swissdec-certified software for payroll?"
+    answer: "Strongly recommended. It automates electronic salary data exchange with tax authorities and social insurance."
+  - question: "How much does Swiss accounting software cost per year?"
+    answer: "From free (Banana) to CHF 50,000+ (Abacus enterprise). A typical SME pays CHF 350-2,400/year for cloud options."
 ---
 
 # Swiss Accounting Software: Top Options for Swiss Companies (2026)

@@ -6,6 +6,13 @@ publishDate: "2026-07-12"
 category: "Banking & Finance"
 categoryHref: "/blog/"
 readTime: "14 min read"
+faqItems:
+  - question: "Can I buy SNB shares?"
+    answer: "Yes. SNB shares are listed on SIX Swiss Exchange (SNBN). However, no single private shareholder may hold more than 100 shares, limiting any individual's economic interest."
+  - question: "Does the SNB set mortgage rates?"
+    answer: "Not directly. The SNB sets its policy rate, which influences the Swiss Average Rate Overnight (SARON), which in turn feeds into variable mortgage rates in Switzerland."
+  - question: "Is the SNB independent of the Swiss government?"
+    answer: "Yes. The SNB has operational independence in conducting monetary policy. The Federal Council does not instruct the SNB on interest rate decisions."
 tocItems:
   - id: "legal-status-and-ownership"
     title: "Legal Status and Ownership"

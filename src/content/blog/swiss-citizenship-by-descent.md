@@ -1,11 +1,22 @@
 ---
-title: "Swiss Citizenship by Descent: Claiming Citizenship Through a Swiss Parent (2026)"
-description: "Switzerland transmits citizenship through blood, not birthplace. Find out whether you already hold Swiss citizenship through a parent or grandparent and what steps to take."
+title: "Swiss Citizenship by Descent: Parents & Grandparents (2026)"
+description: "Switzerland transmits citizenship by blood, not birthplace. Find out if you hold Swiss citizenship through a parent or grandparent and what to do."
 date: "19.03.2026"
 publishDate: "2026-07-02"
 category: "Immigration"
 categoryHref: "/blog/"
 readTime: "15 min read"
+faqItems:
+  - question: "I was born in Australia to a Swiss father. Am I Swiss?"
+    answer: "Possibly. If your father was Swiss at the time of your birth, and you were born in wedlock (or paternity was legally established if outside wedlock), you may have inherited Swiss citizenship. The key question is whether you were registered at the Swiss consulate before your 25th birthday, and whether your father himself held Swiss citizenship at the time (i.e., that his citizenship had not lapsed under prior generation rules). A case-specific assessment is required."
+  - question: "My Swiss grandparent never became a citizen of another country. Does that affect my claim?"
+    answer: "Your grandparent's retention of Swiss citizenship matters to the extent that it determines whether your parent inherited Swiss citizenship — and whether your parent then transmitted it to you. Your grandparent's decision not to naturalise elsewhere is relevant background, but the analysis still turns on whether each transmission step in the chain was completed within the applicable rules."
+  - question: "Can I apply for a Swiss passport if I am not registered but believe I am Swiss?"
+    answer: "Not directly. Before a Swiss passport is issued, Swiss citizenship must be formally established in the civil registry. The registration process — including verification with the Heimatgemeinde and/or consulate — must be completed first. Once citizenship is confirmed and documented, a passport application follows through normal consular channels."
+  - question: "My mother was Swiss but lost her citizenship when she married my father in 1975. What are my options?"
+    answer: "If your mother lost her Swiss citizenship through marriage before the rules changed in the early 1990s, she may be eligible for reintegration under Art. 51 BüG. Her own citizenship status at the time of your birth determines whether you could have inherited citizenship. If she had already lost Swiss citizenship before you were born, there was no citizenship to transmit. If reintegration is available to her, you would then need to assess whether your claim to citizenship can be asserted through her reinstated status. This is a fact-sensitive situation requiring legal advice."
+  - question: "Is there a fee for registering Swiss citizenship acquired through descent?"
+    answer: "Consular registration fees apply and vary by consulate. Additional cantonal and communal fees may apply depending on the civil registry involved. The costs are generally modest compared to naturalisation fees, but they vary and should be confirmed with the relevant consulate or commune at the time of application."
 tocItems:
   - id: "the-governing-principle-ius-sanguinis-not-ius-soli"
     title: "The Governing Principle: Ius Sanguinis, Not Ius Soli"
@@ -35,7 +46,7 @@ tocItems:
     title: "Take the Next Step"
 ---
 
-# Swiss Citizenship by Descent: Claiming Citizenship Through a Swiss Parent (2026)
+# Swiss Citizenship by Descent: Parents & Grandparents (2026)
 
 Switzerland does not grant citizenship based on where you were born. It grants citizenship based on who your parents are. If one of your parents is Swiss, there is a real possibility that you are Swiss too — even if you have never lived in Switzerland, do not speak a Swiss national language, and your family left decades ago.
 

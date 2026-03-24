@@ -1,11 +1,22 @@
 ---
-title: "IP Box / Patent Box Switzerland: Tax Reduction on IP Income (2026)"
-description: "Switzerland's Patent Box regime allows up to 90% reduction on qualifying IP income at cantonal level. How the Swiss IP Box works, who qualifies and how to claim."
+title: "Patent Box Switzerland: IP Tax Reduction (2026)"
+description: "Swiss Patent Box regime allows up to 90% reduction on qualifying IP income at cantonal level. How the IP Box works, who qualifies and how to claim."
 date: "19.03.2026"
 publishDate: "2026-05-15"
 category: "Tax & Accounting"
 categoryHref: "/blog/"
 readTime: "14 min read"
+faqItems:
+  - question: "Does the Swiss Patent Box apply to federal corporate tax?"
+    answer: "No. The Patent Box reduction applies only at cantonal and communal level. Federal corporate income tax continues at 8.5% on pre-tax profit. Since cantonal taxes represent the majority of the burden in low-tax cantons like Zug, the Patent Box still produces a material reduction."
+  - question: "Can a company with no Swiss R&D team use the Patent Box?"
+    answer: "Only to a limited extent. The nexus ratio ties the benefit to qualifying R&D expenditures incurred by the Swiss company or through unrelated third parties. If all R&D is done by a foreign related entity, the nexus ratio will be low."
+  - question: "Do trademarks qualify for the Swiss Patent Box?"
+    answer: "No. Trademarks and brand-related rights are explicitly excluded under Article 24a StHG and the OECD modified nexus approach. Only patents and patent-equivalent rights qualify."
+  - question: "How long does an advance tax ruling for the Patent Box in Zug take?"
+    answer: "The Zug cantonal tax authority typically processes Patent Box advance ruling requests within 8 to 16 weeks, depending on the complexity of the IP portfolio and completeness of documentation."
+  - question: "Can the Patent Box be combined with the R&D super-deduction?"
+    answer: "Yes. The Patent Box and the R&D super-deduction are complementary measures. However, the combined relief from all TRAF instruments is capped at a 70% reduction of taxable cantonal profit."
 tocItems:
   - id: "what-is-the-swiss-patent-box"
     title: "What Is the Swiss Patent Box?"
@@ -29,7 +40,7 @@ tocItems:
     title: "How Lawsupport Helps"
 ---
 
-# IP Box / Patent Box Switzerland: Tax Reduction on IP Income (2026)
+# Patent Box Switzerland: IP Tax Reduction (2026)
 
 Switzerland introduced the IP Box regime as part of the 2020 Federal Tax Reform (TRAF). For companies holding patents or equivalent IP rights, it provides one of the most significant tax incentives available under Swiss cantonal law -- a reduction of up to 90% on net qualifying IP income.
 

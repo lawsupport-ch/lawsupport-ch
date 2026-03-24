@@ -1,11 +1,22 @@
 ---
 title: "Swiss Banks List: Major Banks in Switzerland (2026)"
-description: "Full list of major Swiss banks by category: UBS, cantonal banks, private banks, Raiffeisen, and specialist institutions. FINMA-regulated with AUM and key details."
+description: "Major Swiss banks by category: UBS, cantonal banks, private banks, Raiffeisen and specialist institutions. FINMA-regulated with AUM and key details."
 date: "19.03.2026"
 publishDate: "2026-06-26"
 category: "Banking & Finance"
 categoryHref: "/blog/"
 readTime: "9 min read"
+faqItems:
+  - question: "Which Swiss bank is safest for deposits?"
+    answer: "All Swiss banks are protected up to CHF 100'000 per depositor per bank through esisuisse. Cantonal banks with state guarantees (Staatsgarantie) provide additional implicit protection. ZKB (Zurich) and the other large cantonal banks are widely considered the safest for Swiss retail deposits."
+  - question: "How many banks are in Switzerland?"
+    answer: "Approximately 240 banks hold FINMA banking licences in Switzerland as of 2026. This is down from a peak of over 600 in the 1990s, reflecting decades of consolidation."
+  - question: "Which Swiss banks accept non-residents?"
+    answer: "Non-residents can open accounts at several cantonal banks, private banks (with sufficient assets), and specialist international banks. Our [Swiss bank account for non-residents guide](/blog/swiss-bank-account-non-residents/) covers this in detail."
+  - question: "What is the largest bank in Switzerland?"
+    answer: "UBS is the largest bank in Switzerland and one of the largest in the world, with approximately USD 3.5 trillion in invested assets. It became significantly larger after absorbing Credit Suisse in 2023."
+  - question: "Are cantonal banks safer than UBS?"
+    answer: "Cantonal banks with a state guarantee (Staatsgarantie) offer an additional layer of deposit protection that UBS does not. The canton itself guarantees deposits, making cantonal banks effectively backed by cantonal government credit. Both UBS and cantonal banks are FINMA-regulated and part of the esisuisse scheme."
 tocItems:
   - id: "big-banks"
     title: "Big Banks"

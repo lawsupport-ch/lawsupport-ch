@@ -1,11 +1,22 @@
 ---
-title: "Trademark Registration Switzerland: Process, Costs & Protection (2026)"
+title: "Trademark Registration Switzerland: Costs & Process"
 description: "Register a trademark in Switzerland: official fees from CHF 550, timelines, Nice classes, and enforcement. Practitioner guide by Lawsupport, Zug."
 date: "19.03.2026"
 publishDate: "2026-08-09"
 category: "IP & Commercial Law"
 categoryHref: "/blog/"
 readTime: "14 min read"
+faqItems:
+  - question: "Can a foreign company register a trademark in Switzerland without a local representative?"
+    answer: "Applicants with no domicile or registered office in Switzerland must appoint a representative with a Swiss address for service before the IGE. There is no requirement to use a Swiss attorney, but practically a locally qualified IP practitioner is strongly advisable given the formal examination requirements and potential opposition proceedings."
+  - question: "Does EU trademark registration cover Switzerland?"
+    answer: "No. The EU Intellectual Property Office (EUIPO) has no jurisdiction in Switzerland. An EUTM provides no protection in Switzerland. Separate Swiss national registration or a Madrid designation of Switzerland is required."
+  - question: "What happens if someone files an identical mark before my application?"
+    answer: "Swiss law is a first-to-file system. The earlier filing date determines priority. If a conflicting application is published, you may file an opposition within the three-month window based on your own earlier rights — but if you have no prior registration or well-known mark, your options are limited. This underscores the importance of filing promptly after completing a clearance search."
+  - question: "Can a trademark be transferred or licensed?"
+    answer: "Yes. Swiss trademarks can be assigned (transferred in full) or licensed (exclusively or non-exclusively) by written agreement. Assignments and exclusive licences should be recorded in the IGE register to be enforceable against third parties. A trademark can also be pledged as security for financing arrangements."
+  - question: "How much does trademark registration in Switzerland cost?"
+    answer: "The IGE application fee is CHF 550 for the first Nice class, plus CHF 100 for each additional class. A mark filed in three classes costs CHF 750 at application. Professional service fees for drafting, filing, and prosecution typically bring total first-year costs to CHF 1,500-3,000 depending on complexity and the number of classes involved."
 tocItems:
   - id: "legal-framework"
     title: "Legal Framework"
@@ -37,7 +48,7 @@ tocItems:
     title: "Protect Your Brand in Switzerland"
 ---
 
-# Trademark Registration Switzerland: Process, Costs & Protection (2026)
+# Trademark Registration Switzerland: Costs & Process (2026)
 
 A registered trademark is one of the most commercially durable assets a business can hold. Trademark registration in Switzerland grants the owner an exclusive, territorially defined right enforceable against competitors, counterfeiters, and bad-faith filers for an initial ten-year term — renewable indefinitely. The Swiss Federal Institute of Intellectual Property (IGE/IPI) administers the process, with official application fees starting at CHF 550 per class. This guide sets out the legal framework, the step-by-step application process, official fees, and the practical considerations that determine whether a Swiss trademark filing succeeds or stalls.
 

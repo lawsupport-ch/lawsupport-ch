@@ -1,11 +1,18 @@
 ---
-title: "Swiss Naturalization: Ordinary Citizenship Requirements & Process (2026)"
+title: "Swiss Naturalization: Requirements & Process (2026)"
 description: "Swiss ordinary naturalization requires 10 years residence, a C permit, and integration proof. Three-level approval process explained step by step."
 date: "19.03.2026"
 publishDate: "2026-07-14"
 category: "Immigration"
 categoryHref: "/blog/"
 readTime: "16 min read"
+faqItems:
+  - question: "Can I apply for Swiss naturalization with a B permit?"
+    answer: "No. Ordinary naturalization requires a C permit (settlement permit). EU/EFTA nationals can obtain a C permit after 5 years of residence; non-EU/EFTA nationals typically after 10 years."
+  - question: "How long does Swiss naturalization take from start to finish?"
+    answer: "The three-level approval process takes 12 to 36 months after filing. This is in addition to the 10 years of residence needed before you can file."
+  - question: "What language level is required for Swiss naturalization?"
+    answer: "The federal minimum is B1 oral and A2 written in a Swiss national language. Many cantons and communes require higher levels such as B1 written or B2 overall."
 tocItems:
   - id: "who-can-apply-for-ordinary-naturalization"
     title: "Who Can Apply for Ordinary Naturalization"
@@ -27,7 +34,7 @@ tocItems:
     title: "Start Your Naturalization Journey With Expert Support"
 ---
 
-# Swiss Naturalization: Ordinary Citizenship Requirements & Process (2026)
+# Swiss Naturalization: Requirements & Process (2026)
 
 Swiss ordinary naturalization (ordentliche Einbuergerung) is the standard route to Swiss citizenship for foreign nationals who have lived in Switzerland long enough to meet the residence requirement. The process requires at least 10 years of Swiss residence, a valid C permit, and demonstrated integration into Swiss society. Approval is needed at three separate levels: communal (Gemeinde), cantonal (Kanton), and federal. This guide explains every requirement, the full timeline, and what to expect at each stage.
 

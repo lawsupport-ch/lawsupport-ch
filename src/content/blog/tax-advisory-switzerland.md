@@ -1,11 +1,22 @@
 ---
-title: "Tax Advisory Switzerland: Corporate Tax Planning for Swiss Companies (2026)"
+title: "Tax Advisory Switzerland: Corporate Planning"
 description: "Swiss corporate tax advisory for international clients: tax structuring, advance rulings, IP Box, holding structures, and treaty planning from Lawsupport, Zug."
 date: "19.03.2026"
 publishDate: "2026-07-30"
 category: "Tax & Accounting"
 categoryHref: "/blog/"
 readTime: "13 min read"
+faqItems:
+  - question: "What is the difference between tax advisory and tax compliance?"
+    answer: "Tax compliance is filing what is required — annual tax returns, VAT returns, withholding tax declarations. Tax advisory is planning how your company's structure and transactions are arranged to minimise legally what those returns will show. Both are necessary; advisory determines the outcome, compliance records it."
+  - question: "When should I engage a tax adviser for my Swiss company?"
+    answer: "Before you form the company — the cantonal choice alone can be worth tens of thousands of francs per year. And whenever you plan a significant structural change: acquiring or disposing of a subsidiary, moving IP into or out of Switzerland, distributing profits, taking on related-party debt, or applying for an IP Box. Retrospective planning is more limited than prospective planning."
+  - question: "Does every Swiss company need tax advisory?"
+    answer: "Simple operating companies with standard domestic transactions and no international elements can often manage with good tax compliance alone. Tax advisory becomes materially valuable for: holding structures, international groups, IP-intensive businesses, companies receiving dividends from subsidiaries, businesses considering Swiss residence from a tax efficiency perspective, and any structure where the tax treatment is not straightforwardly clear from published rules."
+  - question: "What does a Swiss tax adviser typically charge?"
+    answer: "Fees vary by complexity. A straightforward cantonal selection analysis costs CHF 2,000-5,000. An advance tax ruling preparation typically costs CHF 5,000-15,000. Ongoing advisory retainers for international structures range from CHF 10,000-50,000 per year depending on the number of entities and transaction complexity."
+  - question: "Can a Swiss tax adviser help with international tax planning?"
+    answer: "Yes. Swiss tax advisory routinely involves cross-border elements — double tax treaty analysis, transfer pricing, withholding tax optimisation, and coordinating with advisers in other jurisdictions. Switzerland's network of over 100 double tax treaties and its participation in the OECD BEPS framework make it a structurally sound base for international tax planning."
 tocItems:
   - id: "what-swiss-tax-advisory-covers"
     title: "What Swiss Tax Advisory Covers"
@@ -17,7 +28,7 @@ tocItems:
     title: "Contact Lawsupport for Tax Advisory: Request a Free Assessment"
 ---
 
-# Tax Advisory Switzerland: Corporate Tax Planning for Swiss Companies (2026)
+# Tax Advisory Switzerland: Corporate Tax Planning (2026)
 
 Tax advisory in Switzerland covers the strategic planning of your company's structure, financing, and operations to minimise tax liability within the law. The effective combined corporate tax rate varies from 11.8% in Zug to 20.7% in Bern — for a company generating CHF 1 million in taxable profit, the difference between cantons alone can exceed CHF 79,000 per year. This guide explains what Swiss corporate tax advisory covers, what it delivers, and how Lawsupport advises clients on Swiss tax matters.
 

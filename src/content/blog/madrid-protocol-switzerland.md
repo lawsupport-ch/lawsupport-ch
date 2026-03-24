@@ -1,11 +1,22 @@
 ---
-title: "Madrid Protocol Switzerland: International Trademark Registration (2026)"
+title: "Madrid Protocol Switzerland: Trademark Filing (2026)"
 description: "Using the Madrid Protocol for international trademark registration from Switzerland: filing through IPI and WIPO, fees, designated countries, and risks."
 date: "19.03.2026"
 publishDate: "2026-05-03"
 category: "IP & Commercial Law"
 categoryHref: "/blog/"
 readTime: "13 min read"
+faqItems:
+  - question: "Do I need a Swiss trademark before using the Madrid Protocol?"
+    answer: "Yes. A Swiss basic mark, either registered or pending at the IPI, is mandatory for filing an international application through Switzerland as the office of origin."
+  - question: "How long does the Madrid Protocol process take?"
+    answer: "From filing through the IPI to confirmation in all designated countries, the process typically takes 12 to 18 months. Each designated country has 12 or 18 months to issue a refusal."
+  - question: "Can I add countries to my international registration later?"
+    answer: "Yes. Subsequent designations can be filed at any time. You pay the applicable fees for new countries, but the filing date for additions is a new date."
+  - question: "What happens if a designated country refuses my mark?"
+    answer: "A refusal gives you the opportunity to respond through local counsel. Refusal in one country does not affect your registration in others."
+  - question: "Can I designate the EU as a single territory?"
+    answer: "Yes. The EU can be designated as one territory, processed by the EUIPO. If accepted, it provides protection across all 27 EU member states."
 tocItems:
   - id: "what-the-madrid-protocol-is"
     title: "What the Madrid Protocol Is"
@@ -23,7 +34,7 @@ tocItems:
     title: "Practical Takeaways"
 ---
 
-# Madrid Protocol Switzerland: International Trademark Registration (2026)
+# Madrid Protocol Switzerland: Trademark Filing (2026)
 
 If you are building a brand with reach beyond Switzerland, filing a separate trademark application in every target country is expensive, slow, and operationally burdensome. The Madrid Protocol provides a structured alternative: one international application, processed through a single channel, covering up to 130 jurisdictions. This guide explains how it works for Swiss-based applicants, what it costs, and where the risks sit.
 

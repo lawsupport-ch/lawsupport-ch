@@ -1,11 +1,22 @@
 ---
-title: "How to Immigrate to Switzerland: Guide for Entrepreneurs (2026)"
-description: "Planning to immigrate to Switzerland as an entrepreneur or investor? This 2026 guide covers every permit type, the Zug tax advantage, and steps for non-EU founders."
+title: "Immigrate to Switzerland as an Entrepreneur (2026)"
+description: "Immigrate to Switzerland as an entrepreneur or investor. Permit types, Zug tax advantage, and steps for non-EU founders explained."
 date: "19.03.2026"
 publishDate: "2026-04-15"
 category: "Immigration"
 categoryHref: "/blog/"
 readTime: "12 min read"
+faqItems:
+  - question: "How long does it take to get Swiss residency?"
+    answer: "For EU/EFTA nationals, permit issuance typically takes two to four weeks. For non-EU entrepreneurs, the realistic timeline is six to twelve months from initial consultation to permit issuance."
+  - question: "What is the minimum investment to get a Swiss residence permit?"
+    answer: "Switzerland has no golden visa programme. In practice, non-EU applicants need personal liquidity of at least CHF 500,000 and a Swiss business capitalisation of CHF 500,000 to CHF 1,000,000."
+  - question: "Can I work remotely for a foreign company on a Swiss B permit?"
+    answer: "It depends on your permit terms. Providing services to foreign clients is generally permissible under self-employment, but the structure matters for immigration and tax purposes."
+  - question: "Do I need to speak German to immigrate to Switzerland?"
+    answer: "Not for the permit application itself (your lawyer handles documentation). For long-term residency and naturalisation, German proficiency at B1 or B2 level is required."
+  - question: "Is there a Swiss investor visa or golden visa?"
+    answer: "No. Switzerland does not offer a golden visa. The closest equivalent is lump-sum taxation for wealthy non-working foreign nationals, which requires genuine Swiss residence."
 tocItems:
   - id: "euefta-citizens-vs-non-euefta-citizens-the-fundamental-disti"
     title: "EU/EFTA Citizens vs. Non-EU/EFTA Citizens: The Fundamental Distinction"
@@ -31,7 +42,7 @@ tocItems:
     title: "Practical Steps: The Non-EU Entrepreneur's Swiss Immigration Checklist"
 ---
 
-# How to Immigrate to Switzerland: Guide for Entrepreneurs (2026)
+# Immigrate to Switzerland as an Entrepreneur (2026)
 
 Switzerland does not make immigration easy — and that is partly the point. The country's residency system is rule-based, quota-constrained for non-EU nationals, and administered with Swiss precision by 26 cantonal authorities, each with meaningful discretion. There is no golden visa. There is no passive investment threshold that automatically unlocks a permit. What Switzerland offers instead is something more durable: a genuinely low-tax environment with some of the world's most competitive cantonal corporate rates, political stability that has held for generations, a central European location within two hours of most major financial centres, and a legal system that protects capital and enforces contracts reliably. For entrepreneurs and international business people who qualify, the reward of Swiss residency is substantial. This guide covers every viable route to Swiss residency for founders, executives, investors, and self-employed professionals in 2026 — with concrete timelines, realistic cost expectations, and the procedural detail you need to make an informed decision before you engage a lawyer or contact a cantonal migration office.
 

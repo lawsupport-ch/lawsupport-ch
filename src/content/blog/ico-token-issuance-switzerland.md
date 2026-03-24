@@ -1,11 +1,22 @@
 ---
-title: "ICO & Token Issuance Switzerland: FINMA Rules & Legal Framework (2026)"
+title: "ICO & Token Issuance Switzerland: FINMA Rules"
 description: "Issuing tokens in Switzerland requires FINMA token classification as payment, utility, or asset. Learn prospectus rules, DLT Act provisions, and Zug setup."
 date: "19.03.2026"
 publishDate: "2026-04-09"
 category: "Licensing & Permits"
 categoryHref: "/services/financial-licensing/"
 readTime: "8 min read"
+faqItems:
+  - question: "Does every token sale in Switzerland require FINMA approval?"
+    answer: "No. FINMA does not operate a pre-approval regime for token issuances. Regulatory obligations are determined by the token classification. Payment and fully functional utility tokens have no securities law obligations."
+  - question: "What is the difference between a payment token and an asset token?"
+    answer: "A payment token functions purely as a means of exchange or value transfer. An asset token represents rights analogous to equity, debt, or derivatives. Asset tokens are classified as securities under Swiss law, triggering prospectus obligations."
+  - question: "How long does it take to set up a Swiss foundation for a token issuance?"
+    answer: "Foundation formation in Zug typically takes 3 to 5 weeks from document preparation to Commercial Register entry."
+  - question: "Is a FINMA no-action letter required before issuing tokens?"
+    answer: "A FINMA no-action letter is not legally required. However, many professional token issuers voluntarily submit a classification enquiry to FINMA. FINMA typically responds within 6 to 12 weeks."
+  - question: "What is the minimum cost to structure a compliant Swiss token issuance?"
+    answer: "For a utility token issuance using existing structures and professional investor exemptions, legal structuring typically costs CHF 30,000-80,000. A full asset token offering requiring a prospectus will typically exceed CHF 150,000."
 tocItems:
   - id: "why-switzerland-for-token-issuances"
     title: "Why Switzerland for Token Issuances"
@@ -25,7 +36,7 @@ tocItems:
     title: "Switzerland vs. Cayman Islands: A Direct Comparison"
 ---
 
-# ICO & Token Issuance Switzerland: FINMA Rules & Legal Framework (2026)
+# ICO & Token Issuance Switzerland: FINMA Rules
 
 Switzerland has been the dominant jurisdiction for ICOs and token issuances since 2016. That position is not accidental. FINMA published clear regulatory guidance earlier than any comparable authority, Swiss law accommodates distributed ledger technology natively, and Zug's Crypto Valley has become home to the Ethereum Foundation, Polkadot, Cardano, and hundreds of blockchain projects. If you are structuring a token issuance, Switzerland remains the benchmark against which every other jurisdiction is measured.
 

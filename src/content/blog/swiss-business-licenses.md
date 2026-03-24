@@ -1,11 +1,22 @@
 ---
-title: "Swiss Business Licenses & Permits: What Your Company Needs (2026)"
+title: "Swiss Business Licences & Permits: Company Guide (2026)"
 description: "What business licences and permits does a Swiss company need? Industry-specific requirements for finance, healthcare, food, construction and more."
 date: "19.03.2026"
 publishDate: "2026-06-28"
 category: "Licensing & Permits"
 categoryHref: "/services/financial-licensing/"
 readTime: "14 min read"
+faqItems:
+  - question: "Do I need a business licence to open a GmbH or AG in Switzerland?"
+    answer: "No. Incorporation in the [Commercial Register](/blog/commercial-register-switzerland/) is the foundational step, but it is not a business licence — it is registration. The vast majority of commercial activities require nothing beyond registration and VAT enrolment. Industry-specific licences (FINMA, Swissmedic, cantonal gastronomy permits, etc.) are required only for regulated sectors. See our guide to [company formation in Switzerland](/blog/company-formation-switzerland/) for the full incorporation process."
+  - question: "How long does it take to get a FINMA licence?"
+    answer: "It depends on the licence type. A fintech licence or SRO affiliation for a payment service provider can be completed in 3-6 months with a complete application. A full banking licence routinely takes 18-24 months and requires significant capital commitment before FINMA approves operations. Asset manager licensing under FinIA typically takes 6-12 months from submission of a complete dossier."
+  - question: "Can a foreign company operate in Switzerland without a Swiss entity?"
+    answer: "In many sectors, yes — cross-border services can be provided to Swiss clients from a foreign entity, subject to applicable rules on marketing and solicitation. However, regulated activities (banking, insurance, fund management, medical practice) require Swiss authorisation or a recognised equivalence arrangement. Establishing a Swiss [branch office](/blog/branch-office-switzerland/) or subsidiary is often required in practice, particularly where physical presence, local compliance officers, or Swiss-domiciled directors are mandatory."
+  - question: "What is the most expensive Swiss business licence to obtain?"
+    answer: "A full banking licence under the Banking Act (BankG) is the most costly. Minimum paid-in capital is CHF 10 million, with Basel III requirements substantially higher in practice. The application process alone — including legal, compliance, and consultancy fees — typically costs CHF 500,000 to CHF 2 million before FINMA approves operations."
+  - question: "Do Swiss cantons charge different fees for business licences?"
+    answer: "Yes. Cantonal and communal licence fees vary meaningfully. A restaurant licence (Gastgewerbebewilligung) in Zug follows different procedures and fee schedules than one in Geneva. Building permit fees are set at the communal level and depend on project value. Always confirm current fees with the relevant cantonal authority."
 tocItems:
   - id: "the-two-tier-licensing-system-in-switzerland"
     title: "The Two-Tier Licensing System in Switzerland"

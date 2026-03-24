@@ -1,11 +1,22 @@
 ---
-title: "Swiss Visa: Schengen Visa, D Visa & Entry Requirements (2026)"
+title: "Swiss Visa: Types, Requirements & Process"
 description: "Swiss visa types explained for 2026: Schengen C visa for short stays up to 90 days, national D visa for longer stays, and visa-free entry requirements."
 date: "19.03.2026"
 publishDate: "2026-07-22"
 category: "Immigration"
 categoryHref: "/blog/"
 readTime: "13 min read"
+faqItems:
+  - question: "Can I work in Switzerland on a Schengen tourist visa?"
+    answer: "No. A Schengen C visa is for tourism, visits, and business meetings only — not employment. Working in Switzerland requires a work permit (and corresponding D visa for non-EU/EFTA nationals, or EU free movement rights for EU/EFTA nationals)."
+  - question: "How long can I stay in Switzerland as a tourist from the US?"
+    answer: "US citizens can stay in Switzerland (and the Schengen Area generally) for up to 90 days in any 180-day period without a visa. After 90 days, you must leave the Schengen Area. Exceeding the 90-day limit results in overstay penalties and potential future entry restrictions."
+  - question: "Can I extend my Schengen visa while in Switzerland?"
+    answer: "Extensions of Schengen C visas are only granted in exceptional circumstances (serious illness, force majeure). Remaining in Switzerland beyond the 90-day visa-free or visa period without a valid permit is illegal overstay."
+  - question: "What is a Swiss D visa and when do I need one?"
+    answer: "A national D visa is required for any stay beyond 90 days, or for purposes such as employment, study, or family reunification that require a residence permit. The D visa is issued after the cantonal migration authority pre-approves the underlying permit."
+  - question: "How much does a Swiss Schengen visa cost?"
+    answer: "EUR 80 (approximately CHF 88) for adults, EUR 40 (approximately CHF 44) for children aged 6–12, and free for children under 6. Processing takes 15 calendar days standard, extending to 30–60 days for complex cases."
 tocItems:
   - id: "who-does-not-need-a-swiss-visa"
     title: "Who Does Not Need a Swiss Visa"
@@ -23,7 +34,7 @@ tocItems:
     title: "Get Expert Guidance on Swiss Visa and Immigration Matters"
 ---
 
-# Swiss Visa: Schengen Visa, D Visa & Entry Requirements (2026)
+# Swiss Visa: Types, Requirements & Process (2026)
 
 A Swiss visa is required for citizens of countries outside the Schengen visa-free list who wish to enter Switzerland. Switzerland is a Schengen Area member, which means its short-stay visa requirements align with Schengen rules. For stays beyond 90 days — including employment, study, or [family reunification](/blog/family-reunification-switzerland/) — a national D visa is required, leading to a Swiss residence permit. This guide explains the different Swiss visa types, who needs one, and how to apply in 2026.
 

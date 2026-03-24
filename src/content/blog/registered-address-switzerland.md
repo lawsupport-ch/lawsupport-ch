@@ -1,11 +1,22 @@
 ---
-title: "Registered Address Switzerland: Domicile Services for Swiss Companies (2026)"
-description: "Every Swiss AG and GmbH needs a registered domicile. Professional registered address services in Zug with mail handling, forwarding, and Commercial Register listing."
+title: "Registered Address Switzerland: Domicile Services (2026)"
+description: "Every Swiss AG and GmbH needs a registered domicile. Professional registered address services in Zug with mail handling and forwarding."
 date: "19.03.2026"
 publishDate: "2026-05-23"
 category: "Company Administration"
 categoryHref: "/blog/"
 readTime: "13 min read"
+faqItems:
+  - question: "Can a Swiss company use a service provider's office as registered address?"
+    answer: "Yes. This is standard practice and entirely legal. The Commercial Register does not require the registered address to be the company's own office -- only that it is in Switzerland and that mail reaches the company."
+  - question: "Does the registered address affect which canton taxes my company?"
+    answer: "Yes. The canton of the registered domicile is normally the primary taxing authority. Registering in Zug gives access to Zug's low corporate tax rates. If the company has substantial operations elsewhere, that canton may also claim proportional taxing rights."
+  - question: "Do I need both a registered address and a nominee director?"
+    answer: "In most cases, yes. The registered address satisfies the domicile requirement (Art. 2 HRegV). The nominee director satisfies the board residency requirement (Art. 718 CO for AG; Art. 814 CO for GmbH). Lawsupport provides both services."
+  - question: "How quickly can a registered address be set up?"
+    answer: "For new formations, the address is established as part of incorporation and included in the Commercial Register entry from day one. For existing companies changing address to Zug, the timeline is typically two to four weeks."
+  - question: "Can multiple companies share the same registered address?"
+    answer: "Yes, and this is common practice. Many companies are domiciled at the same professional address. Each company has its own distinct Commercial Register entry, mail handling, and domicile agreement."
 tocItems:
   - id: "what-swiss-law-requires-the-registered-domicile"
     title: "What Swiss Law Requires: The Registered Domicile"
@@ -29,7 +40,7 @@ tocItems:
     title: "Virtual Office Upgrade Options"
 ---
 
-# Registered Address Switzerland: Domicile Services for Swiss Companies (2026)
+# Registered Address Switzerland: Domicile Services (2026)
 
 Every company incorporated in Switzerland — whether an AG (Aktiengesellschaft) or a GmbH (Gesellschaft mit beschraenkter Haftung) — must have a registered domicile (Sitz) located in Switzerland. This is not optional. It is a statutory requirement embedded in the Swiss Code of Obligations and governed by Art. 2 of the Handelsregisterverordnung (HRegV). The registered address is the address that appears in the Commercial Register (Handelsregister), on official correspondence, and in the company's articles of association.
 

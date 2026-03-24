@@ -1,5 +1,5 @@
 ---
-title: "Swiss Association (Verein): Formation, Structure & Uses (2026)"
+title: "Swiss Association (Verein): Formation & Structure"
 description: "How to form a Swiss Verein (association) under Art. 60 ZGB: requirements, governance, tax status, and when an association is the right structure for 2026."
 date: "19.03.2026"
 publishDate: "2026-06-12"
@@ -21,9 +21,20 @@ tocItems:
     title: "Verein vs Foundation (Stiftung)"
   - id: "verein-vs-gmbh-when-to-choose-which"
     title: "Verein vs GmbH: When to Choose Which"
+faqItems:
+  - question: "Does a Verein have limited liability?"
+    answer: "The Verein itself has limited liability. Members are not personally liable, but committee members can be liable for negligence."
+  - question: "Can a Verein make a profit?"
+    answer: "Yes, but profits must be retained and applied toward the stated purpose. No dividends to members."
+  - question: "How many members does a Swiss Verein need?"
+    answer: "A minimum of two. Members can be natural persons or legal entities. No upper limit."
+  - question: "Can foreigners form a Swiss Verein?"
+    answer: "Yes. No nationality or residency restrictions. Foreign nationals can serve as committee members."
+  - question: "Does a Verein need Commercial Register registration?"
+    answer: "Only if it conducts commercial activities. Non-commercial associations can operate without registration."
 ---
 
-# Swiss Association (Verein): Formation, Structure & Uses (2026)
+# Swiss Association (Verein): Formation & Structure
 
 The Swiss Verein (association) is a non-profit legal entity governed by Articles 60–79 of the <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en" target="_blank" rel="nofollow noopener">Swiss Civil Code (ZGB)</a>. It is the most common organisational form for sports clubs, industry associations, NGOs, and — notably — certain international organisations and crypto projects. Despite being a "non-profit" structure under civil law, a Verein can carry out commercial activities and generate revenue, provided the activities serve its stated purpose.
 

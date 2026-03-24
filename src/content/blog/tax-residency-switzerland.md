@@ -1,11 +1,22 @@
 ---
-title: "Swiss Tax Residency: How to Become a Swiss Tax Resident (2026)"
+title: "Swiss Tax Residency: Rules & Requirements"
 description: "How Swiss tax residency works: the 90-day and 30-day rules, deemed residency, domicile vs habitual residence, and how to establish or exit Swiss tax residency."
 date: "19.03.2026"
 publishDate: "2026-08-01"
 category: "Tax & Accounting"
 categoryHref: "/blog/"
 readTime: "14 min read"
+faqItems:
+  - question: "How long can I stay in Switzerland before becoming a tax resident?"
+    answer: "If you are working in Switzerland, the threshold is 30 consecutive days. If you are not working — for example, managing investments or spending an extended period as a visitor — the threshold is 90 consecutive days. Cross either threshold and Swiss tax residency is established automatically under the habitual residence rule. This applies regardless of whether you have formally registered with the Einwohnerkontrolle."
+  - question: "Can I be tax-resident in Switzerland and another country at the same time?"
+    answer: "Yes, as a matter of domestic law. Both Switzerland and your home country can simultaneously claim you as a tax resident under their own rules. The DTA between the two countries then determines which state has primary taxing rights, using the tie-breaker sequence set out above. Without a DTA in place, genuine double taxation on the same income is possible and has to be managed through unilateral relief mechanisms."
+  - question: "Does Switzerland tax unrealised gains when I leave?"
+    answer: "No. Switzerland does not impose a departure tax or deemed disposal charge on unrealised capital gains when a private individual ceases to be a Swiss tax resident. This stands in direct contrast to the exit tax regimes of Germany, France, and other European countries. Future gains on assets that appreciated during Swiss residency will be taxed wherever you are resident when you eventually realise them — not by Switzerland at the point of departure."
+  - question: "What is the Swiss wealth tax rate?"
+    answer: "Switzerland levies an annual cantonal wealth tax (Vermogenssteuer) on individuals. Effective rates on net worldwide assets typically range from 0.1% to 0.7% per year. In Zug, rates sit at the lower end. On CHF 5 million of net assets, a Zug resident pays approximately CHF 10,000-20,000 per year. The same assets in Geneva or Vaud would attract two to three times that amount."
+  - question: "What is the difference between domicile and habitual residence for Swiss tax purposes?"
+    answer: "Domicile (Steuerrechtlicher Wohnsitz) requires intent to remain permanently and having your centre of vital interests in Switzerland. Habitual residence (Gewohnlicher Aufenthalt) arises automatically after 30 days of continuous presence with gainful activity, or 90 days without. Either basis independently creates Swiss tax residency under Art. 3 DBG."
 tocItems:
   - id: "the-legal-basis-article-3-dbg"
     title: "The Legal Basis: Article 3 DBG"
@@ -27,7 +38,7 @@ tocItems:
     title: "Relocating to Switzerland? Request a Free Assessment"
 ---
 
-# Swiss Tax Residency: How to Become a Swiss Tax Resident (2026)
+# Swiss Tax Residency: Rules & Requirements (2026)
 
 Swiss tax residency determines which country has the right to tax your worldwide income and wealth. Get it wrong in either direction — remaining a tax resident longer than intended, or failing to establish clean residency when you relocate — and the consequences are significant. Under Art. 3 of the Federal Direct Tax Act (DBG), tax residency arises either through domicile (intent to remain permanently) or habitual residence (30 days with gainful activity, 90 days without). This guide sets out the legal framework under Swiss law, the practical triggers you need to know, and what is required to establish or exit Swiss tax residency correctly.
 

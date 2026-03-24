@@ -1,11 +1,22 @@
 ---
-title: "G Permit Switzerland (Cross-Border Commuter): Requirements & Rules (2026)"
+title: "G Permit Switzerland: Cross-Border Commuter Guide"
 description: "Swiss G permit (Grenzgängerausweis) for cross-border commuters: who qualifies, border zone rules, tax implications, and how to apply in 2026."
 date: "19.03.2026"
 publishDate: "2026-03-30"
 category: "Immigration"
 categoryHref: "/blog/"
 readTime: "7 min read"
+faqItems:
+  - question: "Can I hold a G permit if my employer is in Zurich but I live in Germany?"
+    answer: "No. Zurich does not border Germany. The G permit requires both that the worker lives in the border zone of a neighbouring country and that the Swiss workplace is in a border canton adjacent to that country."
+  - question: "How is a G permit holder taxed if they live in Germany?"
+    answer: "Under the Germany-Switzerland Double Taxation Agreement, cross-border commuters from the German border zone are taxed primarily in Germany on Swiss employment income. Switzerland withholds a flat 4.5% offset tax at source."
+  - question: "How long is a G permit valid?"
+    answer: "For open-ended employment contracts, the G permit is valid for 5 years, renewable indefinitely. For fixed-term contracts, it is valid for the contract duration, up to 1 year."
+  - question: "Who initiates the G permit application?"
+    answer: "The Swiss employer initiates the application, submitting it to the cantonal Migrationsamt of the canton in which the Swiss workplace is located."
+  - question: "Can a G permit holder switch to a B permit?"
+    answer: "Yes. If a G permit holder moves to Switzerland and establishes genuine Swiss residence, they must notify the cantonal Migrationsamt and switch to a B permit. The G permit lapses on establishment of Swiss residence."
 tocItems:
   - id: "what-is-the-g-permit-grenzgängerausweis"
     title: "What Is the G Permit (Grenzgängerausweis)?"
@@ -31,7 +42,7 @@ tocItems:
     title: "Get Advice on Your G Permit Application"
 ---
 
-# G Permit Switzerland (Cross-Border Commuter): Requirements & Rules (2026)
+# G Permit Switzerland: Cross-Border Commuter Guide
 
 !<a href="https://lawsupport.ch/images/g-permit-switzerland-hero.jpg" target="_blank" rel="nofollow noopener">Swiss G permit (Grenzgängerausweis) — cross-border commuter requirements and rules</a>
 

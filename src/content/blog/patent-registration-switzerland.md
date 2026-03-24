@@ -1,11 +1,22 @@
 ---
-title: "Patent Registration Switzerland: Swiss & European Patents (2026)"
+title: "Patent Registration Switzerland: How to File (2026)"
 description: "How to register a patent in Switzerland through the IPI or EPO route, including costs, timelines, PCT applications and links to the Swiss IP Box regime."
 date: "19.03.2026"
 publishDate: "2026-05-17"
 category: "IP & Commercial Law"
 categoryHref: "/blog/"
 readTime: "12 min read"
+faqItems:
+  - question: "Does a European patent automatically protect my invention in Switzerland?"
+    answer: "Yes, if you validate the EP patent in Switzerland after grant. Validation requires paying a fee (typically EUR 100-200) within 3 months of grant."
+  - question: "How long does a Swiss patent last?"
+    answer: "Maximum 20 years from the filing date, subject to payment of annual maintenance fees. If maintenance fees lapse, the patent expires early."
+  - question: "Can software be patented in Switzerland?"
+    answer: "Software as such is not patentable. However, a technical invention implemented through software -- for example, a novel data compression algorithm with a technical effect -- can be patented if it meets novelty, inventive step, and industrial applicability requirements."
+  - question: "How much does a patent cost from filing to 20-year maintenance?"
+    answer: "For a Swiss national patent: approximately CHF 10,000-15,000 in official fees over 20 years, plus CHF 5,000-20,000 in professional fees. For a European patent validated in multiple countries: EUR 20,000-50,000+ in total."
+  - question: "Can I file a patent in Switzerland first, then extend internationally?"
+    answer: "Yes. Filing a Swiss or EP application establishes a priority date. Within 12 months, you can file in other countries or a PCT application claiming the same priority date."
 tocItems:
   - id: "swiss-patent-law-overview"
     title: "Swiss Patent Law Overview"
@@ -27,7 +38,7 @@ tocItems:
     title: "Related Guides"
 ---
 
-# Patent Registration Switzerland: Swiss & European Patents (2026)
+# Patent Registration Switzerland: How to File (2026)
 
 Switzerland protects inventions through both the national Swiss patent system (administered by the Swiss Federal Institute of Intellectual Property, IGE/IPI) and the European patent system (European Patent Office, EPO). For most applicants, the European patent route provides broader protection with more efficient coverage. This guide explains both options, the process, costs, and strategic considerations.
 

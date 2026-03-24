@@ -1,11 +1,22 @@
 ---
-title: "Private Banking Switzerland: How It Works, Minimum Deposits & Top Banks (2026)"
-description: "Swiss private banking for high-net-worth individuals: minimum AUM thresholds, services included, top private banks, and how to open a private banking relationship."
+title: "Private Banking Switzerland: How It Works (2026)"
+description: "Swiss private banking for HNWIs: minimum AUM thresholds, services offered, top private banks and how to open a private banking relationship."
 date: "19.03.2026"
 publishDate: "2026-05-21"
 category: "Banking & Finance"
 categoryHref: "/blog/"
 readTime: "11 min read"
+faqItems:
+  - question: "Is Swiss banking secrecy still in force?"
+    answer: "Domestic banking secrecy remains a legal obligation. However, automatic exchange of information (AEOI/CRS) means Swiss banks now report account data for non-Swiss tax residents to their home countries. Over 100 countries participate."
+  - question: "Can a non-resident open a Swiss private banking account?"
+    answer: "Yes. Swiss private banks work extensively with non-resident clients -- international wealth management is their core business. Residency restrictions apply to some services like Swiss real estate mortgages, not portfolio management."
+  - question: "What is the minimum deposit for Swiss private banking?"
+    answer: "Minimums vary widely. Large universal banks typically require CHF 1-5 million. Independent private banks may start at CHF 500,000 for simpler mandates. Ultra-high-net-worth divisions require CHF 10 million or more."
+  - question: "How are private banking fees structured?"
+    answer: "Most charge an all-in fee of 0.5-1.5% per year on assets under management for discretionary mandates, covering custody, trading, and management. Advisory mandates charge lower custody fees (0.2-0.6%) plus per-transaction costs."
+  - question: "Is my money protected if a Swiss bank fails?"
+    answer: "Deposits are protected up to CHF 100,000 per depositor per bank through the esisuisse scheme. Securities in custody are segregated from the bank's own assets and returned to the client -- they are not part of the bankruptcy estate."
 tocItems:
   - id: "what-swiss-private-banking-is"
     title: "What Swiss Private Banking Is"
@@ -23,7 +34,7 @@ tocItems:
     title: "Choosing Between a Universal Bank and an Independent Private Bank"
 ---
 
-# Private Banking Switzerland: How It Works, Minimum Deposits & Top Banks (2026)
+# Private Banking Switzerland: How It Works (2026)
 
 Switzerland manages approximately one-quarter of the world's cross-border private wealth — roughly USD 2.5 trillion. The country's private banking sector is built on a combination of political stability, professional discretion, asset protection, sophisticated investment management, and a legal framework that has historically prioritised client privacy. This guide explains how Swiss private banking works, what the minimums are, and what to expect when approaching a Swiss private bank.
 

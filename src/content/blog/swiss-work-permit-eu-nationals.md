@@ -1,11 +1,22 @@
 ---
-title: "Swiss Work Permit for EU/EEA Nationals: Rights & Process (2026)"
+title: "Swiss Work Permit for EU/EEA Nationals (2026)"
 description: "EU and EEA nationals working in Switzerland benefit from the AFMP free movement agreement. L permit, B permit, and registration process explained."
 date: "19.03.2026"
 publishDate: "2026-07-24"
 category: "Immigration"
 categoryHref: "/blog/"
 readTime: "14 min read"
+faqItems:
+  - question: "Do I need a job offer before coming to Switzerland as an EU national?"
+    answer: "You can enter Switzerland as an EU/EEA national without a job offer and search for work for up to 3 months. After 3 months without employment, you must demonstrate sufficient own resources or leave. If you find employment within 3 months, you apply for the appropriate B or L permit."
+  - question: "Can my EU/EEA national family members join me in Switzerland?"
+    answer: "Yes. Spouses and dependent children of EU/EEA permit holders have derived rights to join and reside in Switzerland, regardless of their own nationality. This includes non-EU/EEA family members under the family reunification provisions of the AFMP."
+  - question: "Does Brexit affect UK nationals working in Switzerland?"
+    answer: "The UK left the EU and the AFMP no longer applies to UK nationals. UK nationals are now subject to the same third-country national rules (quota-based, employer sponsorship required). An Agreement on Citizens' Rights protects UK nationals who were already in Switzerland with valid status before 1 January 2021."
+  - question: "How long does it take to get a Swiss work permit as an EU national?"
+    answer: "Processing takes 1–4 weeks for both B and L permits. EU/EEA nationals are not subject to labour market tests or quotas, so permits are issued virtually automatically upon proof of employment."
+  - question: "What is the difference between an L permit and a B permit for EU nationals?"
+    answer: "An L permit is for employment contracts of 3–12 months. A B permit is for contracts of 12 months or longer and is valid for 5 years with automatic renewal."
 tocItems:
   - id: "the-legal-basis-agreement-on-free-movement-of-persons-afmp"
     title: "The Legal Basis: Agreement on Free Movement of Persons (AFMP)"

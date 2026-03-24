@@ -1,11 +1,22 @@
 ---
-title: "Advance Tax Ruling Switzerland (Steuerruling): How to Get Certainty (2026)"
+title: "Advance Tax Ruling Switzerland: Process & Costs"
 description: "Swiss advance tax rulings (Steuerruling): how to get binding confirmation from cantonal tax authorities, what they cover, timelines, and costs in Zug."
 date: "19.03.2026"
 publishDate: "2026-08-03"
 category: "Tax & Accounting"
 categoryHref: "/blog/"
 readTime: "12 min read"
+faqItems:
+  - question: "Are Swiss tax rulings confidential?"
+    answer: "Yes. Cantonal tax rulings are not publicly disclosed. Switzerland exchanges certain international rulings with treaty partners under BEPS Action 5 — but this is government-to-government, not public."
+  - question: "Can a ruling be requested before company formation?"
+    answer: "Yes. Many clients request rulings on a proposed structure before formation. The ruling is issued on the intended structure, subject to the facts being implemented as described. Secure the ruling, then form the company."
+  - question: "What if the authority disagrees with our proposed treatment?"
+    answer: "They issue a ruling stating their position — which may differ from yours. This allows you to restructure before implementation. It is far better to receive an adverse ruling before acting than to face an adverse reassessment after the fact."
+  - question: "How much does an advance tax ruling cost?"
+    answer: "The tax authority does not charge a fee for issuing a ruling in most cantons. The cost is in preparing the ruling request — typically CHF 5,000-15,000 for professional advisory fees depending on complexity. Simple holding company or IP Box confirmations in Zug are at the lower end; complex international restructurings at the upper end."
+  - question: "How long does a Swiss tax ruling remain valid?"
+    answer: "A ruling remains valid as long as the described facts remain in place and the underlying law does not change. There is no fixed expiry date. If material facts change or Swiss law is amended, the ruling may no longer apply and a new ruling should be requested. In practice, rulings on stable structures can remain effective for many years."
 tocItems:
   - id: "what-an-advance-tax-ruling-is"
     title: "What an Advance Tax Ruling Is"
@@ -25,7 +36,7 @@ tocItems:
     title: "Next Steps: Request a Free Assessment"
 ---
 
-# Advance Tax Ruling Switzerland (Steuerruling): How to Get Certainty (2026)
+# Advance Tax Ruling Switzerland (Steuerruling): Process & Costs (2026)
 
 A Swiss advance tax ruling (Steuerruling or Vorbescheid) is a written confirmation from the cantonal tax authority stating how a specific transaction or structure will be taxed before it is implemented. For companies forming in Switzerland, restructuring operations, or individuals relocating, a tax ruling provides binding legal certainty on the applicable treatment — eliminating the risk of an adverse reassessment after the fact. In Zug, straightforward rulings are typically issued within 4-8 weeks.
 

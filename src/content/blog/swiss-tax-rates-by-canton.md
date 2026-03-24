@@ -1,11 +1,22 @@
 ---
-title: "Swiss Tax Rates by Canton 2026: Zug vs Zurich vs Geneva vs Bern"
+title: "Swiss Tax Rates by Canton: 2026 Comparison"
 description: "Swiss tax rates by canton in 2026 compared across all 26 cantons. Corporate, individual, and wealth tax rates from Zug (11.8%) to Bern (20.7%)."
 date: "19.03.2026"
 publishDate: "2026-07-20"
 category: "Tax & Accounting"
 categoryHref: "/blog/"
 readTime: "18 min read"
+faqItems:
+  - question: "What is the lowest corporate tax canton in Switzerland in 2026?"
+    answer: "Zug remains the lowest-tax canton for corporate income tax in 2026, with an effective combined rate of approximately 11.8% in the city of Zug. Nidwalden (~12.0%) and Lucerne (~12.3%) are the next most competitive cantons. The federal flat rate of approximately 8.83% applies identically in every canton."
+  - question: "Is it legal to incorporate in Zug purely for tax purposes?"
+    answer: "Yes — Switzerland's cantonal system specifically allows companies to choose their canton of domicile, including for tax reasons. However, a company in Zug must have genuine economic substance (real management activity, actual office presence, local decision-making) to validly claim Zug's rates. A letterbox arrangement can be challenged."
+  - question: "How does the Swiss Patent Box work, and does it apply in all cantons?"
+    answer: "All 26 cantons are required to offer a Patent Box under the 2020 STAF reform, providing up to 90% reduction on net income from qualifying IP at the cantonal and communal level. The federal rate is not reduced. Companies must satisfy the OECD nexus requirement — the IP must have a genuine connection to Swiss R&D activities."
+  - question: "How different is the personal income tax rate between Zug and Zurich?"
+    answer: "The top marginal rate in Zug is approximately 22.2%, versus approximately 39.7% in Zurich — a gap of roughly 17.5 percentage points. For someone with CHF 500,000 annual taxable income, this difference amounts to approximately CHF 87,500 per year in additional tax in Zurich."
+  - question: "What is the federal corporate tax rate in Switzerland?"
+    answer: "The federal corporate income tax is approximately 8.83% on taxable profit, uniform across all 26 cantons. The variation between cantons is driven entirely by cantonal and communal rates."
 tocItems:
   - id: "how-swiss-taxation-works-federal-cantonal-and-communal-layer"
     title: "How Swiss Taxation Works: Federal, Cantonal, and Communal Layers"
@@ -35,7 +46,7 @@ tocItems:
     title: "Ready to Establish Your Swiss Company in the Right Canton?"
 ---
 
-# Swiss Tax Rates by Canton 2026: Zug vs Zurich vs Geneva vs Bern
+# Swiss Tax Rates by Canton: 2026 Comparison
 
 Swiss tax rates by canton vary dramatically in 2026. The difference between the lowest-tax canton (Zug, at approximately 11.8% effective [corporate tax](/blog/corporate-tax-switzerland/)) and the most expensive major canton (Bern, at approximately 20.7%) is nearly nine full percentage points. On CHF 1,000,000 of taxable profit, that gap translates to roughly CHF 89,000 per year. Over ten years, that is CHF 890,000 — a material business decision, not a rounding error. This article provides a complete, data-driven reference for Swiss tax rates by canton covering corporate tax, individual income tax, wealth tax, and the key incentives that affect your effective rate.
 

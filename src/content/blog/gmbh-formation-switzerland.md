@@ -6,6 +6,17 @@ publishDate: "2026-04-01"
 category: "Company Formation"
 categoryHref: "/services/company-formation/"
 readTime: "9 min read"
+faqItems:
+  - question: "How long does GmbH formation in Switzerland take?"
+    answer: "For a straightforward formation with no contributions in kind, the typical timeline is 2 to 4 weeks from first instruction to Commercial Register entry. Complex structures can extend to 6 to 8 weeks."
+  - question: "Do I need to travel to Switzerland to form a GmbH?"
+    answer: "No. We can handle the entire process by power of attorney. Founders located anywhere in the world can instruct us remotely."
+  - question: "What is the Stampa Declaration and why does it matter?"
+    answer: "The Stampa Declaration is a signed statement from each founding shareholder confirming no hidden side agreements exist, no undisclosed contributions in kind are being made, and the subscriber is the true beneficial owner."
+  - question: "What is the minimum share capital for a Swiss GmbH?"
+    answer: "The minimum share capital is CHF 20,000, and the entire amount must be paid in at formation. The funds are held in a capital deposit account until the Commercial Register entry is confirmed."
+  - question: "Which Swiss canton is best for GmbH formation?"
+    answer: "Zug is consistently popular with international founders due to its low effective corporate tax rate (approximately 11.9% combined), fast Commercial Register processing times, and an established professional services ecosystem."
 tocItems:
   - id: "what-is-a-swiss-gmbh"
     title: "What Is a Swiss GmbH?"
@@ -250,7 +261,7 @@ No travel is required. Founders can authorise us by power of attorney to act on 
 - **Email:** info@lawsupport.ch
 - **Address:** Grafenauweg 4, Zug, Switzerland
 
-For context on how the GmbH fits within the broader Swiss corporate landscape, start with our guide to [company formation in Switzerland](/blog/company-formation-switzerland/).
+For context on how the GmbH fits within the broader Swiss corporate framework, start with our guide to [company formation in Switzerland](/blog/company-formation-switzerland/).
 
 ---
 

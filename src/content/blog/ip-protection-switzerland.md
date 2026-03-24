@@ -1,11 +1,22 @@
 ---
-title: "IP Protection Switzerland: Patents, Trademarks, Copyright & Trade Secrets (2026)"
+title: "IP Protection Switzerland: Patents & Trademarks (2026)"
 description: "Switzerland IP protection explained: patents, trademarks, copyright, design rights, and trade secrets. How each right works, what it covers, and enforcement."
 date: "19.03.2026"
 publishDate: "2026-04-21"
 category: "IP & Commercial Law"
 categoryHref: "/blog/"
 readTime: "7 min read"
+faqItems:
+  - question: "Do I need to register copyright in Switzerland?"
+    answer: "No. Copyright arises automatically at the moment of creation. There is no copyright register in Switzerland and no registration requirement."
+  - question: "Can I protect my brand in Switzerland with an EU trademark?"
+    answer: "No. An EU trademark covers EU member states only. Switzerland is not an EU member, so you need a Swiss trademark or a Madrid International Registration designating Switzerland."
+  - question: "How long does Swiss trademark registration take?"
+    answer: "The IPI typically processes a straightforward application within 6 to 8 months. Opposition proceedings can extend this to 12 months or more."
+  - question: "Can software be patented in Switzerland?"
+    answer: "Software as such cannot be patented. However, a technical invention using software may be patentable if it solves a technical problem in a novel, non-obvious way."
+  - question: "What is the cost of obtaining a Swiss patent?"
+    answer: "A Swiss national patent costs approximately CHF 700 to 1,200 in official fees, plus CHF 5,000 to 15,000 in patent attorney fees. European patents via the EPO commonly reach CHF 20,000 to 40,000."
 tocItems:
   - id: "overview-types-of-ip-protection-in-switzerland"
     title: "Overview: Types of IP Protection in Switzerland"
@@ -25,7 +36,7 @@ tocItems:
     title: "IP Holding in Switzerland"
 ---
 
-# IP Protection Switzerland: Patents, Trademarks, Copyright & Trade Secrets (2026)
+# IP Protection Switzerland: Patents & Trademarks (2026)
 
 Switzerland offers strong intellectual property protection through a mature legal framework aligned with international standards (TRIPS Agreement, WIPO conventions). The <a href="https://www.ige.ch/en" target="_blank" rel="nofollow noopener">Federal Institute of Intellectual Property (IGE/IPI)</a> administers registered IP rights. This guide covers each type of IP protection, what it covers, how long it lasts, and how to enforce it.
 

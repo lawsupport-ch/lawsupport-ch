@@ -1,11 +1,22 @@
 ---
-title: "Transfer Pricing Switzerland: Rules, Documentation & OECD Compliance (2026)"
+title: "Transfer Pricing Switzerland: Rules & Compliance"
 description: "Swiss transfer pricing rules explained: arm's length principle, documentation, APAs, and BEPS compliance. 35% withholding tax risk. Lawsupport, Zug."
 date: "19.03.2026"
 publishDate: "2026-08-11"
 category: "Tax & Accounting"
 categoryHref: "/blog/"
 readTime: "13 min read"
+faqItems:
+  - question: "Does Switzerland require a contemporaneous transfer pricing study?"
+    answer: "Not by statute. But audit practice has evolved — tax authorities increasingly expect documentation to exist at the time of filing, not prepared retroactively. Best practice is to prepare studies before year-end for significant related-party transactions."
+  - question: "What are the penalties for transfer pricing adjustments in Switzerland?"
+    answer: "Tax adjustments are made with interest at 3% per annum. Penalties (Steuerbussen) apply for wilful or negligent underreporting — typically 1x the evaded tax for negligence, up to 3x for intentional evasion. Switzerland does not have specific transfer pricing-only penalty regimes — ordinary tax penalty provisions apply."
+  - question: "What is the withholding tax risk on excessive intercompany payments from Switzerland?"
+    answer: "If a Swiss company pays non-arm's length royalties, management fees, or interest to a foreign related party, the excess is recharacterised as a hidden dividend subject to 35% withholding tax under Art. 4 VStG. The Swiss company bears the withholding tax liability even if it cannot recover the amount from the foreign recipient."
+  - question: "What are the safe harbour interest rates for Swiss intercompany loans?"
+    answer: "The ESTV publishes annual safe harbour rates in Merkblatt S-02.123. For 2026, approximate rates are 1.5% for CHF loans, 3.0% for EUR loans, and 4.5% for USD loans. Staying within these rates provides a safe harbour for Swiss federal and cantonal tax purposes."
+  - question: "Does Switzerland require Country-by-Country Reporting?"
+    answer: "Yes. Swiss-headquartered multinational groups with consolidated annual revenue above CHF 900 million must file a CbCR with the ESTV. Reports are exchanged with treaty partner jurisdictions under the automatic exchange framework established by the Swiss Federal Council."
 tocItems:
   - id: "the-arms-length-principle-in-swiss-law"
     title: "The Arm's Length Principle in Swiss Law"
@@ -27,7 +38,7 @@ tocItems:
     title: "Protect Your Group's Swiss Tax Position"
 ---
 
-# Transfer Pricing Switzerland: Rules, Documentation & OECD Compliance (2026)
+# Transfer Pricing Switzerland: Rules & Compliance (2026)
 
 Transfer pricing in Switzerland — the pricing of transactions between related companies within the same corporate group — is one of the most significant tax issues for multinational groups with Swiss entities. Switzerland does not have a specific transfer pricing statute, but applies the OECD Transfer Pricing Guidelines through the arm's length principle embedded in Swiss domestic tax law under Art. 58 DBG. Swiss tax authorities are increasingly sophisticated in this area, and the 35% withholding tax risk on hidden profit distributions makes transfer pricing compliance critical for any group with Swiss intercompany flows.
 

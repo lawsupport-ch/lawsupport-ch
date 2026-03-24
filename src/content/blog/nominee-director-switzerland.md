@@ -1,11 +1,22 @@
 ---
-title: "Nominee Director Switzerland: Swiss Resident Director Services (2026)"
+title: "Nominee Director Switzerland: Services & Costs (2026)"
 description: "Swiss AG and GmbH companies need a Swiss-resident director. Professional nominee director services from Zug: legally structured, KYC-verified, fully compliant."
 date: "19.03.2026"
 publishDate: "2026-05-07"
 category: "Company Administration"
 categoryHref: "/blog/"
 readTime: "15 min read"
+faqItems:
+  - question: "Is a nominee director legal in Switzerland?"
+    answer: "Yes. Using a professional Swiss-resident director to satisfy the Art. 718 CO residency requirement is entirely legal and standard practice. The arrangement must be documented through a mandate agreement, and the beneficial owner must be disclosed under Swiss anti-money laundering law."
+  - question: "Does the nominee director control my company?"
+    answer: "No. The nominee director's authority is limited to the mandate agreement. The shareholder retains full control through shareholder rights, including the right to appoint and remove directors at any time."
+  - question: "Can I replace the nominee director later?"
+    answer: "Yes. The nominee director can be replaced at any time by shareholder resolution. The outgoing director's name is removed from the Commercial Register and the incoming director's name is added."
+  - question: "Does the nominee director need to be a Swiss citizen?"
+    answer: "No. The requirement is Swiss residency, not citizenship. A foreign national with a valid Swiss residence permit (B or C permit) who is domiciled in Switzerland satisfies Art. 718 CO."
+  - question: "Can a legal entity serve as nominee director?"
+    answer: "No. Swiss law requires board members (AG) and managers (GmbH) to be natural persons. A corporation or foundation cannot serve as director of a Swiss company."
 tocItems:
   - id: "the-swiss-legal-requirement-art-718-co"
     title: "The Swiss Legal Requirement: Art. 718 CO"
@@ -35,7 +46,7 @@ tocItems:
     title: "Real-World Example"
 ---
 
-# Nominee Director Switzerland: Swiss Resident Director Services (2026)
+# Nominee Director Switzerland: Services & Costs (2026)
 
 Forming a Swiss company from abroad is straightforward -- until you reach the director residency requirement. Swiss company law requires that at least one director of an AG, or one manager of a GmbH, be a Swiss resident with individual signatory authority. If you cannot satisfy that requirement personally, your Commercial Register application will be rejected before it is ever processed.
 

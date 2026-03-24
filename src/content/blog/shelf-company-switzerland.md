@@ -1,5 +1,5 @@
 ---
-title: "Shelf Company Switzerland: Buy a Ready-Made Swiss Company (2026)"
+title: "Shelf Company Switzerland: Buy a Ready-Made AG or GmbH"
 description: "Buy a Swiss shelf company (AG or GmbH) in Zug in 3-5 business days. Costs, steps, due diligence checks, and when a fresh formation is the better option."
 date: "19.03.2026"
 publishDate: "2026-05-29"
@@ -23,9 +23,20 @@ tocItems:
     title: "Important Checks Before Buying a Swiss Shelf Company"
   - id: "shelf-company-vs-new-formation-quick-comparison"
     title: "Shelf Company vs. New Formation: Quick Comparison"
+faqItems:
+  - question: "Are Swiss shelf companies legal?"
+    answer: "Yes. Acquiring a dormant Swiss company via share transfer is a standard, fully legal transaction under Swiss company law."
+  - question: "How long does the shelf company transfer process take?"
+    answer: "From signing the share purchase agreement to the updated Commercial Register extract: typically 5-10 business days."
+  - question: "Do shelf companies come with a bank account?"
+    answer: "Some do, most do not. A pre-existing bank account is a significant value-add given Swiss corporate banking timelines."
+  - question: "Can I buy a shelf company in any Swiss canton?"
+    answer: "Lawsupport maintains inventory in Zug. For other cantons, availability depends on current stock."
+  - question: "What taxes apply when buying a shelf company?"
+    answer: "Securities transfer stamp may apply if a Swiss securities dealer is involved. Direct private share transfers typically do not attract stamp duty."
 ---
 
-# Shelf Company Switzerland: Buy a Ready-Made Swiss Company (2026)
+# Shelf Company Switzerland: Buy a Ready-Made AG or GmbH
 
 A shelf company — also called a ready-made company or dormant company — is a company that was formed, registered, and kept inactive, "on the shelf," waiting for a buyer. In Switzerland, shelf companies can compress the company activation timeline from 4-6 weeks to as little as 3-5 business days. Here is when they make sense and when they do not.
 

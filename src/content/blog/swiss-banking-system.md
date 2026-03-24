@@ -1,11 +1,22 @@
 ---
-title: "Swiss Banking System: Structure, Types of Banks & How It Works (2026)"
-description: "How the Swiss banking system works in 2026: UBS, cantonal banks, private banks, Raiffeisen, PostFinance. FINMA regulation, deposit protection, and the SNB explained."
+title: "Swiss Banking System: Structure & Bank Types (2026)"
+description: "How the Swiss banking system works: UBS, cantonal banks, private banks, Raiffeisen, PostFinance. FINMA regulation, deposit protection and the SNB."
 date: "19.03.2026"
 publishDate: "2026-06-24"
 category: "Banking & Finance"
 categoryHref: "/blog/"
 readTime: "9 min read"
+faqItems:
+  - question: "How many banks are there in Switzerland?"
+    answer: "Approximately 240 banks hold FINMA banking licences in Switzerland as of 2026. This is down from a peak of over 600 in the 1990s, reflecting decades of consolidation. For a full listing by category, see our [Swiss banks list](/blog/swiss-banks-list/)."
+  - question: "What is the safest type of Swiss bank?"
+    answer: "Cantonal banks with a state guarantee (Staatsgarantie) are widely considered the safest. The canton itself guarantees deposits beyond the standard CHF 100'000 esisuisse protection. ZKB (Zurich) is the largest and one of the highest-rated banks in the world by credit quality."
+  - question: "Is Swiss banking secrecy still in effect?"
+    answer: "Domestically, yes — Swiss banks are legally prohibited from disclosing client information without authorisation. Internationally, no — the Automatic Exchange of Information (AEOI) framework means Swiss banks automatically report account data to the tax authorities of over 100 participating countries."
+  - question: "What is the role of FINMA?"
+    answer: "FINMA (Swiss Financial Market Supervisory Authority) licences, supervises, and regulates all banks and financial institutions in Switzerland. It sets compliance standards, conducts oversight, and has the authority to intervene in or resolve failing institutions — as demonstrated during the Credit Suisse crisis in 2023."
+  - question: "What happened to Credit Suisse?"
+    answer: "Credit Suisse was forcibly merged into UBS in March 2023 after a crisis of confidence and liquidity. FINMA and the Swiss government arranged the takeover over a single weekend. Switzerland now has one globally systemically important bank (UBS) instead of two."
 tocItems:
   - id: "structure-of-the-swiss-banking-system"
     title: "Structure of the Swiss Banking System"
@@ -29,7 +40,7 @@ tocItems:
     title: "Swiss Banking Secrecy"
 ---
 
-# Swiss Banking System: Structure, Types of Banks & How It Works (2026)
+# Swiss Banking System: Structure & Bank Types (2026)
 
 Switzerland has one of the most developed and internationally significant banking systems in the world. Despite having a population of only 8.9 million, Switzerland manages over CHF 7 trillion in assets — roughly ten times the country's GDP. The Swiss banking sector is structurally diverse, internationally oriented, and deeply integrated into the global financial system. This guide explains how the system is organised, who regulates it, and what each category of bank does.
 

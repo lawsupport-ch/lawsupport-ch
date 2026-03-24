@@ -1,5 +1,5 @@
 ---
-title: "Swiss Social Insurance (AHV, IV, BVG): Contributions & How It Works (2026)"
+title: "Swiss Social Insurance: AHV, IV, BVG Contributions"
 description: "Switzerland's three-pillar social insurance system explained: AHV, IV, BVG pension, accident insurance, and unemployment. Contribution rates for 2026."
 date: "19.03.2026"
 publishDate: "2026-05-31"
@@ -23,9 +23,20 @@ tocItems:
     title: "Daily Sickness Benefits (Krankentaggeld)"
   - id: "summary-total-employer-contribution-costs"
     title: "Summary: Total Employer Contribution Costs"
+faqItems:
+  - question: "Are employer social insurance contributions tax-deductible?"
+    answer: "Yes. Employer contributions are fully deductible operating costs for Swiss corporate income tax."
+  - question: "What is the maximum AHV retirement pension in 2026?"
+    answer: "CHF 29,400/year for an individual or CHF 44,100/year for a couple, indexed to wages and prices."
+  - question: "Are company directors subject to AHV contributions?"
+    answer: "A director receiving a salary pays AHV on that salary. Dividends are not subject to AHV contributions."
+  - question: "Do foreign employees in Switzerland pay AHV?"
+    answer: "Yes. Any employee working in Switzerland pays AHV from day one, regardless of nationality."
+  - question: "What is the BVG coordination deduction?"
+    answer: "CHF 26,460 in 2026, subtracted from gross salary to determine the portion insured under mandatory occupational pension."
 ---
 
-# Swiss Social Insurance (AHV, IV, BVG): Contributions & How It Works (2026)
+# Swiss Social Insurance: AHV, IV, BVG Contributions
 
 Switzerland's social insurance system is built on three pillars, supplemented by accident insurance and unemployment coverage. Every employer in Switzerland must register with and contribute to these schemes for their employees. This guide explains each component, the 2026 contribution rates, and what employers and employees pay.
 

@@ -1,11 +1,20 @@
 ---
-title: "Joint Venture Switzerland: Structures, Legal Forms & Governance (2026)"
+title: "Joint Venture Switzerland: Structures & Law (2026)"
 description: "Setting up a joint venture in Switzerland: contractual JV, company JV (AG/GmbH), governance essentials, and tax treatment. Practical legal guidance for 2026."
 date: "19.03.2026"
 publishDate: "2026-04-23"
 category: "Company Formation"
 categoryHref: "/services/company-formation/"
 readTime: "6 min read"
+faqItems:
+  - question: "Who governs the JV if the parties disagree?"
+    answer: "The SHA and statutory articles set the governance framework. If the SHA provides deadlock resolution mechanisms, those apply. Without them, a 50/50 impasse requires court proceedings or voluntary agreement."
+  - question: "What is the minimum capital for a JV AG vs a JV GmbH?"
+    answer: "An AG requires CHF 100,000 minimum share capital (at least 50% paid in). A GmbH requires CHF 20,000, fully paid in at incorporation."
+  - question: "Can foreign companies participate in a Swiss JV?"
+    answer: "Yes. Foreign companies can hold shares in a Swiss JV without a Swiss establishment. However, at least one representative of the JV company must be resident in Switzerland."
+  - question: "How are profits distributed in a Swiss JV company?"
+    answer: "Profits are distributed as dividends, subject to 35% Swiss withholding tax. Treaty-resident partners can reclaim the withholding tax under the applicable double tax treaty."
 tocItems:
   - id: "contractual-joint-venture-simple-partnership-einfache-gesell"
     title: "Contractual Joint Venture (Simple Partnership — Einfache Gesellschaft)"
@@ -19,7 +28,7 @@ tocItems:
     title: "Swiss JV vs Other Jurisdictions"
 ---
 
-# Joint Venture Switzerland: Structures, Legal Forms & Governance (2026)
+# Joint Venture Switzerland: Structures & Law (2026)
 
 A joint venture (JV) in Switzerland is a commercial cooperation between two or more parties for a common business purpose. Swiss law does not define a specific "joint venture" legal form — instead, parties choose the structure that best fits their needs from existing Swiss entity types or contractual frameworks. This guide explains the main options and their governance implications.
 

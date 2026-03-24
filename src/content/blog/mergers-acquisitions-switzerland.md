@@ -1,11 +1,22 @@
 ---
-title: "Mergers & Acquisitions Switzerland: Legal Process & Key Considerations (2026)"
+title: "M&A Switzerland: Legal Process & Key Steps (2026)"
 description: "Swiss M&A process: share deal vs asset deal, due diligence, SPA key terms, regulatory approvals, closing conditions, and post-closing obligations explained."
 date: "19.03.2026"
 publishDate: "2026-05-05"
 category: "Corporate Transactions"
 categoryHref: "/blog/"
 readTime: "16 min read"
+faqItems:
+  - question: "Do I need a notary for a Swiss M&A transaction?"
+    answer: "GmbH quota transfers require a publicly authenticated agreement before a Swiss notary under Art. 785 OR. AG share transfers do not require notarisation. Formal mergers, demergers, and transformations under the FusG require notarial certification."
+  - question: "How long does a typical Swiss private M&A transaction take?"
+    answer: "A straightforward private share deal (AG, no regulatory approvals) takes six to twelve weeks from mandate to closing. GmbH deals add notarial scheduling time. Transactions requiring FINMA or COMCO approval add two to four months."
+  - question: "What is the biggest legal risk for a buyer in a Swiss M&A deal?"
+    answer: "Unknown or contingent liabilities assumed through a share deal -- particularly undisclosed tax liabilities, pension fund deficits, environmental obligations, and litigation exposure. Thorough due diligence, well-drafted representations and warranties, and W&I insurance are the standard mitigation toolkit."
+  - question: "Is there a foreign investment screening regime in Switzerland?"
+    answer: "As of 2026, Switzerland does not have a formal FDI screening regime comparable to the EU, UK, or USA. Sector-specific restrictions apply (FINMA-regulated entities, Lex Koller for real estate, media concentration rules). Legislative proposals have been discussed but not yet enacted."
+  - question: "Do Swiss M&A transactions require employee consultation?"
+    answer: "Yes, in certain circumstances. Formal mergers require consultation with employee representatives before the merger resolution. In asset deals, Art. 333a OR requires informing employees about the reason for transfer and its consequences."
 tocItems:
   - id: "swiss-ma-market-what-the-numbers-show"
     title: "Swiss M&A Market: What the Numbers Show"
@@ -27,7 +38,7 @@ tocItems:
     title: "Closing and Post-Closing Obligations"
 ---
 
-# Mergers & Acquisitions Switzerland: Legal Process & Key Considerations (2026)
+# M&A Switzerland: Legal Process & Key Steps (2026)
 
 Switzerland is one of Europe's most active M&A markets. Several hundred significant transactions close here each year, driven by the country's stable legal system, favourable holding structures, and concentration of global headquarters across pharma/life sciences, financial services, technology, and industrial manufacturing. If you are buying, selling, or restructuring a Swiss business, understanding the legal mechanics is not optional -- it is the difference between a clean closing and an expensive dispute.
 

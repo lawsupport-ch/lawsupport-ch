@@ -1,5 +1,5 @@
 ---
-title: "SRO Membership Switzerland: Requirements, Costs & Application (2026)"
+title: "SRO Membership Switzerland: Requirements & Costs"
 description: "SRO membership in Switzerland under AMLA: who must join, which SRO to choose, application steps, fees in CHF, timelines, and annual compliance obligations."
 date: "19.03.2026"
 publishDate: "2026-06-04"
@@ -25,9 +25,20 @@ tocItems:
     title: "Consequences of Operating Without SRO Membership"
   - id: "how-lawsupport-supports-your-sro-application"
     title: "How Lawsupport Supports Your SRO Application"
+faqItems:
+  - question: "Do I need SRO membership if my company is abroad but serves Swiss clients?"
+    answer: "If your company conducts financial intermediary activities from within Switzerland, the AMLA obligation applies regardless of incorporation."
+  - question: "Can the AML officer be an external person?"
+    answer: "Yes. External AML officers are permitted and widely used, especially by smaller intermediaries."
+  - question: "Is SRO membership sufficient for a crypto business?"
+    answer: "For most crypto businesses, SRO membership satisfies AMLA. A FINMA licence is needed only if specific thresholds are triggered."
+  - question: "Can I operate while the SRO application is pending?"
+    answer: "No. Operating before formal acceptance carries the same consequences as operating without any SRO affiliation."
+  - question: "How long must AML records be retained?"
+    answer: "A minimum of 10 years from the date the business relationship ends or the transaction is completed."
 ---
 
-# SRO Membership Switzerland: Requirements, Costs & Application (2026)
+# SRO Membership Switzerland: Requirements & Costs
 
 Every financial intermediary operating in Switzerland must be supervised. If your business handles third-party funds, exchanges currencies, provides payment services, deals in crypto assets, or carries out any of a broad range of para-banking activities, Swiss law requires you to affiliate with a FINMA-recognised Self-Regulatory Organisation (SRO) before commencing operations — or face criminal liability.
 

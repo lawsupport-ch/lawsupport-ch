@@ -1,11 +1,18 @@
 ---
-title: "Swiss Foundation (Stiftung): Formation, Types & Requirements (2026)"
+title: "Swiss Foundation: Formation & Requirements (2026)"
 description: "How to form a Swiss foundation (Stiftung) in 2026. Types, formation steps, supervisory authorities, tax treatment, and why Zug leads for crypto foundations."
 date: "19.03.2026"
 publishDate: "2026-07-10"
 category: "Company Formation"
 categoryHref: "/services/company-formation/"
 readTime: "18 min read"
+faqItems:
+  - question: "What is the minimum endowment for a Swiss foundation?"
+    answer: "There is no statutory minimum under Swiss law, but CHF 50,000 is the widely observed practical minimum. Foundations with significant operational mandates typically hold substantially more."
+  - question: "Can a Swiss foundation pay its founders or trustees?"
+    answer: "A Swiss foundation cannot distribute assets to its founder. Trustees may receive reasonable compensation for their services, provided this is documented and does not conflict with the foundation's purpose."
+  - question: "How long does it take to form a Swiss foundation in Zug?"
+    answer: "With complete documentation, the process from notarisation to Commercial Register entry and supervisory notification typically takes 15 to 25 business days in Zug."
 tocItems:
   - id: "what-is-a-swiss-foundation"
     title: "What Is a Swiss Foundation?"
@@ -37,7 +44,7 @@ tocItems:
     title: "Get Started with Lawsupport"
 ---
 
-# Swiss Foundation (Stiftung): Formation, Types & Requirements (2026)
+# Swiss Foundation: Formation & Requirements (2026)
 
 A Swiss foundation is one of the most versatile and rigorous legal structures available under Swiss law. Whether your objective is charitable wealth deployment, family asset stewardship, employee benefit provision, or governing a blockchain protocol, the foundation (Stiftung) offers a purpose-driven legal entity with no shareholders, no members, and a governance model built around a defined mission rather than ownership.
 

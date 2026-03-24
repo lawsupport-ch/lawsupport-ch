@@ -1,11 +1,22 @@
 ---
-title: "Swiss Holding Company: Structure, Tax Benefits & Formation (2026)"
-description: "Swiss holding company in 2026: participation exemption, Zug tax rates, IP Box, 108-treaty network, substance rules, and formation steps. Written by Swiss corporate lawyers."
+title: "Swiss Holding Company: Tax Benefits & Setup"
+description: "Swiss holding company: participation exemption, Zug tax rates, IP Box, treaty network, substance rules, and formation steps explained."
 date: "19.03.2026"
 publishDate: "2026-04-05"
 category: "Company Formation"
 categoryHref: "/services/company-formation/"
 readTime: "11 min read"
+faqItems:
+  - question: "What is the minimum ownership threshold for the Swiss participation exemption?"
+    answer: "The threshold is 10% of the share capital of the subsidiary, or a participation with a fair market value of at least CHF 1,000,000. For capital gains, the 10% threshold is required and the participation must have been held for at least one year."
+  - question: "Can a GmbH be used as a holding company instead of an AG?"
+    answer: "Yes. A GmbH can legally hold participations and qualify for the participation exemption. However, the AG is strongly preferred for holding structures because GmbH shares require a notarial deed for transfer, creating friction on share sales."
+  - question: "What substance requirements apply to a Swiss holding company in 2026?"
+    answer: "A credible Swiss holding must have a majority of board members Swiss-resident or hold board meetings in Switzerland, maintain genuine records at its registered office, and document substantive management decisions contemporaneously."
+  - question: "Does OECD Pillar Two affect Swiss holding companies?"
+    answer: "Pillar Two applies only to multinational groups with global consolidated revenue exceeding EUR 750 million. For sub-threshold groups, Pillar Two has no impact."
+  - question: "How long does it take to form a Swiss holding AG?"
+    answer: "The total timeline from engagement to registered company is typically 3-6 weeks. Bank account opening for a newly formed entity with foreign shareholders is often the longest step."
 tocItems:
   - id: "what-is-a-swiss-holding-company"
     title: "What Is a Swiss Holding Company?"
@@ -31,7 +42,7 @@ tocItems:
     title: "Request a Free Assessment"
 ---
 
-# Swiss Holding Company: Structure, Tax Benefits & Formation (2026)
+# Swiss Holding Company: Tax Benefits & Setup Guide
 
 A holding company Switzerland structure offers one of the most efficient combinations of tax treatment, treaty access, and legal stability available in any OECD jurisdiction. The federal participation exemption reduces the effective tax rate on qualifying dividend and capital-gain income to between zero and three percent. The IP Box adds relief on qualifying royalty income. A 108-treaty double tax network covers every major investor country. And the canton of Zug sits at an 11.9% ordinary combined rate — one of the lowest in Europe — before the exemptions are applied. This is not aggressive tax planning; it is the deliberate result of Swiss tax policy designed to attract genuine corporate group headquarters. This guide explains exactly how the Swiss holding company works, what it costs, and how to set one up.
 

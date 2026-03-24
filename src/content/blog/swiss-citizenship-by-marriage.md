@@ -1,11 +1,18 @@
 ---
-title: "Swiss Citizenship by Marriage (Facilitated Naturalisation): Requirements (2026)"
+title: "Swiss Citizenship by Marriage: Requirements (2026)"
 description: "Foreign spouses of Swiss citizens can naturalise in 1-2 years via facilitated naturalisation. Requirements, costs, timeline, and common pitfalls explained."
 date: "19.03.2026"
 publishDate: "2026-07-06"
 category: "Immigration"
 categoryHref: "/blog/"
 readTime: "14 min read"
+faqItems:
+  - question: "Does marrying a Swiss citizen automatically make me Swiss?"
+    answer: "No. Marriage to a Swiss citizen gives access to the facilitated naturalisation process, but citizenship is not automatic. You must meet eligibility requirements and submit a formal application to the SEM."
+  - question: "How long does facilitated naturalisation take?"
+    answer: "From submission of a complete application, the SEM typically decides within twelve to twenty-four months. Applications with full documentation and clear evidence of a genuine partnership move faster."
+  - question: "Can I apply for facilitated naturalisation with only a B permit?"
+    answer: "Yes. A B permit is sufficient. Facilitated naturalisation does not require a C permit, which is a key advantage over ordinary naturalisation."
 tocItems:
   - id: "what-is-facilitated-naturalisation"
     title: "What Is Facilitated Naturalisation?"
@@ -33,7 +40,7 @@ tocItems:
     title: "How Lawsupport Assists"
 ---
 
-# Swiss Citizenship by Marriage (Facilitated Naturalisation): Requirements (2026)
+# Swiss Citizenship by Marriage: Requirements (2026)
 
 Marrying a Swiss citizen does not automatically make you Swiss. What it does do is unlock a parallel legal track — facilitated naturalisation (erleichterte Einbürgerung) — that bypasses the standard ten-year residence requirement and compresses the path to a Swiss passport into a matter of years, not decades. For qualifying couples, this is one of the most direct routes to Swiss citizenship by marriage in existence.
 

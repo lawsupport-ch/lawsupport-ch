@@ -1,11 +1,22 @@
 ---
-title: "L Permit Switzerland (Short-Term Residence): Rules & Requirements (2026)"
-description: "Swiss L permit (Kurzaufenthaltsbewilligung): who qualifies, maximum duration, renewal rules, source tax, and how it differs from the B permit. Full 2026 guide."
+title: "L Permit Switzerland: Rules & Requirements (2026)"
+description: "Swiss L permit explained: who qualifies, maximum duration, renewal rules, source tax, and how it differs from the B permit."
 date: "19.03.2026"
 publishDate: "2026-04-25"
 category: "Immigration"
 categoryHref: "/blog/"
 readTime: "6 min read"
+faqItems:
+  - question: "Can I convert my L permit to a B permit?"
+    answer: "Yes, in most cases. Where employment extends beyond 12 months, the transition is handled by the cantonal Migrationsamt without requiring you to leave Switzerland."
+  - question: "Does L permit time count toward permanent residence?"
+    answer: "Generally no. L permit periods are not credited toward the qualifying residence for a C permit. The B permit is the appropriate starting point for long-term residence."
+  - question: "Can I bring my family on an L permit?"
+    answer: "For non-EU/EFTA nationals, family reunification is not available under the L permit. EU/EFTA nationals have broader rights but these are limited for short-term stays."
+  - question: "Can I work for multiple employers on an L permit?"
+    answer: "No. The L permit is tied to a single sponsoring employer. Additional employment requires a separate application. Self-employment is not permitted."
+  - question: "Do I need health insurance on an L permit?"
+    answer: "Yes. All Swiss residents, including L permit holders, must obtain basic health insurance within three months of arrival under the Federal Health Insurance Act."
 tocItems:
   - id: "what-is-the-l-permit"
     title: "What Is the L Permit?"
@@ -25,7 +36,7 @@ tocItems:
     title: "L Permit vs B Permit vs G Permit"
 ---
 
-# L Permit Switzerland (Short-Term Residence): Rules & Requirements (2026)
+# L Permit Switzerland: Rules & Requirements (2026)
 
 Switzerland's permit system is precise by design. Each category corresponds to a specific legal situation, and using the wrong one — or misunderstanding the constraints of the right one — creates compliance problems that are expensive to unwind. The L permit (Kurzaufenthaltsbewilligung, or short-term residence permit) covers a defined and genuinely temporary window: stays of less than one year for employment, training, or education. If your situation fits that window, the L permit is straightforward. If it does not, you need a different permit from the outset.
 

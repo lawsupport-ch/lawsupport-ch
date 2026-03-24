@@ -1,11 +1,18 @@
 ---
-title: "Swissreg Trademark Search: How to Use the Swiss IP Register (2026)"
+title: "Swissreg Trademark Search: Swiss IP Register Guide"
 description: "How to search Swissreg for Swiss trademarks: step-by-step guide to the IGE/IPI database, search types, reading results, and what to do before filing."
 date: "19.03.2026"
 publishDate: "2026-07-28"
 category: "IP & Commercial Law"
 categoryHref: "/blog/"
 readTime: "12 min read"
+faqItems:
+  - question: "Is Swissreg free to use?"
+    answer: "Yes. Swissreg is a free public database maintained by IGE/IPI. No registration or account is required for basic searches. Access is available 24/7 at swissreg.ch."
+  - question: "Does a clean Swissreg search guarantee my trademark will be registered?"
+    answer: "No. A clean search reduces risk but does not guarantee registration. IGE/IPI may raise objections during examination, and third parties may oppose during the 3-month publication period."
+  - question: "What is the difference between Swissreg and TMview?"
+    answer: "Swissreg covers only Swiss national trademark registrations. TMview is the EU cross-border search tool covering EUIPO and national IP offices across 60 or more territories including Switzerland."
 tocItems:
   - id: "what-swissreg-contains"
     title: "What Swissreg Contains"
@@ -25,7 +32,7 @@ tocItems:
     title: "Next Steps: Request a Free Assessment"
 ---
 
-# Swissreg Trademark Search: How to Use the Swiss IP Register (2026)
+# Swissreg Trademark Search: Swiss IP Register Guide
 
 A Swissreg trademark search is the essential first step before filing any trademark in Switzerland. <a href="https://www.swissreg.ch" target="_blank" rel="nofollow noopener">Swissreg</a> is the official online database of the Swiss Federal Institute of Intellectual Property (IGE/IPI), providing free public access to all Swiss trademark registrations, patent applications, and design registrations. Identical or confusingly similar prior registrations are a primary ground for opposition and invalidity — running a Swissreg search before filing saves time, fees, and potential legal disputes.
 

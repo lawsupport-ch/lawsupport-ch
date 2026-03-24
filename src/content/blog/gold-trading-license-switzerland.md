@@ -1,11 +1,20 @@
 ---
-title: "Gold Trading License Switzerland: Regulatory Requirements (2026)"
+title: "Gold Trading License Switzerland: Rules (2026)"
 description: "Gold trading in Switzerland: AML/SRO obligations, FINMA rules, VAT on investment gold, import/export controls, and freeport storage requirements explained."
 date: "19.03.2026"
 publishDate: "2026-04-03"
 category: "Licensing & Permits"
 categoryHref: "/services/financial-licensing/"
 readTime: "6 min read"
+faqItems:
+  - question: "Do I need a FINMA licence to trade gold in Switzerland?"
+    answer: "A FINMA licence is only required if gold trading activities involve accepting deposits, managing client gold portfolios on a discretionary basis, or trading gold derivatives for third parties. Physical gold spot trading requires SRO membership under AMLA, not a FINMA licence."
+  - question: "Is investment gold VAT-exempt in Switzerland?"
+    answer: "Yes. Gold bars and wafers with purity of at least 995/1000, and qualifying gold coins, are exempt from Swiss VAT. Non-investment gold is subject to the standard 8.1% VAT rate."
+  - question: "What is an SRO and why must gold dealers join one?"
+    answer: "A Self-Regulatory Organisation (SRO) is a FINMA-approved body that supervises financial intermediaries, including precious metals dealers, for AML compliance. Swiss gold dealers must affiliate with an SRO such as VQF or OAR-G."
+  - question: "How do I set up a gold trading company in Switzerland?"
+    answer: "You first need a Swiss legal entity (typically an AG or GmbH), then SRO membership, a compliant AML programme, and appropriate bank relationships. Company formation takes 2-4 weeks; SRO membership adds 4-8 weeks."
 tocItems:
   - id: "types-of-gold-business-in-switzerland"
     title: "Types of Gold Business in Switzerland"
@@ -27,7 +36,7 @@ tocItems:
     title: "Request a Free Assessment"
 ---
 
-# Gold Trading License Switzerland: Regulatory Requirements (2026)
+# Gold Trading License Switzerland: Rules (2026)
 
 Switzerland is one of the world's leading centres for gold trading, refining, and storage — and operating a gold trading business here requires specific regulatory compliance from day one. There is no single "gold trading licence" in Switzerland; the obligations depend on the nature of your activity. Physical spot trading requires SRO membership under the Anti-Money Laundering Act. Asset management or derivatives trading triggers FINMA oversight. This guide sets out exactly which rules apply to which activities, and how to structure your Swiss gold operation correctly.
 

@@ -1,11 +1,18 @@
 ---
-title: "Swiss Citizenship by Investment: What Actually Exists in 2026"
-description: "Switzerland has no citizenship by investment programme. What wealthy foreign nationals can actually do: lump-sum tax residency, naturalisation, and the real timeline."
+title: "Swiss Citizenship by Investment: What Exists (2026)"
+description: "Switzerland has no citizenship by investment programme. What wealthy foreign nationals can do: lump-sum tax, naturalisation, and the real timeline."
 date: "19.03.2026"
 publishDate: "2026-07-04"
 category: "Immigration"
 categoryHref: "/blog/"
 readTime: "11 min read"
+faqItems:
+  - question: "Is there a Swiss golden visa or citizenship by investment programme?"
+    answer: "No. Switzerland has never introduced a citizenship-by-investment programme or golden visa. The closest equivalent is lump-sum taxation, which grants residency but not citizenship. There is no donation, investment, or purchase route to a Swiss passport."
+  - question: "How long does it take to get Swiss citizenship after establishing residency?"
+    answer: "The minimum is ten years of continuous Swiss residence for ordinary naturalisation, plus demonstrated integration. Facilitated naturalisation for spouses of Swiss citizens requires three years of marriage and five years of Swiss residence."
+  - question: "Can investment speed up the Swiss naturalisation process?"
+    answer: "No. No level of investment accelerates the naturalisation timeline. You cannot buy down the years or make donations that shorten the residency requirement. The ten-year minimum is statutory and applies uniformly."
 tocItems:
   - id: "why-people-search-for-swiss-citizenship-by-investment"
     title: "Why People Search for Swiss Citizenship by Investment"
@@ -21,7 +28,7 @@ tocItems:
     title: "Working With Qualified Advisers"
 ---
 
-# Swiss Citizenship by Investment: What Actually Exists in 2026
+# Swiss Citizenship by Investment: What Exists (2026)
 
 There is no Swiss citizenship by investment programme. There is no golden visa, no investor passport, no donation route, and no discretionary scheme that allows you to buy a Swiss passport. Any adviser or website suggesting otherwise is misrepresenting Swiss law — in some cases deliberately.
 

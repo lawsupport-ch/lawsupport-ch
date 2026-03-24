@@ -1,11 +1,18 @@
 ---
-title: "Swiss Passport: How to Get Swiss Citizenship & a Swiss Passport (2026)"
+title: "Swiss Passport: How to Get One in 2026"
 description: "The Swiss passport grants visa-free access to 186+ countries. The only route is Swiss citizenship. Requirements, timelines and costs explained."
 date: "19.03.2026"
 publishDate: "2026-07-16"
 category: "Immigration"
 categoryHref: "/blog/"
 readTime: "17 min read"
+faqItems:
+  - question: "Can I buy Swiss citizenship or a Swiss passport through investment?"
+    answer: "No. Switzerland has no investor passport programme, no golden passport scheme, and no residence-by-investment route that converts to citizenship on shortened terms."
+  - question: "How long does it take to get a Swiss passport from first arriving in Switzerland?"
+    answer: "For most foreign nationals arriving as adults, the minimum realistic timeline is approximately 11 to 13 years: ten years of qualifying residence, one to three years for the naturalization process, then a few weeks for the passport."
+  - question: "How many countries can I visit visa-free with a Swiss passport?"
+    answer: "The Swiss passport provides visa-free or visa-on-arrival access to 186 or more countries as of 2026, including the Schengen Area, the United States, Japan, Canada, and the United Kingdom."
 tocItems:
   - id: "why-a-swiss-passport-is-worth-pursuing"
     title: "Why a Swiss Passport Is Worth Pursuing"
@@ -25,7 +32,7 @@ tocItems:
     title: "How Lawsupport Can Help"
 ---
 
-# Swiss Passport: How to Get Swiss Citizenship & a Swiss Passport (2026)
+# Swiss Passport: How to Get One in 2026
 
 The Swiss passport is consistently ranked among the most powerful travel documents in the world. On the 2026 Henley Passport Index it sits in the global top five, providing visa-free or visa-on-arrival access to **186+ countries** — including the entire Schengen Area, the United States, Japan, and the United Kingdom. There is only one way to obtain a Swiss passport: acquire Swiss citizenship through naturalization or descent. Switzerland operates no investor passport programme and no golden visa route. This article sets out every route to Swiss citizenship in 2026, the concrete requirements, realistic costs and timelines, and the practical steps to start building your pathway now.
 

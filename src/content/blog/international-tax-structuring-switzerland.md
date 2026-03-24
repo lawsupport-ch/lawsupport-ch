@@ -1,11 +1,20 @@
 ---
-title: "International Tax Structuring Switzerland: Holding, IP & Trading Structures (2026)"
+title: "Swiss Tax Structuring: Holding, IP & Trading (2026)"
 description: "Swiss international tax structures in 2026: holding companies, IP box, trading companies, treasury centres, and how Switzerland fits into group structures."
 date: "19.03.2026"
 publishDate: "2026-04-19"
 category: "Tax & Accounting"
 categoryHref: "/blog/"
 readTime: "9 min read"
+faqItems:
+  - question: "Is the Swiss holding company still useful after the 2020 reform?"
+    answer: "Yes. The participation exemption fully exempts qualifying dividend income and capital gains where the 10%/CHF 1M threshold and one-year holding period are met."
+  - question: "Can we set up a Swiss IP company without moving R&D staff?"
+    answer: "Not if you want the IP box benefit. The OECD nexus requirement means the deduction is available only in proportion to R&D conducted by the Swiss entity."
+  - question: "How does Pillar Two affect small and medium-sized groups?"
+    answer: "Pillar Two applies only to multinational groups with consolidated revenue of EUR 750 million or more. Smaller groups are unaffected and keep the full Swiss rate advantage."
+  - question: "Is Zug always the best canton for tax structures?"
+    answer: "Zug offers the lowest headline rate (11.82%) but Geneva suits commodity trading better, and cantons like Nidwalden, Lucerne, and Schwyz offer competitive rates with different advantages."
 tocItems:
   - id: "why-switzerland-for-international-tax-structures"
     title: "Why Switzerland for International Tax Structures"
@@ -25,7 +34,7 @@ tocItems:
     title: "BEPS, CbCR, and Pillar Two in 2026"
 ---
 
-# International Tax Structuring Switzerland: Holding, IP & Trading Structures (2026)
+# Swiss Tax Structuring: Holding, IP & Trading (2026)
 
 Switzerland remains one of the most effective jurisdictions for international tax structuring. Stable politics, an independent rule-of-law tradition, a network of over 100 double tax agreements (DTAs), and effective corporate tax rates starting at 11.82% in Zug combine to make Swiss entities a practical choice for holding companies, IP vehicles, trading principals, and treasury centres. This article covers the four main structure types, their current legal basis, the post-STAF (Tax Reform and AHV Financing) rules, and what BEPS compliance requires in 2026.
 

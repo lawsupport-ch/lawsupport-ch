@@ -1,11 +1,22 @@
 ---
-title: "Swiss Bank Account Interest Rates (2026): CHF Savings & Deposits"
+title: "Swiss Bank Interest Rates: Savings & Deposits (2026)"
 description: "Current Swiss bank account interest rates for 2026: CHF savings accounts, fixed deposits, notice accounts at major Swiss banks. SNB policy rate impact."
 date: "19.03.2026"
 publishDate: "2026-06-16"
 category: "Banking & Finance"
 categoryHref: "/blog/"
 readTime: "10 min read"
+faqItems:
+  - question: "Do Swiss banks charge fees on savings accounts?"
+    answer: "Most Swiss banks charge monthly account fees (CHF 3–8/month) rather than offering pure savings accounts. The effective return is net of these fees. Online-only banks and PostFinance offer lower fee structures."
+  - question: "Is there a deposit guarantee on Swiss savings?"
+    answer: "Yes — <a href=\"https://www.esisuisse.ch/en\" target=\"_blank\" rel=\"nofollow noopener\">esisuisse</a> guarantees CHF 100'000 per depositor per bank. Cantonal banks with state guarantees (Staatsgarantie) provide additional protection."
+  - question: "Why are Swiss franc interest rates so low?"
+    answer: "The CHF is a reserve currency and safe haven. Global demand for CHF keeps interest rates low — high rates would attract further capital inflows, strengthening the CHF excessively and damaging Swiss export competitiveness."
+  - question: "Can I get better rates at a private bank?"
+    answer: "Yes, marginally. Private banks like Julius Baer and Pictet may offer 0.20–0.50% on CHF savings for clients with CHF 500'000+ in assets. The primary value of [private banking](/blog/private-banking-switzerland/) is not savings interest but wealth management, portfolio returns, and advisory services."
+  - question: "Are Swiss bank interest rates taxable?"
+    answer: "Yes. Interest income on Swiss bank accounts is subject to Swiss withholding tax (Verrechnungssteuer) at 35%. Swiss tax residents can reclaim this through their annual tax return. Non-residents may reclaim part or all of the withholding tax under applicable [double taxation treaties](/blog/double-tax-treaties-switzerland/)."
 tocItems:
   - id: "snb-policy-rate-and-its-effect-on-savings-rates"
     title: "SNB Policy Rate and Its Effect on Savings Rates"
@@ -29,7 +40,7 @@ tocItems:
     title: "How Interest Rates Affect Company Formation Decisions"
 ---
 
-# Swiss Bank Account Interest Rates (2026): CHF Savings & Deposits
+# Swiss Bank Interest Rates: Savings & Deposits (2026)
 
 Swiss franc interest rates in 2026 reflect the <a href="https://www.snb.ch/en/" target="_blank" rel="nofollow noopener">Swiss National Bank's</a> monetary policy cycle. After the SNB raised rates from negative territory in 2022–2023 to combat inflation, the SNB has since cut rates in 2024–2025 back toward zero. The SNB policy rate in early 2026 stands at approximately 0.25%. This guide covers current rates at major Swiss banks and what to expect from CHF-denominated accounts.
 

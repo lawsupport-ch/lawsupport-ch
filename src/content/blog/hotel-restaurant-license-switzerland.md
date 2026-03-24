@@ -1,11 +1,22 @@
 ---
-title: "Hotel & Restaurant License Switzerland (Wirtepatent): Requirements (2026)"
-description: "Opening a restaurant or hotel in Switzerland: cantonal Wirtepatent rules, food safety registration, alcohol permit, HACCP, L-GAV labour law, and realistic timelines."
+title: "Hotel & Restaurant License Switzerland (2026)"
+description: "Opening a restaurant or hotel in Switzerland: Wirtepatent rules, food safety, alcohol permit, HACCP, and L-GAV labour law explained."
 date: "19.03.2026"
 publishDate: "2026-04-07"
 category: "Licensing & Permits"
 categoryHref: "/services/financial-licensing/"
 readTime: "7 min read"
+faqItems:
+  - question: "Can a foreigner hold a Wirtepatent in Switzerland?"
+    answer: "Yes, subject to residence and work permit status. EU/EFTA nationals with a valid Swiss residence permit can hold a Wirtepatent. Non-EU/EFTA nationals require a work permit that authorises self-employment or management of a business."
+  - question: "Is the L-GAV collective labour agreement mandatory for all hospitality businesses?"
+    answer: "Yes. The L-GAV is declared generally binding and applies to virtually every hotel, restaurant, bar, and catering business in Switzerland regardless of union membership."
+  - question: "How long does it take to obtain a Wirtepatent?"
+    answer: "If your premises pass inspection and documentation is complete, expect 4-8 weeks from submission to licence issuance. Applications with missing documents regularly take 3-6 months."
+  - question: "What is the HACCP concept and is it required?"
+    answer: "HACCP (Hazard Analysis and Critical Control Points) is a systematic food safety management approach required by Swiss food law. Every food service establishment must implement and document a HACCP concept."
+  - question: "Do hotels need to register for tourism tax?"
+    answer: "Yes. Most cantons and communes require hotels to register for the local tourism tax (Kurtaxe/Ortstaxe) and collect it from guests."
 tocItems:
   - id: "what-is-the-wirtepatent"
     title: "What Is the Wirtepatent?"
@@ -31,7 +42,7 @@ tocItems:
     title: "Request a Free Assessment"
 ---
 
-# Hotel & Restaurant License Switzerland (Wirtepatent): Requirements (2026)
+# Hotel & Restaurant License Switzerland (2026)
 
 Opening a restaurant, hotel, bar, or café in Switzerland requires a cantonal hotel restaurant license — the **Wirtepatent** or **Gastgewerbebewilligung** — before you can legally trade. Without it, you are operating illegally from day one. Every establishment that serves food or beverages for on-site consumption, or provides overnight accommodation, must hold this licence. This guide sets out exactly what you need, where cantonal rules diverge, and the realistic timeline you should plan around.
 

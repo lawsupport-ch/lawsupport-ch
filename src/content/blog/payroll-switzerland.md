@@ -1,11 +1,22 @@
 ---
-title: "Payroll Switzerland: Social Insurance, Tax Withholding & Employer Obligations (2026)"
+title: "Payroll Switzerland: Rates & Obligations (2026)"
 description: "Swiss payroll explained: AHV/IV/EO, BVG, UVG, source tax (Quellensteuer), 13th month salary and employer registration with current 2026 rates and thresholds."
 date: "19.03.2026"
 publishDate: "2026-05-19"
 category: "Tax & Accounting"
 categoryHref: "/blog/"
 readTime: "12 min read"
+faqItems:
+  - question: "What is the AHV contribution rate in 2026?"
+    answer: "The combined AHV/IV/EO rate is 10.6% of gross salary -- 5.3% employer, 5.3% employee. There is no salary ceiling: the rate applies to every franc of gross pay including bonuses and the 13th month salary."
+  - question: "Is the 13th month salary mandatory in Switzerland?"
+    answer: "Not by statute, but it is contractually required under most collective agreements (GAV) and is universal market practice. Employers should budget for 13 monthly salaries. Social insurance contributions and Quellensteuer apply."
+  - question: "Do all employees pay source tax (Quellensteuer)?"
+    answer: "No. Quellensteuer applies only to foreign nationals without a C permit and not married to a Swiss citizen or C-permit holder. Swiss nationals and C-permit holders pay income tax via ordinary annual tax return."
+  - question: "Can an employer skip the 2nd pillar pension (BVG)?"
+    answer: "No. BVG coverage is mandatory for employees earning above CHF 22,050 per year (2026). The employer must affiliate with a BVG pension fund before hiring. Failure creates direct personal liability for any pension shortfall."
+  - question: "Do foreign companies without a Swiss entity need to run Swiss payroll?"
+    answer: "If staff physically work in Switzerland, Swiss social insurance and tax withholding obligations apply. The foreign employer must register with the AHV compensation office, establish a Swiss entity or branch, or use a professional employer organisation."
 tocItems:
   - id: "1-employer-registration-before-you-hire-anyone"
     title: "1. Employer Registration: Before You Hire Anyone"
@@ -27,7 +38,7 @@ tocItems:
     title: "9. Payroll Cycle"
 ---
 
-# Payroll Switzerland: Social Insurance, Tax Withholding & Employer Obligations (2026)
+# Payroll Switzerland: Rates & Obligations (2026)
 
 Running payroll in Switzerland is not complicated once you understand its architecture — but that architecture is far more elaborate than most foreign employers expect when they hire their first Swiss-based employee. The obligations layer on top of each other: federal social insurance, occupational pension, accident insurance, cantonal source tax, family allowances, and potentially industry-specific collective agreements, all running in parallel on a monthly cycle.
 

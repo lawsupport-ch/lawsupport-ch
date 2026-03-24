@@ -1,6 +1,6 @@
 ---
-title: "SECO Export Controls Switzerland: Dual-Use Goods & Sanctions (2026)"
-description: "Swiss export controls through SECO: dual-use goods permits, war materiel licences, sanctions compliance, and what Swiss exporters must know under the Goods Control Act."
+title: "SECO Export Controls: Dual-Use Goods & Sanctions"
+description: "Swiss SECO export controls: dual-use goods permits, war materiel licences, sanctions compliance under the Goods Control Act."
 date: "19.03.2026"
 publishDate: "2026-05-27"
 category: "Licensing & Permits"
@@ -23,9 +23,20 @@ tocItems:
     title: "Internal Compliance Programmes (ICP)"
   - id: "penalties-for-non-compliance"
     title: "Penalties for Non-Compliance"
+faqItems:
+  - question: "Does Switzerland implement EU sanctions against Russia?"
+    answer: "Yes. Switzerland adopted EU Russia sanctions packages in 2022, including asset freezes, sector restrictions, and import/export bans."
+  - question: "What is the catch-all clause in Swiss export controls?"
+    answer: "Even if goods are not on control lists, you need a SECO permit if you suspect they will be used for weapons of mass destruction."
+  - question: "Do export controls apply to software and technology transfers?"
+    answer: "Yes. The Goods Control Act covers intangible transfers including technical data, software, and know-how related to controlled goods."
+  - question: "Can SECO revoke an export permit after issuance?"
+    answer: "Yes. SECO can revoke or suspend a permit if circumstances change, such as new sanctions affecting the destination country."
+  - question: "How often should businesses screen the SECO sanctions list?"
+    answer: "Daily or continuously for financial institutions; at minimum before any new transaction for other businesses."
 ---
 
-# SECO Export Controls Switzerland: Dual-Use Goods & Sanctions (2026)
+# SECO Export Controls: Dual-Use Goods & Sanctions
 
 The Swiss State Secretariat for Economic Affairs (SECO — Staatssekretariat fuer Wirtschaft) is responsible for implementing Switzerland's export control regime and enforcing economic sanctions. Swiss companies exporting controlled goods — including dual-use items with civilian and military applications, war materiel, and certain technologies — must obtain SECO export permits. Switzerland's sanctions regime aligns with UN Security Council sanctions and, selectively, with EU and US measures.
 

@@ -1,11 +1,22 @@
 ---
-title: "Internal Audit Switzerland: Requirements for Swiss Companies (2026)"
+title: "Internal Audit Switzerland: Requirements (2026)"
 description: "Internal audit requirements for Swiss companies: ordinary vs limited audit thresholds, RAB-approved auditors, opting-out rules, and costs for AG and GmbH."
 date: "19.03.2026"
 publishDate: "2026-04-17"
 category: "Company Administration"
 categoryHref: "/blog/"
 readTime: "6 min read"
+faqItems:
+  - question: "Can the company's own accountant conduct the statutory audit?"
+    answer: "No. Swiss law requires the auditor to be independent. The company's internal accountant or bookkeeper cannot serve as the statutory auditor. An external, RAB-registered auditor is required."
+  - question: "What happens if a Swiss company skips its statutory audit?"
+    answer: "Failure to conduct the required audit violates Swiss company law. The board faces personal liability, and the Commercial Register can initiate dissolution proceedings."
+  - question: "Does audit opting-out affect the company's credibility?"
+    answer: "With banks and sophisticated counterparties, opting out can raise questions. Many lenders require a limited audit as a financing condition regardless of the legal exemption."
+  - question: "What is the difference between ordinary and limited audit?"
+    answer: "An ordinary audit requires full substantive testing with a positive opinion. A limited audit uses analytical procedures, resulting in negative assurance. Ordinary audits cost more but provide greater assurance."
+  - question: "When must a company switch from limited to ordinary audit?"
+    answer: "When it exceeds two of three thresholds (CHF 20 million assets, CHF 40 million revenue, 250 employees) in two consecutive financial years."
 tocItems:
   - id: "external-audit-swiss-law-requirements"
     title: "External Audit: Swiss Law Requirements"
@@ -21,7 +32,7 @@ tocItems:
     title: "Cost of Swiss Statutory Audit"
 ---
 
-# Internal Audit Switzerland: Requirements for Swiss Companies (2026)
+# Internal Audit Switzerland: Requirements (2026)
 
 Swiss law distinguishes between the **statutory external audit** (required by the Code of Obligations for most companies) and **internal audit** (an optional but recommended governance function for larger organisations). This guide covers both: who must have an external audit in Switzerland, when internal audit becomes important, and how Swiss audit requirements scale with company size.
 

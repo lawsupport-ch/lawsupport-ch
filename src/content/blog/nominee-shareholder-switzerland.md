@@ -1,11 +1,22 @@
 ---
-title: "Nominee Shareholder Switzerland: Rules, Risks & Alternatives (2026)"
+title: "Nominee Shareholder Switzerland: Rules & Risks (2026)"
 description: "Nominee shareholders in Switzerland: what Swiss law says, beneficial owner disclosure under TOBA, transparency requirements and legal alternatives explained."
 date: "19.03.2026"
 publishDate: "2026-05-11"
 category: "Company Formation"
 categoryHref: "/services/company-formation/"
 readTime: "12 min read"
+faqItems:
+  - question: "Is there a public Swiss beneficial owner register?"
+    answer: "Not yet in the same way as some EU member states. Switzerland's beneficial owner register is maintained at company level and accessible to authorities on request. A centralised public register has been debated but not implemented as of 2026."
+  - question: "Does nominee shareholding help with CRS tax reporting?"
+    answer: "No. CRS/AEOI reporting looks through nominees to the beneficial owner. Swiss financial institutions report the true beneficial owner's financial account information to their home country tax authorities."
+  - question: "What are the penalties for failing to disclose beneficial ownership?"
+    answer: "Directors who fail to maintain the beneficial owner register face fines of up to CHF 10,000 under the Swiss Code of Obligations. Intentional concealment may lead to criminal prosecution under anti-money laundering statutes."
+  - question: "Can a nominee shareholder vote at the general meeting?"
+    answer: "Yes. The nominee shareholder, as the registered holder, exercises voting rights. However, the nominee typically votes according to the beneficial owner's instructions as set out in the nominee agreement."
+  - question: "Can a foreign entity act as a nominee shareholder in Switzerland?"
+    answer: "Yes. There is no requirement that a nominee shareholder be Swiss-resident. A foreign trust company or holding entity can hold Swiss shares as nominee, but the Swiss company must still identify the ultimate beneficial owner."
 tocItems:
   - id: "swiss-shareholder-transparency-the-current-position"
     title: "Swiss Shareholder Transparency: The Current Position"
@@ -23,7 +34,7 @@ tocItems:
     title: "Related Guides"
 ---
 
-# Nominee Shareholder Switzerland: Rules, Risks & Alternatives (2026)
+# Nominee Shareholder Switzerland: Rules & Risks (2026)
 
 A nominee shareholder is a person or company that holds shares on behalf of the true beneficial owner, while the beneficial owner remains undisclosed in the public register. Swiss law has significantly restricted the usefulness of nominee shareholder arrangements through transparency legislation -- particularly the transparency and beneficial ownership provisions introduced in 2015 and strengthened since. This guide explains the current legal position, risks, and compliant alternatives.
 

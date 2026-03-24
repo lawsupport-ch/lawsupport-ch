@@ -1,11 +1,22 @@
 ---
-title: "Top Private Banks Switzerland: Wealth Management Rankings (2026)"
+title: "Top Private Banks in Switzerland (2026)"
 description: "Top Swiss private banks for wealth management in 2026: Pictet, Lombard Odier, Julius Baer, UBP, Vontobel — AUM, minimums, services, and how to choose."
 date: "19.03.2026"
 publishDate: "2026-08-07"
 category: "Banking & Finance"
 categoryHref: "/blog/"
 readTime: "14 min read"
+faqItems:
+  - question: "Do Swiss private banks still offer bank secrecy?"
+    answer: "Domestic bank secrecy remains under Art. 47 Banking Act, but automatic exchange of information (CRS/AEOI) means foreign tax authorities receive data for their residents' Swiss accounts. Swiss private banking is no longer a vehicle for offshore tax concealment — it is a legitimate wealth management service built on investment expertise and political stability."
+  - question: "Can non-residents open Swiss private bank accounts?"
+    answer: "Yes. Swiss private banks actively serve international clients. Non-residents must comply with CRS reporting to their home tax authority and pass KYC/AML due diligence."
+  - question: "Which private banks are headquartered in Zug?"
+    answer: "Most major private banks are in Geneva or Zurich. Zug-based wealth management services include Zuger Kantonalbank, various family offices, and international firms with Zug offices."
+  - question: "What is the minimum deposit for a Swiss private bank?"
+    answer: "Minimums vary by bank. Julius Baer and Vontobel accept clients from CHF 500,000. Lombard Odier typically requires CHF 1,000,000-2,000,000. Pictet starts at CHF 2,000,000-5,000,000. For UHNW clients (CHF 10 million or more), all major banks offer dedicated family office services."
+  - question: "What fees do Swiss private banks charge?"
+    answer: "Typical all-in management fees for discretionary mandates range from 0.5% to 1.2% per annum of AUM. Advisory mandates carry lower management fees plus transaction costs. A CHF 2,000,000 discretionary mandate costs approximately CHF 15,000-25,000 per year in management fees plus underlying fund costs."
 tocItems:
   - id: "what-is-a-swiss-private-bank"
     title: "What Is a Swiss Private Bank?"
@@ -23,7 +34,7 @@ tocItems:
     title: "Next Steps: Request a Free Assessment"
 ---
 
-# Top Private Banks Switzerland: Wealth Management Rankings (2026)
+# Top Private Banks in Switzerland: Wealth Management Rankings (2026)
 
 Switzerland manages approximately USD 2.5 trillion in cross-border private wealth, making it the world's leading centre for international private banking. The top private banks in Switzerland differ significantly in ownership structure, minimum requirements, investment philosophy, and client focus. This guide covers the leading Swiss private banks — their assets under management, client minimums, and what distinguishes each institution — so you can identify the right fit for your wealth profile.
 

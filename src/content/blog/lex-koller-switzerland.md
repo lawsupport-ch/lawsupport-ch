@@ -1,11 +1,20 @@
 ---
-title: "Lex Koller Switzerland: Who It Applies To & What It Restricts (2026)"
+title: "Lex Koller Switzerland: Rules & Exemptions (2026)"
 description: "Swiss Lex Koller (BewG) restricts foreign purchase of residential property. Who it applies to, exemptions, holiday apartment quotas, and commercial property."
 date: "19.03.2026"
 publishDate: "2026-04-27"
 category: "Immigration"
 categoryHref: "/blog/"
 readTime: "6 min read"
+faqItems:
+  - question: "Can my Swiss company buy residential property for me?"
+    answer: "If you are a non-resident foreign national with majority control, the company is subject to Lex Koller for residential property. Ownership through a company does not bypass the restriction."
+  - question: "If I get a Swiss B permit, what property can I buy?"
+    answer: "With a B permit you can purchase one primary residence in your permit canton. Investment properties, second homes, and properties outside your canton are not permitted under this exemption."
+  - question: "Does Lex Koller apply to commercial real estate?"
+    answer: "No. Lex Koller does not restrict acquisition of commercial or industrial real estate by foreign persons, regardless of nationality or residence status."
+  - question: "Can I inherit Swiss residential property as a foreigner?"
+    answer: "Yes. Inheritance is exempt from Lex Koller restrictions. However, if a non-resident foreigner later wishes to sell and repurchase different Swiss residential property, the new purchase is subject to Lex Koller."
 tocItems:
   - id: "what-lex-koller-restricts"
     title: "What Lex Koller Restricts"
@@ -23,7 +32,7 @@ tocItems:
     title: "Lex Koller and Immigration Status"
 ---
 
-# Lex Koller Switzerland: Who It Applies To & What It Restricts (2026)
+# Lex Koller Switzerland: Rules & Exemptions (2026)
 
 Lex Koller — officially the <a href="https://www.fedlex.admin.ch/eli/cc/1984/1148_1148_1148/en" target="_blank" rel="nofollow noopener">Federal Act on the Acquisition of Real Estate by Persons Abroad (BewG)</a> — is Switzerland's primary restriction on foreign ownership of Swiss real estate. It has been in force since 1983 and represents Switzerland's policy decision to limit foreign land ownership as a matter of national interest.
 

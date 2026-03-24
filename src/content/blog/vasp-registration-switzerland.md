@@ -1,11 +1,22 @@
 ---
-title: "VASP Registration Switzerland: Virtual Asset Service Provider Guide (2026)"
+title: "VASP Registration Switzerland: SRO Guide (2026)"
 description: "VASP registration in Switzerland under AMLA: SRO membership, VQF application process, AML compliance costs from CHF 3,000, and timelines. Lawsupport, Zug."
 date: "19.03.2026"
 publishDate: "2026-08-13"
 category: "Licensing & Permits"
 categoryHref: "/services/financial-licensing/"
 readTime: "14 min read"
+faqItems:
+  - question: "Do I need a VASP registration if my platform is non-custodial?"
+    answer: "If your platform never holds, controls, or has the technical ability to move client virtual assets, the custodial VASP analysis generally does not apply. However, if your platform facilitates exchanges between clients, the exchange activity may still constitute a VASP activity under AMLA. A business model assessment is required."
+  - question: "How long does VQF membership take?"
+    answer: "For a well-prepared application with complete documentation, the typical timeline is three to six months. Incomplete applications or those requiring multiple supplemental submissions take longer. Applicants with novel or complex business models should allow six to nine months."
+  - question: "Can a foreign company register as a Swiss VASP without a Swiss entity?"
+    answer: "No. Swiss AMLA registration requires a Swiss legal entity — a GmbH or AG registered in the Swiss Commercial Register. A branch of a foreign company may qualify in limited circumstances, but the standard approach is to establish a Swiss operating entity before applying for SRO membership."
+  - question: "What is the difference between VQF membership and a FINMA licence?"
+    answer: "VQF membership satisfies the AMLA affiliation requirement for financial intermediaries at the SRO level. A FINMA licence is a direct regulatory authorisation carrying higher capital, governance, and reporting requirements. Most VASPs require VQF membership, not a FINMA licence. The two are not mutually exclusive."
+  - question: "How much does VASP registration cost in Switzerland?"
+    answer: "VQF first-year membership fees range from CHF 3,000 to CHF 15,000 depending on business size. AML compliance programme preparation typically costs CHF 10,000 to CHF 30,000 in legal and consulting fees. Annual ongoing compliance maintenance runs CHF 5,000-12,000 for a mid-sized VASP."
 tocItems:
   - id: "what-is-a-vasp-under-swiss-law"
     title: "What Is a VASP Under Swiss Law?"
@@ -33,7 +44,7 @@ tocItems:
     title: "Get Your Swiss VASP Registration Right"
 ---
 
-# VASP Registration Switzerland: Virtual Asset Service Provider Guide (2026)
+# VASP Registration Switzerland: SRO Guide (2026)
 
 Switzerland has established one of the most clearly structured regulatory frameworks for virtual asset service providers in the world. If your company exchanges cryptocurrencies, custodies digital assets for clients, or provides crypto payment infrastructure, you are almost certainly a VASP under Swiss law and must register with a FINMA-recognised Self-Regulatory Organisation (SRO) before operating. VASP registration in Switzerland is governed by the Anti-Money Laundering Act (AMLA), with the VQF as the principal SRO for crypto businesses. First-year VQF membership fees start at CHF 3,000, and the application process typically takes three to six months. This guide explains exactly what that means, how the process works, and what it costs.
 

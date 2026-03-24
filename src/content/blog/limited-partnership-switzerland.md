@@ -1,11 +1,20 @@
 ---
-title: "Limited Partnership Switzerland (Kommanditgesellschaft): Structure & Uses (2026)"
-description: "Swiss Kommanditgesellschaft (limited partnership): general and limited partner roles, liability rules, tax treatment, and use in private equity fund structures."
+title: "Swiss Limited Partnership (KG): Structure & Uses"
+description: "Swiss Kommanditgesellschaft (KG): partner roles, liability rules, tax treatment, and use in private equity fund structures."
 date: "19.03.2026"
 publishDate: "2026-04-29"
 category: "Company Formation"
 categoryHref: "/services/company-formation/"
 readTime: "12 min read"
+faqItems:
+  - question: "Can a non-Swiss resident be a limited partner?"
+    answer: "Yes. Limited partners can be non-Swiss residents, whether natural persons or corporations from any jurisdiction. The KG is commonly used for international investment structures."
+  - question: "Can the limited partner lose more than their contribution?"
+    answer: "Generally no. Liability is capped at the committed capital contribution. If the limited partner participates in management, this protection can be lost."
+  - question: "How is a Swiss KG dissolved?"
+    answer: "By events in the partnership agreement, unanimous partner agreement, court order, or bankruptcy. Dissolution triggers winding-up, debt payment, and distribution of remaining proceeds."
+  - question: "Can a KG convert to a GmbH or AG?"
+    answer: "Yes. The Swiss Merger Act allows formal transformation from a KG to a capital company, preserving the legal continuity of the entity."
 tocItems:
   - id: "structure-of-the-swiss-kg"
     title: "Structure of the Swiss KG"
@@ -21,7 +30,7 @@ tocItems:
     title: "When to Use a KG"
 ---
 
-# Limited Partnership Switzerland (Kommanditgesellschaft): Structure & Uses (2026)
+# Swiss Limited Partnership (KG): Structure & Uses
 
 The Swiss limited partnership (Kommanditgesellschaft -- KG) is a partnership form under Articles 594--619 of the Code of Obligations (OR). It combines an active general partner (Komplementar) with one or more passive limited partners (Kommanditare) whose liability is capped at their capital contribution. The Swiss KG is used primarily for investment fund structures and certain family business arrangements.
 

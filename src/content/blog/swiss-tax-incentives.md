@@ -1,11 +1,18 @@
 ---
-title: "Swiss Tax Incentives for Companies: IP Box, R&D, Notional Interest (2026)"
+title: "Swiss Tax Incentives: IP Box, R&D, NID (2026)"
 description: "Swiss corporate tax incentives in 2026 include the IP box (patent box), R&D super-deduction, and notional interest deduction. Qualification rules explained."
 date: "19.03.2026"
 publishDate: "2026-07-18"
 category: "Tax & Accounting"
 categoryHref: "/blog/"
 readTime: "15 min read"
+faqItems:
+  - question: "What effective tax rate can a company achieve in Zug with Swiss tax incentives?"
+    answer: "By stacking the IP box, R&D super-deduction, and NID, a company in Zug with significant patent income and active R&D can achieve a combined effective rate of 5 to 8 percent."
+  - question: "Does the IP box apply at the federal level?"
+    answer: "No. The IP box and NID are cantonal-level incentives. The federal corporate income tax rate of 8.5 percent statutory is not reduced by the IP box or NID."
+  - question: "Should I get a tax ruling before claiming Swiss tax incentives?"
+    answer: "Yes. An advance tax ruling from the cantonal tax authority provides binding certainty on the treatment. This is especially important for IP box claims where the nexus calculation is fact-dependent."
 tocItems:
   - id: "overview-post-staf-swiss-tax-incentive-framework"
     title: "Overview: Post-STAF Swiss Tax Incentive Framework"
@@ -27,7 +34,7 @@ tocItems:
     title: "Structure Your Swiss Tax Incentives With Expert Guidance"
 ---
 
-# Swiss Tax Incentives for Companies: IP Box, R&D, Notional Interest (2026)
+# Swiss Tax Incentives: IP Box, R&D, NID (2026)
 
 The 2020 Swiss Tax Reform and AHV Financing (STAF) replaced the old cantonal ring-fencing regimes (holding, domicile, and mixed company statuses) with a set of internationally compliant Swiss tax incentives. These incentives — the IP box, R&D super-deduction, and notional interest deduction — are available at the cantonal level and, when stacked, can substantially reduce effective [corporate tax rates](/blog/corporate-tax-switzerland/) for qualifying businesses. A company in Zug with strong patent income and active Swiss R&D can achieve combined effective rates of 5–8%, well below the standard 11.8%.
 

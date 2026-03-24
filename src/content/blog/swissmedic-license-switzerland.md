@@ -1,11 +1,18 @@
 ---
-title: "Swissmedic Licence Switzerland: Pharma & Medical Device Authorisation (2026)"
-description: "Swissmedic licensing for pharmaceuticals and medical devices in Switzerland: marketing authorisation, manufacturing licence, clinical trials, and MDR compliance."
+title: "Swissmedic Licence: Pharma & Device Authorisation"
+description: "Swissmedic licensing for pharmaceuticals and medical devices in Switzerland: marketing authorisation, manufacturing licence, and MDR compliance."
 date: "19.03.2026"
 publishDate: "2026-07-26"
 category: "Licensing & Permits"
 categoryHref: "/services/financial-licensing/"
 readTime: "13 min read"
+faqItems:
+  - question: "Does EU marketing authorisation apply automatically in Switzerland?"
+    answer: "No. Switzerland is not an EU member state. A separate Swissmedic application is required, though the Swiss-EU MRA can streamline GMP and quality recognition."
+  - question: "How much does a Swissmedic marketing authorisation cost?"
+    answer: "A standard procedure for a new active substance costs CHF 80,000 to 200,000. Simplified procedures for generics range from CHF 15,000 to 50,000."
+  - question: "What is the timeline for Swissmedic marketing authorisation?"
+    answer: "Standard procedure takes 12 to 18 months. Accelerated procedure for urgent public health needs takes 6 to 12 months. These timelines assume a complete dossier."
 tocItems:
   - id: "what-is-swissmedic"
     title: "What Is Swissmedic?"
@@ -27,7 +34,7 @@ tocItems:
     title: "Next Steps: Request a Free Assessment"
 ---
 
-# Swissmedic Licence Switzerland: Pharma & Medical Device Authorisation (2026)
+# Swissmedic Licence: Pharma & Device Authorisation
 
 A Swissmedic licence is the mandatory federal authorisation required to manufacture, import, distribute, or sell pharmaceuticals and medical devices in Switzerland. Switzerland is home to Novartis, Roche, Lonza, and hundreds of biotech and medical device companies, with the pharmaceutical sector contributing approximately 10% of Swiss GDP. Access to this market — whether you are launching a drug, a medical device, or a diagnostic tool — runs through a single federal gateway: <a href="https://www.swissmedic.ch" target="_blank" rel="nofollow noopener">Swissmedic</a>.
 

@@ -1,11 +1,22 @@
 ---
-title: "Lump-Sum Taxation Switzerland (Forfait Fiscal): Full Guide (2026)"
+title: "Lump-Sum Taxation Switzerland: Full Guide (2026)"
 description: "Switzerland's lump-sum taxation for wealthy foreign residents: eligibility, how tax is calculated, available cantons, and how to apply. Lawsupport, Zug."
 date: "19.03.2026"
 publishDate: "2026-05-01"
 category: "Tax & Accounting"
 categoryHref: "/blog/"
 readTime: "14 min read"
+faqItems:
+  - question: "Is lump-sum taxation available in Zug?"
+    answer: "Yes. Zug offers lump-sum taxation at cantonal and federal level. The minimum living expenses base follows the federal 7x rental value rule with no additional cantonal minimum."
+  - question: "Can a Swiss company owner use lump-sum taxation?"
+    answer: "Only if they receive passive dividend income without active management. Active employment or management in Switzerland disqualifies the individual from the regime."
+  - question: "What happens if I become employed in Switzerland?"
+    answer: "Gainful employment terminates eligibility from the date employment begins. The individual transitions to ordinary income taxation for that and subsequent years."
+  - question: "Is lump-sum taxation time-limited?"
+    answer: "No. Once granted, it remains in effect as long as the individual meets eligibility criteria: foreign nationality, no Swiss gainful employment, and Swiss residency."
+  - question: "How many people use lump-sum taxation in Switzerland?"
+    answer: "Approximately 4,000 to 5,000 individuals are taxed under the regime, generating over CHF 800 million in annual tax revenue across all cantons."
 tocItems:
   - id: "what-lump-sum-taxation-is"
     title: "What Lump-Sum Taxation Is"
@@ -27,7 +38,7 @@ tocItems:
     title: "Lawsupport's Service"
 ---
 
-# Lump-Sum Taxation Switzerland (Forfait Fiscal): Full Guide (2026)
+# Lump-Sum Taxation Switzerland: Full Guide (2026)
 
 Switzerland's lump-sum taxation regime -- known as Pauschalbesteuerung in German and forfait fiscal in French -- allows qualifying wealthy foreign nationals who are new Swiss residents to pay tax based on their annual living expenses in Switzerland rather than their worldwide income. For high-net-worth individuals with significant foreign income and assets, this can produce a dramatically lower Swiss tax liability than ordinary income taxation.
 

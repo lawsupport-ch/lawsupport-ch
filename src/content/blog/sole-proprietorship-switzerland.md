@@ -1,5 +1,5 @@
 ---
-title: "Sole Proprietorship Switzerland (Einzelfirma): How to Register (2026)"
+title: "Sole Proprietorship Switzerland: Einzelfirma Guide"
 description: "How to register a Swiss Einzelfirma (sole proprietorship): requirements, tax treatment, liability risks, and when to convert to a GmbH. Lawsupport, Zug."
 date: "19.03.2026"
 publishDate: "2026-06-02"
@@ -23,9 +23,20 @@ tocItems:
     title: "When an Einzelfirma Makes Sense"
   - id: "converting-to-gmbh"
     title: "Converting to GmbH"
+faqItems:
+  - question: "Can a foreign national register an Einzelfirma?"
+    answer: "Only if they hold a valid Swiss residence permit. Non-residents must use a GmbH or AG with a Swiss-resident director."
+  - question: "What happens if turnover exceeds CHF 100,000?"
+    answer: "Commercial Register registration becomes mandatory, and VAT registration is triggered at the same threshold."
+  - question: "Is a sole proprietorship suitable for consulting?"
+    answer: "For a sole consultant earning below CHF 100,000-150,000 annually with minimal risk, yes. Above that, a GmbH is better."
+  - question: "Can I hire employees as a sole proprietor?"
+    answer: "Yes, but it triggers employer obligations including AHV registration, accident insurance, and potentially BVG pension."
+  - question: "What are the ongoing costs of an Einzelfirma?"
+    answer: "Minimal: AHV/IV/EO contributions (around 10% of net profit), income tax at personal rates, and optional bookkeeper fees."
 ---
 
-# Sole Proprietorship Switzerland (Einzelfirma): How to Register (2026)
+# Sole Proprietorship Switzerland: Einzelfirma Guide
 
 The Swiss Einzelfirma (sole proprietorship) is the simplest business structure available in Switzerland. It requires no minimum capital, no notarial deed, and — for small businesses — no Commercial Register entry. But it comes with full personal liability and limited scalability. This guide explains when an Einzelfirma makes sense and when a GmbH is the better choice.
 

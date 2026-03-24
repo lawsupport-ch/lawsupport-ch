@@ -1,5 +1,5 @@
 ---
-title: "Swiss Stamp Duty (Stempelabgaben): Issuance Tax, Transfer Tax & Premium Tax (2026)"
+title: "Swiss Stamp Duty: Issuance, Transfer & Premium Tax"
 description: "Swiss stamp duties explained: 1% issuance tax on share capital, 0.15% securities transfer tax, and insurance premium stamp. Rates, exemptions, and planning."
 date: "19.03.2026"
 publishDate: "2026-06-06"
@@ -15,9 +15,20 @@ tocItems:
     title: "3. Insurance Premium Stamp Tax (Versicherungsabgabe)"
   - id: "planning-points"
     title: "Planning Points"
+faqItems:
+  - question: "Do I pay stamp tax when forming a GmbH with CHF 20,000?"
+    answer: "No. The CHF 1 million exemption covers the entire amount. Zero stamp tax on formation."
+  - question: "Is there stamp duty on selling private company shares?"
+    answer: "Only when a Swiss securities dealer is involved. Direct private sales typically do not attract the stamp."
+  - question: "Does stamp duty apply to crypto assets?"
+    answer: "It depends on token classification. Asset tokens qualifying as securities may be subject; payment and utility tokens generally are not."
+  - question: "How is issuance stamp tax reported and paid?"
+    answer: "The issuing company files with the ESTV within 30 days of the capital increase. Payment is due within 30 days of filing."
+  - question: "Is the CHF 1 million exemption per company or per group?"
+    answer: "Per company. Each Swiss legal entity has its own exemption threshold."
 ---
 
-# Swiss Stamp Duty (Stempelabgaben): Issuance Tax, Transfer Tax & Premium Tax (2026)
+# Swiss Stamp Duty: Issuance, Transfer & Premium Tax
 
 Switzerland levies three distinct stamp duties (Stempelabgaben) administered by the <a href="https://www.estv.admin.ch/" target="_blank" rel="nofollow noopener">Swiss Federal Tax Administration (ESTV)</a>: the issuance stamp (Emissionsabgabe) on capital contributions, the securities transfer stamp (Umsatzabgabe) on securities transactions, and the insurance premium stamp (Versicherungsabgabe). Each affects different transactions and has its own rate, exemptions, and planning implications.
 

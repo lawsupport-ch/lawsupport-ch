@@ -1,11 +1,22 @@
 ---
-title: "Venture Capital Switzerland: Startup Funding, VC Firms & Legal Framework (2026)"
+title: "Venture Capital Switzerland: VC Funding Guide (2026)"
 description: "Venture capital in Switzerland: leading VC firms, startup financing stages, AG structure for VC rounds, ESOP taxation, and Zug as a startup hub. Lawsupport."
 date: "19.03.2026"
 publishDate: "2026-08-19"
 category: "Corporate Transactions"
 categoryHref: "/blog/"
 readTime: "13 min read"
+faqItems:
+  - question: "What is the difference between a SAFE note and a Swiss convertible loan?"
+    answer: "A SAFE has no debt characteristics — no interest, no maturity date. Under Swiss law, this creates uncertainty because it does not clearly fit the debt or equity categories recognised by the Code of Obligations. Swiss convertible loans (Wandeldarlehen) are genuine loans with interest and maturity that convert on defined triggers."
+  - question: "Which canton is best for a Swiss VC-backed startup?"
+    answer: "Zug is the market-standard answer for most startup types, particularly those with international investors or IP-heavy models. Effective cantonal tax rates around 11.9%, an established ecosystem of legal, tax, and banking service providers, and the Crypto Valley brand make it the default."
+  - question: "Why is the AG preferred over the GmbH for VC-backed startups?"
+    answer: "The AG allows multiple share classes with differentiated economic and governance rights, essential for VC liquidation preferences and anti-dilution provisions. It supports clean ESOP structures, does not publicly disclose its shareholder list, and is well recognised by international investors."
+  - question: "How are employee stock options taxed in Switzerland?"
+    answer: "Employee stock options are taxed as employment income at the point of exercise, not at grant. Restricted Share Plans are taxed at grant on the discount value. Virtual Stock Option Plans pay cash equivalents on exit. A cantonal tax ruling should be obtained before launching any ESOP structure."
+  - question: "What liquidation preference is market standard in Swiss VC rounds?"
+    answer: "A 1x non-participating liquidation preference is the market standard. A 1x participating or 2x preference signals strong investor position and is less common. For anti-dilution, broad-based weighted average is standard; full ratchet is aggressive and rarely seen."
 tocItems:
   - id: "switzerlands-startup-hubs-where-the-activity-is"
     title: "Switzerland's Startup Hubs: Where the Activity Is"
@@ -23,7 +34,7 @@ tocItems:
     title: "Structure Your Swiss VC Round Correctly"
 ---
 
-# Venture Capital Switzerland: Startup Funding, VC Firms & Legal Framework (2026)
+# Venture Capital Switzerland: VC Funding Guide (2026)
 
 Switzerland punches well above its weight in European venture capital. Zurich consistently ranks among Europe's top 10 startup cities, and Swiss VC investment totalled approximately CHF 3-4 billion in 2023, according to <a href="https://www.seca.ch" target="_blank" rel="nofollow noopener">SECA</a> (Swiss Private Equity & Corporate Finance Association) data. The activity centres on fintech, biotech, deeptech, and blockchain. For founders and investors operating in the Swiss venture capital market, understanding the legal and structural framework determines how capital is deployed, how exits are structured, and how much tax founders ultimately pay. This guide covers the key VC firms, financing stages, the AG structure required for institutional rounds, and ESOP taxation rules.
 

@@ -1,11 +1,22 @@
 ---
-title: "IGE / IPI Switzerland: Swiss Federal Institute of Intellectual Property (2026)"
+title: "IGE / IPI Switzerland: IP Office Guide (2026)"
 description: "The Swiss IP office IGE/IPI handles trademark, patent, and design registration. Learn how to file, official fees, Swissreg searches, and processing times."
 date: "19.03.2026"
 publishDate: "2026-04-11"
 category: "IP & Commercial Law"
 categoryHref: "/blog/"
 readTime: "6 min read"
+faqItems:
+  - question: "Does IGE/IPI register copyrights?"
+    answer: "No. Copyright in Switzerland is automatic upon creation of an original work under the Copyright Act (URG). No registration is required or available. IGE/IPI only handles trademarks, patents, and designs."
+  - question: "How long does Swiss trademark registration take?"
+    answer: "Standard timeline: 3-6 months if no examination issues and no opposition. If an opposition is filed by a third party, the process extends to 12-24 months."
+  - question: "Can foreign companies file directly with IGE/IPI?"
+    answer: "Yes. Foreign applicants can file trademark, patent, and design applications directly with IGE/IPI. A Swiss address for correspondence is required; a professional representative is recommended."
+  - question: "What is the difference between a Swiss national patent and a European patent?"
+    answer: "A Swiss national patent is granted after formal examination only. A European patent filed through the EPO undergoes full substantive examination. The EPO patent is more expensive but carries stronger legal presumption of validity."
+  - question: "Is a Swiss trademark valid in Liechtenstein?"
+    answer: "Yes. Under the bilateral treaty between Switzerland and Liechtenstein, Swiss trademark registrations automatically extend to Liechtenstein without additional fees or filings."
 tocItems:
   - id: "what-igeipi-does"
     title: "What IGE/IPI Does"
@@ -23,7 +34,7 @@ tocItems:
     title: "Fees Summary (2026)"
 ---
 
-# IGE / IPI Switzerland: Swiss Federal Institute of Intellectual Property (2026)
+# IGE / IPI Switzerland: IP Office Guide (2026)
 
 The Swiss Federal Institute of Intellectual Property — IGE in German (Institut fuer Geistiges Eigentum), IPI in French (Institut Federal de la Propriete Intellectuelle), IPI in English — is the Swiss government agency responsible for administering trademark, patent, and design registrations in Switzerland. Knowing what IGE/IPI does, how to interact with it, and how to search its registers is essential for anyone protecting intellectual property in Switzerland.
 

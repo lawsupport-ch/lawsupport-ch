@@ -1,11 +1,22 @@
 ---
-title: "Fintech License Switzerland: FINMA Authorisation & Regulatory Options (2026)"
+title: "Fintech License Switzerland: FINMA Options"
 description: "Swiss fintech licensing options: FINMA banking license, fintech license (sandbox/FinTech-Bewilligung), and SRO membership. Requirements, costs, and timeline."
 date: "19.03.2026"
 publishDate: "2026-03-26"
 category: "Licensing & Permits"
 categoryHref: "/services/financial-licensing/"
 readTime: "9 min read"
+faqItems:
+  - question: "Can a foreign company obtain a Swiss FinTech license without incorporating in Switzerland?"
+    answer: "No. A FinTech-Bewilligung requires a Swiss-domiciled legal entity (AG or GmbH). Foreign companies operating from abroad without a Swiss entity are not eligible. The entity must have genuine substance in Switzerland."
+  - question: "How long does it realistically take to receive a FinTech-Bewilligung?"
+    answer: "From initial Fintech Desk consultation to receiving the license: realistically 9 to 15 months for a well-prepared applicant. The 6-12 month FINMA review period begins from formal application submission, not from first contact."
+  - question: "What is the minimum capital for a Swiss FinTech-Bewilligung?"
+    answer: "The minimum paid-in capital for the FinTech-Bewilligung (Art. 1b BankG) is CHF 300,000. Capital must be fully paid in at the time of application."
+  - question: "Does Switzerland have a payment services license equivalent to PSD2?"
+    answer: "No. Switzerland has no standalone payment services license equivalent to the EU PSD2 Payment Institution or E-Money Institution authorisation. Swiss payment service providers are regulated based on what they do with funds."
+  - question: "What does the Swiss fintech sandbox allow?"
+    answer: "The sandbox under Art. 6 BankG allows companies to accept public deposits up to CHF 1 million without holding a FINMA license or SRO membership. Deposits must not be invested or on-lent."
 tocItems:
   - id: "switzerlands-regulatory-logic-activity-based-not-entity-base"
     title: "Switzerland's Regulatory Logic: Activity-Based, Not Entity-Based"
@@ -23,7 +34,7 @@ tocItems:
     title: "Working with Lawsupport on Your Swiss Fintech License"
 ---
 
-# Fintech License Switzerland: FINMA Authorisation & Regulatory Options (2026)
+# Fintech License Switzerland: FINMA Options
 
 !<a href="https://lawsupport.ch/images/fintech-license-switzerland-hero.jpg" target="_blank" rel="nofollow noopener">Fintech license Switzerland — FINMA authorisation options for 2026</a>
 

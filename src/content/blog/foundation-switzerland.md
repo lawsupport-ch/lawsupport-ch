@@ -1,11 +1,22 @@
 ---
-title: "Swiss Foundation (Stiftung): Formation, Governance & Tax Status (2026)"
-description: "Swiss Stiftung (foundation): how to form one, governance requirements, tax-exempt status, supervisory authority, and uses in philanthropy and crypto. Lawsupport, Zug."
+title: "Swiss Foundation (Stiftung): Formation & Tax"
+description: "Swiss Stiftung (foundation): formation requirements, governance, tax-exempt status, supervisory authority, and uses in philanthropy and crypto."
 date: "19.03.2026"
 publishDate: "2026-03-28"
 category: "Company Formation"
 categoryHref: "/services/company-formation/"
 readTime: "7 min read"
+faqItems:
+  - question: "Can a foundation distribute profits to its founder?"
+    answer: "No. Distributions to founders, board members, or related parties are prohibited. The foundation assets must be used exclusively for the stated purpose."
+  - question: "What is the minimum capital required to form a Swiss foundation?"
+    answer: "There is no statutory minimum capital for a private foundation. The supervisory authority expects sufficient assets to pursue the stated purpose. In practice, a minimum of CHF 50,000 is commonly expected."
+  - question: "How long does it take to form a Swiss foundation?"
+    answer: "Forming a Swiss foundation typically takes 4-8 weeks from drafting the charter to registration in the Commercial Register, assuming the purpose is clearly defined and documentation is complete."
+  - question: "Does a Swiss foundation need an auditor?"
+    answer: "Foundations above certain asset thresholds (CHF 2 million in assets or CHF 200,000 in annual receipts) must have an independent auditor. Smaller foundations may be exempt."
+  - question: "Can a Swiss foundation issue tokens?"
+    answer: "Yes. Swiss foundations are widely used by blockchain and crypto projects as the issuing entity for token protocols and treasury management. Token issuance remains subject to FINMA token classification rules."
 tocItems:
   - id: "legal-basis"
     title: "Legal Basis"
@@ -25,7 +36,7 @@ tocItems:
     title: "Get Advice on Forming a Swiss Foundation"
 ---
 
-# Swiss Foundation (Stiftung): Formation, Governance & Tax Status (2026)
+# Swiss Foundation (Stiftung): Formation & Tax Guide
 
 !<a href="https://lawsupport.ch/images/foundation-switzerland-hero.jpg" target="_blank" rel="nofollow noopener">Swiss foundation (Stiftung) — formation, governance and tax status guide</a>
 

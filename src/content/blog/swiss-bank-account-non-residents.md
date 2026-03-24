@@ -1,11 +1,22 @@
 ---
-title: "Swiss Bank Account for Non-Residents: What's Possible in 2026"
+title: "Swiss Bank Account for Non-Residents (2026)"
 description: "Can you open a Swiss bank account as a non-resident? We explain the three realistic paths, requirements, costs, and timelines for foreign nationals in 2026."
 date: "19.03.2026"
 publishDate: "2026-06-18"
 category: "Banking & Finance"
 categoryHref: "/blog/"
 readTime: "12 min read"
+faqItems:
+  - question: "Can I open a Swiss bank account online as a non-resident without forming a company?"
+    answer: "In almost all cases, no. Swiss retail banks require residency for personal accounts. Some fintech providers like Wise offer CHF accounts remotely, but these are not Swiss bank accounts. For a genuine Swiss bank account, forming a Swiss company is the most reliable path for non-residents."
+  - question: "Do I need to visit Switzerland to open a corporate bank account?"
+    answer: "Not always, but it depends on the bank. Some institutions accept full remote onboarding with video KYC and certified documentation. Others prefer or require an in-person meeting, particularly for accounts with non-resident beneficial owners. We advise on this bank by bank and facilitate remote processes wherever possible."
+  - question: "Are Swiss bank accounts still confidential in 2026?"
+    answer: "No. Switzerland participates in the OECD Common Reporting Standard (CRS) and automatically exchanges financial account information with over 100 partner countries. Your home country's tax authority will receive information about your Swiss account. Swiss banking confidentiality as it was historically understood no longer exists for foreign nationals. Any service or provider suggesting otherwise is misinforming you."
+  - question: "What is the minimum investment for Swiss private banking as a non-resident?"
+    answer: "Most Swiss private banks — Pictet, Julius Baer, EFG, Lombard Odier — have effective minimums of CHF 1 million in assets under management, and some have higher relationship thresholds in practice. Private banking is a wealth management product, not a current account, and the relationship is advisory or discretionary in nature."
+  - question: "How long does it take to open a Swiss corporate bank account for a new company?"
+    answer: "From the point of company formation, the corporate account application and approval process typically takes four to eight weeks. The capital deposit account (Kapitaleinzahlungskonto) required before company registration adds two to six weeks at the beginning of the process. Total timeline from engagement to active account is generally eight to twelve weeks for straightforward structures."
 tocItems:
   - id: "the-reality-check-personal-swiss-banking-for-non-residents-i"
     title: "The Reality Check: Personal Swiss Banking for Non-Residents in 2026"
@@ -23,7 +34,7 @@ tocItems:
     title: "Practical Guidance: Steps to Take"
 ---
 
-# Swiss Bank Account for Non-Residents: What's Possible in 2026
+# Swiss Bank Account for Non-Residents (2026)
 
 If you have been searching for information on opening a Swiss bank account as a non-resident, you have almost certainly encountered two types of content online: breathless articles claiming it is simple and straightforward, and others that dismiss it as entirely impossible. Neither is accurate. The truth in 2026 is more nuanced — and understanding it clearly will save you considerable time, money, and frustration.
 

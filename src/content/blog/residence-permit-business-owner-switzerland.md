@@ -1,6 +1,6 @@
 ---
-title: "Residence Permit Switzerland for Business Owners: Routes & Requirements (2026)"
-description: "How to obtain a Swiss residence permit as a business owner: EU/EFTA self-employed route, non-EU investor and entrepreneur permits, and what immigration requires."
+title: "Residence Permit for Business Owners in Switzerland"
+description: "How to get a Swiss residence permit as a business owner: EU/EFTA self-employed route, non-EU investor permits, and immigration requirements."
 date: "19.03.2026"
 publishDate: "2026-05-25"
 category: "Immigration"
@@ -21,9 +21,20 @@ tocItems:
     title: "What Most Business Owners Get Wrong"
   - id: "practical-paths-for-non-euefta-business-owners-summary"
     title: "Practical Paths for Non-EU/EFTA Business Owners: Summary"
+faqItems:
+  - question: "Can I get a Swiss residence permit just by investing money?"
+    answer: "No. Switzerland has no residency-by-investment programme. Investment alone does not produce a permit without job creation and cantonal approval."
+  - question: "If I own a Swiss GmbH, can I sponsor my own work permit?"
+    answer: "Yes, your company can sponsor your work permit, but standard criteria for non-EU/EFTA nationals still apply."
+  - question: "Do I need to live in Switzerland to run a Swiss company?"
+    answer: "No. At least one director must be Swiss-resident, but that director does not need to be the owner."
+  - question: "How long does a B permit take for self-employed EU/EFTA nationals?"
+    answer: "Processing typically takes 4-8 weeks from submission of a complete application, varying by canton."
+  - question: "Can I bring my family on a business residence permit?"
+    answer: "Yes. Once you hold a valid B or C permit, your spouse and children under 18 qualify for family reunification."
 ---
 
-# Residence Permit Switzerland for Business Owners: Routes & Requirements (2026)
+# Residence Permit for Business Owners in Switzerland
 
 Switzerland does not have an investor visa. There is no residency-by-investment programme. No golden visa. No minimum deposit that unlocks a permit. If you have read otherwise, you have been misinformed.
 

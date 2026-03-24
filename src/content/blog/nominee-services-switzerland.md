@@ -1,11 +1,22 @@
 ---
-title: "Nominee Services Switzerland: Director, Shareholder & Registered Address (2026)"
+title: "Nominee Services Switzerland: Full Guide (2026)"
 description: "Swiss nominee director, shareholder and registered address services explained: what is permitted, disclosure rules and how arrangements work in practice."
 date: "19.03.2026"
 publishDate: "2026-05-09"
 category: "Company Formation"
 categoryHref: "/services/company-formation/"
 readTime: "11 min read"
+faqItems:
+  - question: "Is using a nominee director legal in Switzerland?"
+    answer: "Yes. Nominee director arrangements are a recognised commercial practice in Switzerland. The key requirement is that the beneficial owner is properly identified through AML documentation. Arrangements intended to conceal criminal activity or evade taxes are illegal."
+  - question: "Does the nominee director have personal liability?"
+    answer: "Yes. A Swiss nominee director has director liability under Art. 754 OR (AG) and Art. 827 OR (GmbH). Proper nominee agreements include indemnification provisions and reputable nominees carry professional indemnity insurance."
+  - question: "What does a nominee director cost in Switzerland?"
+    answer: "Annual fees typically range from CHF 3,000 to CHF 12,000, depending on complexity, transaction volume, and administrative involvement. Lawsupport provides a fixed annual fee based on initial assessment."
+  - question: "What is the difference between a nominee director and a nominee shareholder?"
+    answer: "A nominee director sits on the board and holds signatory authority. A nominee shareholder holds shares on behalf of the true owner. These are separate arrangements with different legal implications."
+  - question: "Do I need a nominee director for a branch office?"
+    answer: "Swiss branch offices of foreign companies must appoint a person domiciled in Switzerland who is authorised to represent the branch. This person serves a similar function and must be entered in the Commercial Register."
 tocItems:
   - id: "the-swiss-resident-director-requirement"
     title: "The Swiss-Resident Director Requirement"
@@ -21,7 +32,7 @@ tocItems:
     title: "Related Services"
 ---
 
-# Nominee Services Switzerland: Director, Shareholder & Registered Address (2026)
+# Nominee Services Switzerland: Full Guide (2026)
 
 Swiss nominee services allow company owners to meet Swiss legal requirements -- particularly the Swiss-resident director requirement -- while maintaining operational flexibility. This guide explains what Swiss law permits, what disclosures are required, and what Lawsupport provides.
 

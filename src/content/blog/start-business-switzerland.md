@@ -35,6 +35,17 @@ tocItems:
     title: "Swiss Corporate Bank Account"
   - id: "what-lawsupport-does"
     title: "What Lawsupport Does"
+faqItems:
+  - question: "Can I form a Swiss company without visiting Switzerland?"
+    answer: "Yes. Swiss law permits formation by power of attorney for both GmbH and AG. The process can be completed fully remotely."
+  - question: "Do I need a Swiss address for my company?"
+    answer: "Yes. Every Swiss company must have a registered domicile address in the canton of registration."
+  - question: "How long does it take to open a Swiss company?"
+    answer: "Typically 4-6 weeks from instruction to Commercial Register entry. The main variable is bank account opening."
+  - question: "What is the minimum share capital for a Swiss GmbH?"
+    answer: "CHF 20,000, fully paid up at formation. For a Swiss AG, CHF 100,000 authorised with CHF 50,000 paid up."
+  - question: "Can a US citizen open a Swiss company?"
+    answer: "Yes, without restriction. Additional FATCA banking compliance may extend the bank account opening timeline."
 ---
 
 # How to Start a Business in Switzerland: Full Guide (2026)

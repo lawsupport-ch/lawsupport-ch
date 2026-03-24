@@ -1,11 +1,22 @@
 ---
-title: "Termination of Employment Switzerland: Notice Periods, Severance & Rights (2026)"
+title: "Employment Termination Switzerland: Notice & Rights"
 description: "Swiss employment termination: statutory notice periods, wrongful dismissal, severance pay, protected periods, and summary dismissal rules under the OR."
 date: "19.03.2026"
 publishDate: "2026-08-05"
 category: "Employment Law"
 categoryHref: "/blog/"
 readTime: "14 min read"
+faqItems:
+  - question: "Can an employer terminate without giving a reason?"
+    answer: "In principle, yes — Swiss law does not require employers to state a reason for ordinary termination. However, if the employee requests the reason in writing, the employer must provide it (Art. 335 OR). The stated reason becomes the basis for any abusive dismissal challenge."
+  - question: "What is the minimum probation period?"
+    answer: "Probation can be set at up to 3 months (or up to 6 months by agreement or GAV). During probation, 7 days' notice applies and the protected period rules do not apply (a sick employee during probation can still be dismissed with 7 days' notice)."
+  - question: "Is garden leave permitted in Switzerland?"
+    answer: "Yes. Employers can place employees on garden leave (Freistellung) during the notice period — the employee is released from their duty to work but remains employed and receives full salary. Non-compete clauses and confidentiality obligations continue during garden leave."
+  - question: "Does an employee get anything if made redundant after 5 years?"
+    answer: "There is no general Swiss statutory severance entitlement at 5 years. The Art. 339b entitlement only applies at age 50 or older with 20 or more years of service. Redundant employees at 5 years receive only their salary during the notice period unless the contract provides for more."
+  - question: "What is the maximum compensation for abusive dismissal?"
+    answer: "Up to 6 months' salary under Art. 336a OR. The dismissal itself remains valid — the employee is not reinstated. The claim must be raised in writing within the notice period and pursued within 180 days of the employment relationship ending."
 tocItems:
   - id: "swiss-employment-law-the-basic-framework"
     title: "Swiss Employment Law: The Basic Framework"
@@ -27,7 +38,7 @@ tocItems:
     title: "Need Advice on Employment Termination? Request a Free Assessment"
 ---
 
-# Termination of Employment Switzerland: Notice Periods, Severance & Rights (2026)
+# Employment Termination Switzerland: Notice Periods, Severance & Rights (2026)
 
 Swiss employment law provides employers with broad flexibility to terminate employment — Switzerland has no concept of "unfair dismissal" requiring a substantive reason in the Anglo-American sense. However, termination must comply with statutory notice periods under the Code of Obligations (OR, Articles 319-362), protected periods during which dismissal is prohibited, severance requirements in certain cases, and special rules for abusive (missbrauchliche) dismissal. This guide explains the full framework for termination of employment in Switzerland.
 

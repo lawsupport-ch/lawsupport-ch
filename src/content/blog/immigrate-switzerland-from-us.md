@@ -1,11 +1,22 @@
 ---
-title: "Immigrate to Switzerland from the US: Permits, Process & Reality (2026)"
+title: "Immigrate to Switzerland from the US (2026)"
 description: "How Americans can move to Switzerland: work permits, retirement via lump-sum taxation, FATCA banking issues, US tax obligations, and realistic pathways."
 date: "19.03.2026"
 publishDate: "2026-04-13"
 category: "Immigration"
 categoryHref: "/blog/"
 readTime: "8 min read"
+faqItems:
+  - question: "Can Americans retire in Switzerland?"
+    answer: "Yes, through the lump-sum taxation route if you have sufficient assets and do not intend to work. You must apply for residence through the relevant cantonal migration authority."
+  - question: "Do I still owe US taxes if I live in Switzerland?"
+    answer: "Yes. The United States taxes citizens on worldwide income regardless of residence. You will file a Swiss and a US federal tax return each year. The US-Switzerland tax treaty provides credits to reduce double taxation."
+  - question: "Can I open a Swiss bank account as an American?"
+    answer: "It is possible but more difficult than for other nationalities. FATCA compliance obligations cause many Swiss banks to decline US clients. PostFinance and select cantonal banks are your most accessible options."
+  - question: "Is Swiss health insurance mandatory for Americans?"
+    answer: "Yes. All residents of Switzerland must obtain mandatory basic health insurance within three months of registering. American health insurance policies are not accepted as substitutes."
+  - question: "Can I apply for Swiss citizenship eventually?"
+    answer: "Yes, but the path is long. US citizens must hold a C permit and meet residency duration requirements, typically 10 years. Switzerland allows dual citizenship, so you do not need to renounce US citizenship."
 tocItems:
   - id: "why-americans-face-a-unique-situation"
     title: "Why Americans Face a Unique Situation"
@@ -29,7 +40,7 @@ tocItems:
     title: "Related Guides"
 ---
 
-# Immigrate to Switzerland from the US: Permits, Process & Reality (2026)
+# Immigrate to Switzerland from the US (2026)
 
 Americans who want to move to Switzerland face a more complicated situation than most other foreign nationals. The reason is not Switzerland's immigration rules alone — it is the combination of Swiss immigration requirements and the United States' extraterritorial tax system. Both layers demand attention from day one. This guide covers the realistic pathways, what each route actually requires, and the US-specific complications that catch many Americans off guard.
 
