@@ -2,7 +2,6 @@
 title: "Internal Audit Switzerland: Requirements (2026)"
 description: "Internal audit requirements for Swiss companies: ordinary vs limited audit thresholds, RAB-approved auditors, opting-out rules, and costs for AG and GmbH."
 date: "19.03.2026"
-publishDate: "2026-04-17"
 category: "Company Administration"
 categoryHref: "/blog/"
 readTime: "6 min read"

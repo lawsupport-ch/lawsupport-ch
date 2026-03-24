@@ -2,7 +2,6 @@
 title: "Sole Proprietorship Switzerland: Einzelfirma Guide"
 description: "How to register a Swiss Einzelfirma (sole proprietorship): requirements, tax treatment, liability risks, and when to convert to a GmbH. Lawsupport, Zug."
 date: "19.03.2026"
-publishDate: "2026-06-02"
 category: "Company Formation"
 categoryHref: "/services/company-formation/"
 readTime: "11 min read"

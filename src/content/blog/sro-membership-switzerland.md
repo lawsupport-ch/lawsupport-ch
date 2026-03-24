@@ -2,7 +2,6 @@
 title: "SRO Membership Switzerland: Requirements & Costs"
 description: "SRO membership in Switzerland under AMLA: who must join, which SRO to choose, application steps, fees in CHF, timelines, and annual compliance obligations."
 date: "19.03.2026"
-publishDate: "2026-06-04"
 category: "Licensing & Permits"
 categoryHref: "/services/financial-licensing/"
 readTime: "14 min read"

@@ -2,7 +2,6 @@
 title: "Swiss Bank Account for Non-Residents (2026)"
 description: "Can you open a Swiss bank account as a non-resident? We explain the three realistic paths, requirements, costs, and timelines for foreign nationals in 2026."
 date: "19.03.2026"
-publishDate: "2026-06-18"
 category: "Banking & Finance"
 categoryHref: "/blog/"
 readTime: "12 min read"

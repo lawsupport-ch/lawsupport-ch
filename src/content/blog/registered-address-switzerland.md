@@ -2,7 +2,6 @@
 title: "Registered Address Switzerland: Domicile Services (2026)"
 description: "Every Swiss AG and GmbH needs a registered domicile. Professional registered address services in Zug with mail handling and forwarding."
 date: "19.03.2026"
-publishDate: "2026-05-23"
 category: "Company Administration"
 categoryHref: "/blog/"
 readTime: "13 min read"

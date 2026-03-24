@@ -2,7 +2,6 @@
 title: "Virtual Office Switzerland: Zug Business Address & Services (2026)"
 description: "Virtual office in Switzerland from CHF 600/year. Professional Zug business address, mail handling, and company domicile at Grafenauweg 4 for your Swiss AG or GmbH."
 date: "19.03.2026"
-publishDate: "2026-08-21"
 category: "Company Administration"
 categoryHref: "/blog/"
 readTime: "10 min read"

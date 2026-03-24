@@ -2,7 +2,6 @@
 title: "Swiss Withholding Tax: Rates, Treaties & Refund Process (2026)"
 description: "Swiss withholding tax at 35% on dividends and interest. Treaty reductions, refund process via ESTV Form 65, and holding structure planning from Lawsupport, Zug."
 date: "19.03.2026"
-publishDate: "2026-08-23"
 category: "Tax & Accounting"
 categoryHref: "/blog/"
 readTime: "11 min read"

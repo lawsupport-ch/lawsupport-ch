@@ -2,7 +2,6 @@
 title: "Swiss Tax Rates by Canton: 2026 Comparison"
 description: "Swiss tax rates by canton in 2026 compared across all 26 cantons. Corporate, individual, and wealth tax rates from Zug (11.8%) to Bern (20.7%)."
 date: "19.03.2026"
-publishDate: "2026-07-20"
 category: "Tax & Accounting"
 categoryHref: "/blog/"
 readTime: "18 min read"

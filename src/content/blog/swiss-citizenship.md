@@ -2,7 +2,6 @@
 title: "Swiss Citizenship: Requirements, Process & Timeline (2026)"
 description: "How to get Swiss citizenship in 2026. Ordinary and facilitated naturalisation, residence requirements, language tests, dual citizenship rules and Zug process."
 date: "19.03.2026"
-publishDate: "2026-06-30"
 category: "Immigration"
 categoryHref: "/blog/"
 readTime: "17 min read"

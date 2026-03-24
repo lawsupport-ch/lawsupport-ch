@@ -2,7 +2,6 @@
 title: "Trademark Registration Switzerland: Costs & Process"
 description: "Register a trademark in Switzerland: official fees from CHF 550, timelines, Nice classes, and enforcement. Practitioner guide by Lawsupport, Zug."
 date: "19.03.2026"
-publishDate: "2026-08-09"
 category: "IP & Commercial Law"
 categoryHref: "/blog/"
 readTime: "14 min read"

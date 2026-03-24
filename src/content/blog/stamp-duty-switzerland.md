@@ -2,7 +2,6 @@
 title: "Swiss Stamp Duty: Issuance, Transfer & Premium Tax"
 description: "Swiss stamp duties explained: 1% issuance tax on share capital, 0.15% securities transfer tax, and insurance premium stamp. Rates, exemptions, and planning."
 date: "19.03.2026"
-publishDate: "2026-06-06"
 category: "Tax & Accounting"
 categoryHref: "/blog/"
 readTime: "11 min read"

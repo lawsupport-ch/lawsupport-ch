@@ -2,7 +2,6 @@
 title: "Lex Koller Switzerland: Rules & Exemptions (2026)"
 description: "Swiss Lex Koller (BewG) restricts foreign purchase of residential property. Who it applies to, exemptions, holiday apartment quotas, and commercial property."
 date: "19.03.2026"
-publishDate: "2026-04-27"
 category: "Immigration"
 categoryHref: "/blog/"
 readTime: "6 min read"

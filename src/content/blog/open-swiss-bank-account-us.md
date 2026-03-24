@@ -2,7 +2,6 @@
 title: "How to Open a Swiss Bank Account from the US in 2026"
 description: "US persons face unique FATCA compliance hurdles with Swiss banking. This guide explains what is actually possible in 2026 for personal and corporate accounts."
 date: "19.03.2026"
-publishDate: "2026-05-13"
 category: "Banking & Finance"
 categoryHref: "/blog/"
 readTime: "14 min read"
