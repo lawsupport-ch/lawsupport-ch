@@ -2,14 +2,10 @@
 import Base from '../layouts/Base.astro';
 
 const services = [
-  { title: 'Resident card in Switzerland', href: '/resident-card-in-switzerland/', color: 'red' },
-  { title: 'Swiss company formation', href: '/swiss-company-formation/', color: 'gray' },
-  { title: 'Business in Switzerland', href: '/business-in-switzerland/', color: 'black' },
-  { title: 'Accounting in Switzerland', href: '/accounting-in-switzerland/', color: 'red' },
-  { title: 'Company liquidation', href: '/company-liquidation-in-switzerland/', color: 'black' },
-  { title: 'Shelf company in Switzerland', href: '/shelf-company-in-switzerland/', color: 'gray' },
-  { title: 'Migration to Switzerland', href: '/migration-to-switzerland/', color: 'red' },
-  { title: 'Swiss bank account', href: '/swiss-bank-account/', color: 'black' },
+  { title: 'Swiss Company Formation', href: '/services/company-formation/', color: 'red' },
+  { title: 'Shelf Companies', href: '/services/shelf-companies/', color: 'gray' },
+  { title: 'Financial Licensing', href: '/services/financial-licensing/', color: 'black' },
+  { title: 'SECO Work Permits', href: '/services/seco-permits/', color: 'red' },
 ];
 
 const whyChoose = [
@@ -17,7 +13,6 @@ const whyChoose = [
   { title: 'Efficient Company Formation', desc: 'We provide seamless and efficient company formation services, handling all administrative and legal requirements.', img: '/images/expertiseAndServices/show.webp' },
   { title: 'Shelf Companies Available', desc: 'Need to start quickly? We offer ready-made shelf companies for an expedited business launch in Switzerland.', img: '/images/expertiseAndServices/flag.webp' },
   { title: 'Resident Card Assistance', desc: 'We assist with obtaining resident cards and work permits, helping you establish a physical presence in Switzerland.', img: '/images/expertiseAndServices/citi.webp' },
-  { title: 'Swiss Bank Account Setup', desc: 'We help you open Swiss bank accounts, ensuring your financial management is properly structured.', img: '/images/expertiseAndServices/notebook.webp' },
   { title: 'Accounting Services', desc: 'Professional financial record management and accounting services to keep your Swiss business compliant.', img: '/images/expertiseAndServices/build.webp' },
   { title: 'Company Liquidation Support', desc: 'When needed, we provide expert support for company dissolution, ensuring all legal obligations are met.', img: '/images/expertiseAndServices/bark.webp' },
   { title: 'Personalised Approach', desc: 'Every business is unique. We develop custom approaches aligned with your specific needs and Swiss standards.', img: '/images/expertiseAndServices/speack.webp' },
@@ -208,7 +203,7 @@ const schema = [
           <div class="contact-person">
             <img src="/images/morgan-hartley-56.webp" alt="Morgan Hartley" width="80" height="80" class="contact-avatar" />
             <div>
-              <p class="contact-name">Morgan Hartley</p>
+              <p class="contact-name"><a href="/team/morgan-hartley/" style="color:inherit">Morgan Hartley</a></p>
               <p class="contact-role">Senior Corporate Lawyer &amp; Partner</p>
             </div>
           </div>

@@ -2,13 +2,29 @@
 import Base from '../layouts/Base.astro';
 
 const services = [
-  'Company Formation', 'Company Liquidation', 'Business Restructuring',
-  'Tax Registration & Tax Returns', 'Legal Representation', 'Business Plan Consulting',
-  'Accounting & Auditing', 'Nominee Directors & Shareholders', 'IP Protection & Trademarks',
-  'Real Estate & Property', 'Immigration & Residence Permits', 'Swiss Bank Account Opening',
-  'Crypto & Blockchain Licensing', 'Labour Law & Employment', 'Shelf Companies',
-  'Mergers & Acquisitions', 'Due Diligence', 'Compliance & Regulatory',
-  'Contract Drafting & Review', 'Corporate Governance', 'Debt Collection',
+  { name: 'Company Formation', href: '/services/company-formation/' },
+  { name: 'Shelf Companies', href: '/services/shelf-companies/' },
+  { name: 'Financial Licensing', href: '/services/financial-licensing/' },
+  { name: 'SECO Work Permits', href: '/services/seco-permits/' },
+  { name: 'Company Liquidation', href: null },
+  { name: 'Business Restructuring', href: null },
+  { name: 'Tax Registration & Tax Returns', href: null },
+  { name: 'Legal Representation', href: null },
+  { name: 'Business Plan Consulting', href: null },
+  { name: 'Accounting & Auditing', href: null },
+  { name: 'Nominee Directors & Shareholders', href: null },
+  { name: 'IP Protection & Trademarks', href: null },
+  { name: 'Real Estate & Property', href: null },
+  { name: 'Immigration & Residence Permits', href: null },
+  { name: 'Swiss Bank Account Opening', href: null },
+  { name: 'Crypto & Blockchain Licensing', href: null },
+  { name: 'Labour Law & Employment', href: null },
+  { name: 'Mergers & Acquisitions', href: null },
+  { name: 'Due Diligence', href: null },
+  { name: 'Compliance & Regulatory', href: null },
+  { name: 'Contract Drafting & Review', href: null },
+  { name: 'Corporate Governance', href: null },
+  { name: 'Debt Collection', href: null },
 ];
 
 const howItWorks = [
@@ -64,6 +80,7 @@ const schema = [
             </div>
           </div>
           <a href="/contacts/" class="btn btn-red">Contact us</a>
+          <a href="/team/morgan-hartley/" class="btn btn-outline" style="margin-left:12px">Meet Our Team</a>
         </div>
         <div class="about-hero-image">
           <img src="/images/morgan-hartley-56.webp" alt="Morgan Hartley — Senior Corporate Lawyer" width="964" height="987" class="about-hero-img" />
@@ -80,7 +97,7 @@ const schema = [
         {services.map((s, i) => (
           <div class="service-item">
             <span class="service-num">{String(i + 1).padStart(2, '0')}</span>
-            <span class="service-name">{s}</span>
+            {s.href ? <a href={s.href} class="service-name service-name--linked">{s.name}</a> : <span class="service-name">{s.name}</span>}
           </div>
         ))}
       </div>
@@ -133,7 +150,7 @@ const schema = [
           <div class="contact-person">
             <img src="/images/morgan-hartley-56.webp" alt="Morgan Hartley" width="80" height="80" class="contact-avatar" />
             <div>
-              <p class="contact-name">Morgan Hartley</p>
+              <p class="contact-name"><a href="/team/morgan-hartley/" style="color:inherit">Morgan Hartley</a></p>
               <p class="contact-role">Senior Corporate Lawyer &amp; Partner, Lawsupport.ch</p>
             </div>
           </div>
@@ -202,6 +219,8 @@ const schema = [
     flex-shrink: 0;
   }
   .service-name { font-weight: 500; }
+  .service-name--linked { color: var(--red); text-decoration: underline; }
+  .service-name--linked:hover { text-decoration: none; }
 
   /* How it works */
   .hiw-card {
