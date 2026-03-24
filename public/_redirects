@@ -1,0 +1,12 @@
+# Old Tilda site URL redirects (301 permanent)
+/en/blog/how-to-immigrate-to-switzerland/ /blog/immigrate-to-switzerland/ 301
+/en/blog/how-to-open-a-swiss-bank-account/ /blog/swiss-bank-account/ 301
+/de/values/firmenmaentel-schweiz/ /blog/shelf-company-switzerland/ 301
+
+# Old /en/ and /de/ prefix catch-all redirects
+/en/blog/* /blog/:splat 301
+/en/values/* /services/company-formation/ 301
+/de/blog/* /blog/:splat 301
+/de/values/* /services/shelf-companies/ 301
+/en/* / 301
+/de/* / 301

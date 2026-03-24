@@ -33,10 +33,11 @@ const schema = [
     "@type": "Article",
     "headline": title,
     "description": description,
+    "image": heroImage ? `https://lawsupport.ch${heroImage}` : "https://lawsupport.ch/images/logo.png",
     "datePublished": date.split(".").reverse().join("-"),
     "dateModified": date.split(".").reverse().join("-"),
     "author": { "@type": "Person", "@id": "https://lawsupport.ch/#morgan-hartley", "name": "Morgan Hartley", "jobTitle": "Senior Corporate Lawyer & Partner" },
-    "publisher": { "@type": "Organization", "name": "Lawsupport.ch" }
+    "publisher": { "@type": "Organization", "@id": "https://lawsupport.ch/#organization", "name": "Lawsupport", "logo": { "@type": "ImageObject", "url": "https://lawsupport.ch/images/logo.png" } }
   },
   {
     "@context": "https://schema.org",
