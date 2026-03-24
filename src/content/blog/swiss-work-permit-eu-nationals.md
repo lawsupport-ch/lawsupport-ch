@@ -40,7 +40,6 @@ tocItems:
     title: "Get Expert Guidance on Swiss Work Permits and Immigration"
 ---
 
-# Swiss Work Permit for EU/EEA Nationals: Rights & Process (2026)
 
 EU and EEA nationals enjoy a fundamentally different — and significantly easier — pathway to working in Switzerland compared to third-country nationals. The Swiss work permit process for EU nationals operates through a straightforward registration and notification system rather than a quota-based application. Under the Agreement on the Free Movement of Persons (AFMP / FZA) between Switzerland and the EU, EU/EEA citizens have the right to work in Switzerland with virtually automatic permit issuance upon proof of employment. This guide explains the practical steps, permit types, and registration requirements.
 

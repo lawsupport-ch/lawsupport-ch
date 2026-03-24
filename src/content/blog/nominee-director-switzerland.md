@@ -46,7 +46,6 @@ tocItems:
     title: "Real-World Example"
 ---
 
-# Nominee Director Switzerland: Services & Costs (2026)
 
 Forming a Swiss company from abroad is straightforward -- until you reach the director residency requirement. Swiss company law requires that at least one director of an AG, or one manager of a GmbH, be a Swiss resident with individual signatory authority. If you cannot satisfy that requirement personally, your Commercial Register application will be rejected before it is ever processed.
 

@@ -36,7 +36,6 @@ tocItems:
     title: "Get Advice on Forming a Swiss Foundation"
 ---
 
-# Swiss Foundation (Stiftung): Formation & Tax Guide
 
 !<a href="https://lawsupport.ch/images/foundation-switzerland-hero.jpg" target="_blank" rel="nofollow noopener">Swiss foundation (Stiftung) — formation, governance and tax status guide</a>
 

@@ -34,7 +34,6 @@ tocItems:
     title: "How Lawsupport Can Help"
 ---
 
-# Swiss Accounting Requirements: OR, Swiss GAAP FER & Audit Obligations (2026)
 
 Swiss accounting requirements are set out in Articles 957 to 963b of the Code of Obligations (Obligationenrecht, OR). Every company incorporated in Switzerland — AG, GmbH, cooperative, or branch — must comply with these minimum standards. The applicable standard, audit tier, and record-keeping burden then depend on size and structure. This guide explains what applies to whom, where the thresholds sit, and what the consequences are for getting it wrong.
 

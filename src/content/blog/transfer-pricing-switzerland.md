@@ -38,7 +38,6 @@ tocItems:
     title: "Protect Your Group's Swiss Tax Position"
 ---
 
-# Transfer Pricing Switzerland: Rules & Compliance (2026)
 
 Transfer pricing in Switzerland — the pricing of transactions between related companies within the same corporate group — is one of the most significant tax issues for multinational groups with Swiss entities. Switzerland does not have a specific transfer pricing statute, but applies the OECD Transfer Pricing Guidelines through the arm's length principle embedded in Swiss domestic tax law under Art. 58 DBG. Swiss tax authorities are increasingly sophisticated in this area, and the 35% withholding tax risk on hidden profit distributions makes transfer pricing compliance critical for any group with Swiss intercompany flows.
 

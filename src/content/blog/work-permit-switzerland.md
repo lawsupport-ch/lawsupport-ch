@@ -40,7 +40,6 @@ tocItems:
     title: "Request a Free Assessment"
 ---
 
-# Work Permit Switzerland: Types, Requirements & How to Apply (2026)
 
 Switzerland has one of the world's most tightly administered labour immigration systems. Work authorisation is not a single permit — it is a layered framework that operates entirely differently depending on whether you hold an EU or EFTA passport, or a passport from anywhere else. Getting the category wrong, misunderstanding the employer's obligations, or underestimating the timeline can derail a transfer or relocation by months. This guide sets out the Swiss work permit system in full: permit types, qualifying conditions, annual quotas, the priority check employers must satisfy, and the practical steps involved in making a successful application in 2026.
 

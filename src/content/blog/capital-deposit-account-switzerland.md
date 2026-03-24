@@ -47,7 +47,6 @@ tocItems:
     title: "Request a Free Assessment"
 ---
 
-# Capital Deposit Account Switzerland: How It Works
 
 Every Swiss AG and GmbH must deposit its initial share capital into a blocked bank account — a Kapitaleinzahlungskonto — before the company can be registered with the Commercial Register. Under <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en" target="_blank" rel="nofollow noopener">Article 633 CO</a> (AG) and Article 777c CO (GmbH), this blocked account holds the share capital for the duration of the incorporation process. Once the Commercial Register issues the registration entry, the funds are released to the company's operating account. This guide explains the process, which banks open capital deposit accounts, the required documents, costs, and realistic timelines.
 

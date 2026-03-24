@@ -40,7 +40,6 @@ tocItems:
     title: "Swiss Banking Secrecy"
 ---
 
-# Swiss Banking System: Structure & Bank Types (2026)
 
 Switzerland has one of the most developed and internationally significant banking systems in the world. Despite having a population of only 8.9 million, Switzerland manages over CHF 7 trillion in assets — roughly ten times the country's GDP. The Swiss banking sector is structurally diverse, internationally oriented, and deeply integrated into the global financial system. This guide explains how the system is organised, who regulates it, and what each category of bank does.
 

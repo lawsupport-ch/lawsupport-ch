@@ -38,7 +38,6 @@ tocItems:
     title: "Related Guides"
 ---
 
-# Patent Registration Switzerland: How to File (2026)
 
 Switzerland protects inventions through both the national Swiss patent system (administered by the Swiss Federal Institute of Intellectual Property, IGE/IPI) and the European patent system (European Patent Office, EPO). For most applicants, the European patent route provides broader protection with more efficient coverage. This guide explains both options, the process, costs, and strategic considerations.
 

@@ -44,7 +44,6 @@ tocItems:
     title: "Get Your Swiss VAT Right From Day One"
 ---
 
-# Swiss VAT (MWST): Rates, Registration & Compliance (2026)
 
 Switzerland applies a standard VAT rate of 8.1% (MWST), a reduced rate of 2.6% for essential goods, and a 3.8% accommodation rate — all in force since 1 January 2024. VAT registration is mandatory once annual taxable turnover exceeds CHF 100,000. Switzerland operates one of Europe's most distinct VAT systems. It sits outside the EU VAT area, runs its own rules, and carries rates that are low by international standards — but the compliance obligations are real and the penalties for getting it wrong are not trivial. This guide covers everything businesses operating in or into Switzerland need to know about Mehrwertsteuer (MWST) in 2026.
 

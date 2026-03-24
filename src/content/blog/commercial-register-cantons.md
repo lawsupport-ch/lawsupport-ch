@@ -33,7 +33,6 @@ faqItems:
     answer: "Zug handles a disproportionately high number of international holding companies, crypto entities, and financial firms relative to its size. Zurich is the largest by total registrations, and Geneva is the second busiest for international companies."
 ---
 
-# Commercial Register Switzerland: Cantonal Offices (2026)
 
 The Swiss Commercial Register (Handelsregister / Registre du Commerce / Registro di commercio) is the official public register of Swiss companies, partnerships, and other legal entities. It is maintained at cantonal level — each canton has its own Commercial Register office (Handelsregisteramt or HRA). The central federal search platform, **Zefix.ch**, provides free online access to all cantonal registers in one place.
 

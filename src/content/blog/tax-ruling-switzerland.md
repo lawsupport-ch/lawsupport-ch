@@ -36,7 +36,6 @@ tocItems:
     title: "Next Steps: Request a Free Assessment"
 ---
 
-# Advance Tax Ruling Switzerland (Steuerruling): Process & Costs (2026)
 
 A Swiss advance tax ruling (Steuerruling or Vorbescheid) is a written confirmation from the cantonal tax authority stating how a specific transaction or structure will be taxed before it is implemented. For companies forming in Switzerland, restructuring operations, or individuals relocating, a tax ruling provides binding legal certainty on the applicable treatment — eliminating the risk of an adverse reassessment after the fact. In Zug, straightforward rulings are typically issued within 4-8 weeks.
 

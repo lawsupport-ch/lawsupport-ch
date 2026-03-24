@@ -35,7 +35,6 @@ faqItems:
     answer: "Universal succession means that when a merger, demerger, conversion, or asset transfer is registered with the Commercial Register, all assets, liabilities, contracts, and employees transfer automatically by operation of law to the successor entity. No individual assignment agreements, novation of contracts, or separate real estate deeds are required. This is the central procedural advantage of the FusG over a conventional asset deal."
 ---
 
-# Corporate Restructuring Switzerland: Full Guide (2026)
 
 Corporate restructuring in Switzerland is governed by a single, purpose-built statute: the Federal Act on Mergers, Demergers, Transformations and Asset Transfers — known in German as the *Fusionsgesetz* (FusG) and in French as the *Loi sur la fusion* (LFus). In force since 1 July 2004, the FusG replaced a patchwork of cantonal and federal provisions with a unified federal framework. If you are reorganising a Swiss group, splitting a company, converting a GmbH into an AG, or transferring a business division between entities, the FusG is your primary legal reference — and getting the process right from the start saves months of remediation later.
 

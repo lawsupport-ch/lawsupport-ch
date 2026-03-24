@@ -45,7 +45,6 @@ faqItems:
     answer: "The company files a Rechtsvorschlag (objection) within 10 days. This suspends the enforcement. The creditor must then either obtain a court ruling (Rechtsöffnung) or sue on the merits to resume the process. The objection itself requires no reason and costs nothing to file."
 ---
 
-# Debt Collection Switzerland (SchKG): Enforcement Process & Timeline (2026)
 
 Switzerland's debt enforcement and bankruptcy system is governed by the Federal Debt Enforcement and Bankruptcy Act (SchKG — Schuldbetreibungs- und Konkursgesetz). It is one of the most systematic creditor enforcement frameworks in the world, administered by cantonal Debt Enforcement Offices (Betreibungsämter) without court involvement in the initial stages. Understanding how it works is essential for any business operating in Switzerland — whether you are pursuing a debtor or need to know what happens when a Betreibung is filed against you.
 

@@ -28,7 +28,6 @@ tocItems:
     title: "Working With Qualified Advisers"
 ---
 
-# Swiss Citizenship by Investment: What Exists (2026)
 
 There is no Swiss citizenship by investment programme. There is no golden visa, no investor passport, no donation route, and no discretionary scheme that allows you to buy a Swiss passport. Any adviser or website suggesting otherwise is misrepresenting Swiss law — in some cases deliberately.
 

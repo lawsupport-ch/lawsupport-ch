@@ -34,7 +34,6 @@ faqItems:
     answer: "Only if it conducts commercial activities. Non-commercial associations can operate without registration."
 ---
 
-# Swiss Association (Verein): Formation & Structure
 
 The Swiss Verein (association) is a non-profit legal entity governed by Articles 60–79 of the <a href="https://www.fedlex.admin.ch/eli/cc/24/233_245_233/en" target="_blank" rel="nofollow noopener">Swiss Civil Code (ZGB)</a>. It is the most common organisational form for sports clubs, industry associations, NGOs, and — notably — certain international organisations and crypto projects. Despite being a "non-profit" structure under civil law, a Verein can carry out commercial activities and generate revenue, provided the activities serve its stated purpose.
 

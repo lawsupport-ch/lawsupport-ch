@@ -34,7 +34,6 @@ tocItems:
     title: "Working with Lawsupport on Your Swiss Fintech License"
 ---
 
-# Fintech License Switzerland: FINMA Options
 
 !<a href="https://lawsupport.ch/images/fintech-license-switzerland-hero.jpg" target="_blank" rel="nofollow noopener">Fintech license Switzerland — FINMA authorisation options for 2026</a>
 

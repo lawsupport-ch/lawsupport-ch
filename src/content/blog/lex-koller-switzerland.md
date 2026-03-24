@@ -32,7 +32,6 @@ tocItems:
     title: "Lex Koller and Immigration Status"
 ---
 
-# Lex Koller Switzerland: Rules & Exemptions (2026)
 
 Lex Koller — officially the <a href="https://www.fedlex.admin.ch/eli/cc/1984/1148_1148_1148/en" target="_blank" rel="nofollow noopener">Federal Act on the Acquisition of Real Estate by Persons Abroad (BewG)</a> — is Switzerland's primary restriction on foreign ownership of Swiss real estate. It has been in force since 1983 and represents Switzerland's policy decision to limit foreign land ownership as a matter of national interest.
 

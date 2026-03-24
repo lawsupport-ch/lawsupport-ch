@@ -36,7 +36,6 @@ tocItems:
     title: "Switzerland vs. Cayman Islands: A Direct Comparison"
 ---
 
-# ICO & Token Issuance Switzerland: FINMA Rules
 
 Switzerland has been the dominant jurisdiction for ICOs and token issuances since 2016. That position is not accidental. FINMA published clear regulatory guidance earlier than any comparable authority, Swiss law accommodates distributed ledger technology natively, and Zug's Crypto Valley has become home to the Ethereum Foundation, Polkadot, Cardano, and hundreds of blockchain projects. If you are structuring a token issuance, Switzerland remains the benchmark against which every other jurisdiction is measured.
 

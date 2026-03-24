@@ -47,7 +47,6 @@ faqItems:
     answer: "Zug is the preferred location. It has the lowest effective corporate tax rate in Switzerland (approximately 11.8%), the deepest crypto ecosystem in the country, cantonal tax authority expertise in digital assets, and a concentration of compliance specialists, notaries, and crypto-native banking relationships."
 ---
 
-# Crypto Exchange Licence Switzerland: FINMA Requirements (2026)
 
 Switzerland is one of the world's most developed jurisdictions for crypto asset businesses, combining a clear regulatory framework with operational credibility for institutional clients. Operating a crypto exchange in Switzerland requires FINMA authorisation or SRO membership depending on the exchange's activities. This guide explains the regulatory pathways for crypto exchanges, the DLT Act amendments, and the practical steps to establish a regulated Swiss crypto business.
 

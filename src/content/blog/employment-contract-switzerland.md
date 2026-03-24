@@ -34,7 +34,6 @@ tocItems:
     title: "Get Expert Advice on Your Swiss Employment Contracts"
 ---
 
-# Employment Contract Switzerland: Key Clauses (2026)
 
 Swiss employment contracts are governed by Articles 319–362 of the Code of Obligations (OR). The law does not require a written contract — employment can arise verbally — but written contracts are standard and essential for clarity. This guide covers what Swiss law requires in an employment contract Switzerland, what the key clauses must say, and the non-negotiable elements that protect both employer and employee.
 

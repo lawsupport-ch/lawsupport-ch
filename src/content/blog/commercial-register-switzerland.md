@@ -39,7 +39,6 @@ faqItems:
     answer: "Yes. The quota holders (Gesellschafter) of a GmbH are publicly registered — their names, domiciles, and quota values appear in the extract. This is a material privacy distinction from the AG, where shareholders are not public."
 ---
 
-# Swiss Commercial Register: What It Is & How to File
 
 The Swiss Commercial Register — Handelsregister in German — is the official public record of all commercial entities operating in Switzerland. If you are incorporating a company, appointing a new director, moving offices, or winding down a business, the register is central to every step. Understanding how it works, what it discloses, and when you are legally required to file is not optional knowledge for anyone running or advising a Swiss business.
 

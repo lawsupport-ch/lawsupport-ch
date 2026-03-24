@@ -32,7 +32,6 @@ tocItems:
     title: "Cost of Swiss Statutory Audit"
 ---
 
-# Internal Audit Switzerland: Requirements (2026)
 
 Swiss law distinguishes between the **statutory external audit** (required by the Code of Obligations for most companies) and **internal audit** (an optional but recommended governance function for larger organisations). This guide covers both: who must have an external audit in Switzerland, when internal audit becomes important, and how Swiss audit requirements scale with company size.
 

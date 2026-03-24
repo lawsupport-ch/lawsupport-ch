@@ -32,7 +32,6 @@ tocItems:
     title: "Next Steps: Request a Free Assessment"
 ---
 
-# Swissreg Trademark Search: Swiss IP Register Guide
 
 A Swissreg trademark search is the essential first step before filing any trademark in Switzerland. <a href="https://www.swissreg.ch" target="_blank" rel="nofollow noopener">Swissreg</a> is the official online database of the Swiss Federal Institute of Intellectual Property (IGE/IPI), providing free public access to all Swiss trademark registrations, patent applications, and design registrations. Identical or confusingly similar prior registrations are a primary ground for opposition and invalidity — running a Swissreg search before filing saves time, fees, and potential legal disputes.
 

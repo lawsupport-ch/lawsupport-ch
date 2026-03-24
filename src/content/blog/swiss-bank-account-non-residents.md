@@ -34,7 +34,6 @@ tocItems:
     title: "Practical Guidance: Steps to Take"
 ---
 
-# Swiss Bank Account for Non-Residents (2026)
 
 If you have been searching for information on opening a Swiss bank account as a non-resident, you have almost certainly encountered two types of content online: breathless articles claiming it is simple and straightforward, and others that dismiss it as entirely impossible. Neither is accurate. The truth in 2026 is more nuanced — and understanding it clearly will save you considerable time, money, and frustration.
 

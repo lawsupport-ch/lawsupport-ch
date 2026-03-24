@@ -34,7 +34,6 @@ tocItems:
     title: "Start Your Naturalization Journey With Expert Support"
 ---
 
-# Swiss Naturalization: Requirements & Process (2026)
 
 Swiss ordinary naturalization (ordentliche Einbuergerung) is the standard route to Swiss citizenship for foreign nationals who have lived in Switzerland long enough to meet the residence requirement. The process requires at least 10 years of Swiss residence, a valid C permit, and demonstrated integration into Swiss society. Approval is needed at three separate levels: communal (Gemeinde), cantonal (Kanton), and federal. This guide explains every requirement, the full timeline, and what to expect at each stage.
 

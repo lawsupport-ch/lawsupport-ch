@@ -61,7 +61,6 @@ faqItems:
     answer: "Yes. At least one manager of a GmbH, or one board member of an AG, who is authorised to represent the company individually or jointly must be domiciled in Switzerland. Lawsupport provides qualified nominee director services for international clients who do not have a Swiss-resident director available."
 ---
 
-# Doing Business in Switzerland: The Investor's Legal Guide (2026)
 
 Doing business in Switzerland offers a stable, predictable environment where companies benefit from world-class legal institutions, competitive tax rates, and infrastructure that consistently ranks among the best globally. Switzerland is not the cheapest European jurisdiction to enter, but it offers something rarer: genuine reliability — in its courts, its currency, and its regulatory framework.
 

@@ -44,7 +44,6 @@ tocItems:
     title: "Register for Swiss VAT With Confidence"
 ---
 
-# VAT Registration Switzerland: MWST Guide (2026)
 
 VAT registration in Switzerland becomes mandatory once your company exceeds CHF 100,000 in worldwide annual taxable turnover and makes supplies with a Swiss nexus. The standard rate is 8.1%, foreign companies must appoint a fiscal representative, and the ESTV processes complete applications within 2-4 weeks. Switzerland operates one of Europe's most internationally open tax systems, but its [VAT regime](/blog/vat-switzerland/) has rules that catch foreign companies off guard — sometimes years after they began trading. If your company provides goods or services with any Swiss nexus, understanding your MWST obligations is not optional. This guide covers every aspect of Swiss VAT registration for foreign and newly formed companies: thresholds, rates, the registration process, fiscal representative requirements, and ongoing compliance.
 

@@ -40,7 +40,6 @@ tocItems:
     title: "How Interest Rates Affect Company Formation Decisions"
 ---
 
-# Swiss Bank Interest Rates: Savings & Deposits (2026)
 
 Swiss franc interest rates in 2026 reflect the <a href="https://www.snb.ch/en/" target="_blank" rel="nofollow noopener">Swiss National Bank's</a> monetary policy cycle. After the SNB raised rates from negative territory in 2022–2023 to combat inflation, the SNB has since cut rates in 2024–2025 back toward zero. The SNB policy rate in early 2026 stands at approximately 0.25%. This guide covers current rates at major Swiss banks and what to expect from CHF-denominated accounts.
 

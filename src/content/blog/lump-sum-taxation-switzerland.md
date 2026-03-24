@@ -38,7 +38,6 @@ tocItems:
     title: "Lawsupport's Service"
 ---
 
-# Lump-Sum Taxation Switzerland: Full Guide (2026)
 
 Switzerland's lump-sum taxation regime -- known as Pauschalbesteuerung in German and forfait fiscal in French -- allows qualifying wealthy foreign nationals who are new Swiss residents to pay tax based on their annual living expenses in Switzerland rather than their worldwide income. For high-net-worth individuals with significant foreign income and assets, this can produce a dramatically lower Swiss tax liability than ordinary income taxation.
 

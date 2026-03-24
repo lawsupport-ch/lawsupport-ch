@@ -34,7 +34,6 @@ tocItems:
     title: "Next Steps: Request a Free Assessment"
 ---
 
-# Top Private Banks in Switzerland: Wealth Management Rankings (2026)
 
 Switzerland manages approximately USD 2.5 trillion in cross-border private wealth, making it the world's leading centre for international private banking. The top private banks in Switzerland differ significantly in ownership structure, minimum requirements, investment philosophy, and client focus. This guide covers the leading Swiss private banks — their assets under management, client minimums, and what distinguishes each institution — so you can identify the right fit for your wealth profile.
 

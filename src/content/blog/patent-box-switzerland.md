@@ -40,7 +40,6 @@ tocItems:
     title: "How Lawsupport Helps"
 ---
 
-# Patent Box Switzerland: IP Tax Reduction (2026)
 
 Switzerland introduced the IP Box regime as part of the 2020 Federal Tax Reform (TRAF). For companies holding patents or equivalent IP rights, it provides one of the most significant tax incentives available under Swiss cantonal law -- a reduction of up to 90% on net qualifying IP income.
 

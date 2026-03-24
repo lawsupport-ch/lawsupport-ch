@@ -28,7 +28,6 @@ tocItems:
     title: "FAQ"
 ---
 
-# Swiss FinSA (FIDLEG): Obligations for 2026
 
 
 Switzerland's Financial Services Act — *Finanzdienstleistungsgesetz* (FinSA) in German, or FIDLEG in its German acronym — entered into force on 1 January 2020. Alongside the Financial Institutions Act (FinIA/FINIG), FinSA represents the most significant restructuring of Swiss financial regulation in decades. The twin-legislation package modernised client protection standards, standardised conduct rules across product types, and brought Switzerland meaningfully closer to the EU's MiFID II framework — while preserving the pragmatic, principle-based character that distinguishes Swiss financial law.

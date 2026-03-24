@@ -40,7 +40,6 @@ tocItems:
     title: "How Lawsupport Assists"
 ---
 
-# Swiss Citizenship by Marriage: Requirements (2026)
 
 Marrying a Swiss citizen does not automatically make you Swiss. What it does do is unlock a parallel legal track — facilitated naturalisation (erleichterte Einbürgerung) — that bypasses the standard ten-year residence requirement and compresses the path to a Swiss passport into a matter of years, not decades. For qualifying couples, this is one of the most direct routes to Swiss citizenship by marriage in existence.
 

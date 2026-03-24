@@ -32,7 +32,6 @@ tocItems:
     title: "How Lawsupport Can Help"
 ---
 
-# Swiss Passport: How to Get One in 2026
 
 The Swiss passport is consistently ranked among the most powerful travel documents in the world. On the 2026 Henley Passport Index it sits in the global top five, providing visa-free or visa-on-arrival access to **186+ countries** — including the entire Schengen Area, the United States, Japan, and the United Kingdom. There is only one way to obtain a Swiss passport: acquire Swiss citizenship through naturalization or descent. Switzerland operates no investor passport programme and no golden visa route. This article sets out every route to Swiss citizenship in 2026, the concrete requirements, realistic costs and timelines, and the practical steps to start building your pathway now.
 

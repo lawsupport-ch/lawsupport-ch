@@ -36,7 +36,6 @@ tocItems:
     title: "Request a Free Assessment"
 ---
 
-# Accounting Services Switzerland: Bookkeeping, Audit & Tax for Swiss Companies (2026)
 
 Every Swiss company — whether an AG, a GmbH, or a branch — is legally required to maintain proper accounts under the Swiss Code of Obligations (Art. 957–958f CO). Accounting services in Switzerland cover monthly bookkeeping, annual accounts preparation, VAT reporting, and corporate tax return filing. This applies from the moment your company is incorporated, regardless of turnover or activity level.
 

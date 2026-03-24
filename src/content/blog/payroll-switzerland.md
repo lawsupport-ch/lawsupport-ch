@@ -38,7 +38,6 @@ tocItems:
     title: "9. Payroll Cycle"
 ---
 
-# Payroll Switzerland: Rates & Obligations (2026)
 
 Running payroll in Switzerland is not complicated once you understand its architecture — but that architecture is far more elaborate than most foreign employers expect when they hire their first Swiss-based employee. The obligations layer on top of each other: federal social insurance, occupational pension, accident insurance, cantonal source tax, family allowances, and potentially industry-specific collective agreements, all running in parallel on a monthly cycle.
 

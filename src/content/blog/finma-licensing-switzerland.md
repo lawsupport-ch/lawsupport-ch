@@ -28,7 +28,6 @@ tocItems:
     title: "Work With Lawsupport on Your FINMA Application"
 ---
 
-# FINMA Licensing Switzerland: Crypto & Banking (2026)
 
 
 Switzerland's Financial Market Supervisory Authority (FINMA) is one of the world's most respected financial regulators. For crypto businesses, fintech companies, fund managers, and financial service providers, Switzerland offers a clear licensing pathway — but the requirements are demanding and the process takes 3–24 months depending on the license type. This guide explains every major FINMA license category in 2026, including capital requirements, timelines, and the practical steps required to obtain authorisation.

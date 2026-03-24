@@ -38,7 +38,6 @@ faqItems:
     answer: "A minimum of 10 years from the date the business relationship ends or the transaction is completed."
 ---
 
-# SRO Membership Switzerland: Requirements & Costs
 
 Every financial intermediary operating in Switzerland must be supervised. If your business handles third-party funds, exchanges currencies, provides payment services, deals in crypto assets, or carries out any of a broad range of para-banking activities, Swiss law requires you to affiliate with a FINMA-recognised Self-Regulatory Organisation (SRO) before commencing operations — or face criminal liability.
 

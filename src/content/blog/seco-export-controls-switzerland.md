@@ -36,7 +36,6 @@ faqItems:
     answer: "Daily or continuously for financial institutions; at minimum before any new transaction for other businesses."
 ---
 
-# SECO Export Controls: Dual-Use Goods & Sanctions
 
 The Swiss State Secretariat for Economic Affairs (SECO — Staatssekretariat fuer Wirtschaft) is responsible for implementing Switzerland's export control regime and enforcing economic sanctions. Swiss companies exporting controlled goods — including dual-use items with civilian and military applications, war materiel, and certain technologies — must obtain SECO export permits. Switzerland's sanctions regime aligns with UN Security Council sanctions and, selectively, with EU and US measures.
 

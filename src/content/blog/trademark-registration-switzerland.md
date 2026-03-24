@@ -48,7 +48,6 @@ tocItems:
     title: "Protect Your Brand in Switzerland"
 ---
 
-# Trademark Registration Switzerland: Costs & Process (2026)
 
 A registered trademark is one of the most commercially durable assets a business can hold. Trademark registration in Switzerland grants the owner an exclusive, territorially defined right enforceable against competitors, counterfeiters, and bad-faith filers for an initial ten-year term — renewable indefinitely. The Swiss Federal Institute of Intellectual Property (IGE/IPI) administers the process, with official application fees starting at CHF 550 per class. This guide sets out the legal framework, the step-by-step application process, official fees, and the practical considerations that determine whether a Swiss trademark filing succeeds or stalls.
 

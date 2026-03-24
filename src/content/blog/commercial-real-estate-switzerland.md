@@ -26,7 +26,6 @@ tocItems:
     title: "How Lawsupport Can Help"
 ---
 
-# Commercial Real Estate Switzerland: Office Space Guide
 
 Switzerland's commercial real estate market is mature, transparent, and — for businesses — largely free of the restrictions that apply to residential property. If you are setting up a company, relocating operations, or establishing a Swiss headquarters, understanding how the market works will save you significant cost and legal exposure. This guide covers office rental prices by city, how Swiss commercial leases are structured, the VAT question that catches most foreign companies off guard, and what Lex Koller actually means for your business premises.
 

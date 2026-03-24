@@ -30,7 +30,6 @@ tocItems:
     title: "Reclaiming Swiss Citizenship"
 ---
 
-# Swiss Dual Citizenship: Rules, Rights & How to Keep Your Nationality (2026)
 
 Switzerland has permitted dual (and multiple) citizenship since 1992. If you naturalise as a Swiss citizen today, you are not required to renounce your existing nationality. Conversely, if you acquire a foreign citizenship while already Swiss, you do not automatically lose your Swiss nationality. This guide explains how Swiss dual citizenship works, the exceptions that still apply, and what it means in practice for naturalisation applicants and existing Swiss nationals.
 

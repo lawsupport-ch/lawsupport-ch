@@ -57,7 +57,6 @@ tocItems:
     title: "Get a Free Assessment of Your Audit Obligations"
 ---
 
-# Statutory Audit Switzerland: Requirements, Thresholds & Opting Out (2026)
 
 Switzerland imposes statutory audit obligations on companies incorporated under Swiss law — but the rules vary significantly depending on the size, structure, and shareholder composition of the company. Most small foreign-owned GmbH qualify to waive their audit entirely under **Art. 727a CO**. Larger companies must appoint a licensed auditor and follow a structured revision process regulated by the Swiss Code of Obligations (Art. 727–731a CO).
 

@@ -45,7 +45,6 @@ faqItems:
     answer: "Capital tax is an annual cantonal levy on the company's net equity. Rates range from approximately 0.001% to 0.5% depending on the canton. Several cantons allow offset of capital tax against income tax, making the net capital tax burden close to zero for profitable companies."
 ---
 
-# Corporate Tax Switzerland: Rates, Cantons & Planning (2026)
 
 Corporate tax Switzerland rates are among the most competitive in the world, and the gap between Switzerland and its European neighbours is substantial. Germany taxes corporate profits at approximately 29%, the UK at 25%, and France at 25%. Switzerland's combined effective rates start at just 11.8% in Zug and reach 19.7% in Zurich, still lower than most Western European jurisdictions. For internationally mobile businesses, IP owners, and holding companies, this difference translates directly into retained capital that can be reinvested, distributed, or deployed across markets.
 

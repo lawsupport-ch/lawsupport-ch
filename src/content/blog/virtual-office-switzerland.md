@@ -36,7 +36,6 @@ tocItems:
     title: "Request a Free Assessment"
 ---
 
-# Virtual Office Switzerland: Zug Business Address & Services (2026)
 
 A virtual office in Switzerland provides a professional Swiss business address, mail handling, and telephone services — without requiring a physical office. For foreign-owned Swiss companies that do not have a full-time physical presence in Switzerland, a virtual office at Lawsupport's Zug address combines the legal domicile requirement with operational mail management. Every Swiss [AG](/blog/ag-formation-switzerland/) and [GmbH](/blog/gmbh-formation-switzerland/) must have a registered address in Switzerland, and a virtual office is the most cost-effective way to satisfy this obligation while benefiting from Zug's 11.8% corporate tax rate.
 

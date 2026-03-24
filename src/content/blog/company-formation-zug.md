@@ -39,7 +39,6 @@ faqItems:
     answer: "The minimum share capital for a GmbH in Zug is CHF 20,000, which must be fully paid in at the time of formation. For an AG, the minimum is CHF 100,000, of which at least CHF 50,000 must be paid in at formation."
 ---
 
-# Company Formation Zug: Tax-Efficient Canton (2026)
 
 Zug is Switzerland's lowest-tax canton, with an effective combined corporate tax rate of **11.8%**. It is home to some of the world's largest commodity traders, crypto companies, and international holding structures. This guide explains exactly why Zug is the preferred choice for company formation and how the process works in 2026.
 

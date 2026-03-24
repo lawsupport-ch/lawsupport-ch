@@ -42,7 +42,6 @@ tocItems:
     title: "Request a Free Assessment"
 ---
 
-# Swiss Holding Company: Tax Benefits & Setup Guide
 
 A holding company Switzerland structure offers one of the most efficient combinations of tax treatment, treaty access, and legal stability available in any OECD jurisdiction. The federal participation exemption reduces the effective tax rate on qualifying dividend and capital-gain income to between zero and three percent. The IP Box adds relief on qualifying royalty income. A 108-treaty double tax network covers every major investor country. And the canton of Zug sits at an 11.9% ordinary combined rate — one of the lowest in Europe — before the exemptions are applied. This is not aggressive tax planning; it is the deliberate result of Swiss tax policy designed to attract genuine corporate group headquarters. This guide explains exactly how the Swiss holding company works, what it costs, and how to set one up.
 

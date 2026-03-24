@@ -54,7 +54,6 @@ tocItems:
 
 <!-- Suggested alt: "Bookkeeping obligations for Swiss companies — Art. 957 Code of Obligations" -->
 
-# Bookkeeping Switzerland: Rules & Requirements (2026)
 
 Every company operating in Switzerland must maintain proper accounting records. There is no exception for foreign-owned entities, dormant companies, or startups with minimal activity. If your company is registered in the Swiss commercial register, your bookkeeping obligations under <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_32/chap_1" target="_blank" rel="nofollow noopener">Articles 957 to 963 of the Swiss Code of Obligations (CO)</a> apply from the date of incorporation.
 

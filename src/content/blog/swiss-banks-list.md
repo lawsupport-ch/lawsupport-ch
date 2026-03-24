@@ -36,7 +36,6 @@ tocItems:
     title: "Investment Banks"
 ---
 
-# Swiss Banks List: Major Banks in Switzerland (2026)
 
 Switzerland has approximately 240 banks operating under <a href="https://www.finma.ch/en/" target="_blank" rel="nofollow noopener">FINMA</a> licences. This list covers the most significant institutions by category — from the systemically important UBS through the 24 cantonal banks, the major private banks, and the specialist fintech and crypto banks. All institutions listed are FINMA-regulated banks unless otherwise noted.
 

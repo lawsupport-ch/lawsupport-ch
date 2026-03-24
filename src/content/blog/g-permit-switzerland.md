@@ -42,7 +42,6 @@ tocItems:
     title: "Get Advice on Your G Permit Application"
 ---
 
-# G Permit Switzerland: Cross-Border Commuter Guide
 
 !<a href="https://lawsupport.ch/images/g-permit-switzerland-hero.jpg" target="_blank" rel="nofollow noopener">Swiss G permit (Grenzgängerausweis) — cross-border commuter requirements and rules</a>
 

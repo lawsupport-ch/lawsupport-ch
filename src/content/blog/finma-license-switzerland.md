@@ -28,7 +28,6 @@ tocItems:
     title: "Get Expert Advice on Your FINMA Licence Application"
 ---
 
-# FINMA License Switzerland: Licensing Guide (2026)
 
 The Swiss Financial Market Supervisory Authority (FINMA) is Switzerland's integrated financial regulator, responsible for licensing and supervising banks, securities dealers, asset managers, collective investment schemes, insurance companies, and other financial intermediaries. A FINMA license Switzerland is a prerequisite for conducting regulated financial services in Switzerland. This guide explains the main FINMA licence categories, requirements, and the application process for 2026.
 

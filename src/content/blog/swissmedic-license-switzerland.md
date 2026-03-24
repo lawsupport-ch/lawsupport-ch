@@ -34,7 +34,6 @@ tocItems:
     title: "Next Steps: Request a Free Assessment"
 ---
 
-# Swissmedic Licence: Pharma & Device Authorisation
 
 A Swissmedic licence is the mandatory federal authorisation required to manufacture, import, distribute, or sell pharmaceuticals and medical devices in Switzerland. Switzerland is home to Novartis, Roche, Lonza, and hundreds of biotech and medical device companies, with the pharmaceutical sector contributing approximately 10% of Swiss GDP. Access to this market — whether you are launching a drug, a medical device, or a diagnostic tool — runs through a single federal gateway: <a href="https://www.swissmedic.ch" target="_blank" rel="nofollow noopener">Swissmedic</a>.
 

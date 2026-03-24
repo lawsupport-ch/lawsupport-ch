@@ -34,7 +34,6 @@ tocItems:
     title: "BEPS, CbCR, and Pillar Two in 2026"
 ---
 
-# Swiss Tax Structuring: Holding, IP & Trading (2026)
 
 Switzerland remains one of the most effective jurisdictions for international tax structuring. Stable politics, an independent rule-of-law tradition, a network of over 100 double tax agreements (DTAs), and effective corporate tax rates starting at 11.82% in Zug combine to make Swiss entities a practical choice for holding companies, IP vehicles, trading principals, and treasury centres. This article covers the four main structure types, their current legal basis, the post-STAF (Tax Reform and AHV Financing) rules, and what BEPS compliance requires in 2026.
 

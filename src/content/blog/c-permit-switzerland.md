@@ -49,7 +49,6 @@ faqItems:
     answer: "Yes. Entrepreneurs and self-employed individuals qualify on the same conditions as employed residents. Time spent running a Swiss company or working as a sole trader counts toward the qualifying period, provided you were lawfully registered and financially self-sufficient throughout."
 ---
 
-# C Permit Switzerland: Settlement Permit — Requirements & How to Get It (2026)
 
 The C permit — formally known as the *Niederlassungsbewilligung* — is Switzerland's permanent residence permit and the highest-security immigration status available below Swiss citizenship. If you are living in Switzerland on a [B permit](/blog/b-permit-switzerland/) and thinking about your long-term future here, the C permit changes what you can do, where you can work, and — critically — it is the prerequisite for ordinary naturalisation.
 

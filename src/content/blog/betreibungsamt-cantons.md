@@ -90,7 +90,6 @@ SCHEMA: BreadcrumbList
 SCHEMA: FAQPage — see FAQ section below
 -->
 
-# Betreibungsamt Switzerland: Debt Enforcement Offices by Canton (2026)
 
 The **Betreibungsamt** (French: *Office des poursuites*; Italian: *Ufficio d'esecuzione e fallimenti*) is Switzerland's cantonal debt enforcement authority. It implements the federal debt enforcement and bankruptcy law — the **SchKG** (*Bundesgesetz über Schuldbetreibung und Konkurs*, SR 281.1) — which applies uniformly across all 26 cantons. Whether you are a creditor pursuing an unpaid invoice, a debtor receiving a Zahlungsbefehl (payment order), or someone who needs a Betreibungsregisterauszug (debt enforcement register extract) for a rental or credit application, the Betreibungsamt is the authority you deal with. This guide covers how to find the correct office by canton, how to request an extract, and what each stage of the SchKG process entails.
 

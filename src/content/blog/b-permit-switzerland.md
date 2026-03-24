@@ -32,7 +32,6 @@ tocItems:
     title: "Request a Free Assessment"
 ---
 
-# B Permit Switzerland: Requirements & How to Apply (2026)
 
 The Swiss B permit — formally the **Aufenthaltsbewilligung** — is the standard first long-term residence permit for foreign nationals living and working in Switzerland. If you are relocating to Switzerland for employment, establishing a business, or working as a self-employed professional, the B permit is almost certainly the permit you need to obtain first. EU/EFTA nationals qualify relatively easily under the free movement agreement; non-EU nationals face quotas and a more detailed assessment.
 

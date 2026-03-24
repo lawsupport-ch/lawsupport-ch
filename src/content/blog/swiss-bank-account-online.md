@@ -32,7 +32,6 @@ tocItems:
     title: "Corporate Bank Account Online"
 ---
 
-# Swiss Bank Account Online: Open Remotely or Digitally (2026)
 
 Opening a Swiss bank account online — without visiting a branch in person — is possible but with significant variation between institutions. Digital-first neobanks offer fully online onboarding in minutes. Traditional Swiss banks require in-person visits or video KYC for remote opening. Non-residents face the most restrictions. This guide covers the realistic options for online account opening in Switzerland in 2026.
 

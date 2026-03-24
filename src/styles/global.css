@@ -307,7 +307,7 @@ h4 { font-size: 1.25rem; }
   gap: 12px;
   margin-top: 16px;
 }
-.sidebar-contact-links a {
+.sidebar-contact-links a:not(.btn) {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -318,7 +318,14 @@ h4 { font-size: 1.25rem; }
   border: 1px solid var(--gray-border);
   transition: border-color 0.2s;
 }
-.sidebar-contact-links a:hover { border-color: var(--red); }
+.sidebar-contact-links a:not(.btn):hover { border-color: var(--red); }
+.sidebar-contact-links .btn {
+  width: auto;
+  height: auto;
+  border-radius: 6px;
+  background: var(--red);
+  border: none;
+}
 
 /* ===== Responsive ===== */
 @media (min-width: 768px) {

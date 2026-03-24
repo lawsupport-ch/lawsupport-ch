@@ -42,7 +42,6 @@ tocItems:
     title: "Request a Free Assessment"
 ---
 
-# Hotel & Restaurant License Switzerland (2026)
 
 Opening a restaurant, hotel, bar, or café in Switzerland requires a cantonal hotel restaurant license — the **Wirtepatent** or **Gastgewerbebewilligung** — before you can legally trade. Without it, you are operating illegally from day one. Every establishment that serves food or beverages for on-site consumption, or provides overnight accommodation, must hold this licence. This guide sets out exactly what you need, where cantonal rules diverge, and the realistic timeline you should plan around.
 

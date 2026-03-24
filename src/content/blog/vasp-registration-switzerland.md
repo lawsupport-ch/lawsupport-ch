@@ -44,7 +44,6 @@ tocItems:
     title: "Get Your Swiss VASP Registration Right"
 ---
 
-# VASP Registration Switzerland: SRO Guide (2026)
 
 Switzerland has established one of the most clearly structured regulatory frameworks for virtual asset service providers in the world. If your company exchanges cryptocurrencies, custodies digital assets for clients, or provides crypto payment infrastructure, you are almost certainly a VASP under Swiss law and must register with a FINMA-recognised Self-Regulatory Organisation (SRO) before operating. VASP registration in Switzerland is governed by the Anti-Money Laundering Act (AMLA), with the VQF as the principal SRO for crypto businesses. First-year VQF membership fees start at CHF 3,000, and the application process typically takes three to six months. This guide explains exactly what that means, how the process works, and what it costs.
 

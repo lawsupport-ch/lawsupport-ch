@@ -26,7 +26,6 @@ tocItems:
     title: "Request a Free Assessment"
 ---
 
-# Employer Registration Switzerland: AHV & VAT (2026)
 
 Before hiring the first employee in Switzerland, a company must complete employer registration with several authorities. Failure to register correctly results in retroactive liability for unpaid social insurance contributions, interest at 5% per annum, and penalties. This guide covers every mandatory registration step — AHV, accident insurance, occupational pension, sickness benefits, source tax, and VAT — with timelines and contribution rates for 2026.
 

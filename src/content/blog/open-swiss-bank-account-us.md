@@ -42,7 +42,6 @@ tocItems:
     title: "How Lawsupport Can Help"
 ---
 
-# How to Open a Swiss Bank Account from the US in 2026
 
 Swiss bank accounts carry a powerful reputation: stability, credibility, CHF exposure, and access to European financial infrastructure. For most nationalities, opening one is a matter of paperwork. For US persons -- US citizens and green card holders -- it is a different conversation entirely.
 

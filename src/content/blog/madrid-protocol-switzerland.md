@@ -34,7 +34,6 @@ tocItems:
     title: "Practical Takeaways"
 ---
 
-# Madrid Protocol Switzerland: Trademark Filing (2026)
 
 If you are building a brand with reach beyond Switzerland, filing a separate trademark application in every target country is expensive, slow, and operationally burdensome. The Madrid Protocol provides a structured alternative: one international application, processed through a single channel, covering up to 130 jurisdictions. This guide explains how it works for Swiss-based applicants, what it costs, and where the risks sit.
 

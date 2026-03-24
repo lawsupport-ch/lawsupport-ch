@@ -38,7 +38,6 @@ tocItems:
     title: "Need Advice on Employment Termination? Request a Free Assessment"
 ---
 
-# Employment Termination Switzerland: Notice Periods, Severance & Rights (2026)
 
 Swiss employment law provides employers with broad flexibility to terminate employment — Switzerland has no concept of "unfair dismissal" requiring a substantive reason in the Anglo-American sense. However, termination must comply with statutory notice periods under the Code of Obligations (OR, Articles 319-362), protected periods during which dismissal is prohibited, severance requirements in certain cases, and special rules for abusive (missbrauchliche) dismissal. This guide explains the full framework for termination of employment in Switzerland.
 

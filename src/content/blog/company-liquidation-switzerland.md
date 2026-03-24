@@ -33,7 +33,6 @@ faqItems:
     answer: "When the company distributes assets to shareholders upon liquidation, any amount above the nominal share capital is treated as a taxable dividend. The company must withhold 35% of that amount and pay it to the Swiss Federal Tax Administration (ESTV). Shareholders resident in treaty countries can apply for a refund of all or part of the withholding tax via their local tax authority."
 ---
 
-# Company Liquidation Switzerland: Process & Costs (2026)
 
 Liquidating a Swiss company — whether an AG or GmbH — is a structured legal process governed by the Swiss Code of Obligations (CO/OR). It cannot be done informally: the company must be formally dissolved, its assets distributed or applied to liabilities, and its entry deleted from the Commercial Register. This guide explains the process, realistic timelines, and what to expect in terms of costs.
 

@@ -47,7 +47,6 @@ faqItems:
     answer: "A professional family of three in Zug needs approximately CHF 200,000–300,000 gross household income for a comfortable lifestyle with housing and international school. Zurich and Geneva require approximately 15–25% more for comparable standards due to higher rent and tax."
 ---
 
-# Cost of Living Switzerland: Realistic Numbers for 2026
 
 Switzerland is one of the world's most expensive countries to live in — and most sources understate the cost. This guide gives realistic, current CHF figures for major expense categories, with comparisons between the most common destinations for international residents: Zug, Zurich, and Geneva.
 

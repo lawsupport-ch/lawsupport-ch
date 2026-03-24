@@ -34,7 +34,6 @@ tocItems:
     title: "Fees Summary (2026)"
 ---
 
-# IGE / IPI Switzerland: IP Office Guide (2026)
 
 The Swiss Federal Institute of Intellectual Property — IGE in German (Institut fuer Geistiges Eigentum), IPI in French (Institut Federal de la Propriete Intellectuelle), IPI in English — is the Swiss government agency responsible for administering trademark, patent, and design registrations in Switzerland. Knowing what IGE/IPI does, how to interact with it, and how to search its registers is essential for anyone protecting intellectual property in Switzerland.
 

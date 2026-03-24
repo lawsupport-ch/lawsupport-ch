@@ -32,7 +32,6 @@ faqItems:
     answer: "From free (Banana) to CHF 50,000+ (Abacus enterprise). A typical SME pays CHF 350-2,400/year for cloud options."
 ---
 
-# Swiss Accounting Software: Top Options for Swiss Companies (2026)
 
 Swiss companies must maintain accounts in accordance with the <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en" target="_blank" rel="nofollow noopener">Swiss Code of Obligations (OR Art. 957–963b)</a> and comply with Swiss VAT reporting, payroll, and tax requirements. Swiss-specific accounting software handles the local requirements — Swiss VAT rates (8.1% standard, 3.8% hotel, 2.6% reduced), Swiss franc presentation, canton-specific payroll deductions (AHV, IV, EO, ALV), and the Swiss chart of accounts (Kontenrahmen KMU). This guide compares the main Swiss accounting software options for 2026.
 

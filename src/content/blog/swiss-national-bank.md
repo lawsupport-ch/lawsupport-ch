@@ -30,7 +30,6 @@ tocItems:
     title: "Get Expert Guidance on Swiss Banking and Corporate Matters"
 ---
 
-# Swiss National Bank (SNB): Role, Functions & Policy (2026)
 
 The Swiss National Bank (SNB / Schweizerische Nationalbank) is Switzerland's central bank, responsible for monetary policy, currency issuance, and financial stability. Unlike most central banks, the SNB is a publicly listed company — its shares trade on the SIX Swiss Exchange — while remaining under substantial public sector control. For businesses and individuals operating within the Swiss financial system, understanding how the SNB functions is essential for planning around interest rates, currency movements, and [banking arrangements in Switzerland](/blog/swiss-bank-account/).
 

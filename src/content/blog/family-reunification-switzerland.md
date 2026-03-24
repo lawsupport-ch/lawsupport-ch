@@ -22,7 +22,6 @@ tocItems:
     title: "Get Expert Advice Before You File"
 ---
 
-# Family Reunification Switzerland: Permits (2026)
 
 Family reunification Switzerland — known in Swiss law as *Familiennachzug* — allows a person lawfully residing in Switzerland to bring their spouse, partner, or children to live together in the country. If you hold a Swiss residence permit and want to bring family members, the rules vary significantly depending on your permit category, your nationality, how long you have lived here, and which canton you reside in. This guide sets out the concrete requirements for 2026 so you know exactly what applies before you file.
 

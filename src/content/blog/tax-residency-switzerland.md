@@ -38,7 +38,6 @@ tocItems:
     title: "Relocating to Switzerland? Request a Free Assessment"
 ---
 
-# Swiss Tax Residency: Rules & Requirements (2026)
 
 Swiss tax residency determines which country has the right to tax your worldwide income and wealth. Get it wrong in either direction — remaining a tax resident longer than intended, or failing to establish clean residency when you relocate — and the consequences are significant. Under Art. 3 of the Federal Direct Tax Act (DBG), tax residency arises either through domicile (intent to remain permanently) or habitual residence (30 days with gainful activity, 90 days without). This guide sets out the legal framework under Swiss law, the practical triggers you need to know, and what is required to establish or exit Swiss tax residency correctly.
 

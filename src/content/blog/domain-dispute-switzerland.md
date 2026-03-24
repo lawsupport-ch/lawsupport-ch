@@ -24,7 +24,6 @@ tocItems:
     title: "Request a Free Assessment"
 ---
 
-# Domain Dispute Switzerland: .ch & WIPO (2026)
 
 Domain name disputes in Switzerland arise when a third party registers a .ch domain incorporating your trademark, company name, or brand — often to extract payment (cybersquatting), divert traffic, or disrupt your business. Swiss .ch domain disputes are resolved primarily through the SWITCH dispute resolution procedure administered by the WIPO Arbitration and Mediation Center in Geneva, or through Swiss court proceedings. This guide explains both routes, the costs, and how to protect yourself before a dispute arises.
 

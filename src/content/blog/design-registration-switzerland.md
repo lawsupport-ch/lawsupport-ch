@@ -53,7 +53,6 @@ faqItems:
     answer: "The IPI conducts only a formal examination, so registration is typically completed within a few weeks of filing. The design right takes effect from the filing date, not the date of publication or certificate issue — meaning your protection is backdated to the moment you filed."
 ---
 
-# Design Registration Switzerland: Process, Costs & Protection (2026)
 
 Registered design rights are one of the most overlooked tools in Swiss intellectual property law. If your business invests in the visual appearance of its products — whether you work in fashion, furniture, packaging, consumer electronics, jewellery, or industrial design — failing to register your designs leaves commercial value unprotected. This guide explains exactly how design registration in Switzerland works, what it costs, and where it sits relative to other IP rights.
 

@@ -40,7 +40,6 @@ tocItems:
     title: "Request a Free Assessment"
 ---
 
-# ZEFIX: Swiss Company Search — Complete Guide (2026)
 
 ZEFIX (Zentraler Firmenindex) is Switzerland's central company register search tool, and it is the first place to look when verifying any Swiss company. It aggregates data from all 26 cantonal [Commercial Registers](/blog/commercial-register-switzerland/) and allows anyone to search for any registered Swiss company, access basic registration information, and download official register extracts — all free of charge. Whether you are conducting [due diligence](/blog/due-diligence-switzerland/) on a counterparty, verifying a director's signatory authority, or checking whether a company exists at all, ZEFIX is the starting point.
 

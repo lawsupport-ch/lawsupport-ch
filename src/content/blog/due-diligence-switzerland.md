@@ -20,7 +20,6 @@ tocItems:
     title: "Request a Free Assessment"
 ---
 
-# Due Diligence Switzerland: Process & Risks (2026)
 
 Due diligence in Switzerland follows a structured, multi-stream process that differs from what buyers encounter in Germany, the UK, or the US. Swiss-specific legal mechanisms, regulatory bodies, and cantonal variation mean a generic checklist will leave gaps. This guide covers what due diligence looks like in practice for Swiss M&A and business acquisitions, what each stream examines, and where Swiss targets most commonly expose buyers to hidden risk.
 

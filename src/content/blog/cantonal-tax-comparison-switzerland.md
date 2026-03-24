@@ -34,7 +34,6 @@ tocItems:
     title: "Related Pages"
 ---
 
-# Cantonal Tax Comparison Switzerland: All 26 Cantons (2026)
 
 Switzerland's cantonal tax comparison reveals differences that directly affect where a company or individual should be based. Effective combined corporate tax rates range from approximately 11.8% in Zug to 21% in Berne — a gap large enough to materially alter annual after-tax profits. This page compares corporate income tax, individual income tax, wealth tax, and inheritance tax across all 26 cantons for 2026, with the specific figures companies and advisers actually use.
 

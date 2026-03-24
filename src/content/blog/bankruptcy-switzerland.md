@@ -51,7 +51,6 @@ tocItems:
 
 <!-- Schema: FAQPage — see FAQ section below -->
 
-# Bankruptcy Switzerland (Konkurs): Corporate Insolvency Process (2026)
 
 Swiss corporate bankruptcy (*Konkurs*) is the formal insolvency procedure for insolvent Swiss AG and GmbH companies. It is administered by the cantonal bankruptcy office (*Konkursamt*) following a court order (*Konkurseröffnung*). This article explains the triggers under the <a href="https://www.fedlex.admin.ch/eli/cc/11/529_488_529/en" target="_blank" rel="nofollow noopener">Federal Act on Debt Enforcement and Bankruptcy (SchKG)</a> and the <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en" target="_blank" rel="nofollow noopener">Code of Obligations (Art. 725 CO)</a>, the step-by-step process, creditor priority, director duties in insolvency, and alternatives to formal bankruptcy.
 

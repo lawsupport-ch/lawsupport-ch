@@ -38,7 +38,6 @@ tocItems:
     title: "Request a Free Assessment"
 ---
 
-# Swiss Withholding Tax: Rates, Treaties & Refund Process (2026)
 
 Switzerland levies a 35% withholding tax (Verrechnungssteuer) on dividends, certain interest payments, and lottery winnings paid by Swiss companies and institutions to recipients at home and abroad. This is one of the highest withholding tax rates in Europe — but it is designed to be refunded (in full or in part) to qualifying recipients. Understanding how the Swiss withholding tax works is essential for anyone owning a Swiss company or receiving Swiss investment income, particularly when structuring [holding companies](/blog/holding-company-switzerland/) or planning dividend distributions.
 

@@ -30,7 +30,6 @@ tocItems:
     title: "When to Use a KG"
 ---
 
-# Swiss Limited Partnership (KG): Structure & Uses
 
 The Swiss limited partnership (Kommanditgesellschaft -- KG) is a partnership form under Articles 594--619 of the Code of Obligations (OR). It combines an active general partner (Komplementar) with one or more passive limited partners (Kommanditare) whose liability is capped at their capital contribution. The Swiss KG is used primarily for investment fund structures and certain family business arrangements.
 

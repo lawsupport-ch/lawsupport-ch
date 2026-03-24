@@ -34,7 +34,6 @@ tocItems:
     title: "Choosing Between a Universal Bank and an Independent Private Bank"
 ---
 
-# Private Banking Switzerland: How It Works (2026)
 
 Switzerland manages approximately one-quarter of the world's cross-border private wealth — roughly USD 2.5 trillion. The country's private banking sector is built on a combination of political stability, professional discretion, asset protection, sophisticated investment management, and a legal framework that has historically prioritised client privacy. This guide explains how Swiss private banking works, what the minimums are, and what to expect when approaching a Swiss private bank.
 

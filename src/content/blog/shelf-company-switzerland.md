@@ -36,7 +36,6 @@ faqItems:
     answer: "Securities transfer stamp may apply if a Swiss securities dealer is involved. Direct private share transfers typically do not attract stamp duty."
 ---
 
-# Shelf Company Switzerland: Buy a Ready-Made AG or GmbH
 
 A shelf company — also called a ready-made company or dormant company — is a company that was formed, registered, and kept inactive, "on the shelf," waiting for a buyer. In Switzerland, shelf companies can compress the company activation timeline from 4-6 weeks to as little as 3-5 business days. Here is when they make sense and when they do not.
 

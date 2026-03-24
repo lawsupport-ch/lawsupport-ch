@@ -53,7 +53,6 @@ tocItems:
     title: "Request a Free Assessment"
 ---
 
-# Swiss Banking Licence: FINMA Requirements & Application Process (2026)
 
 A Swiss banking licence — formally the *Bankenbewilligung* — is issued by the Swiss Financial Market Supervisory Authority (<a href="https://www.finma.ch/en/authorisation/banks-and-securities-firms/banks/" target="_blank" rel="nofollow noopener">FINMA</a>) under the <a href="https://www.fedlex.admin.ch/eli/cc/51/117_121_129/en" target="_blank" rel="nofollow noopener">Federal Banking Act (*Bankengesetz*, BankG)</a>. It is one of the most demanding financial authorisations in the world, and for good reason: Switzerland's financial system reputation rests on the integrity of every institution that carries the word "bank."
 

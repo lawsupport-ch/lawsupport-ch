@@ -49,7 +49,6 @@ faqItems:
     answer: "Operating without a licence is a criminal offence under Art. 44 FINMASA, with personal liability for management. FINMA can also issue injunctions, impose conditions, or order the cessation of business. The regulatory consequences of unlicensed operation are severe and extend to individuals responsible for the management of the entity."
 ---
 
-# DLT Trading Facility Switzerland: Licence, Requirements & Process (2026)
 
 Switzerland created a dedicated regulatory category for blockchain-based trading platforms when the DLT Act entered into force in February 2021. If you are building or operating a platform that enables the trading of tokenised securities on a distributed ledger, you are operating a **DLT Trading Facility** (DLT-Handelssystem) under Swiss law — and you need a FINMA licence to do it legally.
 

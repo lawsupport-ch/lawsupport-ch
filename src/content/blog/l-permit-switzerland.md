@@ -36,7 +36,6 @@ tocItems:
     title: "L Permit vs B Permit vs G Permit"
 ---
 
-# L Permit Switzerland: Rules & Requirements (2026)
 
 Switzerland's permit system is precise by design. Each category corresponds to a specific legal situation, and using the wrong one — or misunderstanding the constraints of the right one — creates compliance problems that are expensive to unwind. The L permit (Kurzaufenthaltsbewilligung, or short-term residence permit) covers a defined and genuinely temporary window: stays of less than one year for employment, training, or education. If your situation fits that window, the L permit is straightforward. If it does not, you need a different permit from the outset.
 

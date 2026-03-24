@@ -44,7 +44,6 @@ tocItems:
     title: "Request a Free Assessment"
 ---
 
-# Work Permit Non-EU Switzerland: Quota Guide (2026)
 
 If you are not an EU or EFTA citizen, getting a Swiss work permit is a fundamentally different exercise from what European nationals experience. There is no free movement. There is no automatic right to work. Instead, there is a federal quota system, a mandatory priority check, cantonal gatekeeping, and a high qualification bar that filters out the vast majority of applicants before the process even begins. Switzerland issues approximately 8'500 B permits and 5'200 L permits per year for non-EU nationals — for a country of 8.9 million people.
 

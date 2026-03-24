@@ -37,7 +37,6 @@ faqItems:
     answer: "The Stampa Declaration is a statutory confirmation provided by the founders at the notarisation appointment, confirming that there are no undisclosed contributions in kind, no undisclosed acquisitions of assets, and no special advantages granted to founders in connection with the formation. It is named after a landmark Swiss Federal Supreme Court decision. The declaration protects creditors and third parties and cannot be waived."
 ---
 
-# Company Formation Switzerland: Complete Guide (2026)
 
 Switzerland registers over 45,000 new companies every year, yet fewer than 15% of foreign founders understand the legal distinction between the two most common entity types before they begin the process. That single gap — choosing the wrong structure at the outset — costs founders time, money, and occasionally requires a full restructuring down the line.
 

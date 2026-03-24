@@ -57,7 +57,6 @@ tocItems:
     title: "Ready to Form Your Swiss AG?"
 ---
 
-# AG Formation Switzerland (Aktiengesellschaft): Complete Guide (2026)
 
 Until 2020, a Swiss AG could issue bearer shares, meaning whoever physically held a paper certificate was legally the shareholder. No name. No register. Complete anonymity. That era is over. Switzerland abolished bearer shares as part of its financial transparency reforms, and every AG shareholder is now registered. Yet the Aktiengesellschaft still offers something the GmbH cannot: shareholder names do not appear in the public Commercial Register. If privacy matters, the AG remains the structure of choice. This guide explains exactly how AG formation Switzerland works in 2026, what it costs, and where founders consistently go wrong.
 

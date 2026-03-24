@@ -46,7 +46,6 @@ tocItems:
     title: "Take the Next Step"
 ---
 
-# Swiss Citizenship by Descent: Parents & Grandparents (2026)
 
 Switzerland does not grant citizenship based on where you were born. It grants citizenship based on who your parents are. If one of your parents is Swiss, there is a real possibility that you are Swiss too — even if you have never lived in Switzerland, do not speak a Swiss national language, and your family left decades ago.
 

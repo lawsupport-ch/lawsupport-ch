@@ -43,7 +43,6 @@ faqItems:
     answer: "Yes. You do not file separately with the federal government. The cantonal return covers all three levels: federal direct tax, cantonal income tax, and cantonal capital tax. The canton collects federal tax on behalf of the federal government."
 ---
 
-# Corporate Tax Return Switzerland: Filing Guide for Swiss Companies (2026)
 
 Every Swiss AG and GmbH must file an annual corporate tax return (Steuererklärung) with the cantonal tax authority in its canton of domicile. This guide explains what is required, when it is due, and what to expect from the process in 2026.
 

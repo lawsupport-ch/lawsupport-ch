@@ -39,7 +39,6 @@ faqItems:
     answer: "Yes. There is no Swiss nationality or residency requirement for cooperative members. For board members (Verwaltungsrat), Swiss law does not impose a residency requirement for cooperatives, unlike the Swiss resident director rule that applies to AG and GmbH formations."
 ---
 
-# Swiss Cooperative (Genossenschaft): Formation Guide (2026)
 
 The Swiss cooperative — *Genossenschaft* in German, *Société coopérative* in French — is one of Switzerland's most distinctive legal entity types and, in sheer economic scale, one of its most significant. Migros and Coop, two of the country's largest companies, are cooperatives. So is Raiffeisen, one of Switzerland's three systemically important banks. Yet for most founders and business owners exploring Swiss entity types, the cooperative is poorly understood and rarely considered.
 

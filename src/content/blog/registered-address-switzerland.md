@@ -40,7 +40,6 @@ tocItems:
     title: "Virtual Office Upgrade Options"
 ---
 
-# Registered Address Switzerland: Domicile Services (2026)
 
 Every company incorporated in Switzerland — whether an AG (Aktiengesellschaft) or a GmbH (Gesellschaft mit beschraenkter Haftung) — must have a registered domicile (Sitz) located in Switzerland. This is not optional. It is a statutory requirement embedded in the Swiss Code of Obligations and governed by Art. 2 of the Handelsregisterverordnung (HRegV). The registered address is the address that appears in the Commercial Register (Handelsregister), on official correspondence, and in the company's articles of association.
 

@@ -40,7 +40,6 @@ tocItems:
     title: "Related Guides"
 ---
 
-# Immigrate to Switzerland from the US (2026)
 
 Americans who want to move to Switzerland face a more complicated situation than most other foreign nationals. The reason is not Switzerland's immigration rules alone — it is the combination of Swiss immigration requirements and the United States' extraterritorial tax system. Both layers demand attention from day one. This guide covers the realistic pathways, what each route actually requires, and the US-specific complications that catch many Americans off guard.
 

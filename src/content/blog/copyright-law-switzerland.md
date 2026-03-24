@@ -49,7 +49,6 @@ faqItems:
     answer: "Under Swiss law, copyright in a commissioned design remains with the freelancer (the human creator) unless there is a written assignment. A contract that says \"all work product belongs to the client\" is sufficient if signed before or at the time of creation. Without such a clause, you may own the physical deliverable but not the copyright — meaning you cannot legally stop the freelancer from reusing elements of the design for other clients."
 ---
 
-# Copyright Law Switzerland: Protection & Enforcement (2026)
 
 Swiss copyright law gives creators strong, automatic protection the moment a work comes into existence. No registration. No formalities. But the law has nuances — especially around moral rights, work-for-hire, software, and enforcement — that matter significantly in practice.
 

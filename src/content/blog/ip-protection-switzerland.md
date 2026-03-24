@@ -36,7 +36,6 @@ tocItems:
     title: "IP Holding in Switzerland"
 ---
 
-# IP Protection Switzerland: Patents & Trademarks (2026)
 
 Switzerland offers strong intellectual property protection through a mature legal framework aligned with international standards (TRIPS Agreement, WIPO conventions). The <a href="https://www.ige.ch/en" target="_blank" rel="nofollow noopener">Federal Institute of Intellectual Property (IGE/IPI)</a> administers registered IP rights. This guide covers each type of IP protection, what it covers, how long it lasts, and how to enforce it.
 

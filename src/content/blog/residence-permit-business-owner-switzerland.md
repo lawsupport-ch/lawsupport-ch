@@ -34,7 +34,6 @@ faqItems:
     answer: "Yes. Once you hold a valid B or C permit, your spouse and children under 18 qualify for family reunification."
 ---
 
-# Residence Permit for Business Owners in Switzerland
 
 Switzerland does not have an investor visa. There is no residency-by-investment programme. No golden visa. No minimum deposit that unlocks a permit. If you have read otherwise, you have been misinformed.
 

@@ -44,7 +44,6 @@ tocItems:
     title: "Get Started with Lawsupport"
 ---
 
-# Swiss Foundation: Formation & Requirements (2026)
 
 A Swiss foundation is one of the most versatile and rigorous legal structures available under Swiss law. Whether your objective is charitable wealth deployment, family asset stewardship, employee benefit provision, or governing a blockchain protocol, the foundation (Stiftung) offers a purpose-driven legal entity with no shareholders, no members, and a governance model built around a defined mission rather than ownership.
 

@@ -42,7 +42,6 @@ tocItems:
     title: "Next Steps"
 ---
 
-# Swiss Business Licences & Permits: What Your Company Needs (2026)
 
 Switzerland ranks consistently among the world's easiest places to do business. The World Bank's Doing Business indicators, the IMD World Competitiveness Yearbook, and the experience of thousands of companies registered in Zug, Zurich, and Geneva all confirm the same point: Switzerland does not require most businesses to obtain an operating licence beyond registering in the <a href="https://www.zefix.ch" target="_blank" rel="nofollow noopener">Commercial Register (Handelsregister)</a> and, where applicable, enrolling for VAT.
 

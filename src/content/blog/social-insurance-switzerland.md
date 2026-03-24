@@ -36,7 +36,6 @@ faqItems:
     answer: "CHF 26,460 in 2026, subtracted from gross salary to determine the portion insured under mandatory occupational pension."
 ---
 
-# Swiss Social Insurance: AHV, IV, BVG Contributions
 
 Switzerland's social insurance system is built on three pillars, supplemented by accident insurance and unemployment coverage. Every employer in Switzerland must register with and contribute to these schemes for their employees. This guide explains each component, the 2026 contribution rates, and what employers and employees pay.
 

@@ -30,7 +30,6 @@ tocItems:
     title: "How Lawsupport Helps"
 ---
 
-# Swiss Bank Account Requirements & Minimum Balance (2026)
 
 Opening a Swiss bank account — whether personal or corporate — requires specific documentation and, in some cases, minimum deposits. Requirements have tightened significantly since 2019 and particularly since the Credit Suisse collapse in 2023. This guide explains exactly what Swiss banks require and what to realistically expect.
 

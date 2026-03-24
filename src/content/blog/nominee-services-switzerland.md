@@ -32,7 +32,6 @@ tocItems:
     title: "Related Services"
 ---
 
-# Nominee Services Switzerland: Full Guide (2026)
 
 Swiss nominee services allow company owners to meet Swiss legal requirements -- particularly the Swiss-resident director requirement -- while maintaining operational flexibility. This guide explains what Swiss law permits, what disclosures are required, and what Lawsupport provides.
 

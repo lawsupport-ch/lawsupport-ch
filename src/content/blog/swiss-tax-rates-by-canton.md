@@ -46,7 +46,6 @@ tocItems:
     title: "Ready to Establish Your Swiss Company in the Right Canton?"
 ---
 
-# Swiss Tax Rates by Canton: 2026 Comparison
 
 Swiss tax rates by canton vary dramatically in 2026. The difference between the lowest-tax canton (Zug, at approximately 11.8% effective [corporate tax](/blog/corporate-tax-switzerland/)) and the most expensive major canton (Bern, at approximately 20.7%) is nearly nine full percentage points. On CHF 1,000,000 of taxable profit, that gap translates to roughly CHF 89,000 per year. Over ten years, that is CHF 890,000 — a material business decision, not a rounding error. This article provides a complete, data-driven reference for Swiss tax rates by canton covering corporate tax, individual income tax, wealth tax, and the key incentives that affect your effective rate.
 

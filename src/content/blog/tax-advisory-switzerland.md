@@ -28,7 +28,6 @@ tocItems:
     title: "Contact Lawsupport for Tax Advisory: Request a Free Assessment"
 ---
 
-# Tax Advisory Switzerland: Corporate Tax Planning (2026)
 
 Tax advisory in Switzerland covers the strategic planning of your company's structure, financing, and operations to minimise tax liability within the law. The effective combined corporate tax rate varies from 11.8% in Zug to 20.7% in Bern — for a company generating CHF 1 million in taxable profit, the difference between cantons alone can exceed CHF 79,000 per year. This guide explains what Swiss corporate tax advisory covers, what it delivers, and how Lawsupport advises clients on Swiss tax matters.
 

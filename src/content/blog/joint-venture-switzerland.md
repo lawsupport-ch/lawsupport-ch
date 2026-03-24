@@ -28,7 +28,6 @@ tocItems:
     title: "Swiss JV vs Other Jurisdictions"
 ---
 
-# Joint Venture Switzerland: Structures & Law (2026)
 
 A joint venture (JV) in Switzerland is a commercial cooperation between two or more parties for a common business purpose. Swiss law does not define a specific "joint venture" legal form — instead, parties choose the structure that best fits their needs from existing Swiss entity types or contractual frameworks. This guide explains the main options and their governance implications.
 

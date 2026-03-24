@@ -38,7 +38,6 @@ tocItems:
     title: "Request a Free Assessment"
 ---
 
-# Working Hours Switzerland: Legal Limits, Overtime & Rest Periods (2026)
 
 Swiss working hours are regulated by the <a href="https://www.fedlex.admin.ch/eli/cc/1966/57_57_57/en" target="_blank" rel="nofollow noopener">Labour Act (ArG/LTr)</a> and the Code of Obligations (OR). The maximum working week in Switzerland is 45 hours for office, technical, and retail workers, or 50 hours for industrial and other sectors. Most Swiss [employment contracts](/blog/employment-contract-switzerland/) specify 40–42.5 hours as the standard contractual working time. The Labour Act applies to most employees in Switzerland; the Code of Obligations governs overtime and compensation. Together they create a framework that is more regulated than US or UK employment but somewhat more flexible than German or French law.
 

@@ -36,7 +36,6 @@ faqItems:
     answer: "Minimal: AHV/IV/EO contributions (around 10% of net profit), income tax at personal rates, and optional bookkeeper fees."
 ---
 
-# Sole Proprietorship Switzerland: Einzelfirma Guide
 
 The Swiss Einzelfirma (sole proprietorship) is the simplest business structure available in Switzerland. It requires no minimum capital, no notarial deed, and — for small businesses — no Commercial Register entry. But it comes with full personal liability and limited scalability. This guide explains when an Einzelfirma makes sense and when a GmbH is the better choice.
 

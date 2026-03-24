@@ -55,7 +55,6 @@ tocItems:
     title: "Request a Free Assessment"
 ---
 
-# Buying Property in Switzerland as a Foreigner (2026)
 
 Switzerland places strict limits on foreign property ownership. The federal statute known as **Lex Koller (BewG)** prevents most non-residents and certain foreign nationals from buying Swiss residential real estate without prior cantonal authorisation — which is very rarely granted for standard purchases. Whether a transaction is legally possible at all depends entirely on the buyer's residence status, permit type, and intended property use. This guide sets out the rules as they stand in 2026.
 

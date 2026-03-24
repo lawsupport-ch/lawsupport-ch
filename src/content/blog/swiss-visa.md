@@ -34,7 +34,6 @@ tocItems:
     title: "Get Expert Guidance on Swiss Visa and Immigration Matters"
 ---
 
-# Swiss Visa: Types, Requirements & Process (2026)
 
 A Swiss visa is required for citizens of countries outside the Schengen visa-free list who wish to enter Switzerland. Switzerland is a Schengen Area member, which means its short-stay visa requirements align with Schengen rules. For stays beyond 90 days — including employment, study, or [family reunification](/blog/family-reunification-switzerland/) — a national D visa is required, leading to a Swiss residence permit. This guide explains the different Swiss visa types, who needs one, and how to apply in 2026.
 

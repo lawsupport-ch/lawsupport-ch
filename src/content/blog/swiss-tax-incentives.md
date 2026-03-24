@@ -34,7 +34,6 @@ tocItems:
     title: "Structure Your Swiss Tax Incentives With Expert Guidance"
 ---
 
-# Swiss Tax Incentives: IP Box, R&D, NID (2026)
 
 The 2020 Swiss Tax Reform and AHV Financing (STAF) replaced the old cantonal ring-fencing regimes (holding, domicile, and mixed company statuses) with a set of internationally compliant Swiss tax incentives. These incentives — the IP box, R&D super-deduction, and notional interest deduction — are available at the cantonal level and, when stacked, can substantially reduce effective [corporate tax rates](/blog/corporate-tax-switzerland/) for qualifying businesses. A company in Zug with strong patent income and active Swiss R&D can achieve combined effective rates of 5–8%, well below the standard 11.8%.
 
