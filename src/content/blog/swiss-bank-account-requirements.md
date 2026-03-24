@@ -167,7 +167,7 @@ A capital deposit account (Kapitaleinzahlungskonto) is a temporary blocked accou
 
 Unsure whether your business profile meets Swiss banking requirements? Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

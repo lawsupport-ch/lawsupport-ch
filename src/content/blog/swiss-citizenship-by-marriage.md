@@ -236,7 +236,7 @@ Yes. Since 1 July 2022, when same-sex marriage became legally recognised in Swit
 
 ---
 
-**[Request a Free Assessment](/blog/contact/)**
+**[Request a Free Assessment](/contacts/)**
 
 *This article reflects Swiss law and SEM practice as of March 2026. Legal requirements and processing timelines are subject to change. Nothing in this article constitutes legal advice specific to your situation.*
 

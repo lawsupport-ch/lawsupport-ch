@@ -188,7 +188,7 @@ A foreign company posting employees to Switzerland must comply with Swiss employ
 
 Setting up as an employer in Switzerland for the first time involves multiple registrations that must be completed in sequence before your first hire starts work. Lawsupport advises international companies on the full employer set-up process, coordinates with cantonal Ausgleichskassen, and supports ongoing payroll compliance.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Morgan Hartley | Senior Corporate Lawyer & Partner**
 Lawsupport (Morgan Hartley Consulting GmbH)

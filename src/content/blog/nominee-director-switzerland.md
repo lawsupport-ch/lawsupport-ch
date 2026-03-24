@@ -283,7 +283,7 @@ The nominee director's name is publicly visible in the Commercial Register -- th
 
 Forming a Swiss company from abroad and need a resident director? Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed -- without obligation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

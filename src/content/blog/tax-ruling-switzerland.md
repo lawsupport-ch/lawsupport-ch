@@ -165,7 +165,7 @@ For any non-standard Swiss tax structure — holding companies, IP arrangements,
 
 Lawsupport prepares and submits ruling requests to the Steuerverwaltung Zug and other cantonal authorities. We handle the full process: initial analysis, drafting the ruling request, pre-submission discussions with the tax inspector, and follow-up until the ruling is issued.
 
-[Request a Free Assessment →](/blog/contact/)
+[Request a Free Assessment →](/contacts/)
 
 ---
 
@@ -173,4 +173,4 @@ Lawsupport prepares and submits ruling requests to the Steuerverwaltung Zug and 
 Grafenauweg 4, Zug, Switzerland
 Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 
-[Request a Free Assessment →](/blog/contact/)
+[Request a Free Assessment →](/contacts/)

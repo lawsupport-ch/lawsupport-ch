@@ -202,7 +202,7 @@ Whether you are an employer planning a termination, restructuring your workforce
 
 Lawsupport advises on all aspects of Swiss [employment law](/blog/employment-law-switzerland/), including termination procedures, severance negotiations, abusive dismissal claims, mass redundancy processes, and exit agreements. We work from Zug with clients across Switzerland.
 
-[Request a Free Assessment →](/blog/contact/)
+[Request a Free Assessment →](/contacts/)
 
 ---
 
@@ -210,4 +210,4 @@ Lawsupport advises on all aspects of Swiss [employment law](/blog/employment-law
 Grafenauweg 4, Zug, Switzerland
 Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 
-[Request a Free Assessment →](/blog/contact/)
+[Request a Free Assessment →](/contacts/)

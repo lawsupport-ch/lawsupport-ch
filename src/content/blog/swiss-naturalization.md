@@ -200,7 +200,7 @@ Documented involvement in Swiss community life is expected: membership in local 
 
 Swiss naturalization is a multi-year process that benefits from early planning and proper documentation at every stage. Morgan Hartley and the Lawsupport team advise clients on residence structuring, permit pathways, integration requirements, and the full naturalization application process.
 
-**[Request a Free Assessment](/blog/contact/)**
+**[Request a Free Assessment](/contacts/)**
 
 **Morgan Hartley** — Senior Corporate Lawyer & Partner
 Lawsupport (Morgan Hartley Consulting)

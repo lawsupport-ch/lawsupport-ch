@@ -304,7 +304,7 @@ For a canton-by-canton company registration comparison, see the [commercial regi
 
 Morgan Hartley and the Lawsupport team advise creditors and debtors on SchKG proceedings, Rechtsöffnung strategy, and cross-border enforcement. We work from Zug with clients across all Swiss cantons and internationally.
 
-[Request a Free Assessment →](/blog/contact/)
+[Request a Free Assessment →](/contacts/)
 
 *Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch*
 

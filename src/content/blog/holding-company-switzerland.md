@@ -260,7 +260,7 @@ Lawsupport (Morgan Hartley Consulting) has structured holding companies in Zug f
 
 Every holding structure we advise on begins with an analysis of your specific shareholder profile, source jurisdiction treaty position, intended income flows, and exit horizon.
 
-[Request a Free Assessment](/blog/contact/) and receive a fixed-fee quote within 1–2 business hours.
+[Request a Free Assessment](/contacts/) and receive a fixed-fee quote within 1–2 business hours.
 
 - **Phone:** +41 44 51 52 592
 - **Email:** info@lawsupport.ch

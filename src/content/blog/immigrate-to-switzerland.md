@@ -267,7 +267,7 @@ B permit renewals for non-EU nationals require continued compliance with the ori
 
 Immigrating to Switzerland as an entrepreneur requires coordinated planning across immigration, corporate, and tax law. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

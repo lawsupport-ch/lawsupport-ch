@@ -169,7 +169,7 @@ Required documents include a valid passport (minimum 3 months beyond departure),
 
 Whether you need a short-stay Schengen visa, a D visa for employment, or guidance on the full pathway from entry to Swiss residence, Morgan Hartley and the Lawsupport team provide practical immigration support for individuals and businesses.
 
-**[Request a Free Assessment](/blog/contact/)**
+**[Request a Free Assessment](/contacts/)**
 
 **Morgan Hartley** — Senior Corporate Lawyer & Partner
 Lawsupport (Morgan Hartley Consulting)

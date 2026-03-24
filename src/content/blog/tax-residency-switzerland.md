@@ -199,7 +199,7 @@ Swiss tax residency is straightforward to establish and, with proper planning, s
 
 Lawsupport advises individuals and families relocating to Switzerland on the full tax residency process: pre-arrival structuring, advance rulings, permit applications, and annual tax return filing. We work from Zug — one of Switzerland's most tax-efficient cantons — with direct access to the cantonal authorities.
 
-[Request a Free Assessment →](/blog/contact/)
+[Request a Free Assessment →](/contacts/)
 
 ---
 
@@ -207,4 +207,4 @@ Lawsupport advises individuals and families relocating to Switzerland on the ful
 Grafenauweg 4, Zug, Switzerland
 Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 
-[Request a Free Assessment →](/blog/contact/)
+[Request a Free Assessment →](/contacts/)

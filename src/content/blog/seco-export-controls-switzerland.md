@@ -192,7 +192,7 @@ Contact SECO voluntarily. Self-disclosure of past violations, when accompanied b
 
 Export control compliance requires careful classification of goods, systematic sanctions screening, and proper permit management. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

@@ -53,7 +53,7 @@ tocItems:
 
 # Bankruptcy Switzerland (Konkurs): Corporate Insolvency Process (2026)
 
-Swiss corporate bankruptcy (*Konkurs*) is the formal insolvency procedure for insolvent Swiss AG and GmbH companies. It is administered by the cantonal bankruptcy office (*Konkursamt*) following a court order (*Konkurseröffnung*). This article explains the triggers under the [Federal Act on Debt Enforcement and Bankruptcy (SchKG)](https://www.fedlex.admin.ch/eli/cc/11/529_488_529/en){:target="_blank" rel="nofollow noopener"} and the [Code of Obligations (Art. 725 CO)](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en){:target="_blank" rel="nofollow noopener"}, the step-by-step process, creditor priority, director duties in insolvency, and alternatives to formal bankruptcy.
+Swiss corporate bankruptcy (*Konkurs*) is the formal insolvency procedure for insolvent Swiss AG and GmbH companies. It is administered by the cantonal bankruptcy office (*Konkursamt*) following a court order (*Konkurseröffnung*). This article explains the triggers under the <a href="https://www.fedlex.admin.ch/eli/cc/11/529_488_529/en" target="_blank" rel="nofollow noopener">Federal Act on Debt Enforcement and Bankruptcy (SchKG)</a> and the <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en" target="_blank" rel="nofollow noopener">Code of Obligations (Art. 725 CO)</a>, the step-by-step process, creditor priority, director duties in insolvency, and alternatives to formal bankruptcy.
 
 ---
 
@@ -93,7 +93,7 @@ A Swiss company may enter formal bankruptcy through three routes set out in Swis
 
 ## Creditor Priority: Three Classes Under Art. 219 SchKG
 
-Swiss bankruptcy law creates three statutory priority classes under [Art. 219 SchKG](https://www.fedlex.admin.ch/eli/cc/11/529_488_529/en){:target="_blank" rel="nofollow noopener"}:
+Swiss bankruptcy law creates three statutory priority classes under <a href="https://www.fedlex.admin.ch/eli/cc/11/529_488_529/en" target="_blank" rel="nofollow noopener">Art. 219 SchKG</a>:
 
 **First class (privileged):**
 - Employee salary claims — up to four months' unpaid salary per employee
@@ -230,7 +230,7 @@ Yes. A *Nachlassstundung* (provisional moratorium) under Art. 293a SchKG gives t
 
 Swiss corporate insolvency law — from Art. 725 CO overindebtedness triggers to SchKG creditor claims and director liability — is technically demanding and time-critical. Delayed action by directors is the single most common cause of personal liability in Swiss bankruptcy cases.
 
-**[Request a Free Assessment →](/blog/contact/)**
+**[Request a Free Assessment →](/contacts/)**
 
 Morgan Hartley and the Lawsupport team advise AG and GmbH directors on insolvency triggers, restructuring options, and creditor negotiations from our office in Zug.
 

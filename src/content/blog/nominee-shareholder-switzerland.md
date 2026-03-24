@@ -187,7 +187,7 @@ For information on <a href="https://www.zefix.admin.ch/en/search/entity/welcome"
 
 If you are considering a nominee shareholder arrangement or need guidance on Swiss beneficial ownership disclosure, we can assess your situation and recommend the most suitable structure. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed -- without obligation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

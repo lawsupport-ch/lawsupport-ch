@@ -193,7 +193,7 @@ Typosquatting involves registering slightly misspelled versions of well-known br
 
 If your trademark or company name has been registered as a .ch domain by a third party, Lawsupport can advise on your strongest route to recovery — whether through SWITCH-DRP, Swiss court proceedings, or direct negotiation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Morgan Hartley | Senior Corporate Lawyer & Partner**
 Lawsupport (Morgan Hartley Consulting GmbH)

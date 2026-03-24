@@ -225,7 +225,7 @@ Yes, and this is common practice. Many companies are domiciled at the same profe
 
 If you are forming a Swiss company or need a professional registered address in Zug, we can set up the domicile and handle all Commercial Register formalities. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

@@ -178,7 +178,7 @@ There is no fixed statutory minimum salary for L permits. However, the salary mu
 
 Whether you are an employer bringing a specialist to Switzerland for a short-term assignment or an individual assessing your permit options, getting the permit category right from the outset avoids costly complications later. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

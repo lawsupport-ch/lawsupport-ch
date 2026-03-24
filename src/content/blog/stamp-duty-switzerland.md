@@ -167,7 +167,7 @@ Qualifying group restructurings — mergers, demergers, and asset transfers betw
 
 Stamp duty planning is essential for capital increases, M&A transactions, and group restructurings above the CHF 1 million threshold. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

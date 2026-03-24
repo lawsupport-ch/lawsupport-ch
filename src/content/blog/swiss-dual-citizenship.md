@@ -158,7 +158,7 @@ If you lost Swiss citizenship before 1992 through voluntary acquisition of a for
 
 ---
 
-**[Request a Free Assessment](/blog/contact/)**
+**[Request a Free Assessment](/contacts/)**
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

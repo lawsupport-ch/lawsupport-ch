@@ -203,7 +203,7 @@ For next steps on relocating to Switzerland, contact **Morgan Hartley**, Senior 
 
 Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 
-[Request a Free Assessment →](/blog/contact/)
+[Request a Free Assessment →](/contacts/)
 
 Related guides: [Immigrate to Switzerland →](/blog/immigrate-to-switzerland/) | [B Permit Switzerland →](/blog/b-permit-switzerland/) | [C Permit Switzerland →](/blog/c-permit-switzerland/) | [Swiss Citizenship →](/blog/swiss-citizenship/)
 

@@ -202,7 +202,7 @@ Switzerland is a member of the Paris Convention, TRIPS, and various WIPO treatie
 
 Whether you need to register a patent, protect a trademark, or structure an IP holding company in Switzerland, getting the right protection in place early prevents costly disputes later. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

@@ -216,7 +216,7 @@ For an overview of Swiss corporate tax rates and how they apply across cantons, 
 
 Planning an international tax structure through Switzerland requires precise alignment of entity type, cantonal location, substance, and treaty access. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

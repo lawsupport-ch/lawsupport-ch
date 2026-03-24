@@ -228,7 +228,7 @@ We advise on:
 - Coordinating dual citizenship implications with your home country's legal requirements
 - Preparing and submitting naturalization applications at communal, cantonal, and federal level
 
-**[Request a Free Assessment](/blog/contact/)**
+**[Request a Free Assessment](/contacts/)**
 
 **Morgan Hartley** — Senior Corporate Lawyer & Partner
 Lawsupport (Morgan Hartley Consulting)

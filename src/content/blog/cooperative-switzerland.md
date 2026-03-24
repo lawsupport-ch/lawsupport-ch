@@ -34,13 +34,13 @@ The Swiss cooperative — *Genossenschaft* in German, *Société coopérative* i
 
 This guide sets out when it is the right choice, how it is formed, and how it differs from a GmbH or Verein.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 ---
 
 ## Legal Basis
 
-Swiss cooperatives are governed by Articles 828 to 926 of the Code of Obligations (OR), available in full on [fedlex.admin.ch](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en){:target="_blank" rel="nofollow noopener"}. The cooperative is a distinct legal entity — it is separate from its members, can own property, enter into contracts, and employ staff in its own name. It is registered in the Commercial Register and has full legal personality from the moment of registration.
+Swiss cooperatives are governed by Articles 828 to 926 of the Code of Obligations (OR), available in full on <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en" target="_blank" rel="nofollow noopener">fedlex.admin.ch</a>. The cooperative is a distinct legal entity — it is separate from its members, can own property, enter into contracts, and employ staff in its own name. It is registered in the Commercial Register and has full legal personality from the moment of registration.
 
 ---
 
@@ -75,7 +75,7 @@ Forming a cooperative in Switzerland requires:
 - **Minimum 7 members** at founding. Members can be natural persons or legal entities.
 - **Founding meeting.** Members adopt the articles of association (Statuten) at a founding general assembly. The articles must specify the cooperative's purpose, the registered office, the conditions of membership, and the governance structure.
 - **No minimum capital.** Unlike a GmbH (CHF 20,000) or AG (CHF 100,000), there is no statutory minimum capital for a cooperative. The articles must, however, provide for adequate initial funding to enable the cooperative to operate.
-- **Commercial Register registration.** The cooperative must be registered in the Commercial Register of the canton where it has its registered office. Registration by a licensed representative is required. Company searches can be verified at [zefix.ch](https://www.zefix.ch){:target="_blank" rel="nofollow noopener"}.
+- **Commercial Register registration.** The cooperative must be registered in the Commercial Register of the canton where it has its registered office. Registration by a licensed representative is required. Company searches can be verified at <a href="https://www.zefix.ch" target="_blank" rel="nofollow noopener">zefix.ch</a>.
 - **Auditor requirement.** Cooperatives with more than 300 members or that issue cooperative shares (Anteilscheine) to the public must have their accounts audited. Smaller cooperatives may qualify for the opting-out provisions.
 
 For a step-by-step overview of Swiss entity formation procedures, see [Company Formation in Switzerland](/blog/company-formation-switzerland/).
@@ -113,7 +113,7 @@ For a broader overview of Swiss corporate tax, see our [corporate tax Switzerlan
 
 ## Common Uses in Switzerland
 
-**Housing cooperatives (Wohngenossenschaften).** This is the most prevalent use of the cooperative form in Switzerland. A member purchases a share in the cooperative and obtains the right to rent an apartment at below-market rent. In Zurich, approximately 20% of the total housing stock is held by housing cooperatives. Major operators include ABZ, Familienheim-Genossenschaft, and hundreds of smaller city and neighbourhood cooperatives. The model is actively supported by cantonal and municipal policy. Data on Swiss housing stock is available from [bfs.admin.ch](https://www.bfs.admin.ch){:target="_blank" rel="nofollow noopener"}.
+**Housing cooperatives (Wohngenossenschaften).** This is the most prevalent use of the cooperative form in Switzerland. A member purchases a share in the cooperative and obtains the right to rent an apartment at below-market rent. In Zurich, approximately 20% of the total housing stock is held by housing cooperatives. Major operators include ABZ, Familienheim-Genossenschaft, and hundreds of smaller city and neighbourhood cooperatives. The model is actively supported by cantonal and municipal policy. Data on Swiss housing stock is available from <a href="https://www.bfs.admin.ch" target="_blank" rel="nofollow noopener">bfs.admin.ch</a>.
 
 **Agricultural cooperatives.** Swiss wine producers, cheese makers, and fruit growers have long used the cooperative form to pool resources for processing, storage, and marketing. The DZS (Deutschschweizer Zuckerrübenpflanzer) and numerous regional dairy cooperatives are typical examples.
 
@@ -158,7 +158,7 @@ Choosing the right entity type is a foundational decision. The cooperative is th
 
 If you are assessing whether a Genossenschaft fits your project, or if you need to form a cooperative and register it in the Swiss Commercial Register, Lawsupport's legal team works with founders and organisations at every stage of the process.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Phone:** +41 44 51 52 592
 **Email:** info@lawsupport.ch
@@ -212,4 +212,4 @@ Both are membership-based organisations with one-member-one-vote governance. The
 
 *Morgan Hartley, Senior Corporate Lawyer & Partner — Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch*
 
-*[Request a Free Assessment](/blog/contact/)*
+*[Request a Free Assessment](/contacts/)*

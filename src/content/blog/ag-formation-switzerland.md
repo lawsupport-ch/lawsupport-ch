@@ -298,7 +298,7 @@ Lawsupport (Morgan Hartley Consulting) has been forming Swiss companies for over
 
 No travel is required.
 
-[**Request a Free Assessment →**](/blog/contact/)
+[**Request a Free Assessment →**](/contacts/)
 
 - Phone: +41 44 51 52 592
 - Email: info@lawsupport.ch

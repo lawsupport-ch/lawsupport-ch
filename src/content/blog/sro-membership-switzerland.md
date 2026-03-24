@@ -302,7 +302,7 @@ The three most frequent causes of delay are: (1) an incomplete AML compliance pr
 
 Whether you need SRO membership, a FINMA licence, or both depends on your specific business model and activities. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

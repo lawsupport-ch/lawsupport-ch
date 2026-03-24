@@ -263,7 +263,7 @@ Companies must have genuine economic substance in their registered canton. Opera
 
 Lawsupport (Morgan Hartley Consulting) has assisted clients from over 40 countries with company formations in Switzerland. We advise on canton selection, legal structure, substance requirements, tax rulings, and ongoing compliance — integrating legal, tax, and [accounting](/blog/accounting-switzerland/) expertise in a single practice.
 
-**[Request a Free Assessment](/blog/contact/)**
+**[Request a Free Assessment](/contacts/)**
 
 **Morgan Hartley** — Senior Corporate Lawyer & Partner
 Lawsupport (Morgan Hartley Consulting)

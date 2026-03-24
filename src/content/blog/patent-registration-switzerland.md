@@ -222,7 +222,7 @@ For official information on Swiss patent procedures, see the <a href="https://ww
 
 If you are considering patent registration in Switzerland as part of a broader IP holding or company formation strategy, we can advise on the optimal structure. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed -- without obligation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

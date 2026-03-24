@@ -174,7 +174,7 @@ The Einzelfirma is not a separate legal entity, so it cannot be inherited as a g
 
 Whether an Einzelfirma or a GmbH is the right structure depends on your income level, liability exposure, and growth plans. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

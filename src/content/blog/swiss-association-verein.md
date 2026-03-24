@@ -174,7 +174,7 @@ Both are association structures under civil law, but Swiss Vereins do not requir
 
 Considering a Swiss Verein for your organisation, project, or crypto protocol? Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

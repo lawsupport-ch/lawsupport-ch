@@ -281,7 +281,7 @@ At Lawsupport (Morgan Hartley Consulting), we have assisted clients from more th
 - [Family reunification applications](/blog/family-reunification-switzerland/)
 - Long-term planning toward the [C permit](/blog/c-permit-switzerland/)
 
-**[Request a Free Assessment](/blog/contact/)** — we will review your specific nationality, employment or business situation, and canton preference, and outline the steps required.
+**[Request a Free Assessment](/contacts/)** — we will review your specific nationality, employment or business situation, and canton preference, and outline the steps required.
 
 ---
 

@@ -262,7 +262,7 @@ Lawsupport (Morgan Hartley Consulting) has been opening Swiss bank accounts for 
 <div class="cta-block">
   <h2>Request a Free Assessment</h2>
   <p>Tell us about your business and we will identify which Swiss banks are currently open to your profile — before any application is submitted.</p>
-  <a href="/blog/contact/" class="cta-button">Request a Free Assessment</a>
+  <a href="/contacts/" class="cta-button">Request a Free Assessment</a>
   <p class="cta-meta">Morgan Hartley | Senior Corporate Lawyer | Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch</p>
 </div>
 

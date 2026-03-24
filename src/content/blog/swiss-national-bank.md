@@ -158,7 +158,7 @@ The SNB monitors systemic risks and publishes an annual Financial Stability Repo
 
 Understanding the SNB's role is one part of operating successfully within the Swiss financial system. Whether you are opening a corporate bank account, forming a company, or structuring your Swiss operations, Morgan Hartley and the Lawsupport team provide practical guidance grounded in years of Swiss corporate and banking experience.
 
-**[Request a Free Assessment](/blog/contact/)**
+**[Request a Free Assessment](/contacts/)**
 
 **Morgan Hartley** — Senior Corporate Lawyer & Partner
 Lawsupport (Morgan Hartley Consulting)

@@ -181,7 +181,7 @@ If your gold business involves managing client assets or trading derivatives, a 
 
 Lawsupport (Morgan Hartley Consulting) advises Swiss gold trading businesses on AML compliance, SRO membership, corporate structure, and banking. We have structured financial intermediary businesses in Switzerland for clients from over 40 countries.
 
-[Request a Free Assessment](/blog/contact/) to discuss your gold trading structure.
+[Request a Free Assessment](/contacts/) to discuss your gold trading structure.
 
 - **Phone:** +41 44 51 52 592
 - **Email:** info@lawsupport.ch

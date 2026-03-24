@@ -32,7 +32,7 @@ tocItems:
 
 Switzerland levies a **cantonal capital tax** (Kapitalsteuer) on Swiss companies in addition to corporate income tax. This tax is assessed on the company's net equity (taxable capital) rather than its profits — meaning it applies even in years when the company earns no taxable income. For holding and finance structures with significant balance sheet capital, capital tax is a recurring cost that demands careful cantonal selection and structural planning.
 
-There is no federal capital tax. Rates and rules are set canton by canton under the framework of the [Federal Tax Harmonisation Act (StHG)](https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/en){:target="_blank" rel="nofollow noopener"} — specifically Articles 29–30 StHG, which establish the cantonal obligation to levy capital tax and define the permitted tax base.
+There is no federal capital tax. Rates and rules are set canton by canton under the framework of the <a href="https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/en" target="_blank" rel="nofollow noopener">Federal Tax Harmonisation Act (StHG)</a> — specifically Articles 29–30 StHG, which establish the cantonal obligation to levy capital tax and define the permitted tax base.
 
 ---
 
@@ -48,7 +48,7 @@ The key features of Swiss capital tax:
 - **Deductible** from cantonal income tax in several cantons (offset mechanism)
 - **Applies even in loss years** — there is no profit threshold
 
-The legal basis is Articles 29 and 30 of the StHG, which require cantons to tax the capital of legal entities. The [Swiss Federal Tax Administration (ESTV)](https://www.estv.admin.ch/estv/en/home.html){:target="_blank" rel="nofollow noopener"} publishes an annual cantonal tax burden comparison (the Steuerbelastungsstatistik) that includes capital tax rates.
+The legal basis is Articles 29 and 30 of the StHG, which require cantons to tax the capital of legal entities. The <a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">Swiss Federal Tax Administration (ESTV)</a> publishes an annual cantonal tax burden comparison (the Steuerbelastungsstatistik) that includes capital tax rates.
 
 ---
 
@@ -190,7 +190,7 @@ In cantons where capital tax is deductible from income tax, the net cost in prof
 
 Capital tax exposure depends on your company's domicile canton, equity structure, and whether participations qualify for the holding reduction. Lawsupport advises on cantonal selection, holding structures, and annual compliance for Swiss companies.
 
-**[Request a Free Assessment →](/blog/contact/)**
+**[Request a Free Assessment →](/contacts/)**
 
 Morgan Hartley | Senior Corporate Lawyer & Partner, Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch
 
@@ -256,9 +256,9 @@ In several cantons — including Zug — the capital tax paid is deductible from
 
 **Sources**
 
-- Federal Tax Harmonisation Act (StHG), Articles 29–30 — [fedlex.admin.ch](https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/en){:target="_blank" rel="nofollow noopener"}
-- Swiss Federal Tax Administration (ESTV) — [estv.admin.ch](https://www.estv.admin.ch/estv/en/home.html){:target="_blank" rel="nofollow noopener"}
-- Swiss Confederation — cantonal and federal tax information — [admin.ch](https://www.admin.ch/gov/en/start/documentation/media-releases.msg-id-73882.html){:target="_blank" rel="nofollow noopener"}
+- Federal Tax Harmonisation Act (StHG), Articles 29–30 — <a href="https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/en" target="_blank" rel="nofollow noopener">fedlex.admin.ch</a>
+- Swiss Federal Tax Administration (ESTV) — <a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">estv.admin.ch</a>
+- Swiss Confederation — cantonal and federal tax information — <a href="https://www.admin.ch/gov/en/start/documentation/media-releases.msg-id-73882.html" target="_blank" rel="nofollow noopener">admin.ch</a>
 
 ---
 

@@ -120,7 +120,7 @@ FINMA strictly enforces the FATF Travel Rule for crypto transactions:
 - **VASP-to-VASP transfers:** Regulated entities must only transact with other regulated VASPs (Virtual Asset Service Providers) or apply enhanced due diligence for unhosted wallet counterparts
 - **Unhosted wallets:** Transfers to/from unhosted wallets above CHF 1,000 require proof that the client controls the wallet (signed message or small test transaction)
 
-Travel Rule compliance requires implementing a protocol such as TRUST, OpenVASP, or TRP. Most Swiss crypto exchanges use third-party compliance software (Notabene, Chainalysis). The [FINMA Circular 2019/3](https://www.finma.ch/en/documentation/finma-circulars/){:target="_blank" rel="nofollow noopener"} sets out the full requirements.
+Travel Rule compliance requires implementing a protocol such as TRUST, OpenVASP, or TRP. Most Swiss crypto exchanges use third-party compliance software (Notabene, Chainalysis). The <a href="https://www.finma.ch/en/documentation/finma-circulars/" target="_blank" rel="nofollow noopener">FINMA Circular 2019/3</a> sets out the full requirements.
 
 ---
 
@@ -202,11 +202,11 @@ Zug is the preferred location. It has the lowest effective corporate tax rate in
 
 Establishing a regulated Swiss crypto exchange is a substantial undertaking — but it is one of the most credible and legally secure regulatory positions in the world. Morgan Hartley and the team at Lawsupport have been advising crypto businesses from Zug since 2013. We know FINMA's expectations, VQF's application standards, and the practical realities of launching a regulated exchange.
 
-[Request a Free Assessment](/blog/contact/) to discuss your specific licence pathway, timeline, and cost expectations.
+[Request a Free Assessment](/contacts/) to discuss your specific licence pathway, timeline, and cost expectations.
 
 **Morgan Hartley | Senior Corporate Lawyer & Partner**
 Lawsupport (Morgan Hartley Consulting GmbH)
 Grafenauweg 4, Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 
-*Further reading: [FINMA licensing Switzerland](https://www.finma.ch/en/authorisation/){:target="_blank" rel="nofollow noopener"} | [Swiss Anti-Money Laundering Act](https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/en){:target="_blank" rel="nofollow noopener"} | [FATF Travel Rule guidance](https://www.fatf-gafi.org/){:target="_blank" rel="nofollow noopener"}*
+*Further reading: <a href="https://www.finma.ch/en/authorisation/" target="_blank" rel="nofollow noopener">FINMA licensing Switzerland</a> | <a href="https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/en" target="_blank" rel="nofollow noopener">Swiss Anti-Money Laundering Act</a> | <a href="https://www.fatf-gafi.org/" target="_blank" rel="nofollow noopener">FATF Travel Rule guidance</a>*

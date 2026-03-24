@@ -216,7 +216,7 @@ Cantonal banks in internationally oriented cantons — particularly Zug and Zuri
 
 If you are a non-resident seeking a Swiss bank account for your business, we can assess your situation and outline the realistic options. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

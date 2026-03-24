@@ -216,7 +216,7 @@ Identifying whether your business requires a Swiss licence â€” and which type â€
 
 Lawsupport works with founders, CFOs, and legal teams to identify licensing requirements, prepare applications, and manage ongoing regulatory compliance across Swiss federal and cantonal frameworks.
 
-**[Request a Free Assessment](/blog/contact/)**
+**[Request a Free Assessment](/contacts/)**
 
 ---
 

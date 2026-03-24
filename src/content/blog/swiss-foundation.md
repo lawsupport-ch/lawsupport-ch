@@ -300,7 +300,7 @@ Lawsupport (Morgan Hartley Consulting) is a Zug-based legal and structuring firm
 
 We handle the complete Swiss foundation formation process — from initial structural analysis through charter drafting, notarisation, Commercial Register filing, supervisory notification, and advance tax ruling — as a single coordinated mandate.
 
-**[Request a Free Assessment](/blog/contact/)**
+**[Request a Free Assessment](/contacts/)**
 
 - **Address**: Grafenauweg 4, Zug, Switzerland
 - **Phone**: +41 44 51 52 592

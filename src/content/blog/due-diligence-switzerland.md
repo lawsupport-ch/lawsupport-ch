@@ -179,7 +179,7 @@ Under Swiss law, a buyer who could reasonably have discovered a risk during due 
 
 For Swiss M&A transactions, [company structuring advice](/blog/company-formation-switzerland/), or detailed due diligence support, contact Lawsupport directly.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Morgan Hartley | Senior Corporate Lawyer & Partner**
 Lawsupport (Morgan Hartley Consulting GmbH)

@@ -42,7 +42,7 @@ This guide covers everything you need to know about forming a company in Zurich:
 
 We are based in Zug, and we form companies in both cantons. We have no incentive to push you toward one or the other. Our job is to recommend the structure that fits your situation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 ---
 
@@ -125,7 +125,7 @@ The Zurich Commercial Register (Handelsregisteramt des Kantons Zürich) is one o
 
 **Swiss-resident director requirement.** Under Article 718 of the Swiss Code of Obligations, at least one person authorised to represent the company (typically a director) must be resident in Switzerland. This applies to both AG and GmbH formations. If you do not have a Swiss-resident co-founder or director, you will need a nominee director. We provide this service — see our [nominee director services](/blog/nominee-director-switzerland/) for details.
 
-Company entries in the register can be searched at [zefix.ch](https://www.zefix.ch){:target="_blank" rel="nofollow noopener"}, the official Swiss commercial register portal run by the [Federal Office of Justice](https://www.bj.admin.ch){:target="_blank" rel="nofollow noopener"}.
+Company entries in the register can be searched at <a href="https://www.zefix.ch" target="_blank" rel="nofollow noopener">zefix.ch</a>, the official Swiss commercial register portal run by the <a href="https://www.bj.admin.ch" target="_blank" rel="nofollow noopener">Federal Office of Justice</a>.
 
 ---
 
@@ -223,7 +223,7 @@ Be aware that corporate bank account opening in Switzerland requires full KYC do
 
 The formation process for a Zurich company is substantively identical to any Swiss formation. Here are the stages:
 
-**1. Name clearance.** Check availability against the Swiss commercial register database at [zefix.ch](https://www.zefix.ch){:target="_blank" rel="nofollow noopener"}. The name must be distinguishable from existing entries and must not be misleading about the company's activity or location.
+**1. Name clearance.** Check availability against the Swiss commercial register database at <a href="https://www.zefix.ch" target="_blank" rel="nofollow noopener">zefix.ch</a>. The name must be distinguishable from existing entries and must not be misleading about the company's activity or location.
 
 **2. KYC and due diligence.** Your formation agent or notary will collect identity documents, proof of address, and source of funds documentation for all beneficial owners and directors. This is a legal requirement under Swiss anti-money laundering law.
 
@@ -277,7 +277,7 @@ What we do:
 
 We can form your company in Zurich if that is the right choice. We can form it in Zug if that is the better option. We give an honest recommendation based on your actual situation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Email:** info@lawsupport.ch
 **Phone:** +41 44 51 52 592
@@ -329,10 +329,10 @@ In addition to corporate income tax (approximately 19.7% effective in Zurich cit
 
 ### How does company formation in Zurich compare to other European cities?
 
-Zurich is more expensive and more heavily taxed than some European locations (notably Ireland, Luxembourg, and Malta for corporate structures), but Switzerland offers advantages that offset this: political and legal stability, the Swiss franc, strong banking, and an extensive double tax treaty network. The Swiss network covers over 100 countries, including the US, UK, Germany, and most of Asia. See the [Swiss federal tax authority treaty list](https://www.estv.admin.ch){:target="_blank" rel="nofollow noopener"} for the full list.
+Zurich is more expensive and more heavily taxed than some European locations (notably Ireland, Luxembourg, and Malta for corporate structures), but Switzerland offers advantages that offset this: political and legal stability, the Swiss franc, strong banking, and an extensive double tax treaty network. The Swiss network covers over 100 countries, including the US, UK, Germany, and most of Asia. See the <a href="https://www.estv.admin.ch" target="_blank" rel="nofollow noopener">Swiss federal tax authority treaty list</a> for the full list.
 
 ---
 
 *Morgan Hartley, Senior Corporate Lawyer & Partner — Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch*
 
-*[Request a Free Assessment](/blog/contact/)*
+*[Request a Free Assessment](/contacts/)*

@@ -271,7 +271,7 @@ For authoritative information on FATCA requirements, see the <a href="https://ww
 
 If you are a US person exploring Swiss corporate banking, we can give you an honest assessment of your options based on current bank policies and your specific business profile. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed -- without obligation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

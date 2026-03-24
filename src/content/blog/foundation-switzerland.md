@@ -27,7 +27,7 @@ tocItems:
 
 # Swiss Foundation (Stiftung): Formation, Governance & Tax Status (2026)
 
-![Swiss foundation (Stiftung) — formation, governance and tax status guide](https://lawsupport.ch/images/foundation-switzerland-hero.jpg){width=1200 height=630}
+!<a href="https://lawsupport.ch/images/foundation-switzerland-hero.jpg" target="_blank" rel="nofollow noopener">Swiss foundation (Stiftung) — formation, governance and tax status guide</a>
 
 A Swiss foundation (Stiftung) is an independent legal entity created to pursue a specific purpose using dedicated assets. Unlike companies (which serve shareholders) or associations (which serve members), a foundation has no owners or members — it exists solely to fulfil the purpose declared in its charter. Switzerland has approximately 13,000 foundations, making it one of the world's most foundation-rich countries relative to population.
 
@@ -37,7 +37,7 @@ The foundation structure is used across philanthropy, employee benefits, family 
 
 ## Legal Basis
 
-![Legal basis for Swiss foundations — Swiss Civil Code and supervisory framework](https://lawsupport.ch/images/foundation-legal-basis-switzerland.jpg){width=800 height=450}
+!<a href="https://lawsupport.ch/images/foundation-legal-basis-switzerland.jpg" target="_blank" rel="nofollow noopener">Legal basis for Swiss foundations — Swiss Civil Code and supervisory framework</a>
 
 Swiss foundations are governed by Articles 80–89a of the Swiss Civil Code (ZGB) and, for certain types, the Code of Obligations. They are supervised by a federal or cantonal supervisory authority depending on their geographic scope and purpose.
 
@@ -47,7 +47,7 @@ The full text of the relevant ZGB provisions is available on <a href="https://ww
 
 ## Types of Swiss Foundations
 
-![Types of Swiss foundations — charitable, family, employee benefit, and crypto protocol](https://lawsupport.ch/images/types-of-swiss-foundations.jpg){width=800 height=450}
+!<a href="https://lawsupport.ch/images/types-of-swiss-foundations.jpg" target="_blank" rel="nofollow noopener">Types of Swiss foundations — charitable, family, employee benefit, and crypto protocol</a>
 
 **Charitable foundation (gemeinnützige Stiftung):** The most common type. Pursues a public benefit purpose — education, culture, science, poverty relief, environmental protection. Can apply for tax-exempt status.
 
@@ -63,7 +63,7 @@ The full text of the relevant ZGB provisions is available on <a href="https://ww
 
 ## Formation Requirements
 
-![Swiss foundation formation requirements — charter, notary, and Commercial Register](https://lawsupport.ch/images/foundation-formation-requirements.jpg){width=800 height=450}
+!<a href="https://lawsupport.ch/images/foundation-formation-requirements.jpg" target="_blank" rel="nofollow noopener">Swiss foundation formation requirements — charter, notary, and Commercial Register</a>
 
 A Swiss foundation requires:
 
@@ -90,7 +90,7 @@ A Swiss foundation requires:
 
 ## Governance Structure
 
-![Swiss foundation board (Stiftungsrat) — governance and responsibilities](https://lawsupport.ch/images/foundation-governance-switzerland.jpg){width=800 height=450}
+!<a href="https://lawsupport.ch/images/foundation-governance-switzerland.jpg" target="_blank" rel="nofollow noopener">Swiss foundation board (Stiftungsrat) — governance and responsibilities</a>
 
 A foundation must have a foundation board (Stiftungsrat) — the supreme governing body. A minimum of three members is recommended, though not legally mandated.
 
@@ -108,7 +108,7 @@ There are no shareholders or members to whom the board is accountable — the su
 
 ## Tax-Exempt Status
 
-![Tax exemption for Swiss charitable foundations](https://lawsupport.ch/images/foundation-tax-exemption-switzerland.jpg){width=800 height=450}
+!<a href="https://lawsupport.ch/images/foundation-tax-exemption-switzerland.jpg" target="_blank" rel="nofollow noopener">Tax exemption for Swiss charitable foundations</a>
 
 A charitable foundation pursuing a public benefit purpose can apply to the cantonal tax authority for **tax exemption** (Steuerbefreiung). Requirements:
 - Purpose is exclusively public benefit (not private enrichment)
@@ -155,7 +155,7 @@ A foundation is an irrevocable commitment of assets to a defined purpose. The ch
 
 Lawsupport advises on Swiss foundation formation, charter drafting, tax-exempt status applications, and the regulatory aspects of crypto protocol foundations.
 
-**[Request a Free Assessment](/blog/contact/)** — or reach us directly:
+**[Request a Free Assessment](/contacts/)** — or reach us directly:
 
 **Morgan Hartley, Senior Corporate Lawyer & Partner**
 Lawsupport (Morgan Hartley Consulting GmbH)

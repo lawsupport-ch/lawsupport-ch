@@ -11,7 +11,7 @@ faqItems:
   - question: "What is the difference between an ordinary audit and a limited audit in Switzerland?"
     answer: "An ordinary audit (Ordentliche Revision) under Art. 727 CO is required for large companies meeting two of three size thresholds, or for listed companies and bond issuers. It is a full statutory audit conducted by an FAOA-licensed audit expert (Revisionsexperte). A limited audit (Eingeschränkte Revision) under Art. 727a CO is a lighter-touch review conducted by an FAOA-licensed auditor (Revisor), required for mid-sized companies that do not qualify for the opt-out. The scope, cost, and auditor qualification requirements differ significantly between the two."
   - question: "Can my accountant or bookkeeper perform the statutory audit?"
-    answer: "Only if they hold a valid FAOA licence (as Revisor or Revisionsexperte) and are fully independent of your company under Art. 728 CO — meaning they are not an employee, director, shareholder, or in a close economic relationship with the company. In practice, if your accountant also maintains your books, they are likely disqualified on independence grounds. A separate, licensed, independent auditor must be appointed. You can verify FAOA registration at www.rab-asr.ch."
+    answer: "Only if they hold a valid FAOA licence (as Revisor or Revisionsexperte) and are fully independent of your company under Art. 728 CO — meaning they are not an employee, director, shareholder, or in a close economic relationship with the company. In practice, if your accountant also maintains your books, they are likely disqualified on independence grounds. A separate, licensed, independent auditor must be appointed. You can verify FAOA registration at rab-asr.ch."
   - question: "What are the thresholds for an ordinary audit in Switzerland?"
     answer: "Under Art. 727 CO, an ordinary audit is required if a company meets at least two of the following three thresholds in two consecutive financial years: more than 250 full-time equivalent employees, turnover exceeding CHF 40 million, or total assets exceeding CHF 20 million. Listed companies and those that have publicly issued bonds are subject to ordinary audit regardless of size."
   - question: "How does the opting-out process work in Switzerland?"
@@ -21,7 +21,7 @@ faqItems:
   - question: "What are the auditor independence rules under Art. 728 CO?"
     answer: "Art. 728 CO requires that the statutory auditor be independent of the company. The auditor must not be a shareholder, partner, director, officer, or employee of the audited company, and must not have any financial interest or close economic relationship that could compromise objectivity. These rules apply equally to ordinary and limited audits. A firm that provides bookkeeping or tax services to the company is typically disqualified from also acting as its auditor."
   - question: "What licences does the FAOA (RAB) issue for statutory auditors in Switzerland?"
-    answer: "The Federal Audit Oversight Authority (RAB/FAOA) issues two main licence categories: Revisionsexperte (Audit Expert), required for ordinary audits, and Revisor (Auditor), required for limited audits. Both require registration in the RAB's public register. Companies are prohibited from appointing unlicensed individuals as statutory auditors. The public register can be searched at www.rab-asr.ch."
+    answer: "The Federal Audit Oversight Authority (RAB/FAOA) issues two main licence categories: Revisionsexperte (Audit Expert), required for ordinary audits, and Revisor (Auditor), required for limited audits. Both require registration in the RAB's public register. Companies are prohibited from appointing unlicensed individuals as statutory auditors. The public register can be searched at rab-asr.ch."
   - question: "How often does the statutory audit need to take place?"
     answer: "The statutory audit is conducted once per financial year, following the close of the financial year. The auditor reviews the annual accounts and issues a report in time for the annual general meeting, at which shareholders approve the financial statements. The auditor is appointed at each AGM for the coming financial year, unless a multi-year appointment is made. Companies that have opted out are not subject to this annual cycle."
   - question: "What are the consequences of failing to appoint a statutory auditor in Switzerland?"
@@ -269,7 +269,7 @@ Grafenauweg 4, 6300 Zug, Switzerland
 Phone: [+41 44 51 52 592](tel:+41445152592)
 Email: [info@lawsupport.ch](mailto:info@lawsupport.ch)
 
-[Request a Free Assessment →](/blog/contact/)
+[Request a Free Assessment →](/contacts/)
 
 </div>
 
@@ -287,7 +287,7 @@ An ordinary audit (Ordentliche Revision) under **Art. 727 CO** is required for l
 
 ### Can my accountant or bookkeeper perform the statutory audit?
 
-Only if they hold a valid FAOA licence (as Revisor or Revisionsexperte) and are fully independent of your company under **Art. 728 CO** — meaning they are not an employee, director, shareholder, or in a close economic relationship with the company. In practice, if your accountant also maintains your books, they are likely disqualified on independence grounds. A separate, licensed, independent auditor must be appointed. You can verify FAOA registration at [www.rab-asr.ch](https://www.rab-asr.ch).
+Only if they hold a valid FAOA licence (as Revisor or Revisionsexperte) and are fully independent of your company under **Art. 728 CO** — meaning they are not an employee, director, shareholder, or in a close economic relationship with the company. In practice, if your accountant also maintains your books, they are likely disqualified on independence grounds. A separate, licensed, independent auditor must be appointed. You can verify FAOA registration at <a href="https://www.rab-asr.ch" target="_blank" rel="nofollow noopener">rab-asr.ch</a>.
 
 ### What are the thresholds for an ordinary audit in Switzerland?
 

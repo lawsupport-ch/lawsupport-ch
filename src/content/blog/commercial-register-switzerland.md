@@ -196,7 +196,7 @@ The register is straightforward once you know its logic. The filing requirements
 
 Lawsupport handles the full process: initial registration, certified extracts, director changes, purpose amendments, capital transactions, and dissolution filings across all major Swiss cantons. If you need the register to reflect your company's current structure — quickly and correctly — that is what we do.
 
-[**Request a Free Assessment**](/blog/contact/)
+[**Request a Free Assessment**](/contacts/)
 
 **Phone:** [+41 44 51 52 592](tel:+41445152592)
 **Email:** [info@lawsupport.ch](mailto:info@lawsupport.ch)

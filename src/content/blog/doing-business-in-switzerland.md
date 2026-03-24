@@ -301,7 +301,7 @@ Whether you are forming a new Swiss entity, acquiring an existing Swiss business
 
 Whether you are at the initial evaluation stage or ready to incorporate, Morgan Hartley and the Lawsupport team are available for a no-obligation consultation. We advise on entity selection, canton selection, banking, tax, and regulatory compliance — and we manage the entire formation process.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting GmbH)**
 Grafenauweg 4, Zug, Switzerland

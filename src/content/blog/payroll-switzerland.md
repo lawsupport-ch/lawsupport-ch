@@ -265,7 +265,7 @@ If a foreign company employs staff who are physically working in Switzerland, Sw
 
 Swiss payroll involves multiple registration streams, parallel remittance obligations, and a source tax system that varies by canton, permit class, and civil status. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your payroll setup and sets out the steps needed — without obligation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

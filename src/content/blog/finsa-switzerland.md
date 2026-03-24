@@ -30,7 +30,7 @@ tocItems:
 
 # Swiss FinSA (FIDLEG): Financial Services Act Obligations for 2026
 
-![Swiss Financial Services Act (FinSA/FIDLEG) — obligations and requirements for 2026](https://lawsupport.ch/images/finsa-switzerland-hero.jpg){width=1200 height=630}
+!<a href="https://lawsupport.ch/images/finsa-switzerland-hero.jpg" target="_blank" rel="nofollow noopener">Swiss Financial Services Act (FinSA/FIDLEG) — obligations and requirements for 2026</a>
 
 Switzerland's Financial Services Act — *Finanzdienstleistungsgesetz* (FinSA) in German, or FIDLEG in its German acronym — entered into force on 1 January 2020. Alongside the Financial Institutions Act (FinIA/FINIG), FinSA represents the most significant restructuring of Swiss financial regulation in decades. The twin-legislation package modernised client protection standards, standardised conduct rules across product types, and brought Switzerland meaningfully closer to the EU's MiFID II framework — while preserving the pragmatic, principle-based character that distinguishes Swiss financial law.
 
@@ -40,7 +40,7 @@ If your firm provides financial services in Switzerland or to clients located in
 
 ## What FinSA Regulates
 
-![Scope of FinSA — who is covered and what activities are regulated](https://lawsupport.ch/images/finsa-scope-switzerland.jpg){width=800 height=450}
+!<a href="https://lawsupport.ch/images/finsa-scope-switzerland.jpg" target="_blank" rel="nofollow noopener">Scope of FinSA — who is covered and what activities are regulated</a>
 
 FinSA governs the conduct of **financial service providers** (*Finanzdienstleister*) — any natural or legal person who provides financial services professionally in Switzerland or to clients in Switzerland. It also governs the production and distribution of financial instruments.
 
@@ -62,7 +62,7 @@ The <a href="https://www.fedlex.admin.ch/eli/cc/2019/758/en" target="_blank" rel
 
 ## Client Classification: Three Categories, Three Levels of Protection
 
-![FinSA client classification — retail, professional, and institutional](https://lawsupport.ch/images/finsa-client-classification.jpg){width=800 height=450}
+!<a href="https://lawsupport.ch/images/finsa-client-classification.jpg" target="_blank" rel="nofollow noopener">FinSA client classification — retail, professional, and institutional</a>
 
 FinSA's conduct obligations are not uniform. They cascade downward based on which of three client categories applies. Providers must classify clients before providing services and document the basis for that classification.
 
@@ -80,7 +80,7 @@ FinSA's conduct obligations are not uniform. They cascade downward based on whic
 
 ## Suitability and Appropriateness
 
-![Suitability and appropriateness obligations under FinSA Switzerland](https://lawsupport.ch/images/finsa-suitability-switzerland.jpg){width=800 height=450}
+!<a href="https://lawsupport.ch/images/finsa-suitability-switzerland.jpg" target="_blank" rel="nofollow noopener">Suitability and appropriateness obligations under FinSA Switzerland</a>
 
 The most operationally intensive FinSA obligations concern suitability and appropriateness assessments. The applicable standard depends on the service model.
 
@@ -96,7 +96,7 @@ For retail clients, there is no way to contract out of suitability requirements 
 
 ## Information and Disclosure Obligations
 
-![Disclosure and transparency obligations under Swiss FinSA](https://lawsupport.ch/images/finsa-disclosure-obligations.jpg){width=800 height=450}
+!<a href="https://lawsupport.ch/images/finsa-disclosure-obligations.jpg" target="_blank" rel="nofollow noopener">Disclosure and transparency obligations under Swiss FinSA</a>
 
 FinSA imposes mandatory pre-engagement disclosures. Before providing services, providers must inform retail and professional clients about:
 
@@ -113,7 +113,7 @@ FinSA imposes mandatory pre-engagement disclosures. Before providing services, p
 
 ## Prospectus Obligations
 
-![FinSA prospectus requirements for public offers of securities in Switzerland](https://lawsupport.ch/images/finsa-prospectus-switzerland.jpg){width=800 height=450}
+!<a href="https://lawsupport.ch/images/finsa-prospectus-switzerland.jpg" target="_blank" rel="nofollow noopener">FinSA prospectus requirements for public offers of securities in Switzerland</a>
 
 Public offers of securities in Switzerland — equities, bonds, derivatives — require a FINMA-approved prospectus prepared in accordance with FinSA's standards. The prospectus must contain all material information an investor needs to make an informed assessment of the issuer and the securities.
 
@@ -133,7 +133,7 @@ FINMA has approved several reviewing bodies to assess prospectuses in lieu of di
 
 ## Financial Advisor Register (*Beraterregister*)
 
-![Financial advisor registration under FinSA — Beraterregister Switzerland](https://lawsupport.ch/images/finsa-beraterregister.jpg){width=800 height=450}
+!<a href="https://lawsupport.ch/images/finsa-beraterregister.jpg" target="_blank" rel="nofollow noopener">Financial advisor registration under FinSA — Beraterregister Switzerland</a>
 
 Individual client advisors who serve retail clients must be registered in the FinSA Advisor Register (*Beraterregister*). This applies to individuals employed by or acting on behalf of financial service providers — the obligation is personal, not only institutional.
 
@@ -155,7 +155,7 @@ Every FinSA-covered financial service provider must affiliate with a FINMA-recog
 
 ## FinSA vs MiFID II: What Swiss Firms Need to Know
 
-![FinSA vs MiFID II comparison for Swiss financial service providers](https://lawsupport.ch/images/finsa-vs-mifid2.jpg){width=800 height=450}
+!<a href="https://lawsupport.ch/images/finsa-vs-mifid2.jpg" target="_blank" rel="nofollow noopener">FinSA vs MiFID II comparison for Swiss financial service providers</a>
 
 FinSA was explicitly modelled on MiFID II, and the structural similarities are substantial: client classification, suitability obligations, cost transparency, and product governance rules all have direct analogues. However, several differences matter in practice.
 
@@ -173,7 +173,7 @@ For questions around corporate structure in the context of FinSA compliance, see
 
 If you are a financial service provider — whether Swiss-based or foreign-domiciled with Swiss clients — understanding your FinSA obligations before a regulator or client raises them is the correct sequence. The rules are clear; the interpretation in specific fact patterns requires experience.
 
-**[Request a Free Assessment](/blog/contact/)** — or reach us directly:
+**[Request a Free Assessment](/contacts/)** — or reach us directly:
 
 **Morgan Hartley, Senior Corporate Lawyer & Partner**
 Lawsupport (Morgan Hartley Consulting GmbH)

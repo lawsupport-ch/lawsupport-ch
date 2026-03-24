@@ -44,13 +44,13 @@ Swiss copyright law gives creators strong, automatic protection the moment a wor
 
 This guide covers the essentials for businesses, creators, and anyone dealing with intellectual property in Switzerland.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 ---
 
 ## Legal Basis: The URG/LDA
 
-Swiss copyright is governed by the **Federal Act on Copyright and Neighbouring Rights** — the *Urheberrechtsgesetz* (URG) in German, *Loi sur le droit d'auteur* (LDA) in French. The full text is available on [fedlex.admin.ch](https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/en){:target="_blank" rel="nofollow noopener"}. The Act was substantially revised in **2020**, with reforms targeting digital piracy, platform liability, neighbouring rights for press publishers, and extended collective licensing for out-of-commerce works. These amendments brought Swiss law materially closer to the EU's Digital Single Market Directive without full harmonisation.
+Swiss copyright is governed by the **Federal Act on Copyright and Neighbouring Rights** — the *Urheberrechtsgesetz* (URG) in German, *Loi sur le droit d'auteur* (LDA) in French. The full text is available on <a href="https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/en" target="_blank" rel="nofollow noopener">fedlex.admin.ch</a>. The Act was substantially revised in **2020**, with reforms targeting digital piracy, platform liability, neighbouring rights for press publishers, and extended collective licensing for out-of-commerce works. These amendments brought Swiss law materially closer to the EU's Digital Single Market Directive without full harmonisation.
 
 ---
 
@@ -213,7 +213,7 @@ The 2020 revision introduced three significant changes:
 
 If you need advice on copyright ownership, assignment agreements, enforcement action, or employment and freelance contracts under Swiss law, Lawsupport's IP and commercial law team advises clients from Zug and across Switzerland.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Phone:** +41 44 51 52 592
 **Email:** info@lawsupport.ch
@@ -278,4 +278,4 @@ For software developers, the Art. 17 URG rule automatically transfers economic r
 
 *Morgan Hartley, Senior Corporate Lawyer & Partner — Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch*
 
-*[Request a Free Assessment](/blog/contact/)*
+*[Request a Free Assessment](/contacts/)*

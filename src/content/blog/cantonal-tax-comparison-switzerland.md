@@ -229,9 +229,9 @@ These regimes, combined with Switzerland's [tax incentives framework](/blog/swis
 
 Switzerland is unusual globally in that its cantons compete actively for taxpayers. Federal law imposes minimum standards (including the STAF reforms) but cantons can cut rates and offer legal incentives to attract businesses and residents.
 
-This competition has driven average effective CIT rates across Swiss cantons from approximately 20–25% in 2008 to 11–16% in most low-tax cantons by 2026. The [Federal Tax Administration (ESTV)](https://www.estv.admin.ch){:target="_blank" rel="nofollow noopener"} publishes annual tax burden statistics that track this across cantons and communes.
+This competition has driven average effective CIT rates across Swiss cantons from approximately 20–25% in 2008 to 11–16% in most low-tax cantons by 2026. The <a href="https://www.estv.admin.ch" target="_blank" rel="nofollow noopener">Federal Tax Administration (ESTV)</a> publishes annual tax burden statistics that track this across cantons and communes.
 
-The [Federal Statistical Office (BFS)](https://www.bfs.admin.ch){:target="_blank" rel="nofollow noopener"} publishes the Fiscal Equalisation data showing how the federal government redistributes revenue from high-revenue cantons (Zurich, Geneva, Basel) to lower-revenue cantons — meaning the system functions as a whole even as cantons compete on rates.
+The <a href="https://www.bfs.admin.ch" target="_blank" rel="nofollow noopener">Federal Statistical Office (BFS)</a> publishes the Fiscal Equalisation data showing how the federal government redistributes revenue from high-revenue cantons (Zurich, Geneva, Basel) to lower-revenue cantons — meaning the system functions as a whole even as cantons compete on rates.
 
 ---
 
@@ -246,7 +246,7 @@ A company can change its canton of domicile. The process involves:
 
 Hidden reserves built up in the old canton may be subject to a departure tax under cantonal rules. The step-up mechanism introduced under STAF applies in reverse — accrued gains may be taxable. Professional advice before any relocation is essential, particularly where the company holds significant IP, real estate, or investment assets.
 
-For individuals, changing tax domicile requires establishing genuine residence in the new canton. A notional change of address without actual habitual presence is not accepted by Swiss cantonal tax authorities, and the [Swiss Federal Tax Administration](https://www.admin.ch){:target="_blank" rel="nofollow noopener"} maintains active oversight of such arrangements.
+For individuals, changing tax domicile requires establishing genuine residence in the new canton. A notional change of address without actual habitual presence is not accepted by Swiss cantonal tax authorities, and the <a href="https://www.admin.ch" target="_blank" rel="nofollow noopener">Swiss Federal Tax Administration</a> maintains active oversight of such arrangements.
 
 ---
 
@@ -304,7 +304,7 @@ Choosing the right canton for your company or personal tax domicile requires ana
 
 **Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, advises on cantonal tax planning from the firm's Zug office.**
 
-[Request a Free Assessment →](/blog/contact/)
+[Request a Free Assessment →](/contacts/)
 
 Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, Zug, Switzerland | +41 44 51 52 592 | info@lawsupport.ch
 

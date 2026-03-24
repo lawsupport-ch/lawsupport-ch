@@ -160,7 +160,7 @@ The transaction is void under civil law — the land register entry is deleted, 
 
 If you are a foreign national considering property purchase in Switzerland, understanding your Lex Koller position before making offers avoids wasted time and legal costs. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

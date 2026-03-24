@@ -42,7 +42,7 @@ Switzerland's DLT Trading Facility licence is created by **Articles 73a–73e of
 
 The DLT Act also amended the Swiss Code of Obligations (CO) to introduce **ledger-based securities** (*Registerwertrechte*) under Art. 973d OR. These are traditional securities — shares, bonds, structured products, derivatives — that are issued and transferred on a DLT-based register rather than through a conventional central securities depository. Legally, ledger-based securities are equivalent to book-entry securities. They are the asset class that a DLT Trading Facility is designed to trade.
 
-FINMA's supervisory framework for DLT Trading Facilities sits within its existing financial market infrastructure regulation, but with rules calibrated specifically to distributed ledger-based systems. The [full text of the DLT Act is available on Fedlex](https://www.fedlex.admin.ch/eli/fga/2020/2208/de){:target="_blank" rel="nofollow noopener"}.
+FINMA's supervisory framework for DLT Trading Facilities sits within its existing financial market infrastructure regulation, but with rules calibrated specifically to distributed ledger-based systems. The <a href="https://www.fedlex.admin.ch/eli/fga/2020/2208/de" target="_blank" rel="nofollow noopener">full text of the DLT Act is available on Fedlex</a>.
 
 ---
 
@@ -238,11 +238,11 @@ A DLT Trading Facility licence is a major regulatory undertaking. The minimum ca
 
 Lawsupport (Morgan Hartley Consulting GmbH) advises clients on the full licensing process: from initial assessment of whether the DLT Trading Facility is the right licence category, through application preparation, FINMA engagement, and post-licensing compliance. We work with operators across the digital asset and traditional financial services sectors from our base in Zug.
 
-[Request a Free Assessment](/blog/contact/) to discuss your specific licensing situation, timeline, and how the DLT Trading Facility fits alongside other Swiss financial licences.
+[Request a Free Assessment](/contacts/) to discuss your specific licensing situation, timeline, and how the DLT Trading Facility fits alongside other Swiss financial licences.
 
 **Morgan Hartley | Senior Corporate Lawyer & Partner**
 Lawsupport (Morgan Hartley Consulting GmbH)
 Grafenauweg 4, Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 
-*Further reading: [FINMA — DLT Trading Facility overview](https://www.finma.ch/en/authorisation/){:target="_blank" rel="nofollow noopener"} | [DLT Act full text on Fedlex](https://www.fedlex.admin.ch/eli/fga/2020/2208/de){:target="_blank" rel="nofollow noopener"} | [SECO — Swiss financial market regulation](https://www.seco.admin.ch/){:target="_blank" rel="nofollow noopener"}*
+*Further reading: <a href="https://www.finma.ch/en/authorisation/" target="_blank" rel="nofollow noopener">FINMA — DLT Trading Facility overview</a> | <a href="https://www.fedlex.admin.ch/eli/fga/2020/2208/de" target="_blank" rel="nofollow noopener">DLT Act full text on Fedlex</a> | <a href="https://www.seco.admin.ch/" target="_blank" rel="nofollow noopener">SECO — Swiss financial market regulation</a>*

@@ -198,7 +198,7 @@ We advise foreign companies and entrepreneurs on every aspect of establishing an
 
 If you need a lease reviewed, a [registered address](/blog/registered-address-switzerland/) while you get started, or guidance on the right location for your Swiss operations, contact us directly.
 
-[**Request a Free Assessment**](/blog/contact/)
+[**Request a Free Assessment**](/contacts/)
 
 **Phone:** [+41 44 51 52 592](tel:+41445152592)
 **Email:** [info@lawsupport.ch](mailto:info@lawsupport.ch)

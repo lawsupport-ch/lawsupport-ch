@@ -227,7 +227,7 @@ A change of canton requires deregistration from the current cantonal register an
 
 Whether you need a [commercial register Switzerland](/blog/commercial-register-switzerland/) filing, certified extracts for banking or legal transactions, or guidance on registering a new Swiss entity, Lawsupport handles the full process across all major cantons. We work with the Zug, Zurich, Geneva, and other cantonal offices regularly and understand the practical requirements at each step.
 
-[**Request a Free Assessment**](/blog/contact/)
+[**Request a Free Assessment**](/contacts/)
 
 **Phone:** [+41 44 51 52 592](tel:+41445152592)
 **Email:** [info@lawsupport.ch](mailto:info@lawsupport.ch)

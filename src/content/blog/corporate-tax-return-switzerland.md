@@ -130,7 +130,7 @@ We prepare and file corporate tax returns for Zug-based companies as part of our
 **Morgan Hartley** | Senior Corporate Lawyer & Partner, Lawsupport (Morgan Hartley Consulting GmbH)
 Phone: +41 44 51 52 592 | Email: info@lawsupport.ch | Address: Grafenauweg 4, Zug
 
-[Request a Free Assessment →](/blog/contact/)
+[Request a Free Assessment →](/contacts/)
 [Corporate tax rates by canton →](/blog/corporate-tax-switzerland/)
 [Accounting services Switzerland →](/blog/accounting-switzerland/)
 [VAT registration Switzerland →](/blog/vat-registration-switzerland/)

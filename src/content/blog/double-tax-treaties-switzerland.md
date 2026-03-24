@@ -237,7 +237,7 @@ Lawsupport (Morgan Hartley Consulting GmbH), based in Zug, advises international
 
 If you are assessing a Swiss structure, expanding into Switzerland, or reviewing an existing arrangement in light of BEPS changes, contact us for a focused advisory consultation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Morgan Hartley | Senior Corporate Lawyer & Partner**
 Lawsupport (Morgan Hartley Consulting GmbH)

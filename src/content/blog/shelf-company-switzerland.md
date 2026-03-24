@@ -223,7 +223,7 @@ The original directors resign as part of the acquisition process. Their resignat
 
 Whether a shelf company or fresh formation is right for your situation depends on your timeline, budget, and specific requirements. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

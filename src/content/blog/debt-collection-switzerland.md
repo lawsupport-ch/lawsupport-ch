@@ -98,9 +98,9 @@ When bankruptcy is opened by the court, the Konkursamt (bankruptcy office) takes
    - Class 3: All other unsecured creditors
 4. **Liquidation** — assets sold at public auction or by private sale
 5. **Distribution** — proceeds distributed in priority order
-6. **Closure** — company deleted from the [Commercial Register (Handelsregister)](https://www.zefix.ch/){:target="_blank" rel="nofollow noopener"}
+6. **Closure** — company deleted from the <a href="https://www.zefix.ch/" target="_blank" rel="nofollow noopener">Commercial Register (Handelsregister)</a>
 
-The [Federal Act on Debt Enforcement and Bankruptcy (SchKG)](https://www.fedlex.admin.ch/eli/cc/11/529_488_529/en){:target="_blank" rel="nofollow noopener"} governs every stage of this process.
+The <a href="https://www.fedlex.admin.ch/eli/cc/11/529_488_529/en" target="_blank" rel="nofollow noopener">Federal Act on Debt Enforcement and Bankruptcy (SchKG)</a> governs every stage of this process.
 
 ---
 
@@ -174,11 +174,11 @@ The company files a Rechtsvorschlag (objection) within 10 days. This suspends th
 
 Whether you are pursuing a claim through the SchKG or defending against a Betreibung, the procedural steps and timing require careful attention. Morgan Hartley and the team at Lawsupport advise creditors and companies across Switzerland on enforcement, corporate insolvency, and commercial disputes.
 
-[Request a Free Assessment](/blog/contact/) to discuss your specific situation.
+[Request a Free Assessment](/contacts/) to discuss your specific situation.
 
 **Morgan Hartley | Senior Corporate Lawyer & Partner**
 Lawsupport (Morgan Hartley Consulting GmbH)
 Grafenauweg 4, Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 
-*Further reading: [SchKG full text on Fedlex](https://www.fedlex.admin.ch/eli/cc/11/529_488_529/en){:target="_blank" rel="nofollow noopener"} | [Zefix Commercial Register](https://www.zefix.ch/){:target="_blank" rel="nofollow noopener"} | [SECO business and company law resources](https://www.seco.admin.ch/){:target="_blank" rel="nofollow noopener"}*
+*Further reading: <a href="https://www.fedlex.admin.ch/eli/cc/11/529_488_529/en" target="_blank" rel="nofollow noopener">SchKG full text on Fedlex</a> | <a href="https://www.zefix.ch/" target="_blank" rel="nofollow noopener">Zefix Commercial Register</a> | <a href="https://www.seco.admin.ch/" target="_blank" rel="nofollow noopener">SECO business and company law resources</a>*

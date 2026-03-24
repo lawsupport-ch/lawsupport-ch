@@ -41,7 +41,7 @@ Switzerland does not grant citizenship based on where you were born. It grants c
 
 Many people reading this page are in exactly that situation. They discovered a Swiss parent or grandparent in their family history and began asking questions. This article gives you the legal framework, the critical deadlines, and a clear explanation of what steps are required to verify and assert your Swiss citizenship by descent.
 
-If you believe you may have a claim, contact [Lawsupport](/blog/contact/) before doing anything else. The rules are generation-specific and fact-sensitive. Acting on incorrect assumptions — or missing a deadline — can permanently extinguish a valid claim.
+If you believe you may have a claim, contact [Lawsupport](/contacts/) before doing anything else. The rules are generation-specific and fact-sensitive. Acting on incorrect assumptions — or missing a deadline — can permanently extinguish a valid claim.
 
 ---
 
@@ -278,7 +278,7 @@ If you have a Swiss parent or ancestor and are uncertain about your citizenship 
 
 Lawsupport provides a focused assessment of citizenship by descent claims. We review your family history, identify the applicable rules, and tell you clearly where you stand. If a claim exists and can be pursued, we manage the process from start to finish.
 
-**[Request a Free Assessment](/blog/contact/)**
+**[Request a Free Assessment](/contacts/)**
 
 - Phone: +41 44 51 52 592
 - Email: info@lawsupport.ch

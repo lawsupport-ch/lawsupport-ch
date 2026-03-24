@@ -57,7 +57,6 @@ keywords:
   - swiss audit requirements
 cluster: Tax, Accounting & Audit
 type: pillar
-canonical: https://www.lawsupport.ch/accounting-tax-switzerland/
 og_title: "Accounting Services Switzerland: Bookkeeping, Audit & Tax (2026)"
 og_description: "Swiss accounting obligations explained: double-entry bookkeeping, annual accounts, audit thresholds, VAT and corporate tax for AG and GmbH companies."
 og_image: /images/accounting-services-switzerland-hero.jpg
@@ -341,7 +340,7 @@ Whether you are setting up a new Swiss company, taking over accounting from a pr
 
 Speak with Morgan Hartley and the Lawsupport team about your Swiss accounting obligations. We offer a complimentary initial assessment for new accounting clients — no commitment required.
 
-**[Request a Free Assessment](/blog/contact/)**
+**[Request a Free Assessment](/contacts/)**
 
 - **Phone:** +41 44 51 52 592
 - **Email:** info@lawsupport.ch

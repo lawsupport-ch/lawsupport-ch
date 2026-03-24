@@ -221,7 +221,7 @@ Lawsupport (Morgan Hartley Consulting) has assisted clients from over 40 countri
 
 If Swiss citizenship is part of your long-term plan, the right time to begin structuring your approach is now — not in year nine.
 
-**[Request a Free Assessment](/blog/contact/)**
+**[Request a Free Assessment](/contacts/)**
 
 **Contact Lawsupport**
 Grafenauweg 4, 6300 Zug, Switzerland

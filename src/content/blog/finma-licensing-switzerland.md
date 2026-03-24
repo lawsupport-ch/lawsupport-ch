@@ -30,7 +30,7 @@ tocItems:
 
 # FINMA Licensing Switzerland: Banking, Crypto & Securities (2026)
 
-![FINMA licensing Switzerland overview — banking, crypto and securities regulation in Zug](https://lawsupport.ch/images/finma-licensing-switzerland-hero.jpg){width=1200 height=630}
+!<a href="https://lawsupport.ch/images/finma-licensing-switzerland-hero.jpg" target="_blank" rel="nofollow noopener">FINMA licensing Switzerland overview — banking, crypto and securities regulation in Zug</a>
 
 Switzerland's Financial Market Supervisory Authority (FINMA) is one of the world's most respected financial regulators. For crypto businesses, fintech companies, fund managers, and financial service providers, Switzerland offers a clear licensing pathway — but the requirements are demanding and the process takes 3–24 months depending on the license type. This guide explains every major FINMA license category in 2026, including capital requirements, timelines, and the practical steps required to obtain authorisation.
 
@@ -40,7 +40,7 @@ Whether you are structuring a crypto exchange, establishing an asset management 
 
 ## What Is FINMA?
 
-![FINMA — Switzerland's Financial Market Supervisory Authority](https://lawsupport.ch/images/what-is-finma.jpg){width=800 height=450}
+!<a href="https://lawsupport.ch/images/what-is-finma.jpg" target="_blank" rel="nofollow noopener">FINMA — Switzerland's Financial Market Supervisory Authority</a>
 
 FINMA — the Financial Market Supervisory Authority — was established under the **Financial Market Supervision Act (FINMAG)**, which came into force on 1 January 2009. It replaced three predecessor agencies and consolidated Swiss financial supervision under a single independent authority.
 
@@ -64,7 +64,7 @@ Official guidance is published directly by <a href="https://www.finma.ch/en/" ta
 
 ## Banking License (Banklizenz)
 
-![Swiss banking license requirements and process](https://lawsupport.ch/images/banking-license-switzerland.jpg){width=800 height=450}
+!<a href="https://lawsupport.ch/images/banking-license-switzerland.jpg" target="_blank" rel="nofollow noopener">Swiss banking license requirements and process</a>
 
 ### When Is a Banking License Required?
 
@@ -108,7 +108,7 @@ For many crypto exchange and payment institution clients, the Art. 1b Fintech Li
 
 ## Securities Dealer and Portfolio Manager License (FinIA)
 
-![FinIA license categories in Switzerland](https://lawsupport.ch/images/finia-license-switzerland.jpg){width=800 height=450}
+!<a href="https://lawsupport.ch/images/finia-license-switzerland.jpg" target="_blank" rel="nofollow noopener">FinIA license categories in Switzerland</a>
 
 The **Financial Institutions Act (FinIA)**, which entered into force on 1 January 2020, replaced and consolidated the licensing framework for non-bank financial institutions. It introduced a cascade of license categories with proportionate requirements, covering a range of activities from independent asset managers to full securities firms.
 
@@ -163,7 +163,7 @@ For foreign-domiciled asset managers wishing to serve Swiss clients, a Swiss sub
 
 ## Crypto and VASP Licensing Under AMLA
 
-![Crypto and VASP regulation in Switzerland under AMLA](https://lawsupport.ch/images/crypto-vasp-switzerland.jpg){width=800 height=450}
+!<a href="https://lawsupport.ch/images/crypto-vasp-switzerland.jpg" target="_blank" rel="nofollow noopener">Crypto and VASP regulation in Switzerland under AMLA</a>
 
 Switzerland was an early mover in establishing a clear legal framework for virtual asset service providers. The country implemented the Financial Action Task Force (FATF) travel rule requirements through amendments to the **Anti-Money Laundering Act (AMLA)**, which defines VASPs as financial intermediaries subject to the full scope of Swiss AML obligations.
 
@@ -218,7 +218,7 @@ For companies asking whether they need to register in Switzerland specifically, 
 
 ## Fund Management and Collective Investment Schemes
 
-![Fund management and CISA framework in Switzerland](https://lawsupport.ch/images/fund-management-switzerland.jpg){width=800 height=450}
+!<a href="https://lawsupport.ch/images/fund-management-switzerland.jpg" target="_blank" rel="nofollow noopener">Fund management and CISA framework in Switzerland</a>
 
 ### The CISA Framework
 
@@ -242,7 +242,7 @@ The L-QIF is now the default recommendation for alternative fund managers — in
 
 ## The FINMA Authorisation Process: Step by Step
 
-![FINMA authorization process step by step](https://lawsupport.ch/images/finma-authorization-process.jpg){width=800 height=450}
+!<a href="https://lawsupport.ch/images/finma-authorization-process.jpg" target="_blank" rel="nofollow noopener">FINMA authorization process step by step</a>
 
 Obtaining a FINMA license is a structured process. Understanding each phase prevents costly delays and sets realistic expectations with shareholders, banking partners, and clients.
 
@@ -296,7 +296,7 @@ Failure to notify FINMA of material changes is one of the most common compliance
 
 ## Real-World Case Study 1: Crypto Exchange SRO Membership in 5 Months
 
-![Crypto exchange SRO membership case study — Zug, Switzerland](https://lawsupport.ch/images/crypto-exchange-sro-case-study.jpg){width=800 height=450}
+!<a href="https://lawsupport.ch/images/crypto-exchange-sro-case-study.jpg" target="_blank" rel="nofollow noopener">Crypto exchange SRO membership case study — Zug, Switzerland</a>
 
 A crypto exchange incorporated as a Swiss AG in Zug engaged Lawsupport at the point of incorporation. The client operated a spot exchange with fiat on-ramp and off-ramp services, handling Bitcoin, Ether, and a range of ERC-20 tokens. Their activities clearly constituted financial intermediary activity under AMLA, requiring SRO membership before commencing operations.
 
@@ -337,7 +337,7 @@ The client has since opened a Swiss bank account — a process that is materiall
 
 ## Crypto Valley and Switzerland's Competitive Advantage
 
-![Crypto Valley Zug — Switzerland's blockchain hub](https://lawsupport.ch/images/crypto-valley-zug.jpg){width=800 height=450}
+!<a href="https://lawsupport.ch/images/crypto-valley-zug.jpg" target="_blank" rel="nofollow noopener">Crypto Valley Zug — Switzerland's blockchain hub</a>
 
 Zug's emergence as "Crypto Valley" was not accidental. It reflects a combination of Switzerland's technology-neutral regulatory philosophy, its stable legal system, favourable [corporate tax environment](/blog/corporate-tax-switzerland/), and a concentration of talent, capital, and institutional knowledge that is difficult to replicate.
 
@@ -371,7 +371,7 @@ Every FINMA application we support is built around the specific business model, 
 
 If you are considering a FINMA license in 2026, the first step is a structured pre-engagement review of your business model and proposed structure. You may also find it useful to review our pages on [company formation in Switzerland](/blog/company-formation-switzerland/), the [Swiss corporate bank account](/blog/corporate-bank-account-switzerland/), and [AG formation](/blog/ag-formation-switzerland/) before your consultation.
 
-**[Request a Free Assessment](/blog/contact/)** — or contact us directly:
+**[Request a Free Assessment](/contacts/)** — or contact us directly:
 
 **Morgan Hartley, Senior Corporate Lawyer & Partner**
 Lawsupport (Morgan Hartley Consulting GmbH)

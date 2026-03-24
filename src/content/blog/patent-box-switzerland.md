@@ -303,7 +303,7 @@ The cantonal tax authority expects detailed records of: the patent registration 
 
 If your company holds patents or patent-equivalent IP rights, we can assess whether the Swiss Patent Box applies to your situation and estimate the potential tax saving. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed -- without obligation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

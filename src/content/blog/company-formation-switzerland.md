@@ -32,7 +32,7 @@ Switzerland registers over 45,000 new companies every year, yet fewer than 15% o
 
 If you are researching company formation in Switzerland, you already know the destination is right. What you need is a clear, legally accurate map of the route. This guide gives you exactly that: every entity type, every step in the registration process, all relevant costs, and the canton comparison you need to make a sound decision.
 
-Choosing between AG and GmbH? [Talk to a Swiss lawyer](/blog/contact/) — 1-2 hour response time.
+Choosing between AG and GmbH? [Talk to a Swiss lawyer](/contacts/) — 1-2 hour response time.
 
 ---
 
@@ -282,7 +282,7 @@ The full statutory framework for Swiss company formation is available via the <a
 
 ## Start Your Swiss Company Formation
 
-[**Request a Free Assessment**](/blog/contact/)
+[**Request a Free Assessment**](/contacts/)
 
 Register your Swiss company in 2-4 weeks. Contact Lawsupport:
 

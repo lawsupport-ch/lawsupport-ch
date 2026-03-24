@@ -153,7 +153,7 @@ Ongoing annual costs include the resident representative fee (CHF 1,500–2,500)
 
 Morgan Hartley and the Lawsupport team register Swiss branch offices for foreign companies in Zug, Zurich, and other cantons. We handle document apostille coordination, Commercial Register filing, and provide Swiss-resident representative services for existing branches.
 
-**[Request a Free Assessment →](/blog/contact/)**
+**[Request a Free Assessment →](/contacts/)**
 
 Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch
 

@@ -170,7 +170,7 @@ The legitimate routes available to wealthy foreign nationals in Switzerland — 
 
 If you are considering relocating to Switzerland as a high-net-worth individual, the starting point is a clear picture of what Swiss law actually allows — not what offshore advisers or citizenship-industry websites claim.
 
-**[Request a Free Assessment](/blog/contact/)**
+**[Request a Free Assessment](/contacts/)**
 
 ---
 

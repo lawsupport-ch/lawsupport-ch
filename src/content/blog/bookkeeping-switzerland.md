@@ -56,7 +56,7 @@ tocItems:
 
 # Bookkeeping Switzerland: Obligations & Requirements for Swiss Companies (2026)
 
-Every company operating in Switzerland must maintain proper accounting records. There is no exception for foreign-owned entities, dormant companies, or startups with minimal activity. If your company is registered in the Swiss commercial register, your bookkeeping obligations under [Articles 957 to 963 of the Swiss Code of Obligations (CO)](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_32/chap_1){:target="_blank" rel="nofollow noopener"} apply from the date of incorporation.
+Every company operating in Switzerland must maintain proper accounting records. There is no exception for foreign-owned entities, dormant companies, or startups with minimal activity. If your company is registered in the Swiss commercial register, your bookkeeping obligations under <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_5/tit_32/chap_1" target="_blank" rel="nofollow noopener">Articles 957 to 963 of the Swiss Code of Obligations (CO)</a> apply from the date of incorporation.
 
 This page sets out what Swiss law requires, what records you must keep, how long you must keep them, and what practical issues arise most frequently — particularly for foreign-owned Swiss companies.
 
@@ -135,7 +135,7 @@ Records may be kept in paper or in a recognised electronic format, provided the 
 
 ## Digital Bookkeeping in Switzerland
 
-Swiss law permits fully digital bookkeeping, provided the system meets the conditions set out in Art. 958f(3) CO and the [Swiss Federal Council's Ordinance on the keeping of books of account](https://www.admin.ch/gov/en/start.html){:target="_blank" rel="nofollow noopener"}. The key requirements are:
+Swiss law permits fully digital bookkeeping, provided the system meets the conditions set out in Art. 958f(3) CO and the <a href="https://www.admin.ch/gov/en/start.html" target="_blank" rel="nofollow noopener">Swiss Federal Council's Ordinance on the keeping of books of account</a>. The key requirements are:
 
 - **Authenticity:** Records must be protected against unauthorised alteration. An audit trail must exist for every change.
 - **Integrity:** The bookkeeping system must ensure that records cannot be deleted or modified without a trace.
@@ -198,7 +198,7 @@ If you are incorporating a new company, discuss the optimal financial year with 
 
 **Currency:** Accounts may be maintained in any currency material to the company's operations. However, for Swiss tax purposes, financial statements must be presented in **Swiss francs (CHF)**. If your functional currency is USD or EUR, you will need to apply a consistent conversion methodology (typically the year-end rate for balance sheet items and average rate for income statement items) and document this approach.
 
-The [Swiss Federal Tax Administration (ESTV)](https://www.estv.admin.ch/estv/en/home.html){:target="_blank" rel="nofollow noopener"} expects CHF-denominated tax accounts, and cantonal tax authorities follow the same requirement.
+The <a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">Swiss Federal Tax Administration (ESTV)</a> expects CHF-denominated tax accounts, and cantonal tax authorities follow the same requirement.
 
 ---
 
@@ -305,7 +305,7 @@ If you are setting up a new Swiss company or taking over an existing one, we can
 
 Unsure whether your Swiss company's bookkeeping meets Art. 957–963 CO requirements? We review your current accounting setup and identify gaps — at no charge.
 
-[Request a Free Assessment](/blog/contact/){: .btn .btn-primary}
+[Request a Free Assessment](/contacts/){: .btn .btn-primary}
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

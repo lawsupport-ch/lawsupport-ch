@@ -226,7 +226,7 @@ Yes, in certain circumstances. Under the Swiss Merger Act, formal mergers requir
 
 Planning a merger, acquisition, or restructuring involving a Swiss company? Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed -- without obligation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

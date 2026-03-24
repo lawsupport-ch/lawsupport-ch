@@ -209,7 +209,7 @@ Grafenauweg 4, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592
 Email: info@lawsupport.ch
 
-[Request a Free Assessment](/blog/contact/) — we respond to all banking enquiries within one business day.
+[Request a Free Assessment](/contacts/) — we respond to all banking enquiries within one business day.
 
 ---
 

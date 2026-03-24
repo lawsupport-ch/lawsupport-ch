@@ -266,7 +266,7 @@ Switzerland levies a **securities transfer tax (Umsatzabgabe)** on the transfer 
 
 Buying a company in Switzerland involves legal, tax, and regulatory considerations that interact in ways that are not always obvious until a deal is already advanced. Lawsupport advises buyers at every stage of the acquisition process — from initial target assessment and LOI negotiation through to SPA drafting, regulatory filings, and post-closing integration.
 
-**[Request a Free Assessment](/blog/contact/)** — Morgan Hartley and the Lawsupport team, Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch
+**[Request a Free Assessment](/contacts/)** — Morgan Hartley and the Lawsupport team, Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch
 
 ---
 

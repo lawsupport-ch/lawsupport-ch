@@ -197,4 +197,4 @@ Phone: [+41 44 51 52 592](tel:+41445152592)
 Email: [info@lawsupport.ch](mailto:info@lawsupport.ch)
 Web: [lawsupport.ch](https://lawsupport.ch)
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)

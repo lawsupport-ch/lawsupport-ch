@@ -49,7 +49,7 @@ tocItems:
 
 # Capital Deposit Account Switzerland (Kapitaleinzahlungskonto): How It Works (2026)
 
-Every Swiss AG and GmbH must deposit its initial share capital into a blocked bank account — a Kapitaleinzahlungskonto — before the company can be registered with the Commercial Register. Under [Article 633 CO](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en){:target="_blank" rel="nofollow noopener"} (AG) and Article 777c CO (GmbH), this blocked account holds the share capital for the duration of the incorporation process. Once the Commercial Register issues the registration entry, the funds are released to the company's operating account. This guide explains the process, which banks open capital deposit accounts, the required documents, costs, and realistic timelines.
+Every Swiss AG and GmbH must deposit its initial share capital into a blocked bank account — a Kapitaleinzahlungskonto — before the company can be registered with the Commercial Register. Under <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en" target="_blank" rel="nofollow noopener">Article 633 CO</a> (AG) and Article 777c CO (GmbH), this blocked account holds the share capital for the duration of the incorporation process. Once the Commercial Register issues the registration entry, the funds are released to the company's operating account. This guide explains the process, which banks open capital deposit accounts, the required documents, costs, and realistic timelines.
 
 ---
 
@@ -166,7 +166,7 @@ Swiss law permits AG and GmbH share capital to be denominated in a foreign curre
 
 **What is a Kapitaleinzahlungskonto?**
 
-A Kapitaleinzahlungskonto is a blocked bank account opened in the name of the company-to-be-formed, used exclusively to hold share capital during the Swiss incorporation process. The legal basis is [Article 633 CO](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en){:target="_blank" rel="nofollow noopener"} for the AG and Article 777c CO for the GmbH. The account and its blocking are released automatically once the company is registered in the Commercial Register.
+A Kapitaleinzahlungskonto is a blocked bank account opened in the name of the company-to-be-formed, used exclusively to hold share capital during the Swiss incorporation process. The legal basis is <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en" target="_blank" rel="nofollow noopener">Article 633 CO</a> for the AG and Article 777c CO for the GmbH. The account and its blocking are released automatically once the company is registered in the Commercial Register.
 
 **Which Swiss banks offer capital deposit accounts?**
 
@@ -218,7 +218,7 @@ Yes. We coordinate bank selection, prepare the full KYC documentation package, l
 
 Opening a Swiss capital deposit account as a foreign founder involves KYC requirements that vary by bank, nationality, and ownership structure. Morgan Hartley and the Lawsupport team have managed 1,000+ Swiss formations and know which banks process international applications efficiently.
 
-**[Request a Free Assessment →](/blog/contact/)**
+**[Request a Free Assessment →](/contacts/)**
 
 Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, Zug, Switzerland | [+41 44 51 52 592](tel:+41445152592) | [info@lawsupport.ch](mailto:info@lawsupport.ch)
 

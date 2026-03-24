@@ -241,7 +241,7 @@ For EU/EEA nationals working up to 90 days per year in Switzerland, no residence
 
 Whether you are an EU national relocating to Switzerland for employment, a self-employed professional establishing a Swiss presence, or an employer hiring EU staff, Morgan Hartley and the Lawsupport team provide practical guidance on permits, registration, and compliance.
 
-**[Request a Free Assessment](/blog/contact/)**
+**[Request a Free Assessment](/contacts/)**
 
 **Morgan Hartley** — Senior Corporate Lawyer & Partner
 Lawsupport (Morgan Hartley Consulting)

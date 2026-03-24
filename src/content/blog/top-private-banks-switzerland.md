@@ -210,7 +210,7 @@ Portfolio transfers are standard. The receiving Swiss bank coordinates the in-sp
 
 Choosing the right Swiss private bank depends on your wealth level, investment objectives, and personal circumstances. Lawsupport advises clients on the practical aspects of Swiss banking relationships — including entity structuring, tax residency planning, and coordinating with the bank's onboarding team.
 
-[Request a Free Assessment →](/blog/contact/)
+[Request a Free Assessment →](/contacts/)
 
 ---
 
@@ -218,4 +218,4 @@ Choosing the right Swiss private bank depends on your wealth level, investment o
 Grafenauweg 4, Zug, Switzerland
 Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 
-[Request a Free Assessment →](/blog/contact/)
+[Request a Free Assessment →](/contacts/)

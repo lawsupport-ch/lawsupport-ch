@@ -302,7 +302,7 @@ A Swiss bank account at a FINMA-licenced institution provides esisuisse deposit 
 
 Need help opening a Swiss bank account as a foreigner or for your Swiss company? Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

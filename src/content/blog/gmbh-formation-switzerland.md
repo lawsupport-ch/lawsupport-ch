@@ -244,7 +244,7 @@ Lawsupport (Morgan Hartley Consulting) has handled GmbH formation Switzerland fo
 
 No travel is required. Founders can authorise us by power of attorney to act on their behalf throughout the process.
 
-[Request a Free Assessment](/blog/contact/) and receive a fixed-fee quote within 1–2 business hours.
+[Request a Free Assessment](/contacts/) and receive a fixed-fee quote within 1–2 business hours.
 
 - **Phone:** +41 44 51 52 592
 - **Email:** info@lawsupport.ch

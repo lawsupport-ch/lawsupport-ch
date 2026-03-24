@@ -221,7 +221,7 @@ Whether you are preparing a trademark filing, monitoring competitor registration
 
 Lawsupport advises on [trademark registration in Switzerland](/blog/trademark-registration-switzerland/), clearance searches, opposition proceedings, and broader [IP protection strategies](/blog/ip-protection-switzerland/). We work with IGE/IPI regularly and can assess your position before you file.
 
-For a direct conversation about your trademark situation, [request a free assessment](/blog/contact/).
+For a direct conversation about your trademark situation, [request a free assessment](/contacts/).
 
 ---
 
@@ -229,4 +229,4 @@ For a direct conversation about your trademark situation, [request a free assess
 Grafenauweg 4, Zug, Switzerland
 Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 
-[Request a Free Assessment →](/blog/contact/)
+[Request a Free Assessment →](/contacts/)

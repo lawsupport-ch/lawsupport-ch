@@ -193,7 +193,7 @@ For related topics, see:
 - [Holding companies in Switzerland](/blog/holding-company-switzerland/)
 - [AG formation Switzerland](/blog/ag-formation-switzerland/)
 
-[Request a Free Assessment](/blog/contact/) — Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
+[Request a Free Assessment](/contacts/) — Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 
 ---
 

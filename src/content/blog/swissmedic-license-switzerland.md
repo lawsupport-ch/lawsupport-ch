@@ -221,7 +221,7 @@ Swissmedic licensing is a specialist regulatory and legal task. The dossier requ
 
 Lawsupport works with pharmaceutical companies, medical device manufacturers, and biotech startups to structure Swissmedic applications, advise on entity setup, and coordinate with regulatory affairs specialists. We also advise on the broader [Swiss business licensing](/blog/swiss-business-licenses/) framework that governs market entry across regulated sectors.
 
-For a direct conversation about your product and the applicable authorisation pathway, [request a free assessment](/blog/contact/).
+For a direct conversation about your product and the applicable authorisation pathway, [request a free assessment](/contacts/).
 
 ---
 
@@ -229,4 +229,4 @@ For a direct conversation about your product and the applicable authorisation pa
 Grafenauweg 4, Zug, Switzerland
 Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 
-[Request a Free Assessment →](/blog/contact/)
+[Request a Free Assessment →](/contacts/)

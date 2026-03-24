@@ -190,7 +190,7 @@ Zug is the established hub, with the largest concentration of blockchain compani
 
 Structuring a token issuance in Switzerland requires precise analysis at the intersection of financial market law, corporate law, and tax. Misclassification of a token — or an incorrectly structured issuance entity — creates regulatory exposure that is expensive to unwind after the fact. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

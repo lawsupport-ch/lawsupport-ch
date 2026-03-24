@@ -327,7 +327,7 @@ We assist with:
 - Governance structure design (dual control, CRO/compliance functions)
 - Ongoing regulatory counsel post-licence
 
-**[Request a Free Assessment](/blog/contact/)** — we will assess your structure, identify gaps, and give you an honest view of your path to authorisation.
+**[Request a Free Assessment](/contacts/)** — we will assess your structure, identify gaps, and give you an honest view of your path to authorisation.
 
 ---
 

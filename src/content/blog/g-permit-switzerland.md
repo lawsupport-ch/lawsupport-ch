@@ -33,7 +33,7 @@ tocItems:
 
 # G Permit Switzerland (Cross-Border Commuter): Requirements & Rules (2026)
 
-![Swiss G permit (Grenzgängerausweis) — cross-border commuter requirements and rules](https://lawsupport.ch/images/g-permit-switzerland-hero.jpg){width=1200 height=630}
+!<a href="https://lawsupport.ch/images/g-permit-switzerland-hero.jpg" target="_blank" rel="nofollow noopener">Swiss G permit (Grenzgängerausweis) — cross-border commuter requirements and rules</a>
 
 The Swiss G permit — officially the Grenzgängerausweis — is one of the most commonly held Swiss residence categories, yet one of the most misunderstood. It is not a general work authorisation for EU nationals who want to work in Switzerland. It is a specific legal status for cross-border commuters: people who live in a recognised border zone of a neighbouring country and travel into Switzerland to work, returning home at least once a week.
 
@@ -43,7 +43,7 @@ If you live in Germany, France, Italy, Austria, or Liechtenstein and have a job 
 
 ## What Is the G Permit (Grenzgängerausweis)?
 
-![Swiss G permit — Grenzgängerausweis legal basis and issuing authority](https://lawsupport.ch/images/g-permit-grenzgaengerausweis.jpg){width=800 height=450}
+!<a href="https://lawsupport.ch/images/g-permit-grenzgaengerausweis.jpg" target="_blank" rel="nofollow noopener">Swiss G permit — Grenzgängerausweis legal basis and issuing authority</a>
 
 The G permit is a Swiss residence category established under the Agreement on the Free Movement of Persons (AFMP) between Switzerland and the EU. It authorises EU/EFTA nationals who are resident in a bordering country to work in Switzerland without establishing Swiss residence.
 
@@ -57,7 +57,7 @@ The official framework governing cross-border commuters is described on the <a h
 
 ## Who Qualifies for the G Permit?
 
-![G permit eligibility requirements — four conditions for cross-border commuters](https://lawsupport.ch/images/g-permit-eligibility.jpg){width=800 height=450}
+!<a href="https://lawsupport.ch/images/g-permit-eligibility.jpg" target="_blank" rel="nofollow noopener">G permit eligibility requirements — four conditions for cross-border commuters</a>
 
 Four conditions must all be met:
 
@@ -83,7 +83,7 @@ The requirement runs both ways: the worker's home address must be in the border 
 
 ## Permit Duration and Renewal
 
-![G permit duration and renewal — 5-year and 1-year categories](https://lawsupport.ch/images/g-permit-duration.jpg){width=800 height=450}
+!<a href="https://lawsupport.ch/images/g-permit-duration.jpg" target="_blank" rel="nofollow noopener">G permit duration and renewal — 5-year and 1-year categories</a>
 
 - **Open-ended employment contract:** G permit valid for 5 years, renewable indefinitely provided the employment and residence conditions continue to be met.
 - **Fixed-term employment contract:** G permit valid for the contract duration, up to 1 year, renewable if the contract is extended.
@@ -110,7 +110,7 @@ Processing times range from a few days to several weeks depending on the canton.
 
 ## Tax Implications: Where It Gets Complex
 
-![G permit tax treatment — Germany, France, and Italy regimes compared](https://lawsupport.ch/images/g-permit-tax-implications.jpg){width=800 height=450}
+!<a href="https://lawsupport.ch/images/g-permit-tax-implications.jpg" target="_blank" rel="nofollow noopener">G permit tax treatment — Germany, France, and Italy regimes compared</a>
 
 The G permit's tax treatment is one of its most practically significant features — and the most jurisdiction-specific. Three distinct regimes apply depending on which country the worker lives in.
 
@@ -146,7 +146,7 @@ G permit holders are not Swiss residents, but they do have a legal Swiss status.
 
 ## G Permit vs. B Permit: Key Differences
 
-![G permit versus B permit — comparison table for Swiss work authorisation](https://lawsupport.ch/images/g-permit-vs-b-permit.jpg){width=800 height=450}
+!<a href="https://lawsupport.ch/images/g-permit-vs-b-permit.jpg" target="_blank" rel="nofollow noopener">G permit versus B permit — comparison table for Swiss work authorisation</a>
 
 | Feature | G Permit (Grenzgängerausweis) | B Permit (Aufenthaltsbewilligung) |
 |---|---|---|
@@ -175,7 +175,7 @@ The G permit is procedurally lighter than many Swiss residence categories, but t
 
 Lawsupport assists individuals and employers with G permit applications, cross-border commuter tax analysis, and the full range of Swiss immigration and residence matters.
 
-**[Request a Free Assessment](/blog/contact/)** — or reach us directly:
+**[Request a Free Assessment](/contacts/)** — or reach us directly:
 
 **Morgan Hartley, Senior Corporate Lawyer & Partner**
 Lawsupport (Morgan Hartley Consulting GmbH)

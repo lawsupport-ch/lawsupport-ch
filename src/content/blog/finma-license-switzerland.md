@@ -236,7 +236,7 @@ Morgan Hartley and the Lawsupport team have advised clients on FINMA licensing, 
 - Email: info@lawsupport.ch
 - Address: Grafenauweg 4, 6300 Zug, Switzerland
 
-[Request a Free Assessment →](/blog/contact/)
+[Request a Free Assessment →](/contacts/)
 
 ---
 

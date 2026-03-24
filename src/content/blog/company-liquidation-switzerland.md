@@ -26,9 +26,9 @@ tocItems:
 
 Liquidating a Swiss company — whether an AG or GmbH — is a structured legal process governed by the Swiss Code of Obligations (CO/OR). It cannot be done informally: the company must be formally dissolved, its assets distributed or applied to liabilities, and its entry deleted from the Commercial Register. This guide explains the process, realistic timelines, and what to expect in terms of costs.
 
-Swiss law on dissolution is set out in the [Federal Act on the Amendment of the Swiss Civil Code (Part Five: The Code of Obligations)](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en){:target="_blank" rel="nofollow noopener"}, Articles 736–771 (AG) and 821–821b (GmbH).
+Swiss law on dissolution is set out in the <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en" target="_blank" rel="nofollow noopener">Federal Act on the Amendment of the Swiss Civil Code (Part Five: The Code of Obligations)</a>, Articles 736–771 (AG) and 821–821b (GmbH).
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 ---
 
@@ -53,7 +53,7 @@ The shareholders (for a GmbH) or the general meeting (for an AG) must pass a res
 The dissolution resolution must be authenticated by a Swiss notary. A notarial deed of dissolution is prepared and executed — founders need not appear personally if a power of attorney is granted to a Swiss representative.
 
 **Step 3 — Commercial Register notification**
-The notarial deed is filed with the Commercial Register. The register publishes a **call to creditors** (Schuldenruf) in the Swiss Official Gazette of Commerce (SHAB). This publication invites all creditors of the company to file their claims within the public creditor notice period. The SHAB is published at [shab.ch](https://www.shab.ch){:target="_blank" rel="nofollow noopener"}.
+The notarial deed is filed with the Commercial Register. The register publishes a **call to creditors** (Schuldenruf) in the Swiss Official Gazette of Commerce (SHAB). This publication invites all creditors of the company to file their claims within the public creditor notice period. The SHAB is published at <a href="https://www.shab.ch" target="_blank" rel="nofollow noopener">shab.ch</a>.
 
 **Creditor notice period: minimum 3 months.** The company cannot be finally deleted from the register until this waiting period has elapsed and any claims have been settled. This is the main reason Swiss liquidation takes at least 3–4 months even in straightforward cases.
 
@@ -127,7 +127,7 @@ Before proceeding with full liquidation, it is worth considering whether a diffe
 
 **Dormancy.** A company can be put into a dormant state — ceasing active trading while maintaining its registration and filing obligations — without liquidating. This preserves the entity for future use but involves ongoing minimal costs. Note that annual tax returns must still be filed.
 
-If you are uncertain which route is appropriate, [request a free assessment from Lawsupport](/blog/contact/) before starting any process.
+If you are uncertain which route is appropriate, [request a free assessment from Lawsupport](/contacts/) before starting any process.
 
 ---
 
@@ -139,7 +139,7 @@ We also advise on the optimal approach before the process begins — including w
 
 See our overview of the full lifecycle of a Swiss company: from [company formation in Switzerland](/blog/company-formation-switzerland/) through to dissolution.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Phone:** +41 44 51 52 592
 **Email:** info@lawsupport.ch
@@ -201,4 +201,4 @@ For certain simple structures, where the company has no creditors, no outstandin
 
 *Morgan Hartley, Senior Corporate Lawyer & Partner — Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch*
 
-*[Request a Free Assessment](/blog/contact/)*
+*[Request a Free Assessment](/contacts/)*

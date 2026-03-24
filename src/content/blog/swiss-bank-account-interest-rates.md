@@ -211,7 +211,7 @@ For balances above CHF 1 million, some banks offer negotiated rates slightly abo
 
 Need guidance on Swiss banking options and treasury management for your company? Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

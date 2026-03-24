@@ -192,7 +192,7 @@ A Swiss bank account is not formally required for the permit application itself,
 
 Swiss immigration for business owners sits at the intersection of company law, immigration law, and cantonal discretion. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

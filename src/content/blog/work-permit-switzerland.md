@@ -230,7 +230,7 @@ Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 
 We handle employer-sponsored work permit applications, intracompany transfer filings, self-employment permit dossiers, and the [company formation](/blog/company-formation-switzerland/) mandates that accompany them — coordinated in parallel to minimise total lead time.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 ---
 

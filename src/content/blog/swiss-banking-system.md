@@ -209,7 +209,7 @@ Swiss banks offer current accounts (Privatkonto), savings accounts (Sparkonto), 
 
 Whether you need a corporate account at a cantonal bank or guidance on Swiss banking structures for your business, we can help. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

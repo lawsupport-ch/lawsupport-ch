@@ -150,7 +150,7 @@ International JVs frequently include arbitration clauses — typically specifyin
 
 Structuring a joint venture in Switzerland requires careful alignment of governance, tax, and exit provisions from the outset. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

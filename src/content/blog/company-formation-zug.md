@@ -34,7 +34,7 @@ Zug is Switzerland's lowest-tax canton, with an effective combined corporate tax
 
 We are a Zug-based Swiss corporate law firm. We have formed more than 1,000 companies in this canton since 2007. The numbers and timelines in this article reflect real experience with the Zug Commercial Register, Zug notaries, and the Zug cantonal tax authority — not approximations sourced from secondary materials.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 ---
 
@@ -127,7 +127,7 @@ These timelines assume complete documentation. Incomplete filings — missing no
 Handelsregisteramt Zug
 Postfach
 6301 Zug, Switzerland
-Online: [hr.zg.ch](https://www.hr.zg.ch){:target="_blank" rel="nofollow noopener"}
+Online: <a href="https://www.hr.zg.ch" target="_blank" rel="nofollow noopener">hr.zg.ch</a>
 
 **Registration fees (approximate, 2026):**
 
@@ -217,7 +217,7 @@ Here is the practical sequence for a standard GmbH or AG formation with Lawsuppo
 3. **Power of attorney:** We draft the PoA and provide authentication instructions for your jurisdiction. The PoA authorises us to execute the formation steps on your behalf.
 4. **Share capital deposit:** You transfer the share capital (CHF 20,000 for GmbH, CHF 100,000 for AG minimum) to a Swiss bank's escrow/formation account. We can introduce you to banking relationships. [Guide to Swiss bank account opening](/blog/swiss-bank-account/)
 5. **Notarisation:** We coordinate with a Zug notary to execute the articles of association and formation deed. No founder attendance required if PoA is in order.
-6. **Commercial Register filing:** We submit the complete formation dossier to the Handelsregisteramt Zug. Company searches can be verified at [zefix.ch](https://www.zefix.ch){:target="_blank" rel="nofollow noopener"}.
+6. **Commercial Register filing:** We submit the complete formation dossier to the Handelsregisteramt Zug. Company searches can be verified at <a href="https://www.zefix.ch" target="_blank" rel="nofollow noopener">zefix.ch</a>.
 7. **Registration:** The Register issues the Handelsregisterauszug (extract) confirming the company's existence. This is the official incorporation document.
 8. **Post-formation:** Bank account activation, MWST (VAT) registration if applicable, tax registration with the Steuerverwaltung Zug, and any required regulatory notifications.
 
@@ -253,7 +253,7 @@ We advise on the full lifecycle of a Zug company: formation, structuring, tax ru
 
 If you are considering company formation in Zug, contact us for a direct conversation. We will tell you what the structure costs, how long it takes, and whether Zug is genuinely the right canton for your specific situation. If it is not, we will tell you that too.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Phone:** +41 44 51 52 592
 **Email:** info@lawsupport.ch
@@ -317,4 +317,4 @@ After registration, the company's bank account is activated, VAT registration sh
 
 *Morgan Hartley, Senior Corporate Lawyer & Partner — Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch*
 
-*For company formation enquiries, [Request a Free Assessment](/blog/contact/).*
+*For company formation enquiries, [Request a Free Assessment](/contacts/).*

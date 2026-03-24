@@ -287,7 +287,7 @@ All Swiss crypto businesses that are AMLA financial intermediaries — whether r
 
 **Transaction monitoring:** Automated screening of transactions against sanctions lists (SECO, OFAC, EU) and ongoing monitoring for unusual transaction patterns. Blockchain analytics tools (Chainalysis, Elliptic, TRM Labs) are standard for crypto businesses.
 
-**Travel Rule compliance:** Under AMLA and the FinTech/Banking regulations, Swiss crypto businesses must implement the FATF Travel Rule — sharing originator and beneficiary information for transfers above CHF 1,000. This requires either a Travel Rule protocol integration (TRUST, OpenVASP, TRP) or documented bilateral arrangements with counterparties. See [FINMA's AML guidance on FATF compliance](https://www.finma.ch/en/supervision/banks-and-securities-firms/topics/anti-money-laundering/){:target="_blank" rel="nofollow noopener"} for the full requirements.
+**Travel Rule compliance:** Under AMLA and the FinTech/Banking regulations, Swiss crypto businesses must implement the FATF Travel Rule — sharing originator and beneficiary information for transfers above CHF 1,000. This requires either a Travel Rule protocol integration (TRUST, OpenVASP, TRP) or documented bilateral arrangements with counterparties. See <a href="https://www.finma.ch/en/supervision/banks-and-securities-firms/topics/anti-money-laundering/" target="_blank" rel="nofollow noopener">FINMA's AML guidance on FATF compliance</a> for the full requirements.
 
 **Suspicious Activity Reporting (SAR):** Filing suspicious activity reports with the Money Laundering Reporting Office Switzerland (MROS) when there are grounds to suspect money laundering, terrorist financing, or sanctions violations. SARs must be filed promptly and may require freezing the relevant assets.
 
@@ -406,14 +406,14 @@ We provide:
 
 If you are planning a crypto business in Switzerland, the most important first step is a structured regulatory assessment — not an application. Before you spend money on incorporation or compliance infrastructure, you need to know exactly what licence pathway applies to your specific business model.
 
-[Request a Free Assessment](/blog/contact/) and we will respond within one business day.
+[Request a Free Assessment](/contacts/) and we will respond within one business day.
 
 **Morgan Hartley | Senior Corporate Lawyer & Partner**
 Lawsupport (Morgan Hartley Consulting GmbH)
 Grafenauweg 4, 6300 Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 
-*Further reading: [FINMA authorisation overview](https://www.finma.ch/en/authorisation/){:target="_blank" rel="nofollow noopener"} | [Swiss Anti-Money Laundering Act](https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/en){:target="_blank" rel="nofollow noopener"} | [Zug Crypto Valley Association](https://cryptovalley.swiss/){:target="_blank" rel="nofollow noopener"}*
+*Further reading: <a href="https://www.finma.ch/en/authorisation/" target="_blank" rel="nofollow noopener">FINMA authorisation overview</a> | <a href="https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/en" target="_blank" rel="nofollow noopener">Swiss Anti-Money Laundering Act</a> | <a href="https://cryptovalley.swiss/" target="_blank" rel="nofollow noopener">Zug Crypto Valley Association</a>*
 
 ---
 

@@ -151,7 +151,7 @@ Swiss nominee arrangements are governed by the <a href="https://www.fedlex.admin
 
 Whether you need a Swiss-resident nominee director, a registered address in Zug, or a nominee shareholder arrangement, we can set out the options that apply to your situation. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed -- without obligation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

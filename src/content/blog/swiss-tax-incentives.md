@@ -208,7 +208,7 @@ Yes. The 2020 STAF reform abolished the old cantonal ring-fencing regimes (holdi
 
 The interaction between IP box, R&D super-deduction, NID, and the relief cap requires precise structuring to achieve optimal results. Morgan Hartley and the Lawsupport team advise on cantonal selection, incentive qualification, advance tax rulings, and ongoing compliance for IP-intensive and R&D-driven businesses.
 
-**[Request a Free Assessment](/blog/contact/)**
+**[Request a Free Assessment](/contacts/)**
 
 **Morgan Hartley** — Senior Corporate Lawyer & Partner
 Lawsupport (Morgan Hartley Consulting)

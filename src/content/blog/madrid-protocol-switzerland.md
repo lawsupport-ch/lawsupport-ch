@@ -180,7 +180,7 @@ The foundation is a solid Swiss trademark. Get that right first. For broader gui
 
 Planning to register your trademark internationally from Switzerland? Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed -- without obligation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

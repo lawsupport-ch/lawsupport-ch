@@ -257,7 +257,7 @@ At Lawsupport, we advise clients on the full [Swiss immigration](/blog/immigrate
 
 If you are approaching your C permit eligibility date, have questions about whether your residence qualifies, or want to understand how the C permit fits into your long-term plans in Switzerland, we are ready to advise.
 
-[**Request a Free Assessment**](/blog/contact/)
+[**Request a Free Assessment**](/contacts/)
 
 **Contact us:**
 

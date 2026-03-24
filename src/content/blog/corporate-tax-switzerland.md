@@ -236,7 +236,7 @@ To speak with a Swiss law and tax adviser:
 **Email:** info@lawsupport.ch
 **Address:** Grafenauweg 4, Zug, Switzerland
 
-[Request a Free Assessment →](/blog/contact/)
+[Request a Free Assessment →](/contacts/)
 
 ---
 

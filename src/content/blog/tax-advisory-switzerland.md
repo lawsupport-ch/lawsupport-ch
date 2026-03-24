@@ -129,10 +129,10 @@ No. SMEs and startups benefit significantly from tax advisory, particularly at f
 
 ## Contact Lawsupport for Tax Advisory: Request a Free Assessment
 
-If you are forming a Swiss company, restructuring an existing Swiss entity, planning a dividend distribution, or seeking advice on IP Box eligibility, [request a free assessment](/blog/contact/).
+If you are forming a Swiss company, restructuring an existing Swiss entity, planning a dividend distribution, or seeking advice on IP Box eligibility, [request a free assessment](/contacts/).
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 
-[Request a Free Assessment →](/blog/contact/)
+[Request a Free Assessment →](/contacts/)

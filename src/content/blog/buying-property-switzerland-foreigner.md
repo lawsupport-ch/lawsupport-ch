@@ -279,7 +279,7 @@ Lex Koller compliance analysis, structuring a commercial property acquisition, c
 
 Morgan Hartley and the Lawsupport team advise international clients on property acquisition structures, BewG compliance, Swiss company formation for commercial property holding, mortgage and financing structures, and the full transaction process from due diligence to Grundbuch entry. We work from Zug — Switzerland's most favourable canton for both corporate and individual clients — and advise across all cantons.
 
-**[Request a Free Assessment](/blog/contact/)** to discuss your property acquisition with a senior Swiss corporate lawyer.
+**[Request a Free Assessment](/contacts/)** to discuss your property acquisition with a senior Swiss corporate lawyer.
 
 ---
 

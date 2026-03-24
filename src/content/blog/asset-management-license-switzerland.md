@@ -63,7 +63,7 @@ For a broader overview of the Swiss regulatory licensing framework, see our guid
 
 Before 1 January 2020, independent asset managers operated in a light-touch environment. Affiliation with a self-regulatory organisation (SRO) under the Anti-Money Laundering Act was the primary requirement. FINMA had no direct supervisory role over individual portfolio managers.
 
-The [Financial Services Act (FinSA) and Financial Institutions Act (FinIA)](https://www.fedlex.admin.ch/eli/cc/2019/758/en){:target="_blank" rel="nofollow noopener"} ended that era. Switzerland brought its regulatory framework into closer alignment with EU standards — particularly MiFID II — and replaced the SRO-only model with a full prudential licensing regime administered by FINMA.
+The <a href="https://www.fedlex.admin.ch/eli/cc/2019/758/en" target="_blank" rel="nofollow noopener">Financial Services Act (FinSA) and Financial Institutions Act (FinIA)</a> ended that era. Switzerland brought its regulatory framework into closer alignment with EU standards — particularly MiFID II — and replaced the SRO-only model with a full prudential licensing regime administered by FINMA.
 
 The practical consequence: anyone who was already managing third-party assets before 2020 had a transition window and needed to submit a FinIA licence application to FINMA by 31 December 2022. New entrants must be licensed before commencing activity.
 
@@ -135,7 +135,7 @@ Applicants must either carry **professional indemnity (PI) insurance** that cove
 
 ### 5. Affiliation with a Supervisory Organisation (Aufsichtsorganisation / AO)
 
-This is the structural feature of FinIA that surprises many first-time applicants. FINMA does not directly supervise the day-to-day compliance of individual asset managers. Instead, licensed managers must affiliate with a **[FINMA-recognised Supervisory Organisation (AO)](https://www.finma.ch/en/authorisation/independent-asset-managers/){:target="_blank" rel="nofollow noopener"}**, which conducts ongoing prudential oversight on FINMA's behalf (Art. 43a FINMASA).
+This is the structural feature of FinIA that surprises many first-time applicants. FINMA does not directly supervise the day-to-day compliance of individual asset managers. Instead, licensed managers must affiliate with a **<a href="https://www.finma.ch/en/authorisation/independent-asset-managers/" target="_blank" rel="nofollow noopener">FINMA-recognised Supervisory Organisation (AO)</a>**, which conducts ongoing prudential oversight on FINMA's behalf (Art. 43a FINMASA).
 
 Recognised AOs currently operating in Switzerland include:
 
@@ -202,7 +202,7 @@ Operating without a licence while under review is not permitted for new entrants
 Several issues are live in the current market:
 
 - **Consolidation among AOs**: the recognised AO market has consolidated since 2022. Confirm availability and onboarding timelines with your preferred AO early in the process.
-- **FINMA enforcement posture**: [FINMA has taken enforcement action](https://www.finma.ch/en/enforcement/){:target="_blank" rel="nofollow noopener"} against firms that continued operating post-2022 without a submitted application. Unlicensed activity risks prohibition orders and publication on FINMA's enforcement database.
+- **FINMA enforcement posture**: <a href="https://www.finma.ch/en/enforcement/" target="_blank" rel="nofollow noopener">FINMA has taken enforcement action</a> against firms that continued operating post-2022 without a submitted application. Unlicensed activity risks prohibition orders and publication on FINMA's enforcement database.
 - **Cross-border implications**: Swiss-licensed asset managers serving EU-resident clients face EU-side restrictions. The Swiss-EU financial services relationship remains governed by equivalence assessments, not the passporting framework. Take legal advice on the EU dimension before structuring the client base.
 - **Outsourcing rules**: FinIA permits operational outsourcing (e.g., compliance, risk management, IT), but the manager retains full regulatory responsibility for outsourced functions. FINMA requires written outsourcing agreements and ongoing oversight of third-party providers.
 
@@ -271,4 +271,4 @@ Lawsupport (Morgan Hartley Consulting)
 Grafenauweg 4, Zug, Switzerland
 +41 44 51 52 592 · info@lawsupport.ch
 
-[Request a Free Assessment](/blog/contact/){: .cta-button}
+[Request a Free Assessment](/contacts/){: .cta-button}

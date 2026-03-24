@@ -44,7 +44,7 @@ For a complete picture of [IP protection in Switzerland](/blog/ip-protection-swi
 
 Design registration in Switzerland is governed by the **Federal Act on the Protection of Designs (Designgesetz / DesG; Loi sur les designs / LDes)**. The Swiss Federal Institute of Intellectual Property (IGE/IPI) administers the registration process. Unlike patents, design rights are not examined for substantive validity at the time of filing — registration is formal and relatively fast, but it is your responsibility to ensure the design meets the statutory requirements.
 
-The [IPI's official design registration guidelines](https://www.ige.ch/en/protecting-ip/designs/registering-a-design.html){:target="_blank" rel="nofollow noopener"} set out the full application requirements in detail.
+The <a href="https://www.ige.ch/en/protecting-ip/designs/registering-a-design.html" target="_blank" rel="nofollow noopener">IPI's official design registration guidelines</a> set out the full application requirements in detail.
 
 ---
 
@@ -141,7 +141,7 @@ Renewal must be requested and the renewal fee paid before the end of each five-y
 
 ## International Protection: The Hague System
 
-Switzerland participates in the **Hague System for the International Registration of Industrial Designs**, administered by [WIPO](https://www.wipo.int/hague/en/){:target="_blank" rel="nofollow noopener"}. A single international application filed through WIPO can extend design protection to **90+ countries simultaneously**, using one language, one set of fees, and one administrative procedure.
+Switzerland participates in the **Hague System for the International Registration of Industrial Designs**, administered by <a href="https://www.wipo.int/hague/en/" target="_blank" rel="nofollow noopener">WIPO</a>. A single international application filed through WIPO can extend design protection to **90+ countries simultaneously**, using one language, one set of fees, and one administrative procedure.
 
 For Swiss companies selling products internationally, the Hague System is the efficient route to multi-jurisdictional coverage. It does not bypass local substantive law — each designated country applies its own validity criteria — but it centralises administration significantly.
 
@@ -183,7 +183,7 @@ Registered design rights are enforced through **civil proceedings before the can
 - **Destruction or surrender** of infringing goods
 - **Customs border measures** — Swiss customs can detain suspected counterfeit goods at the border on application by the rights holder
 
-The absence of a registration makes enforcement substantially harder. An unregistered design may attract some protection under unfair competition law, but a registered right provides a clear starting point for any enforcement action. Contact [Swiss Customs](https://www.bazg.admin.ch/bazg/en/home.html){:target="_blank" rel="nofollow noopener"} for border measure procedures.
+The absence of a registration makes enforcement substantially harder. An unregistered design may attract some protection under unfair competition law, but a registered right provides a clear starting point for any enforcement action. Contact <a href="https://www.bazg.admin.ch/bazg/en/home.html" target="_blank" rel="nofollow noopener">Swiss Customs</a> for border measure procedures.
 
 See also our guides on [trademark registration in Switzerland](/blog/trademark-registration-switzerland/) for the full picture of registered IP rights available to Swiss businesses.
 
@@ -237,11 +237,11 @@ The IPI conducts only a formal examination, so registration is typically complet
 
 Design registration is administratively straightforward, but the commercial strategy around it — what to register, when to file, how to combine design rights with copyright and trademark protection, and how to enforce — requires legal judgment. Lawsupport advises businesses across Switzerland on intellectual property registration and enforcement, from single-design filings to coordinated international IP strategies via the Hague and Madrid systems.
 
-[Request a Free Assessment](/blog/contact/) to discuss your design portfolio and the protection that makes sense for your business.
+[Request a Free Assessment](/contacts/) to discuss your design portfolio and the protection that makes sense for your business.
 
 **Morgan Hartley | Senior Corporate Lawyer & Partner**
 Lawsupport (Morgan Hartley Consulting GmbH)
 Grafenauweg 4, Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 
-*Further reading: [IPI design registration (ige.ch)](https://www.ige.ch/en/protecting-ip/designs.html){:target="_blank" rel="nofollow noopener"} | [WIPO Hague System](https://www.wipo.int/hague/en/){:target="_blank" rel="nofollow noopener"} | [Fedlex Swiss Design Act](https://www.fedlex.admin.ch/eli/cc/1994/1328_1328_1328/en){:target="_blank" rel="nofollow noopener"}*
+*Further reading: <a href="https://www.ige.ch/en/protecting-ip/designs.html" target="_blank" rel="nofollow noopener">IPI design registration (ige.ch)</a> | <a href="https://www.wipo.int/hague/en/" target="_blank" rel="nofollow noopener">WIPO Hague System</a> | <a href="https://www.fedlex.admin.ch/eli/cc/1994/1328_1328_1328/en" target="_blank" rel="nofollow noopener">Fedlex Swiss Design Act</a>*

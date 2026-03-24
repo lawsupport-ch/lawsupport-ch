@@ -191,7 +191,7 @@ No Swiss bank currently offers fully online corporate account opening. Even the 
 
 Need guidance on opening a Swiss bank account — whether personal or corporate? Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
 
-[Request a Free Assessment](/blog/contact/)
+[Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, Zug, Switzerland

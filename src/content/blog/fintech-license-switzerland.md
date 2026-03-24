@@ -25,7 +25,7 @@ tocItems:
 
 # Fintech License Switzerland: FINMA Authorisation & Regulatory Options (2026)
 
-![Fintech license Switzerland — FINMA authorisation options for 2026](https://lawsupport.ch/images/fintech-license-switzerland-hero.jpg){width=1200 height=630}
+!<a href="https://lawsupport.ch/images/fintech-license-switzerland-hero.jpg" target="_blank" rel="nofollow noopener">Fintech license Switzerland — FINMA authorisation options for 2026</a>
 
 Switzerland does not have a single "fintech license." What it has is a coherent, activity-based regulatory framework that routes each business model to the appropriate supervisory regime — sandbox exemption, SRO membership, FinTech-Bewilligung, or full banking license. Choosing the wrong pathway costs time and money. Choosing the right one gives you one of the most credible regulatory stamps in global finance.
 
@@ -35,7 +35,7 @@ This guide maps the Swiss fintech regulatory framework as it stands in 2026, wit
 
 ## Switzerland's Regulatory Logic: Activity-Based, Not Entity-Based
 
-![FINMA's activity-based regulatory approach for fintech companies](https://lawsupport.ch/images/finma-activity-based-regulation.jpg){width=800 height=450}
+!<a href="https://lawsupport.ch/images/finma-activity-based-regulation.jpg" target="_blank" rel="nofollow noopener">FINMA's activity-based regulatory approach for fintech companies</a>
 
 FINMA does not regulate companies — it regulates activities. The decisive question is always: what exactly are you doing with client money?
 
@@ -52,7 +52,7 @@ For companies at the entity formation stage, see our guide to [company formation
 
 ## The Four Main Regulatory Pathways
 
-![Switzerland's four fintech regulatory pathways](https://lawsupport.ch/images/swiss-fintech-regulatory-pathways.jpg){width=800 height=450}
+!<a href="https://lawsupport.ch/images/swiss-fintech-regulatory-pathways.jpg" target="_blank" rel="nofollow noopener">Switzerland's four fintech regulatory pathways</a>
 
 ### 1. No FINMA License Required — SRO Membership Sufficient
 
@@ -128,7 +128,7 @@ A poorly prepared application adds months. Engaging regulatory counsel before su
 
 ### 4. Full Banking License (BankG)
 
-![Full banking license Switzerland — requirements and timeline](https://lawsupport.ch/images/banking-license-requirements.jpg){width=800 height=450}
+!<a href="https://lawsupport.ch/images/banking-license-requirements.jpg" target="_blank" rel="nofollow noopener">Full banking license Switzerland — requirements and timeline</a>
 
 If you accept public deposits exceeding CHF 100 million, or if your model involves investing or lending deposited funds, you need a full banking license under the Banking Act.
 
@@ -149,7 +149,7 @@ See our guide on [FINMA licensing in Switzerland](/blog/finma-licensing-switzerl
 
 ## Payment Services: No PSD2 Equivalent in Switzerland
 
-![Swiss payment services regulation — no PSD2 equivalent](https://lawsupport.ch/images/swiss-payment-services.jpg){width=800 height=450}
+!<a href="https://lawsupport.ch/images/swiss-payment-services.jpg" target="_blank" rel="nofollow noopener">Swiss payment services regulation — no PSD2 equivalent</a>
 
 This surprises many European founders: Switzerland has no standalone payment services license equivalent to the EU's PSD2 Payment Institution or E-Money Institution authorisation.
 
@@ -164,7 +164,7 @@ Swiss payment companies with EU ambitions often obtain a Swiss regulatory status
 
 ## VASP Regulation: Virtual Asset Service Providers
 
-![VASP regulation in Switzerland — crypto and virtual asset service providers](https://lawsupport.ch/images/vasp-regulation-switzerland.jpg){width=800 height=450}
+!<a href="https://lawsupport.ch/images/vasp-regulation-switzerland.jpg" target="_blank" rel="nofollow noopener">VASP regulation in Switzerland — crypto and virtual asset service providers</a>
 
 Switzerland regulates virtual asset service providers (VASPs) under AMLA, not under a separate crypto-specific license — with one important exception.
 
@@ -215,7 +215,7 @@ Regulatory structuring for fintech companies is one of our core practice areas. 
 
 Whether you are launching a payment platform, a crypto custody service, or a crowdlending marketplace, the starting point is always the same: a clear-eyed analysis of your business model against the Swiss regulatory framework — before you build, not after.
 
-**[Request a Free Assessment](/blog/contact/)** — or reach us directly:
+**[Request a Free Assessment](/contacts/)** — or reach us directly:
 
 **Morgan Hartley, Senior Corporate Lawyer & Partner**
 Lawsupport (Morgan Hartley Consulting GmbH)
