@@ -2,6 +2,7 @@
 title: "Shelf Company Switzerland: Buy a Ready-Made AG or GmbH"
 description: "Buy a Swiss shelf company (AG or GmbH) in Zug in 3-5 business days. Costs, steps, due diligence checks, and when a fresh formation is the better option."
 date: "19.03.2026"
+publishDate: "2026-05-29"
 category: "Company Formation"
 categoryHref: "/services/company-formation/"
 readTime: "11 min read"

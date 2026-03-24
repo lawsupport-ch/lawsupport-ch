@@ -2,6 +2,7 @@
 title: "Swiss Banking System: Structure & Bank Types (2026)"
 description: "How the Swiss banking system works: UBS, cantonal banks, private banks, Raiffeisen, PostFinance. FINMA regulation, deposit protection and the SNB."
 date: "19.03.2026"
+publishDate: "2026-06-24"
 category: "Banking & Finance"
 categoryHref: "/blog/"
 readTime: "9 min read"

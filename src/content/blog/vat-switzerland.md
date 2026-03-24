@@ -2,6 +2,7 @@
 title: "Swiss VAT (MWST): Rates, Registration & Compliance (2026)"
 description: "Swiss VAT rates for 2026: standard 8.1%, reduced 2.6%, accommodation 3.8%. Registration threshold CHF 100,000, filing obligations and compliance. Lawsupport."
 date: "19.03.2026"
+publishDate: "2026-08-17"
 category: "Tax & Accounting"
 categoryHref: "/blog/"
 readTime: "14 min read"

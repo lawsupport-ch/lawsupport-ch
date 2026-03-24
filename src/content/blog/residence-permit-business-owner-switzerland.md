@@ -2,6 +2,7 @@
 title: "Residence Permit for Business Owners in Switzerland"
 description: "How to get a Swiss residence permit as a business owner: EU/EFTA self-employed route, non-EU investor permits, and immigration requirements."
 date: "19.03.2026"
+publishDate: "2026-05-25"
 category: "Immigration"
 categoryHref: "/blog/"
 readTime: "12 min read"

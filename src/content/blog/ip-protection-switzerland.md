@@ -2,6 +2,7 @@
 title: "IP Protection Switzerland: Patents & Trademarks (2026)"
 description: "Switzerland IP protection explained: patents, trademarks, copyright, design rights, and trade secrets. How each right works, what it covers, and enforcement."
 date: "19.03.2026"
+publishDate: "2026-04-21"
 category: "IP & Commercial Law"
 categoryHref: "/blog/"
 readTime: "7 min read"

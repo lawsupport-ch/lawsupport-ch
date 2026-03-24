@@ -12,6 +12,7 @@ interface Props {
   faqItems?: { question: string; answer: string }[];
   heroImage?: string;
   relatedArticles?: { title: string; href: string; image?: string }[];
+  robots?: string;
 }
 
 const {
@@ -25,6 +26,7 @@ const {
   tocItems = [],
   faqItems = [],
   relatedArticles = [],
+  robots,
 } = Astro.props;
 
 const schema = [
@@ -66,7 +68,7 @@ const schema = [
 ];
 ---
 
-<Base title={`${title} — Lawsupport.ch`} description={description} schema={schema}>
+<Base title={`${title} — Lawsupport.ch`} description={description} schema={schema} robots={robots}>
 
   <div class="container">
     <nav class="breadcrumb">

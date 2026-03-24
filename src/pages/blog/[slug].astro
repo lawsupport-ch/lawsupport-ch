@@ -3,10 +3,7 @@ import { getCollection, render } from "astro:content";
 import Article from "../../layouts/Article.astro";
 
 export async function getStaticPaths() {
-  const posts = await getCollection("blog", ({ data }) => {
-    if (!data.publishDate) return true;
-    return new Date(data.publishDate) <= new Date();
-  });
+  const posts = await getCollection("blog");
   return posts.map((post) => ({
     params: { slug: post.id },
     props: { post },
@@ -15,6 +12,8 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { Content } = await render(post);
+
+const isScheduled = post.data.publishDate && new Date(post.data.publishDate) > new Date();
 ---
 
 <Article
@@ -27,6 +26,7 @@ const { Content } = await render(post);
   heroImage={post.data.heroImage}
   faqItems={post.data.faqItems}
   tocItems={post.data.tocItems}
+  robots={isScheduled ? "noindex, follow" : undefined}
 >
   <Content />
 </Article>

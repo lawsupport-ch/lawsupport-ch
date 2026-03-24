@@ -2,6 +2,7 @@
 title: "Immigrate to Switzerland as an Entrepreneur (2026)"
 description: "Immigrate to Switzerland as an entrepreneur or investor. Permit types, Zug tax advantage, and steps for non-EU founders explained."
 date: "19.03.2026"
+publishDate: "2026-04-15"
 category: "Immigration"
 categoryHref: "/blog/"
 readTime: "12 min read"

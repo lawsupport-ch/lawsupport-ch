@@ -8,6 +8,7 @@ interface Props {
   description?: string;
   schema?: object[];
   ogImage?: string;
+  robots?: string;
 }
 
 const {
@@ -15,6 +16,7 @@ const {
   description = "Professional corporate services and legal support for businesses in Switzerland.",
   schema = [],
   ogImage = "https://lawsupport.ch/images/lawsupport.webp",
+  robots,
 } = Astro.props;
 const canonicalURL = new URL(Astro.url.pathname, "https://lawsupport.ch");
 
@@ -80,6 +82,7 @@ const allSchemas = [organizationSchema, personSchema, ...schema];
   <meta name="generator" content={Astro.generator} />
   <title>{title}</title>
   <meta name="description" content={description} />
+  {robots && <meta name="robots" content={robots} />}
   <link rel="canonical" href={canonicalURL} />
   <link rel="icon" href="/favicon.ico" />
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" />

@@ -2,6 +2,7 @@
 title: "GmbH Formation Switzerland: Complete Guide (2026)"
 description: "Form a Swiss GmbH in 2–4 weeks. CHF 20,000 minimum capital, no travel required. Step-by-step guide covering costs, legal requirements, and common mistakes."
 date: "19.03.2026"
+publishDate: "2026-04-01"
 category: "Company Formation"
 categoryHref: "/services/company-formation/"
 readTime: "9 min read"

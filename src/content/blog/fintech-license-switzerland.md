@@ -2,6 +2,7 @@
 title: "Fintech License Switzerland: FINMA Options"
 description: "Swiss fintech licensing options: FINMA banking license, fintech license (sandbox/FinTech-Bewilligung), and SRO membership. Requirements, costs, and timeline."
 date: "19.03.2026"
+publishDate: "2026-03-26"
 category: "Licensing & Permits"
 categoryHref: "/services/financial-licensing/"
 readTime: "9 min read"
