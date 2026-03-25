@@ -237,7 +237,7 @@ See our guide to [corporate tax return filing in Switzerland](/tax-accounting/co
 
 Foreign-owned Swiss companies — holding companies, IP boxes, trading entities, and subsidiaries of international groups — face a specific set of bookkeeping challenges:
 
-**IFRS or US GAAP at group level, Swiss CO at entity level.** Your Swiss subsidiary must maintain statutory accounts under Swiss CO regardless of what your group consolidates. This means two sets of accounts, two sets of adjustments, and a reconciliation process.
+**IFRS or US GAAP at group level, Swiss CO at entity level.** Your Swiss subsidiary must maintain statutory accounts under Swiss CO regardless of what your group consolidates. This means two sets of accounts, two sets of adjustments, and a reconciliation process. In practice, most foreign-owned Swiss GmbH and AG structures use Bexio (CHF 35–83/month) for statutory Swiss bookkeeping and export data to the parent’s ERP for consolidation. The accounting team handles the Swiss books independently of the group’s reporting cycle — attempting to run both through a single system almost always creates more problems than it solves.
 
 **Intercompany invoicing.** Management fees, intragroup loans, royalties, and shared service charges must be invoiced correctly and on time. Accruals not supported by proper documentation will be challenged.
 
@@ -253,7 +253,7 @@ Foreign-owned Swiss companies — holding companies, IP boxes, trading entities,
 
 The Swiss market has a clear set of preferred platforms:
 
-- **Bexio** — the dominant choice for Swiss SMEs and newly formed GmbH/AG structures. Cloud-based, Swiss-hosted, integrates with Swiss banks, supports VAT filing. The most practical starting point for most of our clients. See our overview of [Swiss accounting software](/corporate-services/swiss-accounting-software/) for a full comparison.
+- **Bexio** — the dominant choice for Swiss SMEs and newly formed GmbH/AG structures. Cloud-based, Swiss-hosted, integrates with Swiss banks, supports VAT filing. Pricing: CHF 35/month (Starter), CHF 59/month (Standard), or CHF 83/month (Professional) — the Professional tier adds multi-currency support and project tracking, which matters for companies invoicing in USD or EUR. For a newly formed GmbH with modest transaction volume, the Starter plan is usually sufficient for the first year. See our overview of [Swiss accounting software](/corporate-services/swiss-accounting-software/) for a full comparison.
 - **Abacus** — the standard for mid-sized Swiss companies with more complex needs, including payroll, project accounting, and multi-entity setups.
 - **Banana Accounting** — a lightweight, affordable option often used by sole proprietors and small associations. Less suited to complex GmbH/AG structures.
 - **Sage 50** — used by a segment of Swiss SMEs, particularly those with connections to the broader European Sage ecosystem.
@@ -268,13 +268,19 @@ Many Swiss companies — particularly foreign-owned entities with no local finan
 
 Typical cost ranges for outsourced bookkeeping:
 
+- **Dormant company (zero turnover):** approximately CHF 1,400 per year. This covers annual statements and tax filing — the absolute minimum to keep a Swiss company in good standing.
+- **Small company, up to 100 transactions/year:** approximately CHF 3,800 per year under a fixed package. Transactions beyond 100 are billed at hourly rates.
 - **Simple GmbH or AG, low transaction volume:** CHF 300–600 per month. This covers monthly transaction entry, bank reconciliation, basic VAT filing, and preparation of annual accounts.
 - **Active trading company, moderate transaction volume:** CHF 600–1,500 per month, depending on transaction count, complexity, and whether payroll is included.
 - **Larger operating companies or holding structures with significant intercompany activity:** CHF 1,500–4,000+ per month.
 
+Standard hourly rates: CHF 150/hour for routine bookkeeping, CHF 180/hour for complex matters (multi-currency positions, intercompany reconciliation, restructuring-related accounting). These rates exclude VAT at 8.1%.
+
 Annual account preparation (balance sheet, P&L, notes, and tax return) is typically charged separately, ranging from CHF 1,500 to CHF 5,000+ depending on complexity.
 
 The key variable is transaction volume. A holding company with a small number of dividend receipts and management fee invoices per year costs far less to administer than an operating company processing hundreds of purchase and sales invoices monthly.
+
+> **Why most fiduciaries do not offer fixed packages for startups:** Transaction volumes in the first one to two years are unpredictable. A company may process 20 transactions in month one and 200 in month six. Fixed pricing requires a stable baseline, which new companies cannot provide. The standard approach is hourly billing until the business matures, at which point a fixed annual package can be structured around actual activity levels.
 
 For companies that have fallen behind on their accounts, see our [accounting recovery Switzerland](/tax-accounting/accounting-recovery-switzerland/) service.
 

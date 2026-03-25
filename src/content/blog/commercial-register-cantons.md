@@ -107,7 +107,9 @@ An **official Handelsregisterauszug** (HR extract / Légalisé) is a certified c
 Largest commercial register in Switzerland (approximately 150,000+ registered entities). Online extract requests via hr.zh.ch. Standard processing: 1–3 days for simple changes.
 
 **Zug (ZG) — Handelsregisteramt des Kantons Zug**
-Second only to Zurich in international company registrations. Zug's register handles a disproportionately high number of international holding companies, crypto entities, and financial firms. Known for efficient processing. Online extract orders: hr.zg.ch.
+Second only to Zurich in international company registrations. Zug’s register handles a disproportionately high number of international holding companies, crypto entities, and financial firms. Known for efficient processing — standard GmbH registrations typically complete in 10-15 business days, AGs in 15-20 business days from complete filing. Summer filings move faster; pre-Christmas filings are consistently slower. Online extract orders: hr.zg.ch.
+
+From our experience with over 1,000 formations: Zug processes filings more reliably and predictably than most other cantonal registers. We pre-check every filing before submission because incomplete documentation — missing notarial authentication, bank confirmation, or statutory requirements — generates rejection notices that add weeks to the timeline.
 
 **Berne (BE) — Handelsregisteramt des Kantons Bern**
 Cantonal register for the federal capital region. Bilingual (DE/FR) canton.
@@ -171,9 +173,15 @@ New company registrations are filed with the cantonal Handelsregisteramt where t
 1. Notarial deed of incorporation (AG) or public deed (GmbH) signed before a Swiss notary
 2. Bank confirmation of capital deposit (Kapitaleinzahlungsbestätigung)
 3. Application for registration filed by the company or its representative at the cantonal HRA
-4. Processing: typically 3–10 business days
+4. Processing: typically 2-4 weeks (summer is faster, pre-Christmas is slower)
 5. Publication in SHAB (Swiss Official Gazette of Commerce — shab.ch)
 6. UID assigned upon registration
+
+**The operating shortcut:** Your company can legally begin operating from the moment of notarial signing — before the register entry or ZEFIX publication. This is useful when a client contract or banking arrangement requires immediate action.
+
+**Before 2022:** Expedited registration was available at a surcharge of approximately 60% above standard fees. This option no longer exists at any cantonal register.
+
+**2025 shell company rules:** For Mantelgesellschaft (shell company) transfers, the register now requires changes in two stages — first name and board, then business activity. Single-stage filings are rejected. The register can also void transfers it considers lacking genuine commercial substance.
 
 For a full walkthrough of the incorporation process, see our [company formation Switzerland](/company-formation/company-formation-switzerland/) guide. For the specific rules on [GmbH formation](/company-formation/gmbh-formation-switzerland/) and [AG formation](/company-formation/ag-formation-switzerland/), we have dedicated guides for each entity type.
 
@@ -209,7 +217,7 @@ Official extracts can be ordered online via Zefix (where cantons deliver certifi
 
 **How long does it take to register a new company in Switzerland?**
 
-From the date of notarial deed execution, registration typically takes 3–10 business days assuming all documents are in order. Zug and Zurich are among the faster cantonal offices. The company has no legal existence as a GmbH or AG until the entry appears in the register.
+From the date of notarial deed execution, registration typically takes 2-4 weeks depending on the canton and time of year. Zug and Zurich are among the faster cantonal offices. Summer filings process faster; pre-Christmas filings are consistently slower. In problem cases with complex foreign ownership or documentation issues, registration can take 3 months or more. The company can begin operating from the moment of notarial signing, but formal legal existence vis-à-vis third parties requires the register entry.
 
 **Can I use the UID number to search for a company on Zefix?**
 

@@ -101,7 +101,11 @@ The sole proprietorship requires no minimum capital. Registration with the Comme
 
 **Shelf Company (Mantelgesellschaft)**
 
-A shelf company is an already-incorporated, dormant entity available for immediate transfer. Shelf companies are useful when speed is the primary constraint — for example, when a client contract requires a Swiss entity within days rather than weeks.
+A shelf company is an already-incorporated, dormant entity available for immediate transfer. Shelf companies are useful when speed is the primary constraint — for example, when a client contract requires a Swiss entity within days rather than weeks. Transfer happens in 1-2 days; modifications (name, purpose, board changes) require a minimum of 2 weeks.
+
+Current market pricing depends entirely on age: CHF 15,000-17,000 for companies aged 15-17 years, scaling up to CHF 47,500 for a 1933 vintage. All come debt-free with audited balance sheets and share certificates.
+
+**2025 rule change:** The Commercial Register now has expanded powers to void shell company sales and can request financial documentation during the transfer process. Changes must be executed in two stages — first the company name and board, then the business activity. Attempting everything in a single filing will be rejected. This two-stage requirement adds approximately CHF 1,700 in notary and register fees.
 
 ---
 
@@ -125,6 +129,12 @@ Article 718 of the Swiss Code of Obligations requires that at least one member o
 
 Before the notarisation appointment, the required capital must be deposited into a blocked capital deposit account (Kapitaleinzahlungskonto) at a Swiss bank. The bank issues a confirmation letter (Einzahlungsbestätigung) certifying the deposit. This letter is a required document at notarisation. The account remains blocked until the Commercial Register confirms registration, at which point the funds are released to the operating account. See our [capital deposit account Switzerland](/banking/capital-deposit-account-switzerland/) guide.
 
+**Banking reality in 2026:** This step is where most formations stall. PostFinance, the most accessible Swiss bank for new companies, frequently rejects applications. We have seen rejections triggered by brand-sensitive company names (a client using “Tesla” in their company name received detailed compliance questions from PostFinance), insufficient documentation of the business model’s revenue source, or high-risk jurisdiction of the founder. UBS typically requires CHF 500,000 or more under management before onboarding non-resident clients for new company accounts.
+
+Relio AG (a Zurich-based fintech) offers same-day account opening after video verification at CHF 249/month, but explicitly rejects companies with US nexus at the UBO or shareholder level. We had a US-owned company rejected by Relio, forced to route through a UK parent company’s Ebury account — which created compliance issues that took months to untangle.
+
+**The 80% signal:** If the bank approves your blocked capital deposit account, there is roughly an 80% chance the account converts to a permanent corporate account after registration. That pre-check approval is your strongest early indicator.
+
 For guidance on the banking process, see our [Swiss bank account opening](/banking/swiss-bank-account/) guide.
 
 **Step 5: Notarisation (In Person or via Power of Attorney)**
@@ -135,7 +145,13 @@ A critical point for international founders: you do not need to travel to Switze
 
 **Step 6: Commercial Register Filing**
 
-Following notarisation, the notary or the founders' representative files the incorporation documents with the cantonal [Commercial Register](/company-formation/commercial-register-switzerland/) (Handelsregister). The filing fee is approximately CHF 600. Registration typically takes 5-10 business days. Zug and Zurich have well-staffed registers with consistent turnaround times. See our [Swiss Commercial Register guide](/company-formation/commercial-register-switzerland/) for the full registration process.
+Following notarisation, the notary or the founders' representative files the incorporation documents with the cantonal [Commercial Register](/company-formation/commercial-register-switzerland/) (Handelsregister). The filing fee is approximately CHF 600. Registration typically takes 2-4 weeks. Summer months (July-August) tend to be faster; the pre-Christmas period (November-December) is consistently slower across all cantonal registers.
+
+**The operating hack:** Your company can legally begin operating from the moment of notarial signing — you do not need to wait for ZEFIX publication. The company exists as a legal entity from the notarial deed; the register entry is declaratory, not constitutive, for most practical purposes. You can sign contracts, begin client work, and invoice under the company name immediately after the notary appointment.
+
+Before 2022, it was possible to pay a surcharge of approximately 60% above standard fees for expedited Commercial Register publication. This option no longer exists. There is no fast-track available at any cantonal register.
+
+See our [Swiss Commercial Register guide](/company-formation/commercial-register-switzerland/) for the full registration process.
 
 **Step 7: UID Number Issued**
 
@@ -167,23 +183,29 @@ For a focused analysis of the Zug option, see our [company formation in Zug](/co
 
 ## Three Client Case Studies
 
-**Case Study 1: Tech Founder from Singapore**
+**Case 1: South African Holding — Why a 1986 Shelf Company Beat a New Formation**
 
-Marcus T., a software entrepreneur based in Singapore, wanted to establish a Swiss AG as the group holding entity above his operating subsidiaries in Germany and the UK. His primary concerns were shareholder privacy, tax efficiency on dividends flowing up from the subsidiaries, and the ability to incorporate without travelling to Switzerland.
+An infrastructure group operating across South Africa, DRC, Ghana, Kenya, and Congo needed a Swiss AG holding in Zug. Expected transaction volume: 4-5 transfers per month in the USD 25-500 million range. Two UBOs with 50/50 ownership.
 
-Lawsupport incorporated a Zug AG within three weeks. Marcus executed a notarised power of attorney in Singapore, which was apostilled and couriered to Zug. We drafted the articles of association, coordinated the capital deposit at a Swiss private bank, prepared the Stampa Declaration, and represented him at the notary appointment. The company was registered, the UID issued, and the operating bank account opened before Marcus had any need to visit Switzerland. The AG now receives qualifying dividends from the German and UK subsidiaries subject to the participation exemption, materially reducing the group's effective tax rate on intra-group distributions.
+The logical move was a new AG formation. Instead, we recommended a shelf company from 1986 — 40 years old at the time of transfer. The reason: for transactions of this scale with counterparties in African commodity markets, a company with decades of continuous existence on the Commercial Register carries materially more weight than a freshly formed entity. The age is visible on ZEFIX to any counterparty running due diligence.
 
-**Case Study 2: Medical Consulting Practice, Zurich**
+The shelf transfer took two days. Cost: approximately CHF 17,000 for the company plus CHF 10,100 for address, nominee director, and accounting setup. We advised keeping the company registered in Zurich initially rather than transferring the seat to Zug — changing canton before the company shows any turnover raises unnecessary questions at the destination register. Move the seat after demonstrating activity.
 
-Dr. Petra K., a German national with a specialist medical practice in Zurich, had been operating as a sole proprietor for four years. Her practice had grown to a point where the unlimited personal liability exposure was no longer acceptable, and her accountant had advised that a GmbH structure would provide more favourable treatment for retained profits.
+**Case 2: Romanian Entrepreneur — AG for Privacy, Not Prestige**
 
-Lawsupport incorporated a Zurich GmbH for Dr. K. in just under four weeks. The primary complication was coordinating the transfer of existing client contracts and the practice's regulatory authorisations to the new entity, which required parallel filings with the cantonal health authority. Dr. K. became the sole managing director, satisfying the Art. 718 CO residency requirement through her own Swiss domicile. The GmbH is now fully operational, and retained profits are taxed at the corporate rate rather than at Dr. K.'s marginal personal income tax rate.
+A Bucharest-based entrepreneur wanted a Zug AG. Not for the CHF 100,000 capital structure, not for investor readiness — for privacy. As a GmbH shareholder, his name and ownership stake would appear in the public Commercial Register. With an AG, the shareholder register is internal.
 
-**Case Study 3: Family Office Structure, Zug**
+The formation was straightforward. The complication was the Swiss-resident board member requirement under Art. 718 CO. The client had a friend — a Swiss citizen — willing to serve as board member for approximately one year while the client arranged his own Swiss residence. We structured this as a temporary arrangement with a clear handover timeline, documented in a side letter, to avoid disputes at separation. This scenario is common, but without written terms the transition often becomes contentious.
 
-The Brennan family, Irish nationals with significant property and investment assets, sought to establish a Swiss structure to centralise asset management and facilitate intergenerational transfer. Their Swiss-based adviser recommended a Zug AG as the central holding entity, with a family foundation to hold the AG shares for succession planning purposes.
+Total formation cost: CHF 2,500 for registration including notary, plus CHF 2,400/year for a Zug registered address.
 
-Lawsupport incorporated both the AG and the Stiftung over a six-week period. The foundation's articles were drafted to define the beneficiary class, the purpose (preservation and growth of family wealth), and the governance rules for the foundation board. The cantonal supervisory authority in Zug reviewed and approved the foundation without objection. The structure now provides the family with a centralised management point, a defined succession framework, and a mechanism for distributing investment income to beneficiaries in a tax-efficient manner.
+**Case 3: German Tech Founder — The 6-Month Fallacy**
+
+A German tech founder relocating from London with his Swedish wife and three children planned to form a company and serve as his own director within 5-6 months. He requested a nominee director for the interim.
+
+We flagged the problem immediately: 6 months is almost never enough. The relocation timeline — finding housing, enrolling children in school, obtaining a residence permit, completing the move — typically takes 2 or more months for the administrative steps alone. Add the time needed to physically relocate, and most founders need 8-12 months before they hold a Swiss residence permit and can replace the nominee.
+
+The nominee director costs CHF 5,900/year. If the transition takes 14 months instead of 6, the client pays for a full second year. We quoted a 6-month interim rate of CHF 4,500 but set clear expectations: budget for the full annual fee.
 
 ---
 
@@ -191,14 +213,20 @@ Lawsupport incorporated both the AG and the Stiftung over a six-week period. The
 
 Transparency on costs matters. Here is a realistic breakdown for a standard AG or GmbH formation.
 
-| Cost Item | Approximate Amount |
+| Cost Item | Amount (CHF) |
 |---|---|
-| Notary fees | CHF 1,000 to CHF 2,500 |
-| Commercial Register filing fee | approx. CHF 600 |
-| Registered address (first year, Zug) | CHF 500 to CHF 1,500 |
-| Nominee director service (if required) | CHF 2,000 to CHF 5,000 per year |
-| Legal / formation fee (Lawsupport) | On request |
-| Capital deposit (returned to company) | CHF 20,000 (GmbH) or CHF 50,000 (AG) |
+| GmbH registration (incl. notary) | 1,900 |
+| AG registration (incl. notary) | 2,500 |
+| Registered address (Zug, annual) | 2,400 |
+| Registered address (Zurich, annual) | 3,000 |
+| Nominee director (annual) | 5,900 |
+| Nominee director, premium tier (higher involvement) | 7,400 |
+| Dormant company accounting (annual) | 1,400 - 1,800 |
+| Capital deposit (returned to company) | 20,000 (GmbH) or 50,000 (AG) |
+
+**The all-in formation package** — registration, registered address, nominee director for 12 months, and basic accounting setup — runs CHF 9,000 to CHF 11,000, plus your share capital. With a full nominee package including accounting, expect approximately CHF 12,000 before capital.
+
+**The hidden cost most providers omit:** The nominee director fee of CHF 5,900/year covers the directorship itself. It does not cover signing work permits, preparing corporate filings, attending board meetings, or signing banking documents. Those tasks are billed separately at CHF 350/hour. We have seen clients budget CHF 5,900 and receive invoices for CHF 9,000+ in the first year because they did not account for the hourly component. Ask any provider to confirm in writing what is and is not included before you sign.
 
 The capital deposit is not a cost; it is the company's own capital, released to the operating account upon registration. It is available for the company's business purposes immediately after registration is confirmed.
 
@@ -228,7 +256,7 @@ Incorporation is the beginning, not the end, of your Swiss legal obligations. Th
 
 **How long does company formation in Switzerland take?**
 
-For a standard AG or GmbH, the process from initial instruction to Commercial Register confirmation takes 2-4 weeks. The main variables are: the speed of the capital deposit account opening at the chosen bank, the availability of a notary appointment, and the processing time at the relevant cantonal Commercial Register. Zug and Zurich are generally faster. If you need an entity sooner, a shelf company can be transferred within days.
+The realistic timeline breaks down into four distinct phases, each with its own bottleneck: document preparation (several days), bank pre-check and capital deposit account opening (approximately 1 week, but PostFinance takes 3-4 weeks and may still reject), capital transfer and bank certificate (approximately 1 week, dependent on the client), notarisation (1-2 days), and Commercial Register processing (2-4 weeks, faster in summer, slower before Christmas). Total: 4-6 weeks from instruction to register entry for a clean formation with responsive clients. If your bank rejects the application, add 3-4 weeks to find an alternative. A shelf company transfers in 1-2 days if speed is critical.
 
 **Do I need to travel to Switzerland to incorporate?**
 
@@ -280,7 +308,7 @@ A shelf company is an already-incorporated, dormant entity available for immedia
 
 Lawsupport, operating as Morgan Hartley Consulting, is a Swiss law practice based at Grafenauweg 4, Zug. Over 18 years of practice and more than 1,000 company formations give us a detailed understanding of the practical requirements at every stage of the Swiss incorporation process: from name selection and articles drafting through to bank account activation and post-formation compliance.
 
-We specialise in financial companies, holding structures, and formations for international clients who need a Swiss entity but are not based in Switzerland. We work in English, German, and French, and we maintain relationships with Swiss banks, notaries, and Commercial Register offices in the key cantons.
+We manage over 300 companies under fiduciary services with a team of 7, and specialise in financial companies, holding structures, and formations for international clients who need a Swiss entity but are not based in Switzerland. We work in English, German, and French, and we maintain relationships with Swiss banks, notaries, and Commercial Register offices in the key cantons.
 
 Our formation service covers every step: name check, articles drafting, capital deposit coordination, notarisation (in person or via power of attorney), Commercial Register filing, and follow-up until the UID is issued and the operating account is open. We provide fixed-fee quotes so there are no billing surprises.
 

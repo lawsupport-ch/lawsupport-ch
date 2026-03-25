@@ -45,6 +45,8 @@ In practice, missing accounts arise from predictable situations:
 
 Whatever the cause, the result is the same: the tax authority cannot assess the company, the tax years remain open, and interest accrues on the unpaid liability. Year after year.
 
+> **From practice:** A South African holding company incorporated a Zurich AG in 1986 and left it dormant for years after plans changed. When the company was eventually needed for a new infrastructure venture, three years of missing accounts had to be reconstructed before any bank would open an account. The owner assumed dormancy meant no obligations — it does not. A Romanian entrepreneur faced a similar situation: he wanted to use an AG he had bought as a shelf company, but the previous owner had not filed tax returns for the final years of ownership. The commercial register would not process the board changes until the accounting backlog was resolved. Timeline to clear: four months and approximately CHF 12,000 in reconstruction and filing costs.
+
 ---
 
 ## Legal Consequences You Cannot Ignore
@@ -99,6 +101,8 @@ Engaging early is material. The longer the situation runs, the more interest acc
 
 For a small company with one to three years of missing accounts and reasonably complete bank records, total costs for reconstruction, account preparation, and tax filing typically fall in the range of CHF 3,000 to CHF 10,000. More complex situations — multiple years, multiple entities, foreign shareholders, VAT complications, AHV shortfalls — will cost more and need to be scoped individually.
 
+To put this in context: a dormant company with zero turnover costs approximately CHF 1,400 per year to maintain properly (annual statements plus tax filing). An active company with up to 100 transactions per year runs about CHF 3,800 per year under a standard package. The reconstruction cost for a single missed year frequently exceeds what three years of proper maintenance would have cost. Hourly rates for accounting recovery work typically sit between CHF 150 and CHF 180 per hour (excluding VAT), and complex reconstructions involving foreign currency positions or intercompany flows push toward the higher end.
+
 That cost needs to be weighed against the alternative: accumulating tax interest at 3% per annum, AHV interest at 5% per annum, potential director liability, and the ongoing drag of maintaining a company that cannot be wound up and cannot access its own bank account.
 
 ---
@@ -151,7 +155,7 @@ Yes. There is no nationality requirement for initiating accounting recovery. How
 
 **What happens if the company was dormant for years?**
 
-Dormancy does not suspend the obligation to maintain accounts or file tax returns under Art. 957 CO. A dormant company with no turnover can file nil returns, but those returns must still be filed for each open tax year. Each unfiled year accumulates interest and leaves director liability exposure unresolved. Accounting recovery is required even where the dormant company had no economic activity.
+Dormancy does not suspend the obligation to maintain accounts or file tax returns under Art. 957 CO. A dormant company with no turnover can file nil returns, but those returns must still be filed for each open tax year. Each unfiled year accumulates interest and leaves director liability exposure unresolved. Accounting recovery is required even where the dormant company had no economic activity. The annual cost to maintain a properly filed dormant company is approximately CHF 1,400 — covering annual statements and tax filing. Skipping this for five years and then attempting to catch up will cost substantially more, both in professional fees and in accumulated tax interest.
 
 **Does accounting recovery affect director liability?**
 

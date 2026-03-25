@@ -40,9 +40,11 @@ The first and most important employer registration in Switzerland is with the ca
 - Details of directors and any initial employees
 - Expected annual payroll
 
-**Timeline:** Registration typically completed within 1–2 weeks.
+**Timeline:** Registration typically completed within 1–2 weeks. In practice, the Ausgleichskasse may request additional documentation — particularly for foreign-owned companies — which can extend the timeline to 3–4 weeks.
 
 **What you receive:** An employer number and account with the Ausgleichskasse. Going forward, you submit monthly or quarterly AHV declarations and pay contributions on that schedule.
+
+**What this costs in practice:** For a company with a single employee earning CHF 120,000 gross per year, the total employer-side social insurance cost (AHV/IV/EO at 5.3% + ALV at 1.1% + FAK at approximately 2% + accident insurance at approximately 0.5–1.5%) is roughly CHF 10,700–12,600 per year — before BVG pension contributions. Add BVG (age-dependent, typically 3.5–9% employer share), and the all-in employer cost above gross salary is approximately 15–20% of payroll. This is a recurring annual cost that many foreign companies underestimate when budgeting for their first Swiss hire.
 
 **Contribution rates (2026):**
 - AHV/IV/EO: 10.6% of gross salary (employer pays 5.3%, employee pays 5.3%)
@@ -103,7 +105,9 @@ For employees who require a [work permit in Switzerland](/immigration/work-permi
 
 ## Step 6: VAT Registration
 
-[VAT registration](/tax-accounting/vat-registration-switzerland/) is separate from employer registration and is required when the company's annual turnover from taxable supplies exceeds CHF 100,000. Registration is with the ESTV (Federal Tax Administration) and is voluntary below the threshold.
+[VAT registration](/tax-accounting/vat-registration-switzerland/) is separate from employer registration and is required when the company's annual turnover from taxable supplies exceeds **CHF 100,000**. Registration is with the ESTV (Federal Tax Administration) and is voluntary below the threshold.
+
+**A common trap for foreign companies with Swiss employees:** If a foreign company (for example, a US employer-of-record operation) has Swiss revenue exceeding CHF 100,000, VAT registration is mandatory regardless of whether the company has a formal Swiss subsidiary. We have seen cases where foreign companies employing 3–5 people in Switzerland assumed VAT did not apply because they had no Swiss legal entity. It does. The CHF 100,000 threshold is based on revenue from Swiss-sourced services, not on whether the company is Swiss-incorporated.
 
 For new companies expecting to exceed CHF 100,000 in turnover in the first year, voluntary early registration is advisable — it allows input VAT recovery from the start. Registration takes 2–4 weeks.
 
@@ -134,6 +138,21 @@ Once registered, an employer's recurring obligations include:
 - **BVG contribution payments** (monthly or as agreed with the Pensionskasse)
 - **Quarterly or monthly VAT returns** (depending on the method selected)
 - **Annual AHV audit** by the Ausgleichskasse (typically every 4 years for small employers)
+
+### What Payroll Actually Costs: A Worked Example
+
+For a small company with 3 employees (average gross salary CHF 100,000 each), the annual payroll overhead beyond gross salaries is approximately:
+
+| Item | Employer Cost (annual, all 3 employees) |
+|---|---|
+| AHV/IV/EO (5.3%) | CHF 15,900 |
+| ALV (1.1%) | CHF 3,300 |
+| FAK (~2%) | CHF 6,000 |
+| Accident insurance (~1%) | CHF 3,000 |
+| BVG pension (~6% average) | CHF 18,000 |
+| **Total employer overhead** | **~CHF 46,200** |
+
+This represents approximately 15.4% above gross payroll. Add outsourced payroll administration (CHF 150–180/hour from a fiduciary firm, or CHF 35–83/month per employee for Bexio-based self-service), and the true cost of employing staff in Switzerland becomes clear. These numbers should inform the business plan before the first hire is made.
 
 For ongoing [accounting in Switzerland](/tax-accounting/accounting-switzerland/) and payroll management, Lawsupport can coordinate with specialist payroll providers.
 

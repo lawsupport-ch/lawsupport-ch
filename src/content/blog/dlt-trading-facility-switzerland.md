@@ -194,6 +194,16 @@ Independent operators have progressed through FINMA's licensing pipeline since 2
 
 The pipeline of applicants includes operators targeting tokenised bonds, real estate securities, and private equity interests — asset classes where the liquidity benefits of a regulated secondary market, combined with potential retail access, are commercially meaningful.
 
+### FINMA Guidance 01/2026: Impact on DLT Custody
+
+FINMA Guidance 01/2026 on crypto custody standards applies directly to DLT Trading Facilities that provide custody services as part of their integrated offering. The guidance requires that at least 95% of client assets be held in cold storage, with documented key ceremony procedures and multi-signature authorisation for withdrawals exceeding CHF 50,000. DLT Trading Facility operators must now demonstrate compliance with these technical standards as part of their ongoing supervisory obligations — not just at the point of licence application.
+
+This is a meaningful operational burden. The vertical integration that makes the DLT Trading Facility attractive — combining trading, clearing, settlement, and custody in one entity — also means that a single licence holder must meet custody standards that would normally be assessed separately at a dedicated custodian. Operators should budget for annual security audits, penetration testing, and key management infrastructure that meet the Guidance 01/2026 specifications.
+
+### The Capital Barrier in Practice
+
+The CHF 10 million minimum own funds requirement (CHF 5 million for limited-scope facilities) is the single largest barrier to entry. Combined with the 12–18 month application timeline, the legal and advisory costs of CHF 200,000–500,000, and the ongoing compliance infrastructure, a DLT Trading Facility is a project requiring institutional-grade capital commitment. This is by design — FINMA intends the DLT Trading Facility to be a serious piece of financial market infrastructure, not an experiment.
+
 ---
 
 ## How This Compares to Other Swiss Licences

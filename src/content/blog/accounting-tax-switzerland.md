@@ -180,7 +180,7 @@ Foreign entrepreneurs who incorporated a Swiss company but then did not prioriti
 
 Switzerland has its own software ecosystem. The most common platforms are:
 
-- **Bexio** — cloud-based, widely used by SMEs and startups, strong integration with Swiss banks and MWST reporting. Simple and cost-effective for companies under ~CHF 5M turnover.
+- **Bexio** — cloud-based, widely used by SMEs and startups, strong integration with Swiss banks and MWST reporting. Pricing ranges from CHF 35 to CHF 83 per month depending on the plan (Starter, Standard, Professional). Simple and cost-effective for companies under ~CHF 5M turnover.
 - **Abacus** (AbaNinja for SMEs, Abacus ERP for larger companies) — the dominant professional-grade Swiss ERP. Highly customisable, used by most Swiss fiduciary firms.
 - **Sage 50 / Sage 200** — popular in the SME segment, well-integrated with Swiss payroll and HR modules.
 - **Banana Accounting** — lightweight double-entry software, strong following among small NGOs, associations, and very small companies.
@@ -248,8 +248,12 @@ We do not outsource bookkeeping work offshore. All work is done by qualified sta
 
 Accounting costs in Switzerland vary considerably by company size, transaction volume, and whether payroll is included. The following are indicative ranges for Lawsupport's services:
 
-**Small Swiss company** (GmbH or AG, 0–2 employees, up to ~CHF 2M turnover, up to ~150 bank transactions/month):
-- Monthly bookkeeping + quarterly VAT + annual accounts + tax return: **CHF 3,000–6,000 per year**
+**Dormant company** (zero turnover, no transactions):
+- Annual statements + tax filing: **approximately CHF 1,400 per year**. This is the irreducible minimum for maintaining a Swiss company in good standing.
+
+**Small Swiss company** (GmbH or AG, 0–2 employees, up to ~CHF 2M turnover, up to ~100 bank transactions/year):
+- Fixed package up to 100 transactions: **approximately CHF 3,800 per year** (overage billed hourly)
+- Monthly bookkeeping + quarterly VAT + annual accounts + tax return: **CHF 3,000–6,000 per year** for more active companies
 
 **Medium Swiss company** (up to 10 employees, CHF 2M–15M turnover, 150–500 bank transactions/month):
 - Full-service accounting including payroll: **CHF 8,000–20,000 per year**
@@ -257,7 +261,9 @@ Accounting costs in Switzerland vary considerably by company size, transaction v
 **Catch-up / back-year accounting** (where prior years have not been done):
 - Quoted separately based on the volume of work; typically CHF 1,500–4,000 per year requiring catch-up
 
-All fees are quoted in Swiss francs and are subject to VAT at the standard rate of 8.1%.
+Standard hourly rates for Swiss accounting firms: **CHF 150/hour** for routine bookkeeping work, **CHF 180/hour** for complex matters (multi-currency, intercompany, restructuring). These rates exclude VAT. All fees are quoted in Swiss francs and are subject to VAT at the standard rate of 8.1%.
+
+One point that surprises many founders: most Swiss fiduciaries do not offer fixed annual packages for startups. Transaction volumes are too unpredictable in the first one to two years, so hourly billing is the norm until the business stabilises and a meaningful annual estimate can be made.
 
 ---
 
@@ -265,7 +271,7 @@ All fees are quoted in Swiss francs and are subject to VAT at the standard rate 
 
 A common situation we handle at Lawsupport: a UK-based entrepreneur incorporated a Swiss GmbH in Zug three years ago as part of a restructuring. The company holds a software licence and invoices a related UK entity. For the first two years, the entrepreneur assumed the Swiss accountant at the formation agent was handling the books. It turned out only bank reconciliations were being done — no annual accounts were prepared, no tax returns were filed, and VAT registration had lapsed.
 
-By the time the client contacted Lawsupport, the company had:
+In Zug, where the company was registered, corporate tax runs at approximately 11.85% — among the lowest in Switzerland. But no tax rate helps if you have not filed. By the time the client contacted Lawsupport, the company had:
 - Three years of unfiled tax returns (late-filing penalties accumulate in most cantons)
 - No approved annual accounts (meaning distributions or formal closure were blocked)
 - An expired VAT registration, creating a retroactive registration obligation
@@ -331,7 +337,7 @@ Missing the deadline to prepare and approve annual accounts (six months after fi
 
 ### What is the corporate income tax rate in Switzerland?
 
-Switzerland's effective corporate income tax rate varies by canton. At the federal level, the rate is a flat **8.5%** on profit after tax (effective rate: approximately 7.83%). Combined with cantonal and communal taxes, the effective combined rate ranges from approximately **11.9% in Zug** to around **20–21% in Geneva**. Most cantons hover between 12% and 17%. For a full breakdown, see our [cantonal tax comparison](/tax-accounting/cantonal-tax-comparison-switzerland/).
+Switzerland's effective corporate income tax rate varies by canton. At the federal level, the rate is a flat **8.5%** on profit after tax (effective rate: approximately 7.83%). Combined with cantonal and communal taxes, the effective combined rate ranges from approximately **11.85% in Zug** to around **20% in Zurich**. Basel-Stadt sits at approximately 13%, Basel-Land at 17%, and most cantons hover between 12% and 17%. Geneva, despite its reputation as an expensive canton, has cut its corporate rate to approximately 14%. For a full breakdown, see our [cantonal tax comparison](/tax-accounting/cantonal-tax-comparison-switzerland/).
 
 ### What is the VAT registration threshold in Switzerland?
 

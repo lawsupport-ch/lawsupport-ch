@@ -121,6 +121,16 @@ Any Swiss entity dealing in crypto assets as a financial intermediary must compl
 
 **VQF (Verein zur Qualitätssicherung von Finanzdienstleistungen):** The largest Swiss SRO, widely used by crypto exchanges, trading platforms, and blockchain companies. VQF membership satisfies AMLA obligations for entities below the FinTech/banking licence threshold.
 
+### Real Case: Coinbridge AG and Binance Pay Partnership
+
+A practical example of the SRO pathway in action: Coinbridge AG obtained VQF membership, built a compliant AML/CFT framework, and established a strategic partnership with Binance Pay — one of the largest crypto payment networks globally. The company successfully passed its three-month post-membership VQF audit and operated as a licensed financial intermediary.
+
+Two operational details from this case that are rarely discussed publicly:
+
+**High-risk MCC codes.** Crypto exchange transactions are classified under Merchant Category Codes that banks and payment processors consider high-risk. Payment processing fees for crypto-related MCC codes run approximately 0.6% per transaction — significantly higher than the 0.2–0.3% typical for standard commercial transactions. This cost must be factored into the exchange's unit economics from the outset.
+
+**KYB (Know Your Business) process.** Before Binance or any major exchange will onboard a Swiss entity as a partner, the Swiss company must complete a KYB process that is separate from and in addition to the VQF compliance requirements. KYB involves disclosure of the full corporate structure, beneficial ownership, source of funds, business model documentation, and often a technical security audit. The KYB process typically takes 4–8 weeks and may require multiple rounds of documentation. VQF membership significantly strengthens the KYB application.
+
 **AML requirements for crypto exchanges under FATF/AMLA:**
 - Customer due diligence (CDD) for all clients
 - Enhanced due diligence (EDD) for high-risk clients

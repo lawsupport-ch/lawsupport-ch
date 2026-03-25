@@ -78,7 +78,9 @@ Cantonal banks are chartered under cantonal legislation, majority-owned by their
 
 **ZKB (Zürcher Kantonalbank):** The largest cantonal bank and one of Switzerland's most important financial institutions. ZKB serves international businesses in Zurich alongside its full retail banking operation. It offers SME lending, corporate accounts, treasury services, and a private banking division. The Canton of Zurich provides an explicit, unlimited state guarantee.
 
-**Zuger Kantonalbank:** The primary cantonal bank in Zug, with deep experience serving the canton's large population of international companies and holding structures. Accustomed to foreign shareholders, corporate account opening for international business, and multi-currency accounts. For companies registered in Zug, this is typically the most straightforward first option.
+**Zuger Kantonalbank:** The primary cantonal bank in Zug, with deep experience serving the canton’s large population of international companies and holding structures. Zuger Kantonalbank operates with lower asset thresholds than UBS — it does not require CHF 500’000+ under management to consider a new corporate client, making it substantially more accessible for smaller international structures. It is accustomed to foreign shareholders, multi-currency accounts, and the specific compliance profile of Zug’s international business community. For companies registered in Zug, this is typically the most straightforward first application.
+
+From our experience, the Zuger Kantonalbank’s compliance process is thorough but predictable. Where UBS may take 8–12 weeks, Zuger Kantonalbank can process a well-prepared international corporate application in 4–6 weeks. The bank understands holding structures and is not alarmed by foreign shareholders — which is a genuine advantage, because many cantonal banks outside Zug and Zurich have limited experience with non-Swiss ownership and default to caution.
 
 **BCGE (Banque Cantonale de Genève):** The key cantonal bank for Geneva's international community — private clients, NGOs, international organisations, and financial sector firms. BCGE carries an explicit state guarantee from the Canton of Geneva.
 
@@ -96,6 +98,10 @@ Cantonal banks are the most accessible route for foreign-owned Swiss companies t
 - Both online and in-person options are available at most banks
 
 Standard documentation required is similar across Swiss banks: commercial register extract, articles of association, Form A (beneficial owner declaration), passports for all UBOs, source of funds documentation, and a business description.
+
+**What cantonal banks actually check beyond the standard list:** Most cantonal banks will also run all directors and UBOs through WorldCheck or equivalent AML screening databases. A flag — even a false positive from a common name — triggers enhanced due diligence. PostFinance (technically not a cantonal bank, but often grouped with them) goes further: it requires a full business plan, CVs of all directors, employment contracts, and detailed transaction descriptions. PostFinance also has a pattern of rejecting accounts for companies with brand-sensitive names or business models that do not fit neatly into their internal categories.
+
+The practical advice: if you have a clean structure with EU/EFTA ownership and genuine substance in the canton, a cantonal bank application is straightforward. If your structure involves US persons, complex multi-jurisdictional ownership, or a business model that requires explanation, expect the compliance process to be longer and less predictable. Having a better address (a real office, not a c/o address) genuinely improves banking outcomes — banks notice.
 
 For a full breakdown of what Swiss banks require, see [corporate bank account Switzerland](/banking/corporate-bank-account-switzerland/).
 
@@ -131,7 +137,7 @@ Cantonal banks are state-owned, regionally focused, and carry (in most cases) a 
 Yes. Many cantonal banks open accounts for foreign-owned Swiss companies. Zuger Kantonalbank, ZKB, and BCGE are the most experienced with international shareholders and holding structures. Required documents include a commercial register extract, articles of association, beneficial owner declaration (Form A), passports for all UBOs, source of funds documentation, and a business description.
 
 **Which cantonal bank is best for a Zug company?**
-Zuger Kantonalbank (ZugerKB) is the natural first choice for companies registered in Zug. It has extensive experience with international holding structures, foreign shareholders, and multi-currency accounts — reflecting Zug's status as Switzerland's primary corporate hub.
+Zuger Kantonalbank (ZugerKB) is the natural first choice for companies registered in Zug. Unlike UBS, which requires CHF 500’000+ under management for new non-resident clients, Zuger Kantonalbank operates with lower thresholds and is more accessible for smaller international structures. It has extensive experience with international holding structures, foreign shareholders, and multi-currency accounts — reflecting Zug’s status as Switzerland’s primary corporate hub.
 
 **Do cantonal banks offer capital deposit accounts for company formation?**
 Yes. Most cantonal banks offer a Kapitaleinzahlungskonto (capital deposit account), required during Swiss company formation to deposit share capital before registration. Once the commercial register confirms incorporation, the account converts to a standard business account.

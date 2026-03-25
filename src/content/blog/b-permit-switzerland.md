@@ -126,6 +126,18 @@ The cantonal migration authority — in coordination with the relevant federal o
 
 The cantons differ in how they assess these applications. Zug, for example, has well-established processes for business owners and is familiar with internationally mobile entrepreneurs. The canton's migration office is accustomed to cases involving holding structures, international clients, and non-Swiss revenue streams. This is part of why many of our clients base their Swiss company in Zug and simultaneously apply for their B permit through the Zug Migrationsamt.
 
+### What the B2 Permit Process Actually Looks Like (Non-EU Entrepreneurs)
+
+Most guides describe the non-EU work permit in abstract terms. Here is what happens in practice when we file a B2 permit for a non-EU business owner in canton Zug:
+
+**The explanation letter is the entire case.** The cantonal migration authority requires a detailed written justification explaining why no Swiss or EU/EFTA candidate is suitable for the role. This is not a box-ticking exercise. The letter must address the specific skills, language requirements, industry knowledge, and business relationships that make the applicant uniquely qualified. A generic "the applicant has international experience" will not pass.
+
+**Retainer and cost:** Our standard retainer for residence permit support is **CHF 3,500**, covering the preparation of the explanation letter, coordination with the cantonal migration office, document review, and follow-up. Hourly work beyond the retainer scope (complex cases, appeals, additional filings) is billed at CHF 150–450/hour depending on the matter.
+
+**The banking problem nobody warns you about.** A client — a pharmaceutical company we will call "Aquavit Pharmaceuticals" — had their B permit approved and their company registered, only to have PostFinance reject their corporate bank account application. The rejection had nothing to do with the permit or the company structure; it was purely a compliance decision by the bank. The client then needed a second bank approach, which added six weeks to their timeline. This is not unusual: permit approval and banking approval are entirely separate processes, and one does not guarantee the other.
+
+**Timeline from our files:** Commercial register formation takes approximately one month. Once the company exists and the permit application is filed, add another month for relocation essentials — accommodation, commune registration, biometric appointment. Total: roughly two months from filing to physical arrival, assuming no complications with the cantonal quota or the explanation letter.
+
 For more on this topic, see our dedicated guide on the [residence permit for business owners in Switzerland](/immigration/residence-permit-business-owner-switzerland/).
 
 **Practical note for EU/EFTA nationals forming a Swiss company:** If you are an EU/EFTA citizen, you need only demonstrate evidence of your self-employed activity in Switzerland — a business registration, a client contract, an invoice history. The economic interest assessment that applies to non-EU nationals does not apply to you. The process is considerably faster and simpler.
@@ -221,6 +233,8 @@ If you are planning to [immigrate to Switzerland](/immigration/immigrate-to-swit
 
 A question we address with almost every non-EU/EFTA entrepreneur client is the sequencing problem: you need a Swiss company to demonstrate self-employment, but you need a residence permit to live in Switzerland. Neither process waits for the other.
 
+> **Edge case we see regularly:** A founder forms an AG, appoints a nominee director, and assumes the company's existence will support their B permit application. It will not — not automatically. The migration authority assesses the founder's personal role, not the company's existence. If you are listed as a shareholder but not as a managing director actively running operations from Switzerland, the self-employment case collapses. We have had to restructure applications mid-process because the initial corporate setup did not support the immigration filing.
+
 The practical answer is to run both processes in parallel. We handle Swiss company formation — typically a Zug GmbH or AG — and coordinate the preparation of the B permit dossier simultaneously. The company registration gives you the commercial register documentation the migration authority needs to assess your self-employment claim. The B permit application can be filed with the newly registered company as the qualifying basis.
 
 This parallel approach is standard practice for our clients and significantly reduces the total time from decision to legal residency.
@@ -245,7 +259,7 @@ For EU/EFTA nationals, a period of involuntary unemployment does not automatical
 In many cases, yes. [Family reunification](/immigration/family-reunification-switzerland/) (Familiennachzug) is possible for B permit holders, though the conditions and processing differ for EU/EFTA versus non-EU/EFTA holders. EU/EFTA nationals can generally bring their spouse and dependent children under the AFMP. Non-EU/EFTA nationals must apply separately under family reunification rules, subject to additional requirements including accommodation standards and financial thresholds. The right to family reunification for third-country nationals is governed by Art. 44 AIG (FNIA).
 
 **How do I renew my B permit?**
-Renewal applications are filed with the same cantonal migration office that issued your permit, typically 2–3 months before the expiry date. You must demonstrate that the qualifying basis still exists — ongoing employment contract, continued self-employment activity, or continued financial self-sufficiency. For most applicants whose circumstances have not changed, renewal is straightforward. A significant gap in employment or dependence on social assistance can jeopardise renewal under Art. 62 AIG.
+Renewal applications are filed with the same cantonal migration office that issued your permit, typically 2–3 months before the expiry date. One detail that catches people off guard: the renewal paperwork must be **physically signed with a wet-ink signature** (blue or black pen). Digital signatures are not accepted by Swiss cantonal migration offices for permit renewals. We have seen renewal applications returned because the applicant signed electronically. You must demonstrate that the qualifying basis still exists — ongoing employment contract, continued self-employment activity, or continued financial self-sufficiency. For most applicants whose circumstances have not changed, renewal is straightforward. A significant gap in employment or dependence on social assistance can jeopardise renewal under Art. 62 AIG.
 
 **How do I convert a B permit to a C permit?**
 EU/EFTA nationals may apply for the [C permit](/immigration/c-permit-switzerland/) after 5 years of uninterrupted lawful residence. Non-EU/EFTA nationals must generally wait 10 years, though some nationalities qualify after 5 years under bilateral treaties. The C permit (Niederlassungsbewilligung) is permanent, does not require renewal linked to employment, and is not restricted to a single canton. Applications are filed with the cantonal Migrationsamt and must demonstrate uninterrupted residence, no dependence on social assistance, and a sufficient level of integration.

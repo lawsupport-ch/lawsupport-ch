@@ -82,6 +82,16 @@ One important carve-out: managers of **collective investment schemes (CIS)** —
 
 If you are uncertain whether your activity triggers the licensing requirement, the threshold question is whether you hold discretionary authority over client funds. Execution-only or pure advisory relationships without discretion fall under a different, lighter FinSA compliance framework. See our guide on [SRO membership in Switzerland](/licensing/sro-membership-switzerland/) for the anti-money laundering obligations that apply regardless of licence type.
 
+### The Threshold in Practice: How Firms Avoid the Licence
+
+Below CHF 100 million AUM with fewer than 20 clients, lighter requirements apply under SO supervision rather than direct FINMA authorisation. Some firms deliberately structure their activities to remain below these thresholds.
+
+A case that illustrates the boundary: a firm whose principal had previously managed significant institutional portfolios chose to structure its Swiss entity to perform research and market analysis only — no discretionary management, no personalised recommendations. The actual portfolio management mandate was held by a regulated entity outside Switzerland, which contracted the Swiss firm for research services. This structure is legitimate if the Swiss entity genuinely confines itself to research. The moment it begins making investment recommendations directed at specific clients or exercises discretionary authority, it crosses into FinIA-regulated territory.
+
+An alternative structure — the Anobag model (Anlageberatung ohne Genehmigung, advisory without authorisation) — allows a firm to provide investment advice without holding discretionary authority. This avoids the full FinIA licensing requirement but still triggers FinSA conduct obligations for the advisory relationship. For many smaller asset managers, this is the practical middle ground between full FINMA licensing and the research-only model.
+
+A nominee-director structure with no real Swiss presence will not satisfy FINMA's adequate organisation test. FINMA has become materially stricter on substance requirements since the FinIA transition period ended in 2022.
+
 ---
 
 ## FinIA Licensing Tiers

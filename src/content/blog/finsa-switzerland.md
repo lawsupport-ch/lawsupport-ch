@@ -87,6 +87,16 @@ The most operationally intensive FinSA obligations concern suitability and appro
 
 For retail clients, there is no way to contract out of suitability requirements in an advisory or discretionary relationship. Any clause purporting to waive these obligations in client agreements is ineffective.
 
+### When FinSA Does Not Apply: The Research-Only Structure
+
+A practical edge case that matters for smaller firms: FinSA obligations are triggered by the provision of financial services. If a firm limits its activities strictly to producing research and market analysis without making personalised recommendations or managing portfolios, it falls outside the FinSA conduct regime. This distinction has real structural consequences.
+
+We have seen this play out with asset management firms that deliberately limit their Swiss entity to research-only activities while routing actual portfolio management through a separately regulated entity in another jurisdiction. One such case involved a firm whose principal had previously managed portfolios worth several hundred million dollars. Rather than apply for a FINMA licence under FinIA for the Swiss entity, the firm structured its Swiss operations to produce research reports and market commentary only. The actual asset management mandate was held by a regulated entity outside Switzerland, which contracted the Swiss entity for research services.
+
+This structure is legitimate if executed correctly, but the boundary is narrow. The moment the Swiss entity begins making investment recommendations directed at specific clients, or exercises any form of discretionary authority, it crosses into FinSA-regulated territory. FINMA has become increasingly attentive to structures that appear designed to circumvent licensing requirements while performing regulated activities in substance.
+
+An alternative approach used by some firms is to structure through an Anobag (Anlageberatung ohne Genehmigung) model, where the firm provides investment advice without holding discretionary authority. This avoids the full FinIA licensing requirement but still triggers FinSA conduct obligations for the advisory relationship.
+
 ---
 
 ## Information and Disclosure Obligations

@@ -85,6 +85,10 @@ The threshold that triggers the banking license requirement is central to Swiss 
 
 **Timeline:** 12–24 months from initial pre-application contact to FINMA decision.
 
+**Practical cost reality:** The statutory CHF 10 million minimum capital is a floor, not a target. In current FINMA practice, expect CHF 20 million minimum for a niche or specialist bank — and that is before hiring. A banking licence requires many employees on payroll: compliance officers, risk managers, internal audit, IT security, and front-office staff must all be contracted before FINMA grants unconditional authorisation. The correct first step is not applying for a banking licence — it is analysing whether your planned activities actually require one. In our experience, the majority of clients who approach us believing they need a banking licence are better served by a FinTech licence (CHF 300,000 capital) or SRO membership (CHF 10,000–25,000 in legal costs).
+
+The 2024 liquidation of MBaer Merchant Bank is a reminder that holding a FINMA banking licence does not guarantee survival. Ongoing capital adequacy, governance, and institutional discipline are permanent obligations.
+
 ### FINMA Fintech License (Art. 1b BankG)
 
 Introduced in 2019, the **Fintech License** under Article 1b BankG provides a lighter regulatory regime for companies that:
@@ -190,11 +194,19 @@ SRO membership does not replace a FINMA license — it satisfies the AMLA financ
 
 **Timeline for SRO membership:** 3–6 months. The application requires a complete AML compliance manual, a KYC/CDD procedure manual, a documented transaction monitoring framework, appointment of an AML compliance officer, and financial statements or projections.
 
+**What it actually costs:** The initial SRO application retainer from a Swiss law firm is typically CHF 10,000 (fixed). That is rarely the final number. Once VQF issues supplementary questions — which they do in virtually every application — the full legal cost rises to CHF 25,000 or more. For a complete licence-from-scratch engagement (incorporating the company, preparing the AML programme, and managing the SRO application), budget CHF 80,000–130,000 over 3–6 months. Alternatively, acquiring a turnkey licensed financial intermediary — an existing SRO-licensed entity — costs approximately CHF 480,000 but eliminates the application timeline.
+
+**The three-month audit:** VQF conducts its first compliance audit roughly three months after granting membership. If the director or AML compliance officer cannot demonstrate adequate competence, membership is revoked. This is not theoretical — we have seen it happen.
+
 ### Pathway 2: Direct FINMA Authorisation
 
 Crypto exchanges operating above certain thresholds, or offering services that trigger BankG or FinIA requirements (for example, by accepting client deposits in excess of Art. 1b thresholds), must apply directly to FINMA for authorisation.
 
 **Timeline:** 12–18 months. This pathway is more resource-intensive but confers stronger market recognition and facilitates access to banking relationships.
+
+### FINMA Guidance 01/2026: Crypto Custody Standards
+
+FINMA Guidance 01/2026, published in January 2026, introduced updated requirements for crypto asset custody by regulated financial intermediaries. The guidance specifies minimum technical standards for private key management, cold storage ratios, and segregation of client crypto assets. Institutions providing crypto custody must now demonstrate that at least 95% of client assets are held in cold storage, with documented key ceremony procedures and multi-signature authorisation for any withdrawal exceeding CHF 50,000. This guidance applies to FinTech licence holders, banking licence holders, and SRO members offering custody services.
 
 ### The DLT Act (2021)
 

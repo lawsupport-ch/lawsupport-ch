@@ -87,6 +87,10 @@ The minimum paid-in capital for a standard Swiss banking licence is **CHF 10 mil
 
 In practice, FINMA expects significantly more. A bank with a CHF 10 million balance sheet barely exists. Realistic initial capital for a viable institution — one that can absorb early losses, fund operations, and meet Basel III risk-weighted asset requirements — is typically **CHF 20–50 million** at minimum for a niche or private bank.
 
+**The staffing requirement most applicants underestimate:** FINMA will not grant an unconditional banking licence to an entity without many employees on payroll. Compliance officers, risk managers, internal auditors, IT security staff, and front-office personnel must all be hired and contracted before the licence becomes operational. This means significant payroll commitments — often CHF 1–2 million per year in salaries alone — before the bank has processed a single transaction.
+
+The practical recommendation from experienced Swiss regulatory practitioners: analyse your planned activities first and work backwards to the correct licence category. Many applicants who initially believe they need a banking licence discover that a FinTech licence (CHF 300,000 minimum capital, no lending) or SRO membership (CHF 10,000–25,000 in legal costs) is the appropriate path for their business model. A banking licence is the correct answer only if the business genuinely requires deposit-taking above CHF 100 million or lending operations.
+
 ### Systemically Important Banks
 
 Switzerland's systemically important banks (UBS, Raiffeisen, PostFinance, Zürcher Kantonalbank, and cantonal banks above certain thresholds) operate under materially higher capital surcharges. These rules are not relevant for new entrants but illustrate the regulatory ceiling.
@@ -300,6 +304,14 @@ Governance and fit & proper issues, by a wide margin. Capital requirements are c
 **Q: Can I set up a bank in Switzerland as a foreign national or foreign-owned company?**
 
 Yes. Nationality of directors and shareholders is not a FINMA requirement in itself, though all individuals must pass fit and proper review regardless of nationality. Foreign shareholders holding 10% or more are subject to the same qualifying shareholder review as Swiss nationals. The key requirements are transparency of the ownership structure, sound financial standing, and absence of regulatory sanctions — not Swiss residency or citizenship. For general context on [company formation in Switzerland](/company-formation/company-formation-switzerland/), see our separate guide.
+
+---
+
+## Case Study: When Banking Licences Fail — MBaer Merchant Bank
+
+Not every banking licence story is a success. MBaer Merchant Bank, a FINMA-licensed institution, entered liquidation proceedings in 2024. The case is a reminder that obtaining the licence is the beginning, not the end. Ongoing capital adequacy, governance discipline, and institutional risk management are permanent obligations. FINMA has the authority to revoke a banking licence and initiate liquidation when an institution can no longer meet its regulatory requirements — and it exercises that authority.
+
+For prospective banking licence applicants, the MBaer case underlines a critical point: the total cost of maintaining a banking licence — staff, compliance infrastructure, regulatory audits, FINMA supervision fees, and capital buffers — runs into the millions of CHF per year. If the business model cannot sustain those costs, the licence becomes a liability rather than an asset.
 
 ---
 

@@ -120,15 +120,18 @@ Switzerland has 24 cantons, and most have their own cantonal bank. The major one
 - **BCG (Banque Cantonale de Genève)** — Geneva's cantonal bank, a logical first contact for French-speaking Switzerland and internationally active businesses registered in Geneva.
 - **BCV (Banque Cantonale Vaudoise)** — Vaud canton's bank, covering Lausanne and the surrounding region.
 - **Graubündner Kantonalbank** — A smaller institution with a reputation for pragmatic relationship banking, including for some foreign structures.
-- **Zuger Kantonalbank / Schwyzer Kantonalbank** — Relevant for companies incorporated in Zug or Schwyz, the most common cantons for international holding and operating structures.
+- **Zuger Kantonalbank** — The primary bank for Zug-based companies. Zuger Kantonalbank operates with lower asset thresholds than UBS and is more accessible for smaller international structures. It is accustomed to foreign shareholders, multi-currency accounts, and holding company banking. For companies registered in Zug, this is typically the most straightforward first application.
+- **Schwyzer Kantonalbank** — Relevant for companies incorporated in Schwyz, another common canton for international holding structures.
 
 Cantonal banks are relationship-driven institutions. They serve the economic interests of their canton. A company incorporated in Zug with genuine economic substance in Zug — a real office, a real director, real operational activity — has a reasonable basis for approaching the local cantonal bank. A letterbox company with no local ties will struggle.
 
 ### Private and Wealth Banks
 
-**Pictet**, **Lombard Odier**, **Julius Baer**, and **EFG International** operate in a different tier. These are relationship banks serving high-net-worth individuals and family offices. They are not retail product providers. Most require a minimum investable asset threshold of CHF 500,000 to CHF 1 million or more to initiate a private banking relationship. Julius Baer can also serve as a banking counterparty for larger corporate structures with significant shareholders. For a full breakdown of the private banking tier, see our [private banking Switzerland guide](/banking/private-banking-switzerland/).
+**Pictet**, **Lombard Odier**, **Julius Baer**, and **EFG International** operate in a different tier. These are relationship banks serving high-net-worth individuals and family offices. They are not retail product providers. The real thresholds (not the published minimums): UBS and Julius Baer require CHF 500’000+ under management for non-resident corporate clients. Pictet and Lombard Odier typically require CHF 4–6 million in investable assets to initiate a private banking relationship — these are not negotiable. Julius Baer can also serve as a banking counterparty for larger corporate structures with significant shareholders. For a full breakdown of the private banking tier, see our [private banking Switzerland guide](/banking/private-banking-switzerland/).
 
 ### Neo-Banking and Fintech
+
+**Relio AG** (Zurich-based fintech, CHF 249/month) is a licensed provider offering corporate accounts with same-day onboarding after video verification through Intrum. For European-owned operating companies, Relio is currently the fastest route to a functional Swiss corporate account. The hard limitation: Relio explicitly rejects companies with any US nexus at the UBO or shareholder level.
 
 **Wise Business**, **Revolut Business**, and **Neon Business** are not Swiss banks in the traditional regulatory sense, though they can hold CHF balances and execute Swiss payment instructions. They are fast to set up — sometimes within days — and useful for businesses in early-stage operations or those needing multi-currency functionality without a full banking relationship.
 
@@ -184,9 +187,13 @@ AMINA and Sygnum are built for exactly this client profile. If your business is 
 
 The US Foreign Account Tax Compliance Act requires Swiss banks to report account data for US persons to the IRS. Many smaller cantonal banks have made a deliberate business decision not to invest in FATCA reporting infrastructure, which means they have also made a decision not to serve US-person clients. Presenting as a US citizen or green card holder to an unprepared institution wastes everyone's time.
 
-UBS has FATCA compliance at institutional scale. Some of the larger cantonal banks — ZKB among them — have also invested in this capacity. For a more detailed breakdown of US-specific considerations, see our dedicated page on [opening a Swiss bank account as a US person](/banking/open-swiss-bank-account-us/).
+UBS has FATCA compliance at institutional scale. Some of the larger cantonal banks — ZKB among them — have also invested in this capacity.
 
-**Expected timeline:** 6–10 weeks with a prepared FATCA-ready application.
+The practical reality is harsher than the regulatory framework suggests. Most Swiss banks and fintechs — including Relio — will not onboard companies with a US person at the UBO, shareholder, or director level. One US-owned Swiss AG we worked with was rejected by Relio with the statement that they are “unable to onboard companies with US nexus at UBO/shareholders level.” The company was forced to route payments through a UK parent entity’s account with Ebury (a payment service, not a proper bank account), which created serious compliance issues. Swiss regulators take a dim view of companies operating through another entity’s bank account.
+
+The only reliable path for US-person-owned Swiss companies is UBS (with the CHF 500’000+ threshold) or a cantonal bank with documented FATCA infrastructure. Budget additional time and prepare for at least one rejection. For a more detailed breakdown, see our dedicated page on [opening a Swiss bank account as a US person](/banking/open-swiss-bank-account-us/).
+
+**Expected timeline:** 6–10 weeks with a prepared FATCA-ready application, assuming you apply to the right institution first.
 
 ---
 
@@ -216,7 +223,7 @@ Understand the limitations clearly: these are not Swiss bank accounts in the reg
 | Holding company, EU shareholders | ZKB or UBS | Full UBO transparency | 6–10 weeks |
 | Holding company, complex/non-EU shareholders | UBS or Julius Baer | Clear ownership chain, source of funds | 8–12 weeks |
 | Crypto / blockchain / VASP | AMINA Bank or Sygnum Bank | VASP registration, AML framework | 6–12 weeks |
-| US-person-owned entity | UBS or FATCA-compliant cantonal bank | FATCA documentation, W-9 | 6–10 weeks |
+| US-person-owned entity | UBS (CHF 500K+ AUM) or FATCA-compliant cantonal bank | FATCA documentation, W-9, expect rejections | 6–10 weeks |
 | High-net-worth personal banking | Pictet, Lombard Odier, Julius Baer, EFG | CHF 500K–1M+ AUM; formal introduction | Relationship-based |
 | Early-stage / fast setup needed | Wise Business, Revolut Business, Neon | Basic business documentation | Days |
 
@@ -250,7 +257,7 @@ For a full breakdown of the most common reasons Swiss bank account applications 
 
 ## How Lawsupport Approaches Bank Selection
 
-We do not submit applications and wait to see which bank responds. We profile each client's business before a single document is prepared. That means understanding the company's structure, the UBOs' nationalities and financial history, the business activity and its risk classification, the expected transaction patterns, and any factors that require active management in the compliance process.
+We do not submit applications and wait to see which bank responds. Account opening is solely the bank’s decision — there is no right to a Swiss bank account, and no appeals process when a bank declines. That makes bank selection the most consequential step in the process. We profile each client’s business before a single document is prepared. That means understanding the company's structure, the UBOs' nationalities and financial history, the business activity and its risk classification, the expected transaction patterns, and any factors that require active management in the compliance process.
 
 From that profile, we identify which Swiss banking institutions are currently open to that type of client — based on our active working relationships with multiple institutions across the Swiss banking sector. We prepare the application to each bank's specific expectations, not to a generic template. And we manage the relationship with the bank's compliance and onboarding teams throughout the process.
 
@@ -343,7 +350,7 @@ Lawsupport (Morgan Hartley Consulting) has been opening Swiss bank accounts for 
       "name": "What is the rejection rate for foreign companies applying to Swiss banks?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "There is no published industry figure, but in practice the majority of cold applications from foreign-owned companies are unsuccessful. The most common reasons are a mismatch between the applicant's risk profile and the bank's current compliance appetite, incomplete documentation, and unclear ownership structures. Applications prepared with professional guidance and directed to the appropriate institution have a substantially higher success rate."
+        "text": "There is no published industry figure, but in practice the majority of cold applications from foreign-owned companies are unsuccessful. From our case files, the most common rejection triggers are: (1) US person at any level of the ownership chain, (2) brand-sensitive company names that trigger compliance questions, (3) insufficient documentation of business model and revenue source, (4) AML/WorldCheck flags on directors or UBOs, (5) UBOs from high-risk or sanctioned jurisdictions, and (6) no existing Swiss banking relationship. Applications prepared with professional guidance and directed to the appropriate institution have a substantially higher success rate."
       }
     },
     {
@@ -408,7 +415,7 @@ Fee structures vary significantly. Cantonal banks typically charge monthly accou
 
 **What is the rejection rate for foreign companies applying to Swiss banks?**
 
-There is no published industry figure, but in practice the majority of cold applications from foreign-owned companies are unsuccessful. The most common reasons are a mismatch between the applicant's risk profile and the bank's current compliance appetite, incomplete documentation, and unclear ownership structures. Applications prepared with professional guidance and directed to the appropriate institution have a substantially higher success rate.
+There is no published industry figure, but in practice the majority of cold applications from foreign-owned companies are unsuccessful. From our case files, the most common rejection triggers are: (1) US person at any level of the ownership chain, (2) brand-sensitive company names that trigger compliance questions, (3) insufficient documentation of business model and revenue source, (4) AML/WorldCheck flags on directors or UBOs, (5) UBOs from high-risk or sanctioned jurisdictions, and (6) no existing Swiss banking relationship. Applications prepared with professional guidance and directed to the appropriate institution have a substantially higher success rate.
 
 **Can foreigners open multi-currency accounts at Swiss banks?**
 

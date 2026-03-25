@@ -69,6 +69,10 @@ A full banking licence is required for any entity that:
 
 **Cost:** FINMA fees are CHF 10,000–100,000+ depending on complexity. Legal and advisory costs for a banking licence application: CHF 500,000–2,000,000.
 
+**Practical capital reality:** The statutory minimum is CHF 10 million, but no serious banking licence application proceeds with that figure. FINMA expects CHF 20 million at minimum for a niche bank, and most successful applicants start with significantly more. A banking licence also requires many employees on payroll before FINMA will grant authorisation — compliance officers, risk managers, IT staff, and front-office personnel must all be hired and in place. The recommendation from experienced Swiss regulatory practitioners is to analyse your planned activities first and work backwards to the correct licence category. Many clients who initially believe they need a banking licence discover that a FinTech licence or SRO membership is the appropriate path.
+
+The liquidation of MBaer Merchant Bank in 2024 — a FINMA-licensed institution that failed despite holding a valid licence — illustrates that obtaining the licence is only the beginning. Ongoing capital adequacy, governance, and compliance are continuous obligations that carry real institutional risk.
+
 For the company vehicle underlying a banking or financial institution, see our [AG formation Switzerland](/company-formation/ag-formation-switzerland/) guide — Swiss banks and securities firms are typically incorporated as AGs.
 
 ---
@@ -163,6 +167,27 @@ Financial intermediaries not falling under FINMA-supervised entities must affili
 - Payment service providers below the FinTech licence threshold
 
 SRO membership is not a FINMA licence — it is fulfilment of the AML compliance obligation under the Anti-Money Laundering Act (AMLA).
+
+### What SRO Membership Actually Costs
+
+The headline figure for SRO application assistance from a Swiss law firm is typically CHF 10,000 as a fixed retainer. That number rarely holds. Once VQF raises supplementary questions — and they will — the regulatory retainer expands to CHF 25,000 or more for full legal support through approval.
+
+A more realistic cost breakdown based on current Swiss market rates:
+
+| Path | Total Cost (CHF) | Timeline |
+|---|---|---|
+| SRO membership (VQF) with legal support | 25,000–40,000 | 3–6 months |
+| FINMA licence from scratch (company + licence) | 80,000–130,000 | 3–6 months |
+| Turnkey licensed financial intermediary (acquisition) | ~480,000 | 1–3 months |
+| Full banking licence (capital alone) | 20,000,000+ | 12–24 months |
+
+The turnkey route — acquiring an existing SRO-licensed entity — eliminates the application timeline but costs roughly ten times more than building from scratch. Clients who need to be operational within weeks rather than months sometimes choose this path despite the premium.
+
+### The Three-Month Audit Trap
+
+One critical detail that most guides omit: VQF conducts its first compliance audit approximately three months after granting SRO membership. If the director or AML compliance officer cannot demonstrate adequate competence during that audit, the membership is revoked. We have seen this happen. One client — a blockchain payments company — spent CHF 38,000 on legal fees over 36 hours of work, only to abandon the process when their business model shifted mid-application. The entire investment was lost, with only CHF 5,000 refunded.
+
+The lesson: do not start the SRO application until your business model is final. VQF will hold you to the model you described in the application. If it changes, the analysis restarts.
 
 ---
 

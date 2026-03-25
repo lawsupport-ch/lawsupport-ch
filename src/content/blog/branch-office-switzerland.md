@@ -84,7 +84,7 @@ The branch must have a [registered Swiss address](/corporate-services/registered
 
 The registration process for a Swiss branch is similar to company formation but does not require a Swiss notarial deed. The notarial requirements relate solely to apostilling the foreign parent's documents in the home country.
 
-**Timeline:** 15–25 business days from complete filing with the cantonal register, depending on the canton and documentation quality.
+**Timeline:** 15–25 business days from complete filing with the cantonal register, depending on the canton and documentation quality. Summer filings tend to process faster; the pre-Christmas period (November-December) is consistently slower across all cantonal registers.
 
 **Cantonal choice:** Unlike a subsidiary, a branch's location is determined by where it actually conducts business. You cannot register a branch in Zug if all activity is in Zurich. The branch must have a genuine business presence in the canton of registration — the cantonal register may request evidence of this.
 
@@ -143,6 +143,10 @@ Branch registration in Switzerland typically costs:
 | **Total (first year, all-in)** | **~4,000–6,500** |
 
 Ongoing annual costs include the resident representative fee (CHF 1,500–2,500), Swiss corporate tax return preparation, and VAT compliance if registered.
+
+**When a branch is the wrong answer:** Many clients approach us requesting a branch because it appears cheaper than a GmbH. The first-year cost difference is real (CHF 4,000-6,500 versus CHF 9,000-11,000 for a GmbH all-in package). But the branch exposes the parent company to unlimited Swiss liability, provides no separate legal personality for Swiss contracts, and creates permanent establishment tax filing obligations that add complexity year after year. For any engagement expected to last longer than 18 months, the GmbH is almost always the better structure.
+
+**The SECO trap:** If the branch will involve staff leasing or employee placement, a SECO licence is required regardless of the number of contracts. The common belief that “fewer than 10 contracts means no licence is needed” is false. Fines run up to CHF 100,000 for the provider and CHF 40,000 for the client if the client knew the provider lacked authorisation. A master services agreement from a US parent entity does not automatically apply to the Swiss branch — the Swiss entity must issue its own contracts.
 
 ---
 

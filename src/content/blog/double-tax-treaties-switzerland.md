@@ -29,6 +29,8 @@ tocItems:
 
 Switzerland's double tax treaties directly determine how much withholding tax is deducted at source on dividends, interest, and royalties paid to foreign recipients — and whether a foreign business has a taxable presence in Switzerland. With over 100 double tax agreements (DTAs) currently in force, Switzerland operates one of the most extensive treaty networks in the world. This guide sets out the mechanics, the key treaty rates, and the anti-avoidance rules that practitioners and clients must understand in 2026.
 
+One number that contextualises everything in this article: approximately 80% of Swiss company formations handled by fiduciary firms involve foreign founders. For these clients, the DTA network is not an academic exercise — it determines how much of their Swiss company’s profits they can actually extract and repatriate.
+
 ---
 
 ## What Double Tax Treaties Do
@@ -70,6 +72,8 @@ The domestic 35% rate applies to all outbound payments unless:
 3. The recipient is Swiss tax resident and can reclaim under the standard domestic refund mechanism.
 
 For international structures, the treaty rate — not the statutory 35% — is the operative number.
+
+> **The 35% trap for uninformed founders:** A surprisingly common scenario in practice: a foreign founder incorporates a Swiss GmbH, generates profit, and declares a dividend without applying for treaty relief. The Swiss company withholds the full 35% and remits it to the ESTV. The founder then discovers that reclaiming the excess (the difference between 35% and the treaty rate) requires a formal refund application that takes six to eighteen months to process. For a CHF 200,000 dividend to a German shareholder, the difference between the 35% domestic rate and the 15% treaty rate is CHF 40,000 — locked up for over a year while the ESTV processes the claim. Relief at source, properly arranged in advance, avoids this entirely.
 
 ---
 
@@ -145,13 +149,19 @@ The Switzerland–US DTA (1996, as amended) contains a detailed Limitation on Be
 
 Intermediary holding companies established primarily to route US income through Switzerland without substantive Swiss business activity will fail the LOB test and cannot claim the 5% treaty rate on US dividends.
 
+> **From practice — the US nexus problem:** The LOB clause is not merely a theoretical concern. US-connected founders face a compound problem in Switzerland: not only are treaty benefits harder to secure, but Swiss banks routinely reject companies with US persons at the UBO or shareholder level. One fintech (Relio AG, Zurich) explicitly states it is “unable to onboard companies with US nexus at UBO/shareholders level.” A US-owned Swiss company rejected by Relio was forced to route operations through a UK parent entity’s payment service account — creating compliance problems that Swiss regulators view as questionable. US persons who want Swiss structures must address both the treaty/LOB layer and the banking access layer simultaneously, and both require specialist planning before incorporation.
+
 ### Principal Purpose Test (PPT) — BEPS-Aligned Treaties
 
 Switzerland updated its DTA network under OECD BEPS Action 6 (Prevention of Treaty Abuse) through the Multilateral Instrument (MLI), to which Switzerland is a signatory. Treaties covered by the MLI now include a **Principal Purpose Test**: treaty benefits are denied if it is reasonable to conclude that obtaining that benefit was one of the principal purposes of an arrangement or transaction, unless granting the benefit is consistent with the object and purpose of the treaty.
 
 This is a subjective, facts-and-circumstances test administered by the tax authorities of both contracting states. A Swiss company that exists solely to channel dividends to a third-country parent — with no employees, no office, no decision-making capacity, and no genuine business in Switzerland — is at material risk of PPT challenge even where the treaty rate would otherwise apply.
 
-The practical implication is clear: treaty benefits require genuine substance. Management decisions must be made in Switzerland by qualified personnel. Board meetings must be held in Switzerland with directors who actively supervise the structure. Mere registration in Zug is insufficient. See our guide to [company formation in Switzerland](/company-formation/company-formation-switzerland/) for substance requirements in practice.
+The practical implication is clear: treaty benefits require genuine substance. Management decisions must be made in Switzerland by qualified personnel. Board meetings must be held in Switzerland with directors who actively supervise the structure. Mere registration in Zug is insufficient.
+
+What does “genuine substance” cost in practice? A registered address in Zug runs CHF 2,400 per year (CHF 3,000 in Zurich). A nominee director who provides the Swiss-resident board member required for substance costs CHF 5,900 per year for a standard arrangement or CHF 7,400 for higher involvement. Critical detail: the standard nominee director fee does not include signing work permits, attending to corporate filings, participating in board meetings, or executing banking documentation — all of which are billed separately at CHF 350 per hour. A nominee director who is merely a name on the register without active involvement may satisfy commercial register requirements but will not satisfy the PPT substance test.
+
+See our guide to [company formation in Switzerland](/company-formation/company-formation-switzerland/) for substance requirements in practice.
 
 ---
 
@@ -198,7 +208,7 @@ Only with genuine Swiss substance. Treaty shopping — using a Swiss entity pure
 
 **How long does a withholding tax refund take?**
 
-The ESTV generally processes DTA refund applications within six to eighteen months from the date the application is received. The timeline depends on the complexity of the case, the treaty partner, and whether additional documentation is requested. Interest is paid on late refunds in certain circumstances. For recurring dividend flows, applying to the ESTV for an advance arrangement to withhold at the treaty rate directly is worth considering.
+The ESTV generally processes DTA refund applications within six to eighteen months from the date the application is received. The timeline depends on the complexity of the case, the treaty partner, and whether additional documentation is requested. Interest is paid on late refunds in certain circumstances. For recurring dividend flows, applying to the ESTV for an advance arrangement to withhold at the treaty rate directly is strongly recommended — the cash-flow impact of having 35% withheld and waiting over a year for a refund is material. On a CHF 1,000,000 dividend to a UK corporate shareholder (0% treaty rate), the withheld amount is CHF 350,000 — locked up until the ESTV processes the claim.
 
 **Do Swiss DTAs cover capital gains on the sale of Swiss company shares?**
 

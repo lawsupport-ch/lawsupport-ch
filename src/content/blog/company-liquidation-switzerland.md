@@ -117,6 +117,10 @@ The tax clearance from the cantonal authority is usually the longest single step
 
 Complex liquidations — companies with multiple creditors, outstanding litigation, regulatory positions, or multi-year accounting gaps — cost more. We provide a fixed-fee estimate at the outset.
 
+**The dormant company trap:** Clients frequently assume that a company with zero revenue is cheap to maintain. The minimum annual cost for a dormant company (zero turnover) is approximately CHF 1,400 for annual statements and tax filing. If the company has a nominee director (CHF 5,900/year) and registered address (CHF 2,400/year in Zug), the dormant holding cost exceeds CHF 9,700 annually. At that rate, liquidation — despite its 5-6 month timeline — often makes financial sense within 18 months of the decision to stop trading.
+
+**The accounting prerequisite most clients miss:** If the company’s books are not current, the liquidation cannot proceed. The Commercial Register will not accept a dissolution filing without confirmation that all tax returns are filed and the cantonal authority has cleared the company. We regularly see companies where 2-3 years of accounting are outstanding. Bringing those current costs CHF 1,500-4,000 depending on complexity — and that expense comes before the liquidation process even begins.
+
 ---
 
 ## Accounting Must Be Current
@@ -131,7 +135,9 @@ For more on ongoing accounting obligations, see our guide to [accounting in Swit
 
 Before proceeding with full liquidation, it is worth considering whether a different outcome better serves your situation.
 
-**Sale of the company.** If the company has value — even as a shell with a clean history and existing bank account — it may be saleable. This can be quicker and more financially advantageous than liquidation.
+**Sale of the company.** If the company has value — even as a shell with a clean history and existing bank account — it may be saleable. This can be quicker and more financially advantageous than liquidation. We maintain an inventory of shelf companies and regularly purchase clean, dormant entities from clients. A company with 15+ years of Commercial Register history, zero debt, and current financial statements has real resale value — CHF 15,000-17,000 for a 15-17 year old company, substantially more for older entities. A 1933-vintage company recently sold for CHF 47,500.
+
+**2025 shelf company rule change:** The Commercial Register now has expanded powers to scrutinise shell company sales. Changes to a sold entity must be executed in two stages (name and board first, then business activity). The register can also void sales it considers abusive. This means not every dormant company is saleable — the register will assess whether the transfer has genuine commercial substance.
 
 **Merger or conversion.** If you are restructuring a group, the Federal Act on Mergers (FusG) allows a company to be absorbed by another Swiss entity, with assets and liabilities transferring by operation of law. This avoids a full liquidation in some structures.
 

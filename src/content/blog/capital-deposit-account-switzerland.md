@@ -77,15 +77,17 @@ Not every Swiss bank offers capital deposit accounts, particularly for foreign-o
 
 **Cantonal banks:** ZKB (Zürcher Kantonalbank), Zuger Kantonalbank, Schwyzer Kantonalbank, and most other cantonal banks. KYC for foreign nationals is thorough but manageable with proper preparation. Cantonal banks in Zug and Zurich have the most experience with international formations.
 
-**PostFinance:** Switzerland's postal bank offers Kapitaleinzahlungskonten with a relatively standardised process — a practical option for straightforward formations.
+**PostFinance:** Switzerland’s postal bank offers Kapitaleinzahlungskonten with a standardised application process. However, PostFinance rejects more frequently than most founders expect. In our experience, PostFinance has refused accounts for companies with brand-sensitive names (one tech company with “Tesla” in its registered name was asked to justify the name choice, then rejected), for pharmaceutical and health sector companies with clean documentation, and for structures where the business model description did not satisfy their internal compliance checklist. Expect 3–4 weeks of processing before a rejection arrives — time you cannot recover. PostFinance requires a full business plan, CVs of all directors, employment contracts if applicable, detailed transaction descriptions, and source of funds documentation.
 
-**UBS and Credit Suisse (now UBS):** Available in principle but typically reserved for existing clients or formations with a clear Swiss operational presence.
+**UBS (which absorbed Credit Suisse in 2023):** UBS requires CHF 500’000 or more under management to consider new non-resident clients for corporate account relationships. For the capital deposit account specifically, UBS is accessible if the founders can demonstrate an existing UBS relationship or commit to a substantial ongoing banking relationship. Without that threshold, the application will stall in compliance.
+
+**Relio AG (Zurich-based fintech):** Relio is a licensed fintech offering corporate accounts at CHF 249 per month with same-day onboarding after video verification (conducted through Intrum). Relio does not offer capital deposit accounts, but it is relevant for the permanent operating account that follows formation. Relio is fast and founder-friendly, but it explicitly rejects companies with any US nexus at the UBO or shareholder level. This is a hard policy, not a case-by-case decision.
 
 **Online/fintech banks:** Providers such as Neon, Revolut Business, and Wise Business do not offer capital deposit accounts. They are unsuitable for the formation step.
 
 **Private banks:** Focus on wealth management; they rarely offer Kapitaleinzahlungskonten for standard corporate formations.
 
-The key variable for foreign founders is the bank's appetite for international KYC. Applications with complex ownership chains or founders from certain jurisdictions will receive more scrutiny. Swiss banks reject approximately 20–30% of foreign company account applications overall; having a formation lawyer prepare the documentation package reduces that rate significantly.
+The key variable for foreign founders is the bank's appetite for international KYC. Applications with complex ownership chains or founders from certain jurisdictions will receive more scrutiny. Swiss banks reject approximately 20–30% of foreign company account applications overall. The most common rejection triggers we see in practice: insufficient documentation of business model and revenue source, AML/WorldCheck flags on directors or UBOs, UBOs from high-risk jurisdictions, brand-sensitive company names that trigger additional compliance questions, and — increasingly — any US person connection at the beneficial owner level. Having a formation lawyer prepare the documentation package and pre-screen the bank selection reduces the rejection rate substantially.
 
 For an overview of ongoing business banking after formation, see the [corporate bank account Switzerland](/banking/corporate-bank-account-switzerland/) guide, or the broader [Swiss bank account](/banking/swiss-bank-account/) overview.
 
@@ -121,13 +123,17 @@ This process is the same whether forming a company in Zurich, Zug, or any other 
 
 | Phase | Duration |
 |---|---|
-| Bank KYC review and account opening | 2–6 weeks |
-| Deposit and Einzahlungsbestätigung issued | 1–3 business days after opening |
-| Notarial deed preparation and signing | 3–7 days |
-| Commercial Register filing and publication | 1–2 weeks |
-| **Total: Kapitaleinzahlungskonto to registered company** | **4–10 weeks** |
+| Bank pre-check and blocked account opening | ~1 week |
+| Capital transfer and bank certificate issued | ~1 week (depends on founder speed) |
+| Notarial deed signing and filing | 1–2 days |
+| Commercial Register processing | 2–4 weeks (faster in summer, slower before Christmas) |
+| **Total: initiation to registered company** | **~1 month (well-prepared) to 3+ months (problem cases)** |
 
-The bank KYC phase is the primary variable. Complex ownership structures, high-risk jurisdictions, or incomplete documentation extend the process toward the upper end. Well-prepared applications with a complete KYC package — assembled by a formation lawyer — consistently achieve the lower end of the range.
+These timelines come from actual formation work. The bank pre-check phase is the critical gate: if the bank approves the blocked (capital deposit) account, there is roughly an 80% probability it will also approve the permanent operating account afterwards. This is the single most important signal in the entire formation timeline.
+
+Commercial Register processing speed varies seasonally. Summer months tend to be faster; the weeks before Christmas are consistently the slowest. In problem cases — complex ownership, regulatory queries, incomplete filings — the register can take 3+ months.
+
+**Practical note:** A Swiss company can legally begin operating from the moment of notarial signing, before the Commercial Register publishes the entry on ZEFIX. If your business timeline is tight, this can provide 2–4 weeks of operating time while the registration is processed. Prior to 2022, it was also possible to pay a 60% surcharge for expedited publication — that option has been abolished.
 
 ---
 
@@ -169,7 +175,7 @@ A Kapitaleinzahlungskonto is a blocked bank account opened in the name of the co
 
 **Which Swiss banks offer capital deposit accounts?**
 
-Cantonal banks (ZKB, Zuger Kantonalbank, Schwyzer Kantonalbank), PostFinance, and UBS are the main providers. Fintech banks such as Neon and Revolut Business do not offer this service. Cantonal banks in Zug have the most experience with international founders.
+Cantonal banks (ZKB, Zuger Kantonalbank, Schwyzer Kantonalbank), PostFinance, and UBS are the main providers. PostFinance has the most standardised process but also the highest rejection rate in our experience — we have seen rejections for brand-sensitive company names, health sector companies, and structures with insufficient business documentation. UBS requires CHF 500’000+ under management for new non-resident relationships. Fintech providers such as Neon and Revolut Business do not offer capital deposit accounts. For the permanent account that follows formation, Relio AG (CHF 249/month, Zurich-based) offers same-day onboarding after video verification but rejects all US-nexus companies.
 
 **What documents are needed to open a capital deposit account?**
 

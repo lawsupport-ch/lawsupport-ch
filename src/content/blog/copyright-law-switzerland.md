@@ -152,6 +152,8 @@ Switzerland does not have a general work-for-hire doctrine equivalent to US copy
 
 This is a frequent gap in Swiss employment and freelance contracts. Businesses that commission creative work from contractors or employees should ensure their agreements address this directly — otherwise they may not own what they paid for.
 
+> **A pattern from our corporate advisory work:** We routinely review employment contracts for newly formed Swiss companies — particularly tech startups and design agencies — and find that roughly half of them lack any copyright assignment clause for non-software creative output. A marketing agency in Zurich discovered this gap when a departing designer claimed copyright over campaign materials the agency had been reselling to clients for two years. The designer was legally correct: without a written assignment, the economic rights had never transferred. The agency had to negotiate a retroactive licence at significant cost. The fix is a single paragraph in the employment contract, drafted before the employee produces their first deliverable — not after a dispute arises.
+
 ---
 
 ## Software Copyright
@@ -205,6 +207,10 @@ Available remedies include:
 
 Border measures are also available: customs authorities can detain suspected infringing goods at the border on application by the rights holder.
 
+### Enforcement Costs: What to Budget
+
+Copyright enforcement in Switzerland is not cheap. A cease-and-desist letter drafted by a qualified Swiss IP lawyer costs CHF 1,500–3,500. If the matter proceeds to an interim injunction application, legal fees typically reach CHF 10,000–25,000. Full civil proceedings — through to trial and judgment — commonly run to CHF 50,000–150,000 depending on the complexity and the amount in dispute. Criminal complaints are less expensive to file but slower to progress and depend on prosecutorial priorities. The cost asymmetry means that for lower-value infringements, a well-drafted cease-and-desist letter is often the only economically rational enforcement step.
+
 For related intellectual property protections, see our guides to [trademark registration in Switzerland](/intellectual-property/trademark-registration-switzerland/) and [IP protection in Switzerland](/intellectual-property/ip-protection-switzerland/).
 
 ---
@@ -248,6 +254,8 @@ The first practical step is a formal cease-and-desist letter (Unterlassungsschre
 **How does Swiss copyright law apply to AI-generated content?**
 
 Swiss law, like most jurisdictions, does not currently recognise AI as an author. Copyright requires a human author who exercises creative judgment. Output generated purely by an AI tool — without meaningful human creative input into the specific expression — does not attract copyright protection under the URG. Where a human directs, selects, and shapes AI output with sufficient creative input, that human's contribution may be protectable, but the analysis is fact-specific. This remains a developing area of law.
+
+**Practical implication for Swiss businesses:** If your company uses AI tools to generate marketing copy, design drafts, or code — and many Swiss companies now do — that output may not be protectable by copyright. A competitor could legally copy AI-generated text from your website without infringing your rights, because there are no rights to infringe. The strategic response is to ensure meaningful human creative input at the expression level (not just the prompt level) and to maintain evidence of that human contribution.
 
 **What happens if I commission a logo or website design from a freelancer in Switzerland?**
 

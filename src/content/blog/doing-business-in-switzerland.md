@@ -66,7 +66,7 @@ Doing business in Switzerland offers a stable, predictable environment where com
 
 This guide is written for international investors, CFOs, and founders evaluating Switzerland as a place to incorporate, operate, or expand. It covers the full business lifecycle — from choosing a legal entity to opening a bank account, hiring employees, protecting intellectual property, and resolving disputes. Where relevant, it points to dedicated guides that go deeper on each topic.
 
-Lawsupport has assisted with [1,000+ company formations](/company-formation/company-formation-switzerland/) for clients from over 40 countries. The observations here are grounded in 18+ years of practitioner experience.
+Lawsupport has assisted with [1,000+ company formations](/company-formation/company-formation-switzerland/) for clients from over 40 countries, managing 300+ companies under active fiduciary services. Approximately 80% of our clients are foreign nationals or foreign-owned entities — the observations in this guide are grounded in 18+ years of daily practice serving international businesses, not theoretical commentary.
 
 ---
 
@@ -104,7 +104,27 @@ Understanding the federal/cantonal distinction is essential to operating in Swit
 
 The Gesellschaft mit beschränkter Haftung (GmbH) is the Swiss equivalent of a private limited company. It is the most common structure for foreign-owned operating companies and subsidiaries. The minimum share capital is CHF 20,000, fully paid up. Management is exercised by one or more managers (Geschäftsführer), at least one of whom must be a Swiss resident.
 
+**Real all-in costs for a foreign founder (2026):** GmbH registration including notary fees: CHF 1'900. Registered address in Zug: CHF 2'400/year (Zurich: CHF 3'000/year). Nominee Swiss-resident director: CHF 5'900/year (standard) or CHF 7'400/year (higher involvement). Accounting for a dormant company: from CHF 1'400/year. A full formation package (registration + address + nominee director + first year accounting) runs CHF 9'000-11'000 plus the share capital deposit. These are real prices from current engagements, not estimates.
+
+The nominee director fee does not include signing work permits, corporate filings, board meeting attendance, or banking documentation — those are billed separately at CHF 350/hour.
+
 The GmbH is registered in the [Commercial Register](/company-formation/commercial-register-switzerland/) and offers limited liability to its shareholders. It is well-suited to operating businesses, professional service firms, and holding structures where a close-held ownership structure is appropriate.
+
+### What a GmbH Actually Costs: The All-In Number
+
+Most guides quote the CHF 20,000 minimum share capital and stop there. Here is the realistic all-in cost for a foreign-owned GmbH in its first year:
+
+| Item | Cost (CHF) |
+|---|---|
+| GmbH registration (incl. notary) | 1,900 |
+| Registered address (Zug) | 2,400/year |
+| Nominee director (if non-resident owner) | 5,900/year |
+| Basic accounting (dormant / low activity) | 1,800/year |
+| **Total first-year operating cost** | **~12,000 + share capital** |
+
+For an AG, registration costs approximately CHF 2,500, and the minimum paid-in share capital is CHF 50,000 (out of CHF 100,000 total). The registered address in Zurich runs CHF 3,000/year — CHF 600 more than Zug for the same service.
+
+These figures do not include the share capital itself, which is the founder's equity in the company. But the operational overhead — the costs you pay regardless of whether the company generates revenue — is the number foreign founders need to plan around.
 
 For a full comparison of Swiss entity types, see our [company formation in Switzerland guide](/company-formation/company-formation-switzerland/).
 
@@ -124,13 +144,13 @@ One of the most consequential decisions when [starting a business in Switzerland
 
 | Canton | Effective Combined CIT Rate (approx.) |
 |---|---|
-| Zug | 11.8% |
+| Zug | ~11.85% |
 | Nidwalden | 12.0% |
 | Lucerne | 12.2% |
-| Appenzell Innerrhoden | 13.0% |
+| Basel-Stadt | 13.0% |
 | Geneva | 13.99% |
-| Zurich | 19.7% |
-| Bern | 20.7% |
+| Basel-Landschaft | 17.0% |
+| Zurich | ~20.0% |
 
 These figures reflect the combined federal (8.5% on profit after tax, effectively ~7.83%), cantonal, and municipal rates. For a company generating CHF 1,000,000 in profit annually, the difference between incorporating in Zug versus Bern is approximately CHF 90,000 per year in corporate tax. Over a decade, the cumulative impact is material.
 
@@ -172,9 +192,20 @@ Switzerland's banking infrastructure is among the most sophisticated in the worl
 
 ### The Reality of Corporate Account Opening
 
-Opening a [Swiss corporate bank account](/banking/corporate-bank-account-switzerland/) is not a formality. Swiss banks operate under strict anti-money laundering obligations under the Anti-Money Laundering Act (AMLA/GwG), and due diligence requirements for foreign-owned companies are extensive. For companies without professional guidance, rejection rates of **20–30%** are not uncommon. Banks require certified corporate documents, full beneficial ownership disclosure, business plans, and evidence of genuine Swiss nexus.
+Banking is consistently the hardest part of doing business in Switzerland as a foreigner — harder than company formation, harder than finding office space, harder than the regulatory process. Approximately 80% of our clients are foreign nationals, and banking is where most of them encounter genuine friction.
 
-The typical timeline from application to operational account is **4–8 weeks** — longer for regulated sectors or complex ownership structures. A [capital deposit account](/banking/capital-deposit-account-switzerland/) is required at the formation stage to pay in share capital. Engaging a formation and compliance adviser significantly improves both timeline and approval probability.
+Opening a [Swiss corporate bank account](/banking/corporate-bank-account-switzerland/) is not a formality. Swiss banks operate under strict anti-money laundering obligations under the Anti-Money Laundering Act (AMLA/GwG), and due diligence requirements for foreign-owned companies are extensive. Rejection rates of 20–30% for unprepared applications are not uncommon.
+
+The real banking situation for foreign-owned companies in 2026:
+- **UBS**: requires CHF 500’000+ under management for new non-resident corporate clients
+- **PostFinance**: standardised process but rejects frequently — brand-sensitive company names, health sector companies, and insufficient business documentation are common triggers
+- **Cantonal banks** (Zuger Kantonalbank, ZKB): the most practical option for most operating companies with genuine local substance
+- **Relio AG** (fintech, CHF 249/month): same-day onboarding after video verification, but explicitly rejects any US-nexus companies
+- **US persons**: practically always rejected by Swiss banks. Exception: existing Swiss residence + physical presence + demonstrated tax compliance in both countries
+
+Account opening is solely the bank’s decision. There is no right to a Swiss bank account and no appeals process. If the bank approves a blocked capital deposit account during formation, there is roughly an 80% probability it will also approve the permanent operating account — this is the most important signal in the process.
+
+Timeline: from approximately 1 month (well-prepared, right bank) to 3+ months for complex structures. A [capital deposit account](/banking/capital-deposit-account-switzerland/) is required at the formation stage to pay in share capital.
 
 ---
 
@@ -227,6 +258,7 @@ However, several sectors are subject to dedicated federal regulatory oversight:
 - **Pharmaceuticals and medical devices**: Swissmedic authorises pharmaceutical products and supervises the pharmaceutical industry.
 - **Food, hospitality, and gastronomy**: Subject to cantonal licensing, typically administered by the relevant cantonal authority.
 - **Real estate brokerage, legal services, and certain professional activities**: Subject to cantonal or professional body regulation.
+- **Staff leasing (Personalverleih)**: Any company placing temporary workers in Switzerland requires a SECO staff leasing licence — there is no minimum threshold of contracts. The common belief that fewer than ten placements are exempt is **false**. Fines reach CHF 100,000 for unlicensed providers and CHF 40,000 for clients who knowingly use them. The responsible person must be a Swiss resident with relevant qualifications and clean criminal and debt records. Foreign companies using a Master Services Agreement from their parent entity should note that the MSA must be issued by the **Swiss legal entity** — a foreign-issued MSA has no standing for Swiss staff leasing compliance.
 
 The <a href="https://www.seco.admin.ch/seco/en/home/Arbeit/Arbeitsbedingungen/arbeitsrecht.html" target="_blank" rel="nofollow noopener">State Secretariat for Economic Affairs (SECO)</a> publishes guidance on business activities and labour law compliance.
 
@@ -291,17 +323,18 @@ The **Swiss International Arbitration Centre** in Geneva is one of the leading v
 
 Operating a business in Switzerland as a foreign national or foreign-owned entity involves several practical constraints worth understanding in advance:
 
-1. **Banking timeline**: Allow 4–8 weeks for a corporate account to become operational. Preparation of due diligence documentation in advance is essential.
+1. **Banking timeline**: Allow at least 1 month for a corporate account to become operational, and budget for the possibility of 3+ months if your structure involves US persons or non-EU ownership. Preparation of due diligence documentation in advance is essential. A better address (real office, not c/o) genuinely improves banking outcomes.
 2. **Swiss resident director requirement**: Both the AG and GmbH require at least one Swiss-resident authorised signatory on the board or management. International investors who do not personally reside in Switzerland must arrange a qualified [nominee director](/corporate-services/nominee-director-switzerland/) through a service provider.
 3. **FINMA licensing for regulated activities**: If your business model touches financial services, asset management, payment processing, or crypto — even peripherally — obtain a regulatory opinion before commencing operations. Operating without a required FINMA licence carries criminal liability.
 4. **Language**: Switzerland has four official languages — German, French, Italian, and Romansh. English is the de facto language of international business and is widely used in Zurich and Geneva. However, regulatory correspondence, [Commercial Register](/company-formation/commercial-register-switzerland/) filings, and employment contracts may require translation into the relevant official cantonal language.
-5. **Substance requirements**: Switzerland's low-tax regime is legitimate, but international tax rules (BEPS Pillar Two, Swiss STAF reform) require that companies have genuine substance — real employees, real management, real operations — to benefit from low cantonal rates. Pure letterbox structures are increasingly non-compliant.
+5. **Substance requirements**: Switzerland’s low-tax regime is legitimate, but international tax rules (BEPS Pillar Two, Swiss STAF reform) require that companies have genuine substance — real employees, real management, real operations — to benefit from low cantonal rates. Pure letterbox structures are increasingly non-compliant.
+6. **Ongoing business costs** (real figures): Registered address CHF 2’400/year in Zug, CHF 3’000/year in Zurich. Accounting from CHF 1’400/year (dormant) to CHF 3’800/year (up to 100 transactions, overage billed at CHF 150–180/hour). Accounting software (Bexio): CHF 35–83/month. Nominee director: CHF 5’900/year. Legal advisory: CHF 350/hour. Without tax filings submitted, banks may not accept the company as having “local” status.
 
 ---
 
 ## How Lawsupport Supports International Investors
 
-Lawsupport (Morgan Hartley Consulting GmbH), based in Zug — Switzerland's foremost business canton — provides end-to-end legal and compliance support for international businesses entering or operating in Switzerland. With 18+ years of experience and over 1,000 company formations for clients from 40+ countries, we provide:
+Lawsupport (Morgan Hartley Consulting GmbH), based in Zug — Switzerland's foremost business canton — provides end-to-end legal and compliance support for international businesses entering or operating in Switzerland. With 18+ years of experience, over 1,000 company formations for clients from 40+ countries, and 300+ companies under active fiduciary management, we provide:
 
 - **Company formation**: GmbH and AG incorporation, Commercial Register filing, notarial coordination — see our [company formation guide](/company-formation/company-formation-switzerland/)
 - **Banking introductions**: Managed introductions to Swiss banks, preparation of due diligence packages, optimisation of account opening timelines

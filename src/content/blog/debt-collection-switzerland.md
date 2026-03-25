@@ -36,7 +36,7 @@ faqItems:
   - question: "Can a creditor enforce a foreign court judgment in Switzerland?"
     answer: "Foreign court judgments can be enforced in Switzerland under the Private International Law Act (IPRG) or bilateral treaties, but recognition must first be obtained from a Swiss court. Once recognised, the judgment is enforced through the standard SchKG process. The recognition stage can add several months to the overall timeline."
   - question: "What priority do I have as an unsecured creditor in Swiss bankruptcy?"
-    answer: "Unsecured creditors fall into Class 3 — the lowest priority class in Swiss bankruptcy. Class 1 covers employee salary claims (up to 4 months per employee) and Class 2 covers social insurance and certain rent claims. Class 3 creditors are paid only after Classes 1 and 2 are satisfied from available assets. In many Swiss bankruptcies, Class 3 creditors receive little or nothing."
+    answer: "Unsecured creditors fall into Class 3 — the lowest priority class in Swiss bankruptcy. Class 1 covers employee salary claims (up to 4 months per employee) and Class 2 covers social insurance contributions (AHV/BVG) and certain rent claims. Class 3 creditors are paid only after Classes 1 and 2 are fully satisfied from available assets. In many Swiss bankruptcies, Class 3 creditors receive 5–10 centimes on the franc or nothing at all. The Konkursamt’s administration fees are deducted before any distribution, further reducing the available pool."
   - question: "How long does a formal Swiss bankruptcy (Konkurs) typically take?"
     answer: "Simple bankruptcies with limited assets can close within 6–12 months. Complex cases involving multiple creditors, asset disputes, or international elements can take 2–3 years or more."
   - question: "Is it possible to reach a settlement with a debtor after a Betreibung is filed?"
@@ -66,7 +66,7 @@ Swiss debt enforcement operates on two separate tracks depending on the type of 
 
 To initiate Swiss debt enforcement, the creditor files a **Betreibungsbegehren** (enforcement request) with the Betreibungsamt in the debtor's place of domicile. No court action, no evidence of the debt — any creditor can file.
 
-**Fee:** CHF 20–80 depending on amount.
+**Fee:** CHF 20–80 depending on the amount claimed (set by the federal fee schedule under SchKG). The fee is low enough that the Betreibung is routinely used as a pressure tool — the reputational damage of a Betreibungsregister entry often matters more to the debtor than the amount claimed.
 
 **What happens:** The Betreibungsamt issues a **Zahlungsbefehl** (payment order) to the debtor, specifying:
 - The creditor's name
@@ -116,7 +116,7 @@ When bankruptcy is opened by the court, the Konkursamt (bankruptcy office) takes
    - Class 1: Employees (salary claims, up to 4 months per employee)
    - Class 2: Social insurance contributions (AHV, BVG), rent claims
    - Class 3: All other unsecured creditors
-4. **Liquidation** — assets sold at public auction or by private sale
+4. **Liquidation** — assets sold at public auction or by private sale. In practice, if the company has no own bank account (a common situation for companies that were rejected by Swiss banks or operated through a foreign parent’s account), regulators and the Konkursamt may view the company’s operations as questionable from the outset
 5. **Distribution** — proceeds distributed in priority order
 6. **Closure** — company deleted from the <a href="https://www.zefix.ch/" target="_blank" rel="nofollow noopener">Commercial Register (Handelsregister)</a>
 
@@ -142,7 +142,13 @@ Every Betreibung filed against a person or company is recorded in the Betreibung
 
 This makes the Swiss Betreibung a powerful reputational tool as well as a legal one. A business with Betreibungen on its register faces difficulties opening bank accounts, obtaining leases, and maintaining commercial relationships.
 
-For businesses concerned about their standing in the [Swiss Commercial Register](/company-formation/commercial-register-switzerland/), keeping the Betreibungsregister clear is an important operational priority. Equally, checking a potential partner's Betreibungsregister before entering significant contracts is standard Swiss due diligence practice.
+For businesses concerned about their standing in the [Swiss Commercial Register](/company-formation/commercial-register-switzerland/), keeping the Betreibungsregister clear is an important operational priority.
+
+**The banking consequence is immediate and severe.** Swiss banks check the Betreibungsregister for every company and every director during the account opening process and periodically during the relationship. A single Betreibung on the company's register — even one that has been objected to and is legally baseless — can trigger enhanced due diligence, delay account opening by weeks, or result in outright rejection. For companies applying for corporate bank accounts (see our [corporate bank account guide](/banking/corporate-bank-account-switzerland/)), a clean Betreibungsregister is a practical prerequisite, not merely best practice.
+
+Banks also run all directors and UBOs through WorldCheck (Refinitiv) or equivalent AML screening databases. The Betreibungsregister check and the WorldCheck screen together form the core of the bank's initial compliance assessment. A company with multiple Betreibungen and a director who flags on WorldCheck will not open a Swiss bank account at any institution.
+
+Equally, checking a potential partner's Betreibungsregister before entering significant contracts is standard Swiss due diligence practice.
 
 ---
 
@@ -174,7 +180,7 @@ Foreign court judgments can be enforced in Switzerland under the Private Interna
 
 **What priority do I have as an unsecured creditor in Swiss bankruptcy?**
 
-Unsecured creditors fall into Class 3 — the lowest priority class in Swiss bankruptcy. Class 1 covers employee salary claims (up to 4 months per employee) and Class 2 covers social insurance and certain rent claims. Class 3 creditors are paid only after Classes 1 and 2 are satisfied from available assets. In many Swiss bankruptcies, Class 3 creditors receive little or nothing.
+Unsecured creditors fall into Class 3 — the lowest priority class in Swiss bankruptcy. Class 1 covers employee salary claims (up to 4 months per employee) and Class 2 covers social insurance contributions (AHV/BVG) and certain rent claims. Class 3 creditors are paid only after Classes 1 and 2 are fully satisfied from available assets. In many Swiss bankruptcies, Class 3 creditors receive 5–10 centimes on the franc or nothing at all. The Konkursamt’s administration fees are deducted before any distribution, further reducing the available pool.
 
 **How long does a formal Swiss bankruptcy (Konkurs) typically take?**
 

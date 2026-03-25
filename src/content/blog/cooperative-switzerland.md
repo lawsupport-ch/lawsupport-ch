@@ -150,6 +150,8 @@ For a broader overview of Swiss corporate tax, see our [corporate tax Switzerlan
 
 For a detailed comparison of the GmbH structure, see [GmbH Formation in Switzerland](/company-formation/gmbh-formation-switzerland/).
 
+**Cost comparison:** A cooperative registration typically costs CHF 1,500-3,000 (no notary required for the founding meeting — signed minutes and articles are submitted directly). A GmbH registration including notary costs CHF 1,900. An AG registration including notary costs CHF 2,500. The cooperative saves on formation costs but the governance requirements — seven members minimum, annual general assembly, potential audit obligations — create ongoing administrative overhead that the GmbH avoids.
+
 ---
 
 ## Dissolution
@@ -166,7 +168,9 @@ For details on the dissolution process, see our [company liquidation Switzerland
 
 Choosing the right entity type is a foundational decision. The cooperative is the correct structure for a specific and well-defined set of use cases — housing, agricultural collectives, member-benefit organisations with democratic governance requirements. For most commercial ventures, a GmbH or AG will serve better.
 
-If you are assessing whether a Genossenschaft fits your project, or if you need to form a cooperative and register it in the Swiss Commercial Register, Lawsupport's legal team works with founders and organisations at every stage of the process.
+**A pattern we see:** International founders occasionally request a cooperative formation because they want democratic governance without minimum capital requirements. The inquiry usually ends when they learn three things: (1) seven members are required at formation, not one or two; (2) the one-member-one-vote rule means no investor can control the entity regardless of capital contribution; and (3) Swiss tax authorities examine cooperative structures carefully — if the cooperative functions as a disguised investor vehicle, it attracts standard corporate tax treatment. For most commercial ventures, the GmbH at CHF 1,900 registration cost or the AG at CHF 2,500 is the correct structure.
+
+If you are assessing whether a Genossenschaft fits your project, or if you need to form a cooperative and register it in the Swiss Commercial Register, Lawsupport’s legal team works with founders and organisations at every stage of the process.
 
 [Request a Free Assessment](/contacts/)
 

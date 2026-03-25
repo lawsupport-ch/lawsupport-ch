@@ -39,6 +39,8 @@ Domain name disputes in Switzerland arise when a third party registers a .ch dom
 
 **The first-come, first-served rule** means trademark owners are not automatically protected — anyone can register a .ch domain incorporating your brand before you do, creating a dispute situation.
 
+> **A pattern from our company formation practice:** We register 300+ companies per year and routinely advise clients to secure their .ch and .com domains **before** the Commercial Register publishes the company name in the Swiss Official Gazette of Commerce (SHAB). SHAB publication is public — automated domain registration bots monitor new commercial register entries and snap up matching domains within hours of publication. We have seen clients lose their exact-match .ch domain to a speculator between the notarial signing and the SHAB publication date. The domain recovery process (SWITCH-DRP) then costs CHF 5,000–15,000 and takes 60–90 days. Registering the domain for CHF 15–30 before filing would have avoided the problem entirely.
+
 SWITCH publishes its registration policies and registrar list on the <a href="https://www.nic.ch" target="_blank" rel="nofollow noopener">SWITCH NIC website</a>.
 
 ---
@@ -50,6 +52,8 @@ SWITCH publishes its registration policies and registrar list on the <a href="ht
 **Typosquatting:** Registering slightly misspelled versions of well-known brands (e.g., "micorsoft.ch") to capture mistyped traffic.
 
 **Competitive use:** A competitor registers your brand as a domain to divert your customers.
+
+**Brand-sensitive names create additional risk:** Company names that incorporate well-known brand elements trigger heightened scrutiny not just from banks (we have seen PostFinance reject a corporate account application solely because the company name contained "Tesla") but also from domain registrars and rights holders. If your company name is remotely similar to an established brand, expect domain disputes, banking complications, and potential trademark challenges — all simultaneously.
 
 **Defensive registration:** A third party registers your trademark as a domain to prevent your legitimate use.
 
@@ -139,6 +143,16 @@ The most cost-effective approach to domain disputes is prevention:
 - SWITCH does not proactively notify trademark owners of conflicting registrations — you must monitor actively
 
 **Cost:** Registering .ch, .com, and 5–10 defensive variants costs approximately CHF 300–800/year in total.
+
+**Cost comparison — prevention vs. recovery:**
+
+| Approach | Cost | Timeline |
+|---|---|---|
+| Register 10 defensive domains at formation | CHF 300–800/year | Same day |
+| SWITCH-DRP recovery (single panellist) | CHF 5,000–15,000 (filing + legal) | 60–90 days |
+| Swiss court proceedings (domain + damages) | CHF 20,000–100,000+ | 1–3 years |
+
+The arithmetic is unambiguous. Register your domains at the point of [company formation](/company-formation/company-formation-switzerland/), not after a dispute arises.
 
 Proactive [IP protection in Switzerland](/intellectual-property/ip-protection-switzerland/) is significantly cheaper than recovering a domain through SWITCH-DRP or court proceedings.
 

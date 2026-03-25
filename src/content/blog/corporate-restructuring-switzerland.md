@@ -122,6 +122,16 @@ From resolution to Register entry: **6 to 8 weeks** in most cantons. No creditor
 
 All existing contracts, employment relationships, licences, and tax registrations remain with the entity. The UID (company identification number) is retained. From the counterparty's perspective, the legal entity continues — only the designation on the letterhead changes.
 
+### A Real Case: Founder Exit and Share Transfer
+
+A Zug-based GmbH in the health technology sector required a founder exit: one of two co-founders needed to transfer their shares and resign from the board. Both founders were non-residents. The company needed a Swiss-resident managing director with joint signature authority to replace the departing founder.
+
+The restructuring involved a share buyout (without compensation — the departing founder agreed to transfer shares for nil consideration), appointment of a new Swiss-resident director, and amendment of the commercial register entry. The departing founder's signature authority was revoked and the new director's joint signature was registered.
+
+Timeline: 3-4 weeks from engagement to completed trade register update. Legal advisory was billed at CHF 350/hour. The total cost was modest because the transaction was straightforward once the commercial terms were agreed between the founders — the legal mechanics of a share transfer in a Swiss GmbH are well-defined under the Code of Obligations.
+
+This type of restructuring — founder exits, board changes, director replacements — is far more common than full FusG mergers or demergers. Most Swiss corporate restructuring work involves these smaller operational changes rather than the multi-month statutory processes described above.
+
 ---
 
 ## Asset Transfers: The Lighter Alternative
@@ -196,6 +206,10 @@ The merger plan and shareholder resolutions for mergers and demergers must be no
 Restructuring a Swiss company involves coordinating company law, tax law, auditor requirements, and Commercial Register filings across multiple cantons. A procedural error — a missing board resolution, an incomplete merger plan, or a creditor call that was not properly published — can invalidate the transaction and require it to be restarted from scratch.
 
 **Morgan Hartley** | Senior Corporate Lawyer & Partner, Lawsupport (Morgan Hartley Consulting GmbH), advises Swiss and international clients on the full range of FusG transactions: mergers, spin-offs, divisions, conversions, and asset transfers. We coordinate the legal documentation, the auditor engagement, the SHAB publication, and the Commercial Register filings, and we work with your tax advisers to structure each transaction for maximum tax efficiency.
+
+For simpler restructurings — share transfers, board changes, founder exits — legal advisory is typically billed at CHF 350/hour. A straightforward founder exit with share transfer can be completed in 3-4 weeks. Shelf company modifications (changing the name, board, and business purpose of an existing entity) typically cost approximately CHF 1'700 in notary and Commercial Register fees, plus legal advisory time.
+
+For simpler restructurings — share transfers, board changes, founder exits — legal advisory is typically billed at CHF 350/hour. A straightforward founder exit with share transfer can be completed in 3–4 weeks. Shelf company modifications (changing the name, board, and business purpose of an existing entity) typically cost approximately CHF 1’700 in notary and Commercial Register fees, plus legal advisory time.
 
 For related topics, see:
 - [Company formation in Switzerland](/company-formation/company-formation-switzerland/)

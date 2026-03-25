@@ -130,7 +130,13 @@ The purpose clause in an AG follows the same logic as in a GmbH: broad enough to
 
 The minimum CHF 50,000 (or more, up to the full CHF 100,000 if paying in full) must be deposited in a Swiss bank capital deposit account (Kapitaleinzahlungskonto) before notarisation. The bank issues a blocking confirmation that the notary requires.
 
-Swiss banks have tightened their due diligence procedures considerably in recent years. Opening a capital deposit account for a new AG, particularly with foreign shareholders or board members, can take 2 to 6 weeks depending on the bank. We maintain working relationships with banking partners who understand our clients' structures. See our page on [capital deposit account](/banking/capital-deposit-account-switzerland/) for more detail.
+Swiss banks have tightened their due diligence procedures considerably in recent years. Opening a capital deposit account for a new AG, particularly with foreign shareholders or board members, can take 2 to 6 weeks depending on the bank.
+
+**What actually happens at Swiss banks in 2026:** PostFinance frequently rejects AG applications — brand-sensitive names, founders from high-risk jurisdictions, and inadequate revenue source documentation are the main triggers. UBS requires CHF 500,000+ under management for new non-resident clients. Relio AG (Zurich fintech, CHF 249/month) offers fast onboarding via video verification, but explicitly rejects companies with US nexus at the UBO or shareholder level.
+
+**The 80% rule:** If the bank approves your blocked capital deposit account, there is approximately an 80% chance the account converts to a permanent corporate account after registration. That pre-check is your most reliable signal.
+
+We maintain working relationships with banking partners who understand our clients' structures. See our page on [capital deposit account](/banking/capital-deposit-account-switzerland/) for more detail.
 
 ### Step 5: Notarisation and Constituent Meeting
 
@@ -169,15 +175,17 @@ Once the Register confirms the entry, the bank releases the capital into the AG'
 
 ---
 
-## Real-World Story: The Holding Structure That Required Speed and Discretion
+## Real-World Story: Romanian Entrepreneur Chooses AG Over GmbH for a Single Reason
 
-In February 2026, a family office based in Vienna contacted us to form a Swiss holding AG before the end of their financial quarter. The structure involved three individual shareholders, none of whom were Swiss residents, and a board that needed to have at least one Swiss-domiciled director with individual signing authority (Art. 718 CO).
+A Bucharest-based entrepreneur contacted us wanting a Zug entity. He did not need the CHF 100,000 capital structure. He was not planning an investor round. He had no plans to list. He wanted an AG for one reason: privacy.
 
-The founders valued the AG structure specifically because their names would not appear in the public Commercial Register. They had previously considered a GmbH but rejected it once they understood the public shareholder disclosure requirement.
+With a GmbH, his name, domicile, and ownership percentage would appear in the public Commercial Register — visible to any competitor, journalist, or curious counterparty searching ZEFIX. With an AG, the shareholder register is an internal company document. His name would not appear publicly.
 
-We arranged a nominee board member for Swiss residency compliance, drafted articles including a Vinkulierung clause to restrict unauthorised share transfers, coordinated the capital deposit at a partner bank, and managed the notarisation by power of attorney. The AG was entered in the Zug Commercial Register within 28 days of first instruction.
+The formation itself was standard. The complication: Art. 718 CO requires at least one Swiss-resident board member with individual signatory authority. He had no Swiss contacts — except a friend, a Swiss citizen, willing to serve as board member for approximately one year while the founder arranged his own Swiss residence permit.
 
-The entire process required zero travel by any of the three founders.
+We structured this as a temporary arrangement documented in a side letter: clear handover timeline, compensation terms, and exit mechanism. Without written terms, these “friend as director” arrangements routinely become contentious when the transition comes. The friend expects a simple resignation; the founder discovers that removing a director requires a shareholder resolution and a Commercial Register filing, which takes 2-3 weeks.
+
+Total cost: CHF 2,500 for AG registration including notary, CHF 2,400/year for Zug registered address. The CHF 100,000 share capital was fully paid in — not because it was required (CHF 50,000 would have sufficed), but because partially-paid capital creates complications at bank account opening. Banks prefer clean structures.
 
 ---
 
@@ -187,14 +195,19 @@ Here is a realistic cost breakdown for a standard AG formation with full capital
 
 | Item | Cost (CHF) |
 |---|---|
-| Share capital deposit (minimum paid-in) | 50,000 to 100,000 (released after registration) |
-| Notary fees | 1,500 to 3,000 |
-| Commercial Register fee | 800+ |
-| Legal/advisory fees (Lawsupport) | varies by scope |
-| Bank account setup | 0 to 500 |
-| Annual statutory auditor (if required) | 3,000 to 10,000+ |
+| AG registration (incl. notary) | 2,500 |
+| Share capital deposit (minimum paid-in) | 50,000-100,000 (released after registration) |
+| Registered address (Zug, annual) | 2,400 |
+| Registered address (Zurich, annual) | 3,000 |
+| Nominee director (annual) | 5,900 |
+| Nominee director, premium tier | 7,400 |
+| 6-month interim director | 4,500 |
+| Dormant company accounting | 1,400/year |
+| Accounting up to 100 transactions | 3,800/year |
 
-The capital is not an expense. It belongs to the company the moment the register entry is confirmed and can be deployed immediately for operating purposes. The true formation cost, excluding capital, runs CHF 3,000 to 5,000 for a well-managed standard formation.
+The capital is not an expense. It belongs to the company the moment the register entry is confirmed and can be deployed immediately.
+
+**The full-package reality:** Registration (CHF 2,500) + address (CHF 2,400) + nominee director (CHF 5,900) + accounting (CHF 1,800) = CHF 12,600/year before share capital. The nominee fee does not include signing work permits, corporate filings, or banking documents — those are billed at CHF 350/hour. Budget CHF 14,000-16,000 for the first year if the nominee handles any operational tasks.
 
 For companies considering a ready-made AG (a shelf company already registered and waiting for a buyer), timelines can be compressed to days rather than weeks, though share transfer costs and articles amendment costs apply.
 
@@ -214,19 +227,20 @@ For legitimate business privacy, the AG remains the best Swiss corporate structu
 
 ---
 
-## Real-World Story: The Tech Founder Who Needed Investor-Ready Structure
+## Real-World Story: South African Holding Buys a 1986 Shelf AG for Credibility
 
-Nadia Perić, a Croatian tech founder, was preparing a seed round for her B2B SaaS platform. Her Swiss-based lead investor required that the investment vehicle be a Swiss AG because the investor's fund documents prohibited GmbH investments (a standard restriction in some institutional mandates) and because the free transferability of AG shares was essential for the planned cap table structure.
+An infrastructure group operating across five African countries needed a Swiss AG holding. Two South African UBOs, 50/50 ownership. Expected monthly transactions: 4-5 transfers in the USD 25-500 million range.
 
-Nadia had no Swiss residents on her team. We arranged a Swiss-resident nominee board member, drafted articles with authorised capital (genehmigtes Kapital) provisions allowing the board to issue additional shares up to a defined ceiling without a shareholder vote, and structured the share classes to accommodate the investor's preference shares.
+The question was not AG versus GmbH — at this transaction scale, the AG was the only viable structure. The question was: new formation or shelf company?
 
-The AG was formed in Zug within three weeks. The seed round closed six weeks later. The authorised capital provision saved the company a notarial amendment at the time of closing.
+We recommended the shelf. The client purchased a 1986-vintage company from our inventory — 40 years of continuous Commercial Register existence. For counterparties in African commodity markets, running ZEFIX due diligence on your Swiss holding, the difference between "incorporated 2026" and "incorporated 1986" is material. Age signals permanence.
 
-Planning for the capital structure you will need in 18 months, not just the structure you need today, is one of the most valuable things we do for founders at the formation stage.
+The shelf transfer completed in two days. Cost: approximately CHF 17,000 for the company plus CHF 10,100 for registered address (CHF 2,400), nominee director (CHF 5,900), and dormant accounting (CHF 1,800). The nominee director fee covers the directorship itself — signing work permits, banking documents, and corporate filings are billed separately at CHF 350/hour.
 
-<!-- VIDEO PLACEHOLDER: Embed "AG vs GmbH Switzerland — Which Structure Is Right for You?" — YouTube or Vimeo — approx. 3 min — placement: after tech founder story -->
+**The banking problem:** PostFinance was immediately ruled out for this transaction profile. UBS required CHF 500,000 minimum under management. The account ultimately went to a private bank with African trade flow experience — but the banking process alone took 6 weeks. Formation took 2 days. Banking took 6 weeks. That ratio is typical.
 
----
+**2025 shelf company warning:** The Commercial Register now has expanded powers to void shell company sales. Changes must be executed in two stages — first the company name and board, then the business activity. Single-stage filings are rejected. Budget approximately CHF 1,700 in additional notary and register fees for the modification sequence.
+
 
 ## Board of Directors Requirements
 

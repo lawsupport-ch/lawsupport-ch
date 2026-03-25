@@ -128,6 +128,20 @@ Non-compete clauses are valid in Switzerland if:
 
 ---
 
+## Termination in Practice: What Actually Happens
+
+The Code of Obligations sets the framework for termination, but the practical execution catches many foreign employers off guard. A real example illustrates the friction points.
+
+An employer terminated an employee with two months' notice (the standard statutory period for 2–9 years of service under Art. 335c OR). The termination letter specified:
+
+- **Vacation payout:** The employee had accrued but unused vacation days. Under Swiss law, unused vacation must be paid out in cash upon termination unless the employer can demonstrate that the employee had a genuine opportunity to take the days during the notice period. If notice is short or the workload is heavy during the notice period, the payout is effectively automatic.
+- **Release of claims (Saldoerklärung):** The employer requested that the employee sign a mutual release of claims as part of the separation agreement. Under Swiss law, an employee can waive claims arising from mandatory provisions of the OR only after they have become due — not prospectively. A blanket release signed at the start of employment is unenforceable. The release must be negotiated at the point of separation, covering specific identified claims.
+- **Continued salary during notice:** Swiss law requires full salary payment through the entire notice period, even if the employee is released from the duty to work (Freistellung). Garden leave is common in practice but does not reduce the salary obligation.
+
+**The blue pen rule for work permit renewals:** One detail that trips up employers of foreign workers: the renewal application for a Swiss work permit must be physically signed in blue pen. Digital signatures are not accepted by the cantonal migration offices. This is not a legal requirement under the Foreign Nationals and Integration Act — it is an administrative practice of the cantonal authorities. If the employee or employer submits a digitally signed renewal, it will be returned, adding 2–4 weeks to the processing timeline. Plan accordingly.
+
+---
+
 ## Confidentiality
 
 Employees have a statutory duty of confidentiality about employer business secrets during and after employment (Art. 321a/321b OR). A contractual confidentiality clause reinforces this and can specify what counts as confidential information.
@@ -181,6 +195,14 @@ Only if the employee works primarily in a foreign country. For Swiss-based emplo
 **Is a non-compete clause enforceable if the employer fires the employee?**
 
 If the employer terminates without good cause — i.e., there is no fault by the employee — the non-compete clause lapses. If the employee is terminated for cause (serious misconduct), the non-compete clause remains in force.
+
+**What are the notice periods in Switzerland, and can they be shortened?**
+
+Statutory notice periods under Art. 335c OR are: 1 month during the first year of employment, 2 months from the 2nd to the 9th year, and 3 months from the 10th year onward. Notice must be given to the end of a calendar month. These periods can be extended by contract or collective agreement but cannot be shortened below the statutory minimum (except during probation, where 7 days applies). In practice, many senior contracts specify 3 or 6 months' notice from the outset. A common mistake: employers assume they can pay in lieu of notice without the employee's consent. Under Swiss law, the employee has a right to work during the notice period unless the employment contract explicitly permits Freistellung (release from duty to work).
+
+**What happens to accrued vacation when employment ends?**
+
+Unused vacation must be paid out in cash. The only exception is if the employer can demonstrate the employee had a genuine, unrestricted opportunity to take the vacation during the notice period and chose not to. In terminations with short notice periods or heavy workloads, this exception rarely applies. Budget for full vacation payout.
 
 **Must the employment contract be in German, French, or Italian?**
 

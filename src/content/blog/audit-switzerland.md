@@ -187,6 +187,9 @@ The limited audit generates costs — typically **CHF 2,000 to CHF 6,000 per yea
 - An investor, partner, or acquirer is conducting due diligence and expects audited figures
 - A regulatory licence or permit application requires audited financial statements
 - You are consolidating into a group structure that requires audited subsidiary accounts
+- Your company holds an SRO membership or FINMA authorisation (see below)
+
+> **Critical edge case — SRO-licensed companies:** If your company holds a self-regulatory organisation (SRO) membership for financial intermediary activities, the audit timeline is not optional. VQF and other SROs require an audit within three months of the licence being granted. This is not a formality: if the auditor finds that the responsible director or AML compliance officer is incompetent or that internal controls are absent, the SRO licence can be revoked immediately. We have seen cases where the initial CHF 10,000 retainer for SRO application assistance turned into CHF 25,000 or more in total costs because the business model changed during the process, requiring the compliance analysis to restart from scratch. The three-month post-licence audit is where the rubber meets the road — and it is not a box-ticking exercise.
 
 If none of these conditions apply, document the opt-out resolution in your AGM minutes each year and keep your annual accounts in good order. Your statutory obligations are then satisfied.
 
@@ -217,6 +220,8 @@ Audit costs vary significantly depending on the size and complexity of the compa
 - **Group audit coordination** for a Swiss subsidiary within an international structure: cost depends on scope agreed with the group auditor; typically additive to the standalone statutory audit cost
 
 These are general ranges. Licensed audit firms in Zug and Zurich will provide a fixed-fee or capped-fee engagement letter based on the specific scope of work. We recommend requesting at least two proposals before appointing an auditor.
+
+> **Cost perspective:** For a dormant GmbH with zero activity, the annual accounting cost (statements plus tax filing) is approximately CHF 1,400. Adding a limited audit on top brings the total compliance cost to CHF 3,400–CHF 7,400 per year before the company generates a single franc of revenue. This is why the opt-out exists and why it should be used whenever the conditions are met. The savings are real and recurring.
 
 ---
 
@@ -314,7 +319,7 @@ The statutory audit is conducted once per financial year, following the close of
 
 ### What are the consequences of failing to appoint a statutory auditor in Switzerland?
 
-Failure to appoint a required statutory auditor constitutes a breach of Swiss corporate law. Directors and managing officers can be held personally liable for any resulting damage. Shareholders cannot validly approve the annual accounts without a proper audit report (unless the opt-out applies). In serious cases, the commercial register authority may take enforcement action.
+Failure to appoint a required statutory auditor constitutes a breach of Swiss corporate law. Directors and managing officers can be held personally liable for any resulting damage. Shareholders cannot validly approve the annual accounts without a proper audit report (unless the opt-out applies). In serious cases, the commercial register authority may take enforcement action. For regulated entities, the consequences are more immediate: an SRO-licensed company that fails its first audit — conducted just three months after licence grant — faces licence revocation, which effectively shuts down the regulated business line. The audit is not merely a compliance formality; auditors assess whether the director and AML officer actually understand their roles and can demonstrate competence under questioning.
 
 ### What is a special audit (Sonderprüfung) in Swiss company law?
 

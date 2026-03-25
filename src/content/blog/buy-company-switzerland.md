@@ -109,6 +109,12 @@ A newly incorporated Swiss AG or GmbH takes 5–10 business days to register. Th
 
 The trade-off is that you also step into whatever liabilities the target carries — disclosed and, without proper due diligence, undisclosed. Structuring the deal correctly is how you manage that.
 
+**The shelf company option:** Between a full acquisition and a new formation sits the shelf company (Mantelgesellschaft) — a dormant, already-registered entity you can acquire and modify. Transfer happens in 1-2 days. Current pricing ranges from CHF 15,000-17,000 for companies aged 15-17 years to CHF 47,500 for a 1933 vintage (93 years old). All come debt-free with audited balance sheets.
+
+We have clients who specifically want age on the Commercial Register. A South African infrastructure group chose a 1986 shelf AG over a new formation because counterparties in African commodity markets running ZEFIX due diligence view “incorporated 1986” differently from “incorporated 2026.” The age signals permanence and stability.
+
+**2025 shelf company rule change:** The Commercial Register now has expanded powers to void shell company sales and can request financial documentation during the transfer. Changes must be executed in two stages — first the company name and board, then the business activity. Single-stage filings are rejected. Budget approximately CHF 1,700 in additional notary and register fees for modifications.
+
 For a broader look at corporate structuring options, see our guide to [company formation in Switzerland](/company-formation/company-formation-switzerland/).
 
 ---
@@ -124,6 +130,8 @@ The Swiss SME market is large and relatively illiquid. Most deals happen off-mar
 - **Industry networks and trade associations.** For sector-specific acquisitions, trade bodies often know which businesses are quietly in play.
 
 If speed of market entry is the priority, a [shelf company in Switzerland](/company-formation/shelf-company-switzerland/) — a dormant, already-registered entity — offers an alternative to a full acquisition process and can be operational within days.
+
+**A pattern we see repeatedly:** Founders approach us wanting to “buy a company” when what they actually need is a shelf company with modifications. The distinction matters. Buying an operating company means inheriting clients, contracts, staff, and liabilities — plus months of due diligence. Buying a shelf company means acquiring a clean corporate shell with zero trading history, modifiable in 2-3 weeks. The price difference is also significant: a shelf runs CHF 15,000-47,500; an operating company acquisition involves enterprise value multiples, earn-outs, and legal fees that dwarf the shell cost.
 
 ---
 
@@ -234,6 +242,7 @@ Completion is not the end of the process. Immediate post-closing items include:
 - Review and update of employment contracts and HR documentation.
 - Integration planning — systems, brand, reporting lines.
 - Notification to key customers and suppliers where commercially appropriate.
+- **Banking transition:** If the acquired company has an existing bank account, the bank will conduct fresh KYC on the new ownership. This is not a formality. PostFinance frequently rejects ownership changes that introduce founders from high-risk jurisdictions or complex multi-layer structures. UBS requires CHF 500,000+ under management for new non-resident beneficial owners. Budget 4-8 weeks for the banking transition — and have a backup bank identified before closing.
 
 For more complex group restructurings following an acquisition, see our overview of [corporate restructuring in Switzerland](/corporate-transactions/corporate-restructuring-switzerland/).
 

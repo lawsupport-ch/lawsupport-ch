@@ -60,11 +60,13 @@ For context, here is how Zug compares to other major Swiss cantons in 2026:
 
 | Canton | Effective Corporate Tax Rate |
 |---|---|
-| **Zug** | **11.8%** |
-| Lucerne | 12.3% |
-| Geneva | 14.0% |
-| Zurich | 19.7% |
-| Bern | 20.7% |
+| **Zug** | **~11.85%** |
+| Lucerne | ~12.3% |
+| Basel-Stadt | ~13% |
+| Geneva | ~14.0% |
+| Basel-Land | ~17% |
+| Zurich | ~20% |
+| Bern | ~20.7% |
 
 The federal corporate tax component is approximately 7.83% (on taxable profit after cantonal tax deduction). Zug's cantonal and communal rates add comparatively little on top of this. The result is Switzerland's most competitive combined rate.
 
@@ -200,21 +202,27 @@ More on Swiss financial regulation: [FINMA licensing in Switzerland](/licensing/
 
 ## Real-World Scenarios
 
-### A London Family Office Chooses Zug Over Geneva
+### A South African Infrastructure Group Chooses a 1986 Shelf — Not a New Formation
 
-A family office client approached us in 2023. They were considering a Swiss intermediate holding company to consolidate investments in European real estate and private equity. Their adviser in London had suggested Geneva.
+An infrastructure holding operating across South Africa, DRC, Ghana, Kenya, and Congo wanted an AG in Zug. Expected monthly transaction volume: 4-5 transfers in the USD 25-500 million range. Two UBOs, both South African citizens, 50/50 ownership. They needed a Swiss-resident director from our firm.
 
-We modelled both cantons. The effective corporate tax rate difference — Geneva at 14.0% versus Zug at 11.8% — translated to a meaningful annual saving on passive income flows. More importantly, the participation exemption treatment was identical under federal law regardless of canton. There was no structural reason to pay the additional 2.2 percentage points in Geneva.
+We recommended against a new formation. For counterparties in African commodity markets running due diligence, the age of the company on the Commercial Register matters. We sold them a 1986 shelf company (originally Zurich-registered) — 40 years of continuous existence on ZEFIX.
 
-We formed a Zug AG within three weeks of instruction. The PoA was executed before a London solicitor, apostilled by the Foreign Commonwealth and Development Office, and sent to us by courier. The notarial appointment took one hour. The Commercial Register issued the formation certificate on schedule. A Swiss private bank account was opened concurrently. The client's holding structure was operational within six weeks of first contact.
+The transfer took two days. Then we advised something counterintuitive: keep the company registered in Zurich initially, do not transfer the seat to Zug. Changing canton before the company shows any turnover raises unnecessary questions at the destination register. Show activity first, move the seat later. Cost: approximately CHF 17,000 for the company, plus CHF 10,100 for registered address, nominee director, and accounting setup.
 
-### A Crypto Foundation Structures in Zug
+The bank account proved more difficult. PostFinance was not an option for this transaction profile. UBS required a minimum of CHF 500,000 under management. We ultimately placed the account with a private bank that had experience with African trade flows — but the banking process alone took 6 weeks.
 
-A blockchain protocol team came to us from Southeast Asia. They were preparing a token launch and needed a foundation to hold the protocol treasury, issue grants to developers, and serve as the contracting entity for exchange listings. They had considered Cayman Islands, British Virgin Islands, and Singapore. Their legal counsel recommended exploring Zug.
+### A Crypto Foundation Structures in Zug — And Nearly Loses Its Banking
 
-We walked them through the Zug foundation model: non-profit purpose clause, supervisory authority notification, AMLA compliance, and the FINMA utility token framework. We obtained an advance tax ruling from the Steuerverwaltung Zug confirming the foundation's tax treatment on grant disbursements and treasury management.
+A blockchain protocol team from Southeast Asia needed a Zug foundation for protocol treasury, developer grants, and exchange listing contracts. Standard Crypto Valley setup — non-profit purpose clause, supervisory authority notification, AMLA compliance, FINMA utility token framework.
 
-The foundation was registered in Zug within four weeks. They subsequently moved their core team to Zug — three founders, two engineers — drawn partly by the infrastructure but mostly by proximity to the Crypto Valley network. Two of their engineers met their lead investor at a Zug blockchain conference six months after incorporation.
+The foundation registered in four weeks. The advance tax ruling from Steuerverwaltung Zug took another 6 weeks. Then banking nearly killed the project.
+
+PostFinance rejected the application within 3 weeks — privacy coins in the treasury triggered automatic compliance concerns. Relio AG could not onboard because one investor held US citizenship. The team spent 8 weeks cycling through banking options before landing with a private bank that had specific crypto treasury experience.
+
+This is the part most Zug formation guides omit: the foundation registration is the straightforward part. Banking for crypto companies, even in Crypto Valley, is where projects stall. If your treasury holds privacy coins, if any UBO has US nexus, or if your business model involves peer-to-peer transactions, expect the banking process to take 2-3 months — not 2-3 weeks.
+
+The team eventually moved three founders and two engineers to Zug. Two of their engineers met their lead investor at a local blockchain conference six months after incorporation. Proximity to the Crypto Valley network proved as valuable as the regulatory framework.
 
 ---
 
@@ -225,13 +233,17 @@ Here is the practical sequence for a standard GmbH or AG formation with Lawsuppo
 1. **Initial consultation:** We confirm the optimal structure (AG, GmbH, or Foundation), share capital, governance, and tax considerations. We provide a fixed-fee engagement letter.
 2. **KYC/AML:** We collect identification documents, proof of address, and source of funds documentation for all founders, directors, and beneficial owners. This is a regulatory requirement under Swiss law.
 3. **Power of attorney:** We draft the PoA and provide authentication instructions for your jurisdiction. The PoA authorises us to execute the formation steps on your behalf.
-4. **Share capital deposit:** You transfer the share capital (CHF 20,000 for GmbH, CHF 100,000 for AG minimum) to a Swiss bank's escrow/formation account. We can introduce you to banking relationships. [Guide to Swiss bank account opening](/banking/swiss-bank-account/)
+4. **Share capital deposit:** You transfer the share capital (CHF 20,000 for GmbH, CHF 100,000 for AG minimum) to a Swiss bank’s escrow/formation account. This is the step that derails most Zug formations. PostFinance frequently rejects applications — brand-sensitive company names, founders from high-risk jurisdictions, and insufficient documentation of the business model’s revenue source are the most common triggers. UBS typically requires CHF 500,000+ under management before onboarding non-resident clients. Relio AG (Zurich fintech, CHF 249/month) offers fast onboarding via video verification but explicitly rejects companies with US nexus at the UBO or shareholder level. If the bank approves your blocked capital deposit, there is roughly an 80% chance the account converts to a permanent corporate account. [Guide to Swiss bank account opening](/banking/swiss-bank-account/)
 5. **Notarisation:** We coordinate with a Zug notary to execute the articles of association and formation deed. No founder attendance required if PoA is in order.
 6. **Commercial Register filing:** We submit the complete formation dossier to the Handelsregisteramt Zug. Company searches can be verified at <a href="https://www.zefix.ch" target="_blank" rel="nofollow noopener">zefix.ch</a>.
 7. **Registration:** The Register issues the Handelsregisterauszug (extract) confirming the company's existence. This is the official incorporation document.
 8. **Post-formation:** Bank account activation, MWST (VAT) registration if applicable, tax registration with the Steuerverwaltung Zug, and any required regulatory notifications.
 
-Total elapsed time from instruction to registered company: typically **3–5 weeks** for a clean formation with no complications.
+Total elapsed time from instruction to registered company: typically **4-6 weeks** for a clean formation with responsive clients. The breakdown: document preparation (several days), bank pre-check and blocked account opening (approximately 1 week), capital transfer and bank certificate (approximately 1 week, depends on the client), notary signing and filing (1-2 days), Commercial Register processing (2-4 weeks). Summer filings move faster; pre-Christmas filings are consistently slower.
+
+**The operating shortcut most guides miss:** Your company can legally begin operating from the moment of notarial signing. You do not need to wait for the ZEFIX publication. The notarial deed creates the legal entity; the register entry makes it official to third parties. This means you can sign contracts and invoice immediately after the notary appointment.
+
+Before 2022, you could pay a surcharge of approximately 60% above standard fees for expedited Commercial Register publication. This option has been discontinued.
 
 Also see our guide to [registered address and virtual office services](/corporate-services/virtual-office-switzerland/) if you need a Zug presence without a physical office.
 
@@ -259,7 +271,23 @@ For relocation assistance, see our [work permit and immigration guides](/immigra
 
 Lawsupport (Morgan Hartley Consulting) has been forming companies in Zug since 2007. We have completed more than 1,000 formations for clients from over 40 countries. Our office is at Grafenauweg 4, Zug — a five-minute walk from the Zug Commercial Register.
 
-We advise on the full lifecycle of a Zug company: formation, structuring, tax ruling, banking, directorship, registered agent services, and eventual restructuring or dissolution. If a dissolution is needed, see our guide to [company liquidation in Switzerland](/company-formation/company-liquidation-switzerland/).
+We manage over 300 companies under fiduciary services with a team of 7, and advise on the full lifecycle of a Zug company: formation, structuring, tax ruling, banking, directorship, registered agent services, and eventual restructuring or dissolution.
+
+**Zug formation pricing (2026):**
+
+| Service | CHF |
+|---|---|
+| GmbH registration (incl. notary) | 1,900 |
+| AG registration (incl. notary) | 2,500 |
+| Registered address (Zug, annual) | 2,400 |
+| Nominee director (annual) | 5,900 |
+| Nominee director, premium | 7,400 |
+| 6-month interim director | 4,500 |
+| Dormant company accounting (annual) | 1,400 |
+| Accounting up to 100 transactions | 3,800 |
+| All-in formation package (12 months) | 9,000-11,000 + capital |
+
+The nominee director fee covers the directorship. Signing work permits, corporate filings, board meetings, and banking documents are billed at CHF 350/hour separately. This distinction matters: we have seen clients budget CHF 5,900 and receive total invoices exceeding CHF 9,000 in year one. If a dissolution is needed, see our guide to [company liquidation in Switzerland](/company-formation/company-liquidation-switzerland/).
 
 If you are considering company formation in Zug, contact us for a direct conversation. We will tell you what the structure costs, how long it takes, and whether Zug is genuinely the right canton for your specific situation. If it is not, we will tell you that too.
 

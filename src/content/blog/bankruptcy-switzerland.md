@@ -68,6 +68,8 @@ A Swiss company may enter formal bankruptcy through three routes set out in Swis
 
 **Inability to pay (Zahlungsunfähigkeit):** A company that cannot meet its payment obligations as they fall due is insolvent. Creditors can trigger bankruptcy through the [debt collection Switzerland](/company-formation/debt-collection-switzerland/) (*SchKG*) process — filing a *Betreibung* at the *Betreibungsamt*, obtaining a *Konkursandrohung* (notice of bankruptcy threat), then petitioning the district court to open bankruptcy proceedings.
 
+> **How this plays out in practice:** The Betreibungsamt operates mechanically. A creditor files a Betreibungsbegehren (enforcement application) for as little as CHF 20–100, and within three to five working days the debtor receives a Zahlungsbefehl (payment order). If the debtor fails to raise a Rechtsvorschlag (objection) within ten days, the creditor can proceed to a Konkursandrohung. We have seen solvent companies pushed to the brink of bankruptcy proceedings because a CHF 5,000 invoice dispute was ignored and no Rechtsvorschlag was filed within the ten-day window. The lesson: **never ignore a Zahlungsbefehl**, regardless of how trivial the amount. Filing a Rechtsvorschlag costs nothing and buys time to resolve the underlying dispute.
+
 **Loss of capital (Kapitalverlust) — Art. 725 CO:** If half of the share capital and statutory reserves are no longer covered by assets, the board must convene the general meeting and propose remediation measures. Failure to act exposes directors to personal liability.
 
 ---
@@ -120,6 +122,8 @@ Swiss directors face substantial personal liability exposure once insolvency ind
 
 **Failure to notify the court of overindebtedness:** Directors who delay notifying the court despite confirmed overindebtedness under Art. 725b CO are personally liable for the additional debt incurred during the delay period (*Insolvenzverschleppung*).
 
+**The liability window in practice:** From the moment the board has "reasonable grounds to suspect" overindebtedness to the moment the court is notified, every new obligation the company incurs becomes potential personal liability for the directors. In one case we advised on, the delay between the auditor flagging a capital deficit and the board notifying the court was four months. During those four months, the company signed two new supplier contracts and a lease renewal — obligations totalling approximately CHF 180,000 that the directors became personally exposed to. The court-appointed bankruptcy administrator brought Insolvenzverschleppung claims against each director individually. Early action is not just prudent advice; it is the difference between limited corporate loss and unlimited personal exposure.
+
 **Preferential payments during insolvency:** Payments to creditors after the onset of insolvency that favour one creditor over others are voidable (*paulianische Anfechtung* under Art. 285–292 SchKG). Directors who authorised such preferential payments may be personally sued by the bankruptcy estate.
 
 **Fictitious losses and asset concealment:** Criminal liability arises under Art. 163/164 StGB (Swiss Criminal Code) for bankruptcy fraud, including concealing assets, fabricating liabilities, or destroying records.
@@ -133,6 +137,8 @@ For an overview of the formal [company liquidation Switzerland](/company-formati
 ## Alternatives to Formal Bankruptcy
 
 **Nachlassvertrag (composition agreement) — Art. 293–336 SchKG:** A structured alternative to formal bankruptcy. The debtor and creditors agree on a restructuring plan or partial debt discharge, subject to court approval and creditor super-majorities. A *Nachlassvertrag* allows the company to continue as a going concern if the restructuring is financially viable.
+
+**Why most Nachlassverträge fail before they start:** The composition process requires the debtor to be transparent about its financial position with creditors who are, by definition, owed money and frustrated. The court-appointed commissioner (*Sachwalter*) charges fees that come out of the debtor's remaining assets, reducing the pool available for creditors. And the qualified creditor majority required for approval means that a single large creditor can block the entire restructuring. In practice, Nachlassverträge succeed primarily where the company has a viable core business, a small number of manageable creditors, and the debtor approaches the process before the assets are exhausted — not after.
 
 **Debt moratorium (*Nachlassstundung*):** A court-supervised moratorium suspending enforcement proceedings, granted for up to four months initially and extendable to 24 months. It provides breathing space to negotiate with creditors and prepare a restructuring plan. Related to [corporate restructuring Switzerland](/corporate-transactions/corporate-restructuring-switzerland/).
 

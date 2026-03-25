@@ -84,11 +84,13 @@ For comparison:
 
 | Canton / Location | Effective Combined Corporate Tax Rate (2026) |
 |---|---|
-| Zug | ~11.8% |
+| Zug | ~11.85% |
 | Lucerne | ~12.3% |
 | Nidwalden | ~12.0% |
+| Basel-Stadt | ~13% |
 | Geneva | ~14.0% |
-| Zurich (city) | ~19.7% |
+| Basel-Land | ~17% |
+| Zurich (city) | ~20% |
 
 The gap between Zurich and Zug is approximately **7.9 percentage points**. On a CHF 1,000,000 annual profit, that difference is roughly CHF 79,000 per year — money that stays in the company if you choose Zug over Zurich.
 
@@ -223,9 +225,13 @@ Zurich is the centre of Swiss banking, and companies registered here generally h
 
 **Julius Baer** is headquartered in Zurich but is primarily a private bank focused on wealth management, not a typical corporate banking partner.
 
+**Relio AG** (Zurich-based fintech) opens accounts same-day after video verification at CHF 249/month. Fast, but with hard limits: Relio explicitly rejects companies with US nexus at the UBO or shareholder level. We have had a US-owned staffing company rejected by Relio, forcing the client to route payments through a UK parent’s Ebury account — which created compliance problems that persisted for months.
+
 **Neo-banking options** (Neon Business, Yapeal, Wise Business) are available regardless of canton and provide faster onboarding for companies that do not immediately need a traditional Swiss bank account.
 
-Be aware that corporate bank account opening in Switzerland requires full KYC documentation on all beneficial owners, directors, and shareholders. For companies with complex ownership structures or non-EU/US shareholders, allow additional time. This applies equally to Zurich and Zug. See our guide to [corporate bank accounts in Switzerland](/banking/corporate-bank-account-switzerland/) for more detail.
+**The real banking timeline:** PostFinance takes 3-4 weeks and frequently rejects applications. We have seen rejections triggered by brand-sensitive company names (a client using “Tesla” in their company name received detailed compliance questions), insufficient documentation of revenue sources, or WorldCheck/AML flags. UBS requires CHF 500,000+ under management for new non-resident clients. If the bank approves your blocked capital deposit account, there is roughly an 80% probability it converts to a permanent corporate account — that pre-check is your strongest signal.
+
+For companies with complex ownership structures or non-EU/US shareholders, allow additional time. This applies equally to Zurich and Zug. See our guide to [corporate bank accounts in Switzerland](/banking/corporate-bank-account-switzerland/) for more detail.
 
 ---
 
@@ -243,7 +249,9 @@ The formation process for a Zurich company is substantively identical to any Swi
 
 **5. Notarial deed.** The notary executes the articles of association and founding documents. The notary also prepares the submission package for the Commercial Register.
 
-**6. Commercial Register filing.** The notary (or your formation agent) submits the formation documents to the Handelsregisteramt Zürich. Processing typically takes 10–20 business days.
+**6. Commercial Register filing.** The notary (or your formation agent) submits the formation documents to the Handelsregisteramt Zürich. Processing typically takes 2-4 weeks. Summer filings move faster; pre-Christmas filings are consistently slower.
+
+**Operating before registration:** Your company can legally begin operating from the moment of notarial signing. You do not need to wait for ZEFIX publication. Before 2022, you could pay approximately 60% above standard fees for expedited registration. This option no longer exists.
 
 **7. Post-registration.** Once the company appears in the register, the blocked share capital is released into the company's corporate bank account. The company may then begin operations, apply for any required licences, and register for VAT if anticipated turnover exceeds CHF 100,000.
 
@@ -266,7 +274,9 @@ A software founder based in Berlin is relocating to Switzerland to build a B2B S
 - *Banking:* She has no ZKB-specific requirement. She will start with a neo-bank and open a UBS or Postfinance account when volumes justify it. Both are accessible from Zug.
 - *Client requirement:* Her enterprise clients are in Germany, France, and the UK. None have a Zurich-specific contractual requirement.
 
-**Recommendation and outcome:** Register a GmbH in Zug (CHF 20,000 capital, lower tax rate). Rent a small office in Zurich's Kreis 5 tech district for the team. Use a Zug registered address and nominee director service for the registered seat.
+**Recommendation and outcome:** Register a GmbH in Zug (CHF 20,000 capital, lower tax rate). Rent a small office in Zurich’s Kreis 5 tech district for the team. Use a Zug registered address (CHF 2,400/year) and nominee director service (CHF 5,900/year) for the registered seat.
+
+**The cost breakdown she did not expect:** The nominee director at CHF 5,900/year covers the directorship. It does not cover signing work permits for employees, corporate filings, board meeting attendance, or banking documents — those are billed at CHF 350/hour separately. In year one, with 8-10 hires requiring work permit signatures, the nominee cost exceeded CHF 9,000. This is the line item most formation guides omit.
 
 Annual tax saving versus a Zurich registration: approximately CHF 63,000 at projected year-three profitability. Over five years, at growing profits, the cumulative saving funds additional headcount.
 
@@ -276,7 +286,18 @@ This outcome — Zug registration, Zurich operations — is the recommendation w
 
 ## How Lawsupport Can Help
 
-We are a Zug-based company formation and corporate services firm with 18+ years of experience and over 1,000 completed company formations for clients from more than 40 countries. We handle formations in Zurich, Zug, and across Switzerland.
+We are a Zug-based company formation and corporate services firm managing over 300 companies under fiduciary services with a team of 7. Over 18 years and more than 1,000 formations for clients from more than 40 countries. We handle formations in Zurich, Zug, and across Switzerland.
+
+**Zurich formation costs (2026):**
+
+| Service | CHF |
+|---|---|
+| GmbH registration (incl. notary) | 1,900 |
+| AG registration (incl. notary) | 2,500 |
+| Registered address (Zurich, annual) | 3,000 |
+| Registered address (Zug, annual) | 2,400 |
+| Nominee director (annual) | 5,900 |
+| All-in package (12 months) | 9,000-11,000 + capital |
 
 What we do:
 - AG and GmbH formation in any Swiss canton

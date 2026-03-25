@@ -47,6 +47,8 @@ The key features of Swiss capital tax:
 - **Deductible** from cantonal income tax in several cantons (offset mechanism)
 - **Applies even in loss years** — there is no profit threshold
 
+To understand the practical impact, consider the minimum capitalisation requirements: a GmbH requires CHF 20,000 in share capital (fully paid in), while an AG requires CHF 100,000 total with at least CHF 50,000 paid in. At Zug’s 0.075% rate, the capital tax on a minimum-capitalised GmbH is just CHF 15 per year — effectively negligible. On a minimum AG with CHF 50,000 paid in, it is CHF 37.50. Capital tax only becomes a meaningful planning factor when equity reaches seven figures or above.
+
 The legal basis is Articles 29 and 30 of the StHG, which require cantons to tax the capital of legal entities. The <a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">Swiss Federal Tax Administration (ESTV)</a> publishes an annual cantonal tax burden comparison (the Steuerbelastungsstatistik) that includes capital tax rates.
 
 ---
@@ -166,7 +168,9 @@ Cantonal tax authorities issue provisional assessments and may request interim p
 
 ### Cantonal selection
 
-For holding and finance structures, Nidwalden and Zug offer the lowest capital tax rates. This is a primary reason why Zug dominates as a holding location for international groups — it combines low capital tax with the lowest effective corporate income tax rates in Switzerland.
+For holding and finance structures, Nidwalden and Zug offer the lowest capital tax rates. This is a primary reason why Zug dominates as a holding location for international groups — it combines low capital tax (0.075%) with the lowest effective corporate income tax rate in Switzerland (approximately 11.85%).
+
+> **Practical comparison:** A holding company with CHF 50 million in equity pays CHF 37,500 per year in capital tax in Zug. The same structure in Basel-Stadt pays CHF 172,500. In Vaud: CHF 175,000. Over ten years, the Zug advantage on capital tax alone exceeds CHF 1.3 million compared to Vaud — before any income tax difference is considered. Combined with Zug’s corporate income tax rate of 11.85% versus approximately 20% in Zurich or 13% in Basel-Stadt, the total tax saving on a profitable holding structure is substantial.
 
 ### Debt vs equity structuring
 
@@ -178,6 +182,10 @@ Capital tax applies only to equity. **Shareholder loans** (intercompany debt) ar
 ### Subsidiary participations
 
 Holding companies with significant subsidiary participations benefit from cantonal reductions in most cantons. Confirm the applicable cantonal rules annually, as the reduction thresholds and mechanics differ.
+
+### Practical trap: overcapitalisation and stamp duty
+
+Founders sometimes overcapitalise their Swiss AG or GmbH — contributing CHF 500,000 or more in share capital when CHF 20,000 would suffice operationally. This creates two problems. First, stamp duty (Emissionsabgabe) of 1% applies on equity contributions above CHF 1 million, adding an upfront cost. Second, the inflated equity base increases the annual capital tax bill permanently. A company capitalised at CHF 5 million in Zurich pays approximately CHF 8,600 per year in capital tax (at 0.172%). The same company with CHF 100,000 in share capital and CHF 4.9 million structured as a shareholder loan pays capital tax only on the CHF 100,000 equity — approximately CHF 172 per year. The CHF 8,400 annual saving is straightforward, but the shareholder loan must comply with ESTV thin capitalisation safe harbour ratios to avoid the interest being reclassified as a hidden dividend.
 
 ### Capital tax deductibility
 

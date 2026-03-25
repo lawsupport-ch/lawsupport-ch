@@ -81,14 +81,16 @@ Effective combined corporate income tax rate (federal + cantonal + communal) at 
 | St. Gallen | St. Gallen | ~14.5% |
 | Solothurn | Solothurn | ~15.0% |
 | Aargau | Aarau | ~15.1% |
-| Basel-Landschaft | Liestal | ~15.3% |
+| Basel-Landschaft | Liestal | ~17.0% |
 | Neuchâtel | Neuchâtel | ~15.6% |
 | Ticino | Lugano | ~16.1% |
 | Jura | Delémont | ~16.1% |
-| Zurich | Zurich | ~19.7% |
+| Zurich | Zurich | ~20.0% |
 | Berne | Berne | ~21.0% |
 
-Zug (~11.8%) and Nidwalden (~11.9%) hold the lowest corporate income tax rates in Switzerland. Zurich (~19.7%) and Berne (~21.0%) sit at the high end. For a company earning CHF 1,000,000 profit annually, the difference between Zug and Zurich translates to approximately CHF 78,000–90,000 in additional tax each year — on the same income, in the same country.
+Zug (~11.85%) and Nidwalden (~11.9%) hold the lowest corporate income tax rates in Switzerland. Zurich (~20%) and Berne (~21.0%) sit at the high end. For a company earning CHF 1,000,000 profit annually, the difference between Zug and Zurich translates to approximately CHF 80,000–90,000 in additional tax each year — on the same income, in the same country.
+
+But the tax rate is only one cost component. A Zug registered address costs approximately CHF 2,400 per year; the same service in Zurich runs CHF 3,000. Accounting for a dormant company is CHF 1,400 per year regardless of canton. A nominee director — required when the founder is not Swiss-resident — costs CHF 5,900 per year (standard) or CHF 7,400 for a higher-involvement role. These fixed costs mean that for a company with CHF 100,000 in annual profit, the cantonal tax difference between Zug and Zurich is approximately CHF 8,000 — meaningful, but not the dominant expense. At CHF 1,000,000 profit, however, the tax savings dwarf the operating costs, and cantonal selection becomes the single most important structural decision.
 
 Detailed rate tables, including cantonal statutory rates before the federal layer, are available at the [Swiss tax rates by canton](/tax-accounting/swiss-tax-rates-by-canton/) page.
 
@@ -198,7 +200,7 @@ For practical steps, see [company formation in Zug](/company-formation/company-f
 
 | Factor | Zug | Zurich |
 |---|---|---|
-| Effective CIT rate | ~11.8% | ~19.7% |
+| Effective CIT rate | ~11.85% | ~20% |
 | Top individual income tax | ~22–24% | ~40% |
 | Wealth tax on CHF 5M | ~0.05–0.15% | ~0.3% |
 | Capital tax (equity) | ~0.075% | ~0.172% |
@@ -207,7 +209,9 @@ For practical steps, see [company formation in Zug](/company-formation/company-f
 | Financial centre access | 30 min by train | Directly |
 | Canton population | ~130,000 | ~1.5M |
 
-Companies requiring large pools of specialist labour often choose Zurich despite the higher tax burden, accepting the tax cost as a business expense. Holding companies, treasury operations, IP holding structures, and family offices consistently favour Zug. For a Zurich company formation overview, see [company formation in Zurich](/company-formation/company-formation-zurich/).
+Companies requiring large pools of specialist labour often choose Zurich despite the higher tax burden, accepting the tax cost as a business expense. Holding companies, treasury operations, IP holding structures, and family offices consistently favour Zug.
+
+> **Real numbers from practice:** For a foreign entrepreneur setting up a GmbH with a nominee director and registered address, the annual fixed costs in Zug are approximately CHF 9,700 (address CHF 2,400 + nominee director CHF 5,900 + dormant accounting CHF 1,400). In Zurich, the address alone costs CHF 3,000, pushing total fixed costs to approximately CHF 10,300. The CHF 600 difference in operating costs is negligible. The tax difference is not: on CHF 500,000 profit, Zug saves approximately CHF 40,000 per year compared to Zurich. Over five years, that is CHF 200,000 — enough to fund the entire company infrastructure several times over. For a Zurich company formation overview, see [company formation in Zurich](/company-formation/company-formation-zurich/).
 
 ---
 
@@ -257,7 +261,7 @@ Zug has the lowest effective combined corporate income tax rate at approximately
 
 **How does Zug compare to Zurich for corporate tax?**
 
-The effective combined corporate income tax rate in Zug is approximately 11.8% versus approximately 19.7% in Zurich. On CHF 1,000,000 in annual profit, that is a difference of approximately CHF 79,000 per year in favour of Zug — on the same Swiss income.
+The effective combined corporate income tax rate in Zug is approximately 11.85% versus approximately 20% in Zurich. On CHF 1,000,000 in annual profit, that is a difference of approximately CHF 80,000 per year in favour of Zug — on the same Swiss income.
 
 **How does Switzerland's three-level tax system work?**
 
@@ -293,7 +297,7 @@ Swiss cantons compete actively for high-value taxpayers. Federal law (the Tax Ha
 
 **What are the personal versus corporate tax considerations when choosing a canton?**
 
-Corporate and personal tax optima are not always the same canton. Zug offers both very low corporate (~11.8%) and low personal rates (~22–24%). Schwyz Wollerau offers the lowest personal income tax in Switzerland (~22%) but somewhat higher corporate rates (~14.1% in Schwyz town). For an owner-managed business where the owner also lives in Switzerland, the combined corporate + personal extraction cost across both layers should be modelled, not just the headline corporate rate.
+Corporate and personal tax optima are not always the same canton. Zug offers both very low corporate (~11.85%) and low personal rates (~22–24%). Schwyz Wollerau offers the lowest personal income tax in Switzerland (~22%) but somewhat higher corporate rates (~14.1% in Schwyz town). For an owner-managed business where the owner also lives in Switzerland, the combined corporate + personal extraction cost across both layers should be modelled, not just the headline corporate rate.
 
 ---
 

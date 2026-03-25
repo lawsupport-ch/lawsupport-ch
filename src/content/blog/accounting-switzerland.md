@@ -196,13 +196,15 @@ This connection between commercial and tax accounting means that accounting poli
 
 If your accounting records are incomplete or in disarray, see how we handle [accounting recovery Switzerland](/tax-accounting/accounting-recovery-switzerland/).
 
+> **From practice:** A common misconception among foreign founders is that a dormant Swiss company needs no accounting at all. It does. Even a shelf company sitting in the commercial register with zero revenue requires annual financial statements and a corporate tax return. The minimum annual cost for this — from a licensed Swiss fiduciary — is approximately CHF 1,400. Skip it for two or three years, and the catch-up cost multiplies: the tax authority issues estimated assessments, interest accrues at roughly 3% per annum, and the company cannot be liquidated until every open year is filed and settled. We see this pattern repeatedly with companies that were incorporated as part of a broader plan that never materialised.
+
 <!-- VIDEO: Explainer — Massgeblichkeitsprinzip: how Swiss commercial accounts drive the tax calculation. Duration approx 4 min. -->
 
 ---
 
 ## VAT and Accounting Interaction
 
-Swiss VAT obligations interact directly with accounting records. Companies with annual turnover above CHF 100,000 are required to register for VAT with the <a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">ESTV</a> and submit periodic returns. The VAT method chosen — effective method or flat-rate method — affects how the income statement is presented and how input tax is tracked. Failure to reconcile VAT accounts with the general ledger is a common source of errors in Swiss tax audits. For registration requirements, see our [VAT registration Switzerland](/tax-accounting/vat-registration-switzerland/) guide.
+Swiss VAT obligations interact directly with accounting records. Companies with annual turnover above CHF 100,000 — a threshold that includes worldwide taxable turnover, not just Swiss revenue — are required to register for VAT with the <a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">ESTV</a> and submit periodic returns. The VAT method chosen — effective method or flat-rate method — affects how the income statement is presented and how input tax is tracked. Failure to reconcile VAT accounts with the general ledger is a common source of errors in Swiss tax audits. For registration requirements, see our [VAT registration Switzerland](/tax-accounting/vat-registration-switzerland/) guide.
 
 ---
 

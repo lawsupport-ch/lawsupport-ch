@@ -83,11 +83,17 @@ For a detailed overview of Swiss [corporate tax](/tax-accounting/corporate-tax-s
 
 ### 4. Regulatory and Compliance Due Diligence
 
+**Banking due diligence — what the target’s bank actually checked.** A frequently overlooked angle: reviewing the target company’s banking relationship reveals how much scrutiny the company has already passed. Swiss banks run all directors and UBOs through WorldCheck (Refinitiv) or equivalent AML screening databases at onboarding and periodically thereafter. If the target company holds an active account at a reputable Swiss bank (a cantonal bank, UBS, or a FINMA-licensed institution), that is an implicit signal that the company’s beneficial owners have passed at least one round of professional AML screening. Conversely, if the target company has no Swiss bank account, or operates through a foreign parent entity’s account, that is a red flag worth investigating — it may indicate that Swiss banks have already rejected the company.
+
+In one case we handled, a target company was routing all Swiss revenue through a UK parent entity’s payment service account (Ebury) because no Swiss bank would open an account for the Swiss entity. The reason: a US person in the ownership chain. This created both a compliance problem (Swiss authorities view operating through another entity’s bank account as questionable) and a practical problem for the buyer’s post-acquisition banking.
+
 For regulated targets, this stream is frequently determinative.
 
 **FINMA.** If the target holds a banking licence, securities firm licence, fund management authorisation, or operates a payment system, verify current licence validity, any imposed conditions, and whether FINMA has initiated any supervisory proceedings. FINMA licensing conditions can restrict post-closing operational changes, and any enforcement action must be disclosed to a buyer. Current licence registers are available on the <a href="https://www.finma.ch/en/authorisation/regulated-entities/" target="_blank" rel="nofollow noopener">FINMA website</a>.
 
 **AML compliance.** Swiss financial intermediaries are required to be affiliated with a recognised self-regulatory organisation (SRO) or hold a direct FINMA authorisation. Review SRO membership, KYC documentation quality, and records of any suspicious transaction reports (STRs). Gaps in AML compliance are a hard stop for many buyers.
+
+A practical detail often missed: SRO membership does not guarantee competence. The SRO audit occurs three months after licence grant. If the company’s director or designated AML officer demonstrates incompetence during that audit, the licence is revoked. We have seen companies obtain SRO membership through VQF or PolyReg only to face licence revocation at the first audit because the responsible persons could not demonstrate adequate AML knowledge. In one case, the total cost of the failed SRO application exceeded CHF 38’000 (including over 36 hours of legal work at CHF 350/hour) before the client abandoned the process after changing their business model mid-application.
 
 **Environmental permits.** For industrial, manufacturing, or real estate targets, check cantonal permits and any contaminated site register (*Kataster der belasteten Standorte*) entries. Environmental remediation liability in Switzerland is strict and long-running — liability can exceed the asset value in contaminated industrial cases.
 

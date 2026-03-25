@@ -160,6 +160,28 @@ Beyond premiums, Swiss residents pay:
 
 ---
 
+## Running a Business: Real Operating Costs
+
+If you are relocating to Switzerland to run a company, the cost of living is only half the picture. The cost of operating a Swiss entity is the other half — and these numbers are rarely published.
+
+**Real business operating costs (2026):**
+
+| Item | Zug | Zurich |
+|---|---|---|
+| Registered office address | CHF 2’400/year | CHF 3’000/year |
+| Nominee director (if non-resident) | CHF 5’900/year (standard) | CHF 5’900/year |
+| Accounting (dormant, zero turnover) | from CHF 1’400/year | from CHF 1’400/year |
+| Accounting (up to 100 transactions) | CHF 3’800/year | CHF 3’800/year |
+| Accounting software (Bexio) | CHF 35–83/month | CHF 35–83/month |
+| Legal advisory | CHF 350/hour | CHF 350/hour |
+| Standard accounting hourly rate | CHF 150–180/hour | CHF 150–180/hour |
+
+A dormant Swiss GmbH with a registered address and basic annual accounting costs approximately CHF 3’800–5’000 per year to maintain. An operating company with a nominee director, active accounting, and occasional legal support runs CHF 10’000–15’000 per year in administrative costs alone, before rent, staff, or operational expenses.
+
+**Corporate income tax rates** vary dramatically by canton: Zug at approximately 11.85%, Zurich at approximately 20%. For a company generating CHF 500’000 in annual profit, that is a difference of approximately CHF 40’000 per year in corporate tax alone.
+
+---
+
 ## Summary: Annual Income Required
 
 A comfortable life for a professional family of 3 in Zug requires approximately:

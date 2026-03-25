@@ -134,6 +134,14 @@ The extract is valid for **3 months** and is routinely required for:
 - The subject of the extract (self-extract) — always permitted under Art. 8a SchKG
 - Third parties — permitted where a legitimate interest can be demonstrated; rules on what information is disclosed to third parties vary by canton and the age of the proceedings
 
+### When a Betreibungsregisterauszug Is Make-or-Break
+
+Two situations where the debt register extract is not merely administrative but determinative:
+
+**SECO staff leasing licence applications:** The responsible person named in the SECO licence application must provide a clean Betreibungsregisterauszug. Any Verlustschein (certificate of loss) or unresolved Betreibung on their record will result in the application being refused. SECO does not exercise discretion here — the requirement is binary. We have seen otherwise qualified applicants disqualified because of a CHF 800 mobile phone dispute from three years earlier that was never formally resolved and remained on the register.
+
+**Swiss bank account opening:** Banks routinely request a Betreibungsregisterauszug for directors and beneficial owners of newly formed companies. A single entry — even a paid and resolved Betreibung — triggers enhanced scrutiny and can be the deciding factor in a rejection. PostFinance, in particular, applies this check rigorously. If you have any history of Betreibungen, resolve and document the resolution before applying for a corporate bank account. The extract remains on the register for five years regardless of payment, but a note showing "paid" or "Rechtsvorschlag raised successfully" is materially different from an open enforcement action.
+
 ---
 
 ## How to Request a Betreibungsregisterauszug
@@ -159,6 +167,8 @@ Zurich has multiple Betreibungskreise. The principal office for the city of Zuri
 
 **Zug (ZG):**
 The Betreibungsamt des Kantons Zug serves the entire canton from a single office. It handles debt enforcement for Zug's substantial international business population — relevant for companies formed in Zug and their directors or shareholders resident there.
+
+From our practice managing 300+ companies with Zug registrations, the Zug Betreibungsamt processes extract requests within one to two business days — faster than most larger cantons. For urgent matters (corporate transactions, bank account openings where a fresh extract is required), in-person requests at the Zug office can sometimes be processed same-day. The office is located at Aabachstrasse 1, 6300 Zug.
 
 **Berne (BE):**
 Multiple Betreibungsämter organised by Verwaltungskreis (administrative district). Central coordination via the cantonal judiciary administration (Amt für Justizvollzug).
@@ -377,6 +387,8 @@ An unchallenged Betreibung from filing to asset seizure takes roughly 2–6 mont
 **Does a Betreibung appear on my record even if I pay the debt?**
 
 Yes. Under Art. 8a SchKG, Betreibungen remain in the register for 5 years from the filing date, regardless of whether the debt was paid or the Rechtsvorschlag was successful. The record will note the outcome, but the initial proceeding remains visible to authorised third parties.
+
+**Why this matters for company directors:** We advise all directors of newly formed Swiss companies to request their own Betreibungsregisterauszug *before* the bank account opening process begins. Discovering an old, forgotten Betreibung during the bank's due diligence review — rather than beforehand — creates delays and awkward explanations. A proactive self-extract costs CHF 17 and takes two days. The alternative — a bank rejection followed by a six-week reapplication with a different institution — costs weeks of lost operating time.
 
 ---
 

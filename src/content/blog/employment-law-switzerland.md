@@ -112,6 +112,8 @@ These are **statutory minimums**. Employment contracts and collective agreements
 
 **Payment in lieu of notice / garden leave**: Swiss law does not provide a statutory right to payment in lieu of notice (Freistellung mit Lohnfortzahlung is sometimes called "garden leave" in practice). However, it is entirely lawful by agreement, and common for roles involving access to sensitive commercial information. If you place an employee on garden leave, their full salary and social benefits must continue throughout the notice period.
 
+> **The signature rule that trips up international employers:** Termination letters in Switzerland must be **physically signed with a wet-ink signature** — blue or black pen on paper. Digital signatures, DocuSign, and electronic sign-offs are **not accepted** for employment terminations. We see this mistake repeatedly from foreign parent companies managing Swiss subsidiaries remotely: the HR department in London or New York sends a termination via email with an electronic signature, the employee's lawyer challenges the validity, and the employer is forced to re-serve the notice — potentially missing the end-of-month deadline and extending the employment (and salary obligation) by an additional month. For an employee in their second to ninth year of service, the standard notice period is **two months to the end of a calendar month**. Getting the formalities wrong on a CHF 120,000 salary costs the employer approximately CHF 10,000 per month of delay.
+
 ---
 
 ## 4. Termination and Wrongful Dismissal
@@ -245,6 +247,24 @@ Without KTG insurance, the employer remains liable for salary continuation under
 
 ---
 
+## SECO Staff Leasing: The Myth That Costs CHF 100,000
+
+One of the most dangerous misconceptions in Swiss employment law concerns **staff leasing (Personalverleih)**. Foreign companies entering Switzerland frequently assume that placing a small number of contractors or temporary workers does not require a SECO licence.
+
+**The myth:** "If you have fewer than ten temporary placement contracts, you do not need a staff leasing licence."
+
+**The reality:** This is **false**. There is no ten-contract exemption. The obligation to hold a SECO staff leasing licence (*Arbeitsvermittlungsbewilligung*) applies from the **first placement**, regardless of volume. The Federal Act on Employment Services and Staff Leasing (AVG) makes no provision for a minimum threshold.
+
+**The penalties are severe:**
+- **Provider without a licence:** fines of up to **CHF 100,000**
+- **Client knowingly using an unlicensed provider:** fines of up to **CHF 40,000**
+
+**A pattern we see with US and UK companies:** A foreign employer signs a Master Services Agreement (MSA) with its US parent entity and assumes this covers Swiss operations. It does not. The MSA must be issued by **the Swiss legal entity** — a US-issued MSA has no legal standing for Swiss staff leasing compliance. Payments for services rendered in Switzerland must go directly to the authorised Swiss provider, not routed through a foreign parent.
+
+**SECO licence requirements include:** a Swiss-resident responsible person with relevant qualifications and clean criminal and debt records, certified Commercial Register extract (not older than six months), a lease agreement with floor plan for the business premises, published general terms (AGBs), and written confirmation that no placement fees are charged to jobseekers.
+
+---
+
 ## 11. Work Permits for Foreign Employees
 
 Switzerland's work permit regime differs sharply depending on the nationality of the employee.
@@ -262,7 +282,11 @@ Non-EU nationals — including employees from the US, UK post-Brexit, India, Chi
 3. The State Secretariat for Migration (SEM) issues federal authorisation.
 4. The cantonal authority then issues the permit (typically a B permit).
 
-Quotas are limited and competition is significant. Processing times are typically 8–12 weeks at minimum, and approval is not guaranteed. Employers should plan recruitment timelines accordingly. Detailed guidance is available in our [work permit Switzerland](/immigration/work-permit-switzerland/) and [B permit Switzerland](/immigration/b-permit-switzerland/) guides.
+Quotas are limited and competition is significant. Processing times are typically 8–12 weeks at minimum, and approval is not guaranteed. Employers should plan recruitment timelines accordingly.
+
+**The explanation letter determines everything.** The employer must submit a written justification to the cantonal migration authority explaining precisely why no Swiss or EU/EFTA candidate can fill the role. This is not a formality — migration officers read these letters carefully and will reject applications where the justification is generic or the labour market test was clearly superficial. From our experience filing these in canton Zug, a well-drafted explanation letter with specific evidence of the recruitment search (job postings, RAV notification, interview records) significantly increases approval rates.
+
+Detailed guidance is available in our [work permit Switzerland](/immigration/work-permit-switzerland/) and [B permit Switzerland](/immigration/b-permit-switzerland/) guides.
 
 ---
 

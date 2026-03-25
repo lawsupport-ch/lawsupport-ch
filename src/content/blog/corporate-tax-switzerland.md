@@ -24,7 +24,7 @@ tocItems:
     title: "Why Work With Lawsupport"
 faqItems:
   - question: "What is the corporate tax rate in Switzerland in 2026?"
-    answer: "Switzerland does not have a single corporate tax rate. The federal corporate income tax is 8.5% on profit after tax (effective approximately 7.83%). Cantonal and communal taxes are added on top, giving combined effective rates ranging from approximately 11.8% (Zug) to approximately 20.7% (Bern). The rate that applies to your company depends on where it is registered and where it conducts its business."
+    answer: "Switzerland does not have a single corporate tax rate. The federal corporate income tax is 8.5% on profit after tax (effective approximately 7.83%). Cantonal and communal taxes are added on top, giving combined effective rates ranging from approximately 11.85% (Zug) to approximately 20.7% (Bern). The rate that applies to your company depends on where it is registered and where it conducts its business."
   - question: "How does the Swiss IP Box work?"
     answer: "The Swiss IP Box allows cantonal and communal income tax on qualifying IP income to be reduced by up to 90%. It applies to income attributable to patents and patent-equivalent rights, and uses the OECD modified nexus approach. The IP Box is a cantonal-level regime available in all cantons since the 2020 tax reform."
   - question: "Can a foreign company get a Swiss tax ruling before incorporating?"
@@ -97,7 +97,7 @@ The table below shows the combined effective corporate income tax rate for each 
 | Neuchâtel | Neuchâtel | ~15.6% |
 | Vaud | Lausanne | ~14.0% |
 | Bern | Bern | ~20.7% |
-| Zurich | Zurich | ~19.7% |
+| Zurich | Zurich | ~20.0% |
 
 Zug is consistently the benchmark low-tax canton. Its proximity to Zurich (a 30-minute train journey), well-developed financial and legal services infrastructure, and strong track record with international companies make it the most popular Swiss location for holding companies, finance companies, and IP holding structures. [Company formation in Zug](/company-formation/company-formation-zug/) is the single most common request Lawsupport receives from internationally structured groups.
 
@@ -129,6 +129,8 @@ Switzerland's participation exemption applies at the federal and cantonal levels
 2. **Capital gains** on the disposal of participations of 10% or more held for at least one year.
 
 In both cases, the net profit from the qualifying participation is proportionally relieved. For a pure holding company where the majority of income is from qualifying participations, the effective corporate tax rate on those receipts can approach zero. The Swiss participation exemption is the foundation of the [Swiss holding company](/company-formation/holding-company-switzerland/) structure used by private equity funds, family offices, and multinational groups.
+
+> **From practice:** A South African holding group wanted to acquire a 1986-vintage Zurich AG to serve as their Swiss holding vehicle for energy and real estate assets across Africa (SA, DRC, Ghana, Kenya, Congo). Expected transaction volumes: 4–5 per month, USD 25M–500M range. With qualifying participations making up the bulk of assets, the participation exemption reduced the effective Swiss tax on dividend flows to near zero. The remaining taxable income — management fees and interest — was subject to the cantonal rate. The company stayed in Zurich initially rather than relocating to Zug, because the client needed to demonstrate turnover and substance before a cantonal move would be accepted by the Zug tax authority without friction.
 
 ### Research and Development Super-Deduction
 
@@ -194,11 +196,13 @@ Lawsupport advised on a Swiss interposition structure using a Basel-City AG. The
 
 Alexandra, a US citizen relocating to Switzerland to build a fintech consulting firm, had projected annual pre-tax profit in year two of CHF 500,000.
 
-In Zug at 11.8%: corporate tax liability CHF 59,000.
-In Zurich at 19.7%: corporate tax liability CHF 98,500.
-Annual difference: CHF 39,500.
+In Zug at 11.85%: corporate tax liability CHF 59,250.
+In Zurich at 20%: corporate tax liability CHF 100,000.
+Annual difference: CHF 40,750.
 
 Over five years with 15% annual profit growth, the cumulative additional tax cost of Zurich over Zug exceeded CHF 280,000. Alexandra chose Zug. Lawsupport handled the [company formation in Zug](/company-formation/company-formation-zug/) and connected her with ongoing [accounting services Switzerland](/tax-accounting/accounting-switzerland/).
+
+> **Edge case: the hidden costs that change the calculation for small companies.** The tax rate comparison above assumes pure profit tax. In practice, a non-resident founder also needs a registered address (CHF 2,400/year in Zug, CHF 3,000 in Zurich), a nominee director if not Swiss-resident (CHF 5,900/year standard), and accounting services (CHF 1,400/year dormant, or approximately CHF 3,800/year for up to 100 transactions). These fixed costs total roughly CHF 9,700–12,000 per year regardless of profit. At CHF 50,000 annual profit, the fixed infrastructure costs exceed the tax bill. The tax rate only becomes the dominant factor once annual profit passes approximately CHF 200,000 — below that, the cost of maintaining the Swiss structure is a larger consideration than the cantonal rate differential.
 
 ---
 
@@ -206,7 +210,7 @@ Over five years with 15% annual profit growth, the cumulative additional tax cos
 
 **What is the corporate tax rate in Switzerland in 2026?**
 
-Switzerland does not have a single corporate tax rate. The federal corporate income tax is 8.5% on profit after tax (effective approximately 7.83%). Cantonal and communal taxes are added on top, giving combined effective rates ranging from approximately 11.8% (Zug) to approximately 20.7% (Bern). The rate that applies to your company depends on where it is registered and where it conducts its business.
+Switzerland does not have a single corporate tax rate. The federal corporate income tax is 8.5% on profit after tax (effective approximately 7.83%). Cantonal and communal taxes are added on top, giving combined effective rates ranging from approximately 11.85% (Zug) to approximately 20.7% (Bern). The rate that applies to your company depends on where it is registered and where it conducts its business.
 
 **How does the Swiss IP Box work?**
 

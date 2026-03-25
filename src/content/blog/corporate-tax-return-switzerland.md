@@ -80,9 +80,11 @@ Swiss corporate tax returns follow the company's financial year, not the calenda
 - A financial year ending 31 December → return due by 30 June of the following year
 - A financial year ending 30 June → return due by 31 December of the same year
 
-**Extensions:** Most cantonal tax authorities grant extensions on request. In Zug, a standard extension of 3–6 months is routinely available for companies with tax representation (e.g., a law firm or fiduciary). The extension request must be submitted before the original deadline. We routinely handle this for our clients.
+**Extensions:** Most cantonal tax authorities grant extensions on request. In Zug, a standard extension of 3–6 months is routinely available for companies with tax representation (e.g., a law firm or fiduciary). The extension request must be submitted before the original deadline. We routinely handle this for our clients. In practice, extensions to 31 December of the following year are common for companies represented by a Swiss fiduciary.
 
 **Late filing:** Failure to file triggers reminders and, ultimately, a discretionary assessment (Ermessensveranlagung) — the tax authority estimates taxable income based on available information. This is almost always unfavourable. Late filing may also result in fines.
+
+> **From practice:** The discretionary assessment is not a theoretical risk. We regularly see companies — particularly dormant GmbH structures where the foreign owner assumed no filing was needed — receive estimated assessments that overstate actual tax liability by 200–400%. The tax authority has no incentive to estimate conservatively. Once a discretionary assessment is issued, the burden of proof shifts entirely to the company: you must demonstrate the correct figures, which requires complete reconstructed accounts. Interest accrues at approximately 3% per annum from the original due date. For a dormant company with zero turnover, the annual filing costs approximately CHF 1,400 — a fraction of what the catch-up costs if you skip three or four years.
 
 The Zug cantonal tax authority's official guidance is published at <a href="https://www.zug.ch/behoerden/finanzdirektion/steuerverwaltung" target="_blank" rel="nofollow noopener">zug.ch</a>.
 
@@ -113,6 +115,8 @@ Companies claiming IP Box relief or R&D super-deductions must file a separate sc
 
 **6. Capital tax schedule**
 A schedule computing taxable equity (share capital + retained earnings + hidden reserves, subject to adjustments).
+
+> **Filing reality for foreign-owned companies:** The return must be filed in the canton’s official language — German in Zug, Zurich, and most German-speaking cantons. The accompanying financial statements can be in English, but the return form itself cannot. For foreign founders who do not read German, this creates an unavoidable dependency on a Swiss-based fiduciary or accountant. Attempting to file without professional support is technically possible but practically inadvisable — errors in the tax reconciliation (particularly around intercompany transactions and thin capitalisation) trigger queries that are conducted entirely in German and must be resolved within cantonal deadlines.
 
 ---
 
@@ -173,7 +177,7 @@ Losses are carried forward and offset against taxable profits in future years. S
 
 **Does a dormant Swiss company still need to file a tax return?**
 
-Yes. A dormant company that has been registered with the Commercial Register must file an annual return, even with zero activity and zero income. The return shows zero revenue, zero profit, and the current equity balance. Failure to file is not excused by dormancy.
+Yes. A dormant company that has been registered with the Commercial Register must file an annual return, even with zero activity and zero income. The return shows zero revenue, zero profit, and the current equity balance. Failure to file is not excused by dormancy. The cost of preparing and filing a nil return for a dormant company is approximately CHF 1,400 per year through a Swiss fiduciary. Skipping this creates a compounding problem: unfiled years must all be resolved before the company can be liquidated, and the tax authority’s estimated assessments for skipped years are almost always unfavourable.
 
 **What is a discretionary assessment (Ermessensveranlagung)?**
 
@@ -185,7 +189,7 @@ Standard Swiss tax depreciation rates are: computers 40% declining balance, mach
 
 **What is thin capitalisation under Swiss tax law?**
 
-Swiss tax authorities apply safe harbour debt-to-equity ratios. If a company is financed above these limits by related-party loans, interest on the excess is not deductible and may be reclassified as a deemed dividend, triggering 35% withholding tax.
+Swiss tax authorities apply safe harbour debt-to-equity ratios published annually by the ESTV. If a company is financed above these limits by related-party loans, interest on the excess is not deductible and may be reclassified as a deemed dividend, triggering 35% withholding tax. The ratios vary by asset class — for example, 70% debt financing is permitted for real estate assets, 85% for intercompany loan receivables. Getting this wrong is expensive: the 35% withholding tax on a reclassified CHF 500,000 interest payment is CHF 175,000, with no credit or refund available if the structure genuinely fails the safe harbour test.
 
 **How long after filing will the tax assessment be issued?**
 

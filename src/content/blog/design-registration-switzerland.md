@@ -114,6 +114,8 @@ Designs that cannot be registered: features determined exclusively by technical 
 
 The IPI does not examine whether your design is actually new — it only checks whether the application is formally complete and the fees are paid. This means registration is typically completed within a few weeks of filing.
 
+> **What "formal examination only" means in practice:** The IPI will register a design that is identical to an existing public product. The office does not search prior art. This makes the Swiss design register both fast and cheap — but it also means your registration certificate is not proof of validity. If a competitor challenges your design in court and demonstrates that it was not novel at the filing date, the registration is invalidated retroactively. Before filing, conduct your own prior art search: check the Swiss Design Register (available on the IPI website), the EU's Registered Community Designs database (EUIPO), and the WIPO Global Design Database. The search costs nothing and takes an afternoon. Discovering a blocking prior design before filing saves the CHF 300 registration fee and, more importantly, the false confidence of holding a registration that will not survive challenge.
+
 **Step-by-step process:**
 
 1. **Prepare the application** — representations of the design (photographs or technical drawings), identification of the product, applicant details, and payment of fees. Applications can be submitted online via the IPI's e-filing portal or on paper.
@@ -156,6 +158,8 @@ Renewal must be requested and the renewal fee paid before the end of each five-y
 | 5-year renewal fee (per design) | 200 |
 
 **Example:** A fashion company filing 20 designs in one application pays CHF 300 for the first design and CHF 100 for each of the remaining 19, totalling CHF 2,200 — versus CHF 6,000 if filed individually.
+
+**Filing strategy we advise:** For seasonal product lines (fashion, packaging, consumer goods), batch your design registrations quarterly. A single application covering a full collection is not only cheaper per design (CHF 100 vs. CHF 300) but also establishes a single priority date for the entire collection. This simplifies enforcement if a competitor copies any element — you have one registration number and one filing date to reference, rather than twenty separate registrations with different dates and administrative overhead.
 
 ---
 
@@ -204,6 +208,8 @@ Registered design rights are enforced through **civil proceedings before the can
 - **Customs border measures** — Swiss customs can detain suspected counterfeit goods at the border on application by the rights holder
 
 The absence of a registration makes enforcement substantially harder. An unregistered design may attract some protection under unfair competition law, but a registered right provides a clear starting point for any enforcement action. Contact <a href="https://www.bazg.admin.ch/bazg/en/home.html" target="_blank" rel="nofollow noopener">Swiss Customs</a> for border measure procedures.
+
+**Customs border measures — the underused tool:** Swiss Customs can detain suspected counterfeit goods at the border for up to ten working days upon application by the design rights holder. The application itself costs nothing beyond legal preparation time (typically CHF 1,000–2,000 for the initial filing). For companies whose designs are manufactured abroad and imported into Switzerland by competitors or counterfeiters, this is often the fastest and most cost-effective enforcement mechanism — stopping infringing goods before they reach the Swiss market, rather than pursuing the seller after the fact.
 
 See also our guides on [trademark registration in Switzerland](/intellectual-property/trademark-registration-switzerland/) for the full picture of registered IP rights available to Swiss businesses.
 

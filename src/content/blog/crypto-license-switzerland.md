@@ -124,6 +124,12 @@ Asset tokens represent assets — a share in a company, a debt obligation, a rig
 
 Hybrid tokens combine characteristics of the above categories. A token that functions as a utility token but also entitles the holder to revenue sharing is a hybrid. FINMA applies the regulations of each relevant category cumulatively to hybrids. This can result in complex licensing stacks, and structuring advice from practitioners with FINMA experience is essential before you issue a hybrid token.
 
+### The US Investor Problem: SEC and Regulation S
+
+Any Swiss crypto project with US investors or US-person beneficial owners faces a parallel regulatory universe. SEC registration requirements, Regulation S exemptions for offshore offerings, and IRS reporting obligations all apply regardless of where the company is incorporated. Swiss counsel cannot advise on US securities law — and should not attempt to.
+
+The practical impact: if your lead investor is a US citizen, expect to engage both Swiss and US legal counsel simultaneously. The US workstream typically costs as much as or more than the Swiss regulatory process. Budget accordingly. We have seen projects double their legal costs when US investor involvement was disclosed after the Swiss structuring was already underway.
+
 ---
 
 ## What Crypto Licence Does Your Business Need?
@@ -366,6 +372,22 @@ A practical illustration of how the Swiss licensing process works for a typical 
 **Ignoring the banking problem.** A project obtains VQF membership and then discovers it cannot open a bank account for six months. Banking for crypto businesses in Switzerland is solvable, but it requires the right approach and the right relationships from the start.
 
 **Issuing tokens before completing the regulatory analysis.** Token issuance without a prior classification analysis from counsel with FINMA experience is the highest-risk approach possible. If your token is classified as an asset token after issuance, you have potentially committed a securities law violation.
+
+### Real Cases That Illustrate These Mistakes
+
+**Privacy coin mining (France-based client).** A French-based team wanted to incorporate in Switzerland to mine privacy coins "for ourselves" — no exchange, no custody, no third-party services. Budget: CHF 9,000–11,000 all-in for incorporation. The regulatory question was whether self-mining of privacy coins triggers AMLA obligations. It does not, provided the mined coins are not exchanged for third parties. However, the banking challenge was severe: Swiss banks apply enhanced KYC to any company with privacy coin exposure, and several banks declined to open accounts. The solution required a detailed banking strategy document explaining the source and nature of the crypto assets before any bank would engage.
+
+**Blockchain token with US investor (Zug-based project).** A blockchain project preferred Canton Zug for incorporation. The lead investor was a US citizen. This created immediate SEC/Regulation S complications. The structuring advice was clear: Reg S, SEC, and IRS aspects must be handled with US counsel — Swiss lawyers cannot and should not advise on US securities law. The scoping call alone cost CHF 350/hour. The project required parallel Swiss and US legal workstreams, roughly doubling the anticipated legal budget. Many crypto projects with US investor involvement underestimate this dual-jurisdiction cost.
+
+**SRO application abandoned mid-process.** A blockchain payments company engaged us for SRO membership through VQF. Initial retainer: CHF 10,000 (fixed). Additional retainer: CHF 25,000. Total billed: CHF 38,321 including VAT, covering over 36 hours of regulatory work. The client then changed their business model mid-process. VQF had already reviewed the original model; the change required restarting the regulatory analysis from scratch. The client decided to abandon the application entirely. CHF 5,000 was refunded. Total loss: over CHF 33,000. The lesson: do not start the SRO application until your business model is final.
+
+**Successful VQF membership — Coinbridge AG.** On the other end of the spectrum, a crypto company obtained VQF membership, built a compliant AML/CFT framework, and established a strategic partnership with Binance Pay. The key to their success: the business model was stable from the outset, the compliance officer was genuinely qualified, and the company passed its three-month post-membership audit without issues. The company was later put up for sale as a going concern — demonstrating that a properly licensed Swiss crypto entity has tangible exit value.
+
+### VQF vs PolyrReg: A Practical Distinction
+
+Both VQF and PolyrReg are FINMA-recognised SROs, but they operate differently in practice. VQF is substantially larger (1,000+ members) and has a dedicated crypto working group with experienced reviewers. VQF membership is widely recognised by Swiss banks, which matters when opening a corporate account.
+
+PolyrReg is smaller and can be more flexible on certain procedural points. However, we have encountered a specific friction point with PolyrReg: when a client needed to demonstrate a formal contractual relationship with a major crypto exchange (Binance), PolyrReg required a bilaterally signed contract. The problem is that Binance — like most major exchanges — does not sign bilateral contracts with individual partners. They offer standard Terms of Service (AGB). The argument that AGB constitutes a functional equivalent of a bilateral contract is legally sound, but it required additional advocacy to resolve. With VQF, this particular issue has not arisen in our experience.
 
 ---
 

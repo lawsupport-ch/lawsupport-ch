@@ -94,6 +94,8 @@ A C permit can be withdrawn — but the legal threshold is much higher than for 
 
 The qualifying period depends on your nationality. Switzerland applies different timelines based on bilateral agreements and national origin.
 
+> **What the timeline actually looks like in practice:** We regularly advise entrepreneurs who assume five years of B permit residence automatically converts to a C permit. It does not. The five-year clock can be disrupted by extended business travel, a temporary relocation, or even a cantonal move that creates a registration gap. One client — a German tech founder who spent four months per year working from his London office — had his qualifying period questioned by the cantonal migration office because his Swiss residence appeared intermittent on paper. He ultimately received his C permit, but only after providing detailed travel records, Swiss tax filings, and evidence that his primary domicile remained in Zug throughout.
+
 | Nationality Category | Required Period | Legal Basis |
 |---|---|---|
 | EU/EFTA nationals | 5 years of uninterrupted legal residence with B permit | Agreement on Free Movement of Persons |
@@ -168,6 +170,8 @@ While requirements vary, a typical C permit application will require:
 
 From the date of submission, **expect three to six months** before a decision is issued. Some cantons are faster; others, particularly larger urban cantons with high application volumes, may take longer. Build this delay into your planning, especially if the C permit is required as a prerequisite for a naturalisation application.
 
+**Canton-specific observation:** Zug processes C permit applications faster than Zurich or Geneva — typically within eight to twelve weeks. This is partly a function of lower application volumes and partly because Zug's migration office has streamlined workflows for the international business community that constitutes a significant portion of its resident population. If you are choosing between cantons and the C permit timeline matters to your naturalisation plan, this difference is worth factoring in.
+
 ---
 
 ## C Permit and Citizenship: The Critical Connection
@@ -189,6 +193,8 @@ If the C permit application is delayed — because of missing documentation, can
 Entrepreneurs and self-employed individuals are eligible for the C permit on the same conditions as employed residents. Running a Swiss company, operating as a sole trader (*Einzelunternehmen*), or working as a self-employed professional while holding a B permit all count toward your qualifying residence period — provided you have been lawfully registered and financially self-sufficient throughout.
 
 The financial independence requirement deserves particular attention for business owners: periods of business difficulty, losses, or temporary reliance on state support will be scrutinised. If your business has gone through a difficult period, document how you managed finances during that time before you apply.
+
+**A pattern we see with startup founders:** A non-EU entrepreneur forms a GmbH in year one, draws a minimal salary in years two and three while reinvesting in the business, and then applies for the C permit in year ten. The cantonal migration office examines the full ten-year income history and flags the low-salary years as potential evidence of insufficient financial independence — even though the business was profitable and the founder never drew social assistance. The fix is to maintain consistent, documented salary payments that meet cantonal benchmarks throughout the qualifying period, even if this means drawing a higher salary than your business strategy would otherwise dictate.
 
 For those who have formed a company as part of their Swiss immigration journey, see our [company formation in Switzerland](/company-formation/company-formation-switzerland/) guide and the related [work permit Switzerland](/immigration/work-permit-switzerland/) guidance.
 

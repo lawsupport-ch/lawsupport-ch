@@ -111,7 +111,15 @@ The distinction between EU/EFTA and non-EU buyers matters most at the B permit s
 | Non-EU national | Does **not** automatically receive the EU/EFTA exemption — subject to Lex Koller unless a specific cantonal exemption applies | Unrestricted purchase | Subject to Lex Koller |
 | Swiss citizen | Exempt | Exempt | Exempt |
 
-This gap between EU and non-EU B permit holders is frequently misunderstood. Non-EU nationals on a B permit seeking to purchase residential property should obtain legal advice before proceeding, as the exemption available to EU/EFTA nationals does not automatically extend to them. The <a href="https://www.sem.admin.ch/sem/en/home/themen/aufenthalt/eu_efta.html" target="_blank" rel="nofollow noopener">State Secretariat for Migration (SEM)</a> publishes guidance on permit categories and associated rights.
+This gap between EU and non-EU B permit holders is frequently misunderstood.
+
+### A Real Case: Romanian Entrepreneur and Swiss Property
+
+A Romanian entrepreneur based in Bucharest wanted to establish an AG in Zug. One of his motivations was the privacy advantage of the AG structure — unlike the GmbH, where shareholder names appear in the public Commercial Register, an AG's shareholders are not publicly disclosed.
+
+The immediate problem: Swiss corporate law requires at least one board member domiciled in Switzerland and authorised to represent the company. The founder's solution was to appoint a friend (a Swiss citizen) as a temporary board member for approximately one year, while the founder worked towards obtaining his own Swiss residence.
+
+Lex Koller applied in full. As a non-EU national without a Swiss residence permit, the founder was subject to the standard restrictions on residential property acquisition. The commercial property exception (BewG Article 7(1)(b)) applied to any office or business premises the company needed, but residential property for the founder's personal use was not available without a Swiss permit. The founder's path to property ownership ran through the immigration process: obtain a B permit, then purchase a primary residence in the canton of registration. Non-EU nationals on a B permit seeking to purchase residential property should obtain legal advice before proceeding, as the exemption available to EU/EFTA nationals does not automatically extend to them. The <a href="https://www.sem.admin.ch/sem/en/home/themen/aufenthalt/eu_efta.html" target="_blank" rel="nofollow noopener">State Secretariat for Migration (SEM)</a> publishes guidance on permit categories and associated rights.
 
 ---
 
@@ -141,7 +149,7 @@ This is the primary planning route for international investors and business owne
 
 ## Why a Swiss Corporate Wrapper Does Not Bypass Lex Koller for Residential Property
 
-A common misconception is that holding residential property inside a Swiss company sidesteps Lex Koller. It does not.
+A common misconception is that holding residential property inside a Swiss company sidesteps Lex Koller. It does not. This is one of the first questions we receive from foreign entrepreneurs who have just formed a Swiss AG or GmbH.
 
 Under **BewG Article 5**, a Swiss company majority-owned by non-resident foreign nationals is treated as a "person abroad". The cantonal authority will look through the share register to the beneficial owners. Structuring residential property inside a GmbH or AG with foreign shareholders does not create an exemption — it typically generates additional compliance exposure and potential unwinding obligations.
 

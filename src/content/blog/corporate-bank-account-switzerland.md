@@ -72,6 +72,8 @@ Banks require a declaration of where the funds used to capitalise the company �
 
 Every Swiss bank will want to understand what the company actually does. The business plan should describe the business model clearly, name the types of clients and counterparties involved, explain the revenue model, and project transaction flows. The more concrete and specific, the better. Generic business plans raise flags.
 
+PostFinance, for example, requires all of the following before they will process an application: a written business plan, CVs of all directors, copies of employment contracts (if the company has staff), a description of expected transaction types and volumes, and a full source of funds declaration. Other banks request similar documentation but PostFinance is the most rigid about format compliance — missing any single item restarts their review clock.
+
 ### Certified Ownership Structure Chart
 
 For any company with more than one shareholder, or where ownership runs through another legal entity, a certified ownership structure chart is required. This document must trace ownership to the natural person level and be consistent with the corporate documents.
@@ -108,15 +110,17 @@ Switzerland's cantonal banks — ZKB (Zürcher Kantonalbank), BCG (Banque Canton
 
 ### Major Swiss Banks: UBS and Julius Baer
 
-UBS is the dominant player in Swiss banking following the Credit Suisse merger. Julius Baer, while primarily a wealth manager, also serves corporate clients with more complex profiles. Both apply strict onboarding criteria, prefer companies with established track records, and are generally not the right starting point for a newly formed Swiss GmbH or AG with foreign ownership and no prior Swiss banking history. UBS can be a viable path for larger businesses with established group structures and strong financials.
+UBS is the dominant player in Swiss banking following the Credit Suisse merger. In practice, UBS requires CHF 500’000 or more under management to consider new non-resident clients for corporate account relationships. This is not published on their website — it is the operational reality for applications coming through compliance. Julius Baer, while primarily a wealth manager, also serves corporate clients with more complex profiles. Both prefer companies with established track records and are generally not the right starting point for a newly formed Swiss GmbH or AG with foreign ownership and no prior Swiss banking history.
 
 ### Private Banks: Pictet, Lombard Odier
 
 Switzerland's historic private banks — Pictet, Lombard Odier, Mirabaud — serve high-net-worth individuals and institutional clients. They are not the right venue for operating corporate accounts for trading companies, service businesses, or startups. If you are looking to open a corporate account for an active business rather than for wealth management purposes, private banks are not where you should be directing your energy.
 
-### Fintech Platforms: Neon Business, Revolut Business Switzerland, Wise Business
+### Fintech and Alternative Banking: Relio AG, Neon Business, Revolut Business, Wise Business
 
-Fintech providers offer significantly faster onboarding — sometimes within days — and lower fee structures than traditional Swiss banks. For certain business profiles, particularly service businesses with limited cash-handling needs, they can be a practical solution. The limitations are real, however: transaction limits, restricted access to CHF credit facilities, and lower counterparty credibility in some industries. They should not be treated as a substitute for a traditional Swiss bank account in all cases, but they are a legitimate option in the right circumstances.
+**Relio AG** (Zurich-based, CHF 249/month) deserves separate mention. Relio offers same-day corporate account opening after video verification through Intrum. For straightforward European-owned companies, it is the fastest route to a functional Swiss corporate account. The hard limitation: Relio explicitly refuses companies with any US nexus at the UBO or shareholder level. One US-owned Swiss AG we formed was rejected by Relio with the explanation that they are “unable to onboard companies with US nexus at UBO/shareholders level.” That company was forced to use a UK-based payment service (Ebury) through its parent entity — which created serious compliance problems, because Swiss regulators view a company operating through another entity’s bank account as questionable.
+
+Other fintech providers offer significantly faster onboarding — sometimes within days — and lower fee structures than traditional Swiss banks. For certain business profiles, particularly service businesses with limited cash-handling needs, they can be a practical solution. The limitations are real, however: transaction limits, restricted access to CHF credit facilities, and lower counterparty credibility in some industries. They should not be treated as a substitute for a traditional Swiss bank account in all cases, but they are a legitimate option in the right circumstances.
 
 ### Crypto-Friendly Banks: SEBA Bank, Sygnum
 
@@ -141,6 +145,12 @@ For a detailed walkthrough of the [company formation process in Switzerland](/co
 Understanding rejection reasons is as important as understanding what banks require. The most common grounds for rejection in practice are the following.
 
 **Unclear or high-risk business activity.** Banks want to understand your business model in one or two sentences. If they cannot, or if the business touches a sector they consider high-risk — cryptocurrency, precious metals trading, cash-intensive retail, adult entertainment, gaming — expect enhanced scrutiny or refusal.
+
+**Brand-sensitive company names.** This is not widely documented, but it is real. PostFinance rejected an account application for a company with “Tesla” in its registered name. The bank asked: “Why was the name Tesla used?” Brand-adjacent names trigger additional compliance questions and can result in outright refusal.
+
+**US person at any level of the ownership chain.** This has become one of the most reliable grounds for rejection. Most Swiss banks and fintechs will not onboard companies where a US citizen or green card holder appears as a UBO, shareholder, or even a director. The compliance burden of FATCA reporting, combined with IRS enforcement risk, has made US-connected structures essentially unbankable at most Swiss institutions outside UBS. If your structure includes a US person, address this before submitting any application.
+
+**AML/WorldCheck flags.** Banks run every director, UBO, and authorised signatory through WorldCheck (Refinitiv) or equivalent screening databases. A flag — even a false positive from a common name — triggers enhanced due diligence that adds weeks to the process and frequently results in a request for additional documentation or a quiet rejection.
 
 **Beneficial owners in sanctioned jurisdictions.** If any UBO holds a passport from a sanctioned country, or is resident in a FATF black-listed jurisdiction, most Swiss banks will decline the application. This is not a matter of discretion for compliance officers; it is regulatory obligation.
 
@@ -184,11 +194,11 @@ For broader context on Swiss bank accounts for non-residents and foreign entitie
 
 Planning your Swiss banking setup requires realistic timeline expectations. Here is what we see consistently in current practice.
 
-**Capital deposit account (Kapitaleinzahlungskonto):** 2–6 weeks from application submission to account opening, depending on the bank and the complexity of the ownership structure.
+**Capital deposit account (Kapitaleinzahlungskonto):** From approximately 1 week (well-prepared, right bank) to 4+ weeks (complex structure or wrong bank). The critical insight: if the bank approves the blocked capital deposit account, there is roughly an 80% chance it will also approve the permanent operating account. This signal matters more than any other factor in the formation timeline.
 
-**Regular operating account after company formation:** 4–8 weeks. Some cantonal banks with strong existing relationships can move faster; larger banks with more centralised compliance functions often take longer.
+**Regular operating account after company formation:** From 1 month (Relio or well-matched cantonal bank) to 3+ months (complex structure, US persons, or prior rejections). Relio AG can open same-day after video verification for qualifying profiles. Traditional cantonal banks typically take 4–8 weeks. UBS and other large banks with centralised compliance functions take longer.
 
-**Total from formation initiation to operational banking:** In a well-prepared case with the right bank selected at the outset, 6–10 weeks is a realistic end-to-end expectation. Poorly prepared applications or bank mismatches can extend this to four to six months, including reapplication.
+**Total from formation initiation to operational banking:** In a well-prepared case with the right bank selected at the outset, approximately 1 month is achievable. Poorly prepared applications, bank mismatches, or US person complications can extend this to 4–6 months including reapplication. The single biggest time-waster is applying to the wrong bank first — you lose 4–8 weeks waiting for a rejection that was predictable from the outset.
 
 If you are operating under a business deadline — a contract that requires a Swiss corporate entity with an active bank account — plan accordingly and engage professional support early, not after the first rejection.
 

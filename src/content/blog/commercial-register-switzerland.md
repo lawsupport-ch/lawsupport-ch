@@ -30,7 +30,13 @@ faqItems:
   - question: "Can anyone view who owns shares in a Swiss AG?"
     answer: "No. AG shareholders are not recorded in the Swiss Commercial Register and are not publicly accessible through any official register. The shareholder register is a private internal document."
   - question: "How long does it take to complete an initial registration?"
-    answer: "For a standard GmbH or AG, registration typically takes five to ten business days from the date of notarial deed execution, assuming the filing is complete and correctly prepared. Zug and Zurich are among the faster cantonal offices. The company has no legal existence as an AG or GmbH until the entry appears in the register — the notarial deed alone is not sufficient."
+    answer: "For a standard GmbH or AG, registration typically takes 2-4 weeks from the date of notarial deed execution, assuming the filing is complete and correctly prepared. Zug and Zurich are among the faster cantonal offices. Summer filings (July-August) process faster; the pre-Christmas period (November-December) is consistently slower across all cantons.
+
+**The operating shortcut:** While the company’s formal legal existence requires the register entry, it can begin operating from the moment of notarial signing. The notarial deed creates the entity; the register entry makes it enforceable against third parties. You can sign contracts, invoice, and begin work before ZEFIX shows your company.
+
+Before 2022, it was possible to pay a surcharge of approximately 60% above standard fees for expedited publication. This option has been discontinued — there is no fast-track at any cantonal register.
+
+**The register can take 3+ months in problem cases.** Incomplete filings, errors in director details, or unsigned declarations generate rejection notices. We have seen registrations for companies with complex foreign ownership structures take 3 months or more when documentation issues arise. Pre-checking every filing before submission is not a service add-on — it is essential."
   - question: "What happens if I do not register a change to my company's directors?"
     answer: "The unregistered change has no effect against third parties. A counterparty dealing with the former director — who still appears in the register — can hold the company to commitments made by that person. Conversely, a new director whose appointment is not yet registered cannot be relied upon to bind the company in the eyes of a third party acting in good faith."
   - question: "What is the Zefix portal and how do I use it?"
@@ -130,6 +136,8 @@ Common filing triggers and practical timelines:
 
 **Registration fees** for initial incorporation of an AG or GmbH run CHF 600 to CHF 900 at the federal and cantonal level combined. Filing individual changes typically costs CHF 100 to CHF 300 depending on the canton and the nature of the change.
 
+**2025 rule change for shell companies:** The Commercial Register now has expanded powers regarding Mantelgesellschaft (shell company) transfers. The register can void sales it considers lacking genuine commercial substance, and can request financial documentation during the transfer process. Changes to a transferred shell company must be executed in two stages — first the company name and board composition, then the business activity. Attempting to file all changes simultaneously will be rejected. This adds approximately CHF 1,700 in notary and register fees to a standard shell transfer.
+
 All filings require accurate documentation. Errors in resolutions, incomplete director details, or unsigned declarations generate rejection notices from the Handelsregisteramt and delay the process — sometimes by weeks. The <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en" target="_blank" rel="nofollow noopener">Swiss Code of Obligations (OR) on Fedlex</a> governs the underlying corporate requirements for filings.
 
 ---
@@ -156,7 +164,13 @@ No. AG shareholders are not recorded in the Swiss Commercial Register and are no
 
 **How long does it take to complete an initial registration?**
 
-For a standard GmbH or AG, registration typically takes five to ten business days from the date of notarial deed execution, assuming the filing is complete and correctly prepared. Zug and Zurich are among the faster cantonal offices. The company has no legal existence as an AG or GmbH until the entry appears in the register — the notarial deed alone is not sufficient. See our guide on [company formation in Switzerland](/company-formation/company-formation-switzerland/) for the full process and timeline.
+For a standard GmbH or AG, registration typically takes 2-4 weeks from the date of notarial deed execution, assuming the filing is complete and correctly prepared. Zug and Zurich are among the faster cantonal offices. Summer filings (July-August) process faster; the pre-Christmas period (November-December) is consistently slower across all cantons.
+
+**The operating shortcut:** While the company’s formal legal existence requires the register entry, it can begin operating from the moment of notarial signing. The notarial deed creates the entity; the register entry makes it enforceable against third parties. You can sign contracts, invoice, and begin work before ZEFIX shows your company.
+
+Before 2022, it was possible to pay a surcharge of approximately 60% above standard fees for expedited publication. This option has been discontinued — there is no fast-track at any cantonal register.
+
+**The register can take 3+ months in problem cases.** Incomplete filings, errors in director details, or unsigned declarations generate rejection notices. We have seen registrations for companies with complex foreign ownership structures take 3 months or more when documentation issues arise. Pre-checking every filing before submission is not a service add-on — it is essential. See our guide on [company formation in Switzerland](/company-formation/company-formation-switzerland/) for the full process and timeline.
 
 **What happens if I do not register a change to my company's directors?**
 

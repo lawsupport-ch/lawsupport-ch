@@ -55,6 +55,8 @@ EU and EFTA nationals holding a B permit benefit from the Agreement on the Free 
 
 The conditions are straightforward: the sponsor must have adequate housing suitable for the family, and neither the sponsor nor the joining family members should become dependent on social welfare in a way that would trigger abuse of rights. In practice, the bar is lower than for non-EU nationals because the AFMP takes precedence over the stricter domestic AIG provisions.
 
+> **Real sequencing trap:** A German tech founder relocating from London to Zug with his Swedish wife and three children assumed both applications could be filed simultaneously. They cannot. The cantonal migration office requires the **primary applicant's file to be accepted first** before processing the family reunification application. In this case, the founder's B permit application took approximately one month for commercial register formation and filing, followed by another month for relocation essentials (accommodation contract, commune registration). Only after his primary file was accepted could his wife's reunification application be submitted. The family was physically reunited roughly ten weeks after the process began — not the "immediate" timeline the AFMP language suggests. Plan for this gap, especially if children need to be enrolled in Swiss schools.
+
 Further details on the B permit itself are covered in our [B permit Switzerland](/immigration/b-permit-switzerland/) overview.
 
 ### B Permit Holders — Non-EU/EFTA Nationals
@@ -86,6 +88,8 @@ The strongest claim to family reunification belongs to a legally married spouse 
 ### Unmarried Cohabiting Partners
 
 An unmarried partner does not have an automatic right to family reunification under Swiss law. To obtain a permit for a cohabiting partner, the sponsor must demonstrate a long-term, stable relationship — typically supported by evidence of cohabitation in the country of origin, joint financial ties, and a credible intention to continue the relationship in Switzerland. These applications are assessed at cantonal discretion and are more frequently refused than spouse applications.
+
+**Practical reality:** If you are in a long-term relationship and planning to move to Switzerland, seriously consider registering the partnership or marrying before filing. The evidentiary burden for unmarried cohabiting partners is substantially higher, and the cantonal officer's discretion is broad. We have seen otherwise strong applications refused simply because the couple could not produce sufficient documentary evidence of shared financial life — joint lease agreements, shared utility bills, joint bank accounts. A marriage certificate eliminates this entire category of risk.
 
 ### Dependent Children Under 18
 
@@ -140,6 +144,8 @@ Documents issued abroad must be apostilled under the Hague Convention, or legali
 ### Timeline
 
 From submission of a complete application: **8 to 16 weeks** is the standard processing window. Incomplete applications — the single most common cause of delay — reset this clock. Cantons with higher caseloads (Zurich, Geneva, Vaud) tend toward the longer end of this range.
+
+**What "complete application" actually means in practice:** The apostille requirement alone can add two to four weeks if the marriage certificate was issued in a non-Hague Convention country. We have seen applications returned because the certified translation was produced by a translator not recognised by the cantonal authority, or because bank statements were older than three months at the time the application was reviewed (not at the time of submission). Prepare documents with a margin — request fresh bank statements immediately before filing, and confirm the translator's credentials with the specific canton before commissioning the work.
 
 ---
 
