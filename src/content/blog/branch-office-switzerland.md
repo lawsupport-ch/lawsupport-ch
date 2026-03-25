@@ -119,6 +119,62 @@ The branch pays Swiss corporate income tax at the cantonal rate of the registrat
 
 ---
 
+## The Permanent Establishment Trap: Art. 51 DBG
+
+Every foreign company with a registered Swiss branch has a Swiss permanent establishment (PE) under Art. 51 of the Federal Direct Tax Act (DBG/LIFD). This is automatic -- registration in the Commercial Register is conclusive evidence of PE status. But the real trap is subtler than most advisers explain.
+
+### The Double Taxation Risk
+
+A Swiss branch creates taxable presence in two countries simultaneously: Switzerland taxes the branch's attributable profit; the head office's home country taxes the company's worldwide income. If the double tax treaty between Switzerland and the home country does not contain a PE article (rare but possible for some non-OECD jurisdictions), or if the profit allocation between head office and branch is disputed, the same income can be taxed twice.
+
+**Common scenario:** A German GmbH registers a Zurich branch. Germany taxes the GmbH's worldwide profit at ~30%. Switzerland taxes the branch's attributable profit at ~19.7%. The Germany-Switzerland DTA requires Germany to exempt the Swiss PE profit -- but only if the profit allocation follows arm's-length principles and is documented. If the GmbH cannot demonstrate which revenue and costs are properly attributable to the Swiss branch, the German Finanzamt may refuse to exempt the Swiss income. Result: effective tax rate exceeding 40% on the disputed portion.
+
+**How to avoid it:** Maintain separate management accounts for the Swiss branch from day one. Document every transaction between head office and branch as if they were separate entities. The OECD Authorised OECD Approach (AOA) for PE profit attribution is the standard -- but it requires proper transfer pricing documentation that many small branches neglect until the first tax audit.
+
+### Branch Profit Allocation: The CHF 5'000 Audit Risk
+
+The Swiss cantonal tax authority can challenge the branch's profit allocation. If the branch reports a loss while the head office is profitable, or if the branch's margin is significantly below arm's-length levels, expect a query. Cantonal tax administrations in Zurich and Zug have dedicated international tax units that review PE profit allocations. An adjustment of CHF 50'000 in attributable profit at a 19.7% rate means CHF 9'850 in additional tax plus 4% interest from the original due date.
+
+---
+
+## Real Timeline: Branch Registration From Start to Finish
+
+Based on actual client engagements, here is what a branch registration timeline looks like in practice:
+
+| Step | Duration | Notes |
+|---|---|---|
+| Gather head office documents | 1-3 weeks | Apostille processing varies by country |
+| Notarised translations | 3-5 business days | If documents not in DE/FR/IT |
+| Board resolution + signing | 1-2 business days | Often the fastest step |
+| Filing with cantonal register | 1 day | Electronic or in-person |
+| Register processing | 15-25 business days | Zug: 15-18 days; Zurich: 20-25 days |
+| SHAB publication | 2-3 business days after registration | Automatic |
+| Bank account opening | 2-6 weeks | The real bottleneck |
+| VAT registration (if needed) | 2-4 weeks | Federal Tax Administration |
+| **Total realistic timeline** | **6-12 weeks** | From first document request to operational |
+
+The bank account is consistently the longest step. Swiss banks conduct enhanced due diligence on branch offices of foreign companies, particularly those from non-EU jurisdictions. PostFinance rejects most branch applications outright. UBS and Credit Suisse (now UBS) require the branch to have been registered for at least 30 days before accepting an application. Smaller cantonal banks (Zuger Kantonalbank, ZKB) are sometimes faster but have stricter minimum balance requirements.
+
+---
+
+## Cost Comparison: Branch vs Subsidiary (First Year)
+
+| Cost Item | Branch (Zweigniederlassung) | GmbH Subsidiary | AG Subsidiary |
+|---|---|---|---|
+| Apostille + translations | CHF 300 - 800 | Not required | Not required |
+| Commercial Register fee | CHF 600 - 800 | CHF 600 - 800 | CHF 600 - 800 |
+| Notary fees | None (Swiss notary not needed) | CHF 800 - 1'200 | CHF 1'500 - 2'500 |
+| Share capital | None | CHF 20'000 (fully paid up) | CHF 50'000 (min. paid in) |
+| Professional fees (formation) | CHF 1'500 - 2'500 | CHF 2'000 - 3'500 | CHF 3'000 - 5'000 |
+| Swiss-resident representative | CHF 1'500 - 2'500/year | Included (director) | Included (director) |
+| Tax return preparation | CHF 2'000 - 4'000/year | CHF 2'000 - 4'000/year | CHF 2'500 - 5'000/year |
+| **Total first-year cost** | **CHF 3'000 - 5'000** | **CHF 9'000 - 12'000** | **CHF 12'000 - 18'000** |
+| **Ongoing annual cost** | **CHF 3'500 - 6'500** | **CHF 2'000 - 4'000** | **CHF 2'500 - 5'000** |
+
+Note the crossover: the branch is cheaper in year one, but ongoing costs (resident representative fee, PE profit allocation documentation, head office accounting coordination) make it more expensive than a GmbH from year two onwards. For any engagement lasting more than 18 months, the GmbH is typically cheaper in total cost of ownership.
+
+---
+
 ## Branch vs. Subsidiary: Key Comparison
 
 | Factor | Branch (Zweigniederlassung) | Subsidiary (GmbH/AG) |

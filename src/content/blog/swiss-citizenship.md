@@ -274,7 +274,7 @@ In some Swiss communes, naturalisation decisions are put to a direct democratic 
 
 ### The Financial Independence Requirement Has No Exceptions
 
-Social welfare receipt during your qualifying period is assessed comprehensively. Even a brief, isolated episode of receiving Sozialhilfe three years before your application creates a risk factor. For startup founders who draw minimal salaries while reinvesting in their business, this is a particular trap: cantonal authorities may interpret low personal income as evidence of insufficient financial independence, even if the business is profitable. Maintain consistent, documented salary payments that meet cantonal benchmarks throughout the qualifying period.
+Social welfare receipt during your qualifying period is assessed on its full history. Even a brief, isolated episode of receiving Sozialhilfe three years before your application creates a risk factor. For startup founders who draw minimal salaries while reinvesting in their business, this is a particular trap: cantonal authorities may interpret low personal income as evidence of insufficient financial independence, even if the business is profitable. Maintain consistent, documented salary payments that meet cantonal benchmarks throughout the qualifying period.
 
 ### Integration Is Not Paperwork
 

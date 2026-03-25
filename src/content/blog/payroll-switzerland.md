@@ -45,7 +45,7 @@ tocItems:
 
 Running payroll in Switzerland is not complicated once you understand its architecture — but that architecture is far more elaborate than most foreign employers expect when they hire their first Swiss-based employee. The obligations layer on top of each other: federal social insurance, occupational pension, accident insurance, cantonal source tax, family allowances, and potentially industry-specific collective agreements, all running in parallel on a monthly cycle.
 
-Miss a contribution class, withhold the wrong Quellensteuer rate, or skip employer registration, and you face retroactive assessments with penalty interest. The total employer overhead above gross salary -- AHV/IV/EO, ALV, BVG, UVG, FAK, and Krankentaggeld combined -- typically runs **15-20% above the gross salary figure**. Foreign founders who budget headcount costs at gross salary alone consistently underestimate their actual payroll burden by tens of thousands of francs per year. The total employer overhead above gross salary -- AHV/IV/EO, ALV, BVG, UVG, FAK, and Krankentaggeld combined -- typically runs **15-20% above the gross salary figure**. Foreign founders who budget headcount costs at gross salary alone consistently underestimate their actual payroll burden by tens of thousands of francs per year. The Swiss compensation offices audit regularly, and they go back. This guide gives you every material number and obligation in force as of March 2026 so you can run a compliant payroll from day one.
+Miss a contribution class, withhold the wrong Quellensteuer rate, or skip employer registration, and you face retroactive assessments with penalty interest. The total employer overhead above gross salary -- AHV/IV/EO, ALV, BVG, UVG, FAK, and Krankentaggeld combined -- typically runs **15-20% above the gross salary figure**. Foreign founders who budget headcount costs at gross salary alone consistently underestimate their actual payroll burden by tens of thousands of francs per year. The Swiss compensation offices audit regularly, and they go back. This guide gives you every material number and obligation in force as of March 2026 so you can run a compliant payroll from day one.
 
 For entity setup before you hire, see our guide on [starting a business in Switzerland](/company-formation/start-business-switzerland/) and [accounting obligations in Switzerland](/tax-accounting/accounting-switzerland/).
 
@@ -162,26 +162,6 @@ The employer's mandatory contributions on this payroll:
 Accounting software (Bexio, the most common choice for Swiss SMEs) costs CHF 35-83 per month depending on the plan. If payroll is outsourced to an accounting firm, hourly rates run CHF 150-180 per hour excluding VAT. Neither cost is trivial for a three-person startup.
 
 ---
-
-
-
-To make the overhead concrete: consider a small company in Zug employing three staff at CHF 100'000 gross annual salary each (CHF 300'000 total gross payroll).
-
-The employer's mandatory contributions on this payroll:
-- AHV/IV/EO (5.3%): CHF 15'900
-- ALV (1.1%): CHF 3'300
-- BVG employer share (~5-7% average): ~CHF 15'000-21'000
-- UVG occupational accident (~0.2%): ~CHF 600
-- FAK Zug (1.6%): CHF 4'800
-- Krankentaggeld employer share (~1%): ~CHF 3'000
-
-**Total employer overhead: approximately CHF 42'600-48'600** -- call it CHF 46'200 at the midpoint -- on top of the CHF 300'000 in gross salaries. That is a 15.4% surcharge before accounting for the 13th month salary obligation (which adds another CHF 25'000 in gross salary plus its own contributions).
-
-Accounting software (Bexio, the most common choice for Swiss SMEs) costs CHF 35-83 per month depending on the plan. If payroll is outsourced to an accounting firm, hourly rates run CHF 150-180 per hour excluding VAT. Neither cost is trivial for a three-person startup.
-
----
-
-## 4. Source Tax (Quellensteuer): Withholding for Foreign Employees
 
 Switzerland operates a dual income tax system for employees.
 

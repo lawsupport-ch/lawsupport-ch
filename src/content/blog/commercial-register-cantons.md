@@ -57,6 +57,36 @@ Summer filings (July-August) process faster across all cantons. The pre-Christma
 
 The Commercial Register is the authoritative source for Swiss entity information and is updated upon every change in company details. Its public nature means that counterparties, banks, and authorities rely on it for due diligence.
 
+### Processing Speed in Practice: What the Official Timelines Do Not Tell You
+
+The table above shows standard processing windows. In practice, the spread is wider. Zug consistently processes clean GmbH filings in 5-10 business days -- sometimes faster if the examiner has no queries. Zurich takes 2-3 weeks for the same filing. Geneva runs 3-4 weeks and occasionally longer when the registre du commerce requests additional documentation on foreign directors.
+
+These timelines assume a complete, error-free filing. One missing document -- an expired bank confirmation, a passport copy without apostille, a director whose commune registration has not yet been processed -- resets the clock by 2-4 weeks per round of correction.
+
+### Real Rejection Stories
+
+**Name conflict:** A client filed a GmbH registration in Zurich with the name "Alpine Capital Partners GmbH". The cantonal register rejected it within three days -- an existing AG in Bern was already registered as "Alpine Capital Partners AG". The HCO treats names across all legal forms and all cantons as potentially conflicting if they create confusion in commercial dealings. The client had checked Zefix but missed the Bern entity because the search was filtered by canton. Cost of the rejection: CHF 400 in re-filing fees plus three weeks of delay while choosing and clearing a new name.
+
+**Missing documents from abroad:** A UK parent company submitted articles of association without apostille and a certificate of incorporation older than six months. The Zug register rejected both. Obtaining fresh apostilled documents from Companies House took 14 business days. The registration that should have taken 10 days took 38 days in total.
+
+### Decision Framework: Choosing Your Canton
+
+Beyond tax rates, three factors should drive your canton selection:
+
+| Factor | Zug | Zurich | Geneva |
+|---|---|---|---|
+| Effective corporate tax rate (2026) | ~11.85% | ~19.7% | ~14.0% |
+| GmbH registration speed | 5-10 business days | 2-3 weeks | 3-4 weeks |
+| Registration fee (GmbH) | CHF 600 | CHF 650 | CHF 700 |
+| Experience with international structures | Very high | High | High |
+| Banking onboarding difficulty | Low-moderate | Moderate | Moderate-high |
+
+**If tax efficiency is the primary objective**, Zug saves a company with CHF 500'000 in annual profit roughly CHF 39'250 per year compared to Zurich (7.85 percentage points x CHF 500'000). Over five years, that is CHF 196'250 -- enough to cover the formation costs many times over.
+
+**If physical presence matters** -- client-facing offices, access to financial district talent -- Zurich or Geneva may justify their higher tax rates.
+
+**If speed matters** -- a client contract requires a Swiss entity within two weeks -- Zug is the only canton where this timeline is realistic for a clean filing.
+
 ---
 
 ## Zefix: The Federal Commercial Register Search

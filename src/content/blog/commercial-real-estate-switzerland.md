@@ -56,13 +56,15 @@ This is the single most important distinction in Swiss property law for foreign 
 
 Annual rents per square metre for Grade A space:
 
-| Location | Prime Rent (CHF/m²/year) |
-|---|---|
-| Geneva CBD | 650 – 900 |
-| Zurich CBD | 550 – 800 |
-| Basel | 300 – 420 |
-| Zug | 280 – 400 |
-| Zurich Oerlikon / Altstetten | 280 – 380 |
+| Location | Grade A Rent (CHF/m²/year) | Notes |
+|---|---|---|
+| Zurich Bahnhofstrasse | 800 – 1'200 | Trophy addresses; limited availability |
+| Geneva CBD (Rue du Rhône) | 650 – 900 | Highest absolute rents in Switzerland |
+| Zurich CBD (Paradeplatz area) | 550 – 800 | Banking quarter premium |
+| Basel (Aeschenvorstadt) | 300 – 420 | Pharma sector demand |
+| Zug (Baarerstrasse / Grafenauweg) | 350 – 500 | Tax-driven demand; rising |
+| Zurich Oerlikon / Altstetten | 280 – 380 | Growth corridors; new builds |
+| Bern (Bundesgasse area) | 250 – 350 | Government-adjacent; stable |
 
 **Zug** warrants particular attention. The canton's tax regime (effective corporate tax rates ~11–12%) drives demand, rents are competitive relative to Zurich, and Zurich is 25 minutes by train. Lawsupport's offices are in Zug, and we advise most clients to consider the canton seriously for [Swiss companies](/company-formation/company-formation-switzerland/).
 
@@ -133,6 +135,63 @@ If your entity needs to qualify as a genuine operating company — for tax treat
 ## VAT on Commercial Leases
 
 By default, leasing commercial property is exempt from Swiss VAT. Most institutional landlords elect to charge VAT at 8.1% (Optierung). If your company is VAT-registered, this is fully recoverable as input tax. If not, it becomes an irrecoverable cost. Confirm VAT status at lease inception. See our [VAT guide](/tax-accounting/vat-switzerland/).
+
+---
+
+## Deposit Requirements and Upfront Costs
+
+### Lease Deposits
+
+Standard commercial lease deposits in Switzerland: **three months' gross rent** (excluding Nebenkosten and VAT). For a 200 m² office in Zug at CHF 450/m²/year, that is CHF 22'500 locked up for the lease term.
+
+Most landlords accept a **bank guarantee** (Bankgarantie) instead of cash. The bank charges approximately 1-2% per year on the guaranteed amount. For a CHF 22'500 guarantee, annual cost: CHF 225-450. This preserves working capital.
+
+Some institutional landlords in Zurich CBD now request **six months' deposit** for foreign-controlled tenants without a Swiss credit history. Negotiate this down -- three months is the market norm, and six months is only justified for entities with no Swiss banking track record.
+
+### Purchase Transaction Costs
+
+If buying commercial property rather than leasing, budget for these transaction costs on top of the purchase price:
+
+| Cost Item | Rate / Amount |
+|---|---|
+| Notary fees (Grundbuchamt) | 0.1% – 0.5% of purchase price (varies by canton) |
+| Property transfer tax (Handaenderungssteuer) | 0% – 3.3% depending on canton |
+| Land register fee | 0.1% – 0.2% of purchase price |
+| Due diligence (legal, technical, environmental) | CHF 10'000 – 30'000 |
+| Mortgage arrangement fee (if financed) | 0.5% – 1.0% of loan amount |
+
+**Transfer tax by canton (selected):**
+
+| Canton | Property Transfer Tax |
+|---|---|
+| Zug | 0% (no transfer tax) |
+| Zurich | 0% (abolished 2005) |
+| Bern | 1.8% |
+| Geneva | 3.3% |
+| Vaud | 3.3% |
+| Basel-Stadt | 3.0% |
+
+Zug and Zurich charge no property transfer tax -- a material advantage for commercial property purchases exceeding CHF 5'000'000.
+
+### Case Study: A Fintech's Office Search -- Zug vs Zurich
+
+A London-based fintech with 15 staff needed a Swiss office for its newly formed AG. The CFO compared two options:
+
+**Option A -- Zurich Seefeld (180 m², Grade B):**
+- Annual rent: CHF 550/m² x 180 m² = CHF 99'000
+- Nebenkosten: CHF 60/m² x 180 m² = CHF 10'800
+- Deposit: CHF 24'750 (3 months)
+- Effective corporate tax rate: 19.7%
+- 5-year total occupancy cost: CHF 549'000
+
+**Option B -- Zug Grafenauweg (180 m², Grade A):**
+- Annual rent: CHF 420/m² x 180 m² = CHF 75'600
+- Nebenkosten: CHF 55/m² x 180 m² = CHF 9'900
+- Deposit: CHF 18'900 (3 months)
+- Effective corporate tax rate: 11.85%
+- 5-year total occupancy cost: CHF 427'500
+
+**5-year office cost saving in Zug: CHF 121'500.** Combined with the tax rate differential on CHF 800'000 annual profit (saving CHF 62'800/year), the Zug option saved the company over CHF 435'500 in five years. The 25-minute train ride to Zurich HB was an acceptable trade-off.
 
 ---
 
