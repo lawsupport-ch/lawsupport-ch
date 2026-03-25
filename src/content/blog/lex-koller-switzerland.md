@@ -5,108 +5,109 @@ date: "19.03.2026"
 publishDate: "2026-04-27"
 category: "Immigration"
 categoryHref: "/immigration/"
-readTime: "6 min read"
+readTime: "7 min read"
 faqItems:
   - question: "Can my Swiss company buy residential property for me?"
-    answer: "If you are a non-resident foreign national with majority control, the company is subject to Lex Koller for residential property. Ownership through a company does not bypass the restriction."
+    answer: "If you are a non-resident foreign national with majority control, the company is subject to Lex Koller for residential property. Ownership through a company does not bypass the restriction — BewG Article 5 looks through the corporate structure to the beneficial owner."
   - question: "If I get a Swiss B permit, what property can I buy?"
     answer: "With a B permit you can purchase one primary residence in your permit canton. Investment properties, second homes, and properties outside your canton are not permitted under this exemption."
-  - question: "Does Lex Koller apply to commercial real estate?"
-    answer: "No. Lex Koller does not restrict acquisition of commercial or industrial real estate by foreign persons, regardless of nationality or residence status."
+  - question: "What happens if a Lex Koller violation is discovered after purchase?"
+    answer: "The transaction is void. The land register entry is deleted, the property must be divested, and criminal penalties apply for wilful violations. The property purchase can be annulled retroactively — even years later."
   - question: "Can I inherit Swiss residential property as a foreigner?"
     answer: "Yes. Inheritance is exempt from Lex Koller restrictions. However, if a non-resident foreigner later wishes to sell and repurchase different Swiss residential property, the new purchase is subject to Lex Koller."
 tocItems:
-  - id: "what-lex-koller-restricts"
-    title: "What Lex Koller Restricts"
+  - id: "what-lex-koller-actually-does"
+    title: "What Lex Koller Actually Does"
   - id: "who-is-exempt-from-lex-koller"
     title: "Who Is Exempt from Lex Koller"
-  - id: "what-requires-cantonal-authorisation"
-    title: "What Requires Cantonal Authorisation"
+  - id: "case-study-the-corporate-wrapper-that-made-things-worse"
+    title: "Case Study: The Corporate Wrapper That Made Things Worse"
+  - id: "four-traps-that-catch-foreign-property-buyers"
+    title: "Four Traps That Catch Foreign Property Buyers"
   - id: "holiday-apartments-the-quota-exception"
     title: "Holiday Apartments: The Quota Exception"
-  - id: "lex-koller-and-swiss-companies"
-    title: "Lex Koller and Swiss Companies"
+  - id: "lex-koller-and-your-permit-type"
+    title: "Lex Koller and Your Permit Type"
+  - id: "the-commercial-property-escape-route"
+    title: "The Commercial Property Escape Route"
   - id: "enforcement-and-penalties"
     title: "Enforcement and Penalties"
-  - id: "lex-koller-and-immigration-status"
-    title: "Lex Koller and Immigration Status"
 ---
 
 
-Lex Koller — officially the <a href="https://www.fedlex.admin.ch/eli/cc/1984/1148_1148_1148/en" target="_blank" rel="nofollow noopener">Federal Act on the Acquisition of Real Estate by Persons Abroad (BewG)</a> — is Switzerland's primary restriction on foreign ownership of Swiss real estate. It has been in force since 1983 and represents Switzerland's policy decision to limit foreign land ownership as a matter of national interest.
+Lex Koller — officially the <a href="https://www.fedlex.admin.ch/eli/cc/1984/1148_1148_1148/en" target="_blank" rel="nofollow noopener">Federal Act on the Acquisition of Real Estate by Persons Abroad (BewG)</a> — is Switzerland's primary restriction on foreign ownership of Swiss real estate. In force since 1983, it prevents most non-residents from buying Swiss residential property. The law is blunt, the exceptions are narrow, and violations can result in retroactive annulment of the purchase — even years after completion.
+
+If you are a foreign national considering Swiss property, your Lex Koller status is the first question to answer. Get it wrong, and the transaction can be unwound.
 
 ---
 
-## What Lex Koller Restricts
+## What Lex Koller Actually Does
 
-Lex Koller restricts foreigners (Personen im Ausland) from acquiring Swiss residential real estate without cantonal authorisation. "Persons abroad" (auslaendische Personen) means:
+Lex Koller prohibits "persons abroad" (Personen im Ausland) from acquiring Swiss residential real estate without prior cantonal authorisation. "Persons abroad" includes:
+
 - Foreign nationals not residing in Switzerland
-- Foreign nationals residing in Switzerland but holding an [L permit](/immigration/l-permit-switzerland/) (short-term) — generally restricted
-- Foreign-controlled Swiss legal entities whose beneficial owner is a non-resident foreign national
-- Swiss companies more than 50% owned by non-resident foreigners — generally subject to Lex Koller for residential property
+- Foreign nationals residing in Switzerland on an [L permit](/immigration/l-permit-switzerland/) (short-term)
+- Swiss companies more than 50% owned by non-resident foreigners (BewG Article 5 — the look-through rule)
+- Foreign-controlled Swiss legal entities regardless of corporate structure
+
+The law applies to residential property. Commercial and industrial property acquired for genuine business use is **exempt**.
 
 ---
 
 ## Who Is Exempt from Lex Koller
 
-**Swiss citizens:** No restriction at all.
+**Swiss citizens:** No restriction whatsoever.
 
-**EU/EFTA nationals with B permit or C permit:** Can purchase a primary residence in their canton of residence without authorisation. A [B permit](/immigration/b-permit-switzerland/) holder can buy one primary residence in the canton where they are registered. A [C permit](/immigration/c-permit-switzerland/) holder has equivalent rights to Swiss citizens for property purposes.
+**C permit holders (any nationality):** Equivalent to Swiss citizens for property purposes. Unrestricted purchase.
 
-**Non-EU/EFTA nationals with C permit:** Can purchase their primary residence without Lex Koller authorisation.
+**EU/EFTA nationals with B permit:** Can purchase one primary residence in their permit canton without authorisation.
 
-**Non-EU/EFTA nationals with B permit:** Can purchase primary residence in their canton of residence only — same as EU/EFTA B permit holders. The restriction is tighter than it sounds: "primary residence" means one property, in the permit canton, used as the main dwelling. Investment properties, second homes, buy-to-let flats, and properties in other cantons are all prohibited under this exemption. Non-EU B permit holders who wish to build a Swiss property portfolio must wait for a C permit — which typically requires 10 years of uninterrupted residence.
+**Non-EU/EFTA nationals with B permit:** Can purchase primary residence in their permit canton — but the exemption is narrower than for EU/EFTA nationals. Legal advice before proceeding is recommended.
 
-**Anyone — commercial/industrial property for business use:** Lex Koller does not apply to commercial or industrial property acquired for genuine business purposes. A foreign-owned Swiss company buying office space or a factory faces no Lex Koller restriction.
+**Anyone — commercial property:** Lex Koller does not apply to commercial or industrial property acquired for genuine business purposes, regardless of buyer nationality or residence status.
 
 ---
 
-## What Requires Cantonal Authorisation
+## Case Study: The Corporate Wrapper That Made Things Worse
 
-Foreign persons not otherwise exempt must obtain cantonal authorisation to purchase:
-- Residential real estate (apartments, houses)
-- Agricultural land
-- Certain mixed-use properties with residential components
+A Middle Eastern investor wanted to purchase a lakeside residential property in canton Schwyz. He was not resident in Switzerland and did not hold a Swiss permit. His adviser suggested forming a Swiss AG and purchasing the property through the company.
 
-Authorisation is granted (or refused) by the cantonal government. In practice, very few authorisations are granted — the quota system for holiday apartments is extremely limited.
+**The problem:** BewG Article 5 looks through corporate structures to the beneficial owner. The AG, majority-owned by a non-resident foreigner, was treated as a "person abroad" — subject to exactly the same Lex Koller restrictions as the investor personally. The corporate wrapper provided no advantage for residential property.
+
+**What made it worse:** The AG structure created additional compliance exposure. The commercial register now showed a company holding residential real estate, which triggered scrutiny from the cantonal Bewilligungsbehörde. The investor faced not just a rejected purchase, but questions about whether the AG itself had been established with the intention of circumventing Lex Koller — a factor that could affect future applications.
+
+**The resolution:** The investor abandoned the residential purchase and instead acquired a commercial property through the AG for his Swiss business operations — which Lex Koller explicitly permits. He then began the process of obtaining a B permit, which would eventually allow him to purchase a primary residence in his canton of registration.
+
+**The lesson:** Corporate wrappers do not bypass Lex Koller for residential property. They can make the situation worse by adding compliance layers and raising red flags with cantonal authorities. The route to residential property ownership for non-resident foreigners runs through the immigration process — obtain a permit first.
+
+---
+
+## Four Traps That Catch Foreign Property Buyers
+
+**1. Retroactive annulment.** A Lex Koller violation does not merely result in a fine. The purchase is void under civil law — the land register entry is deleted, and the property must be divested. This can happen years after the purchase, if the violation is discovered during a subsequent transaction, audit, or ownership dispute. The buyer loses the property and may not recover the full purchase price.
+
+**2. The EU/non-EU B permit gap.** EU/EFTA nationals on a B permit have a clearer right to purchase their primary residence than non-EU nationals on the same permit type. Non-EU B permit holders sometimes proceed on the assumption that the exemption is identical — it is not. Legal advice before signing any purchase agreement is essential.
+
+**3. Holiday apartment quotas are effectively exhausted.** The federal annual quota of approximately 1'500 holiday apartment authorisations nationally is consumed rapidly in popular destinations (Verbier, Gstaad, St. Moritz). Buyers targeting alpine property through this route should expect significant waiting times and restricted geographic selection.
+
+**4. "Commercial" land converted to residential use.** Purchasing land designated for commercial use and later converting it to residential is subject to enforcement action. The intended use must be genuine and documented — cantonal authorities monitor changes.
 
 ---
 
 ## Holiday Apartments: The Quota Exception
 
-There is a limited exception for foreigners to purchase holiday apartments (Ferienwohnungen) in designated Swiss tourist zones (certain mountain resorts):
-- A strict annual quota of 1'500 authorisations per year applies nationally
-- Must be in a designated tourist commune that has not used up its cantonal allocation
-- The property must be used as a holiday home — not rented out commercially (with some exceptions)
+The one narrow exception for non-resident foreigners to purchase residential-type property:
+
+- Must be in a **designated tourist commune** with available cantonal allocation
+- Subject to the **federal quota** (historically ~1'500 units per year nationally)
+- Must be maintained as **holiday use** — not rented year-round as a primary residence
 - Minimum property size restrictions apply
 
-In practice, the holiday apartment quota is largely exhausted in popular destinations (Verbier, Gstaad, St. Moritz). The quota has been frozen for decades, making new authorisations extremely difficult to obtain.
+In practice, this route is not reliably accessible for most non-resident buyers.
 
 ---
 
-## Lex Koller and Swiss Companies
-
-A Swiss company whose majority beneficial owner is a non-resident foreigner is generally treated as a "foreign person" for Lex Koller purposes when acquiring residential real estate. The company structure does not bypass the restriction.
-
-The exception: if the Swiss company is genuinely commercial and the real estate is for its business operations, Lex Koller does not apply. For more on structuring a Swiss entity, see our [company formation guide](/company-formation/company-formation-switzerland/).
-
-**Why some foreign entrepreneurs choose the AG.** A practical pattern we see regularly: non-EU entrepreneurs — particularly from Romania, Eastern Europe, and the Middle East — choose the AG (Aktiengesellschaft) over the GmbH partly for Lex Koller-adjacent reasons, but more fundamentally for privacy. In a GmbH, shareholder names are published in the Commercial Register. In an AG, shareholders are anonymous — only the board of directors is publicly visible. For a Romanian entrepreneur establishing a Zug AG with a Swiss-resident board member provided by the advisory firm, the AG structure offers a high degree of privacy while the entrepreneur builds a Swiss presence. The AG costs more to form (CHF 2'500 vs CHF 1'900 for a GmbH, plus CHF 100'000 minimum share capital with at least CHF 50'000 paid in), but for clients where ownership privacy is a priority, the premium is justified. This privacy advantage has nothing to do with Lex Koller avoidance — Lex Koller looks through corporate structures to the beneficial owner — but it does matter for commercial confidentiality and personal security.
-
----
-
-## Enforcement and Penalties
-
-**Unauthorised acquisition:** An acquisition of Swiss real estate in breach of Lex Koller is void (null and void). The property must be divested.
-
-**Penalties:** Criminal penalties for wilful breach; administrative orders to divest.
-
-**Monitoring:** Cantonal land registry offices check ownership at the time of transfer. Notaries must verify Lex Koller compliance before authenticating real estate transfer deeds.
-
----
-
-## Lex Koller and Immigration Status
-
-Your immigration status determines your property rights under Lex Koller. The relationship between permit type and property purchase rights is direct:
+## Lex Koller and Your Permit Type
 
 | Permit | Primary Residence | Second Home / Investment | Commercial Property |
 |---|---|---|---|
@@ -120,47 +121,67 @@ For a full overview of Swiss immigration categories, see [immigrate to Switzerla
 
 ---
 
+## The Commercial Property Escape Route
+
+The most viable and consistently available route for foreign buyers is **commercial and industrial real estate**. BewG Article 7(1)(b) explicitly exempts property acquired for genuine commercial use:
+
+- Office premises for an operating Swiss business
+- Industrial, warehouse, or logistics facilities
+- Retail and hospitality premises operated as a business
+
+A non-resident foreigner or foreign-owned Swiss company can acquire commercial property without triggering Lex Koller. The key qualifier is genuine business use. For a detailed treatment, see our guide on [commercial real estate in Switzerland](/company-formation/commercial-real-estate-switzerland/) and [company formation](/company-formation/company-formation-switzerland/).
+
+---
+
+## Enforcement and Penalties
+
+**Unauthorised acquisition:** The transaction is void (null and void). The property must be divested. The land register entry is deleted.
+
+**Criminal penalties:** Wilful breach carries criminal penalties including fines and potentially imprisonment.
+
+**Monitoring:** Cantonal land registry offices verify Lex Koller compliance at transfer. Notaries must confirm compliance before authenticating deeds.
+
+**Retroactive enforcement:** Violations discovered after completion — during resale, inheritance, or audit — can result in forced divestiture years later. The property is not "safe" simply because the initial purchase was completed without objection.
+
+---
+
 ## Frequently Asked Questions
 
-**I have a Swiss company — can it buy residential real estate in Switzerland for me?**
+**Can my Swiss company buy residential property for me?**
 
-If you are a non-resident foreign national with majority control of the Swiss company, the company is subject to Lex Koller for residential property. Ownership through a Swiss company does not bypass the restriction. The company would need cantonal authorisation — which is rarely granted for residential purposes.
+Not if you are a non-resident foreign national with majority control. BewG Article 5 looks through the corporate structure. The company is treated as a "person abroad" and needs cantonal authorisation — which is very rarely granted for residential purchases.
 
 **If I get a Swiss B permit, what can I buy?**
 
-With a B permit (any nationality), you can purchase one primary residence in the canton where your permit is issued. You cannot purchase investment properties, second homes, or properties outside your canton of residence under the B permit exemption.
+One primary residence in the canton where your permit is issued. No investment properties, no second homes, no properties outside your canton.
 
-**Does Lex Koller apply to real estate funds?**
+**What happens if a Lex Koller violation is discovered after purchase?**
 
-Swiss collective investment schemes (real estate funds) have specific rules — listed Swiss real estate funds are generally exempt; non-listed funds with more than one third foreign investors may be subject to Lex Koller for certain acquisitions. This requires specific legal analysis.
+The transaction is void. The land register entry is deleted, the property must be divested, and criminal penalties apply for wilful violations. This can happen years after the original purchase.
 
 **Can I inherit Swiss residential property as a foreign national?**
 
-Yes. Inheritance is exempt from Lex Koller restrictions. A foreign national who inherits Swiss residential property can keep and use it. However, if the heir is a non-resident foreigner and later wishes to sell and repurchase different Swiss residential property, the new purchase would be subject to Lex Koller.
+Yes. Inheritance is exempt. But if you later sell and repurchase different Swiss residential property, the new purchase is subject to Lex Koller.
 
-**Does Lex Koller apply to long-term leases?**
+**Does Lex Koller apply to commercial real estate?**
 
-A long-term lease (Baurecht or similar) that gives the lessee rights equivalent to ownership may be treated as an acquisition for Lex Koller purposes. The <a href="https://www.bj.admin.ch/bj/en/home/wirtschaft/grundstueckerwerb.html" target="_blank" rel="nofollow noopener">Federal Office of Justice (BJ)</a> has published guidance on when leases trigger Lex Koller. Short-term residential leases (ordinary rental agreements) are not affected.
+No. Commercial and industrial property acquired for genuine business use is freely acquirable by foreign persons, regardless of nationality or residence status.
 
 **What happens if I marry a Swiss citizen — does Lex Koller still apply?**
 
-If you acquire Swiss citizenship through marriage (after meeting the naturalisation requirements), Lex Koller no longer applies to you. However, simply being married to a Swiss citizen without holding Swiss citizenship yourself does not exempt you. Your own nationality and residence permit status determine your Lex Koller position.
+If you acquire Swiss citizenship through [marriage and naturalisation](/immigration/swiss-citizenship-by-marriage/), Lex Koller no longer applies. But simply being married to a Swiss citizen without holding Swiss citizenship does not exempt you.
+
+**Does Lex Koller apply to long-term leases?**
+
+A long-term lease (Baurecht or similar) giving rights equivalent to ownership may be treated as an acquisition. The <a href="https://www.bj.admin.ch/bj/en/home/wirtschaft/grundstueckerwerb.html" target="_blank" rel="nofollow noopener">Federal Office of Justice (BJ)</a> publishes guidance. Ordinary rental agreements are not affected.
+
+**Are there cantons that are more lenient?**
+
+The BewG is federal law applied uniformly. The holiday apartment quota allocation varies by canton, but the overall national quota is tightly constrained.
 
 **Can I buy a plot of land to build on as a foreigner?**
 
-If the intended use is residential, Lex Koller applies in the same way as purchasing an existing residential property. If the land is for commercial or industrial purposes, Lex Koller does not apply. The intended use must be genuine and documented — purchasing "commercial" land and later converting it to residential use is subject to enforcement action.
-
-**Are there any cantons that are more lenient with Lex Koller authorisations?**
-
-The BewG is federal law applied uniformly across all cantons. However, the holiday apartment quota is allocated to cantons with designated tourist communes, and availability varies. Cantons with fewer tourist destinations may have unused holiday quota, making authorisation marginally more obtainable in less popular locations. The practical difference is small — the overall national quota is tightly constrained.
-
-**Does Lex Koller affect commercial real estate investment?**
-
-No. Lex Koller does not restrict the acquisition of commercial or industrial real estate by foreign persons, regardless of nationality or residence status. Foreign investors can freely purchase office buildings, retail premises, industrial facilities, and development sites intended for commercial use. This exemption makes Switzerland accessible for foreign commercial real estate investment.
-
-**What is the penalty for an unauthorised property purchase under Lex Koller?**
-
-The transaction is void under civil law — the land register entry is deleted, and the property must be divested. Criminal penalties apply for wilful violations, including fines and potentially imprisonment. The notary who authenticated the transaction may also face professional consequences. In practice, the land registry and notarial verification at the point of transfer make it difficult to complete an unauthorised acquisition without detection.
+If the intended use is residential, Lex Koller applies. If commercial or industrial, it does not. Purchasing "commercial" land and converting to residential use is subject to enforcement action.
 
 ---
 

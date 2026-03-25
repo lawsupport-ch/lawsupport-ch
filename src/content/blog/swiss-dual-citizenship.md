@@ -9,21 +9,23 @@ readTime: "9 min read"
 faqItems:
   - question: "Does Switzerland allow dual citizenship?"
     answer: "Yes. Since 1992, Switzerland has permitted dual and multiple citizenship. You do not need to renounce your existing nationality when naturalising Swiss."
-  - question: "Will Switzerland notify my home country when I naturalise?"
-    answer: "No. Swiss authorities do not inform foreign governments of Swiss naturalisations. Whether your home country finds out depends on that country's own rules and practices."
+  - question: "I'm German — will I lose my German citizenship if I naturalise Swiss?"
+    answer: "Germany has restrictions. Voluntary acquisition of Swiss citizenship without prior permission (Beibehaltungsgenehmigung) from the German authorities can result in automatic loss of German nationality. EU citizens have exceptions, but the rules are fact-specific. Obtain a ruling from the German authorities before applying for Swiss citizenship."
   - question: "Can I lose Swiss citizenship by acquiring another nationality?"
     answer: "No, not since 1992. Swiss nationals who acquire a foreign citizenship no longer automatically lose their Swiss passport."
 tocItems:
-  - id: "the-1992-change-switzerland-now-allows-dual-citizenship"
-    title: "The 1992 Change: Switzerland Now Allows Dual Citizenship"
+  - id: "the-1992-change-and-what-it-means-today"
+    title: "The 1992 Change and What It Means Today"
   - id: "what-this-means-for-naturalisation-applicants"
     title: "What This Means for Naturalisation Applicants"
-  - id: "exceptions-and-loss-of-swiss-citizenship"
-    title: "Exceptions and Loss of Swiss Citizenship"
-  - id: "dual-citizenship-and-practical-implications"
-    title: "Dual Citizenship and Practical Implications"
+  - id: "the-other-side-your-home-countrys-rules"
+    title: "The Other Side: Your Home Country's Rules"
   - id: "country-by-country-dual-citizenship-compatibility"
     title: "Country-by-Country Dual Citizenship Compatibility"
+  - id: "case-study-the-german-executive-who-almost-lost-both-passports"
+    title: "Case Study: The German Executive Who Almost Lost Both Passports"
+  - id: "practical-friction-points-for-dual-citizens"
+    title: "Practical Friction Points for Dual Citizens"
   - id: "children-of-dual-citizens"
     title: "Children of Dual Citizens"
   - id: "reclaiming-swiss-citizenship"
@@ -31,55 +33,37 @@ tocItems:
 ---
 
 
-Switzerland has permitted dual (and multiple) citizenship since 1992. If you naturalise as a Swiss citizen today, you are not required to renounce your existing nationality. Conversely, if you acquire a foreign citizenship while already Swiss, you do not automatically lose your Swiss nationality. This guide explains how Swiss dual citizenship works, the exceptions that still apply, and what it means in practice for naturalisation applicants and existing Swiss nationals.
+Switzerland has permitted dual (and multiple) citizenship since 1992. If you naturalise as a Swiss citizen today, Switzerland will not ask you to renounce your existing nationality. But Switzerland's position is only half the equation. Your home country may take a very different view — and if you do not check before applying, you risk losing one passport while gaining another.
+
+This guide explains how Swiss dual citizenship works, the exceptions that still apply, the countries that create problems, and a real case where getting the sequence wrong nearly cost someone both citizenships.
 
 ---
 
-## The 1992 Change: Switzerland Now Allows Dual Citizenship
+## The 1992 Change and What It Means Today
 
 Before 1992, Swiss law operated on the principle of single nationality. A Swiss national who voluntarily acquired a foreign citizenship generally lost their Swiss passport. A foreign national naturalising as Swiss had to renounce their existing nationality.
 
-This changed with the Federal Law amendment of 1 January 1992, reflected in the current <a href="https://www.fedlex.admin.ch/eli/cc/2016/404/en" target="_blank" rel="nofollow noopener">Federal Act on Swiss Citizenship (BüG)</a>. Since then:
+This changed with the amendment of 1 January 1992, reflected in the current <a href="https://www.fedlex.admin.ch/eli/cc/2016/404/en" target="_blank" rel="nofollow noopener">Federal Act on Swiss Citizenship (BüG)</a>. Since then:
 
 - Swiss nationals can acquire foreign citizenship without losing their Swiss passport
 - Foreign nationals naturalising as Swiss do not need to renounce their prior citizenship
 - Individuals can hold Swiss citizenship alongside any number of other nationalities
 
-Switzerland takes no position on whether other countries permit their citizens to hold dual nationality. That is a matter for each country's own laws.
-
 ---
 
 ## What This Means for Naturalisation Applicants
 
-If you are going through Swiss ordinary [naturalisation](/immigration/swiss-naturalization/) or [facilitated naturalisation](/immigration/swiss-citizenship-by-marriage/) (as the spouse of a Swiss citizen), you will not be asked to give up your existing passport. The Swiss authorities do not require proof of renunciation and do not inform your home country of your Swiss naturalisation.
-
-**Your home country's rules are your concern.** Some countries — including Germany (with exceptions), Japan, China, India, and Singapore — limit or prohibit dual citizenship under their own laws. If your home country requires renunciation upon acquiring Swiss citizenship, that obligation comes from your home country, not from Switzerland. Swiss law has nothing to say about it.
+If you are going through Swiss ordinary [naturalisation](/immigration/swiss-naturalization/) or [facilitated naturalisation](/immigration/swiss-citizenship-by-marriage/), you will not be asked to give up your existing passport. Swiss authorities do not require proof of renunciation and do not inform your home country of your Swiss naturalisation.
 
 ---
 
-## Exceptions and Loss of Swiss Citizenship
+## The Other Side: Your Home Country's Rules
 
-Swiss citizenship is not permanently guaranteed. There are still circumstances where it can be lost:
+Switzerland takes no position on whether other countries permit dual nationality. That is a matter for each country's own laws. And this is where the friction lies.
 
-**Voluntary renunciation:** A Swiss citizen can formally renounce Swiss citizenship at a Swiss consulate or cantonal authority. This is irrevocable once processed.
+Some countries — including Germany (with restrictions), Japan, China, India, and Singapore — limit or prohibit dual citizenship. If your home country requires renunciation upon acquiring Swiss citizenship, that obligation comes from your home country, not from Switzerland.
 
-**Citizenship by descent — extended absence:** Swiss citizenship acquired by descent (ius sanguinis) from a Swiss parent can be subject to lapse rules in limited historical cases. Citizens by descent who have never lived in Switzerland and whose Swiss connection is remote should check their specific situation. See our guide to [Swiss citizenship by descent](/immigration/swiss-citizenship-by-descent/) for the age-25 registration deadline and other critical rules.
-
-**Pre-1992 naturalisations:** Naturalisations that involved renunciation before 1992 are not retroactively reinstated — if you renounced Swiss citizenship before 1992 to take foreign citizenship, you cannot reclaim it on the basis that the rule has since changed. However, reintegration under Art. 51 BüG may be available.
-
-**Formal withdrawal for fraud:** Swiss citizenship acquired by fraud (misrepresentation in the naturalisation application) can be withdrawn within 8 years of discovery.
-
----
-
-## Dual Citizenship and Practical Implications
-
-**Which passport to use where:** Switzerland does not require Swiss nationals to use their Swiss passport to enter Switzerland — but in practice, Swiss nationals are expected to identify as Swiss when dealing with Swiss authorities. When travelling internationally, use whichever passport is more convenient for the destination.
-
-**Military service:** Switzerland has mandatory military service for Swiss male citizens. Some countries impose military service obligations regardless of other citizenships held. Most countries have bilateral arrangements or exemptions; check your home country's position.
-
-**Consular protection:** Switzerland can only provide consular protection in third countries — it cannot protect you in the country of your other nationality, as that country views you as its own national.
-
-**Tax:** Swiss citizenship does not itself create Swiss [tax residency](/tax-accounting/tax-residency-switzerland/). Tax residency is determined by where you live, not your passport. For business owners, this is a critical distinction: holding Swiss citizenship whilst residing in, say, Dubai does not trigger Swiss income tax. However, if your Swiss-registered company pays you a salary or dividends, withholding obligations arise regardless of your personal tax residence. If you hold Swiss citizenship but live abroad, you are not subject to Swiss income tax (unlike the US, which taxes citizens globally regardless of residence). Switzerland has over 100 <a href="https://www.estv.admin.ch" target="_blank" rel="nofollow noopener">double tax treaties</a> covering most major economies. In practice, dual citizens running a Swiss company from abroad face three recurring friction points: (1) determining where "effective management" sits for treaty purposes, (2) avoiding permanent establishment risk in the residence country, and (3) structuring director fees and dividends to minimise double taxation. These are solvable problems, but they require advance planning — not after-the-fact corrections. See our guide on [double tax treaties](/tax-accounting/double-tax-treaties-switzerland/) for more detail.
+**The critical point:** check your home country's rules before applying for Swiss citizenship. Discovering that you have automatically lost your original nationality after the fact is an irreversible problem.
 
 ---
 
@@ -90,7 +74,7 @@ Swiss citizenship is not permanently guaranteed. There are still circumstances w
 | United States | Yes | US taxes citizens globally regardless of residence |
 | United Kingdom | Yes | No restrictions |
 | France | Yes | No restrictions |
-| Germany | Restricted | Exceptions for EU citizens; voluntary acquisition of Swiss citizenship may require permission |
+| Germany | Restricted | Voluntary acquisition of Swiss citizenship may require prior Beibehaltungsgenehmigung |
 | Italy | Yes | No restrictions |
 | India | No | Must renounce Indian citizenship |
 | China | No | Must renounce Chinese citizenship |
@@ -102,19 +86,49 @@ Swiss citizenship is not permanently guaranteed. There are still circumstances w
 | UAE | No | Automatic loss of Emirati citizenship |
 | Singapore | No | Must renounce Singaporean citizenship |
 
-This table provides general guidance. Laws change, and individual circumstances vary. Verify the current position with a legal adviser specialising in your home country's nationality law before applying for Swiss citizenship.
+This table provides general guidance. Laws change. Verify the current position with a legal adviser before applying.
+
+---
+
+## Case Study: The German Executive Who Almost Lost Both Passports
+
+A German executive working in Zurich for nine years applied for Swiss ordinary naturalisation. He had a C permit, spoke fluent Swiss German, and his commune approved the application without difficulty.
+
+He did not check Germany's dual citizenship rules before applying. Germany restricts dual citizenship: a German citizen who voluntarily acquires a non-EU nationality may automatically lose German citizenship unless they obtain prior permission (a Beibehaltungsgenehmigung) from the German authorities.
+
+Switzerland and the EU have bilateral agreements, but Switzerland is not an EU member state. German law does not automatically treat Swiss nationality the same as EU nationality for dual citizenship purposes.
+
+**What happened:** His Swiss naturalisation was approved and registered. Three months later, he discovered that under German law, he may have automatically lost his German citizenship at the moment the Swiss naturalisation took effect. He had not applied for a Beibehaltungsgenehmigung.
+
+**The resolution:** He engaged German nationality counsel to argue for retention. The outcome was uncertain for months. He was eventually able to retain both citizenships, but the process cost over EUR 8'000 in legal fees and caused significant personal stress.
+
+**The lesson:** For German nationals, the Beibehaltungsgenehmigung must be obtained before the Swiss naturalisation is finalised. The sequence matters. Doing it the other way round creates a gap where German citizenship may be lost. This applies to citizens of any country with dual citizenship restrictions — not just Germany.
+
+---
+
+## Practical Friction Points for Dual Citizens
+
+**Which passport to use:** Switzerland does not formally require Swiss nationals to use their Swiss passport to enter, but you should identify as Swiss when dealing with Swiss authorities. When travelling internationally, use whichever passport is most convenient.
+
+**Military service:** Switzerland has mandatory military service for Swiss male citizens. Dual citizens living in Switzerland are subject to this obligation. Some countries impose their own military service obligations regardless of other citizenships held.
+
+**Consular protection:** Switzerland can only provide consular protection in third countries — it cannot protect you in the country of your other nationality, as that country views you as its own national.
+
+**Tax:** Swiss citizenship does not itself create Swiss [tax residency](/tax-accounting/tax-residency-switzerland/). Tax residency is determined by where you live. If you hold Swiss citizenship but live abroad, you are not subject to Swiss income tax (unlike the US, which taxes citizens globally). Switzerland has over 100 <a href="https://www.estv.admin.ch" target="_blank" rel="nofollow noopener">double tax treaties</a>. In practice, dual citizens running a Swiss company from abroad face three recurring issues: (1) determining where "effective management" sits for treaty purposes, (2) avoiding permanent establishment risk in the residence country, and (3) structuring director fees and dividends to minimise double taxation. See our guide on [double tax treaties](/tax-accounting/double-tax-treaties-switzerland/).
+
+**Banking:** Swiss banks scrutinise the nationality and tax residence of ultimate beneficial owners (UBOs). US persons face near-automatic rejection from most Swiss banks due to FATCA reporting obligations — a constraint driven by banking policy, not corporate law.
 
 ---
 
 ## Children of Dual Citizens
 
-A child born to a Swiss parent acquires [Swiss citizenship](/immigration/swiss-citizenship/) automatically at birth, regardless of where the child is born or what citizenship the other parent holds. Swiss citizenship acquired by descent must be registered at the Swiss consulate for children born abroad. Failure to register does not erase the citizenship but can create administrative complications later. For births abroad after 1 June 1985, the age-25 registration deadline under Art. 7a BüG applies — see [Swiss citizenship by descent](/immigration/swiss-citizenship-by-descent/).
+A child born to a Swiss parent acquires [Swiss citizenship](/immigration/swiss-citizenship/) automatically at birth, regardless of where the child is born or what citizenship the other parent holds. Swiss citizenship acquired by descent must be registered at the Swiss consulate for children born abroad. For births abroad after 1 June 1985, the age-25 registration deadline under Art. 7a BüG applies — see [Swiss citizenship by descent](/immigration/swiss-citizenship-by-descent/).
 
 ---
 
 ## Reclaiming Swiss Citizenship
 
-If you or an ancestor previously held Swiss citizenship that was lost, reinstatement is possible in certain cases through the State Secretariat for Migration (SEM). Reinstatement (Wiedereinbürgerung) under Art. 51 BüG is distinct from ordinary naturalisation — it recognises a prior connection rather than granting new citizenship. The process is substantially faster and simpler than ordinary naturalisation for qualifying applicants.
+If you or an ancestor previously held Swiss citizenship that was lost, reinstatement (Wiedereinbürgerung) under Art. 51 BüG may be available. This is a substantially simpler and faster procedure than ordinary naturalisation for qualifying applicants.
 
 ---
 
@@ -122,43 +136,39 @@ If you or an ancestor previously held Swiss citizenship that was lost, reinstate
 
 **Does Switzerland notify my home country when I naturalise Swiss?**
 
-No. Swiss authorities do not inform foreign governments of Swiss naturalisations. Whether your home country finds out — and what the consequences are under their law — depends entirely on your home country's rules and practices.
+No. Swiss authorities do not inform foreign governments. Whether your home country discovers your Swiss naturalisation depends entirely on that country's own rules and practices.
+
+**I'm German — will I lose my German citizenship if I naturalise Swiss?**
+
+Potentially. Germany restricts dual citizenship for non-EU nationalities. You must apply for a Beibehaltungsgenehmigung from the German authorities before your Swiss naturalisation is finalised. Getting the sequence wrong can result in automatic loss of German citizenship.
 
 **Can I use my foreign passport to live in Switzerland if I am also Swiss?**
 
-Once you are a Swiss citizen, Swiss law considers you Swiss when in Switzerland. Your foreign passport does not give you any different rights inside Switzerland. Use your Swiss documents for Swiss administrative purposes (registration, driving licence, etc.).
-
-**I naturalised Swiss before 1992 — did I automatically lose my prior citizenship?**
-
-Under the old Swiss law, naturalising Swiss often required renunciation of prior citizenship. Whether your prior citizenship was actually extinguished depends on your prior nationality's laws at the time. Some countries did not require formal renunciation and may still consider you their citizen. Check with your country of origin.
+Once you are Swiss, Swiss law considers you Swiss inside Switzerland. Your foreign passport does not give you different rights. Use Swiss documents for Swiss administrative purposes.
 
 **Can a Swiss company owner hold dual citizenship?**
 
-Yes. Dual citizenship has no bearing on your ability to own and operate a Swiss company. Swiss corporate law does not distinguish between shareholders or directors based on nationality. In practice, the more relevant question is banking: Swiss banks scrutinise the nationality and tax residence of ultimate beneficial owners (UBOs) during account opening. US persons, for instance, face near-automatic rejection from most Swiss banks due to FATCA reporting obligations — a constraint driven by banking policy, not corporate law. You can [form a company](/company-formation/company-formation-switzerland/) regardless of how many citizenships you hold.
+Yes. Dual citizenship has no bearing on your ability to own and operate a Swiss company. You can [form a company](/company-formation/company-formation-switzerland/) regardless of how many citizenships you hold.
 
 **Does dual citizenship affect Swiss military service obligations?**
 
-Switzerland has mandatory military service for Swiss male citizens. Dual citizens who live in Switzerland are subject to this obligation. Some countries impose their own military service obligations. Most countries have bilateral arrangements or exemptions; check your home country's position.
+Dual citizens living in Switzerland are subject to Swiss military service obligations. Dual citizens living abroad are generally exempt. Check your home country's position on military service.
 
 **Can I lose my Swiss citizenship if I acquire another nationality?**
 
-No, not since 1992. Swiss nationals who acquire a foreign citizenship no longer automatically lose their Swiss passport. Before 1992, voluntary acquisition of a foreign nationality could result in loss of Swiss citizenship. The 1992 amendment applies going forward and is not retroactive.
+No, not since 1992. The 1992 amendment applies going forward and is not retroactive.
 
 **Which countries do not allow dual citizenship with Switzerland?**
 
-India, China, Japan, Singapore, and many Gulf states (Saudi Arabia, UAE, Kuwait) do not permit their nationals to hold dual citizenship. Germany has restrictions with exceptions for EU citizens. If your home country prohibits dual nationality, acquiring Swiss citizenship will result in loss of your original nationality under your home country's laws — not under Swiss law.
-
-**Can my children hold dual citizenship if I am Swiss and my spouse is foreign?**
-
-A child born to a Swiss parent acquires Swiss citizenship automatically at birth. If the other parent is a foreign national, the child may also acquire that parent's nationality depending on that country's laws. Switzerland places no restriction on the child holding both citizenships.
+India, China, Japan, Singapore, and many Gulf states do not permit dual citizenship. Germany has restrictions with exceptions. If your home country prohibits dual nationality, acquiring Swiss citizenship results in loss of your original nationality under your home country's laws.
 
 **Do Swiss dual citizens pay tax in both countries?**
 
-Swiss citizenship does not itself create Swiss tax residency. Tax residency is determined by where you live. If you hold Swiss citizenship but live abroad, you are not subject to Swiss income tax. However, the US taxes citizens globally, so US-Swiss dual citizens have obligations in both countries. Switzerland has extensive [double tax treaties](/tax-accounting/double-tax-treaties-switzerland/) to mitigate this.
+Swiss citizenship does not create Swiss tax residency. If you live abroad, you are not subject to Swiss income tax. The US is the exception — it taxes citizens globally. Switzerland has extensive [double tax treaties](/tax-accounting/double-tax-treaties-switzerland/) to mitigate double taxation.
 
 **Can I reclaim Swiss citizenship I lost before 1992?**
 
-If you lost Swiss citizenship before 1992 through voluntary acquisition of a foreign nationality, you may be eligible for reintegration under Art. 51 BüG. This is a simplified process available to former Swiss citizens. It does not retroactively restore the citizenship but creates it anew through a facilitated procedure. Contact the SEM or a specialist adviser to assess eligibility.
+You may be eligible for reintegration under Art. 51 BüG. This is a facilitated procedure, substantially faster than ordinary naturalisation.
 
 <!-- VIDEO: Overview of Swiss dual citizenship rules and what they mean for naturalisation applicants -->
 

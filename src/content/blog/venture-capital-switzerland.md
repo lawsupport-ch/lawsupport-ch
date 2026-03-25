@@ -7,25 +7,29 @@ category: "Corporate Transactions"
 categoryHref: "/corporate-transactions/"
 readTime: "13 min read"
 faqItems:
-  - question: "What is the difference between a SAFE note and a Swiss convertible loan?"
-    answer: "A SAFE has no debt characteristics — no interest, no maturity date. Under Swiss law, this creates uncertainty because it does not clearly fit the debt or equity categories recognised by the Code of Obligations. Swiss convertible loans (Wandeldarlehen) are genuine loans with interest and maturity that convert on defined triggers."
-  - question: "Which canton is best for a Swiss VC-backed startup?"
-    answer: "Zug is the market-standard answer for most startup types, particularly those with international investors or IP-heavy models. Effective cantonal tax rates around 11.9%, an established ecosystem of legal, tax, and banking service providers, and the Crypto Valley brand make it the default."
-  - question: "Why is the AG preferred over the GmbH for VC-backed startups?"
-    answer: "The AG allows multiple share classes with differentiated economic and governance rights, essential for VC liquidation preferences and anti-dilution provisions. It supports clean ESOP structures, does not publicly disclose its shareholder list, and is well recognised by international investors."
+  - question: "Why do Swiss VCs insist on the AG over the GmbH?"
+    answer: "The AG allows multiple share classes with differentiated economic and governance rights — essential for liquidation preferences and anti-dilution provisions. It does not publicly disclose shareholders (unlike the GmbH), supports clean ESOP structures, and is recognised by international investors."
+  - question: "Can I use a US SAFE note for a Swiss startup?"
+    answer: "Not without adaptation. A SAFE has no debt characteristics — no interest, no maturity. Under Swiss law, it does not fit the debt or equity categories of the Code of Obligations. Swiss convertible loans (Wandeldarlehen) are the market-standard instrument. Importing SAFE notes without Swiss law review creates problems at Series A due diligence."
+  - question: "Which canton is best for a VC-backed startup?"
+    answer: "Zug is the default for most startup types: effective tax rate ~11.9%, established ecosystem, and the Crypto Valley brand. Zurich makes sense if the operational team is there, as substance requirements mean the company should be managed from its domicile."
   - question: "How are employee stock options taxed in Switzerland?"
-    answer: "Employee stock options are taxed as employment income at the point of exercise, not at grant. Restricted Share Plans are taxed at grant on the discount value. Virtual Stock Option Plans pay cash equivalents on exit. A cantonal tax ruling should be obtained before launching any ESOP structure."
-  - question: "What liquidation preference is market standard in Swiss VC rounds?"
-    answer: "A 1x non-participating liquidation preference is the market standard. A 1x participating or 2x preference signals strong investor position and is less common. For anti-dilution, broad-based weighted average is standard; full ratchet is aggressive and rarely seen."
+    answer: "Options are taxed as employment income at exercise, not grant. Restricted Share Plans are taxed at grant on the discount value. Virtual Stock Option Plans pay cash equivalents on exit. Obtain a cantonal tax ruling before launching any ESOP structure."
+  - question: "What liquidation preference is market standard?"
+    answer: "1x non-participating is market standard. 1x participating or 2x signals strong investor leverage and is less common. For anti-dilution, broad-based weighted average is standard; full ratchet is aggressive and rarely seen."
 tocItems:
-  - id: "switzerlands-startup-hubs-where-the-activity-is"
-    title: "Switzerland's Startup Hubs: Where the Activity Is"
+  - id: "switzerlands-startup-hubs"
+    title: "Switzerland's Startup Hubs"
   - id: "leading-vc-firms-active-in-switzerland"
     title: "Leading VC Firms Active in Switzerland"
-  - id: "startup-financing-stages-in-switzerland"
-    title: "Startup Financing Stages in Switzerland"
+  - id: "startup-financing-stages"
+    title: "Startup Financing Stages"
+  - id: "case-study-the-safe-note-that-broke-at-series-a"
+    title: "Case Study: The SAFE Note That Broke at Series A"
   - id: "swiss-corporate-structure-for-vc-backed-companies"
     title: "Swiss Corporate Structure for VC-Backed Companies"
+  - id: "five-structural-traps-that-cost-founders-at-exit"
+    title: "Five Structural Traps That Cost Founders at Exit"
   - id: "esop-and-vesting-swiss-tax-complexity"
     title: "ESOP and Vesting: Swiss Tax Complexity"
   - id: "legal-documents-in-a-swiss-vc-round"
@@ -35,180 +39,171 @@ tocItems:
 ---
 
 
-Switzerland punches well above its weight in European venture capital. Zurich consistently ranks among Europe's top 10 startup cities, and Swiss VC investment totalled approximately CHF 3-4 billion in 2023, according to <a href="https://www.seca.ch" target="_blank" rel="nofollow noopener">SECA</a> (Swiss Private Equity & Corporate Finance Association) data. The activity centres on fintech, biotech, deeptech, and blockchain. For founders and investors operating in the Swiss venture capital market, understanding the legal and structural framework determines how capital is deployed, how exits are structured, and how much tax founders ultimately pay. This guide covers the key VC firms, financing stages, the AG structure required for institutional rounds, and ESOP taxation rules.
+Swiss VC investment totalled approximately CHF 3–4 billion in 2023, according to <a href="https://www.seca.ch" target="_blank" rel="nofollow noopener">SECA</a>. The activity centres on fintech, biotech, deeptech, and blockchain. But here is what founders discover too late: the choice of entity (AG vs GmbH), the instrument used for early-stage financing (Swiss convertible loan vs imported SAFE note), and the ESOP tax treatment can each determine whether founders capture value at exit or give it away. This guide covers the structural decisions that matter.
 
 ---
 
-## Switzerland's Startup Hubs: Where the Activity Is
+## Switzerland's Startup Hubs
 
-Switzerland's VC ecosystem is geographically concentrated, with each hub carrying a distinct sectoral identity.
+**Zurich** — fintech, biotech, deeptech. ETH Zurich has generated 500+ spinoffs since 1990. The dominant hub.
 
-**Zurich** is the dominant hub — home to fintech (Neon, Yapeal, Numbrs), biotech, and deeptech companies. Proximity to ETH Zurich and the University of Zurich creates a consistent pipeline of deep science spinouts. ETH Zurich alone has generated over 500 spinoff companies since 1990, many of which have attracted institutional VC.
+**Zug / Crypto Valley** — lowest [corporate tax rates](/tax-accounting/corporate-tax-switzerland/) (~11.9%), blockchain and DeFi infrastructure. The Crypto Valley Association counts 1'000+ member organisations. Default domicile for crypto-native companies.
 
-**Zug / Crypto Valley** is Switzerland's most internationally recognised startup brand. The canton's low [corporate tax rates](/tax-accounting/corporate-tax-switzerland/) (effective rate around 11.9% at the cantonal and municipal level), pragmatic financial regulator (FINMA), and concentration of blockchain and DeFi infrastructure firms make it the default domicile for crypto-native companies seeking European legitimacy. The Crypto Valley Association counts more than 1,000 member organisations.
+**Geneva** — international and impact investing. UN proximity, family office capital, healthcare investment.
 
-**Geneva** serves the international and impact investing segment — UN proximity, multi-lateral institutions, and a deep pool of family office capital make it the natural home for healthcare investment, impact funds, and cross-border M&A vehicles.
-
-**Basel** remains the centre of gravity for pharma and life sciences VC, anchored by Novartis, Roche, and a dense network of biotech spinouts and clinical-stage companies.
+**Basel** — pharma and life sciences. Novartis, Roche, and a dense biotech network.
 
 ---
 
 ## Leading VC Firms Active in Switzerland
 
-The Swiss institutional VC market is smaller than Germany or the UK but increasingly sophisticated. Key players:
+- **Lakestar** — Pan-European growth VC; backed Spotify, Revolut, Zalando
+- **b2venture** (formerly Ruetter & Partner) — One of Switzerland's most active early-stage funds
+- **Verve Ventures** — Deep tech and life sciences; co-investment platform
+- **VI Partners** — ETH-connected; deep tech and medtech
+- **ZKB Venture** — State bank VC arm; Swiss-domestic rounds
+- **SIX Fintech Ventures** — Corporate VC of Swiss stock exchange; fintech
+- **Swiss Founders Fund** — Operator-backed; founder-friendly terms
 
-- **Lakestar** — Pan-European growth VC with Swiss roots; backed Spotify, Revolut, Zalando
-- **b2venture** (formerly Ruetter & Partner) — St. Gallen-based; one of Switzerland's most active early-stage funds
-- **Verve Ventures** — Zurich-based; focus on deep tech and life sciences; operates a co-investment platform for angels
-- **VI Partners** — ETH-connected; deep tech and medtech focus; strong ties to academic spinouts
-- **Zuercher Kantonalbank (ZKB Venture)** — State bank with a structured VC arm; important for Swiss-domestic rounds
-- **SIX Fintech Ventures** — Corporate VC arm of the Swiss stock exchange group; fintech and financial infrastructure
-- **Seedamm Capital** — Seed and Series A; broad sector mandate
-- **Swiss Founders Fund** — Operator-backed fund; founder-friendly terms
-
-International VCs are increasingly active in Swiss rounds at Series B and beyond. **Sequoia Europe**, **Balderton Capital**, and **Index Ventures** (Geneva-founded, now London/San Francisco) have all led or co-led Swiss company rounds in the past three years.
+International VCs increasingly active at Series B+: **Sequoia Europe**, **Balderton Capital**, **Index Ventures** (Geneva-founded).
 
 ---
 
-## Startup Financing Stages in Switzerland
+## Startup Financing Stages
 
-The Swiss financing ladder broadly mirrors Silicon Valley convention but with instrument and structural differences at each stage.
-
-| Stage | Typical Amount (CHF) | Primary Instruments | Typical Investors |
+| Stage | Amount (CHF) | Instruments | Typical Investors |
 |---|---|---|---|
-| Pre-seed | 100,000 - 500,000 | Convertible loan, grants (Innosuisse), bootstrapping | Angels, accelerators, founders |
-| Seed | 500,000 - 1,000,000 | Convertible loan (Wandeldarlehen), seed equity round | Angels, Venture Kick, seed funds |
-| Series A | 3,000,000 - 10,000,000 | Priced equity round, preferred shares (SHA + SPA) | Swiss institutional VCs, international seed+ funds |
-| Series B | 10,000,000 - 30,000,000 | Priced equity round, full VC documentation | International VCs leading, Swiss VCs co-investing |
-| Series C+ | 30,000,000 - 100,000,000+ | Structured preferred, secondary components | International growth equity, crossover funds |
+| Pre-seed | 100'000–500'000 | Convertible loan, Innosuisse grants | Angels, accelerators |
+| Seed | 500'000–1'000'000 | Convertible loan (Wandeldarlehen), seed equity | Angels, Venture Kick, seed funds |
+| Series A | 3'000'000–10'000'000 | Priced equity, preferred shares | Swiss institutional VCs |
+| Series B | 10'000'000–30'000'000 | Priced equity, full VC documentation | International VCs leading |
+| Series C+ | 30'000'000–100'000'000+ | Structured preferred, secondary | Growth equity, crossover funds |
 
-### Pre-Seed and Seed: Non-Dilutive and Convertible Instruments
+**<a href="https://www.innosuisse.ch" target="_blank" rel="nofollow noopener">Innosuisse</a> grants:** Up to CHF 250'000, non-dilutive. Requires a Swiss university or research partner. The most capital-efficient funding route for deeptech founders.
 
-Before a priced round, Swiss founders typically use two instruments:
+**Venture Kick:** Up to CHF 150'000 in three stages for Swiss university spinouts.
 
-**Innosuisse grants**: The Swiss Innovation Agency funds research-industry collaboration projects up to CHF 250,000 on a non-dilutive basis, drawing from the federal budget. Qualifying projects require a research partner (typically a Swiss university or institute) and a commercial applicant. Innosuisse funding does not create equity dilution and is one of the most capital-efficient funding routes available to Swiss deeptech founders.
+**Convertible loans (Wandeldarlehen):** The Swiss market-standard bridge instrument. Structured as a genuine loan (interest, maturity, repayment) that converts on trigger events. SAFE notes in Y Combinator form are not directly compatible with Swiss corporate law.
 
-**Venture Kick**: A public-private initiative providing up to CHF 150,000 in three stages to Swiss university spinouts. Highly competitive but prestigious — alumni include successful Swiss tech exits.
+---
 
-**Convertible loans (Wandeldarlehen)**: The Swiss market-standard bridge instrument. Unlike a US SAFE note, a Swiss convertible loan is structured as a genuine loan (with interest, maturity, and repayment provisions) that converts to equity on defined trigger events. SAFE notes in their standard Y Combinator form are not directly compatible with Swiss corporate law — they require adaptation to work within the Swiss Code of Obligations framework. Founders importing US-style documents without Swiss law review regularly create problems at Series A due diligence.
+## Case Study: The SAFE Note That Broke at Series A
 
-### SAFT Structuring for Crypto Rounds
+A Zurich-based AI startup raised CHF 400'000 from four angel investors using Y Combinator SAFE notes — downloaded directly from the YC website and signed without Swiss law review.
 
-Token-based startups in Zug and Zurich frequently use **SAFTs (Simple Agreements for Future Tokens)** as pre-sale instruments. Under Swiss law, SAFTs sit in a grey zone similar to SAFEs — they are neither clearly debt nor equity, and FINMA's token classification (payment, utility, or asset token) determines whether the SAFT itself triggers securities law obligations. A SAFT that promises future asset tokens may constitute a public offering requiring a prospectus. Companies structuring SAFT rounds should obtain a FINMA no-action letter or formal classification before distribution.
+At Series A, the lead VC's counsel flagged the SAFEs. The problems:
 
-### US Investor Complications: SEC and Reg S
+**1. No debt, no equity — what is it?** Under Swiss law, the SAFE had no interest, no maturity date, and no repayment obligation. It did not fit the Code of Obligations categories for either debt (loan) or equity (share subscription). The legal nature of the instrument was ambiguous.
 
-Swiss crypto startups actively court US investors, but the presence of a US person in the cap table creates regulatory friction that founders routinely underestimate. One Zug-based blockchain company sought investment from a US lead investor. The structuring conversation quickly revealed the problem: US securities law (Regulation S, Regulation D, and SEC registration requirements) applies to any offering that targets US persons, regardless of where the issuing company is domiciled. The founder was advised directly: "Reg S / SEC / IRS aspects must be handled with U.S. counsel" — Swiss lawyers cannot opine on US securities law, and getting this wrong exposes the company to SEC enforcement action. The practical outcome: US lead investors in Swiss crypto rounds require parallel US legal counsel, which adds CHF 30,000-80,000 in legal costs to the round and two to four months in timeline. Founders who discover this after signing a term sheet with a US lead investor face an uncomfortable choice between delay and risk.
+**2. No clear conversion mechanics.** The SAFE referenced "Company Equity" and "Safe Price" using US-specific definitions that did not map to Swiss AG share classes, article amendments, or Commercial Register filings.
 
-<!-- VIDEO: Structuring a convertible loan (Wandeldarlehen) for Swiss startups — key terms and common pitfalls -->
+**3. Stamp duty exposure.** The conversion from SAFE to equity triggered Swiss stamp duty (Emissionsabgabe) questions that had not been addressed. The founders had not budgeted for this.
+
+**The cost:** Three months of delay, CHF 45'000 in additional legal fees to restructure the SAFEs into Swiss-compatible convertible loans, and a reduced Series A valuation because the cap table was messy.
+
+**The lesson:** Swiss convertible loans exist for a reason. They work within the Swiss legal framework. Importing US instruments without adaptation creates problems that surface at exactly the wrong time — when a lead investor's counsel is conducting due diligence.
 
 ---
 
 ## Swiss Corporate Structure for VC-Backed Companies
 
-### AG over GmbH: Why It Matters
+### AG over GmbH: The Non-Negotiable Choice
 
-The Swiss Aktiengesellschaft (AG) is the vehicle of choice for any startup planning to raise institutional venture capital in Switzerland. The structural advantages are concrete:
+The Swiss AG (Aktiengesellschaft) is the only viable vehicle for institutional VC:
 
-- **Multiple share classes**: An AG can issue ordinary shares and preferred shares with differentiated economic and governance rights — essential for VC liquidation preferences and anti-dilution provisions
-- **ESOP compatibility**: Option pools and restricted share plans work cleanly under AG mechanics; [GmbH](/company-formation/gmbh-formation-switzerland/) option plans require workarounds that create legal uncertainty
-- **No public shareholder register**: Unlike the GmbH (which files shareholder identity with the Commercial Register), an AG does not publicly disclose its shareholder list — relevant for founders and early investors who prefer confidentiality
-- **International recognition**: International investors, particularly US and UK funds, are familiar with the AG structure; GmbH is less understood and occasionally triggers LP-level concerns in international fund documents
+- **Multiple share classes** with differentiated economic and governance rights
+- **No public shareholder register** (unlike the GmbH, where shareholders appear in the Commercial Register)
+- **Clean ESOP/VSOP** structures without workarounds
+- **International recognition** — US and UK funds know the AG; GmbH raises questions
 
-See our guide to [AG formation in Switzerland](/company-formation/ag-formation-switzerland/) for incorporation mechanics and timelines.
+See [AG formation in Switzerland](/company-formation/ag-formation-switzerland/).
 
-### Zug Domicile: The Practical Case
+### Zug Domicile: The Tax Argument
 
-A Zug-domiciled AG combined with a Swiss [corporate bank account](/banking/corporate-bank-account-switzerland/) (PostFinance, UBS, or a neo-bank such as Neon Business or Yapeal Business) is the standard configuration for European and crypto startups seeking international investors. Zug's cantonal tax rate (approximately 11.85% effective corporate income tax, versus approximately 20% in Zurich), administrative efficiency, and the density of VC and legal service providers in the canton make it functionally superior to Zurich for [holding structures](/company-formation/holding-company-switzerland/) and IP-heavy companies. On CHF 1 million in taxable profit, the Zug-versus-Zurich difference is roughly CHF 79,000 per year — material for a startup that has just raised a Series A and is watching burn rate carefully.
+Zug AG + Swiss [corporate bank account](/banking/corporate-bank-account-switzerland/) is the standard configuration. On CHF 1 million in taxable profit, the Zug-versus-Zurich difference is roughly **CHF 79'000 per year**. For a startup watching burn rate after Series A, that matters.
 
-For a full walkthrough of incorporating an entity from scratch, see [company formation in Switzerland](/company-formation/company-formation-switzerland/).
+---
+
+## Five Structural Traps That Cost Founders at Exit
+
+**1. Using SAFE notes without Swiss adaptation.** As described above — creates ambiguity, delays Series A, and costs money to fix.
+
+**2. Choosing GmbH over AG.** The GmbH works for small businesses. It does not work for VC rounds. Conversion from GmbH to AG mid-round is possible but adds CHF 5'000–15'000 in legal and notarial costs, delays the round, and sends a negative signal to investors.
+
+**3. ESOP without tax ruling.** Employee stock options are taxed at exercise as employment income. Without a cantonal tax ruling, the tax treatment is uncertain — and employees may face unexpected liabilities. The ruling costs a fraction of the exposure it prevents.
+
+**4. Liquidation preference that erases founder value.** A 1x non-participating preference is market standard. Accepting 1x participating or 2x preferences without modelling the exit scenarios can mean founders receive nothing on a moderate exit. Model the waterfall before signing.
+
+**5. US investor without US counsel.** US securities law (Reg S, Reg D, SEC registration) applies to any offering that targets US persons, regardless of where the issuer is domiciled. Swiss lawyers cannot opine on US securities law. Adding a US lead investor without parallel US counsel (CHF 30'000–80'000 and 2–4 months) is a compliance risk.
 
 ---
 
 ## ESOP and Vesting: Swiss Tax Complexity
 
-Swiss ESOP and vesting schemes are an area where founders consistently underestimate legal and tax complexity. The headline rule: **employee stock options are taxed as employment income at the point of exercise**, not at grant. This creates a cash-flow problem for employees exercising options in a private company — they owe income tax on a paper gain with no liquid market to fund the liability.
+**Employee stock options** are taxed as employment income at exercise, not at grant. This creates a cash-flow problem: employees owe tax on a paper gain with no liquid market.
 
-Swiss practice has developed two primary responses:
+Two Swiss responses:
 
-1. **Restricted Share Plans (RSP)**: Shares are granted directly at a discount, with a vesting schedule and repurchase right held by the company. Tax arises at grant on the discount value, but at lower rates than on later appreciation. Better for early-stage when share values are low.
+**1. Restricted Share Plans (RSP):** Shares granted at a discount with vesting schedule and company repurchase right. Tax at grant on discount value — better for early-stage when values are low.
 
-2. **Option Plans (ESOP/VSOP)**: More common at later stages. Tax is deferred to exercise. VSOP (Virtual Stock Option Plans) are phantom equity instruments that avoid share issuance entirely and pay out a cash equivalent on exit — useful for companies that want to incentivise employees without share register complexity.
+**2. Virtual Stock Option Plans (VSOP):** Phantom equity paying cash equivalent on exit. No share issuance, no register complexity. Common for companies wanting incentive without cap table complications.
 
-In all cases: obtain a **cantonal tax ruling on your ESOP structure before you launch it**. The ruling locks in the tax treatment agreed with the cantonal authority, preventing retrospective reclassification. Companies operating under [Swiss tax incentive programmes](/tax-accounting/swiss-tax-incentives/) should coordinate ESOP structuring with their broader tax planning. This is standard practice among Swiss VC-backed companies and costs a fraction of the tax exposure it eliminates.
+**In all cases:** obtain a cantonal tax ruling before launch. Standard practice among Swiss VC-backed companies.
 
 ---
 
 ## Legal Documents in a Swiss VC Round
 
-A complete Swiss VC equity round involves four core documents executed in sequence:
+Four core documents:
 
-1. **Term Sheet**: Non-binding outline of economics (valuation, preference stack, anti-dilution mechanism) and governance (board composition, information rights, reserved matters). Binding only on exclusivity and confidentiality clauses.
+1. **Term Sheet** — Non-binding economics and governance outline. Binding only on exclusivity and confidentiality.
+2. **Shareholders' Agreement (SHA)** — Governance: liquidation preference, anti-dilution, drag/tag, reserved matters.
+3. **Share Purchase Agreement (SPA)** — Share transfer, reps and warranties, conditions precedent.
+4. **Amended Articles of Association** — Filed at the [Commercial Register](/company-formation/commercial-register-switzerland/) to create the new preferred share class.
 
-2. **Shareholders' Agreement (SHA)**: The operative governance document. Key provisions: liquidation preference (1x non-participating is market; 1x participating or 2x signals investor leverage), anti-dilution (broad-based weighted average is market standard; full ratchet is aggressive and uncommon in Swiss rounds), drag-along and tag-along rights, information and inspection rights, reserved matters list.
+Founders should not sign term sheets without legal review. The economics agreed there — particularly liquidation preference and anti-dilution formula — determine founder outcomes at exit far more than headline valuation.
 
-3. **Share Purchase Agreement (SPA)**: Records the actual share transfer, representations and warranties from the company and founders, and conditions precedent to closing. In Swiss law, transfer of AG shares requires a written assignment agreement; the SPA serves this function.
-
-4. **Amended Articles of Association**: The articles must be amended at the [Commercial Register](/company-formation/commercial-register-switzerland/) to create the new preferred share class with the rights agreed in the SHA. This is a public document and must be consistent with the SHA; any conflict between the two is resolved in favour of the articles for third-party purposes.
-
-Founders should not sign a term sheet without legal review. The economics agreed at term sheet stage — particularly the liquidation preference structure and anti-dilution formula — determine founder outcomes at exit far more than the headline valuation.
+<!-- VIDEO: Structuring a convertible loan (Wandeldarlehen) for Swiss startups — key terms and common pitfalls -->
 
 ---
 
 ## Frequently Asked Questions
 
-**What is the difference between a SAFE note and a Swiss convertible loan?**
+**Why do Swiss VCs insist on the AG?**
+Multiple share classes, no public shareholder register, clean ESOP structures, international recognition.
 
-A SAFE (Simple Agreement for Future Equity) is a US instrument with no debt characteristics — no interest, no maturity date. Under Swiss law, this structure creates uncertainty because it does not clearly fit the debt or equity categories recognised by the Swiss Code of Obligations. Swiss convertible loans (Wandeldarlehen) are genuine loans with interest and maturity that convert on defined triggers. They are legally enforceable and well-understood by Swiss courts. Founders importing SAFE notes from US accelerators should have them reviewed and adapted before use.
+**Can I use a US SAFE note?**
+Not without Swiss law adaptation. SAFEs do not fit Swiss Code of Obligations categories. Use Swiss convertible loans (Wandeldarlehen).
 
-**Which canton is best for a Swiss VC-backed startup?**
+**Which canton is best for a VC-backed startup?**
+Zug for most startup types. Zurich if the operational team is based there.
 
-Zug is the market-standard answer for most startup types, particularly those with international investors or IP-heavy models. Effective cantonal tax rates around 11.9%, an established ecosystem of legal, tax, and banking service providers, and the Crypto Valley brand make it the default. Zurich makes sense if the operational team and key hires are based there, as substance requirements for tax purposes mean the company should be managed from its registered domicile.
+**How are employee options taxed?**
+At exercise as employment income. RSPs are taxed at grant. VSOPs pay cash on exit.
 
-**Do Swiss VCs require a Swiss entity, or can a foreign holdco work?**
+**What liquidation preference is standard?**
+1x non-participating. 1x participating or 2x is aggressive and less common.
 
-Swiss VCs are comfortable investing into foreign holdcos (particularly Delaware C-Corps or UK Ltd structures) for Swiss-founded companies targeting the US market. However, for companies targeting European customers and investors, a Swiss AG is typically cleaner. Some Swiss institutional investors have mandate restrictions that prevent investment into non-Swiss entities. International VCs operating in Switzerland generally have no such restriction.
+**Do Swiss VCs require a Swiss entity?**
+Swiss VCs are comfortable with foreign holdcos (especially Delaware C-Corps) for US-targeting companies. For European markets, a Swiss AG is typically cleaner.
 
-**Why is the AG preferred over the GmbH for VC-backed startups in Switzerland?**
+**What is Innosuisse?**
+Swiss Innovation Agency providing non-dilutive grants up to CHF 250'000 for research-industry collaborations.
 
-The AG allows multiple share classes with differentiated economic and governance rights, essential for VC liquidation preferences and anti-dilution provisions. It supports clean ESOP structures, does not publicly disclose its shareholder list (unlike the GmbH), and is well recognised by international investors. GmbH option plans require workarounds that create legal uncertainty at scale.
-
-**How are employee stock options taxed in Switzerland?**
-
-Employee stock options are taxed as employment income at the point of exercise, not at grant. This creates a cash-flow burden for employees exercising options in a private company. Restricted Share Plans (RSP) are taxed at grant on the discount value. Virtual Stock Option Plans (VSOP) pay cash equivalents on exit. A cantonal tax ruling should be obtained before launching any ESOP structure.
-
-**What are the typical funding stages for Swiss startups?**
-
-Pre-seed rounds range from CHF 100,000 to CHF 500,000, typically funded through convertible loans and Innosuisse grants. Seed rounds are CHF 500,000 to CHF 1 million. Series A is CHF 3-10 million with priced equity rounds. Series B is CHF 10-30 million with international VCs leading. Series C and beyond can exceed CHF 100 million.
-
-**What is Innosuisse and how does it fund startups?**
-
-<a href="https://www.innosuisse.ch" target="_blank" rel="nofollow noopener">Innosuisse</a> is the Swiss Innovation Agency, providing non-dilutive grants up to CHF 250,000 for research-industry collaboration projects funded from the federal budget. Projects require a Swiss university or research institute as partner and a commercial applicant. The funding creates no equity dilution.
-
-**What documents are needed for a Swiss VC equity round?**
-
-A complete round involves four core documents: a non-binding term sheet, a Shareholders' Agreement (SHA) covering governance and economic preferences, a Share Purchase Agreement (SPA) recording the share transfer and warranties, and amended Articles of Association filed at the Commercial Register to create the new preferred share class.
-
-**What liquidation preference is market standard in Swiss VC rounds?**
-
-A 1x non-participating liquidation preference is the market standard. A 1x participating or 2x preference signals strong investor leverage and is less common. For anti-dilution, broad-based weighted average is standard; full ratchet is aggressive and rarely seen in Swiss rounds.
-
-**Can a Swiss startup use Venture Kick funding?**
-
-Venture Kick provides up to CHF 150,000 in three competitive stages to Swiss university spinouts. It is open to founding teams connected to Swiss universities and research institutions. The programme is highly selective but carries significant prestige and access to follow-on investor networks.
+**What are the typical funding stages?**
+Pre-seed CHF 100'000–500'000, seed CHF 500'000–1 million, Series A CHF 3–10 million, Series B CHF 10–30 million, Series C+ CHF 30–100 million+.
 
 ---
 
 ## Structure Your Swiss VC Round Correctly
 
-Venture capital in Switzerland rewards founders who get the legal and structural fundamentals right from the outset. The choice of entity (AG over GmbH), the domicile (Zug for tax efficiency and ecosystem density), and the instrument (Swiss convertible loan over imported SAFE notes) each affect founder outcomes at every subsequent funding stage and at exit.
+The choice of entity (AG), domicile (Zug), and instrument (Swiss convertible loan) each affect founder outcomes at every subsequent stage and at exit.
 
-**Request a Free Assessment** — contact Morgan Hartley at Lawsupport to discuss your startup structuring, VC round documentation, or ESOP design.
+**Request a Free Assessment** — contact Morgan Hartley to discuss startup structuring, VC round documentation, or ESOP design.
 
 **Lawsupport (Morgan Hartley Consulting)**
 Grafenauweg 4, 6300 Zug, Switzerland
 Phone: [+41 44 51 52 592](tel:+41445152592)
 Email: [info@lawsupport.ch](mailto:info@lawsupport.ch)
-Web: [lawsupport.ch](https://lawsupport.ch)
 
 [Request a Free Assessment](/contacts/)

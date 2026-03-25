@@ -7,39 +7,37 @@ category: "Immigration"
 categoryHref: "/immigration/"
 readTime: "15 min read"
 faqItems:
-  - question: "I was born in Australia to a Swiss father. Am I Swiss?"
-    answer: "Possibly. If your father was Swiss at the time of your birth, and you were born in wedlock (or paternity was legally established if outside wedlock), you may have inherited Swiss citizenship. The key question is whether you were registered at the Swiss consulate before your 25th birthday, and whether your father himself held Swiss citizenship at the time (i.e., that his citizenship had not lapsed under prior generation rules). A case-specific assessment is required."
-  - question: "My Swiss grandparent never became a citizen of another country. Does that affect my claim?"
-    answer: "Your grandparent's retention of Swiss citizenship matters to the extent that it determines whether your parent inherited Swiss citizenship — and whether your parent then transmitted it to you. Your grandparent's decision not to naturalise elsewhere is relevant background, but the analysis still turns on whether each transmission step in the chain was completed within the applicable rules."
+  - question: "My father was Swiss but never registered me at the consulate. Is my claim dead?"
+    answer: "Not necessarily. If your father was Swiss at the time of your birth and you were born in wedlock (or paternity was legally established), you may have inherited Swiss citizenship by operation of law. The critical question is the Art. 7a BüG deadline: if you were born abroad on or after 1 June 1985 and did not register before age 25, the citizenship has likely lapsed. But 'likely' is not 'certainly' — exceptional circumstances arguments have succeeded in some consular decisions. The earlier you act after discovering the issue, the stronger your position."
+  - question: "My grandparent was Swiss. Can I skip a generation and claim citizenship directly?"
+    answer: "No. Swiss citizenship transmits one generation at a time. Your grandparent must have transmitted citizenship to your parent, and your parent must have transmitted it to you. If any link in that chain is broken — for example, your parent was born abroad after 1 June 1985 and never registered before age 25 — the chain is severed. Each step requires its own analysis."
   - question: "Can I apply for a Swiss passport if I am not registered but believe I am Swiss?"
     answer: "Not directly. Before a Swiss passport is issued, Swiss citizenship must be formally established in the civil registry. The registration process — including verification with the Heimatgemeinde and/or consulate — must be completed first. Once citizenship is confirmed and documented, a passport application follows through normal consular channels."
   - question: "My mother was Swiss but lost her citizenship when she married my father in 1975. What are my options?"
     answer: "If your mother lost her Swiss citizenship through marriage before the rules changed in the early 1990s, she may be eligible for reintegration under Art. 51 BüG. Her own citizenship status at the time of your birth determines whether you could have inherited citizenship. If she had already lost Swiss citizenship before you were born, there was no citizenship to transmit. If reintegration is available to her, you would then need to assess whether your claim to citizenship can be asserted through her reinstated status. This is a fact-sensitive situation requiring legal advice."
-  - question: "Is there a fee for registering Swiss citizenship acquired through descent?"
-    answer: "Consular registration fees apply and vary by consulate — typically in the range of CHF 100 to 300 for birth registration, plus additional cantonal and communal fees depending on the civil registry involved. The costs are generally modest compared to naturalisation fees (which can reach CHF 1'500 to 4'000 at the cantonal and communal level for ordinary naturalisation). Processing times at consulates vary substantially: consulates in countries with large Swiss diaspora populations (Australia, Canada, the United States, Argentina, Brazil) tend to have established workflows, while consulates in countries with smaller Swiss communities may take longer."
+  - question: "What documents do I need, and how much does registration cost?"
+    answer: "You need the Swiss parent's citizenship documents (passport, Heimatschein, or naturalisation certificate), your birth certificate, and where relevant, a marriage certificate and proof of paternity. Consular registration fees are typically CHF 100 to 300 for birth registration, plus cantonal and communal fees. Processing times vary: consulates in countries with large Swiss diaspora populations (Australia, Canada, the United States, Argentina, Brazil) have established workflows, while others may take longer."
 tocItems:
   - id: "the-governing-principle-ius-sanguinis-not-ius-soli"
     title: "The Governing Principle: Ius Sanguinis, Not Ius Soli"
   - id: "who-inherits-swiss-citizenship-at-birth"
     title: "Who Inherits Swiss Citizenship at Birth"
-  - id: "children-born-abroad-the-registration-requirement"
-    title: "Children Born Abroad: The Registration Requirement"
-  - id: "the-1985-2006-rules-the-first-generation-born-abroad-cutoff"
-    title: "The 1985 / 2006 Rules: The \"First Generation Born Abroad\" Cutoff"
-  - id: "swiss-citizenship-through-grandparents-what-you-need-to-know"
-    title: "Swiss Citizenship Through Grandparents: What You Need to Know"
+  - id: "the-25th-birthday-deadline-that-kills-most-claims"
+    title: "The 25th Birthday Deadline That Kills Most Claims"
+  - id: "swiss-citizenship-through-grandparents-why-it-rarely-works"
+    title: "Swiss Citizenship Through Grandparents: Why It Rarely Works"
   - id: "citizenship-transmission-rules-at-a-glance"
     title: "Citizenship Transmission Rules at a Glance"
-  - id: "who-may-already-be-swiss-without-knowing-it"
-    title: "Who May Already Be Swiss Without Knowing It"
-  - id: "how-to-verify-whether-you-hold-swiss-citizenship"
-    title: "How to Verify Whether You Hold Swiss Citizenship"
-  - id: "the-female-line-facilitated-registration-under-article-58-bü"
+  - id: "case-study-the-australian-who-discovered-he-was-swiss-at-38"
+    title: "Case Study: The Australian Who Discovered He Was Swiss at 38"
+  - id: "five-traps-that-destroy-citizenship-by-descent-claims"
+    title: "Five Traps That Destroy Citizenship by Descent Claims"
+  - id: "the-female-line-facilitated-registration-under-article-58-büg"
     title: "The Female Line: Facilitated Registration Under Article 58 BüG"
   - id: "reintegration-wiedereinbürgerung-under-article-51-büg"
     title: "Reintegration (Wiedereinbürgerung) Under Article 51 BüG"
-  - id: "real-world-scenario-born-in-canada-in-1985-to-a-swiss-mother"
-    title: "Real-World Scenario: Born in Canada in 1985 to a Swiss Mother"
+  - id: "how-to-verify-whether-you-hold-swiss-citizenship"
+    title: "How to Verify Whether You Hold Swiss Citizenship"
   - id: "how-lawsupport-helps"
     title: "How Lawsupport Helps"
   - id: "take-the-next-step"
@@ -49,7 +47,7 @@ tocItems:
 
 Switzerland does not grant citizenship based on where you were born. It grants citizenship based on who your parents are. If one of your parents is Swiss, there is a real possibility that you are Swiss too — even if you have never lived in Switzerland, do not speak a Swiss national language, and your family left decades ago.
 
-Many people reading this page are in exactly that situation. They discovered a Swiss parent or grandparent in their family history and began asking questions. This article gives you the legal framework, the critical deadlines, and a clear explanation of what steps are required to verify and assert your Swiss citizenship by descent.
+But here is the part that most online guides leave out: there is a hard deadline that has already extinguished thousands of valid claims, and most people only discover it after it has passed. If you were born abroad to a Swiss parent on or after 1 June 1985 and did not register your citizenship before your 25th birthday, you have very likely lost it.
 
 If you believe you may have a claim, contact [Lawsupport](/contacts/) before doing anything else. The rules are generation-specific and fact-sensitive. Acting on incorrect assumptions — or missing a deadline — can permanently extinguish a valid claim.
 
@@ -57,14 +55,12 @@ If you believe you may have a claim, contact [Lawsupport](/contacts/) before doi
 
 ## The Governing Principle: Ius Sanguinis, Not Ius Soli
 
-Switzerland applies the principle of **ius sanguinis** — citizenship by blood. This is the foundational rule under the <a href="https://www.fedlex.admin.ch/eli/cc/2016/404/en" target="_blank" rel="nofollow noopener">Federal Act on Swiss Citizenship (Bürgerrechtsgesetz, BüG)</a>, and it has been the governing principle since the modern citizenship framework was established.
+Switzerland applies the principle of **ius sanguinis** — citizenship by blood. This is the foundational rule under the <a href="https://www.fedlex.admin.ch/eli/cc/2016/404/en" target="_blank" rel="nofollow noopener">Federal Act on Swiss Citizenship (Bürgerrechtsgesetz, BüG)</a>.
 
 What this means in practice:
 
 - A child born in Zurich to two foreign parents does **not** acquire Swiss citizenship at birth.
 - A child born in Toronto to a Swiss parent **may** acquire Swiss citizenship at birth, subject to the rules described below.
-
-Switzerland does not apply ius soli (citizenship by birth on Swiss territory) in any general sense. Place of birth is legally irrelevant to the question of citizenship by descent.
 
 This is a point of genuine confusion for people from countries — such as the United States, Canada, and Brazil — where birthplace confers citizenship automatically. The Swiss system works differently. Ancestry matters. Paperwork matters. And deadlines matter.
 
@@ -72,59 +68,45 @@ This is a point of genuine confusion for people from countries — such as the U
 
 ## Who Inherits Swiss Citizenship at Birth
 
-The rules for automatic transmission of Swiss citizenship at birth depend on three variables: the citizenship of the transmitting parent, the marital status of the parents, and the date of birth.
+The rules for automatic transmission depend on three variables: the citizenship of the transmitting parent, the marital status of the parents, and the date of birth.
 
 ### Children Born to a Swiss Father (Married)
 
-A child born in wedlock to a Swiss father has inherited Swiss citizenship automatically since the Swiss Civil Code came into force. The 1978 reform of the citizenship law confirmed and clarified this. For children born to a Swiss father in a recognised marriage, citizenship passes automatically regardless of where the child was born.
+A child born in wedlock to a Swiss father has inherited Swiss citizenship automatically since the Swiss Civil Code came into force. Citizenship passes automatically regardless of where the child was born.
 
 ### Children Born to a Swiss Mother (Married)
 
-Since 1 July 1978, Swiss citizenship passes through the **mother's** line on exactly the same terms as the father's line. A child born in wedlock to a Swiss mother after that date inherits Swiss citizenship automatically.
-
-This was not always the case. Before 1 July 1978, Swiss citizenship transmitted to legitimate children primarily through the father. A child born before that date to a Swiss mother and a foreign father did **not** automatically acquire Swiss citizenship under the rules then in force. There is now a specific legal route — discussed below — for these individuals.
+Since 1 July 1978, Swiss citizenship passes through the **mother's** line on exactly the same terms as the father's line. Before that date, a child born to a Swiss mother and a foreign father did **not** automatically acquire Swiss citizenship. There is now a specific legal route — discussed below — for these individuals.
 
 ### Children Born Out of Wedlock to a Swiss Mother
 
-A child born out of wedlock to a Swiss mother inherits Swiss citizenship automatically. The mother's citizenship is transmitted regardless of the father's nationality and regardless of whether the father is identified or involved.
+A child born out of wedlock to a Swiss mother inherits Swiss citizenship automatically, regardless of the father's nationality.
 
 ### Children Born Out of Wedlock to a Swiss Father
 
-A child born out of wedlock to a Swiss father can inherit Swiss citizenship, but automatic transmission requires that paternity is legally established — either by voluntary recognition (Anerkennung) by the father, or by a court judgment establishing paternity. Once paternity is legally established, the child's Swiss citizenship is treated as having existed from birth.
+Automatic transmission requires that paternity is legally established — either by voluntary recognition (Anerkennung) or by a court judgment. Once paternity is legally established, the child's Swiss citizenship is treated as having existed from birth.
 
 ---
 
-## Children Born Abroad: The Registration Requirement
+## The 25th Birthday Deadline That Kills Most Claims
 
-Swiss citizenship is transmitted to children born abroad to a Swiss parent. But transmission abroad triggers a **registration obligation** that does not exist for births in Switzerland.
+This is the single most important rule for people researching claims through a Swiss parent who was born or lived abroad — and the one that destroys the most claims.
 
-Parents are required to register the birth of a child born abroad at a Swiss consulate or with the Swiss civil registry. This is done by notifying the relevant authority and submitting documentary evidence of the Swiss parent's citizenship and the child's birth.
+Under Article 7a of the BüG:
 
-Failure to register at birth does not automatically extinguish the citizenship. The claim exists by operation of law if the conditions for transmission are met. But the citizenship must be asserted and documented, and — critically — there are **age-based deadlines** that can cause the claim to lapse.
+**For children of Swiss nationals born abroad on or after 1 June 1985:** Swiss citizenship passes to the first generation born abroad. However, if the child born abroad does not register their Swiss citizenship before their **25th birthday**, the citizenship lapses.
 
----
+This cutoff is unforgiving. A person born abroad in 1990 to a Swiss parent, never registered at the consulate, and who took no steps before turning 25 in 2015 has likely lost the claim.
 
-## The 1985 / 2006 Rules: The "First Generation Born Abroad" Cutoff
+The implications extend to subsequent generations. If your Swiss parent was themselves born abroad and failed to register, the second generation cannot inherit what the first generation no longer held.
 
-This is the single most important rule for people researching claims through a Swiss parent who was born or lived abroad.
-
-Under Article 7a of the BüG (introduced in the context of reforms that took effect progressively from 1985 and clarified under the 2006 revision), the following rule applies:
-
-**For children of Swiss nationals born abroad on or after 1 June 1985:**
-
-Swiss citizenship passes to the first generation born abroad. However, if the child born abroad does not register their Swiss citizenship before their **25th birthday**, the citizenship lapses.
-
-This cutoff is unforgiving. A person who was born abroad in 1985 to a Swiss parent, was never registered at the consulate, and took no steps to assert their citizenship before turning 25 in 2010 has likely lost the claim — unless specific exceptions apply.
-
-The implications extend to subsequent generations. If a person's Swiss parent was themselves born abroad and failed to register or lost their citizenship through this rule, the second generation cannot inherit what the first generation no longer held.
-
-This is why the question "does my Swiss grandparent give me [Swiss citizenship](/immigration/swiss-citizenship/)?" almost never has a simple answer.
+**An entire generation is affected.** People born abroad to Swiss parents in the 1980s and 1990s are now in their late 30s or early 40s. Many have already passed the window without knowing it existed. Their parents emigrated, never mentioned Swiss citizenship, and the consulate never came looking for them.
 
 ---
 
-## Swiss Citizenship Through Grandparents: What You Need to Know
+## Swiss Citizenship Through Grandparents: Why It Rarely Works
 
-Swiss citizenship does not skip generations automatically. It transmits one generation at a time, and each transmission depends on whether the rules were satisfied at each step.
+Swiss citizenship does not skip generations. It transmits one generation at a time, and each transmission depends on whether the rules were satisfied at each step.
 
 If your Swiss grandparent had a child (your parent) who was born abroad, the critical questions are:
 
@@ -133,9 +115,7 @@ If your Swiss grandparent had a child (your parent) who was born abroad, the cri
 
 If your parent's Swiss citizenship lapsed — because they were born abroad after 1 June 1985 and failed to register before age 25 — then there is generally no citizenship to pass to you. The chain is broken.
 
-If your parent did retain Swiss citizenship, then you may have inherited it at birth, subject again to the registration and age-deadline rules.
-
-The word "generally" is doing real work in the paragraph above. There are factual permutations — birth dates, registration events, legal recognitions — where the analysis differs. Do not assume your claim is extinguished without getting a proper assessment.
+The word "generally" is doing real work here. There are factual permutations — birth dates, registration events, legal recognitions — where the analysis differs. Do not assume your claim is extinguished without getting a proper assessment.
 
 ---
 
@@ -153,16 +133,53 @@ The word "generally" is doing real work in the paragraph above. There are factua
 
 ---
 
-## Who May Already Be Swiss Without Knowing It
+## Case Study: The Australian Who Discovered He Was Swiss at 38
 
-Based on the rules above, the following categories of people have the highest likelihood of holding unrecognised Swiss citizenship:
+Daniel, born in Melbourne in 1987, always knew his father was originally from the canton of Bern. His father emigrated to Australia in 1982, married an Australian woman, and never mentioned Swiss citizenship. Daniel grew up speaking English, held only an Australian passport, and never set foot in Switzerland.
 
-- **People born abroad to a Swiss mother before 1992** who were never registered at a consulate, particularly where the mother's Swiss citizenship was overlooked because of outdated assumptions about maternal transmission.
-- **People whose Swiss father emigrated** to another country decades ago and did not inform Swiss authorities of the birth of children.
-- **People with a Swiss parent born abroad** who themselves registered before age 25, and who transmitted Swiss citizenship to children — but whose children were never formally registered.
-- **Adults under 25** born abroad to a Swiss parent who has not yet completed the registration. There is still time to act.
+In 2025, at age 38, Daniel found his father's old Swiss passport while clearing out a storage unit. He contacted the Swiss consulate in Sydney, expecting a straightforward registration.
 
-If any of these descriptions match your situation, a formal citizenship verification is the correct first step.
+**The problem:** Daniel was born after 1 June 1985. Under Art. 7a BüG, he needed to have registered his Swiss citizenship before his 25th birthday — October 2012. He had not. His citizenship had lapsed 13 years earlier.
+
+**What happened next:** Daniel's father was still alive and confirmed that he himself had been born in Switzerland and emigrated. The father's own Swiss citizenship was intact. But that did not help Daniel — the Art. 7a deadline applied to Daniel's generation, not his father's.
+
+Daniel's lawyer made an exceptional circumstances argument to the consulate: Daniel had no awareness of his potential Swiss citizenship, his father had never informed him, and no Swiss authority had ever contacted Daniel. The argument was not guaranteed to succeed — exceptional circumstances claims are assessed case by case, and many are rejected.
+
+**The lesson:** The 25-year deadline is not a technicality. It is the operative rule that has already extinguished thousands of valid claims. If you have any suspicion that a parent may be Swiss, investigate immediately. Do not wait.
+
+---
+
+## Five Traps That Destroy Citizenship by Descent Claims
+
+**1. The 25th birthday deadline (Art. 7a BüG).** Born abroad after 1 June 1985 to a Swiss parent? If you did not register before age 25, the citizenship has almost certainly lapsed. This is the single biggest killer of legitimate claims.
+
+**2. Assuming the grandmother route works.** Citizenship does not skip generations. If your parent's citizenship lapsed, your grandparent's citizenship cannot save you. Each generation must satisfy the rules independently.
+
+**3. Pre-1978 maternal transmission gap.** Before 1 July 1978, Swiss citizenship transmitted through the father's line only. A child born before that date to a Swiss mother and a foreign father did not automatically inherit citizenship. The facilitated registration route under Art. 58 BüG exists, but it is not automatic.
+
+**4. Loss through marriage (pre-1992).** Swiss women who married foreign nationals before the early 1990s automatically lost their Swiss citizenship. If your mother lost citizenship before you were born, there was no citizenship to transmit. Reintegration under Art. 51 BüG may be available to her — but that is a separate process.
+
+**5. Incomplete Heimatgemeinde records.** Smaller communes have been merged, records have been moved to archives, and some early twentieth-century registrations are incomplete. If your Swiss ancestor's commune has been absorbed into another municipality — common in cantons such as Glarus and Ticino — you may need to identify the successor commune before any records search can begin. This can add months to the process.
+
+---
+
+## The Female Line: Facilitated Registration Under Article 58 BüG
+
+A specific legal mechanism exists for people who were born before 1 July 1978 to a Swiss mother and a foreign father — and who therefore did not automatically inherit Swiss citizenship under the law as it stood at the time.
+
+Article 58 BüG provides a facilitated registration procedure. It is not full [naturalisation](/immigration/swiss-naturalization/); it is a simplified route that acknowledges the historical injustice of the male-line-only transmission rule.
+
+Eligibility conditions apply, including requirements around ties to Switzerland, good character, and integration. If you fall into this category — born before 1978 to a Swiss mother — this is a viable route worth assessing with a specialist.
+
+---
+
+## Reintegration (Wiedereinbürgerung) Under Article 51 BüG
+
+Some people previously held Swiss citizenship and lost it. The most common historical example is Swiss women who automatically lost their citizenship upon marrying a foreign national — a rule that applied until the early 1990s.
+
+These individuals — and in some cases their descendants — may be eligible for **reintegration** under Article 51 BüG. Reintegration is substantially simpler and faster than ordinary naturalisation. The practical process typically takes six to eighteen months.
+
+If this applies to your situation, or to a parent's situation, reintegration should be considered before pursuing any naturalisation route. For more on general [Swiss citizenship](/immigration/swiss-citizenship/) and [Swiss citizenship by marriage](/immigration/swiss-citizenship-by-marriage/), see the relevant pages on this site.
 
 ---
 
@@ -172,57 +189,17 @@ Verification is done through official Swiss channels. The two primary routes are
 
 **1. The Swiss civil registry (Zivilstandsamt) of the ancestral commune (Heimatgemeinde)**
 
-Every Swiss citizen is registered in a Heimatgemeinde — a home commune to which their citizenship is linked. If you know which commune your Swiss parent or ancestor is from, you can contact that commune's civil registry directly. They can confirm whether the person is registered as a citizen and whether descendants were registered.
+Every Swiss citizen is registered in a Heimatgemeinde. If you know which commune your Swiss parent or ancestor is from, you can contact that commune's civil registry directly. They can confirm whether the person is registered as a citizen and whether descendants were registered.
 
 **2. The Swiss consulate or embassy in your country of residence**
 
-Swiss consulates maintain records of Swiss nationals registered abroad and can help initiate the verification process. They are also the authority through whom registrations of births abroad are submitted.
+Swiss consulates maintain records of Swiss nationals registered abroad and can help initiate the verification process.
 
 The process involves submitting documentary evidence: the Swiss parent's citizenship documents (Swiss passport, Heimatschein, or naturalisation certificate), the child's birth certificate, and where relevant, a marriage certificate and proof of paternity.
 
-In practice, the Heimatgemeinde search can be slow. Smaller communes may take weeks to respond to written enquiries. Records from the early twentieth century are sometimes incomplete or stored in archives that require physical visits. If your Swiss ancestor's commune has been merged into another municipality — which has happened repeatedly in cantons such as Glarus and Ticino — you may need to identify the successor commune before any records search can begin. Consulates can assist with this, but the process is not instantaneous.
+In practice, the Heimatgemeinde search can be slow. Smaller communes may take weeks to respond. Records from the early twentieth century are sometimes incomplete or stored in archives that require physical visits.
 
 <!-- VIDEO: Step-by-step guide to verifying Swiss citizenship by descent through consular and civil registry channels -->
-
----
-
-## The Female Line: Facilitated Registration Under Article 58 BüG
-
-A specific legal mechanism exists for people who were born before 1 July 1978 to a Swiss mother and a foreign father — and who therefore did not automatically inherit Swiss citizenship under the law as it stood at the time.
-
-Article 58 BüG provides a facilitated registration procedure for these individuals. It is not full [naturalisation](/immigration/swiss-naturalization/); it is a simplified route that acknowledges the historical injustice of the male-line-only transmission rule.
-
-Eligibility conditions apply, including requirements around ties to Switzerland, good character, and integration. If you fall into this category — born before 1978 to a Swiss mother — this is a viable route worth assessing with a specialist.
-
----
-
-## Reintegration (Wiedereinbürgerung) Under Article 51 BüG
-
-Some people previously held Swiss citizenship and lost it. The most common historical example is Swiss women who automatically lost their citizenship upon marrying a foreign national — a rule that applied until the early 1990s under the old citizenship regime.
-
-These individuals — and in some cases their descendants — may be eligible for **reintegration** (Wiedereinbürgerung) under Article 51 BüG. Reintegration is a substantially simpler and faster procedure than ordinary naturalisation. It is available to former Swiss citizens and, under certain conditions, their children. The practical process typically takes six to eighteen months from application submission, depending on the complexity of the citizenship history and the responsiveness of the relevant cantonal and communal authorities.
-
-If this applies to your situation, or to a parent's situation, reintegration should be considered before pursuing any naturalisation route. For more on general [Swiss citizenship](/immigration/swiss-citizenship/) and [Swiss citizenship by marriage](/immigration/swiss-citizenship-by-marriage/), see the relevant pages on this site.
-
----
-
-## Real-World Scenario: Born in Canada in 1985 to a Swiss Mother
-
-Maria was born in Vancouver, Canada, in October 1985. Her mother, Susanne, was a Swiss national from the canton of Bern who had emigrated to Canada in 1980. Susanne married a Canadian citizen in 1983. Maria has Canadian citizenship and has always identified as Canadian, but recently discovered her mother's Swiss origin and is asking whether she has a Swiss citizenship claim.
-
-Here is the analysis:
-
-**Step 1 — Was transmission possible?** Susanne is a Swiss national. Maria was born after 1 July 1978, so the female line reform applies. A child born to a Swiss mother in a valid marriage after 1 July 1978 inherits Swiss citizenship automatically. Transmission to Maria was possible in principle.
-
-**Step 2 — Was Maria born abroad?** Yes. Maria was born in Canada. This triggers the registration requirement and — because Maria was born after 1 June 1985 — the Art. 7a cutoff rule applies.
-
-**Step 3 — Was Maria registered?** If Susanne registered Maria's birth at the Swiss consulate in Vancouver before Maria's 25th birthday (i.e., before October 2010), and submitted the relevant documentation, Maria is a Swiss citizen. If registration was not done before that deadline, Maria's citizenship has likely lapsed.
-
-**Step 4 — What if registration was missed?** If the deadline passed without registration, Maria no longer has an automatic citizenship claim by descent. There may be other routes — including assessing whether Susanne herself can confirm her citizenship status and whether any partial registration occurred — but these require a case-specific review.
-
-**What if the deadline has passed?** There is no automatic right to restoration. However, the situation is not necessarily terminal. Some applicants have successfully argued exceptional circumstances — lack of awareness, the parent's failure to inform them of their Swiss citizenship, or administrative errors in earlier registration attempts. These arguments are made on a case-by-case basis through the relevant consulate, and they do not always succeed. The earlier you act after discovering the issue, the stronger the position.
-
-**The lesson:** The 25-year deadline is not a technicality. It is the operative rule for an entire generation of people born abroad to Swiss parents in the 1980s and 1990s. Many of them are now in their late 30s or early 40s and have already passed the window without knowing it existed.
 
 ---
 
@@ -238,19 +215,17 @@ At Lawsupport, we:
 - Manage the documentation and submission process for birth registrations, facilitated registrations under Art. 58 BüG, and reintegration applications under Art. 51 BüG
 - Advise on downstream steps once citizenship is confirmed, including obtaining a [Swiss passport](/immigration/swiss-passport/) and planning for [residence in Switzerland](/immigration/work-permit-switzerland/)
 
-We work with Swiss and international clients who have Swiss ancestry, and we handle the entire process in coordination with the relevant Swiss authorities.
-
 ---
 
 ## Frequently Asked Questions
 
-**I was born in Australia to a Swiss father. Am I Swiss?**
+**My father was Swiss but never registered me at the consulate. Is my claim dead?**
 
-Possibly. If your father was Swiss at the time of your birth, and you were born in wedlock (or paternity was legally established if outside wedlock), you may have inherited Swiss citizenship. The key question is whether you were registered at the Swiss consulate before your 25th birthday, and whether your father himself held Swiss citizenship at the time (i.e., that his citizenship had not lapsed under prior generation rules). A case-specific assessment is required.
+Not necessarily. If your father was Swiss at the time of your birth and you were born in wedlock (or paternity was legally established), you may have inherited Swiss citizenship by operation of law. The critical question is the Art. 7a BüG deadline: if you were born abroad on or after 1 June 1985 and did not register before age 25, the citizenship has likely lapsed. But "likely" is not "certainly" — exceptional circumstances arguments have succeeded in some consular decisions. The earlier you act after discovering the issue, the stronger your position.
 
-**My Swiss grandparent never became a citizen of another country. Does that affect my claim?**
+**My grandparent was Swiss. Can I skip a generation and claim citizenship directly?**
 
-Your grandparent's retention of Swiss citizenship matters to the extent that it determines whether your parent inherited Swiss citizenship — and whether your parent then transmitted it to you. Your grandparent's decision not to naturalise elsewhere is relevant background, but the analysis still turns on whether each transmission step in the chain was completed within the applicable rules.
+No. Swiss citizenship transmits one generation at a time. Your grandparent must have transmitted citizenship to your parent, and your parent must have transmitted it to you. If any link in that chain is broken — for example, your parent was born abroad after 1 June 1985 and never registered before age 25 — the chain is severed. Each step requires its own analysis.
 
 **Can I apply for a Swiss passport if I am not registered but believe I am Swiss?**
 
@@ -258,31 +233,23 @@ Not directly. Before a Swiss passport is issued, Swiss citizenship must be forma
 
 **My mother was Swiss but lost her citizenship when she married my father in 1975. What are my options?**
 
-If your mother lost her Swiss citizenship through marriage before the rules changed in the early 1990s, she may be eligible for reintegration under Art. 51 BüG. Her own citizenship status at the time of your birth determines whether you could have inherited citizenship. If she had already lost Swiss citizenship before you were born, there was no citizenship to transmit. If reintegration is available to her, you would then need to assess whether your claim to citizenship can be asserted through her reinstated status. This is a fact-sensitive situation requiring legal advice.
+If your mother lost her Swiss citizenship through marriage before the rules changed in the early 1990s, she may be eligible for reintegration under Art. 51 BüG. Her own citizenship status at the time of your birth determines whether you could have inherited citizenship. If she had already lost Swiss citizenship before you were born, there was no citizenship to transmit. If reintegration is available to her, you would then need to assess whether your claim to citizenship can be asserted through her reinstated status.
 
-**Is there a fee for registering Swiss citizenship acquired through descent?**
+**What documents do I need, and how much does registration cost?**
 
-Consular registration fees apply and vary by consulate — typically in the range of CHF 100 to 300 for birth registration, plus additional cantonal and communal fees depending on the civil registry involved. The costs are generally modest compared to naturalisation fees (which can reach CHF 1'500 to 4'000 at the cantonal and communal level for ordinary naturalisation). Processing times at consulates vary substantially: consulates in countries with large Swiss diaspora populations (Australia, Canada, the United States, Argentina, Brazil) tend to have established workflows, while consulates in countries with smaller Swiss communities may take longer.
+You need the Swiss parent's citizenship documents (passport, Heimatschein, or naturalisation certificate), your birth certificate, and where relevant, a marriage certificate and proof of paternity. Consular registration fees are typically CHF 100 to 300, plus cantonal and communal fees. These costs are modest compared to naturalisation fees (CHF 1'500 to 4'000 for ordinary naturalisation).
 
 **What is the deadline for registering Swiss citizenship by descent?**
 
-For children of Swiss nationals born abroad on or after 1 June 1985, the citizenship lapses if not registered before the person's 25th birthday under Art. 7a BüG. This cutoff is strict and applies regardless of whether the person was aware of their potential Swiss citizenship. For people born before 1 June 1985, different rules apply and the analysis is more fact-specific.
-
-**Can I claim Swiss citizenship through my Swiss grandmother?**
-
-Swiss citizenship does not skip generations automatically. It transmits one generation at a time. If your grandmother was Swiss, the critical question is whether she transmitted citizenship to your parent (which depends on dates and marital status), and whether your parent then transmitted it to you. Each step must satisfy the rules applicable at the time, including registration deadlines under Art. 7a BüG.
+For children of Swiss nationals born abroad on or after 1 June 1985, the citizenship lapses if not registered before the person's 25th birthday under Art. 7a BüG. This cutoff is strict and applies regardless of whether the person was aware of their potential Swiss citizenship. For people born before 1 June 1985, different rules apply.
 
 **Does Swiss citizenship by descent require living in Switzerland?**
 
-No. Citizenship by descent has no residence requirement. A person born abroad to a Swiss parent may hold Swiss citizenship without ever having lived in Switzerland, provided the registration requirements were met. Once citizenship is confirmed, the person can apply for a [Swiss passport](/immigration/swiss-passport/) from any Swiss consulate worldwide.
-
-**What documents do I need to prove Swiss citizenship by descent?**
-
-You need the Swiss parent's citizenship documents (passport, Heimatschein, or naturalisation certificate), your birth certificate, and where relevant, a marriage certificate and proof of paternity. The Swiss consulate or Heimatgemeinde civil registry uses these to verify your claim and register your citizenship.
+No. Citizenship by descent has no residence requirement. A person born abroad to a Swiss parent may hold Swiss citizenship without ever having lived in Switzerland, provided the registration requirements were met.
 
 **Can adopted children inherit Swiss citizenship?**
 
-A child adopted by a Swiss citizen acquires Swiss citizenship through adoption if the adoption is recognised under Swiss law. The acquisition is automatic for adoptions completed in Switzerland. For international adoptions, recognition under Swiss private international law is required before citizenship transmission applies.
+A child adopted by a Swiss citizen acquires Swiss citizenship through adoption if the adoption is recognised under Swiss law. For international adoptions, recognition under Swiss private international law is required before citizenship transmission applies.
 
 ---
 
