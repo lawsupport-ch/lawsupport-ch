@@ -90,7 +90,7 @@ The DLT Act introduced three critical legal innovations:
 
 ### FINMA's Regulatory Philosophy
 
-FINMA, the Swiss Financial Market Supervisory Authority, has taken a principles-based approach to crypto regulation since 2018. Rather than creating entirely new rules for every new token structure, FINMA applies existing financial regulation by analogy based on the economic function of the token. The 2018 FINMA ICO Guidelines established this framework. They remain current and are applied consistently today.
+FINMA, the Swiss Financial Market Supervisory Authority, has taken a principles-based approach to crypto regulation since 2018. Rather than creating entirely new rules for every new token structure, FINMA applies existing financial regulation by analogy based on the economic function of the token. The 2018 FINMA ICO Guidelines (formally: FINMA Guidelines for enquiries regarding the regulatory framework for initial coin offerings, published 16 February 2018) established this framework. They remain current and are applied consistently today.
 
 FINMA's approach means that a crypto business operating in Switzerland can get a clear regulatory answer: you will be told whether your token is a payment token, a utility token, an asset token, or a hybrid, and you will be told which licence applies. This is not the case in most jurisdictions, where regulatory ambiguity is the norm and enforcement is unpredictable.
 
@@ -347,7 +347,7 @@ The standard legal architecture for a Swiss crypto project is two entities:
 
 **2. An operating company (AG or GmbH):** A commercial entity that employs staff, enters commercial contracts, builds the product, and generates revenue. The operating company may receive grants from the foundation and may also operate the exchange or platform that the project needs commercially.
 
-This two-entity structure — foundation plus operating company — is the established Zug architecture used by Ethereum Foundation, Polkadot (Web3 Foundation), Cardano Foundation, and dozens of other projects. It is not obligatory, but it has clear structural advantages for token-issuing projects, including favourable tax treatment of foundation activities and reduced regulatory risk for the foundation's token issuance.
+This two-entity structure — foundation plus operating company — is the established Zug architecture used by Ethereum Foundation, Polkadot (Web3 Foundation), Cardano Foundation, and dozens of other projects. It is not obligatory, but it has clear structural advantages for token-issuing projects, including favourable tax treatment of foundation activities and reduced regulatory risk for the foundation's token issuance. The foundation typically conducts the Token Generation Event (TGE) — the public or private distribution of tokens to participants — under Swiss law, benefiting from the regulatory clarity that FINMA's classification framework provides.
 
 ---
 
@@ -365,7 +365,7 @@ All Swiss crypto businesses that are AMLA financial intermediaries — whether r
 
 **Suspicious Activity Reporting (SAR):** Filing suspicious activity reports with the Money Laundering Reporting Office Switzerland (MROS) when there are grounds to suspect money laundering, terrorist financing, or sanctions violations. SARs must be filed promptly and may require freezing the relevant assets.
 
-**Record-keeping:** All KYC records and transaction records must be kept for a minimum of 10 years.
+**Record-keeping:** All KYC records and transaction records must be kept for a minimum of 10 years. Swiss crypto businesses must also be aware of the Common Reporting Standard (CRS) obligations: financial institutions — including crypto custodians holding qualifying financial accounts — are required to collect and report account holder information to the Swiss Federal Tax Administration for automatic exchange with CRS partner jurisdictions.
 
 ---
 

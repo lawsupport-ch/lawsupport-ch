@@ -36,6 +36,16 @@ faqItems:
     answer: "No. Operating before formal acceptance carries the same consequences as operating without any SRO affiliation."
   - question: "How long must AML records be retained?"
     answer: "A minimum of 10 years from the date the business relationship ends or the transaction is completed."
+  - question: "What are the annual fees for SRO membership?"
+    answer: "Annual SRO fees vary by organisation and member size. VQF charges approximately CHF 1'500-3'000 per year for small intermediaries. PolyReg and SO-FIT have similar fee structures. Additional costs include the mandatory external AML audit (CHF 3'000-8'000/year) and ongoing training for AML-responsible staff."
+  - question: "Can SRO membership be transferred between organisations?"
+    answer: "Yes. A financial intermediary can switch from one FINMA-recognised SRO to another. The outgoing SRO provides a transfer certificate, and the incoming SRO conducts its own admission review. There must be no gap in coverage — operating without SRO membership at any point is a criminal offence under AMLA."
+  - question: "What triggers the obligation to join an SRO?"
+    answer: "Any person or entity professionally conducting financial intermediary activities as defined in Art. 2 AMLA must join an SRO or obtain direct FINMA supervision. Activities include accepting or holding third-party assets, assisting in investment or transfer of assets, and operating as a money transmitter or currency exchanger."
+  - question: "What are the consequences of failing an SRO audit?"
+    answer: "The SRO issues a formal finding and sets a remediation deadline, typically 30-90 days. Persistent non-compliance can result in suspension or expulsion from the SRO, which the SRO must report to FINMA. FINMA may then impose an operating ban, appoint a liquidator, or initiate criminal proceedings."
+  - question: "Do trust companies need SRO membership in Switzerland?"
+    answer: "Yes. Trust companies operating in Switzerland are classified as financial intermediaries under AMLA and must hold SRO membership. Since 2020, trustees must additionally register with FINMA under the Financial Institutions Act (FinIA), which imposes further capital and organisational requirements beyond basic SRO membership."
 ---
 
 
@@ -49,7 +59,7 @@ This guide covers the legal basis, who must join, how to choose the right SRO, w
 
 The obligation to join an SRO flows directly from the **Anti-Money Laundering Act (AMLA / Geldwaeschereigesetz, GwG)**. Under <a href="https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/en" target="_blank" rel="nofollow noopener">AMLA Article 2</a>, financial intermediaries are subject to the full scope of Swiss AML obligations. Under AMLA Article 14, every financial intermediary must either:
 
-- be **directly supervised by FINMA** (as a bank, insurance company, or securities firm), or
+- be **directly supervised by FINMA** as a directly supervised financial intermediary (DUFI) — this covers banks, insurance companies, and securities firms — or
 - affiliate with a **FINMA-recognised Self-Regulatory Organisation** and remain subject to its supervision
 
 There is no third option. Operating as a financial intermediary in Switzerland without one of these two supervisory relationships is a criminal offence under AMLA Article 44, punishable by a fine of up to CHF 500'000 for the responsible individuals, and FINMA can order immediate cessation of the business.
@@ -85,7 +95,7 @@ FINMA-licensed entities are already directly supervised and do not require SRO m
 - **Securities firms and licensed asset managers** authorised under the Financial Institutions Act (FinIA)
 - **Fund management companies** licensed under CISA
 
-The critical distinction introduced by the **FinSA/FinIA reforms (effective 1 January 2020)** is that independent asset managers managing third-party assets must now obtain a **FINMA licence under FinIA** rather than relying on SRO membership alone. SRO membership was the prior standard for independent asset managers; since 2020 it is no longer sufficient. Asset managers with existing SRO membership had until 31 December 2022 to obtain FinIA authorisation. An asset manager operating in Switzerland with only SRO membership and no FinIA licence is non-compliant.
+The critical distinction introduced by the **FinSA/FinIA reforms (effective 1 January 2020)** is that independent asset managers managing third-party assets must now obtain a **FINMA licence under FinIA** rather than relying on SRO membership alone. SRO membership was the prior standard for independent asset managers; since 2020 it is no longer sufficient. Asset managers with existing SRO membership had until 31 December 2022 to obtain FinIA authorisation. An asset manager operating in Switzerland with only SRO membership and no FinIA licence is non-compliant. The upcoming AMLA revision 2026 is expected to further tighten obligations for financial intermediaries, including expanded due diligence requirements and enhanced transparency rules, making early compliance preparation even more critical.
 
 This means: **para-banking financial intermediaries** (forex dealers, payment processors, crypto businesses, leasing companies, distributors, factoring) require SRO membership. **Independent asset managers managing third-party portfolios** require a FinIA licence from a FINMA-recognised supervisory organisation. See our guide on [asset management licensing in Switzerland](/licensing/asset-management-license-switzerland/) for the FinIA pathway.
 
@@ -225,7 +235,7 @@ A realistic planning assumption for a crypto or fintech business preparing its a
 SRO membership is not a one-time event. Members have recurring obligations that must be built into operational and compliance processes:
 
 **Annual compliance reporting**
-Members submit an annual self-assessment to the SRO covering the volume of business, client base, material AML events, and any changes to the AML programme. This is a substantive document, not a checkbox form.
+Members submit an annual self-assessment to the SRO covering the volume of business, client base, material AML events, and any changes to the AML programme. This is a substantive document, not a checkbox form. Members handling financial transactions must also ensure compliance with Verrechnungssteuer (withholding tax) obligations where applicable — particularly when distributing dividends or interest from Swiss sources, as the 35% federal withholding tax applies and must be correctly accounted for in the compliance reporting.
 
 **Periodic on-site audits**
 SROs conduct periodic compliance audits of members, either on-site or document-based. VQF typically audits members every **2-4 years**, with the frequency calibrated to the member's risk profile. Crypto businesses and higher-risk intermediaries are audited more frequently.

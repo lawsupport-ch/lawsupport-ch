@@ -17,6 +17,16 @@ faqItems:
     answer: "Pillar Two applies only to multinational groups with global consolidated revenue exceeding EUR 750 million. For sub-threshold groups, Pillar Two has no impact."
   - question: "How long does it take to form a Swiss holding AG?"
     answer: "The total timeline from engagement to registered company is typically 3-6 weeks. Bank account opening for a newly formed entity with foreign shareholders is often the longest step."
+  - question: "What is the effective corporate tax rate for a holding company in Zug?"
+    answer: "The combined effective corporate tax rate in Zug is approximately 11.85%, among the lowest in Switzerland and the OECD. This applies to all income including dividends received from subsidiaries, though dividend income is further reduced by the participation exemption, which eliminates most cantonal and federal tax on qualifying participation income."
+  - question: "What is the Swiss participation exemption and how does it work?"
+    answer: "The participation exemption (Beteiligungsabzug) is not a tax rate reduction but a proportional reduction of total tax liability. If 80% of a holding company gross income comes from qualifying dividends and capital gains on participations, 80% of the total tax is eliminated. The threshold is 10% ownership or CHF 1 million fair market value."
+  - question: "Does a Swiss holding company need employees or an office?"
+    answer: "Swiss holding companies must demonstrate genuine substance. At minimum, the majority of board members should be Swiss-resident or board meetings should take place in Switzerland, genuine records must be maintained at the registered office, and substantive management decisions must be documented contemporaneously. A letterbox without real activity risks treaty benefit denial."
+  - question: "Can a Swiss holding company benefit from the IP Box regime?"
+    answer: "Yes. Since the 2020 TRAF reform, Swiss cantons offer a patent box (IP Box) regime that can reduce the effective tax rate on qualifying IP income to as low as 1-3% depending on the canton. Qualifying IP includes patents, supplementary protection certificates, and comparable rights. Software copyrights may qualify in certain cantons."
+  - question: "What are the annual maintenance costs of a Swiss holding company?"
+    answer: "Annual costs for a holding company with a registered office in Zug and minimal activity include: registered address CHF 2,400, nominee director (if needed) CHF 5,900, basic accounting and statutory audit from CHF 3,800, annual cantonal capital tax (on equity value), and board meeting administration. Total: CHF 8,000-15,000 per year before corporate income tax."
 tocItems:
   - id: "what-is-a-swiss-holding-company"
     title: "What Is a Swiss Holding Company?"
@@ -63,7 +73,7 @@ Swiss tax practice distinguishes two models:
 
 **Pure holding (reine Holdinggesellschaft):** The company holds participations and does nothing else — no operational activities, no employees engaged in production or service delivery, no revenue from trading. All income derives from dividends, capital gains on shares, and possibly interest on intra-group loans. This structure maximises cantonal holding privilege relief and simplifies transfer-pricing analysis.
 
-**Mixed holding (gemischte Holdinggesellschaft):** The company combines equity participation management with operational or administrative activities — for example, acting as a regional management centre, treasury hub, or IP-licensing entity. Income has both "holding" and "operational" components. Tax treatment must be disaggregated accordingly. Mixed holdings are increasingly common for groups that need genuine Swiss-based management functions to satisfy substance requirements.
+**Mixed holding (gemischte Holdinggesellschaft):** The company combines equity participation management with operational or administrative activities — for example, acting as a regional management centre, treasury hub, or IP-licensing entity. Income has both "holding" and "operational" components. Tax treatment must be disaggregated accordingly. Mixed holdings are increasingly common for groups that need genuine Swiss-based management functions to satisfy substance requirements. Indirect holding structures — where the Swiss holding company owns subsidiaries through one or more intermediate entities — are also widely used, particularly for multi-jurisdictional groups seeking to isolate liability at each level while preserving the participation exemption through the chain.
 
 ### Why the AG?
 
@@ -122,7 +132,7 @@ For **capital gains on disposal**, both conditions must be satisfied:
 
 ### How the Maths Works
 
-The deduction is calculated as follows: net participation income (qualifying dividends or capital gains, net of directly attributable financing costs) divided by total net income, multiplied by the gross federal tax. If a holding company earns CHF 5,000,000 in qualifying dividends and CHF 200,000 in interest income (total CHF 5,200,000), approximately 96% of its federal tax liability is eliminated by the deduction. The remaining 4% of the federal rate (7.83%) applies only to the CHF 200,000 non-exempt income — producing a federal liability of roughly CHF 15,660.
+The Beteiligungsabzug calculation method works as follows: net participation income (qualifying dividends or capital gains, net of directly attributable financing costs) is divided by total net income, and the resulting ratio is multiplied by the gross federal tax. If a holding company earns CHF 5,000,000 in qualifying dividends and CHF 200,000 in interest income (total CHF 5,200,000), approximately 96% of its federal tax liability is eliminated by the deduction. The remaining 4% of the federal rate (7.83%) applies only to the CHF 200,000 non-exempt income — producing a federal liability of roughly CHF 15,660.
 
 The same proportional logic applies at cantonal level under Art. 28 StHG. In Zug, the cantonal and municipal corporate income tax rate on non-exempt income runs at approximately 4.1% (combined cantonal + municipal, 2026 figures). After the participation deduction, the effective cantonal rate on qualifying holding income is also near zero.
 
@@ -201,7 +211,7 @@ The era of the Swiss letterbox holding — a registered address, a forwarding se
 
 **Registered office and records:** The registered office (Sitz) must be a genuine address where the company's books and records are maintained and accessible. A professional corporate services address in Zug is acceptable provided there is a genuine service relationship — not merely a postal forwarding arrangement. See our [registered address Switzerland](/corporate-services/registered-address-switzerland/) and [virtual office Switzerland](/corporate-services/virtual-office-switzerland/) services.
 
-**Documentation:** Transfer-pricing documentation (for groups above OECD thresholds), master file and local file requirements under BEPS Action 13, and CbCR (Country-by-Country Reporting) for groups with consolidated revenue above CHF 900 million.
+**Documentation:** Transfer-pricing documentation (for groups above OECD thresholds), master file and local file requirements under BEPS Action 13, and CbCR (Country-by-Country Reporting) for groups with consolidated revenue above CHF 900 million. Where participations are contributed to the holding at book value rather than market value, the cantonal tax authority tracks the deferred gain through an Aufschubkonto (deferral account), which becomes relevant on subsequent disposal or restructuring.
 
 ### OECD Pillar Two — Large Groups
 

@@ -37,6 +37,16 @@ faqItems:
     answer: "By default, existing directors become liquidators at dissolution. It is also possible to appoint a separate liquidator (e.g., Lawsupport) at the dissolution stage. This is common where the existing director is abroad or unavailable for Swiss-based liquidation tasks."
   - question: "How is the 35% withholding tax on liquidation distributions handled?"
     answer: "When the company distributes assets to shareholders upon liquidation, any amount above the nominal share capital is treated as a taxable dividend. The company must withhold 35% of that amount and pay it to the Swiss Federal Tax Administration (ESTV). Shareholders resident in treaty countries can apply for a refund of all or part of the withholding tax via their local tax authority."
+  - question: "How long does a Swiss company liquidation take in total?"
+    answer: "A straightforward voluntary liquidation takes 6–12 months from the dissolution resolution to final deletion from the Commercial Register. The minimum is approximately 4 months due to the mandatory 3-month creditor notice period. Complex cases with outstanding tax disputes or unresolved creditor claims can take 18 months or longer."
+  - question: "What are the typical costs of liquidating a Swiss GmbH?"
+    answer: "Budget CHF 3,000–6,000 for professional fees (liquidator, legal, notary), CHF 200–400 for Commercial Register deletion, and CHF 500–1,000 for the final tax filing and audit. If the company has outstanding tax liabilities or complex creditor claims, costs can escalate significantly. A dormant company with no assets is at the lower end."
+  - question: "Can I sell my Swiss company instead of liquidating it?"
+    answer: "Yes, and it is often preferable. Selling the shares (AG) or quotas (GmbH) transfers the entity intact, avoiding the 3-month creditor notice period and the 35% withholding tax on distributions above nominal capital. The buyer assumes all assets, liabilities, and the company's registration history."
+  - question: "What tax clearance is required before a Swiss company can be deleted?"
+    answer: "The cantonal tax authority must issue a Steuerausstand (tax clearance certificate) confirming that all federal, cantonal, and communal tax obligations have been settled. Outstanding VAT, AHV social insurance, and withholding tax must also be cleared. The tax authority will not issue clearance until all filings are up to date and balances paid."
+  - question: "What happens to a dormant Swiss company if I do nothing?"
+    answer: "The company remains legally registered and must continue filing annual tax returns, even with zero activity. Accumulated non-compliance can result in the Commercial Register initiating a forced dissolution (Löschung von Amtes wegen) after attempts to contact the company fail. Outstanding tax and social insurance obligations continue to accrue, and directors may face personal liability."
 ---
 
 

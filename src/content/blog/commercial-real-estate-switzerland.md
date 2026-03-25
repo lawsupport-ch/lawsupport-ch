@@ -35,6 +35,18 @@ faqItems:
     answer: "Swiss commercial leases have no statutory break right. Early exit requires landlord negotiation (typically involving a settlement payment) or finding a substitute tenant. Negotiate break clauses before signing, not after."
   - question: "What is a standard deposit for a Swiss commercial lease?"
     answer: "Three months' rent. Bank guarantees are accepted in lieu of cash deposits, which preserves working capital."
+  - question: "What are typical operating costs (Nebenkosten) on top of rent?"
+    answer: "Budget CHF 40–80 per square metre per year for operating costs, covering building maintenance, heating, common area cleaning, and insurance. These are charged separately from headline rent. Always insist on a defined list of recoverable costs in the lease to avoid uncapped pass-throughs."
+  - question: "Can I negotiate a break clause in a Swiss commercial lease?"
+    answer: "Swiss law does not provide a statutory break right for commercial tenants. Break clauses must be negotiated and written into the lease before signing. Typical break points are at year 3 or year 5 of a longer-term lease. Once signed without a break clause, early exit requires landlord agreement and usually a settlement payment."
+  - question: "What is the VAT rate on commercial lease payments in Switzerland?"
+    answer: "Most institutional landlords elect to charge VAT at 8.1% on commercial rent. If your company is VAT-registered, this is fully recoverable as input tax. If your company is not VAT-registered (turnover below CHF 100,000), the VAT becomes an irrecoverable cost adding 8.1% to your effective rent."
+  - question: "How does a registered address differ from an operational office?"
+    answer: "A registered address satisfies the Commercial Register requirement and costs CHF 2,400–3,000 per year. An operational office involves a full lease and is required when the company employs staff, receives clients, or needs to demonstrate economic substance for tax residency or transfer pricing purposes."
+  - question: "Is it cheaper to buy or lease commercial property in Zug?"
+    answer: "Prime commercial property in Zug trades at yields of 3–5%, meaning purchase prices of 20–33 times annual rent. Buying makes financial sense if you plan to occupy for 10+ years and have the capital available. For most new companies, leasing preserves working capital and provides flexibility to scale up or down."
+  - question: "What reinstatement obligations should I expect at lease end?"
+    answer: "Most Swiss commercial leases require tenants to restore premises to their original shell-and-core condition. Reinstatement costs can run to tens of thousands of francs depending on the fit-out scope. Get a reinstatement cost estimate before signing and negotiate a cap or a pre-agreed dilapidations settlement."
 ---
 
 

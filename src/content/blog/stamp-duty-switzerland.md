@@ -26,6 +26,16 @@ faqItems:
     answer: "The issuing company files with the ESTV within 30 days of the capital increase. Payment is due within 30 days of filing."
   - question: "Is the CHF 1 million exemption per company or per group?"
     answer: "Per company. Each Swiss legal entity has its own exemption threshold."
+  - question: "Can stamp duty be avoided by using convertible loans instead of equity?"
+    answer: "Convertible loans remain as debt until conversion and do not trigger issuance stamp duty while outstanding. However, upon conversion to equity, the stamp applies to amounts above the CHF 1'000'000 exemption. Timing conversions to coincide with a single equity round rather than converting incrementally does not reduce the total duty but simplifies administration."
+  - question: "What stamp duty applies to foreign companies issuing shares to Swiss investors?"
+    answer: "The issuance stamp applies only to Swiss entities issuing shares. Foreign companies issuing shares are not subject to Swiss issuance stamp duty. However, if a Swiss securities dealer is involved in placing the shares, the securities transfer stamp (0.30% for foreign securities) may apply to the transaction."
+  - question: "How does thin capitalisation affect stamp duty planning?"
+    answer: "Swiss thin capitalisation rules limit the proportion of debt financing before the tax authorities reclassify debt as hidden equity. If shareholder loans exceed the safe harbour ratios (which vary by asset class), the excess may be treated as equity for tax purposes, potentially triggering issuance stamp duty on the reclassified amount."
+  - question: "Are there stamp duty implications when winding down a Swiss company?"
+    answer: "Liquidation and return of capital to shareholders do not trigger issuance stamp duty. However, if shares are repurchased by the company as part of a capital reduction involving a Swiss securities dealer, the securities transfer stamp may apply to the repurchase transaction. The distribution of liquidation proceeds is subject to withholding tax, not stamp duty."
+  - question: "Does stamp duty apply to share capital increases funded by foreign currency?"
+    answer: "Yes. The issuance stamp applies regardless of the currency of the capital contribution. The taxable amount is converted to CHF at the exchange rate on the date the capital increase is registered with the Commercial Register. The CHF 1'000'000 exemption applies to the CHF-equivalent of total paid-in capital."
 ---
 
 

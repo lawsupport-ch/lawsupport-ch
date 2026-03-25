@@ -36,6 +36,16 @@ faqItems:
     answer: "Yes. Any employee working in Switzerland pays AHV from day one, regardless of nationality."
   - question: "What is the BVG coordination deduction?"
     answer: "CHF 26'460 in 2026, subtracted from gross salary to determine the portion insured under mandatory occupational pension."
+  - question: "What happens to BVG pension contributions if an employee leaves Switzerland?"
+    answer: "If the employee leaves Switzerland permanently, vested benefits (Freizuegigkeitsleistung) can be transferred to a vested benefits account or policy. Cash withdrawal is possible for employees relocating outside the EU/EFTA or for those purchasing property or starting self-employment. EU/EFTA departures restrict withdrawal of the mandatory BVG portion."
+  - question: "Are there cantonal differences in social insurance contribution rates?"
+    answer: "AHV/IV/EO and ALV rates are set at the federal level and are uniform across all cantons. However, FAK (family allowance) contribution rates vary significantly by canton — from approximately 1.5% in Zug to 3.5% in Geneva. UVG and Krankentaggeld premiums depend on the insurer and risk class, not the canton."
+  - question: "What is the minimum annual AHV contribution for self-employed persons?"
+    answer: "The minimum annual AHV/IV/EO contribution for self-employed persons is CHF 514 (2026). This applies to net incomes below approximately CHF 10'000. Above that, contributions are calculated on a sliding scale up to approximately 10% of net business income, with no upper ceiling."
+  - question: "Can a company opt out of Krankentaggeld insurance?"
+    answer: "Krankentaggeld is not a statutory obligation under federal law. However, most collective agreements (GAV) require it, and it is universal market practice. Without Krankentaggeld coverage, the employer bears the statutory continuation-of-pay obligation under Art. 324a CO, which can extend to several months of salary depending on years of service."
+  - question: "How frequently must social insurance contributions be remitted?"
+    answer: "Employers remit AHV/IV/EO and ALV contributions to the cantonal Ausgleichskasse either monthly or quarterly, depending on payroll size. BVG contributions are paid to the pension fund monthly or quarterly per the fund's schedule. UVG premiums are typically billed annually by the insurer. Quellensteuer is remitted monthly to the cantonal tax authority."
 ---
 
 

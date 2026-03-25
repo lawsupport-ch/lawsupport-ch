@@ -31,6 +31,16 @@ faqItems:
     answer: "Every Swiss company receives a UID (Unternehmens-Identifikationsnummer) in the format CHE-123.456.789. It is the universal business identifier used across all Swiss authorities including tax, VAT, and social insurance filings."
   - question: "Which cantonal commercial register handles the most international companies?"
     answer: "Zug handles a disproportionately high number of international holding companies, crypto entities, and financial firms relative to its size. Zurich is the largest by total registrations, and Geneva is the second busiest for international companies."
+  - question: "How much does a certified Commercial Register extract cost?"
+    answer: "Official certified extracts (Handelsregisterauszug) cost CHF 20–40 depending on the canton. Zurich and Zug are at the lower end. If the extract needs an apostille for international use, the cantonal authority charges an additional fee, typically CHF 15–30."
+  - question: "Can I register a company in one canton and move it to another later?"
+    answer: "Yes. A company can transfer its registered seat to a different canton by amending its articles of association and filing with both the departing and receiving cantonal registers. The process takes 4–8 weeks and involves notarial fees, re-registration fees, and coordination between the two cantonal offices."
+  - question: "What happens if my proposed company name is rejected?"
+    answer: "The cantonal register rejects names that are identical or confusingly similar to existing entries across all cantons and legal forms. A rejection costs CHF 400 in re-filing fees and typically delays registration by 2–3 weeks while a new name is cleared. Always search Zefix thoroughly before filing."
+  - question: "How do I check if a company name is available in Switzerland?"
+    answer: "Search on Zefix.ch using partial and full name variants. Check across all cantons and all legal forms (AG, GmbH, etc.). The Handelsregisteramt assesses confusion risk broadly — a GmbH in Zurich can conflict with an AG in Bern if the names are substantially similar."
+  - question: "Do I need an apostille on my Commercial Register extract for use abroad?"
+    answer: "For countries party to the Hague Convention, yes — an apostille from the cantonal authority is required. For non-Hague countries, consular legalisation is needed instead. Both processes typically take 3–5 business days. A sworn translation may also be required depending on the destination country."
 ---
 
 

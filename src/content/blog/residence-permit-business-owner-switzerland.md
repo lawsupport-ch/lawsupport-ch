@@ -32,6 +32,16 @@ faqItems:
     answer: "Processing typically takes 4-8 weeks from submission of a complete application, varying by canton."
   - question: "Can I bring my family on a business residence permit?"
     answer: "Yes. Once you hold a valid B or C permit, your spouse and children under 18 qualify for family reunification."
+  - question: "What minimum investment is typically required for a cantonal discretionary permit?"
+    answer: "Although no published federal threshold exists, cantonal authorities in Zug and Zurich generally expect CHF 1'000'000 or more invested in a Swiss company, combined with credible plans to create 5-10 Swiss-resident jobs. Meeting one criterion alone is rarely sufficient — authorities assess investment, job creation, and economic benefit together."
+  - question: "Can I switch from an L permit to a B permit while in Switzerland?"
+    answer: "Yes. An L permit holder can apply for a B permit if the employment relationship is extended beyond 12 months and the cantonal migration authority approves. The application is filed through the employer. For non-EU/EFTA nationals, the B permit remains subject to annual cantonal quotas."
+  - question: "What are the costs of obtaining a business owner residence permit?"
+    answer: "Professional legal support typically requires a retainer of CHF 3'500, with hourly rates of CHF 150-450 for ongoing work. Add GmbH formation (CHF 1'900), registered address (CHF 2'400/year), nominee director during processing (CHF 5'900/year), and 12 months of living costs (CHF 24'000-36'000). Total first-year commitment for non-EU nationals starts at approximately CHF 550'000 including share capital."
+  - question: "Does lump-sum taxation allow any business activity in Switzerland?"
+    answer: "No. The lump-sum taxation regime explicitly prohibits gainful activity in Switzerland. Recipients may manage foreign investments and assets but cannot operate a Swiss business, hold an executive role in a Swiss company, or provide services from Switzerland. Violation results in loss of lump-sum status and retrospective taxation at ordinary rates."
+  - question: "How does cantonal choice affect residence permit approval chances?"
+    answer: "Cantonal migration offices have significant discretion and vary in their approach. Zug and Zurich are experienced with international business owners and tend to process applications more efficiently. Some cantons are more receptive to tech and crypto entrepreneurs. The canton where the company is domiciled is typically the canton that processes the permit application."
 ---
 
 

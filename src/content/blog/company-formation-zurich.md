@@ -41,6 +41,16 @@ faqItems:
     answer: "Yes. The effective combined rate (federal + cantonal + communal) in Zurich city is approximately 19.7% in 2026. In Zug, the equivalent rate is approximately 11.8%."
   - question: "Can I register my company in Zug but have my office and employees in Zurich?"
     answer: "Yes, entirely. This is a common and legally straightforward structure. Your company's statutory seat, registered address, and Commercial Register entry are in Zug; your operational office, employees, and client-facing presence are in Zurich."
+  - question: "What are the notary fees for forming a company in Zurich?"
+    answer: "Zurich notary fees for a standard GmbH formation range from CHF 1,200–1,800; for an AG, CHF 1,500–2,500. These fees cover the authentication of articles of association, the Stampa Declaration, and the capital deposit confirmation. Zurich notary fees are comparable to other major Swiss cantons."
+  - question: "How long does the Handelsregisteramt Zurich take to process a filing?"
+    answer: "The Zurich Commercial Register typically processes standard GmbH formations in 15–20 business days and AG formations in 20–25 business days from complete filing. Summer filings move faster; the pre-Christmas period (November–December) is consistently slower. There is no expedited processing option."
+  - question: "What is the effective corporate tax rate in Zurich in 2026?"
+    answer: "The combined effective corporate tax rate in Zurich city is approximately 19.7% (federal, cantonal, and communal combined). This is roughly 8 percentage points higher than Zug's 11.8%. On CHF 500,000 annual profit, the difference amounts to approximately CHF 39,000 per year."
+  - question: "Can I open a bank account in Zurich for a company registered in Zug?"
+    answer: "Yes. Swiss banking law does not require the bank to be in the same canton as the company's registered seat. Many Zug-registered companies maintain their primary banking relationship with UBS, ZKB, or Credit Suisse in Zurich. The company's registered address and Commercial Register entry remain in Zug."
+  - question: "What is the hybrid Zug-Zurich structure and is it legal?"
+    answer: "Registering the company in Zug for the lower tax rate while maintaining an operational office and employees in Zurich is entirely legal and common. The company's statutory seat, registered address, and tax domicile are in Zug. The Zurich office is a branch or operational location. This structure saves roughly CHF 39,000 per year on CHF 500,000 profit."
 ---
 
 

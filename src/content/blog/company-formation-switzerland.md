@@ -35,6 +35,16 @@ faqItems:
     answer: "Yes. There are no nationality or residency restrictions on ownership of a Swiss AG or GmbH. Foreign nationals and foreign legal entities can hold 100% of the shares or quotas."
   - question: "What is the Stampa Declaration and why is it required?"
     answer: "The Stampa Declaration is a statutory confirmation provided by the founders at the notarisation appointment, confirming that there are no undisclosed contributions in kind, no undisclosed acquisitions of assets, and no special advantages granted to founders in connection with the formation. It is named after a landmark Swiss Federal Supreme Court decision. The declaration protects creditors and third parties and cannot be waived."
+  - question: "What are the total costs to form a GmbH in Switzerland?"
+    answer: "Budget CHF 3,500–5,000 for the formation itself: notary fees (CHF 1,000–2,500), Commercial Register fees (CHF 600), and legal/advisory fees. On top of this, you need the CHF 20,000 minimum share capital deposit plus first-year running costs (registered address, accounting, nominee director if needed) of approximately CHF 10,000–12,000."
+  - question: "What ongoing compliance obligations does a Swiss company have?"
+    answer: "Every Swiss AG and GmbH must file annual tax returns (federal and cantonal), hold an annual general meeting, maintain statutory accounting records, and report AHV social insurance contributions for any employees. Companies above certain revenue and asset thresholds must also appoint an external auditor."
+  - question: "Can I form a Swiss company with a non-Swiss bank account for the capital deposit?"
+    answer: "No. The share capital must be deposited into a blocked capital deposit account (Kapitaleinzahlungskonto) at a Swiss bank. Foreign bank accounts are not accepted. The bank issues a confirmation letter required at the notarisation appointment. PostFinance, cantonal banks, and fintech providers like Relio AG offer this service."
+  - question: "What is the Swiss resident director requirement?"
+    answer: "Article 718 CO requires at least one person authorised to represent the company to be resident in Switzerland. This applies to both AG and GmbH. The person must have individual signatory authority and a registered Swiss address. A nominee director service satisfies this requirement for founders who do not live in Switzerland."
+  - question: "How quickly can a shelf company (Mantelgesellschaft) be transferred?"
+    answer: "The share transfer itself takes 1–2 days. However, modifications to the company name, board composition, and business purpose require Commercial Register filings that take a minimum of 2 weeks. Since 2025, changes must be filed in two stages — first the name and board, then the business activity — adding approximately CHF 1,700 in extra fees."
 ---
 
 
@@ -152,13 +162,13 @@ For guidance on the banking process, see our [Swiss bank account opening](/banki
 
 **Step 5: Notarisation (In Person or via Power of Attorney)**
 
-The incorporation must be executed before a Swiss notary public. The notary authenticates the articles of association, verifies the identity of the founders, confirms the capital deposit, and records the Stampa Declaration. The Stampa Declaration is a statutory confirmation in which the founders declare that there are no contributions in kind, no acquisition of assets, and no special privileges not disclosed in the articles. This declaration is mandatory and cannot be waived.
+The incorporation must be executed before a Swiss notary public. The notary authenticates the articles of association, verifies the identity of the founders, confirms the capital deposit, and records the Stampa Declaration. The Stampa Declaration is a statutory confirmation in which the founders declare that there are no contributions in kind (Sacheinlage), no acquisition of assets, and no special privileges not disclosed in the articles. This declaration is mandatory and cannot be waived.
 
 A critical point for international founders: you do not need to travel to Switzerland. Incorporation can be completed via a notarised and apostilled power of attorney, allowing a Swiss representative to sign on your behalf before the notary. Lawsupport handles this regularly for clients in Asia, the Middle East, the Americas, and across Europe. Notary fees typically range from CHF 1,000 to CHF 2,500 depending on the canton, notary, and complexity.
 
 **Step 6: Commercial Register Filing**
 
-Following notarisation, the notary or the founders' representative files the incorporation documents with the cantonal [Commercial Register](/company-formation/commercial-register-switzerland/) (Handelsregister). The filing fee is approximately CHF 600. Registration typically takes 2-4 weeks. Summer months (July-August) tend to be faster; the pre-Christmas period (November-December) is consistently slower across all cantonal registers.
+Following notarisation, the notary or the founders' representative files the incorporation documents with the cantonal [Commercial Register](/company-formation/commercial-register-switzerland/) (Handelsregister), in accordance with the Handelsregisterverordnung (HRegV). The filing fee is approximately CHF 600. Registration typically takes 2-4 weeks. Summer months (July-August) tend to be faster; the pre-Christmas period (November-December) is consistently slower across all cantonal registers.
 
 **The operating hack:** Your company can legally begin operating from the moment of notarial signing — you do not need to wait for ZEFIX publication. The company exists as a legal entity from the notarial deed; the register entry is declaratory, not constitutive, for most practical purposes. You can sign contracts, begin client work, and invoice under the company name immediately after the notary appointment.
 
@@ -307,7 +317,7 @@ The answer depends on your primary objectives. If minimising corporate tax is th
 
 **What is the minimum capital requirement for a Swiss AG?**
 
-The minimum share capital for a Swiss AG is CHF 100,000, of which at least CHF 50,000 must be paid in at the time of formation. The capital deposit must be confirmed by the bank before notarisation.
+The minimum share capital for a Swiss AG is CHF 100,000, of which at least CHF 50,000 must be paid in at the time of formation. The capital deposit — known as Liberierung (capital payment) — must be confirmed by the bank before notarisation.
 
 **What is the minimum capital requirement for a Swiss GmbH?**
 

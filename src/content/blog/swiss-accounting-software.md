@@ -34,6 +34,16 @@ faqItems:
     answer: "Strongly recommended. It automates electronic salary data exchange with tax authorities and social insurance."
   - question: "How much does Swiss accounting software cost per year?"
     answer: "From free (Banana) to CHF 50'000+ (Abacus enterprise). A typical SME pays CHF 350-2,400/year for cloud options."
+  - question: "Can I use non-Swiss accounting software for a Swiss company?"
+    answer: "Legally yes, but practically problematic. Non-Swiss software typically lacks the Kontenrahmen KMU chart of accounts, QR-bill generation, and Swissdec payroll interfaces. Your fiduciary will likely charge more to work with non-standard outputs."
+  - question: "How often must a Swiss company file accounts?"
+    answer: "Swiss companies must prepare annual financial statements within six months of the financial year-end. These must be approved by the general meeting of shareholders. There is no quarterly filing obligation unless the company is publicly listed."
+  - question: "What happens if I choose the wrong accounting software?"
+    answer: "Migration between accounting platforms mid-year is disruptive and expensive — typically CHF 2,000-5,000 in fiduciary fees for data migration and revalidation. Starting with software your fiduciary already supports avoids this entirely."
+  - question: "Do sole proprietorships need the same accounting software as a GmbH?"
+    answer: "No. Sole proprietorships with turnover below CHF 500,000 may use simplified bookkeeping (Milchbuechleinrechnung). A spreadsheet or basic tool like Banana suffices. Once turnover exceeds CHF 500,000 or you incorporate, double-entry bookkeeping becomes mandatory."
+  - question: "Is Bexio or Klara better for a small Swiss GmbH?"
+    answer: "Both are solid choices. Bexio has a larger market share and broader fiduciary network. Klara offers a free tier for basic invoicing. For a GmbH with employees, Bexio Swissdec-certified payroll module gives it an edge. Both handle QR-bills and VAT returns."
 ---
 
 

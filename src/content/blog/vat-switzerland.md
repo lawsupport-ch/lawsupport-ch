@@ -10,13 +10,23 @@ faqItems:
   - question: "What is the Swiss VAT standard rate in 2026?"
     answer: "The standard rate is 8.1%, in force since 1 January 2024 following the voter-approved AHV pension reform referendum. It applies to most goods and services including professional fees, IT services, consulting, and general commercial transactions."
   - question: "When is Swiss VAT registration mandatory?"
-    answer: "Registration is compulsory when annual taxable turnover exceeds CHF 100'000 from worldwide taxable supplies. For foreign businesses, this includes global revenue. Registration must be completed before further taxable supplies are made."
+    answer: "Registration is compulsory when annual worldwide taxable turnover exceeds CHF 100'000 (Art. 10 MWSTG). This means turnover from taxable supplies globally — not total revenue, and not just Swiss-sourced revenue. Once the threshold is crossed, registration must be completed before making further taxable supplies."
   - question: "How does input VAT recovery work in Switzerland?"
     answer: "Registered businesses deduct VAT paid on purchases from VAT collected on sales. A valid invoice must include the supplier UID/MWST number, the supply date, a description, and the VAT amount and rate. Input VAT on expenses related to exempt supplies cannot be recovered."
   - question: "What penalties apply for Swiss VAT non-compliance?"
     answer: "Late filing attracts fines of CHF 200-800 per return. Late payment incurs default interest at 4.75% per annum. Negligent evasion carries fines up to the evaded tax amount. Intentional evasion can result in fines up to 150% of evaded tax plus criminal prosecution."
   - question: "Can related Swiss companies form a VAT group?"
     answer: "Yes. Closely related entities under common ownership can register as a VAT group (MWST-Gruppe), filing a single return. Intra-group supplies are not subject to VAT. All group members bear joint and several liability."
+  - question: "Does the Saldosteuersatz method affect VAT on imports?"
+    answer: "No. Import VAT is assessed separately by the BAZG at the border using the standard rate applicable to the goods. The flat-rate method applies only to domestic output tax calculation. Import VAT paid cannot be separately recovered under the flat-rate method."
+  - question: "How is VAT applied to financial services in Switzerland?"
+    answer: "Most financial services are exempt from Swiss VAT under Art. 21(2) MWSTG, including lending, securities trading, insurance, and payment services. Exempt status means no VAT is charged but input VAT on related costs cannot be recovered, creating a hidden tax cost."
+  - question: "What VAT rules apply to cross-border services supplied from Switzerland?"
+    answer: "Services supplied to business recipients abroad are generally zero-rated under the place-of-supply rules (recipient principle). The Swiss supplier must verify the business status and foreign location of the recipient and retain documentary evidence to support the zero-rating."
+  - question: "Can Swiss VAT be recovered on employee expenses?"
+    answer: "Yes, provided the expense relates to a taxable business activity and is supported by a compliant VAT invoice. Common recoverable items include business travel, client entertainment (subject to 50% limitation), and office supplies. Flat-rate expense allowances do not support input VAT recovery."
+  - question: "What is the reverse charge mechanism in Swiss VAT?"
+    answer: "When a foreign supplier provides services to a Swiss business, the Swiss recipient must self-assess and report the VAT under the reverse charge (Bezugsteuer) mechanism. This applies when the foreign supplier has no Swiss VAT registration and the service has its place of supply in Switzerland."
 tocItems:
   - id: "the-five-vat-errors-that-trigger-estv-audits"
     title: "The Five VAT Errors That Trigger ESTV Audits"
@@ -123,7 +133,7 @@ Registration below CHF 100'000 is permitted and often worth considering. The mai
 
 ### Registration Process
 
-Registration is completed online via the <a href="https://www.estv.admin.ch" target="_blank" rel="nofollow noopener">ESTV portal</a>. The business receives a **UID number with the MWST suffix** (e.g., CHE-123.456.789 MWST), which must appear on all VAT invoices. Processing takes **one to four weeks** in standard cases. Foreign businesses may need to appoint a Swiss fiscal representative.
+Registration is completed online via the <a href="https://www.estv.admin.ch" target="_blank" rel="nofollow noopener">ESTV portal</a>. The business receives a **UID number with the MWST suffix** and is assigned ESTV reference numbers for correspondence and filing (e.g., CHE-123.456.789 MWST), which must appear on all VAT invoices. Processing takes **one to four weeks** in standard cases. Foreign businesses may need to appoint a Swiss fiscal representative.
 
 ---
 
@@ -133,7 +143,7 @@ Registration is completed online via the <a href="https://www.estv.admin.ch" tar
 
 - **Quarterly**: the default for most registered businesses. Returns are due within 60 days of the quarter end.
 - **Monthly**: applies to larger businesses or those requesting more frequent filings (useful to accelerate input VAT refunds).
-- **Annual (lump-sum rate method)**: available to businesses with **taxable turnover up to CHF 5.02 million** and fewer than 10 full-time equivalent employees. Under the Saldosteuersatzmethode, a simplified flat-rate percentage is applied to turnover rather than accounting for actual input VAT. This reduces administration but is not always financially optimal — the rate assigned by ESTV may not reflect actual VAT incurred on purchases.
+- **Annual (lump-sum rate method)**: available to businesses with **taxable turnover up to CHF 5.02 million** and fewer than 10 full-time equivalent employees. Under the Saldosteuersatzmethode (also referred to as the Saldosteuersatz method), a simplified flat-rate percentage is applied to turnover rather than accounting for actual input VAT. This reduces administration but is not always financially optimal — the rate assigned by ESTV may not reflect actual VAT incurred on purchases.
 
 ### Payment
 
@@ -156,7 +166,7 @@ These are operating costs, not one-time fees. Companies that try to manage Swiss
 
 ## Input VAT Recovery
 
-Registered businesses can deduct VAT paid on purchases used for taxable activities. The right of deduction (Vorsteuerabzug) applies to goods, services, imports, and reverse-charge self-assessments.
+Registered businesses can deduct VAT paid on purchases used for taxable activities. The right of input tax deduction — Vorsteuerabzug — applies to goods, services, imports, and reverse-charge self-assessments.
 
 Documentation requirements are strict. A valid Swiss VAT invoice must include:
 
@@ -191,7 +201,7 @@ Digital services in scope include streaming platforms, app stores, cloud service
 
 Marketplaces facilitating third-party sales to Swiss customers may carry deemed-supplier obligations. If you operate a platform model, the liability analysis needs specific attention.
 
-A recurring pattern we see: foreign e-commerce companies that have been selling into Switzerland for years without VAT registration, assuming the threshold applies only to Swiss-sourced revenue. It does not — the CHF 100'000 threshold captures worldwide turnover from taxable supplies. A company generating EUR 5 million in Germany and CHF 80'000 in Switzerland is well above the threshold. The ESTV can and does impose retroactive assessments with interest and penalties going back to the date the obligation first arose.
+A recurring pattern we see: foreign e-commerce companies that have been selling into Switzerland for years without VAT registration, assuming the threshold applies only to Swiss-sourced revenue. It does not — the CHF 100'000 threshold captures worldwide turnover from taxable supplies (Art. 10 MWSTG) — not total revenue. A company generating EUR 5 million in Germany and CHF 80'000 in Switzerland is well above the threshold. The ESTV can and does impose retroactive assessments with interest and penalties going back to the date the obligation first arose.
 
 ---
 
@@ -258,7 +268,7 @@ The reduced rate is 2.6%. It applies to a defined list of essential goods: food 
 
 **6. When is Swiss VAT registration mandatory?**
 
-Registration is compulsory when annual taxable turnover exceeds CHF 100'000 from worldwide taxable supplies. For foreign businesses, this includes global revenue — not only Swiss-sourced income. Registration must be completed before further taxable supplies are made. The ESTV can impose retroactive assessments with interest and penalties for late registration.
+Registration is compulsory when annual worldwide taxable turnover exceeds CHF 100'000 (Art. 10 MWSTG). This captures turnover from taxable supplies globally — not total revenue, and not just Swiss-sourced revenue. Once the threshold is crossed, registration must be completed before making further taxable supplies. The ESTV can impose retroactive assessments with interest and penalties for late registration.
 
 **7. How does input VAT recovery work in Switzerland?**
 

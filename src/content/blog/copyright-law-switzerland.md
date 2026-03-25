@@ -53,6 +53,16 @@ faqItems:
     answer: "Swiss law, like most jurisdictions, does not currently recognise AI as an author. Copyright requires a human author who exercises creative judgment. Output generated purely by an AI tool — without meaningful human creative input into the specific expression — does not attract copyright protection under the URG."
   - question: "What happens if I commission a logo or website design from a freelancer in Switzerland?"
     answer: "Under Swiss law, copyright in a commissioned design remains with the freelancer (the human creator) unless there is a written assignment. A contract that says \"all work product belongs to the client\" is sufficient if signed before or at the time of creation. Without such a clause, you may own the physical deliverable but not the copyright — meaning you cannot legally stop the freelancer from reusing elements of the design for other clients."
+  - question: "How long does copyright protection last in Switzerland?"
+    answer: "Copyright protection lasts for 70 years after the death of the author for most works. For software and photographic works, the term is 50 years after creation (photographs) or 70 years post mortem auctoris (software as literary work). After expiry, the work enters the public domain and can be freely used by anyone."
+  - question: "Can I transfer copyright to my company in Switzerland?"
+    answer: "Yes. Economic rights (reproduction, distribution, making available) can be transferred by written assignment. Moral rights (right of attribution, right to integrity) cannot be transferred — they remain with the human author permanently. For software created by employees, Art. 17 URG automatically vests economic rights in the employer unless agreed otherwise."
+  - question: "What is the difference between copyright and trademark protection in Switzerland?"
+    answer: "Copyright protects original creative works (texts, designs, software, music) automatically and without registration. Trademark protection covers signs that distinguish goods or services and requires registration with the Swiss Federal Institute of Intellectual Property (IPI). The two can overlap — a logo may be protected by both copyright and trademark law."
+  - question: "Are photographs protected by copyright in Switzerland?"
+    answer: "Yes. Since the 2020 reform, all photographs are protected regardless of whether they have individual character. This reversed the previous requirement that only photographs with artistic originality qualified. Protection lasts 50 years from creation. This means even simple product photos and snapshots now attract copyright protection."
+  - question: "What remedies are available for copyright infringement in Switzerland?"
+    answer: "Civil remedies include injunctions (interim and permanent), damages (actual loss or disgorgement of profits), and destruction of infringing copies. Criminal sanctions apply for wilful infringement and can include fines up to CHF 100,000 or imprisonment. The copyright holder can pursue civil and criminal proceedings simultaneously."
 ---
 
 

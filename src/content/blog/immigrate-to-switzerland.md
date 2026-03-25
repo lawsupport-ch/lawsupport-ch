@@ -17,6 +17,16 @@ faqItems:
     answer: "Not for the permit application itself (your lawyer handles documentation). For long-term residency and naturalisation, German proficiency at B1 or B2 level is required."
   - question: "Is there a Swiss investor visa or golden visa?"
     answer: "No. Switzerland does not offer a golden visa. The closest equivalent is lump-sum taxation for wealthy non-working foreign nationals, which requires genuine Swiss residence."
+  - question: "What is the difference between a B permit and a C permit?"
+    answer: "A B permit is a temporary residence permit, typically valid for one year and renewable. A C permit is a permanent settlement permit, usually granted after 5 or 10 years of continuous residence depending on nationality and treaty arrangements."
+  - question: "How much does the Swiss immigration process cost in legal fees?"
+    answer: "Immigration lawyer fees typically range from CHF 5,000 to 20,000 depending on permit type and complexity. Cantonal permit fees add CHF 1,000 to 3,000. Company formation for entrepreneur permits costs an additional CHF 10,000 to 30,000."
+  - question: "Can I switch from an L permit to a B permit?"
+    answer: "Yes, if you secure an indefinite employment contract or meet the criteria for a different permit category. The transition is not automatic; you must apply through the cantonal migration office before your L permit expires."
+  - question: "Do cantonal authorities have discretion in granting residence permits?"
+    answer: "Yes, cantons have significant discretion for non-EU applicants. Some cantons, particularly Zug and Schwyz, are more receptive to entrepreneur applications, while others may impose stricter economic benefit requirements."
+  - question: "Is family reunification available for all permit types?"
+    answer: "B and C permit holders can apply for family reunification for spouses and children under 18. The application must be filed within 5 years of the main applicant receiving the permit, or within 12 months for children over 12."
 tocItems:
   - id: "euefta-citizens-vs-non-euefta-citizens-the-fundamental-disti"
     title: "EU/EFTA Citizens vs. Non-EU/EFTA Citizens: The Fundamental Distinction"
@@ -69,7 +79,7 @@ The [B permit](/immigration/b-permit-switzerland/) is the standard first-step re
 
 ### C Permit — Settlement Permit
 
-The [C permit](/immigration/c-permit-switzerland/) is the permanent residence permit. It confers near-equivalent rights to Swiss citizenship for daily practical purposes: unrestricted employment rights, no renewal requirement, freedom to change employers or cantons without permission. EU/EFTA nationals from most member states qualify after five years of uninterrupted legal residence. Non-EU nationals from certain treaty countries (notably the United States) qualify after ten years; for most other nationalities, the standard period is also ten years of uninterrupted residence with a clean immigration record. The C permit is the milestone most long-term residents are working toward. It is also a prerequisite for naturalisation on the standard track. See our guide to [Swiss citizenship](/immigration/swiss-citizenship/) for a full discussion of the naturalisation timeline.
+The [C permit](/immigration/c-permit-switzerland/) — formally the Niederlassungsbewilligung (settlement permit) — is the permanent residence permit. It confers near-equivalent rights to Swiss citizenship for daily practical purposes: unrestricted employment rights, no renewal requirement, freedom to change employers or cantons without permission. EU/EFTA nationals from most member states qualify after five years of uninterrupted legal residence. Non-EU nationals from certain treaty countries (notably the United States) qualify after ten years; for most other nationalities, the standard period is also ten years of uninterrupted residence with a clean immigration record. The C permit is the milestone most long-term residents are working toward. It is also a prerequisite for naturalisation on the standard track. See our guide to [Swiss citizenship](/immigration/swiss-citizenship/) for a full discussion of the naturalisation timeline.
 
 ### L Permit — Short-Term Residence Permit
 
@@ -221,7 +231,7 @@ If you are a non-EU national planning to immigrate to Switzerland as an entrepre
 
 6. **Formal application and SEM referral**: Upon cantonal approval in principle, the application is referred to the State Secretariat for Migration for federal sign-off. Allow four to eight weeks at this stage.
 
-7. **Register as a resident**: Once permit approval is received, you must register with the Einwohnerkontrolle (residents' registration office) of your municipality within 14 days of taking up residence.
+7. **Register as a resident**: Once permit approval is received, you must complete the Anmeldung bei der Gemeinde (municipal registration) at the Einwohnerkontrolle of your municipality within 14 days of taking up residence.
 
 8. **Register for AHV, health insurance, and cantonal taxes**: These registrations occur in parallel with or immediately following residency registration.
 
@@ -241,7 +251,7 @@ If you are a non-EU national planning to immigrate to Switzerland as an entrepre
 | **Path to citizenship** | No | Yes (via C permit) | Direct prerequisite | No |
 | **Quota (non-EU)** | ~5'200/year | ~8'500/year | No | Yes (non-EU) |
 | **Self-employment** | No | Yes | Yes | Limited |
-| **Source tax** | Always | Until C permit or CHF 120'000+ | No | Always |
+| **Source tax (Quellensteuer)** | Always | Until C permit or CHF 120'000+ | No | Always |
 | **Right to change employer** | No | Yes, with notification | Full freedom | Yes |
 
 ---

@@ -37,6 +37,16 @@ faqItems:
     answer: "A minimum of seven members is required at the time of formation. After formation, the membership can in theory fall below seven — Swiss law does not automatically dissolve a cooperative that falls below this number after registration — but the articles typically address minimum membership thresholds."
   - question: "Can a foreign national be a member or board member of a Swiss cooperative?"
     answer: "Yes. There is no Swiss nationality or residency requirement for cooperative members. For board members (Verwaltungsrat), Swiss law does not impose a residency requirement for cooperatives, unlike the Swiss resident director rule that applies to AG and GmbH formations."
+  - question: "What are the formation costs for a Swiss cooperative?"
+    answer: "Budget CHF 2,000–4,000 for legal and notarial fees, plus CHF 600 for Commercial Register registration. There is no mandatory minimum capital for a cooperative, though the articles may specify member contributions. The total is lower than an AG (which requires CHF 100,000 share capital) but the requirement for seven founding members adds coordination complexity."
+  - question: "Can a cooperative distribute profits to its members?"
+    answer: "A cooperative cannot pursue profit distribution as its primary purpose. Surpluses may be returned to members through patronage refunds (proportional to each member's usage of the cooperative's services) or through lower prices. If the Swiss tax authority determines that a cooperative functions as a disguised profit-distribution vehicle, standard corporate tax treatment applies."
+  - question: "What governance structure does a Swiss cooperative require?"
+    answer: "A cooperative must have a general assembly (Generalversammlung) as its supreme governing body, where each member has one vote. It must also have a board of directors (Verwaltungsrat) elected by the assembly. Large cooperatives may replace the full member assembly with a delegate assembly (Delegiertenversammlung) as permitted by the articles."
+  - question: "How does a cooperative differ from a Verein (association)?"
+    answer: "Both are member-based entities, but a cooperative is designed for economic activity benefiting members (housing, purchasing, banking), while a Verein is designed for non-economic purposes (sport, culture, charity). A Verein requires only two members versus seven for a cooperative. A Verein has no capital structure; a cooperative can require member contributions."
+  - question: "Can a cooperative be dissolved, and what is the process?"
+    answer: "Yes. Dissolution requires a resolution of the general assembly, followed by a 3-month creditor notice period published in the SHAB. The process mirrors AG/GmbH liquidation: settle all liabilities, obtain tax clearance, distribute remaining assets to members as provided in the articles, and file for deletion from the Commercial Register. Timeline: 6–12 months minimum."
 ---
 
 

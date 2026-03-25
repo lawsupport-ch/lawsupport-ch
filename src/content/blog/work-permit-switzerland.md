@@ -17,6 +17,16 @@ faqItems:
     answer: "No. Registering a GmbH or AG in Switzerland does not automatically confer a work or residence permit. The permit is assessed separately based on qualifying activity and personal circumstances. Non-EU nationals must go through the full self-employment permit assessment."
   - question: "How do I get permanent residence in Switzerland?"
     answer: "EU/EFTA nationals qualify for a C permit after 5 years of continuous lawful residence on a B permit. Non-EU nationals qualify after 10 years, though US and Canadian nationals may qualify after 5 years under bilateral treaties."
+  - question: "Can a Swiss work permit be revoked after it is issued?"
+    answer: "Yes. A work permit can be revoked if the holder no longer meets the qualifying conditions, such as loss of employment without securing a new qualifying basis within a reasonable period. Other grounds include providing false information in the application, criminal convictions, or prolonged dependence on social assistance."
+  - question: "Does a Swiss work permit allow me to work in any canton?"
+    answer: "The B permit is issued by a specific canton but does not restrict employment to that canton alone. However, changing your canton of residence requires notification to the new cantonal migration authority. For non-EU nationals, a change of employer in a different canton may trigger a fresh priority check."
+  - question: "What is the Stellenmeldepflicht and how does it affect work permits?"
+    answer: "The Stellenmeldepflicht (job reporting obligation) requires employers to register vacancies with the RAV before advertising publicly, in occupations where the unemployment rate exceeds a defined threshold. This obligation applies independently of the work permit priority check but creates additional documentation requirements for employers sponsoring non-EU workers."
+  - question: "Are there any Swiss work permits available for students or graduates?"
+    answer: "Students holding a valid student residence permit may work up to 15 hours per week during term and full-time during holidays. Graduates of Swiss universities can apply for a six-month job-seeking permit after graduation. If they secure qualifying employment within that period, they can transition to a standard B permit."
+  - question: "What social insurance obligations apply to Swiss work permit holders?"
+    answer: "All employed persons in Switzerland must contribute to AHV/IV (old-age and disability insurance), ALV (unemployment insurance), and occupational pension (BVG) from their first day of employment. Contributions are split between employer and employee. Mandatory health insurance (KVG) must be arranged within three months of arrival."
 tocItems:
   - id: "euefta-vs-non-euefta-two-entirely-different-systems"
     title: "EU/EFTA vs. Non-EU/EFTA: Two Entirely Different Systems"
@@ -51,7 +61,7 @@ The threshold question in any Swiss work permit analysis is nationality. Switzer
 
 **EU/EFTA nationals** have a qualified right to live and work in Switzerland. They do not compete in a quota. Their employer does not need to demonstrate that a Swiss candidate was unavailable. The administrative process is a registration exercise rather than a discretionary immigration assessment.
 
-**Non-EU/EFTA nationals** — citizens of the United States, the United Kingdom (post-Brexit), India, China, the UAE, Australia, Canada, and all other third countries — enter a fundamentally different legal regime. Switzerland applies the **priority principle (<a href="https://www.seco.admin.ch/seco/en/home.html" target="_blank" rel="nofollow noopener">Inlandervorrang</a>)**: employers must demonstrate that no suitable Swiss or EU/EFTA candidate was available before a [non-EU worker](/immigration/work-permit-non-eu-switzerland/) can be authorised. Numbers are constrained by hard annual federal quotas. Processing involves both cantonal and, often, federal review. The discretion exercised by authorities is real and consequential.
+**Non-EU/EFTA nationals** — citizens of the United States, the United Kingdom (post-Brexit), India, China, the UAE, Australia, Canada, and all other third countries — enter a fundamentally different legal regime. Switzerland applies the **priority principle, formally known as Inländervorrang (<a href="https://www.seco.admin.ch/seco/en/home.html" target="_blank" rel="nofollow noopener">Inlandervorrang</a>)**: employers must demonstrate that no suitable Swiss or EU/EFTA candidate was available before a [non-EU worker](/immigration/work-permit-non-eu-switzerland/) can be authorised. Numbers are constrained by hard annual federal quotas. Processing involves both cantonal and, often, federal review. The discretion exercised by authorities is real and consequential.
 
 Understanding which system applies to you is not a preliminary step — it is the determinative question that shapes every decision that follows.
 
@@ -90,7 +100,7 @@ The [G permit](/immigration/g-permit-switzerland/) (Grenzgangerbewilligung) is i
 
 ## Annual Quotas for Non-EU/EFTA Workers
 
-Switzerland caps the number of new non-EU/EFTA workers admitted each year through a federal quota system set by the <a href="https://www.sem.admin.ch/sem/en/home.html" target="_blank" rel="nofollow noopener">State Secretariat for Migration (SEM)</a>. For 2026, the federal quotas for third-country nationals are approximately:
+Switzerland caps the number of new non-EU/EFTA workers admitted each year through a federal quota system — Kontingente — set by the <a href="https://www.sem.admin.ch/sem/en/home.html" target="_blank" rel="nofollow noopener">State Secretariat for Migration (SEM)</a>. For 2026, the federal quotas for third-country nationals are approximately:
 
 - **~8'500 B permits** (annual residence) for non-EU/EFTA nationals
 - **~5'200 L permits** (short-term residence) for non-EU/EFTA nationals
@@ -125,7 +135,7 @@ For every non-EU/EFTA work permit application, the **sponsoring employer** carri
 
 The employer must fulfil three core obligations before a cantonal application can succeed:
 
-**1. Job advertisement.** The vacant position must be registered with the Regional Employment Centre (RAV/ORP) and advertised publicly. The advertisement period required to satisfy the priority check is typically **ten to twenty working days**, though cantonal practice varies.
+**1. Job advertisement.** The vacant position must be registered with the Regional Employment Centre (RAV/ORP) and advertised publicly. In occupations where the unemployment rate exceeds a defined threshold, the Stellenmeldepflicht (job reporting obligation) requires the employer to notify the RAV before advertising the role elsewhere. The advertisement period required to satisfy the priority check is typically **ten to twenty working days**, though cantonal practice varies.
 
 **2. Priority check (Inlandervorrang).** The employer must document that no suitable Swiss resident candidate — Swiss national, EU/EFTA national, or non-EU national already holding valid Swiss work authorisation — applied for and was capable of filling the role. This is not a formality. Cantonal labour offices scrutinise the recruitment process, the rejection rationale for domestic candidates, and whether the job specification was tailored to exclude suitable local applicants. A poorly documented priority check is a common cause of refusal and delay.
 
@@ -211,7 +221,7 @@ Not for the permit application itself. The employer handles documentation in the
 
 **Can I bring my family when I get a Swiss work permit?**
 
-It depends on your permit type and nationality. EU/EFTA B permit holders can apply for family reunification immediately (though the file is processed after the primary permit is accepted). Non-EU B permit holders must wait three years of continuous residence, and must demonstrate adequate income (CHF 40'000-60'000 net household for a couple) and suitable housing. L permit holders (non-EU) cannot bring family members at all.
+It depends on your permit type and nationality. EU/EFTA B permit holders can apply for family reunification immediately under AFMP derivative rights. Non-EU/EFTA B permit holders can also apply once their permit is granted — there is no mandatory waiting period at federal level (Art. 44 AIG) — but they must demonstrate adequate income (CHF 40'000-60'000 net household for a couple) and suitable housing. Applications should be filed within 12 months of registration. L permit holders (non-EU) generally cannot bring family members.
 
 **How much money do I need to move to Switzerland for work?**
 

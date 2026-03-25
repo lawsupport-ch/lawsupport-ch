@@ -39,6 +39,16 @@ faqItems:
     answer: "Yes. Health insurance is mandatory within three months of arrival. You purchase it individually — employers do not provide group health plans."
   - question: "What gross income do I need to live comfortably?"
     answer: "A professional family of three in Zug needs approximately CHF 200'000–300'000 gross household income for a comfortable lifestyle with housing and international school."
+  - question: "How much is childcare in Switzerland per month?"
+    answer: "Full-day nursery (Krippe) costs CHF 2,000-3,500 per month per child in Zurich and CHF 1,500-2,500 in Zug. Income-related subsidies exist in some cantons but vary widely. Two children in nursery can cost more than a 3-bedroom apartment rental."
+  - question: "What is the GA travelcard and is it worth buying?"
+    answer: "The GA (General Abonnement) costs CHF 3,860 per year for second class and provides unlimited travel on SBB trains, buses, and boats across Switzerland. It is worth buying if you commute daily by train. Most residents use the Halbtax card (CHF 190/year) instead, which gives 50% off all tickets."
+  - question: "How much cheaper is cross-border shopping from Switzerland?"
+    answer: "Shopping in Germany or France near the Swiss border saves 30-50% on groceries compared to Migros or Coop. The savings are largest on meat, dairy, and household goods. Swiss residents are entitled to reclaim German VAT on purchases above EUR 50 when bringing goods back across the border."
+  - question: "What is the rental deposit requirement in Switzerland?"
+    answer: "Swiss landlords require a deposit of three months rent, paid into a blocked bank account (Mietkautionskonto) in the tenant name. The deposit cannot be accessed by the landlord without tenant consent or a court order. Expect to commit CHF 7,500-18,000 upfront depending on the apartment."
+  - question: "How does the Swiss tax system differ between cantons?"
+    answer: "Switzerland has three layers of income tax: federal, cantonal, and communal. The federal rate is uniform, but cantonal and communal rates vary dramatically. Effective combined rates range from 15-18% in Schwyz to 30-35% in Geneva on the same income. For high earners, the annual tax difference between Zug and Zurich can exceed CHF 20,000."
 ---
 
 

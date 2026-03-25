@@ -37,6 +37,16 @@ faqItems:
     answer: "Swiss banking secrecy as it existed prior to 2009 is no longer in effect in the way many clients expect. Switzerland has adopted the OECD Common Reporting Standard (CRS) and participates in the Automatic Exchange of Information (AEOI) with over 100 countries. Swiss accounts are still subject to strong domestic data protection laws, but they do not provide tax secrecy for foreign account holders."
   - question: "Which Swiss bank is best for foreign-owned companies?"
     answer: "Cantonal banks are generally the best starting point for operating companies with genuine Swiss substance. Fintech platforms offer faster onboarding for simpler business profiles. For crypto or blockchain businesses, AMINA Bank (formerly SEBA) and Sygnum are the only credible options."
+  - question: "What documents do Swiss banks require for a corporate account application?"
+    answer: "Swiss banks require a certified Commercial Register extract, passports of all directors and beneficial owners, Form A or Form K identifying the UBO, a business plan describing activities and revenue model, source of funds documentation, expected transaction volumes, and an AML questionnaire. PostFinance is particularly strict on format compliance."
+  - question: "What is Form A in Swiss corporate banking?"
+    answer: "Form A is a mandatory declaration identifying the beneficial owner of a corporate bank account. It must be signed by the account holder and names the natural person who ultimately owns or controls 25% or more of the company. Providing false information on Form A is a criminal offence under Swiss law."
+  - question: "Can a crypto company open a bank account in Switzerland?"
+    answer: "Yes, but options are limited. AMINA Bank (formerly SEBA) and Sygnum are the primary Swiss banks accepting crypto and blockchain companies. Traditional cantonal banks and UBS/PostFinance generally decline crypto-related businesses. Expect enhanced KYC requirements and longer onboarding timelines of 8-12 weeks."
+  - question: "How much does it cost to maintain a Swiss corporate bank account?"
+    answer: "Annual account maintenance fees range from CHF 200-600 for cantonal banks to CHF 0-120 for fintech platforms. Additional costs include payment processing fees (CHF 0.20-1.50 per transaction), SWIFT transfer fees (CHF 20-35 per outgoing transfer), and currency conversion margins of 0.5-1.5% for multi-currency operations."
+  - question: "What is the capital deposit account (Kapitaleinzahlungskonto) and when is it needed?"
+    answer: "The Kapitaleinzahlungskonto is a blocked account required before company formation. Founders deposit the share capital (minimum CHF 20,000 for a GmbH, CHF 50,000 for an AG) into this account. The funds are released to the company only after the Commercial Register confirms the incorporation. Allow 2-6 weeks for account opening."
 ---
 
 
@@ -62,7 +72,7 @@ Swiss banks do not open corporate accounts based on registration documents alone
 
 ### Ultimate Beneficial Owner (UBO) Identification
 
-Every bank will require identification of the ultimate beneficial owner — the natural person who ultimately owns or controls the company. This is captured on **Form A** (for individuals) or **Form K** (for operating companies). If your ownership chain runs through multiple holding companies across multiple jurisdictions, each layer must be documented and explained. Opacity here is the single fastest route to rejection.
+Every bank will require identification of the ultimate beneficial owner — the natural person who ultimately owns or controls the company. This is captured on **Form A** (for individuals) or **Form K** (for operating companies). If your ownership chain runs through multiple holding companies across multiple jurisdictions, each layer must be documented and explained. Opacity here is the single fastest route to rejection. Switzerland does not yet operate a centralised public beneficial ownership register comparable to those introduced in certain EU member states, but the UBO disclosure obligations under AMLA and the banking regulations achieve a functionally equivalent result at the account-opening stage — banks perform the verification themselves based on the documentation you provide.
 
 ### Source of Funds Declaration
 

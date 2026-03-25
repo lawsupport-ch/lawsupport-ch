@@ -37,6 +37,16 @@ faqItems:
     answer: "A spin-off (Abspaltung) transfers part of a company's assets and liabilities to another entity while the original company continues to exist. A division (Aufspaltung) splits the entire company into two or more successor entities and the original company ceases to exist. Both require a demerger plan, board report, auditor review, shareholder approval, and the SHAB creditor call."
   - question: "What is universal succession in Swiss restructuring law?"
     answer: "Universal succession means that when a merger, demerger, conversion, or asset transfer is registered with the Commercial Register, all assets, liabilities, contracts, and employees transfer automatically by operation of law to the successor entity. No individual assignment agreements, novation of contracts, or separate real estate deeds are required. This is the central procedural advantage of the FusG over a conventional asset deal."
+  - question: "How much does a Swiss corporate restructuring cost in legal fees?"
+    answer: "Legal and notarial fees for a standard merger range from CHF 10,000 to CHF 30,000 depending on complexity. A conversion (GmbH to AG) typically costs CHF 5,000-10,000. Simple share transfers and board changes cost CHF 3,000-8,000. These figures exclude auditor fees and Commercial Register charges."
+  - question: "What happens if the five-year holding period for tax neutrality is breached?"
+    answer: "If the acquiring entity sells transferred assets within five years of a tax-neutral restructuring under Art. 61 DBG, all hidden reserves are taxed in full in the year of the breach. This applies retroactively to the entire transferred value, not just the gain on disposal. Document your tax position at the time of restructuring."
+  - question: "Is employee consultation required before a Swiss merger?"
+    answer: "Yes. Swiss law requires employee representatives to be informed and consulted before the merger resolution. Failure to consult does not invalidate the merger, but it can give rise to damages claims under employment law and creates workforce friction at a critical transition point."
+  - question: "What is the difference between a merger by absorption and a merger by combination?"
+    answer: "In a merger by absorption (Fusion durch Absorption), Company A absorbs Company B, and B ceases to exist. In a merger by combination (Fusion durch Kombination), both A and B dissolve, and a new Company C is formed to receive all assets and liabilities. Absorption is far more common in practice because it avoids creating a new entity."
+  - question: "Can a sole proprietorship be converted into a GmbH under the FusG?"
+    answer: "Yes. A sole proprietorship meeting the threshold criteria can convert to a GmbH under Art. 54-68 FusG, benefiting from universal succession. The sole proprietor must meet the GmbH minimum capital requirement of CHF 20,000. The conversion preserves all existing contracts and employment relationships by operation of law."
 ---
 
 

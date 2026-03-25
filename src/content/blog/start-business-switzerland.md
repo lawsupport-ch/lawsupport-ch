@@ -46,6 +46,16 @@ faqItems:
     answer: "CHF 20,000, fully paid up at formation. For a Swiss AG, CHF 100,000 authorised with CHF 50,000 paid up."
   - question: "Can a US citizen open a Swiss company?"
     answer: "Yes, without restriction. Additional FATCA banking compliance may extend the bank account opening timeline."
+  - question: "What are the ongoing annual costs of a Swiss GmbH?"
+    answer: "Expect CHF 3,000-6,000 per year for mandatory bookkeeping and annual accounts, plus CHF 500-1,500 for registered office services. AHV/social insurance contributions add roughly 6.4% of salary costs. Annual cantonal and federal corporate taxes vary by canton but start at an effective rate of approximately 12% in low-tax cantons like Zug."
+  - question: "Which canton is cheapest for company formation?"
+    answer: "Formation costs are similar across cantons at CHF 3,000-5,000 for a standard GmbH. The real difference is in ongoing corporate tax rates: Zug and Appenzell Innerrhoden offer effective rates around 12%, while Geneva and Basel-Stadt exceed 22%. Canton choice should be driven by tax rate, industry cluster, and talent availability."
+  - question: "What mistakes do founders commonly make when forming a Swiss company?"
+    answer: "The most frequent errors are choosing the wrong legal form (AG when a GmbH suffices), underestimating the bank account opening timeline, failing to appoint a Swiss-resident director when required, and neglecting to register for VAT when turnover exceeds CHF 100,000. Each of these can cause weeks of delay."
+  - question: "Do I need a Swiss resident director for a GmbH?"
+    answer: "Yes. At least one managing director (Geschaeftsfuehrer) must be resident in Switzerland. For an AG, at least one board member with individual signatory authority must be Swiss-resident. This requirement cannot be waived."
+  - question: "Is VAT registration mandatory for all Swiss companies?"
+    answer: "VAT registration is mandatory once worldwide turnover exceeds CHF 100,000 per year. Below that threshold, voluntary registration is possible and sometimes advisable — for example, to reclaim input VAT on formation costs and capital expenditure."
 ---
 
 

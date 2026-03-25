@@ -43,6 +43,16 @@ Before 2022, it was possible to pay a surcharge of approximately 60% above stand
     answer: "Zefix (zefix.ch) aggregates all cantonal commercial register data in one searchable portal. Search by company name, UID number, or canton. Results show the current extract and full change history."
   - question: "Are GmbH shareholders publicly visible in Switzerland?"
     answer: "Yes. The quota holders (Gesellschafter) of a GmbH are publicly registered — their names, domiciles, and quota values appear in the extract. This is a material privacy distinction from the AG, where shareholders are not public."
+  - question: "What is the SHAB and why does it matter?"
+    answer: "The SHAB (Schweizerisches Handelsamtsblatt) is Switzerland's official commercial gazette. Every Commercial Register entry is published in the SHAB, and this publication is what gives the entry legal effect against third parties. Creditor notices during liquidation are also published via the SHAB."
+  - question: "How much does it cost to register a GmbH in the Commercial Register?"
+    answer: "Federal and cantonal registration fees combined are typically CHF 600–900 for a GmbH. Filing subsequent changes (director changes, address changes, capital increases) costs CHF 100–300 per change depending on the canton and the nature of the modification."
+  - question: "Can I file changes to the Commercial Register online?"
+    answer: "Most cantonal offices now accept online submissions for certain types of changes, but the initial incorporation and many modifications still require notarially authenticated documents. Zurich and Zug offer partial online filing for extract requests and simple changes."
+  - question: "What is the deadline for filing director changes with the register?"
+    answer: "Swiss law requires that changes be filed promptly — within a reasonable time after the board or shareholder resolution. Best practice is to file within days of the resolution. Waiting beyond three months creates legal risk, as third parties can rely on the outdated register entry."
+  - question: "Does the Commercial Register show a company's financial statements?"
+    answer: "No. Unlike some EU jurisdictions, Swiss law does not require companies to file annual accounts with the Commercial Register. Financial statements remain internal documents unless the company is publicly listed or subject to specific disclosure obligations under financial market law."
 ---
 
 

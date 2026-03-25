@@ -37,6 +37,16 @@ faqItems:
     answer: "Zug combines four things that matter uniquely to crypto projects: a clear regulatory framework (DLT Act, FINMA guidance, VASP registration pathway), a tax-efficient environment including the IP Box and participation exemption, an advance ruling practice at the cantonal tax authority with specific competency in crypto questions, and the Crypto Valley ecosystem — the densest concentration of blockchain talent, investors, foundations, and infrastructure providers outside of a handful of global tech cities. No other jurisdiction offers all four at the same level."
   - question: "What is the minimum share capital to form a GmbH in Zug?"
     answer: "The minimum share capital for a GmbH in Zug is CHF 20,000, which must be fully paid in at the time of formation. For an AG, the minimum is CHF 100,000, of which at least CHF 50,000 must be paid in at formation."
+  - question: "Can I get an advance tax ruling from the Zug tax authority?"
+    answer: "Yes. The Zug cantonal tax authority (Steuerverwaltung) has a well-established advance ruling practice. Rulings on holding company status, IP box eligibility, and crypto-related tax treatment are routinely issued within 4–8 weeks. A ruling provides binding certainty on the tax treatment of specific transactions before they are executed."
+  - question: "What are the personal income tax rates for someone living in Zug?"
+    answer: "Zug has Switzerland's lowest personal income tax rates. The combined effective rate (federal, cantonal, communal) for a single person earning CHF 200,000 is approximately 10–12% in the city of Zug. For comparison, the same income in Zurich city attracts a rate of approximately 17–19%."
+  - question: "Does Zug offer the IP Box regime?"
+    answer: "Yes. Zug applies the federal IP Box regime, which allows a reduction of up to 90% on qualifying income from patents and comparable rights. Combined with Zug's already low cantonal rate, the effective tax on qualifying IP income can fall below 2%. A binding advance ruling is recommended before relying on IP Box treatment."
+  - question: "How do Zug notary fees compare to other cantons?"
+    answer: "Zug notary fees for a standard GmbH formation range from CHF 1,000–1,500; for an AG, CHF 1,500–2,500. These are comparable to Zurich and slightly lower than Geneva. The notary fee is a one-time cost at incorporation and does not vary significantly between cantons for standard formations."
+  - question: "Is Zug suitable for a company with employees, or only for holding structures?"
+    answer: "Zug is suitable for both. While it is best known for holding companies and international trading firms, Zug also hosts operational companies with full teams. Office space is available at CHF 350–500 per square metre per year, and the canton's transport connections (25 minutes to Zurich by train) make talent recruitment from the wider region practical."
 ---
 
 

@@ -17,6 +17,16 @@ faqItems:
     answer: "Yes. Swiss trademarks can be assigned (transferred in full) or licensed (exclusively or non-exclusively) by written agreement. Assignments and exclusive licences should be recorded in the IGE register to be enforceable against third parties. A trademark can also be pledged as security for financing arrangements."
   - question: "How much does trademark registration in Switzerland cost?"
     answer: "The IGE application fee is CHF 550 for the first Nice class, plus CHF 100 for each additional class. A mark filed in three classes costs CHF 750 at application. Professional service fees for drafting, filing, and prosecution typically bring total first-year costs to CHF 1'500-3,000 depending on complexity and the number of classes involved."
+  - question: "Can I register a trademark in Switzerland in a language other than the official languages?"
+    answer: "Yes. The IGE accepts trademarks in any language, including English. The examination considers distinctiveness and descriptiveness in relation to the relevant Swiss public. An English-language mark may still be refused if the relevant Swiss consumers understand it as descriptive of the goods or services."
+  - question: "How long does a Swiss trademark opposition proceeding take?"
+    answer: "A standard opposition proceeding before the IGE typically takes 12 to 18 months from filing to decision. If the parties reach a settlement or the opponent withdraws, the matter concludes earlier. There is no oral hearing — proceedings are entirely written."
+  - question: "What is the Nice Classification and how many classes should I file in?"
+    answer: "The Nice Classification divides all goods and services into 45 classes (34 goods, 11 services). File in every class where you currently offer or genuinely intend to offer goods or services within the next five years. Over-filing creates vulnerability to non-use cancellation actions."
+  - question: "Can a Swiss trademark registration be cancelled for non-use?"
+    answer: "Yes. Under Art. 12 MSchG, a trademark that has not been genuinely used in Switzerland for an uninterrupted five-year period is vulnerable to cancellation. Any third party may file a non-use cancellation request with the Federal Administrative Court."
+  - question: "What is the Madrid Protocol and how does it relate to Swiss trademarks?"
+    answer: "The Madrid Protocol allows a Swiss trademark owner to extend protection to over 130 member countries through a single international application filed via the IGE with WIPO. The Swiss base registration serves as the foundation for the international registration during the first five years."
 tocItems:
   - id: "legal-framework"
     title: "Legal Framework"
@@ -144,7 +154,7 @@ Any owner of an earlier registered Swiss trademark (or an internationally regist
 
 ### 7. Registration and Certificate
 
-If no opposition is filed, or if all oppositions are dismissed, the IGE records the mark in the register and issues a registration certificate. The registration is backdated to the **filing date**, which is commercially important for priority purposes.
+If no opposition is filed, or if all oppositions are dismissed, the IGE records the mark in the register and issues a registration certificate. The registration is backdated to the **filing date**, which is commercially important for priority purposes. Applicants who have filed the same mark in another Paris Convention member state within the preceding six months can claim a Paris Convention priority right, securing the earlier foreign filing date for the Swiss application — a significant advantage when racing against potential conflicting filings.
 
 <!-- VIDEO: Step-by-step walkthrough of the Swiss trademark registration process from search to certificate -->
 

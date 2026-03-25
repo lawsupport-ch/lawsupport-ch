@@ -32,6 +32,16 @@ faqItems:
     answer: "Yes. No nationality or residency restrictions. Foreign nationals can serve as committee members."
   - question: "Does a Verein need Commercial Register registration?"
     answer: "Only if it conducts commercial activities. Non-commercial associations can operate without registration."
+  - question: "How much does it cost to form a Swiss Verein?"
+    answer: "A Verein can be formed for near zero cost — no notarisation or share capital is required. The founding meeting and written statutes are sufficient. If Commercial Register entry is needed, expect CHF 400-600 in registration fees."
+  - question: "Can a Swiss Verein own property or employ staff?"
+    answer: "Yes to both. A Verein is a legal entity and can own real estate, enter contracts, and employ staff. It must comply with all standard employment and social insurance obligations including AHV, BVG, and accident insurance."
+  - question: "What are the tax obligations of a Swiss Verein?"
+    answer: "A Verein is subject to ordinary corporate tax on any surplus. If it qualifies for tax-exempt status (charitable or public benefit purpose under Art. 56 DBG), it can apply for exemption from the cantonal tax authority. The application process typically takes 2-4 months."
+  - question: "Can a Verein be converted into a GmbH later?"
+    answer: "There is no direct legal conversion mechanism. You would need to form a new GmbH and transfer assets, contracts, and memberships individually. This process requires careful planning to avoid tax consequences on asset transfers."
+  - question: "What reporting obligations does a Swiss Verein have?"
+    answer: "A Verein must hold an annual general meeting and prepare annual accounts. If registered in the Commercial Register or if turnover exceeds CHF 500,000, it must comply with the same accounting standards as commercial enterprises under the Swiss Code of Obligations."
 ---
 
 

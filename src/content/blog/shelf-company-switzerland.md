@@ -34,10 +34,20 @@ faqItems:
     answer: "Lawsupport maintains inventory in Zug. For other cantons, availability depends on current stock."
   - question: "What taxes apply when buying a shelf company?"
     answer: "Securities transfer stamp may apply if a Swiss securities dealer is involved. Direct private share transfers typically do not attract stamp duty."
+  - question: "Can I change the canton of a shelf company after purchase?"
+    answer: "Yes. Redomiciliation between cantons requires amending the articles of association, shareholder approval, and filing with both the departing and receiving Commercial Registers. The process takes 2-4 weeks and costs approximately CHF 3'500 in notarial, legal, and register fees."
+  - question: "What due diligence is essential before buying a shelf company?"
+    answer: "At minimum: a ZEFIX extract confirming Commercial Register history, tax clearance from the cantonal tax authority, a debt enforcement register extract (Betreibungsregisterauszug), confirmation of no pending legal proceedings, and verification that no employees have been registered under the company. Skip any of these and you risk inheriting hidden liabilities."
+  - question: "How does the 2025 two-stage filing rule affect shelf company acquisitions?"
+    answer: "Since 2025, changes to a shelf company must be filed in two stages: first the company name and board composition, then the business activity and purpose clause. This adds approximately CHF 1'700 in notary and register fees and extends the timeline by 1-2 weeks compared to the previous single-filing process."
+  - question: "Is a shelf company suitable for obtaining a FINMA licence?"
+    answer: "A shelf company can serve as the legal vehicle for a FINMA licence application, but FINMA assesses substance independently. The entity must demonstrate qualified management, adequate capitalisation, and proper organisational structure. The shelf company's age or registration history carries no weight in FINMA's assessment."
+  - question: "What is the oldest shelf company typically available?"
+    answer: "Lawsupport's inventory includes entities dating back to the 1930s. A 1933 vintage AG, for example, is priced at CHF 47'500. Older entities command higher prices because registration dates cannot be manufactured — they represent genuine decades of unbroken Commercial Register history."
 ---
 
 
-A shelf company — also called a ready-made company or dormant company — is a company that was formed, registered, and kept inactive, "on the shelf," waiting for a buyer. In Switzerland, shelf companies can compress the company activation timeline from 4-6 weeks to as little as 3-5 business days. Here is when they make sense and when they do not.
+A shelf company — also called a ready-made company, dormant company, or Mantelgesellschaft (the acquisition process itself is known in Swiss legal practice as Mantelkauf) — is a company that was formed, registered, and kept inactive, "on the shelf," waiting for a buyer. In Switzerland, shelf companies can compress the company activation timeline from 4-6 weeks to as little as 3-5 business days. Here is when they make sense and when they do not.
 
 ---
 
@@ -83,7 +93,7 @@ Certain filings with Swiss regulatory bodies, FINMA included, require an applica
 
 ## When a Fresh Formation Is the Better Choice
 
-For many clients, a fresh [company formation in Switzerland](/company-formation/company-formation-switzerland/) will be more appropriate than acquiring a shelf company. Here is when that is the case.
+Unlike a Sukzessivgründung (successive formation), where a company is incorporated in stages over time, a shelf company acquisition delivers a fully formed entity immediately. For many clients, however, a fresh [company formation in Switzerland](/company-formation/company-formation-switzerland/) will be more appropriate than acquiring a shelf company. Here is when that is the case.
 
 **Custom share structure.** If you require a specific share class arrangement, preferred shares, or a non-standard capital structure, you will not find that in a shelf company's existing articles. Amending a shelf company's structure post-acquisition is possible but adds cost and notarial time, often negating the speed advantage.
 
@@ -147,7 +157,7 @@ On top of the company purchase price, the standard package adds:
 
 For comparison, a fresh GmbH formation in Zug costs CHF 1'900 for registration alone, or approximately CHF 12'000 as a full package with address, nominee director, and accounting included — before share capital.
 
-The premium paid for a shelf company is a premium for two things: speed and the existing registration date. A company incorporated in 1986, for example, carries ninety years of unbroken register history — a signal of stability that cannot be manufactured. Whether that signal is worth CHF 47'500 depends entirely on your counterparties and your market positioning.
+The premium paid for a shelf company is a premium for two things: speed and the existing registration date. A company incorporated in 1986, for example, carries forty years of unbroken register history — a signal of stability that cannot be manufactured. Whether that signal is worth CHF 47'500 depends entirely on your counterparties and your market positioning.
 
 ### 2025 Regulatory Changes
 
@@ -175,7 +185,7 @@ This case illustrates the two scenarios where shelf companies justify their prem
 
 ## Important Checks Before Buying a Swiss Shelf Company
 
-Whether you are acquiring a shelf company through Lawsupport or independently, the following due diligence items are non-negotiable.
+Whether you are acquiring a shelf company through Lawsupport or independently, the following due diligence checklist for shelf companies is non-negotiable.
 
 **ZEFIX extract.** The federal commercial register database (<a href="https://www.zefix.ch/" target="_blank" rel="nofollow noopener">zefix.ch</a>) provides the full registration history of any Swiss company. Review it for any historical entries, cancellations, or encumbrances that may not be immediately visible.
 

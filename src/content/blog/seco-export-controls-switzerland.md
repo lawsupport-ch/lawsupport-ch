@@ -34,6 +34,16 @@ faqItems:
     answer: "Yes. SECO can revoke or suspend a permit if circumstances change, such as new sanctions affecting the destination country."
   - question: "How often should businesses screen the SECO sanctions list?"
     answer: "Daily or continuously for financial institutions; at minimum before any new transaction for other businesses."
+  - question: "What is the processing time for a SECO export permit?"
+    answer: "Standard dual-use export permit applications take 2-6 weeks. Sensitive destinations or complex end-use scenarios can extend processing to 8-12 weeks. Applications for war materiel licences under the KMG typically take longer due to multi-department coordination between SECO, EDA, and VBS."
+  - question: "What are the costs of a SECO export permit?"
+    answer: "SECO export permit fees range from CHF 100 to CHF 2'000 depending on the type and value of goods. The greater cost is typically the internal compliance effort: establishing classification procedures, preparing end-user certificates, and maintaining records for the mandatory 10-year retention period."
+  - question: "Does Switzerland participate in the Wassenaar Arrangement?"
+    answer: "Yes. Switzerland is a participating state in the Wassenaar Arrangement on Export Controls for Conventional Arms and Dual-Use Goods and Technologies. Swiss dual-use control lists are aligned with Wassenaar categories and updated regularly to reflect changes agreed at the plenary level."
+  - question: "What should a company do if it receives a suspicious end-use enquiry?"
+    answer: "The company must not proceed with the transaction. Under the catch-all clause, if the exporter knows or has reason to suspect goods will be used for WMD purposes, a SECO permit is required regardless of whether the goods are listed. The company should contact SECO immediately and document all communications with the prospective buyer."
+  - question: "Are there penalties for failing to maintain an Internal Compliance Programme?"
+    answer: "An ICP is not legally mandatory, so there is no direct penalty for not having one. However, companies without an ICP face slower SECO processing times, higher audit scrutiny, and greater exposure to inadvertent violations. If a violation occurs, the absence of an ICP is treated as an aggravating factor in enforcement proceedings."
 ---
 
 
