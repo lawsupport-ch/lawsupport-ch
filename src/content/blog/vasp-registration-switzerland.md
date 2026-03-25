@@ -231,6 +231,22 @@ What most applicants do not anticipate is what happens after VQF acceptance. Thr
 
 ---
 
+## VQF vs PolyReg vs Direct FINMA: Choosing Your VASP Registration Path
+
+| Criterion | VQF | PolyReg | Direct FINMA |
+|---|---|---|---|
+| Application timeline | 3-6 months | 2-4 months | 12-18 months |
+| Total first-year cost (CHF) | 25,000-40,000 | 20,000-35,000 | 80,000-130,000 |
+| Crypto expertise | Dedicated VASP track | Blockchain-native | Case-by-case |
+| Bank account opening | Materially easier | Recognised but smaller network | Strongest credential |
+| Partner contract requirements | Standard AGB accepted | May require bilateral contracts | N/A |
+| Post-approval audit | 3 months after grant | 3 months after grant | Ongoing FINMA supervision |
+| Best suited for | Most VASPs | Pure crypto/DeFi businesses | VASPs above CHF 100M deposits |
+
+The choice has downstream consequences. PayDeal Solutions AG chose PolyReg and faced a deadlock when PolyReg required a bilateral signed contract with Binance, but Binance only offers standard Terms of Service. The argument that AGB constitutes a functional equivalent remains unresolved. VQF does not impose this requirement.
+
+---
+
 ## How Lawsupport Supports Your VASP Registration
 
 Lawsupport (Morgan Hartley Consulting) manages the full VASP registration process for clients. We do not hand clients a template and step back — we act as a practitioner partner through every stage.

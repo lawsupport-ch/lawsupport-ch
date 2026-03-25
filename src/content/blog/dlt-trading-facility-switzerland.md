@@ -206,6 +206,53 @@ The CHF 10 million minimum own funds requirement (CHF 5 million for limited-scop
 
 ---
 
+### Real-World Friction: What DLT Trading Facility Applicants Encounter
+
+The DLT Trading Facility licence is among the most demanding in Swiss financial regulation. Several practical friction points are worth understanding before committing resources:
+
+**Operating rules approval as a timeline killer.** FINMA does not rubber-stamp operating rules. The review is substantive — covering participant admission criteria, trading rules, settlement procedures, and default management. In practice, the operating rules review adds 3–6 months to the application timeline. Applicants who submit draft rules that do not address retail investor protection, DLT-specific settlement finality, or smart contract risk find themselves in multiple revision rounds.
+
+**The qualified personnel problem.** A DLT Trading Facility must employ staff who understand both traditional financial market infrastructure regulation and distributed ledger technology. This combination is rare. The same challenge applies to the board: FINMA expects at least some directors with market infrastructure experience (exchange operations, clearing, settlement). Assembling a board and management team that satisfies FINMA while also understanding DLT architecture is one of the hardest practical steps in the process.
+
+**Audit costs after licensing.** The vertical integration that makes the DLT Trading Facility attractive — combining trading, clearing, settlement, and custody — also means that audit costs are higher than for a single-function licence. The FINMA-approved auditor must assess compliance across all four functions annually. Budget CHF 100,000–250,000 per year for the regulatory audit alone.
+
+**A cautionary comparison from the SRO world.** While the DLT Trading Facility operates at a different scale, the same principle applies: regulatory approval is the beginning, not the end. A blockchain startup that spent CHF 38,000 on SRO application assistance abandoned the process after changing its business model mid-application. At the DLT Trading Facility level, where preparation costs reach CHF 200,000–500,000, a business model pivot during the application process would be catastrophic. Finalise your business model, operating rules, and asset class scope before engaging FINMA.
+
+### Do You Need a DLT Trading Facility Licence?
+
+Not every tokenisation platform requires this licence. Use this decision framework:
+
+**Step 1: Does your platform enable multilateral trading (matching buyers and sellers)?**
+- No → You are not operating a trading facility. A securities firm licence or SRO membership may be sufficient.
+- Yes → Continue to Step 2.
+
+**Step 2: Are the assets traded DLT securities (Registerwertrechte under Art. 973d OR)?**
+- No → Bitcoin, Ether, and utility tokens are not DLT securities. A crypto exchange licence (FinTech or banking) is the correct path. See our [crypto exchange licence guide](/licensing/crypto-exchange-license-switzerland/).
+- Yes → Continue to Step 3.
+
+**Step 3: Do you intend to also provide clearing, settlement, and custody?**
+- Yes → Full DLT Trading Facility licence required (CHF 10M capital, 12–18 months).
+- No (trading only) → You may still need a DLT Trading Facility licence for the trading function, but the scope — and potentially the capital requirement — is narrower. Discuss the limited-scope option (CHF 5M capital) with FINMA.
+
+**Step 4: Will you admit retail participants directly?**
+- Yes → Enhanced conduct-of-business obligations in your operating rules. FINMA will scrutinise retail investor protection measures closely.
+- No (professional participants only) → Lighter conduct requirements, but the licence itself is still required.
+
+### DLT Trading Facility vs SRO Membership vs FinTech Licence: Cost Comparison
+
+| Criterion | SRO Membership | FinTech Licence | DLT Trading Facility |
+|---|---|---|---|
+| Minimum capital | None (SRO fees only) | CHF 300,000 | CHF 5,000,000–10,000,000 |
+| Total first-year cost (CHF) | 25,000–55,000 | 80,000–130,000 | 500,000–1,500,000 |
+| Application timeline | 3–6 months | 6–12 months | 12–18 months |
+| Regulator | SRO (VQF/PolyReg) | FINMA | FINMA |
+| Can trade tokenised securities | No | No | Yes |
+| Can admit retail investors | N/A | N/A | Yes |
+| Ongoing annual costs (CHF) | 8,000–18,000 | 20,000–50,000 | 200,000–500,000 |
+| Best suited for | Crypto brokers, payment processors | Crypto custody, exchanges below CHF 100M | Tokenised securities trading platforms |
+
+---
+
 ## How This Compares to Other Swiss Licences
 
 Operators in the digital asset space often ask how the DLT Trading Facility relates to adjacent licence categories:

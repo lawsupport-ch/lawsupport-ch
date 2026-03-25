@@ -222,6 +222,27 @@ For companies asking whether they need to register in Switzerland specifically, 
 
 ---
 
+### VQF vs PolyReg: Choosing the Right SRO
+
+For crypto and fintech businesses taking the SRO membership path, the choice between VQF and PolyReg is not purely administrative:
+
+| Criterion | VQF | PolyReg |
+|---|---|---|
+| Members | 1,000+ | Smaller, specialist |
+| Crypto expertise | Dedicated crypto/VASP track | Blockchain-native focus |
+| Application timeline | 3-6 months | 2-4 months |
+| Total cost including legal (CHF) | 25,000-40,000 | 20,000-35,000 |
+| Bank account support | Strongest credential | Narrower banking network |
+| Partner contract requirements | Standard AGB accepted | May require bilateral contracts |
+
+**A case that illustrates the difference:** PayDeal Solutions AG chose PolyReg and intended to integrate Binance Pay. PolyReg required a bilateral signed contract with Binance, but Binance only offers standard Terms of Service. The argument that AGB constitutes a functional equivalent is still being debated. If your business model depends on partnerships with platforms that do not sign bespoke contracts, VQF avoids this friction.
+
+### The Failed SRO Application: A Cautionary Case
+
+A blockchain startup engaged legal counsel for VQF membership with a CHF 10,000 initial retainer. During the application process, the founders changed their business model, pivoting from a simple exchange to a DeFi-adjacent product. This forced a complete restart of the compliance analysis. Total billed work reached CHF 38,321 across 36+ hours of legal time. The client abandoned the application, receiving only a CHF 5,000 partial refund. The lesson: the SRO assesses the business model as presented. Changing the model during the process is not an iteration, it is a restart.
+
+---
+
 ## Fund Management and Collective Investment Schemes
 
 

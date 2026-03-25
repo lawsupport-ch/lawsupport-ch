@@ -323,6 +323,43 @@ Both institutions operate under standard BankG requirements while offering digit
 
 ---
 
+## Do You Need a Banking Licence? A Decision Framework
+
+Most applicants who approach us believing they need a banking licence are better served by a lighter regulatory path. This decision framework saves months and hundreds of thousands of CHF:
+
+**Step 1: Do you accept deposits from the public?**
+- No: You do not need a banking licence. Consider SRO membership (CHF 25,000-40,000) or a FinIA licence if you manage assets.
+- Yes: Continue to Step 2.
+
+**Step 2: Will total deposits exceed CHF 100 million?**
+- No: The FinTech licence (Art. 1b BankG) is almost certainly the correct path. CHF 300,000 capital vs CHF 10M+, 6-12 months vs 12-24 months.
+- Yes: Continue to Step 3.
+
+**Step 3: Do you invest client deposits or pay interest on them?**
+- No (even above CHF 100M): Discuss with FINMA whether a modified FinTech structure is possible, or proceed with a full banking licence.
+- Yes: Full banking licence is required. Budget CHF 20M+ in capital, 12-24 months, and CHF 1-2M in first-year operational costs before processing a single transaction.
+
+**Step 4: Have you considered acquiring a licensed entity?**
+- A turnkey licensed financial intermediary with SRO membership costs approximately CHF 480,000. A licensed banking entity costs significantly more but eliminates the 12-24 month application timeline.
+
+### VQF vs PolyReg vs Direct FINMA: The Three Regulatory Tiers
+
+| Criterion | SRO Membership (VQF/PolyReg) | FinTech Licence | Banking Licence |
+|---|---|---|---|
+| Capital required | None (SRO fees only) | CHF 300,000 | CHF 10,000,000+ |
+| Total first-year cost (CHF) | 25,000-55,000 | 80,000-130,000 | 2,000,000-5,000,000 |
+| Timeline | 3-6 months | 6-12 months | 12-24 months |
+| Can accept deposits | No | Up to CHF 100M | Unlimited |
+| Can lend | No | No | Yes |
+| Ongoing annual cost (CHF) | 8,000-18,000 | 20,000-50,000 | 500,000-2,000,000+ |
+| Employees required before launch | 1-3 | 3-5 | 10-30+ |
+
+### The Hidden Cost: Staff Before Revenue
+
+The detail that surprises banking licence applicants most: FINMA requires a full complement of employees on payroll before granting the unconditional licence. Compliance officers, risk managers, internal auditors, IT security staff, and front-office personnel must all be hired and contracted. This means CHF 1-2 million per year in payroll commitments before the bank processes its first transaction. A FinTech licence, by contrast, can launch with a team of three to five.
+
+---
+
 ## Request a Free Assessment
 
 A Swiss banking licence is achievable — but only with the right preparation and precise execution. The difference between a 12-month and a 24-month application is almost always the quality of preparation at the outset.

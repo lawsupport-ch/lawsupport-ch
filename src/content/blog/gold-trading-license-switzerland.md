@@ -202,6 +202,32 @@ If your gold business involves managing client assets or trading derivatives, a 
 
 ---
 
+## Do You Need a FINMA Licence or SRO Membership for Gold Trading?
+
+| Your Activity | Required Authorisation | Estimated Cost (CHF) | Timeline |
+|---|---|---|---|
+| Physical gold spot trading | SRO membership (VQF or OAR-G) | 25,000-40,000 | 3-6 months |
+| Gold storage/vaulting only | SRO membership | 15,000-25,000 | 2-4 months |
+| Managed gold portfolios (discretionary) | FinIA asset manager licence | 30,000-75,000 + CHF 100K capital | 6-18 months |
+| Gold-backed token issuance | SRO + potential securities obligations | 50,000-150,000 | 3-12 months |
+| Gold derivatives trading for clients | FinIA securities firm licence | 100,000+ + CHF 1.5M capital | 12-18 months |
+| Gold fund management | CISA fund management licence | 150,000+ + CHF 1M capital | 12-18 months |
+
+### VQF vs OAR-G for Gold Dealers
+
+| Criterion | VQF | OAR-G |
+|---|---|---|
+| Focus | Broad: fintech, crypto, forex, gold | Precious metals and gems specifically |
+| Members | 1,000+ | Smaller, sector-specific |
+| Application timeline | 3-6 months | 2-4 months |
+| Cost (CHF) | 25,000-40,000 | 15,000-25,000 |
+| Best suited for | Gold + crypto combined businesses | Pure physical gold trading |
+| Bank account support | Strongest credential | Good within precious metals sector |
+
+For businesses combining gold trading with cryptocurrency activities, VQF is the standard choice because it covers both activities under a single SRO membership. OAR-G is more appropriate for pure physical gold dealers without crypto exposure.
+
+---
+
 ## Request a Free Assessment
 
 Lawsupport (Morgan Hartley Consulting) advises Swiss gold trading businesses on AML compliance, SRO membership, corporate structure, and banking. We have structured financial intermediary businesses in Switzerland for clients from over 40 countries.

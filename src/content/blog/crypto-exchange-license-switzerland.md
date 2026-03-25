@@ -131,6 +131,28 @@ Two operational details from this case that are rarely discussed publicly:
 
 **KYB (Know Your Business) process.** Before Binance or any major exchange will onboard a Swiss entity as a partner, the Swiss company must complete a KYB process that is separate from and in addition to the VQF compliance requirements. KYB involves disclosure of the full corporate structure, beneficial ownership, source of funds, business model documentation, and often a technical security audit. The KYB process typically takes 4–8 weeks and may require multiple rounds of documentation. VQF membership significantly strengthens the KYB application.
 
+### VQF vs PolyReg vs Direct FINMA: Choosing Your Regulatory Path
+
+The choice of SRO — or whether to skip SROs entirely and apply directly to FINMA — has consequences that extend far beyond the application fee.
+
+| Criterion | VQF | PolyReg | Direct FINMA |
+|---|---|---|---|
+| Application timeline | 3–6 months | 2–4 months | 12–18 months |
+| Total first-year cost (CHF) | 25,000–40,000 | 20,000–35,000 | 80,000–130,000 |
+| Crypto expertise | Strong — dedicated crypto track | Strong — blockchain-native | Case-by-case |
+| Bank account opening | Materially easier | Recognised but smaller network | Strongest credential |
+| Contractual requirements | Standard AGB accepted | May require bilateral contracts with partners | N/A |
+| Post-approval audit | 3 months after grant | 3 months after grant | Ongoing FINMA supervision |
+| Best suited for | Most crypto exchanges | Pure crypto/DeFi businesses | Exchanges above CHF 100M deposits |
+
+**The PolyReg bilateral contract problem.** One payment company (PayDeal Solutions AG) chose PolyReg and intended to integrate Binance Pay. PolyReg required a bilateral signed contract with Binance as a compliance condition. Binance only offers standard Terms of Service (AGB) — no bespoke bilateral contracts. The legal argument that AGB constitutes a functional equivalent of a bilateral agreement remains unresolved. If your exchange depends on partnerships with platforms that do not sign bespoke contracts, VQF is the safer choice.
+
+### Why 40% of SRO Applications Run Over Budget
+
+The headline retainer for SRO application assistance is CHF 10,000. In practice, this covers document preparation and initial submission — nothing more. VQF raises supplementary questions in virtually every application. Each round of questions requires additional legal work. A blockchain startup spent CHF 38,321 on its SRO application before discovering that a mid-process business model change invalidated all prior compliance analysis. Only CHF 5,000 was refunded. The full regulatory retainer for a crypto exchange — covering programme design, committee responses, and revisions — runs CHF 25,000 to CHF 40,000.
+
+**The three-month audit trap.** Three months after SRO membership is granted, VQF conducts a mandatory compliance audit. If the appointed AML officer or responsible director cannot demonstrate competence — cannot walk through KYC procedures, transaction monitoring methodology, and suspicious activity reporting protocols — the membership is revoked. Not suspended. Revoked. Finding qualified AML officers willing to serve crypto startups is genuinely difficult. Budget for this hire before you apply, not after.
+
 **AML requirements for crypto exchanges under FATF/AMLA:**
 - Customer due diligence (CDD) for all clients
 - Enhanced due diligence (EDD) for high-risk clients
@@ -151,6 +173,33 @@ FINMA strictly enforces the FATF Travel Rule for crypto transactions:
 - **Unhosted wallets:** Transfers to/from unhosted wallets above CHF 1,000 require proof that the client controls the wallet (signed message or small test transaction)
 
 Travel Rule compliance requires implementing a protocol such as TRUST, OpenVASP, or TRP. Most Swiss crypto exchanges use third-party compliance software (Notabene, Chainalysis). The <a href="https://www.finma.ch/en/documentation/finma-circulars/" target="_blank" rel="nofollow noopener">FINMA Circular 2019/3</a> sets out the full requirements.
+
+---
+
+## Do You Need a FINMA Licence for Your Crypto Exchange?
+
+Before engaging lawyers or filing applications, map your business model against this decision framework:
+
+**Step 1: Do you hold client assets (fiat or crypto)?**
+- No → You may still need SRO membership if you facilitate exchanges between clients. Get a business model assessment.
+- Yes → Continue to Step 2.
+
+**Step 2: Will total client deposits exceed CHF 100 million?**
+- Yes → Full banking licence required (CHF 10M+ capital, 12–24 months).
+- No → Continue to Step 3.
+
+**Step 3: Do you invest client deposits or pay interest on them?**
+- Yes → Full banking licence required.
+- No → FinTech licence is the correct path (CHF 300,000 capital, 9–15 months).
+
+**Step 4: Are you trading tokenised securities (not just Bitcoin/Ether)?**
+- Yes → Securities firm licence or DLT Trading Facility licence may also be required.
+- No → FinTech licence covers your exchange activity.
+
+**Step 5: Regardless of the above — do you conduct financial intermediation?**
+- Yes → SRO membership (VQF or PolyReg) is mandatory for AML compliance, even alongside a FINMA licence.
+
+Most new crypto exchanges land on the FinTech licence + VQF membership combination. The full banking licence is reserved for exchanges processing volumes above CHF 100 million in client deposits — the SEBA/AMINA model.
 
 ---
 

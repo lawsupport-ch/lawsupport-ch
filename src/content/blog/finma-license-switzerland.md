@@ -191,6 +191,52 @@ The lesson: do not start the SRO application until your business model is final.
 
 ---
 
+## Do You Need a FINMA Licence? A Decision Framework
+
+Before investing months and tens of thousands of CHF in an application, map your business model against this framework:
+
+**Step 1: Do you accept deposits from the public?**
+- No → You likely do not need a FINMA licence. SRO membership under AMLA may be sufficient. See our [SRO membership guide](/licensing/sro-membership-switzerland/).
+- Yes → Continue to Step 2.
+
+**Step 2: Will deposits exceed CHF 100 million?**
+- Yes → Full banking licence required (CHF 10M+ capital, 12–24 months).
+- No → Continue to Step 3.
+
+**Step 3: Do you invest deposits or pay interest on them?**
+- Yes → Full banking licence required.
+- No → FinTech licence (Art. 1b BankG) is the correct path (CHF 300,000 capital, 6–12 months).
+
+**Step 4: Do you manage third-party assets on a discretionary basis?**
+- Yes → FinIA asset manager licence required. See our [asset management licence guide](/licensing/asset-management-license-switzerland/).
+- No → Continue to Step 5.
+
+**Step 5: Do you trade securities, underwrite, or operate a trading venue?**
+- Yes → Securities firm licence or DLT Trading Facility licence under FinIA/FMIA.
+- No → Continue to Step 6.
+
+**Step 6: Do you conduct any financial intermediation (currency exchange, payment services, crypto services)?**
+- Yes → SRO membership under AMLA. No FINMA licence required, but AML compliance is mandatory.
+- No → No regulatory requirement under FINMA.
+
+### VQF vs PolyReg: Which SRO for Your Business?
+
+For businesses that land on the SRO membership path, the choice between VQF and PolyReg has practical consequences:
+
+| Criterion | VQF | PolyReg |
+|---|---|---|
+| Size | 1,000+ members — largest Swiss SRO | Smaller, specialist |
+| Crypto expertise | Dedicated crypto track | Strong blockchain focus |
+| Timeline | 3–6 months | 2–4 months |
+| Total cost (CHF) | 25,000–40,000 | 20,000–35,000 |
+| Bank account opening | Strongest credential — widely recognised | Recognised but narrower network |
+| Contractual requirements | Standard AGB accepted from partners | May require bilateral signed contracts |
+| Post-approval audit | 3 months after grant | 3 months after grant |
+
+**The PolyReg bilateral contract issue.** PolyReg requires bilateral signed contracts with major exchange partners for certain business models. One payment company (PayDeal Solutions AG) using PolyReg faced a deadlock when Binance — their strategic partner — only offered standard Terms of Service rather than bilateral contracts. The argument that AGB constitutes a functional equivalent remains unresolved. If your business depends on partnerships with platforms that use standard terms, VQF is the safer choice.
+
+---
+
 ## Application Process
 
 1. **Pre-consultation:** Request a preliminary meeting with FINMA (strongly recommended before the full application)

@@ -261,6 +261,40 @@ FINMA actively monitors for unlicensed activity, including through referrals fro
 
 ---
 
+## Do You Need SRO Membership, a FINMA Licence, or Both?
+
+**Step 1: Are you a financial intermediary under AMLA?**
+- No: No SRO membership required.
+- Yes: Continue to Step 2.
+
+**Step 2: Are you already directly supervised by FINMA (as a bank, insurer, or securities firm)?**
+- Yes: You do not need SRO membership. FINMA supervision covers your AML obligations.
+- No: SRO membership is mandatory. Continue to Step 3.
+
+**Step 3: Do your activities also trigger a separate FINMA licensing requirement?**
+- You accept deposits above CHF 100M or lend: Banking licence required alongside SRO membership.
+- You accept deposits up to CHF 100M without investing them: FinTech licence required alongside SRO membership.
+- You manage third-party assets on a discretionary basis: FinIA licence required. Your AO may also cover AML supervision, but verify this.
+- None of the above: SRO membership alone is sufficient.
+
+**Step 4: Which SRO should you join?**
+- Crypto exchange, custody, payment processing: VQF (largest, crypto-experienced) or PolyReg (smaller, blockchain-native).
+- Fiduciary, trust, wealth structuring (Romandy): OAD FCT or ARIF.
+- Insurance intermediary: SRO-SVV.
+- Gold/precious metals dealer: VQF or OAR-G.
+
+### The Real Cost Ladder: SRO to Banking
+
+| Path | Total Cost (CHF) | Timeline | Ongoing Annual Cost (CHF) |
+|---|---|---|---|
+| SRO membership (simple business) | 15,000-25,000 | 2-4 months | 5,000-12,000 |
+| SRO membership (crypto/complex) | 25,000-55,000 | 3-6 months | 8,000-18,000 |
+| FinTech licence from scratch | 80,000-130,000 | 6-12 months | 20,000-50,000 |
+| Turnkey licensed intermediary | ~480,000 | 1-3 months | 8,000-18,000 |
+| Full banking licence | 2,000,000-5,000,000 | 12-24 months | 500,000-2,000,000+ |
+
+---
+
 ## How Lawsupport Supports Your SRO Application
 
 Lawsupport (Morgan Hartley Consulting) manages the full SRO membership process for financial intermediaries across the spectrum — from forex dealers and payment processors to crypto exchanges, fund distributors, and fiduciary businesses.

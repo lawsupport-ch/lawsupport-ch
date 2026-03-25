@@ -154,6 +154,44 @@ Switzerland taxes tokens based on their nature and the taxpayer's status. For fu
 
 ---
 
+## Do You Need FINMA Licensing for Your Token Issuance?
+
+**Step 1: What type of token are you issuing?**
+- Payment token (means of exchange only): No FINMA licence. SRO membership required if you operate wallets or process payments.
+- Utility token (platform access, fully functional at issuance): No FINMA licence. No prospectus. SRO membership if financial intermediation present.
+- Utility token (pre-functional, funds development): Treated as asset token by FINMA. Continue to Step 2.
+- Asset token (equity, debt, profit participation): Continue to Step 2.
+- Hybrid token: If asset characteristics present, securities law applies. Continue to Step 2.
+
+**Step 2: Are you offering to retail investors in Switzerland?**
+- No (professional/institutional only): Prospectus exemption applies. No FinSA prospectus required.
+- Yes, but fewer than 500 investors and total below CHF 8M: Prospectus exemption applies.
+- Yes, above thresholds: FinSA-compliant prospectus required. Budget CHF 100,000+ for preparation and BX Swiss review.
+
+**Step 3: Does your token sale involve financial intermediation?**
+- Yes (holding client assets, processing crypto/fiat): SRO membership required (VQF or PolyReg). Budget CHF 25,000-40,000.
+- No: No SRO membership needed for the issuance itself.
+
+**Step 4: Does your token qualify as a collective investment scheme?**
+- Yes (funds pooled, managed for profit on behalf of third parties): CISA licensing required.
+- No: No additional licensing obligation.
+
+### Real-World Cost Comparison: Token Issuance Structures
+
+| Structure | Total Cost (CHF) | Timeline | Best For |
+|---|---|---|---|
+| Utility token via existing foundation | 30,000-80,000 | 4-8 weeks | Functional platform tokens |
+| Asset token (professional investors only) | 80,000-150,000 | 2-4 months | Equity/debt tokenisation |
+| Asset token (retail prospectus) | 150,000-300,000 | 4-8 months | Large public token sales |
+| Foundation + SRO + no-action letter | 60,000-120,000 | 3-6 months | Most serious crypto projects |
+| Turnkey licensed entity + token sale | 480,000+ | 1-3 months | Speed-to-market priority |
+
+### The Failed Token Issuance: Lessons from Practice
+
+A crypto startup structured its token issuance through a Zug foundation and applied for VQF membership to cover the payment processing component. The initial retainer was CHF 10,000. During the SRO application, the founders pivoted from a payment token model to a yield-bearing DeFi product, which changed the FINMA classification from payment token to potential collective investment scheme. The compliance analysis restarted from scratch. Total legal fees reached CHF 38,321 before the founders abandoned the project, receiving only CHF 5,000 back. Two takeaways: (1) finalise your token economics before engaging regulators, and (2) the initial CHF 10,000 retainer is a starting point, not a ceiling.
+
+---
+
 ## Switzerland vs. Cayman Islands: A Direct Comparison
 
 The Cayman Foundation Company remains a competitor structure, used primarily for tax optimisation and governance flexibility. In practice, institutional token buyers — exchanges listing tokens, venture funds participating in SAFTs — increasingly require Swiss law-governed issuance structures due to the regulatory clarity and enforceability of Swiss contract law.

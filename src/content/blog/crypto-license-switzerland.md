@@ -153,6 +153,54 @@ The sections below explain each licence category in detail.
 
 ---
 
+## Do You Need a Crypto Licence in Switzerland? A Decision Framework
+
+Before spending CHF 25,000-130,000 on regulatory applications, map your business model:
+
+**Step 1: Do you hold, custody, or control client crypto or fiat assets?**
+- No (pure software, non-custodial wallet, mining only): No FINMA licence or SRO membership required for that activity.
+- Yes: Continue to Step 2.
+
+**Step 2: Do you exchange crypto for fiat, or crypto for crypto, on behalf of clients?**
+- Yes: You are a financial intermediary under AMLA. SRO membership (VQF or PolyReg) is mandatory. Continue to Step 3 to determine whether additional licensing is needed.
+- No: Continue to Step 3.
+
+**Step 3: Do total client deposits (fiat + crypto) exceed CHF 1 million?**
+- No: The sandbox exemption (Art. 6 BankG) may apply if deposits stay below CHF 1M and are not invested.
+- Yes: Continue to Step 4.
+
+**Step 4: Do total client deposits exceed CHF 100 million?**
+- Yes: Full banking licence required (CHF 10M+ capital, 12-24 months). See our [banking licence guide](/licensing/banking-license-switzerland/).
+- No: Continue to Step 5.
+
+**Step 5: Do you invest client deposits or pay interest on them?**
+- Yes: Full banking licence required.
+- No: FinTech licence (Art. 1b BankG) is the correct path (CHF 300,000 capital, 6-12 months).
+
+**Step 6: Are you issuing tokens?**
+- Payment token: SRO membership covers your AML obligations. No securities law issues.
+- Utility token (functional at issuance): Generally no FINMA licence required.
+- Utility token (pre-functional): FINMA treats this as an asset token. Prospectus obligations may apply.
+- Asset/security token: FinSA prospectus required for retail offerings (exemptions available for professional investors, fewer than 500 investors, or total below CHF 8M).
+
+**Step 7: Are you operating a multilateral trading platform for tokenised securities?**
+- Yes: DLT Trading Facility licence required (CHF 5-10M capital, 12-18 months).
+- No: SRO + FinTech licence combination covers most crypto exchange models.
+
+### The Three-Month Audit Trap: Why 40% of SRO Applications Lead to Problems
+
+One critical detail that most guides omit: VQF and PolyReg both conduct their first compliance audit approximately three months after granting SRO membership. If the director or AML compliance officer cannot demonstrate adequate competence during that audit, the membership is revoked. Not suspended. Revoked.
+
+What triggers revocation:
+- The AML officer cannot explain the companys transaction monitoring procedures
+- The director cannot walk through the KYC onboarding flow
+- Documentation exists on paper but has never been implemented in practice
+- The business has onboarded clients without following its own AML programme
+
+Finding qualified AML officers willing to serve crypto startups is genuinely difficult. The pool of candidates who understand both traditional AML requirements and blockchain-specific risks (wallet screening, Travel Rule, unhosted wallet procedures) is small. Budget for this hire before you apply for SRO membership, not after. External AML officer arrangements are accepted and cost CHF 3,000-8,000 per year.
+
+---
+
 ## VASP Registration Under the Swiss Anti-Money Laundering Act
 
 ### Who Needs to Register as a VASP?
