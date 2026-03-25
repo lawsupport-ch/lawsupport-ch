@@ -139,7 +139,7 @@ If you need any of these services — a Swiss phone number, meeting room access,
 
 A professional registered address in Zug costs **CHF 2'400 per year**. The equivalent service in Zurich costs **CHF 3'000 per year**. The price difference reflects Zurich's higher operational costs and is consistent across most providers in both cities. Lawsupport's fees are fixed annually with no hidden charges for routine mail scanning and digital forwarding.
 
-The registered address fee is separate from company formation fees and, if applicable, from [nominee director fees](/corporate-services/nominee-director-switzerland/). Most foreign-owned companies use both services together — see below.
+The registered address fee is separate from company formation fees and, if applicable, from [nominee director fees](/corporate-services/nominee-director-switzerland/). For context, a typical annual package for a foreign-owned dormant company in Zug costs: registered address CHF 2’400 + nominee director CHF 5’900 + dormant accounting CHF 1’800 = **CHF 10’100 per year** before any active operational costs. Most foreign-owned companies use both services together — see below.
 
 ---
 

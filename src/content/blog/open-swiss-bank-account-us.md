@@ -108,19 +108,13 @@ For a structured comparison, see the table below.
 
 If you are a US citizen living in the United States and want to open a personal Swiss bank account, you should understand this clearly: **virtually no Swiss bank will accept a non-resident US person for a personal retail bank account.**
 
-This is not a bureaucratic technicality that can be worked around with the right paperwork. It is a deliberate policy decision by Swiss banks. One Swiss fintech bank, Relio AG, states its position explicitly: they are "unable to onboard companies with US nexus at UBO/shareholders level." This is not an unusual stance -- it is representative of the market. One Swiss fintech bank, Relio AG, states its position explicitly: they are "unable to onboard companies with US nexus at UBO/shareholders level." This is not an unusual stance -- it is representative of the market. The compliance cost of maintaining a personal account for a non-resident US person -- FATCA reporting, W-9 collection, ongoing due diligence -- is not offset by the revenue a standard retail account generates.
+This is not a bureaucratic technicality that can be worked around with the right paperwork. It is a deliberate policy decision by Swiss banks. One Swiss fintech bank, Relio AG, states its position explicitly: they are "unable to onboard companies with US nexus at UBO/shareholders level." This is not an unusual stance -- it is representative of the market. The compliance cost of maintaining a personal account for a non-resident US person -- FATCA reporting, W-9 collection, ongoing due diligence -- is not offset by the revenue a standard retail account generates.
 
 The banks that do accept US persons for personal accounts require private banking-level assets. If you have CHF 500,000 or more to deposit, UBS or Julius Baer may have a conversation with you. If you are looking for a standard current account, the answer from Swiss banks will be no.
 
 For non-resident foreign nationals generally, Swiss banking is already restricted. For US persons specifically, the restrictions are the most severe. See our guide on [Swiss bank accounts for non-residents](/banking/swiss-bank-account-non-residents/) for a broader look at this issue.
 
 ---
-
-## Swiss Bank Account for US Citizens Living in Switzerland
-
-**The only realistic exception** for a US person to open a personal Swiss bank account without private-banking-level assets is if they hold a Swiss residence permit, physically live in Switzerland, and can demonstrate tax compliance in both jurisdictions. A US passport alone, without Swiss residency, will not open doors at any Swiss retail bank.
-
-To illustrate how strictly this is enforced: a US-owned employment services company (operating through a Swiss GmbH) was rejected by Relio specifically because of the US nexus at the shareholder level. The company was forced to route its Swiss operations through a UK parent company's Ebury account -- a payment service, not a proper bank -- which created serious compliance problems. The cantonal authorities flagged the arrangement as questionable, since the Swiss entity had no bank account in its own name. This is the kind of structural problem that US founders must plan around from the outset, not discover after incorporation.
 
 ## Swiss Bank Account for US Citizens Living in Switzerland
 
