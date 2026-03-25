@@ -49,16 +49,17 @@ Switzerland has one of the most developed and internationally significant bankin
 
 Swiss banking is organised into several distinct categories, each serving different market segments:
 
-| Category | Key Institutions | Primary Focus |
-|---|---|---|
-| Big banks | UBS | Universal banking, wealth management, global |
-| Cantonal banks | ZKB, BCG, BCV | Regional retail/SME banking |
-| Regional/savings banks | Various | Local retail banking |
-| Raiffeisen Group | Raiffeisen Switzerland | Rural and cooperative retail banking |
-| Private banks | Pictet, Lombard Odier, Julius Baer | Wealth management for HNW clients |
-| Foreign banks | HSBC, Deutsche Bank, BNP (Swiss subsidiaries) | International banking |
-| PostFinance | PostFinance AG | Retail payments and savings |
-| Specialty banks | SEBA/AMINA, Sygnum | Crypto-asset banking |
+| Category | Key Institutions | Primary Focus | Foreign Client Reality |
+|---|---|---|---|
+| Big banks | UBS | Universal banking, wealth management | CHF 500'000+ AUM required for non-residents |
+| Cantonal banks | ZKB, BCG, BCV, Zuger KB | Regional retail/SME banking | Moderate acceptance with substance |
+| Regional/savings banks | Various | Local retail banking | Very limited international experience |
+| Raiffeisen Group | Raiffeisen Switzerland | Rural and cooperative retail banking | Not practical for non-residents |
+| Private banks | Pictet, Lombard Odier, Julius Baer | Wealth management for HNW clients | CHF 4'000'000-6'000'000 minimum in practice |
+| Foreign banks | HSBC, Deutsche Bank, BNP (Swiss subsidiaries) | International banking | Varies by parent institution |
+| PostFinance | PostFinance AG | Retail payments and savings | High rejection rate for foreign companies |
+| Fintech | Relio AG | Digital corporate banking | Fast onboarding; hard rejection of US-nexus |
+| Specialty banks | SEBA/AMINA, Sygnum | Crypto-asset banking | Crypto and digital asset businesses only |
 
 For a detailed listing of individual institutions, see our [full Swiss banks list](/banking/swiss-banks-list/).
 
@@ -116,6 +117,8 @@ For more on Swiss [private banking services](/banking/private-banking-switzerlan
 
 PostFinance is a 100% subsidiary of Swiss Post (the postal service). It manages approximately CHF 100 billion in client assets and serves approximately 2.5 million retail clients. PostFinance is primarily a payment and savings institution — it has historically been prohibited from making loans directly (due to its dominant market position). It offers retail accounts, savings, investment funds, and payment services.
 
+**What foreign applicants need to know:** PostFinance has one of the highest rejection rates for foreign company accounts among Swiss banking institutions. From our case files: PostFinance rejected a tech company because the word "Tesla" in the company name triggered brand-sensitivity compliance questions. A Swiss health sector company with clean documentation was rejected without clear explanation. A pharmaceutical company hit the same wall. PostFinance requires a specific documentation package: business plan, CVs of all directors, employment contracts, detailed transaction descriptions, and source of funds evidence. Missing any single item restarts the review clock. Typical processing time to rejection: 3-4 weeks.
+
 ---
 
 ## Regulation: FINMA
@@ -171,6 +174,23 @@ Swiss banking secrecy under Art. 47 of the Banking Act remains a domestic legal 
 The compliance infrastructure supporting this secrecy regime — and its international reporting obligations — is substantial. Swiss banks collectively spend hundreds of millions of francs annually on AML compliance, sanctions screening, and AEOI reporting. This cost is passed through to clients in the form of account fees, documentation requirements, and, most notably, restricted access for non-resident applicants.
 
 For non-residents considering a Swiss account, our [guide to Swiss bank accounts for non-residents](/banking/swiss-bank-account-non-residents/) explains the practical implications.
+
+---
+
+## Bank Comparison: What Foreign Clients Actually Face
+
+This matrix reflects what we observe in practice across 300+ company formations.
+
+| Factor | UBS | PostFinance | Relio AG | Cantonal Banks | Private Banks |
+|---|---|---|---|---|---|
+| **Minimum threshold** | CHF 500'000 AUM | None | CHF 249/month | None (substance expected) | CHF 4'000'000-6'000'000 |
+| **Timeline to account** | 8-12 weeks | 3-4 weeks (often to rejection) | Same day after video verification | 4-6 weeks | 4-12 weeks |
+| **US persons accepted** | Yes (with FATCA) | Rarely | No | Rarely | Rarely |
+| **Rejection rate (foreign)** | High without relationship | Very high | Low (if no US nexus) | Moderate with preparation | Low (if minimum met) |
+| **Remote opening** | No | No | Yes (video via Intrum) | Usually in-person | Requires RM meeting |
+| **Best for** | Large/complex structures | Swiss residents | EU-owned startups needing speed | Operating companies with substance | Wealth management |
+
+**Case from practice:** A US-owned employer-of-record company with three Swiss employees was rejected by Relio AG, then by PostFinance, and was forced to operate through its UK parent company's payment account. Swiss regulators view using another entity's bank account as questionable. Fourteen months later, the company still has no Swiss bank account in its own name.
 
 ---
 

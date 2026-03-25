@@ -123,7 +123,7 @@ For details on accessing [private banking in Switzerland](/banking/private-banki
 
 | Bank | Parent | Focus |
 |---|---|---|
-| **PostFinance** | Swiss Post | Retail payments, savings, investment funds |
+| **PostFinance** | Swiss Post | Retail payments, savings. High foreign company rejection rate |
 | **Cembra Money Bank** | Listed (CMBN.SW) | Consumer credit, credit cards |
 | **Migros Bank** | Migros (cooperative) | Retail banking for Migros customers |
 
@@ -168,6 +168,22 @@ Both AMINA and Sygnum hold full FINMA banking licences and offer institutional c
 | **Zuercher Kantonalbank Markets** | Zurich | Swiss capital markets |
 | **Mirabaud Securities** | Geneva | Swiss and European equities |
 | **Baader Bank** | Zurich branch | German/Swiss market making |
+
+---
+
+## Bank Selection Reality: What Foreign Founders Actually Experience
+
+Selecting a bank from a list is not the hard part. Getting accepted is. This matrix shows what foreign company founders face in practice, based on 300+ formations handled by our office.
+
+| Factor | UBS | PostFinance | Relio AG | Zuger Kantonalbank | Private Banks |
+|---|---|---|---|---|---|
+| **Minimum** | CHF 500'000 AUM | None | CHF 249/month | None (substance expected) | CHF 4'000'000-6'000'000 |
+| **Timeline** | 8-12 weeks | 3-4 weeks (often to rejection) | Same day | 4-6 weeks | 4-12 weeks |
+| **US persons** | Yes (FATCA) | Rarely | No | Rarely | Rarely |
+| **Rejection rate** | High without relationship | Very high for foreign cos | Low (if no US nexus) | Moderate with prep | Low (if minimum met) |
+| **Remote opening** | No | No | Yes (video via Intrum) | Usually in-person | RM meeting required |
+
+**Why this matters:** A US-owned staffing company was rejected by three Swiss institutions before finding a fintech workaround through its UK parent's payment account. The wrong bank choice costs time and can make subsequent applications harder, as banks share rejection data through FINMA reporting channels.
 
 ---
 

@@ -54,15 +54,21 @@ Swiss cooperatives are governed by Articles 828 to 926 of the Code of Obligation
 
 ---
 
-## What Is a Cooperative?
+## When a Cooperative Is the Wrong Choice
 
-The Code of Obligations defines a cooperative as an association of persons or companies organised on a cooperative basis with the primary purpose of **promoting the economic interests of its members through collective action**. Three points follow directly from that definition and distinguish the cooperative from every other Swiss entity:
+The cooperative is a powerful structure for specific use cases — housing, agriculture, member-benefit organisations. But it is the wrong choice far more often than founders realise. Here are the three deal-breakers we see repeatedly:
 
-1. **Member benefit, not investor return.** The cooperative exists to serve its members — cheaper goods, affordable housing, access to a shared resource — not to generate distributable profit for investors. This is a structural feature, not a preference.
+**1. You want investor-driven governance.** The one-member-one-vote rule is absolute. A venture capitalist contributing CHF 5 million gets the same single vote as a member contributing CHF 500. No share classes, no proportional voting, no board seats tied to investment size. Every investor-backed venture that has asked us about a cooperative has ended up forming an [AG](/company-formation/ag-formation-switzerland/) instead.
 
-2. **One member, one vote.** Regardless of how much capital a member has contributed, each member holds one vote at the general assembly. This is the opposite of a GmbH or AG, where voting power tracks capital contributions.
+**2. You have fewer than seven members.** Swiss law requires a minimum of seven members at formation. A founder team of two or three cannot form a cooperative. The GmbH (minimum one shareholder) or AG (minimum one shareholder) is the correct structure for small founding teams.
 
-3. **Variable membership and capital.** Members can join and leave the cooperative. Capital fluctuates accordingly. There is no fixed share capital in the way a GmbH has a fixed Stammkapital.
+**3. You want to distribute profits freely.** A cooperative cannot pursue profit distribution as its primary purpose. Surpluses can be returned to members through patronage refunds or lower prices, but the commercial profit motive of a GmbH or AG is absent by design. Swiss tax authorities examine this carefully — if a cooperative functions as a disguised investor vehicle, it attracts standard corporate tax treatment.
+
+The cooperative exists to promote the economic interests of its members through collective action. Three structural features distinguish it from every other Swiss entity:
+
+1. **Member benefit, not investor return.** The cooperative serves members — cheaper goods, affordable housing, shared resources — not outside investors.
+2. **One member, one vote.** Regardless of capital contribution. The opposite of a GmbH or AG.
+3. **Variable membership and capital.** Members join and leave; capital fluctuates. No fixed share capital.
 
 ---
 
@@ -161,6 +167,35 @@ A cooperative is dissolved by a resolution of the general assembly, typically re
 Upon dissolution, the cooperative enters liquidation. After all debts are satisfied, any remaining surplus is distributed to members in accordance with the articles — typically in proportion to their capital contributions or membership duration. Unlike a Verein, where surplus must go to a purpose-aligned organisation, a cooperative's residual assets can be returned to members.
 
 For details on the dissolution process, see our [company liquidation Switzerland guide](/company-formation/company-liquidation-switzerland/).
+
+---
+
+## Case Study: The Tech Founder Who Wanted Democratic Governance Without Capital
+
+A European software collective — seven developers across four countries — contacted us about forming a cooperative in Zug. They wanted democratic governance (one person, one vote) without minimum capital requirements. The cooperative seemed ideal on paper.
+
+The inquiry ended when they discovered three practical realities: (1) all seven members needed to attend or be represented at a founding meeting — coordinating across four countries added three weeks; (2) the cooperative's purpose clause could not include "maximising returns to members through software licensing revenue" without triggering scrutiny from Swiss tax authorities; and (3) the ongoing governance requirements — annual general assembly, potential audit obligations, seven-member minimum — created administrative overhead that exceeded what a GmbH would require.
+
+They formed a GmbH instead. Cost: CHF 1'900 registration. One founding shareholder, one nominee director. Operational within three weeks. The democratic governance they wanted was achieved through a shareholders' agreement with equal voting provisions — functionally identical to a cooperative's one-member-one-vote rule, without the structural overhead.
+
+---
+
+## Real Formation Costs: Cooperative vs GmbH vs AG
+
+| Factor | Cooperative | GmbH | AG |
+|---|---|---|---|
+| Registration cost | CHF 1'500-3'000 (no notary required) | CHF 1'900 (incl. notary) | CHF 2'500 (incl. notary) |
+| Minimum capital | None (but adequate funding needed) | CHF 20'000 (fully paid) | CHF 100'000 (CHF 50'000 paid in) |
+| Minimum members/founders | 7 | 1 | 1 |
+| Notarisation required | No (signed minutes submitted directly) | Yes | Yes |
+| Annual general assembly | Required (all members or delegates) | Required (can be circular resolution) | Required (can be circular resolution) |
+| Audit requirement | >300 members or public shares | Optional below thresholds | Optional below thresholds |
+| Voting | One member, one vote | Pro rata to capital | Pro rata to capital |
+| Profit distribution | Restricted (member benefit focus) | Permitted (dividends) | Permitted (dividends) |
+| Time to registration | 2-4 weeks | 2-4 weeks | 3-6 weeks |
+| Best for | Housing, agriculture, member-benefit | Commercial operating companies | Holdings, investor rounds, privacy |
+
+The cooperative saves on formation costs (no notary required), but the seven-member minimum and governance requirements create ongoing overhead that the GmbH avoids entirely.
 
 ---
 

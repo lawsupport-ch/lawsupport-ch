@@ -18,8 +18,8 @@ faqItems:
   - question: "Why was my Swiss bank account application rejected?"
     answer: "Common reasons: incomplete KYC documentation, unclear source of funds, business activities in a high-risk sector (crypto, gambling), shareholder or director from a FATF grey-listed country, no discernible Swiss business nexus, or prior rejections at other Swiss banks. Rejection letters are often non-specific. A licenced Swiss lawyer can review your package, identify the likely failure point, and resubmit to a more appropriate institution."
 tocItems:
-  - id: "what-makes-a-swiss-bank-account-worth-pursuing"
-    title: "What Makes a Swiss Bank Account Worth Pursuing"
+  - id: "why-swiss-banks-reject-foreign-applicants-and-what-actually-works"
+    title: "Why Swiss Banks Reject Foreign Applicants (and What Actually Works)"
   - id: "types-of-swiss-bank-accounts-for-foreigners"
     title: "Types of Swiss Bank Accounts for Foreigners"
   - id: "swiss-bank-account-requirements-for-foreigners"
@@ -47,20 +47,34 @@ This guide explains exactly how to open a Swiss bank account as a foreigner, wha
 
 ---
 
-## What Makes a Swiss Bank Account Worth Pursuing
+## Why Swiss Banks Reject Foreign Applicants (and What Actually Works)
 
-Switzerland has 239 licenced banks under Swiss Financial Market Supervisory Authority (FINMA) regulation. The country holds roughly 25 percent of global cross-border private wealth, and the Swiss franc has maintained purchasing power against major currencies for decades. These are not myths or marketing claims; they are structural facts about the [Swiss financial system](/banking/swiss-banking-system/).
+Switzerland has 239 licenced banks under <a href="https://www.finma.ch/en/" target="_blank" rel="nofollow noopener">FINMA</a> regulation and holds roughly 25 percent of global cross-border private wealth. The Swiss franc has maintained purchasing power against major currencies for decades. These are structural facts, not marketing claims.
 
-For foreign entrepreneurs and investors, a Swiss bank account provides:
+But the question is not whether Swiss banking is worth pursuing. It is whether a Swiss bank will accept you.
+
+### The Seven Reasons Swiss Banks Reject Foreign Clients
+
+From our case files handling 300+ company formations:
+
+1. **US nexus at UBO or shareholder level.** Relio AG states explicitly: "unable to onboard companies with US nexus at UBO/shareholders level." Most cantonal banks lack FATCA infrastructure and decline US-connected structures outright.
+2. **Brand-sensitive company names.** PostFinance rejected a company because "Tesla" appeared in its registered name. The bank demanded justification for the name choice, then refused.
+3. **Insufficient business documentation.** PostFinance requires a business plan, CVs of all directors, employment contracts, transaction descriptions, and source of funds evidence. Missing one item restarts the review clock.
+4. **High-risk jurisdiction of founder.** UBOs from FATF grey-listed countries trigger enhanced due diligence or automatic refusal.
+5. **Missing proof of substance.** A letterbox company with a c/o address and no local activity is a weak application. Direct addresses and genuine Swiss operations improve outcomes.
+6. **AML/WorldCheck flags.** All directors and UBOs are screened through compliance databases. Even false positives from common names delay account opening by weeks.
+7. **No existing banking relationship.** Cold applications have a substantially lower success rate than professionally introduced applications.
+
+### What Swiss Banking Actually Provides (When You Get In)
 
 - **CHF-denominated accounts** insulated from EUR and USD volatility
 - **esisuisse deposit protection** covering up to CHF 100'000 per depositor per bank
-- **Discreet, professionally managed relationships** at private banks, starting at CHF 500'000 in assets
+- **Professionally managed relationships** at private banks, starting at CHF 500'000 in assets
 - **Multicurrency accounts** (EUR, USD, GBP, CHF) in a single banking relationship
 - **IBAN credibility**: a CH-prefix IBAN signals financial substance to international counterparties
 - **Integration with Swiss corporate structure**: essential if you are [forming a GmbH](/company-formation/gmbh-formation-switzerland/) or AG
 
-One point foreign applicants often underestimate: Swiss banks are not obligated to accept any customer. Since the FINMA Anti-Money Laundering Act (AMLA) revisions in 2016 and the FATF-aligned reforms of 2022, Swiss banks conduct full KYC and source-of-funds verification before opening any account for a non-resident or foreign national. Banks bear direct liability for onboarding clients they cannot adequately verify. This is why preparation and documentation matter more than almost any other factor.
+Swiss banks are not obligated to accept any customer. Since the FINMA Anti-Money Laundering Act (AMLA) revisions in 2016 and the FATF-aligned reforms of 2022, banks conduct full KYC and source-of-funds verification before opening any account. Banks bear direct liability for onboarding clients they cannot adequately verify. Preparation and documentation matter more than almost any other factor.
 
 ---
 
@@ -296,6 +310,24 @@ Yes, if you are a Swiss resident or have an existing banking relationship. Most 
 **What is the difference between a Swiss bank account and a Wise CHF account?**
 
 A Swiss bank account at a FINMA-licenced institution provides esisuisse deposit protection, full banking services (credit, mortgages, safe deposit boxes), and a traditional CH IBAN. A Wise CHF account offers a CH IBAN and basic payment functionality but is issued by an e-money institution, not a bank. Wise deposits are not covered by esisuisse. For corporate use, a traditional bank account is strongly recommended alongside any fintech solution.
+
+---
+
+## Bank Comparison: UBS vs PostFinance vs Relio vs Cantonal Banks vs Private Banks
+
+| Factor | UBS | PostFinance | Relio AG | Cantonal Banks | Private Banks |
+|---|---|---|---|---|---|
+| **Minimum** | CHF 500'000 AUM | None | CHF 249/month | None (substance expected) | CHF 4'000'000-6'000'000 |
+| **Timeline** | 8-12 weeks | 3-4 weeks (often to rejection) | Same day after video verification | 4-6 weeks | 4-12 weeks |
+| **US persons** | Yes (with FATCA compliance) | Rarely | No — hard policy | Rarely | Rarely |
+| **Rejection rate (foreign)** | High without relationship | Very high | Low (if no US nexus) | Moderate with preparation | Low (if minimum met) |
+| **Remote opening** | No | No | Yes (video via Intrum) | Usually requires in-person | Requires RM meeting |
+| **Monthly fees** | CHF 50-80 | CHF 10-25 | CHF 249 | CHF 20-50 | Based on AUM (0.5-1.5%) |
+| **Best for** | Large/complex structures | Swiss residents | EU-owned startups needing speed | Operating companies with substance | Wealth management |
+
+**The 80% signal:** If a bank approves your blocked [capital deposit account](/banking/capital-deposit-account-switzerland/) during company formation, approximately 80% of those relationships convert into permanent corporate accounts. The capital deposit stage is the de facto pre-screening — and the single most useful signal in the entire process.
+
+**Case study — US-owned employer of record:** A US-owned Swiss company (employer of record with three Swiss employees) was rejected by Relio, rejected by PostFinance, and forced to operate through its UK parent company's Ebury account. Swiss regulators view using another entity's bank account as questionable. Fourteen months later, the company still has no Swiss bank account in its own name.
 
 ---
 

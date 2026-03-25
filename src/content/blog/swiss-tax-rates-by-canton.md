@@ -18,8 +18,8 @@ faqItems:
   - question: "What is the federal corporate tax rate in Switzerland?"
     answer: "The federal corporate income tax is approximately 8.83% on taxable profit, uniform across all 26 cantons. The variation between cantons is driven entirely by cantonal and communal rates."
 tocItems:
-  - id: "how-swiss-taxation-works-federal-cantonal-and-communal-layer"
-    title: "How Swiss Taxation Works: Federal, Cantonal, and Communal Layers"
+  - id: "rate-comparison-traps-what-the-headline-numbers-hide"
+    title: "Rate Comparison Traps: What the Headline Numbers Hide"
   - id: "corporate-tax-rates-by-canton-2026-full-comparison-table"
     title: "Corporate Tax Rates by Canton 2026: Full Comparison Table"
   - id: "why-zug-has-the-lowest-corporate-tax-rate-in-switzerland"
@@ -51,7 +51,15 @@ Swiss tax rates by canton vary dramatically in 2026. The difference between the 
 
 ---
 
-## How Swiss Taxation Works: Federal, Cantonal, and Communal Layers
+## Rate Comparison Traps: What the Headline Numbers Hide
+
+The headline cantonal tax rate is the number everyone compares — but three factors make it misleading if taken in isolation.
+
+**Factor 1: The communal multiplier.** Two companies in the same canton can pay different rates depending on their commune. The rates in this article use the main city commune; a company in a low-multiplier commune within the same canton can pay 1-3 percentage points less.
+
+**Factor 2: The IP Box and R&D deductions.** A company in Zug with qualifying patent income and Swiss R&D can achieve an effective rate of 5-8% — well below the headline 11.85%. A company without qualifying IP pays the full rate. The headline number applies to ordinary business income only.
+
+**Factor 3: The all-in extraction cost.** The corporate tax rate is the tax on retained profit. Extracting profit as a dividend adds 35% withholding tax (reduced by treaty). The effective combined rate for a German individual shareholder extracting profit from a Zug company is approximately 25%, not 11.85%. Modelling only the corporate rate understates the true cost.
 
 **Federal corporate income tax** is levied at a flat rate of approximately **8.83%** on taxable profit (after deducting cantonal tax paid). This rate is uniform across all 26 cantons.
 
@@ -268,6 +276,26 @@ STAF abolished old ring-fencing regimes and introduced OECD-compliant incentives
 **What substance requirements apply when choosing a low-tax canton?**
 
 Companies must have genuine economic substance in their registered canton. Operating companies need local management, premises, and staff. Holding companies need a registered office, at least one Swiss-resident board member, and genuine subsidiary oversight.
+
+---
+
+## The Real Costs Beyond the Tax Rate
+
+| Annual Cost Item | Zug | Zurich | Basel-Stadt |
+|---|---|---|---|
+| Corporate tax (CHF 1M profit) | CHF 118'500 | CHF 197'000 | CHF 130'000 |
+| Capital tax (CHF 500'000 equity) | CHF 375 | CHF 860 | CHF 1'725 |
+| Registered address | CHF 2'400 | CHF 3'000 | CHF 2'800 |
+| Nominee director | CHF 5'900 | CHF 5'900 | CHF 5'900 |
+| Accounting (100 transactions) | CHF 3'800 | CHF 3'800 | CHF 3'800 |
+| Tax advisory (annual) | CHF 350/hour | CHF 350/hour | CHF 350/hour |
+| **Total annual (active company)** | **~CHF 131'000** | **~CHF 210'600** | **~CHF 144'225** |
+
+**The tax rate drives the decision above CHF 200'000 profit.** Below that threshold, fixed costs dominate and the cantonal choice is less impactful. Above CHF 500'000, the rate differential between Zug and Zurich exceeds CHF 40'000 per year — making it the single largest controllable cost in the company's annual budget.
+
+**Stamp duty on formation.** Companies formed with share capital above CHF 1 million pay 1% issuance stamp duty on the excess. A CHF 5 million capitalisation costs CHF 40'000 in stamp duty. This is a one-time cost but catches founders who overcapitalise without awareness. See [stamp duty Switzerland](/tax-accounting/stamp-duty-switzerland/).
+
+**Withholding tax on extraction.** Every dividend triggers 35% withholding, reduced by treaty. The refund process takes 6-18 months. For regular distributions, arranging relief at source before the first dividend avoids locking capital at the ESTV. See [withholding tax Switzerland](/tax-accounting/withholding-tax-switzerland/).
 
 ---
 

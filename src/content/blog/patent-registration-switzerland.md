@@ -14,7 +14,7 @@ faqItems:
   - question: "Can software be patented in Switzerland?"
     answer: "Software as such is not patentable. However, a technical invention implemented through software -- for example, a novel data compression algorithm with a technical effect -- can be patented if it meets novelty, inventive step, and industrial applicability requirements."
   - question: "How much does a patent cost from filing to 20-year maintenance?"
-    answer: "For a Swiss national patent: approximately CHF 10,000-15,000 in official fees over 20 years, plus CHF 5,000-20,000 in professional fees. For a European patent validated in multiple countries: EUR 20,000-50,000+ in total."
+    answer: "For a Swiss national patent: approximately CHF 10'000-15,000 in official fees over 20 years, plus CHF 5'000-20,000 in professional fees. For a European patent validated in multiple countries: EUR 20'000-50,000+ in total."
   - question: "Can I file a patent in Switzerland first, then extend internationally?"
     answer: "Yes. Filing a Swiss or EP application establishes a priority date. Within 12 months, you can file in other countries or a PCT application claiming the same priority date."
 tocItems:
@@ -36,6 +36,12 @@ tocItems:
     title: "Patent Attorney Requirement"
   - id: "related-guides"
     title: "Related Guides"
+  - id: "case-study-medtech-startup--wrong-patent-route-cost-18-months"
+    title: "Case Study: Medtech Startup — Wrong Patent Route"
+  - id: "decision-tree-which-patent-route"
+    title: "Decision Tree: Which Patent Route?"
+  - id: "friction-block-what-actually-goes-wrong"
+    title: "Friction Block: What Actually Goes Wrong"
 ---
 
 
@@ -100,10 +106,10 @@ The European Patent Office (EPO) is based in Munich and grants European Patents 
 **Timeline:** EPO examination typically takes 3-5 years from filing to grant. The process can be accelerated through the PACE programme.
 
 **Official EPO fees:**
-- Filing fee: EUR 1,775 (online, reduced for small entities and individuals)
-- Search fee: EUR 1,460
-- Examination fee: EUR 1,860
-- Grant fee + publication: EUR 1,240
+- Filing fee: EUR 1'775 (online, reduced for small entities and individuals)
+- Search fee: EUR 1'460
+- Examination fee: EUR 1'860
+- Grant fee + publication: EUR 1'240
 - Validation fees per country: typically EUR 100-800 per country plus translation costs
 
 Switzerland is a member state of the European Patent Convention -- a granted EP patent validated in Switzerland gives the same rights as a Swiss national patent, but with full EPO substantive examination behind it.
@@ -132,7 +138,7 @@ After the international phase (~30 months from priority date), the applicant mus
 | Coverage | Switzerland only | Up to 44 European countries | 150+ countries (national phase required) |
 | Examination | Formal only (no novelty check) | Full substantive examination | International search + optional examination |
 | Timeline to grant | 12-18 months | 3-5 years | 30 months to national phase entry |
-| Cost (official fees) | ~CHF 700 to grant | ~EUR 6,335 to grant + validation | ~CHF 4,000 international phase + national fees |
+| Cost (official fees) | ~CHF 700 to grant | ~EUR 6'335 to grant + validation | ~CHF 4'000 international phase + national fees |
 | Presumed validity | Lower (no examination) | Higher (fully examined) | Depends on national grant |
 | Best for | Swiss-only protection, placeholder | European-wide protection | Multi-continent protection |
 
@@ -168,49 +174,84 @@ Patent prosecution before the EPO and IPI requires technical and legal expertise
 
 Professional fees for drafting a patent application typically range from CHF 5'000-20'000+ depending on technical complexity. Prosecution through EPO to grant typically adds CHF 10'000-30'000 in professional fees.
 
+
+---
+
+## Case Study: Medtech Startup — Wrong Patent Route Cost 18 Months
+
+A Lausanne-based medtech startup developed a novel catheter design and filed a Swiss national patent through the IPI for CHF 200. The founders assumed this gave them meaningful protection and used the "Swiss patent" in investor presentations and term sheets.
+
+**The problem:** A German competitor launched a near-identical product six months later. When the startup sent a cease-and-desist letter referencing the Swiss patent, the competitor's patent attorney pointed out that the Swiss national patent had undergone no substantive examination — no novelty search, no inventive step assessment. The competitor filed a prior art challenge, producing three published papers that anticipated the catheter design. The patent was invalidated.
+
+**What went wrong:**
+- Reliance on a Swiss national patent (formal examination only) as if it were a fully examined patent
+- No EPO filing within the 12-month priority window
+- Investor materials overstated the strength of the IP position
+
+**Resolution:** The startup had disclosed the invention publicly through conference presentations, destroying worldwide novelty. No valid patent could be obtained through any route. The competitor entered the Swiss market freely.
+
+**Lesson:** A Swiss national patent costs CHF 200 and establishes a priority date — that is its value. For genuine protection, file an EPO application within 12 months of the Swiss filing. The additional cost (EUR 4'000-8'000 in official fees) buys real examination. The startup's total loss: 18 months of development time, CHF 150'000 in R&D, and the competitive advantage that an examined patent would have preserved.
+
+---
+
+## Decision Tree: Which Patent Route?
+
+**Start here: How many countries do you need protection in?**
+
+**Switzerland only** → Swiss national patent (IPI). Cost: CHF 200 filing + CHF 500 grant. No substantive examination. Useful only as a placeholder or for inventions with purely local relevance. Timeline: 12-18 months.
+
+**Switzerland + other European countries** → European Patent (EPO). Full examination. Designate Switzerland + target countries. Cost: EUR 6'335 to grant + validation fees. Timeline: 3-5 years. This is the standard commercial route.
+
+**Global protection (US, China, Japan, EU)** → PCT application. File within 12 months of your first filing. Preserves options in 150+ countries. Cost: ~CHF 4'000 for the international phase + national phase fees (significant). Timeline: 30 months to national phase entry.
+
+**Decision factor: budget vs. protection quality.**
+
+| Budget | Route | What you get |
+|---|---|---|
+| Under CHF 1'000 | Swiss national (IPI) | Priority date. No examination. Weak enforcement. |
+| CHF 10'000-30'000 | EPO (Switzerland + key EU markets) | Fully examined patent. Strong enforcement. |
+| CHF 50'000+ | PCT + national phases | Global protection. Full examination in each jurisdiction. |
+
+**The placeholder strategy:** File a Swiss national patent (CHF 200) to secure a priority date. Use the 12-month priority window to assess commercial potential. If the invention has value, file EPO or PCT before the priority expires. If not, let the Swiss patent lapse. Total cost of testing: CHF 200.
+
+---
+
+## Friction Block: What Actually Goes Wrong
+
+**Trap 1 — Treating a Swiss national patent as real protection.** The IPI does not examine novelty or inventive step. A granted Swiss patent may cover an invention that has been publicly known for decades. Competitors who receive a cease-and-desist letter based on an unexamined Swiss patent routinely challenge it — and prevail. Do not use a Swiss national patent as evidence of innovation strength with investors, partners, or in litigation without understanding its limitations.
+
+**Trap 2 — Missing the 12-month priority window.** Once you file your first patent application anywhere in the world, you have exactly 12 months to file in other jurisdictions (or via PCT) while claiming priority from the first filing date. Miss this window, and any public disclosure of the invention between the first filing and the second destroys novelty for the later application. Calendar the deadline.
+
+**Trap 3 — Public disclosure before filing.** A single conference presentation, a published paper, a product demo at a trade fair, or even a social media post describing the invention can destroy worldwide novelty. There is no grace period under Swiss or European patent law (unlike the US, which allows a 12-month grace period). File first, present second.
+
+**Trap 4 — Insufficient R&D documentation for patent box.** If the patent is held by a Swiss company and you intend to claim the cantonal patent box (effective tax rate ~1-3% on qualifying IP income), you need documented R&D expenditure for the OECD DEMPE analysis and nexus ratio. Many applications are rejected because the company cannot demonstrate sufficient Swiss R&D activity. Start documenting from day one, not retroactively.
+
+**Trap 5 — Maintenance fee lapse.** Swiss patents require annual maintenance fees from year 3 onwards (CHF 100-3'000, escalating). Miss a payment and the patent lapses. There is a 6-month grace period with surcharge, but if missed, the patent is gone. Set calendar reminders or use a patent annuity service.
+
+**Real cost of errors:** Losing a patent to an unexamined validity challenge: value of the patent + litigation costs (CHF 100'000+). Missing the priority window: loss of worldwide protection. Insufficient R&D documentation for patent box: loss of tax savings of CHF 100'000+ per year on qualifying IP income.
+
+
 ---
 
 ## Frequently Asked Questions
 
-**Does a European patent automatically protect my invention in Switzerland?**
+**We already have a US patent. Do we need a Swiss patent too?**
+A US patent has zero effect in Switzerland. If a competitor manufactures, sells, or imports your patented product in Switzerland, your US patent gives you no legal basis to stop them. You need either a Swiss national patent, a European patent validated in Switzerland, or a PCT application entering the Swiss national phase. The most efficient route for US patent holders is typically an EPO filing designating Switzerland, which can claim priority from the US filing within 12 months.
 
-Yes, if you validate the EP patent in Switzerland after grant. Validation requires paying a validation fee (typically EUR 100-200 for Switzerland) within 3 months of grant.
+**Is a Swiss national patent worth filing if it is not examined?**
+As standalone protection, rarely. Its primary value is as a priority-establishing mechanism: file at CHF 200, secure a filing date, then decide within 12 months whether to pursue full EPO examination. As commercial protection, a Swiss national patent is weak — any competitor can challenge it in court and, if the invention lacks novelty, the patent is invalidated retroactively. Do not rely on it in investor presentations or licensing negotiations without disclosing its unexamined status.
 
-**Can I file a patent in Switzerland first, then extend internationally?**
+**Our software is innovative — can we patent it in Switzerland?**
+Software as such is not patentable under Swiss or European patent law. However, a technical invention implemented through software — for example, a method for controlling an industrial process or a novel data compression algorithm with a measurable technical effect — may qualify. Pure business logic, user interfaces, and app features generally do not meet the threshold. The assessment is fact-specific and typically requires a patent attorney's opinion before filing.
 
-Yes. Filing a Swiss or EP application establishes a priority date. Within 12 months of that first filing, you can file in other countries (or a PCT application) claiming the same priority date. Disclosure of the invention before the first patent filing destroys novelty -- file before publicly disclosing.
+**How much does full patent protection actually cost over 20 years?**
+Swiss national patent: ~CHF 10'000-15'000 in official fees over 20 years, plus CHF 5'000-20'000 in drafting fees. EPO patent validated in Switzerland + 4 other countries: EUR 20'000-50'000+ total. PCT with national phase entries in US, EU, China, Japan: EUR 80'000-200'000+ over 20 years. These figures include official fees, professional fees, and maintenance fees. Patent protection is not cheap — budget it as a long-term investment, not a one-time expense.
 
-**How long does a Swiss patent last?**
+**Can we claim the Swiss patent box on our patent income?**
+Yes, if the patent is held by a Swiss entity and the OECD nexus ratio (qualifying R&D expenditure / total expenditure) is sufficient. The cantonal patent box can reduce the effective tax rate on qualifying IP income to ~1-3% in cantons like Zug. But many applications are rejected because R&D documentation is insufficient. Start tracking qualifying expenditure from day one. See our [patent box guide](/tax-accounting/patent-box-switzerland/) for the full calculation.
 
-Maximum 20 years from the filing date, subject to payment of annual maintenance fees. If maintenance fees lapse, the patent expires early.
-
-**What is the difference between a patent and a trademark in Switzerland?**
-
-A patent protects a technical invention (a product or process that solves a technical problem in a new way). A [trademark](/intellectual-property/trademark-registration-switzerland/) protects a sign (word, logo, shape) that distinguishes goods or services in the marketplace. These are separate forms of [intellectual property protection](/intellectual-property/ip-protection-switzerland/) with different registration procedures, durations, and enforcement mechanisms.
-
-**Can software be patented in Switzerland?**
-
-Software as such is not patentable in Switzerland or under the European Patent Convention. However, a technical invention that is implemented through software -- for example, a method for controlling an industrial process or a novel data compression algorithm with a technical effect -- can be patented if it meets the requirements of novelty, inventive step, and industrial applicability.
-
-**Do I need a Swiss address to file a patent in Switzerland?**
-
-Swiss residents can file directly with the IPI. Non-residents filing before the EPO do not need a Swiss address, but may need a European patent attorney as representative. For Swiss national patents, non-residents typically appoint a Swiss patent attorney or agent to handle the filing.
-
-**What happens if someone infringes my Swiss patent?**
-
-You can bring an infringement action before the Federal Patent Court in St. Gallen. Remedies include injunctions (to stop the infringing activity), damages, and seizure of infringing products. Preliminary injunctions are available for urgent cases. The court can also order border measures through Swiss customs.
-
-**Can I patent a business method in Switzerland?**
-
-Pure business methods (e.g., a new pricing model or marketing strategy) are not patentable in Switzerland or under the European Patent Convention. If the business method involves a technical implementation that produces a technical effect, the technical aspects may be patentable, but the business method itself is not.
-
-**How much does a patent cost in total, from filing to 20-year maintenance?**
-
-For a Swiss national patent: approximately CHF 10'000-15'000 in official fees over 20 years, plus CHF 5'000-20'000 in professional fees for drafting. For a European patent validated in Switzerland and several other countries: EUR 20'000-50'000+ in total official and professional fees over the life of the patent, depending on the number of countries and complexity.
-
-**Is it possible to file a provisional patent application in Switzerland?**
-
-Switzerland does not have a formal "provisional application" system like the US. However, filing a Swiss national patent application (which is relatively inexpensive) establishes a priority date. You then have 12 months to file a full EP or PCT application claiming that priority. This serves a similar strategic purpose to a US provisional application.
+**What happens if we miss the 12-month priority deadline?**
+You lose the ability to claim priority from your first filing. If you disclosed the invention publicly after the first filing (conference, publication, product launch), that disclosure is now prior art for any subsequent filing. In most cases, this means the invention can no longer be patented anywhere outside the original jurisdiction. The 12-month deadline is non-negotiable.
 
 ---
 

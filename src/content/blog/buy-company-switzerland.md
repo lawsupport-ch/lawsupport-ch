@@ -119,6 +119,18 @@ For a broader look at corporate structuring options, see our guide to [company f
 
 ---
 
+## Case Study: When "Buy a Company" Actually Means "Buy a Shell"
+
+A European investor contacted us to "buy a Swiss company" for a technology services business. After thirty minutes of discussion, we established: he did not want to acquire an operating business with staff, contracts, and liabilities. He wanted a Swiss corporate entity — quickly.
+
+The distinction matters. Buying an operating company involves months of due diligence, SPA negotiation, and post-acquisition integration. Buying a [shelf company](/company-formation/shelf-company-switzerland/) — a clean corporate shell with zero trading history — takes 1-2 days for the transfer and 2-3 weeks for modifications.
+
+His path: a shelf GmbH from our inventory (CHF 15'000, 16 years old), with name change, purpose amendment, and board replacement. Modification cost: approximately CHF 1'700. Registered address in Zug: CHF 2'400/year. Nominee director: CHF 5'900/year. Total first-year cost: approximately CHF 25'000 — versus a fresh GmbH formation at CHF 1'900 registration cost plus CHF 12'000 annual package. He paid a CHF 13'000 premium for the shelf because his banking counterparty required "an established Swiss entity" for a credit facility.
+
+For comparison, a genuine operating company acquisition in Switzerland typically runs 3-5 months from LOI to closing, with legal fees of CHF 20'000-100'000+ depending on deal size and complexity.
+
+---
+
 ## Finding a Swiss Company to Buy
 
 The Swiss SME market is large and relatively illiquid. Most deals happen off-market. Channels worth working:
@@ -278,6 +290,32 @@ Buying a company in Switzerland involves legal, tax, and regulatory consideratio
 
 ---
 
+## Real Problems in Swiss Company Acquisitions
+
+**Banking transition after acquisition.** The acquired company may have an existing bank account, but the bank will conduct fresh KYC on the new ownership structure. PostFinance frequently rejects ownership changes that introduce founders from higher-risk jurisdictions or complex multi-layer structures. UBS requires CHF 500'000+ under management for new non-resident beneficial owners. Budget 4-8 weeks for the banking transition — and identify a backup bank before closing.
+
+**The director replacement gap.** Outgoing directors resign at closing; new directors are appointed simultaneously. But the Commercial Register filing takes 1-2 weeks. During this gap, the company's publicly registered directors do not match the actual board. Plan signing authority carefully during the transition.
+
+**Hidden liabilities in the social insurance system.** Swiss social insurance (AHV/BVG) obligations transfer with the company. An employer who has undercontributed to BVG pension obligations or misclassified employees faces retrospective claims from the compensation office. This is a due diligence item that buyers from common law jurisdictions frequently overlook.
+
+**The Lex Koller trap.** Foreign buyers assume Lex Koller only matters for residential real estate transactions. It becomes relevant the moment your target company owns Swiss residential property — even staff accommodation. One acquisition was delayed by four months because the target held two apartments used as employee housing, triggering a Lex Koller analysis that neither side had anticipated.
+
+---
+
+## AG vs GmbH vs Shelf Company vs Operating Company: Decision Matrix
+
+| Factor | Fresh GmbH | Fresh AG | Shelf Company | Operating Company |
+|---|---|---|---|---|
+| Formation/acquisition cost | CHF 1'900 | CHF 2'500 | CHF 15'000-47'500 | Enterprise value multiples |
+| Time to operational entity | 2-4 weeks | 3-6 weeks | 1-2 days + 2 weeks modifications | 3-5 months |
+| Due diligence required | None | None | Minimal (confirm clean) | Extensive (4-8 weeks) |
+| Existing clients/contracts | None | None | None | Yes (inherited) |
+| Liabilities | None | None | None (confirmed clean) | Yes (inherited) |
+| Registration date | New | New | Original preserved | Original preserved |
+| Ongoing cost (address + nominee + accounting) | ~CHF 12'000/year | ~CHF 12'600/year | ~CHF 11'800/year | Depends on business |
+
+---
+
 ## FAQ
 
 <!-- SCHEMA: FAQPage
@@ -370,7 +408,7 @@ Buying a company in Switzerland involves legal, tax, and regulatory consideratio
       "name": "Do I need a Swiss lawyer to buy a Swiss company?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Swiss law governs the SPA, the share transfer, and the Commercial Register filings. For a GmbH acquisition, a Swiss notary is mandatory. Beyond the formalities, the complexity of warranty negotiations, tax structuring, and regulatory clearances makes experienced Swiss M&A counsel essential for any transaction of material size. Buyers who rely solely on foreign counsel or attempt to self-navigate Swiss corporate law routinely encounter delays and preventable liability exposure."
+        "text": "Swiss law governs the SPA, the share transfer, and the Commercial Register filings. For a GmbH acquisition, a Swiss notary is mandatory. Beyond the formalities, the complexity of warranty negotiations, tax structuring, and regulatory clearances makes experienced Swiss M&A counsel essential for any transaction of material size. Buyers who rely solely on foreign counsel or attempt to handle Swiss corporate law without local counsel routinely encounter delays and preventable liability exposure."
       }
     }
   ]
@@ -419,7 +457,7 @@ For an AG: the share transfer itself is not registered in the [Commercial Regist
 
 **Do I need a Swiss lawyer to buy a Swiss company?**
 
-Swiss law governs the SPA, the share transfer, and the Commercial Register filings. For a GmbH acquisition, a Swiss notary is mandatory. Beyond the formalities, the complexity of warranty negotiations, tax structuring, and regulatory clearances makes experienced Swiss M&A counsel essential for any transaction of material size. Buyers who rely solely on foreign counsel or attempt to self-navigate Swiss corporate law routinely encounter delays and preventable liability exposure.
+Swiss law governs the SPA, the share transfer, and the Commercial Register filings. For a GmbH acquisition, a Swiss notary is mandatory. Beyond the formalities, the complexity of warranty negotiations, tax structuring, and regulatory clearances makes experienced Swiss M&A counsel essential for any transaction of material size. Buyers who rely solely on foreign counsel or attempt to handle Swiss corporate law without local counsel routinely encounter delays and preventable liability exposure.
 
 ---
 

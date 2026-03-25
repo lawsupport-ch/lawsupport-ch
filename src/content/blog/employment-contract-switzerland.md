@@ -39,12 +39,14 @@ Swiss employment contracts are governed by Articles 319–362 of the Code of Obl
 
 ---
 
-## Written vs Verbal Contracts
+## Why Verbal Contracts Fail Foreign Employers
 
-Swiss law does not mandate a written employment contract for most positions. A verbal agreement is legally binding. However:
-- If no written contract exists, the employee's stated version of the terms is generally presumed correct in disputes
-- Certain clauses (non-compete, fixed-term agreements, specific working conditions) should always be in writing to be enforceable
-- If any party requests a written summary of key terms, the other must provide it (Art. 330b OR)
+Swiss law does not mandate a written employment contract -- a verbal agreement is legally binding. This trips up foreign entrepreneurs who assume informality works both ways. It does not. Without a written contract, the employee's stated version of the terms is generally presumed correct in disputes. We have seen founders lose salary disputes because they had no signed document specifying a bonus structure.
+
+**Three clauses that must be in writing to be enforceable:**
+- Non-compete agreements (Art. 340 OR) -- an oral non-compete is void
+- Fixed-term arrangements -- without written confirmation, the contract is presumed open-ended
+- Specific working conditions (overtime waiver, intellectual property assignment)
 
 In practice, all Swiss employment contracts should be in writing. For foreign employees requiring work permits, a written contract is mandatory for the permit application. See our [work permit Switzerland](/immigration/work-permit-switzerland/) guide for full documentation requirements.
 
@@ -153,6 +155,10 @@ For companies with intellectual property assets, see our [IP protection Switzerl
 ## Intellectual Property
 
 Work created by an employee in the exercise of their employment duties belongs to the employer (Art. 332 OR). The employee must transfer all rights to inventions made in connection with their work. Inventions made outside working hours on unrelated matters belong to the employee.
+
+### Case Study: Contract Gaps in a Cross-Border Hire
+
+A European tech founder relocating from London to Switzerland hired two developers before his AG was fully registered in the Commercial Register. The employment contracts were drafted in English using a UK template, with no Swiss-specific clauses. Three problems surfaced within six months: (1) the contracts contained no probation period clause, so the default one-month probation applied -- the founder had assumed UK-style six-month probation was in effect; (2) the non-compete clause referenced English law and was unenforceable under Swiss Art. 340 OR; (3) the overtime waiver was drafted for employees earning below the CHF 120'000 threshold where Swiss courts have overturned such waivers. All three issues required contract amendments, employee re-negotiations, and legal fees that exceeded the cost of proper Swiss contract drafting from the start.
 
 ---
 

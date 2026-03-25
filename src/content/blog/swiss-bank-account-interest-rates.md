@@ -177,6 +177,34 @@ For entrepreneurs [starting a business in Switzerland](/company-formation/start-
 
 ---
 
+## The Hidden Cost: Getting Rejected Costs More Than Low Interest
+
+Foreign founders often research Swiss interest rates before they have secured a bank account. The more pressing question is whether a Swiss bank will accept them at all.
+
+From our practice handling 300+ company formations: Swiss banks reject 20-30% of foreign company account applications outright. The rejection reasons have nothing to do with interest rates:
+
+| Rejection Reason | How Common | Example |
+|---|---|---|
+| US nexus at UBO/shareholder level | Very common | Relio AG: "unable to onboard companies with US nexus at UBO/shareholders level" |
+| Brand-sensitive company name | Common at PostFinance | Company with "Tesla" in name rejected after compliance questioned the name choice |
+| Insufficient business documentation | Common | PostFinance requires business plan, CVs, employment contracts, transaction descriptions |
+| High-risk jurisdiction of founder | Common | FATF grey-listed country triggers enhanced due diligence or refusal |
+| AML/WorldCheck flags | Moderate | Even false positives from common names delay or block account opening |
+
+**The practical reality for corporate accounts:** Your share capital sits in a blocked [capital deposit account](/banking/capital-deposit-account-switzerland/) earning zero interest for 2-6 weeks during formation. Once released, the operating account at most banks pays 0.0% on current balances. Relio AG charges CHF 249/month regardless of balance. At 0.10% interest on CHF 100'000, annual interest is CHF 100; annual Relio fees are CHF 2'988. Interest rates are a secondary concern. Getting accepted is the primary one.
+
+### Bank Comparison for Foreign Clients
+
+| Factor | UBS | PostFinance | Relio AG | Cantonal Banks | Private Banks |
+|---|---|---|---|---|---|
+| **Minimum threshold** | CHF 500'000 AUM | None | CHF 249/month | None (substance expected) | CHF 4'000'000-6'000'000 |
+| **CHF savings rate** | 0.05-0.10% | 0.05-0.15% | N/A (no savings product) | 0.10-0.25% | 0.20-0.50% |
+| **US persons** | Yes (FATCA) | Rarely | No | Rarely | Rarely |
+| **Rejection rate (foreign)** | High | Very high | Low (no US nexus) | Moderate | Low (if minimum met) |
+| **Timeline** | 8-12 weeks | 3-4 weeks (often to rejection) | Same day | 4-6 weeks | 4-12 weeks |
+
+---
+
 ## Frequently Asked Questions
 
 **Do Swiss banks charge fees on savings accounts?**

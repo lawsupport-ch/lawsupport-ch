@@ -18,8 +18,8 @@ faqItems:
   - question: "Can a Swiss tax adviser help with international tax planning?"
     answer: "Yes. Swiss tax advisory routinely involves cross-border elements — double tax treaty analysis, transfer pricing, withholding tax optimisation, and coordinating with advisers in other jurisdictions. Switzerland's network of over 100 double tax treaties and its participation in the OECD BEPS framework make it a structurally sound base for international tax planning."
 tocItems:
-  - id: "what-swiss-tax-advisory-covers"
-    title: "What Swiss Tax Advisory Covers"
+  - id: "tax-planning-gaps-that-cost-companies-chf-50000"
+    title: "Tax Planning Gaps That Cost Companies CHF 50'000+"
   - id: "what-we-do-not-do"
     title: "What We Do Not Do"
   - id: "our-approach-to-tax-advisory"
@@ -33,11 +33,13 @@ Tax advisory in Switzerland covers the strategic planning of your company's stru
 
 ---
 
-## What Swiss Tax Advisory Covers
+## Tax Planning Gaps That Cost Companies CHF 50'000+
 
-Tax advisory in the Swiss corporate context is not tax filing — it is strategic planning. The goal is to ensure that the structure, financing, and operations of your Swiss company are arranged to minimise tax liability within the law and consistent with international standards.
+The difference between a company that engaged tax advisory before formation and one that did it afterwards is typically CHF 40'000-200'000 per year in unnecessary tax. The most common gap: choosing the wrong canton. A company in Zurich paying 20% on CHF 1 million profit could pay 11.85% in Zug — a CHF 81'500 annual difference. The second most common: failing to obtain an advance ruling on a non-standard structure, then discovering the tax treatment is worse than assumed.
 
-The areas where Swiss tax advisory has the greatest impact:
+Tax advisory in the Swiss corporate context is strategic planning — not tax filing. The goal is to ensure that the structure, financing, and operations of your Swiss company are arranged to minimise tax liability within the law and consistent with international standards.
+
+The areas where Swiss tax advisory has the greatest measurable impact:
 
 **1. Entity structure and canton selection**
 The choice of canton is one of the most consequential tax decisions you make at [company formation](/company-formation/company-formation-switzerland/). The effective combined corporate tax rate varies substantially by canton: Zug at approximately 11.85%, Basel-Stadt at 13%, Basel-Land at 17%, and Zurich at approximately 20%. For a company generating CHF 1 million in taxable profit annually, the difference between Zug and Zurich exceeds CHF 80,000 per year — a cost differential that compounds over the life of the business. Advice on this decision — which must be made before formation — is among the highest-return planning activities available. [See Swiss tax rates by canton](/tax-accounting/swiss-tax-rates-by-canton/)
@@ -134,6 +136,26 @@ Swiss tax law limits interest deductions on related-party debt exceeding safe ha
 **Is Swiss tax advisory only for large companies?**
 
 No. SMEs and startups benefit significantly from tax advisory, particularly at formation when choosing the right canton and entity type. A GmbH in Zug with CHF 500,000 annual profit saves approximately CHF 40,000 per year compared to the same company in a high-tax canton. The advisory cost is typically recovered within the first year.
+
+---
+
+## The Diagnostic: Does Your Swiss Structure Have a Tax Planning Gap?
+
+Answer these questions to identify whether your current structure is leaving money on the table:
+
+1. **Canton selection:** Is your company in a canton with an effective rate above 14%? If your business could operate from Zug (11.85%) or Lucerne (12.3%), the rate differential alone may justify relocation.
+
+2. **Advance ruling:** Did you obtain a binding tax ruling before implementing your structure? If not, every non-standard element (IP Box, participation exemption, intercompany pricing) carries unconfirmed risk.
+
+3. **Transfer pricing documentation:** Do you have a contemporaneous Local File for all material intercompany transactions? If the cantonal inspector requests documentation and you have none, the burden of proof shifts to you — and the 35% withholding tax risk on hidden dividends is immediate.
+
+4. **Withholding tax planning:** Have you arranged relief at source for regular dividend distributions? If you are still in a withhold-and-refund cycle, you have CHF 50'000-500'000 locked at the ESTV at any given time.
+
+5. **Thin capitalisation:** Are your intercompany loans within the ESTV safe harbour ratios? Excess interest is reclassified as a hidden dividend — subject to 35% withholding tax and non-deductible for income tax.
+
+6. **Stamp duty:** Did you overcapitalise your company? Equity above CHF 1 million triggers 1% [stamp duty](/tax-accounting/stamp-duty-switzerland/) that could have been avoided through shareholder loans.
+
+**If you answered "no" or "not sure" to any of these, your structure has an identifiable planning gap.** The cost of closing these gaps is typically CHF 2'000-15'000 in advisory fees — a fraction of the annual tax saving.
 
 ---
 

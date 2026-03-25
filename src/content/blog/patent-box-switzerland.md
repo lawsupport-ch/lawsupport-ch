@@ -38,6 +38,10 @@ tocItems:
     title: "Real-World Scenario: Software Patent Held in Zug"
   - id: "how-lawsupport-helps"
     title: "How Lawsupport Helps"
+  - id: "friction-block-why-patent-box-applications-fail"
+    title: "Friction Block: Why Patent Box Applications Fail"
+  - id: "case-study-dempe-analysis-failure"
+    title: "Case Study: DEMPE Analysis Failure"
 ---
 
 
@@ -102,26 +106,26 @@ Only this qualifying portion receives the cantonal tax reduction of up to 90%.
 
 ### Worked Example
 
-A Zug-based biotech company earns CHF 2,000,000 in net royalty income from a registered patent.
+A Zug-based biotech company earns CHF 2'000'000 in net royalty income from a registered patent.
 
-- Qualifying R&D expenditures (in-house): CHF 800,000
-- Costs of acquiring the patent from a related party: CHF 200,000
-- Total expenditures: CHF 1,000,000
-- 30% uplift applied: qualifying expenditures become CHF 1,040,000 (CHF 800,000 x 1.30)
-- Nexus Ratio: CHF 1,040,000 / CHF 1,000,000 = capped at 100% -> 100%
+- Qualifying R&D expenditures (in-house): CHF 800'000
+- Costs of acquiring the patent from a related party: CHF 200'000
+- Total expenditures: CHF 1'000'000
+- 30% uplift applied: qualifying expenditures become CHF 1'040'000 (CHF 800'000 x 1.30)
+- Nexus Ratio: CHF 1'040'000 / CHF 1'000'000 = capped at 100% -> 100%
 
-In this case, the full CHF 2,000,000 qualifies.
+In this case, the full CHF 2'000'000 qualifies.
 
 Now apply the cantonal reduction:
 
-- Maximum reduction: 90% of CHF 2,000,000 = CHF 1,800,000 exempt from cantonal tax
-- Taxable IP income at cantonal level: CHF 200,000
+- Maximum reduction: 90% of CHF 2'000'000 = CHF 1'800'000 exempt from cantonal tax
+- Taxable IP income at cantonal level: CHF 200'000
 - Effective cantonal + communal rate in Zug: approx. 11.8%
-- Tax on qualifying income: approx. CHF 23,600 instead of CHF 236,000
+- Tax on qualifying income: approx. CHF 23'600 instead of CHF 236'000
 
-That is a saving of approximately **CHF 212,400 per year** on qualifying income of CHF 2,000,000 -- in Zug alone, and before considering the federal corporate tax (which does not benefit from the IP Box, but remains fixed at 8.5% on profit before tax). The same company domiciled in Zurich (ordinary rate ~20%) would save considerably more in absolute terms through the Patent Box, but would still pay more total tax than in Zug. Canton selection and Patent Box application are not independent decisions -- they must be planned together. The same company domiciled in Zurich (ordinary rate ~20%) would save considerably more in absolute terms through the Patent Box, but would still pay more total tax than in Zug. Canton selection and Patent Box application are not independent decisions -- they must be planned together.
+That is a saving of approximately **CHF 212'400 per year** on qualifying income of CHF 2'000'000 -- in Zug alone, and before considering the federal corporate tax (which does not benefit from the IP Box, but remains fixed at 8.5% on profit before tax). The same company domiciled in Zurich (ordinary rate ~20%) would save considerably more in absolute terms through the Patent Box, but would still pay more total tax than in Zug. Canton selection and Patent Box application are not independent decisions -- they must be planned together. The same company domiciled in Zurich (ordinary rate ~20%) would save considerably more in absolute terms through the Patent Box, but would still pay more total tax than in Zug. Canton selection and Patent Box application are not independent decisions -- they must be planned together.
 
-If the nexus ratio were lower -- say 60% because 40% of R&D was outsourced to a related parent -- then only CHF 1,200,000 would qualify, and the saving would be proportionately reduced.
+If the nexus ratio were lower -- say 60% because 40% of R&D was outsourced to a related parent -- then only CHF 1'200'000 would qualify, and the saving would be proportionately reduced.
 
 ---
 
@@ -231,17 +235,17 @@ A US-founded SaaS company has developed a patented method for real-time data com
 
 They incorporate a **Swiss AG in Zug**, which acquires the patent from the US parent at arm's length value (documented by [transfer pricing](/tax-accounting/transfer-pricing-switzerland/) analysis). The Zug AG licenses the patent back to the US operating company and to a newly established UK subsidiary.
 
-In year one, royalty income is CHF 1,500,000. In-house R&D in Switzerland amounts to CHF 600,000 (two senior engineers employed in Zug). The nexus ratio is calculated at 78% after accounting for acquisition cost and the 30% uplift.
+In year one, royalty income is CHF 1'500'000. In-house R&D in Switzerland amounts to CHF 600'000 (two senior engineers employed in Zug). The nexus ratio is calculated at 78% after accounting for acquisition cost and the 30% uplift.
 
-Qualifying IP income: CHF 1,170,000.
+Qualifying IP income: CHF 1'170'000.
 
-After 90% Patent Box reduction: CHF 117,000 taxable at cantonal level.
+After 90% Patent Box reduction: CHF 117'000 taxable at cantonal level.
 
-Effective cantonal tax: approximately CHF 13,800.
+Effective cantonal tax: approximately CHF 13'800.
 
-Without the Patent Box, cantonal tax on CHF 1,500,000 at 11.8% would be CHF 177,000.
+Without the Patent Box, cantonal tax on CHF 1'500'000 at 11.8% would be CHF 177'000.
 
-Annual saving: approximately **CHF 163,000**. Over a five-year horizon, this exceeds CHF 800,000 -- more than justifying the cost of the structure and the advance ruling process.
+Annual saving: approximately **CHF 163'000**. Over a five-year horizon, this exceeds CHF 800'000 -- more than justifying the cost of the structure and the advance ruling process.
 
 ---
 
@@ -261,17 +265,54 @@ We are not a large law firm. We are a focused Swiss corporate and tax advisory f
 
 For the legal basis of the Patent Box, see <a href="https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/en" target="_blank" rel="nofollow noopener">the Federal Tax Harmonisation Act (StHG) on Fedlex</a>. For the OECD nexus approach guidance, see the <a href="https://www.oecd.org/en/topics/sub-issues/harmful-tax-practices.html" target="_blank" rel="nofollow noopener">OECD Action 5 documentation</a>. The <a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">Swiss Federal Tax Administration (ESTV)</a> publishes circulars on federal-cantonal coordination of the IP Box.
 
+
+---
+
+## Friction Block: Why Patent Box Applications Fail
+
+**Trap 1 — Insufficient R&D documentation for the nexus ratio.** The single most common reason Patent Box claims are reduced or rejected is that the company cannot produce adequate documentation of qualifying R&D expenditure. The nexus ratio requires a clear, contemporaneous record of which costs were incurred by the Swiss company itself (qualifying) versus outsourced to related parties (non-qualifying, except via the 30% uplift). Retroactive reconstruction of these records is expensive, unreliable, and viewed with suspicion by cantonal tax authorities. Start tracking from the moment the Swiss entity incurs its first R&D expense.
+
+**Trap 2 — Trademarks and know-how do not qualify.** Every quarter, we see companies approach us expecting to shelter brand royalties or licensing fees for unpatented know-how under the Patent Box. These rights are explicitly excluded. Only registered patents, supplementary protection certificates, and patent-equivalent rights qualify. If your IP portfolio is primarily trademark-based, the Patent Box does not apply to your income. Restructuring around a registered patent takes time — typically 2-5 years for a patent to be granted via the EPO.
+
+**Trap 3 — The 70% cap catches people off guard.** The combined relief from all TRAF instruments (Patent Box + R&D super-deduction + other cantonal measures) is capped at a 70% reduction of taxable cantonal profit. Companies that model the Patent Box in isolation, without accounting for the cap, overestimate the tax saving. If you are also claiming the R&D super-deduction, run the combined calculation before committing to a structure.
+
+**Trap 4 — Transfer pricing on IP acquisition.** When a Swiss holding acquires patents from a foreign related entity, the transfer price must be at arm's length and documented by a proper transfer pricing study. The Swiss Federal Tax Administration and cantonal authorities actively audit intragroup IP transfers. An inflated acquisition price reduces the nexus ratio (acquisition costs count as non-qualifying expenditure), while an understated price raises transfer pricing challenges in the selling jurisdiction. Get the valuation right from the start.
+
+**Trap 5 — Substance requirements are real.** A Zug GmbH with no employees, no office beyond a registered address, and no Swiss decision-making authority over the IP will not sustain a Patent Box claim under audit. The OECD nexus approach requires genuine economic activity. At minimum: qualified personnel in Switzerland who manage the IP, make licensing decisions, and direct R&D activities. The days of "brass plate" IP holding companies are over.
+
+**Real numbers on rejection:** Based on our advisory experience, approximately 30-40% of initial Patent Box structures we review (typically set up by the company's general counsel without specialist tax advice) have material deficiencies that would result in a reduced or rejected claim. The advance ruling process exists precisely to catch these issues before they become audit problems.
+
+---
+
+## Case Study: DEMPE Analysis Failure — Tech Company Loses CHF 450'000 in Annual Tax Savings
+
+A UK-headquartered SaaS company incorporated a Swiss AG in Zug to hold a registered European patent on its core data analytics algorithm. The patent was transferred from the UK parent at a documented arm's length price of CHF 2'000'000. The Zug entity had a managing director (part-time) and a registered office.
+
+**Year 1:** The company claimed the Patent Box on CHF 3'000'000 of royalty income. The advance ruling application was initially accepted in principle.
+
+**Year 2 audit:** The Zug cantonal tax authority requested the OECD DEMPE analysis (Development, Enhancement, Maintenance, Protection, Exploitation of the IP). The company could not demonstrate:
+- Any Swiss-based R&D personnel (all development was in the UK)
+- Decision-making authority over the patent in Switzerland (licensing decisions were made by the UK board)
+- Genuine enhancement or maintenance activities in Switzerland
+
+**Result:** The nexus ratio was recalculated to approximately 15% (only the 30% uplift on qualifying expenditure applied, against a denominator that included the full CHF 2'000'000 acquisition cost). The qualifying IP income dropped from CHF 3'000'000 to CHF 450'000. The annual tax saving fell from approximately CHF 300'000 to approximately CHF 45'000. The company was also assessed back-tax on the Year 1 over-claim.
+
+**The fix (implemented in Year 3):** The company hired two senior engineers in Zug, relocated patent management decisions to the Swiss board, and began conducting genuine R&D activity in Switzerland. By Year 4, the nexus ratio reached 72% and the annual saving recovered to approximately CHF 215'000. The two Zug engineers' total employment cost: CHF 360'000/year — justified by the tax saving and the genuine commercial value of having Swiss-based technical staff.
+
+**Lesson:** The Patent Box rewards genuine Swiss substance. It does not reward shell structures. The advance ruling is not a guarantee — it is valid only as long as the facts match the ruling application. If the substance changes (or was never there), the ruling is worthless.
+
+
 ---
 
 ## Frequently Asked Questions
 
-**Does the Swiss Patent Box apply to federal corporate tax?**
+**Our CFO says the Patent Box only saves cantonal tax, so the benefit is small. Is that true?**
 
-No. The Patent Box reduction applies only at the cantonal and communal tax level. Federal corporate income tax continues to apply at the standard rate (8.5% on pre-tax profit). However, since cantonal and communal taxes represent the majority of a Swiss company's overall tax burden in low-tax cantons like Zug, the Patent Box still produces a very material reduction in the effective combined rate.
+The Patent Box applies to cantonal and communal tax only — federal corporate tax (8.5% on pre-tax profit) is unaffected. But in a low-tax canton like Zug, cantonal and communal tax make up approximately 60-70% of the total tax burden. A 90% reduction on that portion brings the effective rate on qualifying IP income from ~11.85% to ~1.2-2.5% (cantonal) + ~7.8% (federal) = ~9-10% combined. For a company with CHF 2'000'000 in qualifying IP income, that is a saving of approximately CHF 40'000-60'000 per year in Zug — and substantially more in higher-tax cantons like Zurich (~20% ordinary rate).
 
-**Can a company with no Swiss R&D team use the Patent Box?**
+**We do all our R&D abroad. Can we still benefit from the Patent Box?**
 
-Only to a limited extent. The nexus ratio directly ties the benefit to qualifying R&D expenditures -- costs incurred by the Swiss company itself or through unrelated third parties. If all R&D is carried out by a foreign parent or related group company, the nexus ratio will be low (potentially close to zero), and most of the IP income will not qualify. To maximise the Patent Box benefit, genuine R&D activity or outsourcing to unrelated Swiss research providers is necessary.
+Barely. The nexus ratio ties the benefit directly to qualifying R&D expenditure — costs incurred by the Swiss entity itself or outsourced to unrelated third parties. If all R&D is performed by a foreign parent or related group company, your nexus ratio approaches zero, and almost none of the IP income qualifies. The 30% uplift on qualifying expenditure provides a small buffer, but it cannot compensate for the absence of Swiss R&D. To make the Patent Box worthwhile, you need genuine R&D activity in Switzerland — even if it is a focused team of 2-3 engineers working on enhancement and maintenance of the patented technology.
 
 **We hold a registered EU trademark that generates significant royalties. Does this qualify?**
 
@@ -291,7 +332,7 @@ Switzerland is not an EU member state, so EU state aid rules do not directly app
 
 **What is the minimum IP income required to make the Patent Box worthwhile?**
 
-There is no statutory minimum. However, from a practical standpoint, the costs of establishing an IP holding structure, obtaining an advance ruling, and maintaining annual compliance mean that the Patent Box typically becomes economically attractive when qualifying IP income exceeds approximately CHF 200,000 to CHF 500,000 per year. Below that level, the administrative costs may outweigh the tax saving.
+There is no statutory minimum. However, from a practical standpoint, the costs of establishing an IP holding structure, obtaining an advance ruling, and maintaining annual compliance mean that the Patent Box typically becomes economically attractive when qualifying IP income exceeds approximately CHF 200'000 to CHF 500'000 per year. Below that level, the administrative costs may outweigh the tax saving.
 
 **Can the Patent Box be combined with the participation exemption?**
 

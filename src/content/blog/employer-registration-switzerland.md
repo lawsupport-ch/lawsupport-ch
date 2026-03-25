@@ -158,7 +158,27 @@ For ongoing [accounting in Switzerland](/tax-accounting/accounting-switzerland/)
 
 ---
 
+## Registration Friction: What Actually Goes Wrong
+
+### Banking Delays Kill Payroll Timelines
+
+You cannot process payroll without a corporate bank account. Banks reject corporate account applications more often than expected -- particularly for foreign-owned companies or entities with names that trigger trademark concerns. One client's company name included a well-known brand term; PostFinance rejected the application, and two additional banks followed suit. The employer had already signed employment contracts with start dates, creating a salary obligation with no way to pay. Always secure your bank account before signing employment contracts with specific start dates.
+
+### The Blue Pen Rule
+
+Work permit renewal applications must be physically signed in blue pen. Digital signatures (DocuSign, Adobe Sign, qualified electronic signatures) are not accepted by cantonal migration offices. This is an administrative practice, not a legal requirement under the AIG -- but submitting a digitally signed renewal will be returned, adding 2-4 weeks to the processing timeline. The same applies to employment termination letters and settlement declarations.
+
+### Case Study: The Retroactive AHV Assessment
+
+A non-resident founder formed a GmbH in Zug, appointed himself as director with a modest salary, and began operations. He did not register with the cantonal Ausgleichskasse for six months, assuming registration could wait until the company was "fully operational." The Ausgleichskasse assessed retroactive contributions from the date of the first salary payment, with 5% interest per annum. Because the employer-paid contributions should have been withheld from the director's salary each month, the employer could not recover the employee's share retroactively -- the company bore both halves for the six-month gap. Total additional cost: approximately CHF 4'200 plus administrative penalties. Registration takes 1-2 weeks and costs nothing. There is no reason to delay.
+
+---
+
 ## Frequently Asked Questions
+
+**What if we cannot open a bank account before the first employee's start date?**
+
+This is a real problem. Banks reject corporate account applications frequently for foreign-owned companies. Your salary obligation exists from day one of the employment contract -- regardless of banking status. If your bank application is pending, delay the employment start date. Alternatively, identify a backup bank before the primary application is submitted. US persons as sole directors face particular difficulty -- most Swiss banks will not open accounts for US persons due to FATCA reporting obligations.
 
 **When must employer registrations be completed relative to the start of employment?**
 

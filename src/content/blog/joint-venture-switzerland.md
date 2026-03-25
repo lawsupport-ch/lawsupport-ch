@@ -33,19 +33,29 @@ A joint venture (JV) in Switzerland is a commercial cooperation between two or m
 
 ---
 
+## Common JV Mistakes That Cost CHF 10'000+ to Fix
+
+Before choosing a JV structure, understand the three mistakes that derail most Swiss joint ventures:
+
+**1. No deadlock resolution mechanism.** A 50/50 JV with no deadlock clause is a lawsuit waiting to happen. When the partners disagree on a material decision, there is no tiebreaker. Swiss courts will not intervene unless the SHA explicitly provides for it. One 50/50 JV we were asked to untangle spent CHF 45'000 in legal fees over a dispute about expanding into a new market — a Russian roulette clause in the original SHA would have resolved it in a week.
+
+**2. Wrong structure for the relationship.** A contractual JV (simple partnership) means joint and several liability for all partners. If your counterparty enters into obligations you did not approve, you are still liable. A JV company (GmbH or AG) ring-fences liability to the entity. Formation cost: CHF 1'900 for a GmbH, CHF 2'500 for an AG. That is cheap insurance.
+
+**3. No exit provisions.** When one partner wants out, the SHA should specify the mechanism: buy-sell options, right of first refusal, drag-along and tag-along rights. Without these, the exiting partner can sell to a competitor, or the remaining partner faces years of deadlock.
+
+---
+
 ## Contractual Joint Venture (Simple Partnership — Einfache Gesellschaft)
 
-The simplest form: the parties enter into a JV agreement without creating a new legal entity. The cooperation is governed by an agreement and, under Swiss law, by the rules of the simple partnership (einfache Gesellschaft, Art. 530–551 OR).
+The simplest form: no new legal entity is created. The cooperation is governed by an agreement and the rules of the simple partnership (einfache Gesellschaft, Art. 530-551 OR).
 
 **Characteristics:**
 - No legal entity — the JV itself cannot own property or enter contracts in its own name
-- Each party remains individually liable for its own obligations
-- Joint liability: for obligations entered into jointly, partners are jointly and severally liable unless otherwise agreed
+- Joint and several liability for obligations entered into jointly
 - No [commercial register](/company-formation/commercial-register-switzerland/) filing required
+- Tax-transparent — profits taxed at partner level, not JV level
 
-**When appropriate:** Short-term projects, construction consortia, specific-purpose cooperations where creating a new company is disproportionate.
-
-**Key agreement terms:** Governance (decision-making, voting rights), profit sharing, capital contributions, liability allocation, exit provisions, non-compete during and after JV term.
+**When appropriate:** Short-term projects, construction consortia, exploratory-phase cooperations where forming a company is premature. The hybrid approach — starting with a contractual JV during the exploratory phase, converting to a company JV once the commercial model is proven — avoids locking both parties into a formal structure before the business case is validated.
 
 ---
 
@@ -117,6 +127,35 @@ Switzerland is a common JV location for European and international industrial an
 - Access to Swiss banking for JV operations
 
 For an overview of what it takes to set up any type of business entity, see [company formation in Switzerland](/company-formation/company-formation-switzerland/).
+
+---
+
+## Case Study: The Pharmaceutical JV That Started Wrong
+
+Two European pharmaceutical companies wanted to jointly develop a medical device for the Swiss market. They started with a contractual JV (einfache Gesellschaft) to "keep things simple." Within six months, they needed to hire Swiss staff, lease laboratory space, sign supply agreements, and apply for Swissmedic authorisation. The simple partnership could not do any of this in its own name — every contract required both partners' signatures, creating logistical friction and liability exposure.
+
+They formed a JV GmbH in Zug. Cost: CHF 1'900 registration, plus CHF 2'400/year registered address and CHF 5'900/year nominee director (neither partner had Swiss-resident personnel). Total first-year overhead: approximately CHF 12'000. The JV GmbH hired staff, signed contracts, and applied for regulatory approvals in its own name. Both partners' liability was limited to their capital contribution of CHF 10'000 each.
+
+The lesson: if the JV will employ people, sign contracts, or hold regulatory approvals, form a company from the start.
+
+---
+
+## JV Structure Decision Matrix
+
+| Factor | Contractual JV | JV GmbH | JV AG |
+|---|---|---|---|
+| Formation cost | Legal fees for agreement only | CHF 1'900 (incl. notary) | CHF 2'500 (incl. notary) |
+| Minimum capital | None | CHF 20'000 (fully paid) | CHF 100'000 (CHF 50'000 paid in) |
+| Separate legal entity | No | Yes | Yes |
+| Liability | Joint and several | Limited to entity assets | Limited to entity assets |
+| Tax treatment | Transparent (partners taxed) | Corporate tax on JV profits | Corporate tax on JV profits |
+| Partner privacy | N/A | GmbH: partners public | AG: partners private |
+| Can hire employees | Through partners only | Yes, in JV name | Yes, in JV name |
+| Share classes | N/A | One class | Multiple classes possible |
+| Exit mechanism | Per agreement | Share transfer (notarial) | Share transfer (free unless restricted) |
+| Registered address (Zug) | N/A | CHF 2'400/year | CHF 2'400/year |
+| Nominee director | N/A | CHF 5'900/year | CHF 5'900/year |
+| Best for | Short-term, exploratory | Operating JVs, 50/50 structures | Unequal participation, future investors |
 
 ---
 

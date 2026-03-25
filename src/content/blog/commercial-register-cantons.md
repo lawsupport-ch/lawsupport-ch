@@ -40,21 +40,20 @@ Understanding which cantonal office governs your company, how to obtain official
 
 ---
 
-## What the Commercial Register Contains
+## Why Your Canton Choice Affects Registration Speed
 
-The Commercial Register contains publicly available information for every registered Swiss entity:
+The Commercial Register contains publicly available information for every registered Swiss entity: company name, address, legal form, purpose, share capital, directors with signatory authority, date of registration, and all subsequent changes.
 
-- **Company name (Firma)**
-- **Registered address (Domizil)**
-- **Legal form** (AG, GmbH, Kommanditgesellschaft, etc.)
-- **Purpose (Zweck)** of the company
-- **Share capital** (for AG and GmbH)
-- **Directors and authorised signatories** with signature authority type (individually, jointly with another, etc.)
-- **Registered agent / domicile provider** (if applicable)
-- **Date of registration** and any subsequent changes
-- **Journal entries** — chronological record of all filed changes
-- **Statutes / articles of association** (filed with each registration or amendment)
-- **Auditor** (for companies subject to statutory audit)
+But not all cantonal offices operate at the same speed:
+
+| Canton | Typical GmbH Registration | Typical AG Registration |
+|---|---|---|
+| Zug | 10-15 business days | 15-20 business days |
+| Zurich | 15-20 business days | 20-25 business days |
+| Geneva | 15-25 business days | 20-30 business days |
+| Bern | 15-20 business days | 20-25 business days |
+
+Summer filings (July-August) process faster across all cantons. The pre-Christmas period (November-December) is consistently slower. In problem cases -- complex foreign ownership, incomplete documentation -- registration can take 3+ months regardless of canton.
 
 The Commercial Register is the authoritative source for Swiss entity information and is updated upon every change in company details. Its public nature means that counterparties, banks, and authorities rely on it for due diligence.
 
@@ -183,6 +182,10 @@ New company registrations are filed with the cantonal Handelsregisteramt where t
 
 **2025 shell company rules:** For Mantelgesellschaft (shell company) transfers, the register now requires changes in two stages — first name and board, then business activity. Single-stage filings are rejected. The register can also void transfers it considers lacking genuine commercial substance.
 
+### Case Study: The Domain Squatting Problem
+
+A holding group purchasing a vintage Zurich AG discovered that domain squatters monitor SHAB (Swiss Official Gazette of Commerce) publications. The SHAB publishes new company names as part of the registration process. Within 48 hours of the SHAB publication showing the new company name, the matching .ch domain was registered by a speculator. The cost of recovering a squatted domain through WIPO dispute resolution exceeded CHF 5'000 and took four months. The cost of registering the domain before filing with the notary: CHF 12 per year. Always register your domain before the notarial appointment.
+
 For a full walkthrough of the incorporation process, see our [company formation Switzerland](/company-formation/company-formation-switzerland/) guide. For the specific rules on [GmbH formation](/company-formation/gmbh-formation-switzerland/) and [AG formation](/company-formation/ag-formation-switzerland/), we have dedicated guides for each entity type.
 
 Canton selection matters: Zug processes registrations efficiently and its administration is experienced with international structures. See our [company formation in Zug](/company-formation/company-formation-zug/) guide for the canton-specific advantages. For Zurich-based companies, see [company formation in Zurich](/company-formation/company-formation-zurich/).
@@ -191,17 +194,13 @@ Canton selection matters: Zug processes registrations efficiently and its admini
 
 ## Frequently Asked Questions
 
-**Is the Swiss Commercial Register in English?**
+**Can I register my company in Zug if my office is in Zurich?**
 
-The Commercial Register is maintained in the official cantonal language (German, French, or Italian). Company entries are in the cantonal language. Zefix provides search in all national languages. Official extracts are in the cantonal language; a notarised translation to English is required for international use.
+No. The company must have a genuine business presence in the canton of registration. However, a registered address in Zug satisfies the domicile requirement if you do not need physical office space. Many international companies maintain a registered address in Zug (for the 11.85% tax rate) while operating remotely or from co-working spaces.
 
-**How often is the Commercial Register updated?**
+**Why was our registration rejected by the cantonal office?**
 
-Changes filed with the Handelsregisteramt are typically processed and published within 3–10 business days. Zefix reflects updates shortly after publication in SHAB.
-
-**Can I search the register for free?**
-
-Yes — Zefix.ch provides free search access to all Swiss commercial register data. Official certified extracts carry a fee of CHF 20–40 depending on the canton.
+The most common rejection causes: (1) director details incomplete -- missing passport number, wrong domicile formatting, or the director's commune registration not yet processed; (2) unsigned declarations; (3) bank confirmation expired (most are valid for 30 days); (4) company name confusingly similar to an existing entity. Each rejection requires correction and re-submission, adding 2-4 weeks per round.
 
 **What is the UID number for a Swiss company?**
 

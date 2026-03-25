@@ -50,9 +50,11 @@ The Swiss Commercial Register — Handelsregister in German — is the official 
 
 ---
 
-## What the Swiss Commercial Register Is
+## Common Mistakes When Filing with the Commercial Register
 
 Switzerland operates a decentralised registration system. Each canton maintains its own Handelsregisteramt (commercial register office), responsible for entities incorporated or domiciled within its borders. The cantonal offices are the legal source of truth.
+
+**Where filings go wrong:** The most frequent causes of rejection and delay are incomplete director details (missing passport numbers, wrong domicile formatting), unsigned declarations, and failure to coordinate notarial authentication with the cantonal register's specific requirements. We have seen registrations for companies with complex foreign ownership structures take 3+ months when documentation issues arise. Pre-checking every filing before submission is essential.
 
 At the federal level, Zefix (the Zentraler Firmenindex) aggregates all cantonal data into a single searchable portal at <a href="https://www.zefix.ch/" target="_blank" rel="nofollow noopener">zefix.ch</a>. Zefix does not replace cantonal registers — it mirrors them. For most practical searches, Zefix is your starting point. For certified, legally valid extracts, you go directly to the relevant cantonal office.
 
@@ -138,6 +140,10 @@ Common filing triggers and practical timelines:
 
 **2025 rule change for shell companies:** The Commercial Register now has expanded powers regarding Mantelgesellschaft (shell company) transfers. The register can void sales it considers lacking genuine commercial substance, and can request financial documentation during the transfer process. Changes to a transferred shell company must be executed in two stages — first the company name and board composition, then the business activity. Attempting to file all changes simultaneously will be rejected. This adds approximately CHF 1,700 in notary and register fees to a standard shell transfer.
 
+### Case Study: A Registration That Took Three Months
+
+A Romanian entrepreneur forming an AG in Zug appointed a friend as temporary board member to satisfy the Swiss-resident director requirement during formation. The initial filing was rejected because the friend's commune registration had not yet been processed -- Swiss resident directors must be registered with their commune at the time of filing. The correction required a new notarial deed (CHF 800), a fresh bank confirmation (the original had expired after 30 days), and re-submission. Total delay: 11 weeks. The lesson: verify every director's commune registration status before the notarial appointment, and ensure bank confirmations have sufficient validity runway.
+
 All filings require accurate documentation. Errors in resolutions, incomplete director details, or unsigned declarations generate rejection notices from the Handelsregisteramt and delay the process — sometimes by weeks. The <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en" target="_blank" rel="nofollow noopener">Swiss Code of Obligations (OR) on Fedlex</a> governs the underlying corporate requirements for filings.
 
 ---
@@ -184,9 +190,9 @@ Zefix (zefix.ch) aggregates all cantonal commercial register data in one searcha
 
 Yes. The quota holders (Gesellschafter) of a GmbH are publicly registered — their names, domiciles, and quota values appear in the extract. This is a material privacy distinction from the AG, where shareholders are not public. This distinction is worth weighing carefully when choosing your entity type.
 
-**What information is not in the Swiss Commercial Register?**
+**Why is Zug faster than Zurich for registrations?**
 
-AG shareholders, beneficial owners, annual financial statements, and commercial contracts are not in the register. Switzerland does not require companies to file accounts with the commercial register, and there is no publicly accessible beneficial ownership register.
+Both Zug and Zurich are among the faster cantonal offices, but Zug's register handles a proportionally higher volume of international structures and is experienced with foreign documentation. In practice, Zug processes standard GmbH registrations in 10-15 business days vs. Zurich's 15-20 business days from complete filing. Summer filings move faster at both offices; pre-Christmas filings are consistently slower everywhere.
 
 **How do I get a certified extract from the Swiss Commercial Register?**
 

@@ -30,6 +30,12 @@ tocItems:
     title: "Enforcement"
   - id: "work-with-lawsupport-on-design-registration"
     title: "Work with Lawsupport on Design Registration"
+  - id: "case-study-watch-component-manufacturer--design-vs-patent"
+    title: "Case Study: Watch Component Manufacturer"
+  - id: "decision-tree-design-patent-trademark-or-copyright"
+    title: "Decision Tree: Design, Patent, Trademark, or Copyright?"
+  - id: "friction-block-what-actually-goes-wrong"
+    title: "Friction Block: What Actually Goes Wrong"
 faqItems:
   - question: "Does Switzerland examine whether my design is actually new before registering it?"
     answer: "No. The IPI conducts only a formal examination — it checks that the application is complete and fees are paid. It does not search prior designs or assess novelty. This means registration is fast and relatively inexpensive, but it also means a registered design can be invalidated later if a third party can demonstrate it was not new or lacked individual character at the filing date."
@@ -157,7 +163,7 @@ Renewal must be requested and the renewal fee paid before the end of each five-y
 | Each additional design in same application | 100 |
 | 5-year renewal fee (per design) | 200 |
 
-**Example:** A fashion company filing 20 designs in one application pays CHF 300 for the first design and CHF 100 for each of the remaining 19, totalling CHF 2,200 — versus CHF 6,000 if filed individually.
+**Example:** A fashion company filing 20 designs in one application pays CHF 300 for the first design and CHF 100 for each of the remaining 19, totalling CHF 2'200 — versus CHF 6'000 if filed individually.
 
 **Filing strategy we advise:** For seasonal product lines (fashion, packaging, consumer goods), batch your design registrations quarterly. A single application covering a full collection is not only cheaper per design (CHF 100 vs. CHF 300) but also establishes a single priority date for the entire collection. This simplifies enforcement if a competitor copies any element — you have one registration number and one filing date to reference, rather than twenty separate registrations with different dates and administrative overhead.
 
@@ -209,17 +215,78 @@ Registered design rights are enforced through **civil proceedings before the can
 
 The absence of a registration makes enforcement substantially harder. An unregistered design may attract some protection under unfair competition law, but a registered right provides a clear starting point for any enforcement action. Contact <a href="https://www.bazg.admin.ch/bazg/en/home.html" target="_blank" rel="nofollow noopener">Swiss Customs</a> for border measure procedures.
 
-**Customs border measures — the underused tool:** Swiss Customs can detain suspected counterfeit goods at the border for up to ten working days upon application by the design rights holder. The application itself costs nothing beyond legal preparation time (typically CHF 1,000–2,000 for the initial filing). For companies whose designs are manufactured abroad and imported into Switzerland by competitors or counterfeiters, this is often the fastest and most cost-effective enforcement mechanism — stopping infringing goods before they reach the Swiss market, rather than pursuing the seller after the fact.
+**Customs border measures — the underused tool:** Swiss Customs can detain suspected counterfeit goods at the border for up to ten working days upon application by the design rights holder. The application itself costs nothing beyond legal preparation time (typically CHF 1'000–2,000 for the initial filing). For companies whose designs are manufactured abroad and imported into Switzerland by competitors or counterfeiters, this is often the fastest and most cost-effective enforcement mechanism — stopping infringing goods before they reach the Swiss market, rather than pursuing the seller after the fact.
 
 See also our guides on [trademark registration in Switzerland](/intellectual-property/trademark-registration-switzerland/) for the full picture of registered IP rights available to Swiss businesses.
+
+
+---
+
+## Case Study: Watch Component Manufacturer — Design vs. Patent
+
+A Schaffhausen-based watch component manufacturer developed a distinctive crown (winding mechanism housing) with a unique ergonomic profile. The shape was both visually distinctive and functionally innovative — the internal mechanism reduced winding resistance by 40%.
+
+**The question:** Design registration, patent, or both?
+
+**Analysis:**
+- The external appearance (shape, surface finish, proportions) qualified for design registration — it was novel and had individual character compared to existing crowns on the market
+- The internal mechanism (reduced winding resistance) was a technical innovation qualifying for patent protection
+- Copyright on its own was insufficient — the crown was a functional object where individual creative character would be contested in litigation
+
+**What we recommended:**
+1. **Design registration** for the external form (CHF 300, registered within 3 weeks) — protecting against visual copies
+2. **EPO patent application** for the internal mechanism (EUR 6'000+ in official fees, 3-5 year timeline) — protecting the functional innovation
+3. **Trademark filing** of the crown shape as a 3D mark in Class 14 (CHF 550) — protecting the shape as a brand identifier long-term (indefinite renewal vs. design's 25-year maximum)
+
+**Cost of the triple protection:** Approximately CHF 8'000-12'000 in the first year. The manufacturer's competitor launched a visually identical crown within 8 months — the design registration provided immediate grounds for an interim injunction (granted within 3 weeks), while the patent application was still in examination.
+
+**Lesson:** Design registration is the fastest registered right available in Switzerland (weeks, not years). For products with both aesthetic and functional value, it serves as the immediate enforcement tool while the patent application progresses through the longer EPO examination.
+
+---
+
+## Decision Tree: Design, Patent, Trademark, or Copyright?
+
+**What are you protecting?**
+
+**How the product looks (shape, surface, colour)** → Design registration (CHF 300, 25 years max). Fast, cheap, enforceable. The default choice for visual product differentiation.
+
+**How the product works (technical mechanism)** → Patent (Swiss national CHF 200 or EPO EUR 6'000+, 20 years). Design registration does not cover functional features.
+
+**The product shape as a brand identifier** → 3D trademark (CHF 550, indefinite renewal). Higher distinctiveness threshold — the shape must function as a brand indicator, not just look attractive.
+
+**Creative expression in the design** → Copyright (automatic, life + 70 years). No registration needed, but contested in litigation for applied art. Supplement with design registration for certainty.
+
+**The product has all four dimensions** → Register all applicable rights. They protect different aspects and have different durations. Design registration is the fastest to obtain and the most straightforward to enforce.
+
+| Right | Protects | Cost | Duration | Speed |
+|---|---|---|---|---|
+| Design | Appearance | CHF 300 | 25 years | Weeks |
+| Patent | Function | EUR 6'000+ (EPO) | 20 years | 3-5 years |
+| 3D Trademark | Brand identity | CHF 550 | Indefinite | 6-8 months |
+| Copyright | Creative expression | Free | Life + 70 years | Automatic |
+
+---
+
+## Friction Block: What Actually Goes Wrong
+
+**Trap 1 — Relying on copyright instead of registering.** Copyright protection for applied art in Switzerland requires "individual character" — and this threshold is vigorously contested in litigation. A registered design provides a clear, dated right that is far easier to enforce. A competitor's lawyer will challenge your copyright claim; they will have a much harder time challenging a valid design registration.
+
+**Trap 2 — Public disclosure before filing.** If you exhibit a product at a trade fair, publish images on your website, or show it in a catalogue before filing for design registration, you have potentially destroyed novelty. The 12-month grace period under Swiss law protects against self-disclosure, but this grace period does not exist in many other jurisdictions. If you intend to file internationally via the Hague System, disclose nothing before filing.
+
+**Trap 3 — Purely functional features are not registrable.** A shape dictated entirely by technical function cannot be registered as a design — it belongs in the patent system. If your product's form is inseparable from its function (e.g., a gear tooth profile), design registration will not provide protection. The test: could the product work equally well with a different shape? If yes, the shape is registrable.
+
+**Trap 4 — Forgetting renewal deadlines.** Design protection is not perpetual. The initial 5-year term requires active renewal (CHF 200 per design per period). Miss the deadline and the registration lapses. There is no automatic reminder system from the IPI. Set calendar reminders or use an IP management service.
+
+**Trap 5 — Batch filing timing.** Filing 20 designs individually costs CHF 6'000. Filing them in one application costs CHF 2'200. But the batch must be filed simultaneously — you cannot add designs to an existing application later. Coordinate your product development timeline with your IP filing schedule to capture full collections in a single application.
+
 
 ---
 
 ## Frequently Asked Questions
 
-**Does Switzerland examine whether my design is actually new before registering it?**
+**If the IPI does not examine novelty, what is the point of registering?**
 
-No. The IPI conducts only a formal examination — it checks that the application is complete and fees are paid. It does not search prior designs or assess novelty. This means registration is fast and relatively inexpensive, but it also means a registered design can be invalidated later if a third party can demonstrate it was not new or lacked individual character at the filing date.
+Registration creates a presumption of validity with a clear filing date. When you send a cease-and-desist letter or seek an interim injunction, the court starts from the position that your registered design is valid. The burden then shifts to the alleged infringer to prove it was not novel. Without registration, you have no presumption, no clear date, and must prove your rights from scratch. Registration costs CHF 300. Proving unregistered design rights in court costs CHF 20'000+.
 
 **Can I register a design that I have already shown publicly?**
 

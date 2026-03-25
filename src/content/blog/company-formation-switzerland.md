@@ -109,6 +109,19 @@ Current market pricing depends entirely on age: CHF 15,000-17,000 for companies 
 
 ---
 
+## AG vs GmbH vs Shelf Company: At a Glance
+
+| Factor | GmbH | AG | Shelf Company |
+|---|---|---|---|
+| Formation cost (incl. notary) | CHF 1'900 | CHF 2'500 | CHF 15'000-47'500 + ~CHF 1'700 modification |
+| Minimum capital | CHF 20'000 (fully paid) | CHF 100'000 (CHF 50'000 paid in) | Already paid (included in price) |
+| Time to operational entity | 2-4 weeks | 3-6 weeks | 1-2 days (transfer); 2+ weeks with modifications |
+| Shareholder privacy | Low (public register) | High (internal register only) | Depends on entity type |
+| All-in first year (address + nominee + accounting) | ~CHF 12'000 + capital | ~CHF 12'600 + capital | ~CHF 11'800 + company price + capital |
+| Best for | SMEs, subsidiaries, startups | Holdings, investor rounds, privacy | Urgent deadlines, established registration date |
+
+---
+
 ## The Step-by-Step Company Formation Process in Switzerland
 
 Swiss company formation follows a defined statutory sequence. Here is how it works for an AG or GmbH, which account for the vast majority of incorporations we handle.
@@ -178,6 +191,20 @@ The canton of incorporation determines the applicable cantonal and communal tax 
 Other cantons worth considering include Schwyz, Nidwalden, and Obwalden, all of which have competed on tax rates in recent years. See our [cantonal tax comparison Switzerland](/tax-accounting/cantonal-tax-comparison-switzerland/) for a detailed breakdown.
 
 For a focused analysis of the Zug option, see our [company formation in Zug](/company-formation/company-formation-zug/) guide. For Zurich, see our [company formation in Zurich](/company-formation/company-formation-zurich/) guide.
+
+---
+
+## Formation Mistakes That Cost CHF 5'000+
+
+We have seen every version of the following mistakes. Each one is preventable.
+
+**Choosing the wrong entity type.** A GmbH founder who needs shareholder privacy discovers — after registration — that every GmbH shareholder is publicly listed on ZEFIX. Converting to an AG costs CHF 3'000-6'000 in professional fees plus CHF 80'000 in additional share capital. An AG founder who does not need privacy or investor compatibility pays CHF 100'000 in capital when CHF 20'000 would have sufficed.
+
+**Underestimating the banking timeline.** The capital deposit account is the longest single step. PostFinance takes 3-4 weeks and frequently rejects. UBS requires CHF 500'000+ under management. Starting the bank application on day one — not day fifteen — is the single most effective way to compress the total timeline.
+
+**Ignoring the two-stage shelf company rule.** Since 2025, shelf company modifications must be filed in two stages: first the name and board, then the purpose and activity. Single-stage filings are rejected. This adds approximately CHF 1'700 in fees and 1-2 weeks — a surprise for clients who expected a "3-day" shelf transfer.
+
+**Using a "friend as director" without written terms.** Swiss law requires at least one Swiss-resident board member or managing director with individual signatory rights. Founders often ask a Swiss friend to serve temporarily. Without a side letter documenting the handover timeline, compensation, and exit mechanism, these arrangements routinely become contentious. Removing a director requires a shareholder resolution and Commercial Register filing — 2-3 weeks minimum.
 
 ---
 

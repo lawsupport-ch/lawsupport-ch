@@ -81,9 +81,11 @@ The return must be filed in the canton's official language (German in Zug and mo
 
 ---
 
-## Who Must File
+## Who Must File (Including Dormant Companies)
 
 All Swiss legal entities — AG (Aktiengesellschaft), GmbH (Gesellschaft mit beschränkter Haftung), and foundations — are subject to Swiss corporate income tax and must file a return regardless of whether they are profitable. A company generating a loss still files; the loss is carried forward and reduces future taxable income.
+
+**The dormant company trap:** Foreign owners of dormant Swiss GmbH structures frequently assume no filing is needed if the company has zero activity. This is wrong. A dormant company registered with the Commercial Register must file an annual return showing zero revenue, zero profit, and the current equity balance. The cost: approximately CHF 1,400 per year through a Swiss fiduciary. Skipping this creates a compounding problem -- unfiled years must all be resolved before the company can be liquidated, and the tax authority's estimated assessments for skipped years are almost always unfavourable, overstating actual tax liability by 200-400%.
 
 Tax liability runs from the date of Commercial Register entry to the date of deletion. Newly formed companies file their first return for the period from incorporation to financial year end, even if that period is less than 12 months.
 

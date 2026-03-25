@@ -224,6 +224,28 @@ This is the part most Zug formation guides omit: the foundation registration is 
 
 The team eventually moved three founders and two engineers to Zug. Two of their engineers met their lead investor at a local blockchain conference six months after incorporation. Proximity to the Crypto Valley network proved as valuable as the regulatory framework.
 
+### A European Entrepreneur Needs Privacy and Speed
+
+A Romanian entrepreneur contacted us wanting a Zug AG — not for the capital structure or investor readiness, but for privacy. With a GmbH, his name and ownership percentage would appear in the public Commercial Register. With an AG, the shareholder register is internal.
+
+The complication was the Swiss-resident board member requirement. He had a friend — a Swiss citizen — willing to serve for approximately one year while he arranged his own Swiss residence. We structured this as a temporary arrangement with a side letter: clear handover timeline, compensation terms, and exit mechanism. Without written terms, these "friend as director" arrangements routinely become contentious.
+
+Total cost: CHF 2'500 for AG registration including notary, plus CHF 2'400/year for a Zug registered address. All-in package with nominee director and accounting: CHF 9'000-11'000 plus CHF 100'000 share capital.
+
+**The timing lesson:** He expected to replace his friend as director within six months. We warned him: expect twelve months minimum. Between housing search, school enrolment, residence permit processing, and the physical move, the administrative transition took fourteen months. He paid for a full second year of nominee director fees — CHF 5'900 that proper planning would have anticipated.
+
+---
+
+## Common Zug Formation Problems — And How to Avoid Them
+
+**PostFinance rejections.** PostFinance is the most accessible Swiss bank for new companies, but it frequently rejects applications from Zug-based entities with foreign founders. Brand-sensitive company names, founders from higher-risk jurisdictions, and insufficient documentation of the business model's revenue source are the most common triggers. One client using "Tesla" in their company name was immediately flagged and ultimately rejected. Start the bank application on day one — not after the notary appointment.
+
+**The "Crypto Valley premium" trap.** International founders sometimes assume that incorporating in Zug automatically grants access to Crypto Valley's network, talent pool, and banking relationships. It does not. The ecosystem benefits require physical presence — attending events, meeting co-founders, building relationships with local banks and service providers. A Zug registration without Zug presence is a tax decision, not a network play.
+
+**Register processing variability.** The Handelsregisteramt Zug is efficient but not instantaneous. Summer filings move faster; pre-Christmas filings are consistently slower. Before 2022, you could pay a 60% premium for expedited processing. That option no longer exists. Budget 2-4 weeks for standard register processing.
+
+**The nominee director hourly bill.** The nominee director fee of CHF 5'900/year covers the directorship itself. It does not cover signing work permits, preparing corporate filings, attending board meetings, or executing banking documents. Those tasks are billed separately at CHF 350/hour. One client budgeted CHF 5'900 and received invoices totalling CHF 9'200 in year one because the company was actively hiring. Clarify what is and is not included before signing.
+
 ---
 
 ## Step-by-Step: Company Formation in Zug

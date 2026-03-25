@@ -41,22 +41,21 @@ A shelf company — also called a ready-made company or dormant company — is a
 
 ---
 
-## What Is a Swiss Shelf Company?
+## When a Shelf Company Is the Wrong Choice — And When It Saves the Deal
 
-A Swiss shelf company is an Aktiengesellschaft (AG) or Gesellschaft mit beschraenkter Haftung (GmbH) that was legally incorporated, entered into the [Commercial Register](/company-formation/commercial-register-switzerland/), and then kept completely dormant. It has never traded, has no existing liabilities, holds no contracts, and carries no legal or tax history beyond its original registration.
+Most enquiries we receive about shelf companies come from founders who do not actually need one. A fresh [GmbH formation](/company-formation/gmbh-formation-switzerland/) costs CHF 1'900 and takes 2-4 weeks. A shelf company starts at CHF 15'000 for the entity alone — before address, director, and accounting costs. If your timeline allows four to six weeks, the shelf premium is rarely justified.
 
-All shares are held by the current owner — in Lawsupport's case, that is Morgan Hartley Consulting or a designated trustee — until a buyer is identified.
+But in three situations, a shelf company is the only option that works:
 
-When you acquire the company, the following steps occur in sequence:
+**You have a contract deadline measured in days.** A counterparty requires a Swiss-registered entity to execute a contract within five business days. A fresh formation cannot meet that timeline. A shelf company transfer completes in 1-2 days.
 
-- The share transfer is executed before a notary
-- The articles of association are amended to reflect your intended purpose
-- Existing directors are replaced with your nominees or a Lawsupport-appointed director
-- A new commercial bank account is opened in the company's name
+**You need a company with an established registration date.** Some public tenders, procurement contracts, and institutional banking relationships require "three years established" or similar thresholds. A 2021 shelf company legitimately satisfies that requirement in 2026. This is transparent and legal — the company genuinely has that registration history on ZEFIX.
 
-The result: you receive a fully operational Swiss legal entity with an existing Commercial Register entry, often within one week of signing. The entity's registration date remains unchanged — that is one of the core reasons buyers pay a premium for shelf companies.
+**You need institutional credibility that a new entity cannot provide.** A South African infrastructure group chose a 1986 shelf AG over a new formation because counterparties running due diligence view "incorporated 1986" differently from "incorporated 2026." For transactions in the USD 25-500 million range, that distinction carries weight.
 
-For background on how Swiss entities are structured from the ground up, see our pages on [GmbH formation in Switzerland](/company-formation/gmbh-formation-switzerland/) and [AG formation in Switzerland](/company-formation/ag-formation-switzerland/).
+When you acquire a shelf company, the following steps occur in sequence: the share transfer is executed before a notary, the articles are amended to reflect your purpose, existing directors are replaced, and a bank account is opened. The result: a fully operational Swiss legal entity with an existing Commercial Register entry, often within one week.
+
+For comparison with fresh formation, see [GmbH formation](/company-formation/gmbh-formation-switzerland/) and [AG formation](/company-formation/ag-formation-switzerland/).
 
 ---
 
@@ -205,7 +204,42 @@ Whether you are acquiring a shelf company through Lawsupport or independently, t
 
 ---
 
+## Real Problems With Shelf Company Acquisitions
+
+**The two-stage filing trap (2025 rule change).** Since 2025, changes to a shelf company must be executed in two stages: first the company name and board composition, then the business activity and purpose clause. Attempting everything in a single filing triggers rejection. This adds approximately CHF 1'700 in additional notary and register fees, and extends the timeline by 1-2 weeks. Formation guides published before 2025 do not mention this.
+
+**Banking after acquisition is not guaranteed.** The shelf company transfer takes 1-2 days. Opening a bank account for the newly acquired entity takes 4-8 weeks — sometimes longer. PostFinance rejects a significant share of applications. UBS requires CHF 500'000+ under management. The South African client mentioned above spent 6 weeks on banking alone. Formation took 2 days. Banking took 6 weeks. That ratio is typical.
+
+**Brand-name company names create compliance flags.** If the shelf company's name contains terms associated with well-known brands, banks will flag it during KYC. One client with "Tesla" in their company name received detailed compliance questions from PostFinance and was ultimately rejected. Rename the company during the modification process if needed — but factor this into your timeline.
+
+**Purpose clause mismatches in regulated sectors.** If your intended business activity is financial intermediation, crypto, or healthcare, the articles amendment becomes more complex. Regulatory pre-approval may be required before the amendment can be filed. This negates much of the speed advantage.
+
+---
+
+## Shelf Company vs Fresh Formation vs Operating Company: Decision Matrix
+
+| Factor | Shelf Company | Fresh GmbH | Fresh AG | Operating Company Acquisition |
+|---|---|---|---|---|
+| Time to entity | 1-2 days (transfer) | 2-4 weeks | 3-6 weeks | 3-5 months |
+| Entity cost | CHF 15'000-47'500 | CHF 1'900 | CHF 2'500 | Enterprise value multiples |
+| Modification cost | ~CHF 1'700 | N/A | N/A | N/A |
+| Registration date | Original date preserved | Starts from today | Starts from today | Original date preserved |
+| Trading history | None (clean) | None (clean) | None (clean) | Existing (with liabilities) |
+| Custom structure | Limited by existing articles | Fully customisable | Fully customisable | Inherited structure |
+| Bank account | Sometimes included | Must open fresh (4-8 weeks) | Must open fresh (4-8 weeks) | Usually included |
+| Best for | Speed, prestige, tender requirements | Most standard formations | Holdings, privacy, investors | Market entry, existing clients |
+
+---
+
 ## Frequently Asked Questions
+
+**Can I start operating the shelf company immediately after transfer?**
+
+Yes. The company already exists as a registered legal entity. From the moment the notarial share transfer is executed, you can begin operating under the company name. You do not need to wait for the Commercial Register to process the board and articles amendments — the company is already registered. The pending amendments update the register, but the entity itself is fully operational.
+
+**What if the bank rejects my account application for the shelf company?**
+
+This happens regularly. If the shelf company does not come with an existing bank account, you face the same banking challenge as a fresh formation — 4-8 weeks at minimum, with no guarantee of approval. PostFinance rejects frequently. UBS requires CHF 500'000+ under management. If banking speed is the primary reason you are buying a shelf company, confirm that the shelf comes with an active bank account before signing. Companies in our inventory with active accounts are flagged explicitly.
 
 **Are Swiss shelf companies legal?**
 

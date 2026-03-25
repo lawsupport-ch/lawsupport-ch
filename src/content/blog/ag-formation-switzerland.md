@@ -62,18 +62,19 @@ Until 2020, a Swiss AG could issue bearer shares, meaning whoever physically hel
 
 ---
 
-## What Is a Swiss AG (Aktiengesellschaft)?
+## Common AG Formation Mistakes That Cost CHF 5'000+
 
-The Aktiengesellschaft is Switzerland's joint-stock company, the equivalent of a UK PLC, a German AG, or a US corporation. It is governed by <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en" target="_blank" rel="nofollow noopener">Articles 620 to 763 of the Swiss Code of Obligations</a> (CO) and is the preferred vehicle for:
+The Aktiengesellschaft is Switzerland's joint-stock company, governed by <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en" target="_blank" rel="nofollow noopener">Articles 620 to 763 of the Swiss Code of Obligations</a>. Before covering the formation process, here are the mistakes we see most often — each one costs real money:
 
-- Larger companies with multiple shareholders
-- Holding structures and group companies
-- Businesses planning to raise equity capital
-- Companies where shareholder confidentiality is important
-- Future IPO candidates
-- International businesses that want a premium Swiss identity
+**Choosing an AG when a GmbH would suffice.** The AG requires CHF 100'000 minimum share capital versus CHF 20'000 for a GmbH. If you do not need shareholder privacy and are not planning investor rounds, you are tying up CHF 80'000 unnecessarily. Formation costs are also higher: CHF 2'500 for an AG versus CHF 1'900 for a [GmbH](/company-formation/gmbh-formation-switzerland/).
 
-For a full side-by-side comparison with the GmbH, see our [complete guide to Swiss company formation](/company-formation/company-formation-switzerland/). If you are still weighing the two structures, our page on [GmbH formation](/company-formation/gmbh-formation-switzerland/) covers the simpler alternative in detail.
+**Paying in only CHF 50'000 at formation.** Legally you can pay half and leave the rest uncalled. In practice, banks strongly prefer fully paid-in capital. One founder who paid only CHF 50'000 spent six additional weeks trying to open a corporate bank account — three banks rejected the application, citing the unpaid portion as a risk signal.
+
+**Getting the share structure wrong.** Failing to include authorised capital provisions or issuing all shares at the same class when different investor needs are anticipated. Amending the share structure post-formation requires notarisation and register filing: CHF 3'000-5'000 in fees that one hour of upfront planning would have avoided.
+
+**Filing without a Swiss-resident board member.** The Commercial Register will reject the application outright. Under Art. 718 CO, at least one board member with individual signatory rights must be domiciled in Switzerland. A [nominee director](/corporate-services/nominee-director-switzerland/) costs CHF 5'900/year — but the rejection, re-filing, and duplicated notary fees cost more.
+
+For a full comparison with the GmbH, see our [complete guide to Swiss company formation](/company-formation/company-formation-switzerland/).
 
 ---
 
@@ -301,6 +302,34 @@ The AG is subject to corporate income tax at federal, cantonal, and municipal le
 
 ---
 
+## Real Problems in AG Formation: What Actually Goes Wrong
+
+**Bank rejections at the capital deposit stage.** PostFinance frequently rejects AG applications. UBS requires CHF 500'000+ under management for new non-resident clients. Relio AG offers fast onboarding but explicitly rejects companies with US nexus at the UBO or shareholder level. One US-owned company was rejected by three banks before finding a willing institution — the banking process alone took eight weeks.
+
+**The "friend as director" trap.** A Bucharest-based entrepreneur asked a Swiss friend to serve as board member "for about a year." Without written terms, these arrangements become contentious at transition. Removing a director requires a shareholder resolution and Commercial Register filing (2-3 weeks). We structure every temporary directorship with a side letter: handover timeline, compensation, exit mechanism.
+
+**Register processing delays.** Commercial Register processing runs 2-4 weeks for standard filings. Summer months move faster; pre-Christmas filings are consistently slower. Before 2022, you could pay approximately 60% above standard fees for expedited processing. That option no longer exists.
+
+**The operating shortcut most guides miss:** Your AG can legally begin operating from the moment of notarial signing — you do not need to wait for ZEFIX publication. The notarial deed creates the legal entity. You can sign contracts and invoice immediately under the suffix "i.Gr." (in Gruendung).
+
+---
+
+## AG vs GmbH vs Shelf Company: Decision Matrix
+
+| Factor | AG | GmbH | Shelf Company (AG) |
+|---|---|---|---|
+| Formation cost (incl. notary) | CHF 2'500 | CHF 1'900 | CHF 15'000-47'500 + ~CHF 1'700 modification |
+| Minimum capital | CHF 100'000 (CHF 50'000 paid in) | CHF 20'000 (fully paid) | Already paid (included in price) |
+| Time to operational entity | 3-6 weeks | 2-4 weeks | 1-2 days (transfer); 2+ weeks with modifications |
+| Shareholder privacy | High (internal register only) | Low (public register) | High (if AG form) |
+| Share transferability | Free (unless articles restrict) | Notarial deed required | Transferred at acquisition |
+| All-in first year (excl. capital) | ~CHF 12'600 | ~CHF 12'000 | ~CHF 11'800 + company price |
+| Best for | Holdings, investor rounds, privacy | SMEs, subsidiaries, startups | Urgent deadlines, prestige |
+
+For a [shelf company](/company-formation/shelf-company-switzerland/) approach, current inventory ranges from CHF 15'000 (15-17 years old) to CHF 47'500 (1933 vintage, 93 years old). All come debt-free with share certificates.
+
+---
+
 ## Ready to Form Your Swiss AG?
 
 <div class="cta-block">
@@ -322,6 +351,18 @@ No travel is required.
 ---
 
 ## Frequently Asked Questions: AG Formation Switzerland
+
+**Q: Can I start operating my AG before the Commercial Register entry?**
+
+Yes. The company can legally begin operating from the moment of notarial signing. The notarial deed creates the legal entity; the register entry is declaratory, not constitutive. You can sign contracts, begin client work, and invoice under the company name with the suffix "i.Gr." (in Gruendung) immediately after the notary appointment.
+
+**Q: Do I really need a nominee director as a non-resident?**
+
+Yes, if no founder or employee is resident in Switzerland. Art. 718 CO requires at least one board member with individual signatory rights to be domiciled in Switzerland. This is a hard statutory requirement — the Commercial Register will reject any filing that does not satisfy it. Standard nominee director fee: CHF 5'900/year. Premium (higher involvement, e.g. banking meetings): CHF 7'400/year. Six-month interim: CHF 4'500. The fee covers the directorship itself — signing work permits, banking documents, and corporate filings are billed separately at CHF 350/hour.
+
+**Q: How much does AG formation actually cost all-in?**
+
+AG registration including notary: CHF 2'500. Add registered address (CHF 2'400/year in Zug), nominee director (CHF 5'900/year), and accounting (CHF 1'800/year) for the full package: approximately CHF 12'600/year before share capital. The share capital (minimum CHF 50'000 paid in, from CHF 100'000 total) is not a cost — it remains in the company as working capital.
 
 **Q: How long does AG formation in Switzerland take?**
 

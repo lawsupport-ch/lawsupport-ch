@@ -71,6 +71,18 @@ You have heard the reputation. Here are the facts that matter operationally:
 
 ---
 
+## Three Decisions That Cost First-Time Founders CHF 10'000+
+
+Most founders who contact us about starting a business in Switzerland have already made one of three avoidable mistakes:
+
+**1. Choosing the wrong entity type for their situation.** A sole proprietor earning CHF 200'000/year who stays as an Einzelfirma overpays approximately CHF 12'000/year in tax versus a GmbH. A founder who picks a GmbH when shareholder privacy matters discovers that every shareholder is publicly listed — converting to an AG costs CHF 3'000-6'000 plus CHF 80'000 in additional capital.
+
+**2. Choosing Zurich when Zug saves CHF 79'000/year.** On CHF 1'000'000 annual profit, the tax difference between Zurich (19.7%) and Zug (11.8%) is approximately CHF 79'000 per year. Unless your business specifically requires a Zurich address — institutional banking relationships, ZKB lending, talent pool proximity — Zug is the rational choice. You can register in Zug and operate from a Zurich office.
+
+**3. Starting the bank application too late.** The capital deposit account is the longest single step. Most founders start it after completing other preparation. Start it on day one. PostFinance takes 3-4 weeks and frequently rejects. If you wait until the notary appointment is booked to begin the banking process, your timeline extends by a month.
+
+---
+
 ## Step 1: Choose Your Business Structure
 
 The choice of entity is the most consequential early decision. Switzerland offers several options; the right one depends on your funding structure, liability preferences, headcount plans, and long-term exit strategy.
@@ -307,6 +319,33 @@ Key facts from actual experience:
 Lawsupport manages banking introductions as part of our formation service. We work with banks that understand the profile of internationally owned Swiss companies and present your application in the format they require. The difference between a professional introduction and a cold application is measurable: rejection rates drop from 30%+ to under 10%.
 
 [Corporate bank account opening in Switzerland](/banking/corporate-bank-account-switzerland/)
+---
+
+## Case Study: European Entrepreneur — All-In Package in Practice
+
+A French entrepreneur approached us to start a cryptocurrency mining business in Switzerland. He had no Swiss presence — no residence, no contacts, no bank account. His primary requirements: speed, privacy (he chose an AG), and the lowest possible tax rate.
+
+**The decision path:**
+- Entity type: AG (shareholder privacy — his name does not appear in the public register)
+- Canton: Zug (11.8% effective tax rate versus 19.7% in Zurich, saving approximately CHF 63'000/year on projected CHF 800'000 profit)
+- Swiss-resident director: nominee from Lawsupport (CHF 5'900/year)
+
+**The actual cost breakdown:**
+
+| Item | Cost (CHF) |
+|---|---|
+| AG registration (incl. notary) | 2'500 |
+| Registered address (Zug, annual) | 2'400 |
+| Nominee director (annual) | 5'900 |
+| Basic accounting (annual) | 1'800 |
+| **All-in first year (excl. share capital)** | **~12'600** |
+
+Plus CHF 100'000 share capital (CHF 50'000 minimum paid in), which remains in the company as working capital.
+
+**The banking challenge:** Privacy coins in the treasury triggered enhanced KYC at every bank. PostFinance rejected outright. Relio could not onboard because a business partner held US citizenship. Banking took seven weeks — from initial application to approved operating account. The formation itself took four weeks. Banking was the bottleneck, as it is in approximately 60% of our international formations.
+
+**The operating hack:** His company started invoicing from the moment of notarial signing — three weeks before the Commercial Register entry was confirmed. Swiss law permits this: the company exists as a legal entity from the notarial deed. He did not wait for ZEFIX publication.
+
 ---
 
 ## What Lawsupport Does

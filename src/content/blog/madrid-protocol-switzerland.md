@@ -32,6 +32,12 @@ tocItems:
     title: "Protection Period and Renewal"
   - id: "practical-takeaways"
     title: "Practical Takeaways"
+  - id: "case-study-swiss-brand-loses-international-protection"
+    title: "Case Study: Central Attack Loss"
+  - id: "decision-tree-madrid-protocol-vs-direct-national-filing"
+    title: "Decision Tree: Madrid vs. Direct National Filing"
+  - id: "friction-block-what-actually-goes-wrong"
+    title: "Friction Block: What Actually Goes Wrong"
 ---
 
 
@@ -130,13 +136,72 @@ The international registration is valid for **10 years** from the date of intern
 
 Renewal fees follow the same structure as the initial application: a basic WIPO fee plus per-country designation fees for each country you wish to maintain.
 
+
+---
+
+## Case Study: Swiss Brand Loses International Protection to Central Attack
+
+A Zug-based luxury watchmaker filed a Swiss trademark for its brand name in Class 14 (jewellery, watches) and immediately used it as the basis for a Madrid Protocol international application designating the EU, US, China, and Japan. Total WIPO fees: approximately CHF 2'800.
+
+**Year 2:** A competitor in Switzerland filed an opposition against the Swiss basic mark, claiming confusing similarity with its own earlier Swiss registration. The IGE upheld the opposition — the Swiss basic mark was partially cancelled for watches (retained for jewellery only).
+
+**The cascade:** Because the Swiss basic mark was partially cancelled within the 5-year dependency period, the international registration was affected to the same extent. The watchmaker lost protection for watches in all four designated territories simultaneously — the EU, US, China, and Japan.
+
+**Transformation attempt:** The company converted the international registration into individual national applications in each designated country (preserving the original filing date). But this required appointing local counsel in each jurisdiction, paying individual national filing fees, and navigating four separate examination processes. Total remediation cost: approximately CHF 45'000 in legal fees and national filing fees.
+
+**What should have been done:**
+- Conduct a thorough Swissreg clearance search before filing the Swiss basic mark (cost: CHF 1'500-3'000 for a professional opinion)
+- Clear the opposition window (3 months after SHAB publication) before filing the Madrid application
+- Consider filing the Madrid application only after the Swiss mark was safely registered and the opposition period had passed without challenge
+
+**Lesson:** Central attack is not a theoretical risk. The Swiss basic mark is the foundation — if it falls within 5 years, the entire international structure falls with it. Invest in a robust Swiss filing before building an international portfolio on top of it.
+
+---
+
+## Decision Tree: Madrid Protocol vs. Direct National Filing
+
+**How many countries do you need?**
+
+**1-3 countries** → Direct national filings are often simpler and cheaper. No dependency on a Swiss basic mark. No central attack risk. Total cost: varies by country, but typically CHF 1'500-5'000 per country including professional fees.
+
+**4+ countries** → Madrid Protocol is almost always more efficient. One application, one set of fees, one renewal mechanism. Central attack risk exists for 5 years but is manageable with a robust Swiss basic mark.
+
+**EU specifically** → You can designate the EU as a single territory (CHF 897 for one class through Madrid). This covers all 27 member states. Alternative: file a direct EUTM with the EUIPO. Cost is similar, but the Madrid route is more efficient if you are also designating non-EU countries.
+
+**Decision factors beyond cost:**
+
+| Factor | Madrid Protocol | Direct national |
+|---|---|---|
+| Central attack risk | Yes (5 years) | No |
+| Single renewal | Yes (one WIPO renewal covers all) | No (separate renewal per country) |
+| Local examination | Each country examines locally | Same |
+| Flexibility to drop countries | Yes (stop paying for unwanted designations) | Must actively withdraw each filing |
+| Speed | 12-18 months total | Varies by country |
+
+**When NOT to use Madrid:** If your Swiss basic mark is contested, pending opposition, or at risk of cancellation — wait until it is safely registered before filing internationally. A central attack that brings down a 10-country international registration is catastrophically more expensive than a 6-month delay in filing.
+
+---
+
+## Friction Block: What Actually Goes Wrong
+
+**Trap 1 — Filing Madrid before the Swiss basic mark is secure.** The temptation to file internationally as fast as possible leads companies to submit Madrid applications while the Swiss basic mark is still pending or within the opposition window. If the Swiss mark is opposed and cancelled, the international registration falls. Wait for the opposition period to pass before filing internationally.
+
+**Trap 2 — Goods/services mismatch.** The international application cannot exceed the scope of the Swiss basic mark. If your Swiss filing covers only Class 9 (software), your Madrid application cannot add Class 42 (IT services). Plan the Swiss filing with the full international scope in mind.
+
+**Trap 3 — Ignoring provisional refusals.** Each designated country conducts its own examination. A provisional refusal from the US, Japan, or China requires a response through local counsel — often within a tight deadline (typically 2-6 months). Missing the deadline means losing protection in that country. Budget for local counsel fees in each designated country (CHF 1'000-5'000 per country for responding to refusals).
+
+**Trap 4 — The renewal date trap.** Madrid renewals are due every 10 years from the international registration date — not from individual designation dates. WIPO sends reminders, but responsibility lies with the holder. A missed renewal lapses protection in all designated countries simultaneously.
+
+**Trap 5 — Assuming Madrid covers everything.** The Madrid System covers trademarks only. It does not cover patents (use PCT), designs (use the Hague System), or copyright (automatic under the Berne Convention). Companies frequently assume a Madrid filing protects their "brand" holistically — it protects only the trademark (word, logo, etc.), not the product design, the technology, or the creative content.
+
+
 ---
 
 ## Frequently Asked Questions
 
-**Can I designate Switzerland itself in a Madrid application?**
+**We already have EU and US trademarks filed directly. Is there any point in using Madrid now?**
 
-No. Your Swiss basic mark already gives you protection in Switzerland. You cannot designate Switzerland as a target country in your own international application because Switzerland is your office of origin. If you want to extend protection beyond Switzerland, you designate other member countries.
+Yes, if you plan to expand to additional markets. You can still file a Madrid application based on your Swiss registration and designate new countries (e.g., China, Japan, India, Australia) without affecting your existing direct registrations. The Madrid System adds centralised renewal and administration for the new designations. However, you cannot retroactively convert your existing direct EU or US filings into Madrid designations — those remain separate registrations with their own renewal schedules.
 
 **What happens if a designated country refuses my mark?**
 

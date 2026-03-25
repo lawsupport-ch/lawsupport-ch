@@ -32,6 +32,10 @@ tocItems:
     title: "International IP Protection Through IGE/IPI"
   - id: "fees-summary-2026"
     title: "Fees Summary (2026)"
+  - id: "case-study-foreign-founder-files-wrong-application-type"
+    title: "Case Study: Foreign Founder Files Wrong Application"
+  - id: "friction-block-common-mistakes-at-igeipi"
+    title: "Friction Block: Common Mistakes at IGE/IPI"
 ---
 
 
@@ -91,14 +95,14 @@ Switzerland's patent system has a distinctive feature: **IGE/IPI does not conduc
 
 This is the single most misunderstood aspect of the Swiss patent system. Foreign founders regularly assume that a "granted Swiss patent" has been examined and validated the way a USPTO or EPO patent would be. It has not. A Swiss national patent is essentially a registration — it confirms you filed correctly, not that your invention is novel or non-obvious. In litigation, the patent holder bears the burden of proving validity, which often means commissioning a prior art search retroactively at that point.
 
-**When the Swiss national patent makes sense despite this:** If you need to establish a filing date quickly and cheaply (CHF 200 vs EUR 4,000+), the Swiss national filing serves as a priority-establishing mechanism. You can then file a PCT or EPO application within 12 months claiming priority. This is the **batch filing strategy** — file Swiss nationals for multiple inventions at CHF 200 each to secure priority dates, then select the most commercially promising ones for full EPO examination.
+**When the Swiss national patent makes sense despite this:** If you need to establish a filing date quickly and cheaply (CHF 200 vs EUR 4'000+), the Swiss national filing serves as a priority-establishing mechanism. You can then file a PCT or EPO application within 12 months claiming priority. This is the **batch filing strategy** — file Swiss nationals for multiple inventions at CHF 200 each to secure priority dates, then select the most commercially promising ones for full EPO examination.
 
 **Option 2 — European Patent (EPO) designating Switzerland:**
 - Filed at the European Patent Office (EPO) in Munich
 - Full substantive examination by EPO — novelty search, inventive step assessment, claims examination
 - Upon grant, validated in Switzerland (and other designated countries)
 - Stronger patent — survived rigorous examination
-- EPO filing fee: approximately EUR 4,000 to EUR 8,000+
+- EPO filing fee: approximately EUR 4'000 to EUR 8'000+
 
 **For most commercial applicants:** EPO route is preferred for meaningful protection. The Swiss national patent without examination has limited commercial weight in enforcement proceedings.
 
@@ -167,13 +171,45 @@ IGE/IPI accepts PCT applications for Swiss applicants. The application is then p
 | Swiss patent filing | CHF 200 |
 | Patent annual fee (from year 3) | CHF 100-3,000 (escalating) |
 
+
+---
+
+## Case Study: Foreign Founder Files Wrong Application Type
+
+A Singapore-based e-commerce company wanted to protect its brand in Switzerland before launching. The founder, unfamiliar with the IGE/IPI system, attempted to file a trademark application through the IPI's patent filing portal, submitted the documents in English (the IPI accepts only German, French, and Italian for trademark filings), and did not appoint a Swiss address for service.
+
+**What happened:**
+- The application was rejected on formal grounds (wrong portal, wrong language, no Swiss address)
+- The founder lost 6 weeks and had to restart the process
+- During those 6 weeks, a competitor filed a confusingly similar mark in the same Nice class
+- The competitor's mark was published and registered before the corrected application could be processed
+
+**Resolution:** The company filed an opposition (CHF 800) against the competitor's mark based on its earlier Singapore trademark and Paris Convention priority. The opposition succeeded after 14 months — but only because the company had a prior registration in Singapore. Without that, the competitor's mark would have stood.
+
+**Lesson:** The IGE/IPI system is straightforward but has strict formal requirements. Applications must be in an official Swiss language, submitted through the correct portal, and include a Swiss address for service. A Swiss IP practitioner handles all of this routinely. The cost of professional filing assistance (CHF 1'500-2'500) is a fraction of the cost of a 14-month opposition proceeding.
+
+---
+
+## Friction Block: Common Mistakes at IGE/IPI
+
+**Trap 1 — Filing a trademark in English.** The IGE/IPI accepts trademark applications in German, French, and Italian only. The goods and services description must be in one of these languages. The trademark itself (the word mark) can be in any language, but all administrative documents must be in an official language. English-only filings are rejected.
+
+**Trap 2 — Confusing the patent and trademark portals.** The IPI has separate filing systems for trademarks, patents, and designs. Filing a trademark application through the patent portal (or vice versa) results in rejection and restarting the process.
+
+**Trap 3 — Assuming IGE examination means your mark is clear.** The IGE examines trademarks for absolute grounds only — it checks whether the mark is descriptive, deceptive, or contrary to public order. It does NOT search for conflicting earlier marks. A mark can pass IGE examination and still be opposed and cancelled by an earlier rights holder. Clearance is your responsibility, not the IGE's.
+
+**Trap 4 — Not monitoring SHAB for oppositions.** If you hold existing trademark registrations, the IGE will not notify you when a confusingly similar mark is published. You must monitor the Swiss Official Gazette (SHAB) yourself — or hire a watch service — to catch conflicting applications during the 3-month opposition window. Miss the window, and your only recourse is a more expensive cancellation action before the courts.
+
+**Trap 5 — Swiss national patent ≠ examined patent.** Foreign founders routinely misunderstand this: a Swiss national patent granted by the IGE/IPI has undergone formal examination only. No novelty search. No inventive step assessment. It is a registered right, not an examined right. For genuine protection, file through the EPO (European Patent Office). The Swiss national filing is useful primarily as a priority date placeholder at CHF 200.
+
+
 ---
 
 ## Frequently Asked Questions
 
-**Does IGE/IPI register copyrights?**
+**I need to protect my brand, my invention, and my creative work. Do I file everything with IGE/IPI?**
 
-No. Copyright in Switzerland is automatic upon creation of an original work under the Copyright Act (URG). No registration is required or available. IGE/IPI only handles trademarks, patents, and designs.
+Not quite. IGE/IPI handles trademarks (brand names, logos), patents (technical inventions), and design rights (product appearance). Copyright is automatic under Swiss law — there is no register and no filing. Trade secrets are protected contractually, not through IGE/IPI. For most businesses, the starting point is a trademark filing (CHF 550/class), followed by patent and design registrations as needed.
 
 **Can foreign companies file directly with IGE/IPI?**
 

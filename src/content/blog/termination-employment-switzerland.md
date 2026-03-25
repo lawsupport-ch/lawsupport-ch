@@ -43,14 +43,14 @@ Swiss employment law provides employers with broad flexibility to terminate empl
 
 ---
 
-## Swiss Employment Law: The Basic Framework
+## Where Employers Get Termination Wrong
 
-Swiss employment contracts are governed by the <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en" target="_blank" rel="nofollow noopener">Code of Obligations (OR), Articles 319-362</a>. The fundamental principle is freedom of contract — employer and employee can agree on most terms. Statutory provisions set minimums that cannot be contracted away to the employee's detriment.
+Switzerland does not have a general "unfair dismissal" doctrine -- employers can terminate for any reason (or no stated reason). But the execution is where foreign employers fail.
 
-Switzerland does not have a general "unfair dismissal" doctrine requiring employers to justify terminations by substance. Employers can terminate for any reason (or no stated reason), subject to:
-1. Providing proper notice
-2. Not terminating during protected periods
-3. Not terminating in an abusive (missbrauchliche) manner
+The three most common mistakes:
+1. **Serving notice during a protected period** (illness, pregnancy, military service) -- the notice is void, not merely delayed
+2. **Using digital signatures on termination letters** -- Swiss labour courts do not accept DocuSign, Adobe Sign, or qualified electronic signatures for employment terminations. Blue pen, physical paper, delivered by hand or registered post
+3. **Missing the end-of-month deadline** -- notice must take effect at the end of a calendar month. A termination letter delivered on 2 March with a 2-month notice period means employment ends 31 May, not 2 May
 
 For a broader overview of [employment law in Switzerland](/employment-law/employment-law-switzerland/), including contract formation, working hours, and employee protections, see our detailed guide.
 
@@ -162,31 +162,31 @@ Employers planning significant workforce reductions should also consider the [wo
 
 **Exit agreements (Aufhebungsvereinbarung):** Employers and employees can agree to terminate by mutual consent, typically with an agreed severance payment. Exit agreements bypass notice periods and protected period rules but must be genuinely voluntary — an employee who signs under duress can challenge the agreement.
 
+### Case Study: The Termination Letter That Cost an Extra Month
+
+A European tech founder running a Zug AG terminated a developer during the developer's second year of service (2-month notice period). The termination letter was emailed from the founder's London office on 31 January with a DocuSign electronic signature. The employee's lawyer challenged the validity. The employer re-served with a wet-ink signature on 4 February. Because notice must take effect at the end of a calendar month, the 2-month notice period now ran from 28 February to 30 April, instead of 31 January to 31 March. The one-week delay added one full month of salary (approximately CHF 10'000) plus continued social insurance contributions.
+
 **Non-compete clauses:** Post-employment non-compete clauses (Art. 340 OR) are only valid if: (a) the employee had access to client relationships or trade secrets; (b) the restriction is reasonable in scope, geography, and duration (maximum 3 years); and (c) the employer pays adequate compensation. A non-compete lapses automatically if the employer terminates without good cause.
 
 ---
 
 ## Frequently Asked Questions
 
-**Can an employer terminate without giving a reason?**
+**What happens if the employee reports sick on the day we serve notice?**
 
-In principle, yes — Swiss law does not require employers to state a reason for ordinary termination. However, if the employee requests the reason in writing, the employer must provide it (Art. 335 OR). The stated reason becomes the basis for any abusive dismissal challenge.
+If the employee is genuinely ill when notice is served, the notice may be void if it falls within a protected period. Protected periods for illness: 30 days in year 1, 90 days in years 2-5, 180 days from year 6 onwards. Some employers request a medical certificate before proceeding with termination to verify the employee is not in a protected period.
 
-**What is the minimum probation period?**
+**Can we terminate by email or DocuSign?**
 
-Probation can be set at up to 3 months (or up to 6 months by agreement or GAV). During probation, 7 days' notice applies and the protected period rules do not apply (a sick employee during probation can still be dismissed with 7 days' notice).
+No. Swiss labour courts do not accept digital signatures for employment termination notices. The termination letter must bear a wet-ink signature (blue or black pen on paper) and be delivered in person or by registered post (Einschreiben). An electronically signed termination is formally defective -- the employee's lawyer will challenge it, forcing re-service and potentially adding a month of salary to your costs.
 
-**Is garden leave permitted in Switzerland?**
+**Is garden leave permitted without a contract clause?**
 
-Yes. Employers can place employees on garden leave (Freistellung) during the notice period — the employee is released from their duty to work but remains employed and receives full salary. Non-compete clauses and confidentiality obligations continue during garden leave.
+No. The employment contract must explicitly permit Freistellung (release from duty to work). Without this clause, the employee has a right to work during the notice period, and you cannot force garden leave unilaterally. Many standard Swiss employment contracts include a Freistellung clause -- verify yours does before serving notice.
 
-**Does an employee get anything if made redundant after 5 years?**
+**What happens to the non-compete clause if we terminate the employee?**
 
-There is no general Swiss statutory severance entitlement at 5 years. The Art. 339b entitlement only applies at age 50 or older with 20 or more years of service. Redundant employees at 5 years receive only their salary during the notice period unless the contract provides for more.
-
-**What is the maximum compensation for abusive dismissal?**
-
-Up to 6 months' salary under Art. 336a OR. The dismissal itself remains valid — the employee is not reinstated. The claim must be raised in writing during the notice period (a formal written objection to the dismissal), and the court action must be filed within 180 days of the employment relationship ending. Missing either deadline extinguishes the claim entirely. Many employees miss the first step — the written objection during the notice period — because they do not realise it is a prerequisite for the subsequent court claim.
+If the employer terminates without good cause (i.e., no fault by the employee), the non-compete clause lapses automatically under Art. 340c OR. If the employee is terminated for cause (serious misconduct), the clause remains in force. Employers who terminate without cause and then attempt to enforce a non-compete will lose in court.
 
 **What are the protected periods during illness?**
 

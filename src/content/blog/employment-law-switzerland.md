@@ -49,7 +49,7 @@ If you have not yet formed your Swiss entity, start with our guide to [company f
 
 ---
 
-## 1. The Legal Framework: What Governs Swiss Employment Law
+## 1. Where Foreign Employers Get Swiss Employment Law Wrong
 
 Swiss employment law is not a single code. It is a layered system built from federal statutes, cantonal regulations, collective agreements, and individual contracts — applied in that order of precedence.
 
@@ -263,6 +263,10 @@ One of the most dangerous misconceptions in Swiss employment law concerns **staf
 
 **SECO licence requirements include:** a Swiss-resident responsible person with relevant qualifications and clean criminal and debt records, certified Commercial Register extract (not older than six months), a lease agreement with floor plan for the business premises, published general terms (AGBs), and written confirmation that no placement fees are charged to jobseekers.
 
+### Case Study: The US EOR That Missed Every Registration Step
+
+A US employer-of-record company began placing three employees in Switzerland without a Swiss legal entity, assuming its US master services agreement covered Swiss operations. Within six months, three compliance failures surfaced: (1) no AHV registration -- retroactive contributions with 5% interest accrued from day one; (2) no SECO staff leasing licence -- potential fines of up to CHF 100'000; (3) Swiss-sourced revenue exceeded CHF 100'000, triggering mandatory VAT registration that the company had not completed. The company ultimately established a Swiss GmbH, but the retroactive compliance costs exceeded CHF 45'000 -- more than four times the cost of doing it correctly from the start.
+
 ---
 
 ## 11. Work Permits for Foreign Employees
@@ -283,6 +287,16 @@ Non-EU nationals — including employees from the US, UK post-Brexit, India, Chi
 4. The cantonal authority then issues the permit (typically a B permit).
 
 Quotas are limited and competition is significant. Processing times are typically 8–12 weeks at minimum, and approval is not guaranteed. Employers should plan recruitment timelines accordingly.
+
+### Permit Types: Quick Comparison
+
+| Permit | Who | Duration | Work Rights | Employer Obligations |
+|---|---|---|---|---|
+| B (EU/EFTA) | EU/EFTA nationals | 5 years | Unrestricted | Standard registration |
+| B (non-EU) | Third-country nationals | 1 year (renewable) | Employer-specific | Quota application + labour market test |
+| L | Short-term (< 12 months) | Up to 12 months | Employer-specific | Quota application |
+| C | Settled residents | Indefinite | Unrestricted | Standard registration |
+| G (cross-border) | EU/EFTA frontier workers | 5 years | Employer-specific area | Cross-border social insurance coordination |
 
 **The explanation letter determines everything.** The employer must submit a written justification to the cantonal migration authority explaining precisely why no Swiss or EU/EFTA candidate can fill the role. This is not a formality — migration officers read these letters carefully and will reject applications where the justification is generic or the labour market test was clearly superficial. From our experience filing these in canton Zug, a well-drafted explanation letter with specific evidence of the recruitment search (job postings, RAV notification, interview records) significantly increases approval rates.
 
@@ -333,7 +347,11 @@ For companies [doing business in Switzerland](/company-formation/doing-business-
 
 ## FAQ: Employment Law Switzerland
 
-**Q1: Do I need a written employment contract in Switzerland?**
+**Q1: What happens if the bank rejects our corporate account before we can process payroll?**
+
+Banks reject corporate account applications more often than founders expect -- particularly for foreign-owned companies or entities with brand-sensitive names. PostFinance has a high rejection rate for foreign-controlled structures. Without a bank account, you cannot process payroll, and your salary obligation exists from day one of employment. Open your corporate bank account well before the first hire date, and have a backup bank identified.
+
+**Q1b: Do I need a written employment contract in Switzerland?**
 
 Oral employment contracts are legally valid in Switzerland. However, written contracts are strongly recommended. Without a signed document, disputes over salary, notice periods, non-compete clauses, or working hours are resolved by the court based on evidence and custom — a process that is costly and uncertain. For any role of meaningful duration or seniority, a written contract is essential practice.
 

@@ -255,6 +255,22 @@ For a full breakdown of the most common reasons Swiss bank account applications 
 
 ---
 
+## Hidden Requirements and Compliance Traps
+
+Swiss bank applications fail for reasons that are not documented on any bank's website. These are patterns from our case files:
+
+**PostFinance's undocumented requirements:** Beyond standard KYC, PostFinance requires CVs of all directors, copies of employment contracts, detailed transaction descriptions (what payments will flow through the account, from whom, and in what currencies), and a written business plan. They rejected a company called "BK Tesla AI Academy" over the brand-sensitivity of the word "Tesla." Two other companies — one in health services (Edel Swiss Health), one in pharmaceuticals (Aquavit Pharmaceuticals) — were rejected with clean documentation and no apparent risk factors.
+
+**The c/o address penalty:** Companies registered at a c/o address (care-of a formation agent) face higher scrutiny than those with a direct street address. Banks assess substance partly through address quality. If you can secure a direct registered address, do so before applying.
+
+**Tax filing as proof of substance:** Without submitted Swiss tax filings, a company cannot demonstrate genuine local operation to a bank's compliance team. Newly formed companies should file their first tax return as soon as possible — it becomes a credibility document for banking.
+
+**The blocked account signal:** If a Swiss bank approves your [capital deposit account](/banking/capital-deposit-account-switzerland/) during company formation, there is roughly an 80% probability it will also approve the permanent operating account. This is the strongest predictive signal in the Swiss banking process.
+
+**US person trap:** A US-owned Swiss employer-of-record company with three Swiss employees was rejected by Relio (hard US-nexus policy), then by PostFinance. It was forced to use a UK parent entity's payment account — creating ongoing compliance issues because Swiss regulators view operations through another entity's account as questionable.
+
+---
+
 ## How Lawsupport Approaches Bank Selection
 
 We do not submit applications and wait to see which bank responds. Account opening is solely the bank’s decision — there is no right to a Swiss bank account, and no appeals process when a bank declines. That makes bank selection the most consequential step in the process. We profile each client’s business before a single document is prepared. That means understanding the company's structure, the UBOs' nationalities and financial history, the business activity and its risk classification, the expected transaction patterns, and any factors that require active management in the compliance process.

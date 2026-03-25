@@ -209,6 +209,22 @@ Exiting requires deregistration with the Einwohnerkontrolle and genuinely establ
 
 ---
 
+## Tax Residency Disputes: What Cantonal Authorities Actually Challenge
+
+Cantonal tax offices have become increasingly aggressive in challenging tax residency claims. The pattern is predictable — and the cost of getting it wrong can exceed CHF 100'000 in back taxes, interest, and penalties.
+
+**The 183-day misconception.** Foreign entrepreneurs assume the international standard of 183 days applies in Switzerland. It does not. Switzerland uses 30 days (with gainful activity) or 90 days (without). A Dubai-based consultant who spends 45 days working from a Zug co-working space triggers Swiss tax residency after 30 days — not 183. The remaining 15 days generate Swiss-taxable income retroactively from day one.
+
+**The split-family trap.** An executive relocates to Zug while the family stays in London for the school year. The executive registers in Zug, rents a flat, and assumes Swiss tax residency is established. The UK tax authority applies the DTA tie-breaker and concludes that the centre of vital interests remained in London (family home, children's school, spouse's employment). The executive ends up tax-resident in both countries for the transitional year, with neither authority willing to concede primary residence. Resolution requires a mutual agreement procedure that takes 12-24 months and costs CHF 20'000-50'000 in advisory fees.
+
+**The departure audit.** When a high-net-worth individual deregisters from Switzerland, the cantonal tax authority conducts a departure review. If the individual retains a Swiss property (even a holiday home), maintains Swiss bank accounts, holds Swiss club memberships, or has family members still registered in Switzerland, the authority may conclude that residency has not genuinely ended. The consequence: continued Swiss taxation on worldwide income and wealth for the year of departure and potentially subsequent years.
+
+> **Case study:** A Russian entrepreneur registered in Zug but spent 200 days per year in Dubai managing his trading business. The Zug tax authority challenged his residency, arguing that his centre of vital interests was in the UAE (where he spent the majority of his time and conducted his primary business). The entrepreneur produced evidence of his Zug apartment lease, Swiss gym membership, and local social connections. The authority was not persuaded — the commercial centre of gravity was clearly Dubai. The entrepreneur was reassessed as non-resident for three years, losing the benefit of Swiss tax rates on his worldwide income. The advisory cost to contest the reassessment: CHF 35'000. The additional tax liability: over CHF 400'000.
+
+**Lump-sum taxation: the minimum CHF 400'000 floor.** Non-working foreigners can elect lump-sum taxation, where the tax base is calculated on living expenses rather than actual income. The minimum taxable base is CHF 400'000 per year in most cantons (higher in some). An advance ruling from the cantonal authority is a prerequisite — not optional. Cantons that have abolished lump-sum taxation include Zurich, Schaffhausen, Appenzell Ausserrhoden, Basel-Stadt, and Basel-Landschaft. Zug, Schwyz, and Geneva still offer it.
+
+---
+
 ## Relocating to Switzerland? Request a Free Assessment
 
 Swiss tax residency is straightforward to establish and, with proper planning, straightforward to structure efficiently. The complexity lies in dual-residency analysis, exit planning, and the interaction between your personal tax position and any corporate structures you hold.

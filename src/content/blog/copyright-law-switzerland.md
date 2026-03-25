@@ -36,6 +36,12 @@ tocItems:
     title: "Contact Lawsupport for Copyright Advice"
   - id: "related-topics"
     title: "Related Topics"
+  - id: "case-study-the-freelancer-who-kept-the-copyright"
+    title: "Case Study: The Freelancer Who Kept the Copyright"
+  - id: "decision-flow-do-you-own-the-copyright"
+    title: "Decision Flow: Do You Own the Copyright?"
+  - id: "friction-block-what-actually-goes-wrong"
+    title: "Friction Block: What Actually Goes Wrong"
 faqItems:
   - question: "Does Swiss copyright need to be registered?"
     answer: "No. Protection arises automatically at the moment of creation. There is no Swiss copyright register and no registration system."
@@ -209,7 +215,7 @@ Border measures are also available: customs authorities can detain suspected inf
 
 ### Enforcement Costs: What to Budget
 
-Copyright enforcement in Switzerland is not cheap. A cease-and-desist letter drafted by a qualified Swiss IP lawyer costs CHF 1,500–3,500. If the matter proceeds to an interim injunction application, legal fees typically reach CHF 10,000–25,000. Full civil proceedings — through to trial and judgment — commonly run to CHF 50,000–150,000 depending on the complexity and the amount in dispute. Criminal complaints are less expensive to file but slower to progress and depend on prosecutorial priorities. The cost asymmetry means that for lower-value infringements, a well-drafted cease-and-desist letter is often the only economically rational enforcement step.
+Copyright enforcement in Switzerland is not cheap. A cease-and-desist letter drafted by a qualified Swiss IP lawyer costs CHF 1'500–3,500. If the matter proceeds to an interim injunction application, legal fees typically reach CHF 10'000–25,000. Full civil proceedings — through to trial and judgment — commonly run to CHF 50'000–150,000 depending on the complexity and the amount in dispute. Criminal complaints are less expensive to file but slower to progress and depend on prosecutorial priorities. The cost asymmetry means that for lower-value infringements, a well-drafted cease-and-desist letter is often the only economically rational enforcement step.
 
 For related intellectual property protections, see our guides to [trademark registration in Switzerland](/intellectual-property/trademark-registration-switzerland/) and [IP protection in Switzerland](/intellectual-property/ip-protection-switzerland/).
 
@@ -235,17 +241,65 @@ If you need advice on copyright ownership, assignment agreements, enforcement ac
 **Email:** info@lawsupport.ch
 **Address:** Grafenauweg 4, Zug, Switzerland
 
+
+---
+
+## Case Study: The Freelancer Who Kept the Copyright
+
+A Zurich-based design agency commissioned a full brand identity (logo, typography, packaging design, website layouts) from a freelance graphic designer. Total fee: CHF 45'000. The contract specified deliverables and payment terms but contained no copyright assignment clause.
+
+**What happened next:** After 18 months, the agency terminated the freelancer relationship. The freelancer began offering elements of the brand identity to other clients in the same market. The agency sent a cease-and-desist letter.
+
+**The freelancer's response:** Under Swiss copyright law (URG), copyright vests in the human creator. Without a written assignment, the economic rights never transferred to the agency. The agency owned the physical design files (the deliverables), but not the copyright in the creative expression. The freelancer was legally entitled to reuse design elements.
+
+**Resolution:** The agency negotiated a retroactive exclusive licence — total cost CHF 28'000 in legal fees and licence payment. The freelancer retained copyright but agreed not to reuse the specific brand elements.
+
+**The fix that would have cost CHF 500:** A single paragraph in the original freelance contract: "The Designer hereby assigns to the Agency all copyright and economic rights in all works created under this agreement, for all uses, media, and territories, in perpetuity." Drafted by any Swiss commercial lawyer as a standard clause.
+
+**Key rule:** In Switzerland, copyright can only originate with a human author. Companies acquire copyright through written assignment (for all works except software) or through the Art. 17 URG statutory transfer (for software created by employees only). If your contract does not address assignment, you do not own the rights — regardless of what you paid.
+
+---
+
+## Decision Flow: Do You Own the Copyright?
+
+**Scenario 1: Employee created it**
+- Is it software? → Yes → Economic rights transfer automatically to employer under Art. 17 URG. No assignment needed (but include a confirmatory clause in the employment contract for clarity).
+- Is it anything else (designs, text, photos, marketing materials)? → No automatic transfer. You need a written assignment clause in the employment contract. Without it, the employee owns the copyright.
+
+**Scenario 2: Freelancer created it**
+- Does the contract contain a written copyright assignment? → Yes → You own the economic rights (but moral rights remain with the freelancer).
+- No written assignment? → The freelancer owns the copyright. You own the deliverable files, not the underlying rights. The freelancer can legally reuse creative elements.
+
+**Scenario 3: AI generated it**
+- Was there meaningful human creative input at the expression level (not just the prompt)? → Potentially protectable, but fact-specific. Evidence of human creative direction is essential.
+- Was the output generated entirely by AI with only a prompt? → Not protectable under current Swiss law. Competitors can copy it freely.
+
+---
+
+## Friction Block: What Actually Goes Wrong
+
+**Trap 1 — No copyright assignment in employment contracts.** Art. 17 URG covers software only. For designers, writers, photographers, videographers, and marketers, economic rights remain with the employee unless transferred by written agreement. Roughly half of the Swiss employment contracts we review omit this clause. The cost of adding it: CHF 0 (during contract drafting). The cost of a retroactive licence after a dispute: CHF 10'000-50'000.
+
+**Trap 2 — Moral rights cannot be contracted away.** Even if you acquire full economic rights, the creator retains the right to be attributed and to object to derogatory treatment of the work. This means you cannot freely distort, mutilate, or misattribute a commissioned work without risk of a moral rights claim. Plan for this in your creative process.
+
+**Trap 3 — AI-generated content has no copyright protection.** If your marketing copy, design drafts, or code are generated purely by AI tools, that output is likely unprotectable under Swiss law. A competitor can copy your AI-generated website text without infringing any rights. The strategic response: ensure meaningful human creative input at the expression level, and document that contribution.
+
+**Trap 4 — The 50-year software rule.** Software copyright lasts 50 years from creation, not life + 70 years like other works. For software developed in the 1970s-1990s, some of these protections are already nearing expiry. Companies relying on decades-old proprietary code should assess whether their copyright protection is still in force.
+
+**Trap 5 — Copyright enforcement costs are asymmetric.** A cease-and-desist letter: CHF 1'500-3'500. An interim injunction: CHF 10'000-25'000. Full trial: CHF 50'000-150'000. For many infringements, the only economically rational step is the cease-and-desist letter. Budget accordingly and do not assume you will recover legal costs from the infringer — Swiss courts award partial cost recovery, not full reimbursement.
+
+
 ---
 
 ## Frequently Asked Questions
 
-**Does Swiss copyright need to be registered?**
+**If copyright is automatic, why would I ever need legal advice on it?**
 
-No. Protection arises automatically at the moment of creation. There is no Swiss copyright register and no registration system. The challenge is evidentiary: if ownership is disputed, you must be able to prove you created the work first and that it has individual character. Dated drafts, version histories, and email trails serve this function.
+Copyright arises automatically, but ownership does not resolve automatically. The critical questions are: who owns it (the creator, the employer, the commissioner?), has it been validly assigned, and can you prove it? The most expensive copyright disputes are not about whether a work is protected — they are about who holds the rights. A written assignment clause costs CHF 500 to draft. A retroactive ownership dispute costs CHF 10'000-50'000.
 
-**Can a company own copyright in Switzerland?**
+**Our employees create content daily — do we automatically own all of it?**
 
-A company can hold copyright through assignment or, in the case of software, through the Art. 17 URG employer rule. But copyright can only originate with a human author. The initial rights vest in the individual who created the work; they are then transferred to the company. Employment and freelance contracts must address assignment explicitly — except for software, where the transfer is statutory.
+Only if it is software (Art. 17 URG provides automatic transfer for software created by employees in the course of their duties). For everything else — marketing copy, designs, photography, videos, presentations — copyright remains with the human creator unless you have a written assignment in the employment contract. Check your contracts now. If the clause is missing, add it. You cannot retroactively claim rights you never acquired.
 
 **What should I do if someone infringes my Swiss copyright?**
 

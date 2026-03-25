@@ -6,8 +6,8 @@ category: "Banking & Finance"
 categoryHref: "/banking/"
 readTime: "7 min read"
 tocItems:
-  - id: "what-cantonal-banks-are"
-    title: "What Cantonal Banks Are"
+  - id: "why-cantonal-banks-matter-for-foreign-company-founders"
+    title: "Why Cantonal Banks Matter for Foreign Company Founders"
   - id: "the-24-cantonal-banks"
     title: "The 24 Cantonal Banks"
   - id: "key-cantonal-banks-for-international-business"
@@ -25,9 +25,9 @@ For a broader overview of Switzerland's banking system, see [Swiss banking syste
 
 ---
 
-## What Cantonal Banks Are
+## Why Cantonal Banks Matter for Foreign Company Founders
 
-Cantonal banks are chartered under cantonal legislation, majority-owned by their respective cantonal governments, and operate primarily within their home canton. Key features:
+Cantonal banks are the most realistic banking option for most foreign-owned Swiss companies. They are chartered under cantonal legislation, majority-owned by their respective cantonal governments, and operate primarily within their home canton. Here is what matters for account opening:
 
 **State guarantee (Staatsgarantie):** Most cantonal banks carry an unlimited state guarantee from their canton — if the bank fails, the canton covers all depositor losses. This makes cantonal banks among the safest deposit institutions in the world. ZKB (Zurich) and BCGE (Geneva) have explicit state guarantees; a small number have reduced or abolished theirs.
 
@@ -110,6 +110,29 @@ For a full breakdown of what Swiss banks require, see [corporate bank account Sw
 ## Cantonal Banks vs. Private Banks
 
 Cantonal banks and [private banking Switzerland](/banking/private-banking-switzerland/) serve different client profiles. Cantonal banks focus on regional retail and SME banking, with the added security of state guarantees. Private banks — many based in Geneva and Zurich — focus on wealth management for high-net-worth individuals, typically requiring minimum assets and offering discretionary portfolio management. For most operating companies and SMEs, a cantonal bank is the practical choice. For personal wealth structuring alongside a Swiss company, a private bank or the private banking arm of ZKB or BCGE may be more appropriate.
+
+---
+
+## Cantonal Banks vs. Other Swiss Banks: Practical Comparison
+
+| Factor | Cantonal Banks | UBS | PostFinance | Relio AG | Private Banks |
+|---|---|---|---|---|---|
+| **Entry threshold** | None (substance expected) | CHF 500'000 AUM | None | CHF 249/month | CHF 4'000'000-6'000'000 |
+| **Timeline** | 4-6 weeks | 8-12 weeks | 3-4 weeks (often to rejection) | Same day | 4-12 weeks |
+| **US persons** | Rarely | Yes (FATCA) | Rarely | No | Rarely |
+| **State guarantee** | Yes (most cantons) | No | No | No | No |
+| **Rejection rate (foreign)** | Moderate with preparation | High without relationship | Very high | Low (no US nexus) | Low (if minimum met) |
+
+### Real Rejection Patterns
+
+Cantonal banks are more accessible than UBS, but they are not automatic approvals. From our practice:
+
+- **Brand-sensitive names:** PostFinance rejected a company because "Tesla" appeared in its registered name. The bank demanded justification for the name choice.
+- **Health and pharma sectors:** Two companies with clean documentation were rejected by PostFinance without clear explanation.
+- **US nexus:** Nearly all cantonal banks lack FATCA infrastructure and will decline companies with US beneficial owners.
+- **Address quality:** Companies using a c/o address rather than a direct registered address face higher scrutiny. Banks notice the difference.
+
+The 80% conversion signal applies here: if a cantonal bank approves your [capital deposit account](/banking/capital-deposit-account-switzerland/) during formation, approximately 80% of those relationships convert into permanent corporate accounts.
 
 ---
 

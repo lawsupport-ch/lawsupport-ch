@@ -175,6 +175,31 @@ Relio AG has gone further: corporate accounts can be opened the same day after v
 
 ---
 
+## Online Account Opening: Bank Comparison for Foreign Clients
+
+| Factor | Relio AG | Neon | Revolut | Wise | Traditional Banks |
+|---|---|---|---|---|---|
+| **Fully online** | Yes (video via Intrum) | Yes (app) | Yes (app) | Yes | No (VideoIdent at best) |
+| **Swiss bank** | Yes (FINMA-licenced) | Yes (via Hypothekarbank Lenzburg) | No (Lithuanian licence) | No (e-money) | Yes |
+| **Corporate accounts** | Yes | Limited | Yes | Yes | Yes |
+| **US persons** | No | N/A (residents only) | Limited | Yes | Depends on bank |
+| **Monthly cost** | CHF 249 | CHF 0-5 | CHF 0-23.99 | Varies | CHF 20-80 |
+| **Speed** | Same day | 24-48 hours | Minutes | Days | 4-12 weeks |
+| **esisuisse protection** | Yes | Yes | No | No | Yes |
+| **Limitation** | Rejects US-nexus companies | Swiss residents only | Not a Swiss bank | Not a bank | In-person KYC required |
+
+### Why "Open a Swiss Bank Account Online" Is Misleading
+
+Most search results for this phrase suggest it is straightforward. The reality for non-residents:
+
+- **Traditional banks (UBS, cantonal banks, PostFinance):** No fully online option exists. VideoIdent covers identity verification only. The KYC process still requires physical document submission and often an in-person meeting.
+- **PostFinance:** Accepts online applications from Swiss residents. For foreign companies, PostFinance has one of the highest rejection rates. Companies with brand-sensitive names, health sector businesses, and pharmaceutical companies have all been rejected despite clean documentation.
+- **Relio AG:** The closest to genuine online corporate banking for foreigners. Same-day accounts after video verification through Intrum. But Relio explicitly rejects all companies with US nexus at the UBO or shareholder level.
+
+**Case from practice:** A US-owned Swiss company was rejected by Relio with the explanation: "unable to onboard companies with US nexus at UBO/shareholders level." The company was forced to operate through its UK parent's Ebury account, creating compliance problems because Swiss regulators view operations through another entity's bank account as questionable.
+
+---
+
 ## Frequently Asked Questions
 
 **Can I open a Swiss bank account before moving to Switzerland?**

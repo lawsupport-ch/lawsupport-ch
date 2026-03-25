@@ -200,6 +200,24 @@ Switzerland enacted a 15% supplement tax for qualifying large Swiss groups with 
 
 ---
 
+## Transfer Pricing Audits: What Actually Triggers Them
+
+Swiss Tax Administration data sharing with OECD countries has increased sharply since 2020. The automatic exchange of Country-by-Country Reports means that transfer pricing inconsistencies visible in one jurisdiction are now flagged across all treaty partners simultaneously. A Swiss subsidiary reporting thin margins while the group parent in a high-tax jurisdiction reports robust profits will attract attention from both sides.
+
+**The audit acceleration pattern:** Cantonal tax inspectors in Zug, Zurich, and Geneva now routinely request transfer pricing documentation as part of standard corporate tax assessments — not just during formal audits. The days of Swiss authorities accepting intercompany pricing without documentation are over.
+
+**Real friction points from practice:**
+
+1. **Retroactive documentation carries less weight.** A transfer pricing study prepared after the tax inspector asks for it is treated with scepticism. Documentation that existed at the time the tax return was filed — a contemporaneous Local File — is materially more defensible. The cost difference: CHF 5'000-20'000 for a proactive Local File versus CHF 50'000-200'000 for a defensive transfer pricing dispute.
+
+2. **The management fee trap.** A Swiss subsidiary paying CHF 300'000 in annual management fees to its parent must demonstrate three things: the services were actually rendered, the subsidiary received genuine value, and the price is arm's length. Failing any of these tests exposes the excess to reclassification as a hidden dividend — subject to 35% [withholding tax](/tax-accounting/withholding-tax-switzerland/). On CHF 300'000 reclassified: CHF 105'000 in withholding tax, payable by the Swiss company, non-recoverable from the parent, and non-deductible for income tax.
+
+3. **Safe harbour rates are not optional.** The ESTV publishes annual safe harbour interest rates for intercompany loans (Merkblatt S-02.123). A Swiss company lending to its parent at 6% when the safe harbour rate for the currency is 3% will have the excess 3% reclassified as a hidden dividend. On a CHF 10 million loan, that is CHF 300'000 reclassified and CHF 105'000 in withholding tax.
+
+> **Case study:** A technology group headquartered in Singapore established a Swiss AG in Zug as its European principal company. The AG purchased products from the Singapore parent and resold to European distributors. The intercompany purchase price left the Swiss AG with a 2% net margin — consistent with a limited-risk distributor but not with a principal bearing inventory risk, credit risk, and market development responsibility. The Zug tax inspector requested transfer pricing documentation during the second-year assessment. The company had none. The inspector applied a TNMM benchmark study and concluded the arm's length margin for the Swiss principal was 8-12%. The adjustment on CHF 15 million in intercompany purchases was CHF 1.5 million in additional taxable income, generating approximately CHF 178'000 in additional corporate tax plus interest. A contemporaneous transfer pricing study would have cost CHF 12'000 and would have either confirmed the pricing or identified the risk before the first transaction.
+
+---
+
 ## Protect Your Group's Swiss Tax Position
 
 Transfer pricing in Switzerland carries real financial risk — particularly the 35% withholding tax on hidden profit distributions. Proper documentation, arm's length pricing, and advance rulings are the tools that eliminate exposure before it becomes a liability.

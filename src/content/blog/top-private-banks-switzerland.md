@@ -18,8 +18,8 @@ faqItems:
   - question: "What fees do Swiss private banks charge?"
     answer: "Typical all-in management fees for discretionary mandates range from 0.5% to 1.2% per annum of AUM. Advisory mandates carry lower management fees plus transaction costs. A CHF 2,000,000 discretionary mandate costs approximately CHF 15,000-25,000 per year in management fees plus underlying fund costs."
 tocItems:
-  - id: "what-is-a-swiss-private-bank"
-    title: "What Is a Swiss Private Bank?"
+  - id: "why-most-applicants-never-get-past-compliance"
+    title: "Why Most Applicants Never Get Past Compliance"
   - id: "top-swiss-private-banks-by-aum-2026"
     title: "Top Swiss Private Banks by AUM (2026)"
   - id: "detailed-bank-profiles"
@@ -39,9 +39,17 @@ Switzerland manages approximately USD 2.5 trillion in cross-border private wealt
 
 ---
 
-## What Is a Swiss Private Bank?
+## Why Most Applicants Never Get Past Compliance
 
-Swiss private banks are specialist wealth management institutions that serve high-net-worth (HNW) and ultra-high-net-worth (UHNW) individuals and families. They differ from retail or universal banks:
+Swiss private banks are specialist wealth management institutions for high-net-worth (HNW) and ultra-high-net-worth (UHNW) individuals. Before evaluating which bank fits, understand the barriers that stop most applicants:
+
+**The real minimums (not the published ones):** Pictet and Lombard Odier officially accept clients from CHF 2'000'000, but a genuinely attentive relationship with a dedicated senior relationship manager begins at CHF 4'000'000-6'000'000. Below that, you receive junior RM service with standardised portfolio models.
+
+**US persons:** Practically always rejected. Swiss private banks have largely exited the US-person market due to FATCA compliance costs. Even fintech providers like Relio AG explicitly decline all US-nexus structures.
+
+**WorldCheck screening:** Every prospective client is screened against Refinitiv WorldCheck. A false positive from a common name can delay account opening by months. One client experienced a three-week delay because a name match required manual resolution despite no adverse history.
+
+They differ from retail or universal banks:
 
 - **Relationship-driven:** Each client is assigned a dedicated relationship manager (RM)
 - **Full wealth management:** Investment management, financial planning, estate planning, tax advisory, and lending in a single relationship
@@ -169,6 +177,23 @@ Individuals relocating to Switzerland who intend to use Swiss private banking se
 For UHNW individuals, [lump-sum taxation](/tax-accounting/lump-sum-taxation-switzerland/) may provide an alternative to ordinary taxation. [Tax advisory](/tax-accounting/tax-advisory-switzerland/) should be engaged before establishing banking relationships to ensure the overall structure is tax-efficient.
 
 <!-- VIDEO: How to evaluate and select a Swiss private bank for your wealth management needs -->
+
+---
+
+## Private Banks vs. Corporate Banking: Which Do You Actually Need?
+
+Most people searching for "top private banks Switzerland" actually need a [corporate bank account](/banking/corporate-bank-account-switzerland/), not a wealth management relationship. The distinction matters:
+
+| Factor | Private Banks (Pictet, JB) | UBS Wealth | Cantonal Banks | Relio AG |
+|---|---|---|---|---|
+| **Purpose** | Wealth management | Full banking + wealth | Corporate/retail banking | Corporate accounts |
+| **Minimum** | CHF 4'000'000-6'000'000 | CHF 500'000 AUM | None (substance expected) | CHF 249/month |
+| **US persons** | Rarely | Yes (FATCA) | Rarely | No |
+| **Timeline** | 4-12 weeks | 8-12 weeks | 4-6 weeks | Same day |
+| **Annual cost** | 0.5-1.5% of AUM | Similar | CHF 240-960/year | CHF 2'988/year |
+| **Rejection rate** | Low (if minimum met) | High without relationship | Moderate with prep | Low (no US nexus) |
+
+**Case from practice:** A Singapore-based entrepreneur with CHF 3'000'000 in investable assets approached Pictet expecting a bespoke private banking relationship. Pictet accepted the account but assigned a junior relationship manager with limited portfolio customisation. The client moved to Julius Baer, which offered a more attentive service at that asset level. The lesson: published minimums and actual service thresholds are different numbers.
 
 ---
 

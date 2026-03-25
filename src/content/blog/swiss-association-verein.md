@@ -39,7 +39,7 @@ The Swiss Verein (association) is a non-profit legal entity governed by Articles
 
 ---
 
-## What a Swiss Verein Is
+## When a Verein Is the Wrong Structure (and Founders Discover Too Late)
 
 A Verein is an association of persons united by a common purpose. It is:
 - A legal entity (juristische Person) — it can own property, sign contracts, and sue and be sued in its own name
@@ -48,6 +48,8 @@ A Verein is an association of persons united by a common purpose. It is:
 - Not-for-profit in the civil law sense: any surplus cannot be distributed to members as dividends — but it can pay employees, cover costs, and invest in purpose-related activities
 
 The Verein is distinct from a [Swiss foundation (Stiftung)](/company-formation/swiss-foundation/), which has no members and is governed by a foundation board rather than a general assembly. Choosing between these two structures depends on your governance preferences and purpose.
+
+**The banking problem:** Swiss banks are accustomed to opening accounts for GmbH and AG entities. A commercially active Verein seeking a corporate bank account faces additional scrutiny about governance, fund flows, and the relationship between commercial activity and the stated non-profit purpose. We have seen PostFinance and cantonal banks reject Verein account applications outright when the stated purpose appeared commercial. This delays operations by weeks or months.
 
 ---
 
@@ -97,6 +99,10 @@ Additional bodies (optional): President, Secretary-General, Auditors.
 **Crypto / blockchain projects:** The Ethereum Foundation is a Swiss Stiftung, but many comparable projects use a Verein structure. The Swiss Verein offers decentralised membership governance and is used by open-source blockchain projects that issue tokens or manage protocol treasuries. See our guide to [crypto licensing in Switzerland](/licensing/crypto-license-switzerland/) for regulatory considerations.
 
 **International organisation holding structures:** "Swiss Verein" is also used in professional services partnerships (e.g., the Big 4 accounting firms use a Swiss Verein as the international umbrella entity — legally, each national firm is independent but affiliated through the Verein).
+
+### Case Study: When a Verein Became a Compliance Problem
+
+A group of non-resident founders set up a Verein in Zug to manage a blockchain protocol treasury. The structure worked initially -- member-based governance suited the project's decentralised ethos. Problems began when the Verein needed to open a second bank account for operational expenses. The bank requested documentation showing the relationship between commercial token sales and the Verein's stated non-profit purpose. The cantonal tax authority simultaneously questioned whether the Verein's commercial activity disqualified its tax exemption. The founders spent four months and CHF 15'000 in legal fees restructuring: the Verein remained as the governance entity, but a GmbH subsidiary was formed to handle all commercial operations. The GmbH cost CHF 1'900 to register -- a fraction of the restructuring cost.
 
 ---
 
@@ -153,17 +159,13 @@ Founders occasionally attempt to use a Verein as a low-cost alternative to a Gmb
 
 ## Frequently Asked Questions
 
-**Does a Verein have limited liability?**
+**Can we use a Verein to avoid the CHF 20'000 GmbH minimum capital?**
 
-The Verein itself has limited liability as a legal entity — members are generally not personally liable for the Verein's obligations. However, committee members can be personally liable if they act negligently or in bad faith in managing the association.
+Technically, you can form a Verein with zero capital. But this saving evaporates if you plan any commercial activity. The Verein cannot distribute profits to members, banks scrutinise commercial Verein accounts more heavily, and B2B counterparties expect to deal with a GmbH or AG. The GmbH costs CHF 1'900 to register. The perceived cost saving of the Verein creates more friction than it solves for any revenue-generating activity.
 
-**Can a Verein make a profit?**
+**What if the bank rejects our Verein's account application?**
 
-Yes. A Verein can generate revenue from commercial activities (event fees, product sales, services). The profits must be retained and applied toward the association's stated purpose — they cannot be distributed to members as dividends.
-
-**Can a Verein issue tokens or manage a crypto treasury?**
-
-Yes. Swiss Vereins have been used as the governing entity for crypto protocols managing large token treasuries. The governance structure must be adapted to address the specific requirements of the project.
+This happens. Swiss banks are cautious with commercially active Vereins, and PostFinance has a particularly high rejection rate for foreign-controlled structures. If your Verein's stated purpose is non-profit but your actual operations are commercial, the bank's compliance team will flag the inconsistency. Solution: either restructure with a GmbH subsidiary for commercial operations, or ensure the Verein's stated purpose accurately reflects its activities before applying.
 
 **How many members does a Swiss Verein need?**
 

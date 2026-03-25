@@ -206,6 +206,31 @@ If you are forming a company in [Zug specifically](/company-formation/company-fo
 
 ---
 
+## Bank Comparison: UBS vs PostFinance vs Relio vs Cantonal Banks
+
+| Factor | UBS | PostFinance | Relio AG | Cantonal Banks | Private Banks |
+|---|---|---|---|---|---|
+| **Minimum** | CHF 500'000 AUM | None | CHF 249/month | None (substance expected) | CHF 4'000'000-6'000'000 |
+| **Timeline** | 8-12 weeks | 3-4 weeks (often to rejection) | Same day after video | 4-6 weeks | 4-12 weeks |
+| **US persons** | Yes (FATCA) | Rarely | No — hard policy | Rarely | Rarely |
+| **Rejection rate** | High without relationship | Very high | Low (no US nexus) | Moderate with prep | Low (if minimum met) |
+| **Remote opening** | No | No | Yes (video via Intrum) | Usually in-person | RM meeting |
+| **Monthly fees** | CHF 50-80 | CHF 10-25 | CHF 249 | CHF 20-50 | Based on AUM |
+| **Best for** | Large structures, US persons | Swiss residents only | EU-owned startups | Operating cos with substance | Wealth management |
+
+### PostFinance: The Full Documentation Requirement
+
+PostFinance demands more documentation than most applicants expect. Before they will process a corporate account application, they require:
+- Written business plan describing activities and revenue model
+- CVs of all directors
+- Copies of employment contracts (if staff exist)
+- Description of expected transaction types and volumes
+- Documentary proof of source of funds for initial and ongoing operations
+
+Missing any single item restarts the review clock. Rejections arrive after 3-4 weeks of processing — time that cannot be recovered. PostFinance has rejected companies with brand-sensitive names, health sector businesses, and pharmaceutical companies, all with clean structures and documentation.
+
+---
+
 ## Our Banking Introduction Service
 
 At Lawsupport, we open corporate bank accounts for clients every week. We have done so for over 1,000 companies formed for clients from more than 40 countries over 18 years of practice. Here is exactly what our banking introduction service includes.

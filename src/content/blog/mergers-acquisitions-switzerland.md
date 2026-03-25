@@ -36,6 +36,12 @@ tocItems:
     title: "Employment Consequences"
   - id: "closing-and-post-closing-obligations"
     title: "Closing and Post-Closing Obligations"
+  - id: "case-study-south-african-holding--shelf-company-for-prestige"
+    title: "Case Study: Shelf Company for Prestige"
+  - id: "decision-tree-share-deal-vs-asset-deal"
+    title: "Decision Tree: Share Deal vs. Asset Deal"
+  - id: "friction-block-what-actually-goes-wrong-in-swiss-ma"
+    title: "Friction Block: What Goes Wrong in Swiss M&A"
 ---
 
 
@@ -184,13 +190,80 @@ Closing in a Swiss private M&A transaction involves simultaneous exchange of del
 
 Post-closing, the parties typically enter a transition services period. The SPA will specify the purchase price adjustment process (if closing accounts apply), the W&I insurance notification procedure, and any earn-out governance obligations.
 
+
+---
+
+## Case Study: South African Holding — Shelf Company for Prestige
+
+A South African investment holding company managing $25M-$500M in transactions sought a Swiss presence for its European expansion. The founders considered two options: (1) incorporate a new AG, or (2) acquire an existing shelf company with commercial register history.
+
+**Why shelf company won:** For transactions at this scale, counterparties conduct background checks. A newly formed company with zero operating history can trigger enhanced due diligence concerns with banks, partners, and regulators. The holding chose a shelf AG with 12 years of clean commercial register history, a dormant Swiss bank account, and current financial statements.
+
+**Transaction structure:**
+- Shelf company acquisition: CHF 15'000 (purchase price for a 12-year-old clean AG)
+- Shelf company modification (name change, board changes, business purpose amendment): ~CHF 1'700 in notary and commercial register fees
+- Legal advisory: CHF 350/hour, total engagement ~CHF 8'000
+- Timeline from engagement to fully operational Swiss entity: 3 weeks
+
+**Post-acquisition:** The company used the Swiss AG as the contracting entity for a EUR 45M real estate transaction in Germany. The 12-year commercial register history, combined with a Swiss-domiciled board member with joint signature authority, satisfied the counterparty's KYC requirements without the extended due diligence that a newly formed entity would have triggered.
+
+**Key insight:** Shelf company value is not just about speed — it is about commercial credibility in high-value transactions. The CHF 15'000 premium over a new formation (CHF 3'000-5'000) was justified by the reduction in counterparty friction on a EUR 45M deal.
+
+---
+
+## Decision Tree: Share Deal vs. Asset Deal
+
+**Start here: What are you buying?**
+
+**The entire company (all assets, all liabilities)** → Share deal. Simpler execution. All contracts, licences, and regulatory permits remain in place. Risk: you assume all liabilities, including unknown ones. Mitigation: robust due diligence + W&I insurance.
+
+**A specific business unit or asset portfolio** → Asset deal. You choose which assets and liabilities to assume. Risk: operational complexity — every contract and licence must be individually transferred or novated. Mitigation: careful asset/liability schedule + third-party consent management.
+
+**Decision factors:**
+
+| Factor | Share deal | Asset deal |
+|---|---|---|
+| Liability exposure | All liabilities (known + unknown) | Only assumed liabilities |
+| Execution complexity | Lower (one share transfer) | Higher (individual asset transfers) |
+| Notarial requirement | AG: none. GmbH: mandatory | Only for real estate |
+| Employee transfer | Automatic (same employer) | Automatic under Art. 333 OR |
+| Tax treatment (seller) | Participation exemption may apply | Ordinary income tax on gains |
+| Stamp duty | 0.15% if dealer involved | Depends on asset composition |
+| Speed | 6-12 weeks (AG, no approvals) | 8-16 weeks (consent management) |
+
+**The hidden liability question:** If the target company has any of the following, an asset deal may be safer:
+- Environmental contamination risk
+- Unresolved litigation
+- Pension fund deficits
+- Outstanding tax assessments or disputes
+- Unknown contractual obligations
+
+**The regulatory question:** If the target holds regulatory licences (FINMA, SIX, cantonal), a share deal preserves those licences. An asset deal requires the buyer to apply for new licences — which can take months and may not be granted.
+
+---
+
+## Friction Block: What Actually Goes Wrong in Swiss M&A
+
+**Trap 1 — Hidden liabilities in share deals.** The single most common post-closing dispute in Swiss M&A involves liabilities the buyer did not discover during due diligence. Pension fund deficits (BVG/LPP obligations), undisclosed tax liabilities, environmental obligations on real property, and pending litigation are the usual suspects. Due diligence is not a checkbox exercise — it is the primary risk mitigation mechanism. Budget CHF 10'000-25'000 in legal fees for a mid-market deal, or accept the risk.
+
+**Trap 2 — Stamp duty surprise.** Swiss securities transfer stamp duty (0.15% on Swiss securities, 0.30% on foreign securities) applies when a Swiss securities dealer is a party to or intermediary in the transaction. Most Swiss banks qualify as dealers. If a bank is involved in the transaction mechanics (e.g., holding shares in custody), stamp duty is triggered. Structure the transfer to avoid unnecessary dealer involvement — or budget for the duty.
+
+**Trap 3 — GmbH notarial requirement.** AG share transfers are simple — endorsement of the share certificate and update of the share register. GmbH quota transfers require a publicly authenticated agreement before a Swiss notary. This is mandatory under Art. 785 OR and cannot be waived by agreement. Foreign buyers are frequently surprised by this requirement. Allow 2-3 weeks for notarial scheduling and execution.
+
+**Trap 4 — Employee transfer obligations (Art. 333 OR).** In an asset deal involving the transfer of a business unit, employees transfer automatically to the buyer. Employees cannot be dismissed solely because of the transfer. However, employees can object — and an objecting employee's contract terminates at the end of the statutory notice period. If key employees object, the buyer may lose critical personnel.
+
+**Trap 5 — COMCO merger control thresholds.** Swiss merger control is mandatory when combined worldwide turnover exceeds CHF 100M and at least two parties each have Swiss turnover exceeding CHF 10M. Missing a mandatory filing is an offence. The Phase I review takes one month — plan your closing timeline accordingly.
+
+**Trap 6 — The earn-out governance gap.** Earn-out provisions (contingent purchase price tied to post-closing performance) are inherently adversarial — the buyer controls the business and can influence the metrics. Swiss courts have seen numerous earn-out disputes. If you include an earn-out, define the accounting methodology, business conduct obligations, dispute resolution mechanics, and independent expert determination in granular detail. Vague earn-outs become expensive arbitrations.
+
+
 ---
 
 ## Frequently Asked Questions
 
-**Do I need a notary for a Swiss M&A transaction?**
+**Can we close a Swiss M&A deal in under 4 weeks?**
 
-It depends on the structure. GmbH quota transfers require a publicly authenticated agreement executed before a Swiss notary -- this is mandatory under Art. 785 OR and cannot be waived. AG share transfers do not require notarisation. Formal mergers, demergers, and transformations under the FusG require notarial certification of the merger agreement and public deed filings. Asset deals involving real property require notarisation for the real estate transfer component.
+For an AG share deal with no regulatory approvals, yes — we have closed straightforward transactions in 3-4 weeks. The critical path is: due diligence (1-2 weeks for a clean target), SPA negotiation (1 week if both parties are motivated), and closing mechanics (share transfer + register update, 1-2 days). GmbH deals add notarial scheduling time (2-3 weeks). Transactions requiring FINMA or COMCO approval add 2-4 months. The fastest closes happen when the buyer has already completed preliminary due diligence before engagement.
 
 **How long does a typical Swiss private M&A transaction take?**
 

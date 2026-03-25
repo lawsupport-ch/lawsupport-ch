@@ -27,9 +27,15 @@ Family reunification Switzerland — known in Swiss law as *Familiennachzug* —
 
 ---
 
-## What Is Family Reunification in Switzerland?
+## Why Family Reunification Applications Fail
 
 Family reunification allows a person lawfully residing in Switzerland — the sponsor — to bring qualifying family members into the country to live together. It is governed primarily by the Foreign Nationals and Integration Act (AIG) and, for EU/EFTA nationals, by the Agreement on the Free Movement of Persons (AFMP). Official guidance is published at <a href="https://www.admin.ch" target="_blank" rel="nofollow noopener">admin.ch</a>.
+
+The most common reasons applications are refused or delayed:
+- **Incomplete documentation** -- apostille requirements alone add 2-4 weeks if the marriage certificate was issued in a non-Hague Convention country
+- **Bank statements older than 3 months** at the time the cantonal officer reviews the file (not at the time of submission)
+- **Translator credentials not recognised** by the specific canton -- confirm before commissioning translation work
+- **Income below the cantonal threshold** -- there is no single federal figure, and high cost-of-living cantons apply higher benchmarks
 
 The permit category the sponsor holds is the single most important factor. Swiss citizens and C permit holders enjoy the broadest rights. Non-EU/EFTA B permit holders face the strictest conditions.
 
@@ -163,45 +169,25 @@ Failure to comply with integration agreements can be grounds for refusing permit
 
 ## Frequently Asked Questions
 
-**Can I apply for family reunification before I have lived in Switzerland for 3 years as a non-EU/EFTA B permit holder?**
+**Can I submit my family's application at the same time as my own work permit?**
 
-No. The three-year residency requirement is a hard statutory threshold for non-EU/EFTA nationals on a B permit. The only exceptions are narrow humanitarian cases or situations involving undue hardship, which require specific legal argumentation. Applying early without meeting this threshold will result in refusal.
+No. The cantonal migration office requires the primary applicant's file to be accepted first. A European tech founder relocating to Zug with his family assumed both applications could run simultaneously. They cannot. His B permit application took one month for commercial register formation, another month for relocation essentials. Only after his primary file was accepted could his wife's reunification application be submitted. The family was physically reunited roughly ten weeks after the process began.
 
-**My child is 13. Will the canton refuse the family reunification application?**
+**Can a non-EU citizen get a work permit through family reunification?**
 
-Not automatically. The law does not prohibit reunification with children over 12, but cantonal authorities have discretion to assess integration prospects more critically. A well-prepared application that documents the child's language exposure, schooling history, and adaptability significantly improves the outcome. Legal representation at this stage is advisable.
+Yes. Spouses and registered partners joining under family reunification can generally work in Switzerland without separate work authorisation. The B permit they receive includes employment rights -- for both EU/EFTA and non-EU/EFTA family members. This is one of the most underused pathways to Swiss employment for non-EU nationals.
 
-**My spouse's family reunification permit was tied to my B permit. I have now received my C permit. Does my spouse automatically upgrade?**
+**What if the cantonal officer says my income is too low?**
 
-The upgrade is not automatic, but it is straightforward. Once the sponsor holds a C permit, the family member can apply for a C permit through the cantonal migration authority. The standard conditions for C permit issuance apply — principally, length of residence and integration criteria. Your spouse will not be required to start the residency clock from scratch.
+There is no single federal figure. Practical benchmarks for non-EU/EFTA B permit holders: CHF 40'000-45'000 net annual income for a couple, CHF 50'000-55'000 with one child, CHF 60'000+ with two or more children. Cantons in high cost-of-living areas apply higher thresholds. If your income is borderline, document savings, assets, and any supplementary income sources.
 
-**Does a joining family member have the right to work in Switzerland?**
+**What happens if our family reunification is refused -- can we appeal?**
 
-Yes. Spouses and registered partners joining under family reunification can generally work in Switzerland without separate work authorisation. The B permit they receive includes employment rights — for both EU/EFTA and non-EU/EFTA family members.
+A refusal is not always the end. Appeals are possible through the cantonal administrative court and, ultimately, the Federal Administrative Court. However, a well-prepared initial application is always preferable. The appeal process takes 3-6 months and requires professional legal representation.
 
-**What is the income threshold for family reunification in Switzerland?**
+**Do we need to marry before applying, or is cohabitation enough?**
 
-There is no single federal figure. As a practical benchmark for non-EU/EFTA B permit holders: CHF 40,000–45,000 net annual income for a couple, CHF 50,000–55,000 with one child, and CHF 60,000 or more with two or more children. Cantons in high cost-of-living areas may apply higher thresholds.
-
-**How long does a Swiss family reunification application take?**
-
-From submission of a complete application, the standard processing window is 8 to 16 weeks. Incomplete applications are the most common cause of delay and reset the clock. Cantons with higher caseloads — Zurich, Geneva, Vaud — tend toward the longer end.
-
-**What documents are needed for a Swiss family reunification application?**
-
-Core documents include valid passports, the sponsor's current permit, marriage certificate (apostilled and translated), birth certificates for children, proof of adequate housing, payslips (last 3 months), employment contract, and bank statements. Non-EU/EFTA sponsors must also provide proof of 3+ years' uninterrupted residency.
-
-**Can an unmarried partner apply for family reunification in Switzerland?**
-
-An unmarried partner has no automatic right under Swiss law. Approval depends on demonstrating a long-term, stable relationship through evidence of cohabitation, joint financial ties, and a credible intention to continue the relationship in Switzerland. These applications are assessed at cantonal discretion and are more frequently refused than spouse applications.
-
-**Can I bring my parents to Switzerland through family reunification?**
-
-Sponsoring a parent is possible but rarely approved in the non-EU/EFTA context. It requires demonstrating genuine dependency on the sponsor and no other support available in the home country.
-
-**What integration obligations apply to non-EU/EFTA family members?**
-
-Family members from non-EU/EFTA countries must sign an integration agreement committing to language courses and achieving minimum language benchmarks (typically A1 oral on arrival; A2 or B1 within a set period). Failure to comply can be grounds for refusing permit renewal.
+An unmarried partner has no automatic right under Swiss law. The evidentiary burden is substantially higher -- you need joint lease agreements, shared utility bills, joint bank accounts, and evidence of a long-term stable relationship. A marriage certificate eliminates this entire category of risk.
 
 ---
 

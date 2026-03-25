@@ -47,9 +47,15 @@ This guide explains exactly how to use ZEFIX effectively.
 
 ---
 
-## What ZEFIX Is
+## What ZEFIX Is (and What It Cannot Tell You)
 
-ZEFIX is operated by the Federal Office of the Commercial Register (EHRA — Eidgenoessisches Amt fuer das Handelsregister), part of the Federal Department of Justice and Police. It is the official federal index of all commercially registered entities in Switzerland.
+ZEFIX is operated by the Federal Office of the Commercial Register (EHRA — Eidgenoessisches Amt fuer das Handelsregister), part of the Federal Department of Justice and Police. It is the official federal index of all commercially registered entities in Switzerland. It is free, requires no account, and is the standard first step for any Swiss company verification.
+
+But ZEFIX has limitations that catch people off guard:
+- **AG shareholders are not shown** -- only GmbH shareholders appear in the register
+- **Beneficial owners are not disclosed** -- Switzerland has no publicly accessible beneficial ownership register
+- **Data has a 1-5 business day delay** from cantonal registration
+- **The free PDF extract is not accepted by most banks** for KYC purposes -- you need a certified extract from the cantonal register (CHF 30-50)
 
 The ZEFIX database is updated continuously as cantonal registers process new filings. Most entries appear in ZEFIX within 1–5 business days of cantonal registration.
 
@@ -176,6 +182,10 @@ Here is a pattern that catches founders repeatedly: the SHAB (Swiss Official Gaz
 
 **Register your domain before you file with the notary.** The cost of a .ch domain is CHF 10-15 per year. The cost of recovering a squatted domain — or choosing a different one — is materially higher.
 
+### Case Study: The Company That Did Not Exist on ZEFIX
+
+A non-resident founder signed contracts and began invoicing clients using his new AG's name before the Commercial Register entry was complete. When a client ran a ZEFIX search and found no matching entity, they froze payments pending verification. The founder had not realised that while the company could legally operate from the moment of notarial signing, it would not appear on ZEFIX for 2-3 weeks after registration. The solution: provide clients with a copy of the notarial deed as interim proof of formation.
+
 ### 2025 Shell Company Transfer Rules
 
 Companies researching shelf (shell) companies on ZEFIX should be aware of the **2025 regulatory changes** that expanded the Commercial Register's powers over shell company transfers. The register can now:
@@ -195,6 +205,10 @@ A company name registered in the Commercial Register does not automatically conf
 ---
 
 ## Frequently Asked Questions
+
+**Why does our newly registered company not appear on ZEFIX?**
+
+ZEFIX aggregates data from cantonal registers with a 1-5 business day delay. Your company can legally operate from the moment of notarial signing, but it will not appear on ZEFIX until the cantonal register processes the filing. For the most current information, check the cantonal register directly (e.g., hr.zg.ch for Zug). Provide counterparties with the notarial deed as interim proof of formation.
 
 **Is ZEFIX free to use?**
 

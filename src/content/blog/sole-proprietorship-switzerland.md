@@ -41,13 +41,19 @@ The Swiss Einzelfirma (sole proprietorship) is the simplest business structure a
 
 ---
 
-## What an Einzelfirma Is
+## When the Einzelfirma Is the Wrong Choice
 
-An Einzelfirma is a business run by a single natural person (an individual, not a company). The business is not a separate legal entity — it is the individual. There is no separation between the person's private assets and the business's liabilities.
+The Einzelfirma is the simplest Swiss business structure — no minimum capital, no notary, minimal administration. But it is the wrong choice in four common situations:
 
-This is both its strength and its primary limitation:
-- **Strength:** Simple to create, low ongoing cost, minimal administrative burden
-- **Limitation:** The owner is personally liable for all business debts without limit
+**1. You are not a Swiss resident.** Foreign nationals without a valid Swiss residence permit cannot register an Einzelfirma. Full stop. If you are based outside Switzerland, you need a [GmbH](/company-formation/gmbh-formation-switzerland/) or [AG](/company-formation/ag-formation-switzerland/) with a Swiss-resident director.
+
+**2. Your income exceeds CHF 100'000-150'000.** Above this threshold, the Einzelfirma becomes tax-disadvantageous. Personal income tax at marginal rates (25-40%) plus AHV/IV/EO contributions (~10% of net profit) exceed what you would pay through a GmbH (corporate tax at 11.8% in Zug on retained profit). One Zug-based consultant earning CHF 180'000 saved approximately CHF 8'000 in the first year after converting to a GmbH.
+
+**3. Your business carries meaningful liability risk.** The Einzelfirma offers zero liability protection. All business debts are your personal debts. A single contract dispute or employee claim can result in personal bankruptcy.
+
+**4. You want to take on partners or investors.** The Einzelfirma is structurally a one-person business. There is no mechanism to bring in co-owners or issue equity. Growth beyond a sole operation requires conversion to a GmbH (CHF 1'900 registration cost + CHF 20'000 share capital).
+
+If none of these apply — you are a Swiss resident, earning below CHF 150'000, with low commercial risk, and no plans to scale — the Einzelfirma is genuinely the right choice. It is a business run by a single natural person. The business is not a separate legal entity — it is the individual. There is no separation between the person's private assets and the business's liabilities.
 
 ---
 
@@ -143,7 +149,39 @@ This is a standard process. We handle such conversions regularly as part of [com
 
 ---
 
+## Einzelfirma vs GmbH vs AG: Decision Matrix
+
+| Factor | Einzelfirma | GmbH | AG |
+|---|---|---|---|
+| Formation cost | CHF 200-400 (register fee) | CHF 1'900 (incl. notary) | CHF 2'500 (incl. notary) |
+| Minimum capital | None | CHF 20'000 (fully paid) | CHF 100'000 (CHF 50'000 paid in) |
+| Notarisation required | No | Yes | Yes |
+| Personal liability | Unlimited | Limited to capital contribution | Limited to capital contribution |
+| Tax treatment | Personal income tax (25-40%) + AHV (~10%) | Corporate tax (11.8% in Zug) + salary AHV | Corporate tax (11.8% in Zug) + salary AHV |
+| Swiss residency required | Owner must be Swiss resident | Only director must be Swiss resident | Only board member must be Swiss resident |
+| Shareholder privacy | N/A (sole owner) | Low (public register) | High (internal register) |
+| Suitable for foreign nationals | Only with valid residence permit | Yes (with nominee director) | Yes (with nominee director) |
+| Best for | Freelancers, small consultancies | SMEs, subsidiaries, services | Holdings, investor rounds, privacy |
+
+**The conversion cost:** Converting an Einzelfirma to a GmbH involves forming a new GmbH (CHF 1'900), transferring business assets, and deregistering the Einzelfirma. Total professional fees: approximately CHF 3'000-5'000 plus the CHF 20'000 share capital deposit. Most conversions complete within 4-6 weeks.
+
+---
+
+## Case Study: The Consultant Who Waited Too Long
+
+A Zug-based IT consultant operated as an Einzelfirma for three years, earning CHF 200'000 annually. Total tax and social insurance burden: approximately CHF 65'000/year (personal income tax at ~22% effective rate plus AHV/IV/EO at ~10%). After converting to a GmbH, he paid himself a salary of CHF 120'000 (with AHV on that salary) and retained CHF 80'000 in the company at Zug's 11.8% corporate rate. Annual saving: approximately CHF 12'000. Over the three years he delayed the conversion, he overpaid by roughly CHF 36'000 — far more than the conversion cost.
+
+---
+
 ## Frequently Asked Questions
+
+**Do I really need to convert to a GmbH, or can I stay as Einzelfirma?**
+
+If your annual net income consistently exceeds CHF 100'000-150'000, the numbers almost always favour conversion. The GmbH's corporate tax rate (11.8% in Zug) on retained profit, combined with a modest salary, produces a lower total tax burden than the Einzelfirma's personal income tax plus AHV. GmbH registration costs CHF 1'900 — the tax saving in year one typically covers the entire conversion cost.
+
+**How much does it actually cost to convert an Einzelfirma to a GmbH?**
+
+Formation of the new GmbH: CHF 1'900 (including notary). Share capital deposit: CHF 20'000 (remains in the company as working capital). Asset transfer documentation and Einzelfirma deregistration: approximately CHF 1'000-3'000 in professional fees. Total: CHF 3'000-5'000 plus the share capital, completed within 4-6 weeks.
 
 **Can a foreign national register an Einzelfirma in Switzerland?**
 

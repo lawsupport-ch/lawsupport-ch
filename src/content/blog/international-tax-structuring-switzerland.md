@@ -16,8 +16,8 @@ faqItems:
   - question: "Is Zug always the best canton for tax structures?"
     answer: "Zug offers the lowest headline rate (11.85%) but Geneva suits commodity trading better, and cantons like Nidwalden, Lucerne, and Schwyz offer competitive rates with different advantages."
 tocItems:
-  - id: "why-switzerland-for-international-tax-structures"
-    title: "Why Switzerland for International Tax Structures"
+  - id: "structuring-mistakes-that-destroy-the-swiss-tax-advantage"
+    title: "Structuring Mistakes That Destroy the Swiss Tax Advantage"
   - id: "who-uses-swiss-international-structures"
     title: "Who Uses Swiss International Structures"
   - id: "structure-comparison"
@@ -39,7 +39,9 @@ Switzerland remains one of the most effective jurisdictions for international ta
 
 ---
 
-## Why Switzerland for International Tax Structures
+## Structuring Mistakes That Destroy the Swiss Tax Advantage
+
+Switzerland offers effective rates from 11.85% (Zug) and genuine IP Box rates of 2-3%. But three structuring errors wipe out that advantage entirely: insufficient substance (treaty benefits denied under PPT), wrong nexus ratio (IP Box rejected), and undocumented transfer pricing (35% withholding tax on reclassified hidden dividends). Each of these errors is preventable with an advance tax ruling — yet roughly a third of the international structures we audit were implemented without one.
 
 The case for Switzerland is structural, not promotional.
 
@@ -221,6 +223,20 @@ Swiss entities must file annual corporate tax returns (federal and cantonal), pr
 ---
 
 For an overview of Swiss corporate tax rates and how they apply across cantons, see the <a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">Federal Tax Administration (ESTV)</a> website. The <a href="https://www.oecd.org/en/topics/base-erosion-and-profit-shifting.html" target="_blank" rel="nofollow noopener">OECD BEPS framework</a> sets the international standards that Swiss structures must satisfy.
+
+---
+
+## Friction Points: What Catches International Groups
+
+**The substance threshold is real.** A Swiss holding company with no employees, no office beyond a registered address, and board members who have never visited Switzerland will fail the Principal Purpose Test under the MLI. Treaty benefits will be denied. The cost of genuine substance — registered address (CHF 2'400/year in Zug), a Swiss-resident director (CHF 5'900/year standard), and basic accounting (CHF 1'400/year dormant) — is approximately CHF 9'700 per year. The cost of failing the PPT: loss of treaty benefits worth CHF 50'000-500'000 per year in additional withholding tax.
+
+**IP Box requires actual Swiss R&D.** A company that registers patents in a Swiss entity but performs all R&D in India gets zero IP Box benefit. The OECD nexus approach is mathematically precise: Swiss R&D expenditure divided by total R&D expenditure equals the fraction of IP income that qualifies. Zero Swiss R&D = zero benefit. Companies must relocate genuine development functions — not just patent ownership — to Switzerland.
+
+**Transfer pricing audits are increasing.** The Swiss Tax Administration now shares Country-by-Country Reports with OECD partner jurisdictions automatically. A Swiss principal company reporting 2% margins while the group reports 15% will trigger simultaneous scrutiny from Swiss and foreign authorities. Documentation must be prepared contemporaneously — not after the inspector asks for it.
+
+**The Pillar Two ceiling for large groups.** Groups with consolidated revenue above EUR 750 million face a 15% minimum effective tax rate under Pillar Two, regardless of cantonal rates. The top-up from Zug's 11.85% to 15% is approximately 3.18 percentage points — modest, but it means the IP Box and R&D super-deduction cannot push effective rates below 15% for in-scope groups.
+
+> **Case study:** A South African infrastructure group formed a Swiss AG in Zurich to serve as an intermediate holding for energy and real estate subsidiaries across Africa — SA, DRC, Ghana, Kenya, Congo. Expected transaction volumes: 4-5 per month in the USD 25-500 million range. The participation exemption reduced effective Swiss tax on qualifying dividends to near zero. The group initially registered in Zurich because a suitable shelf company was available, with the intention of re-domiciling to Zug once turnover was established. The Zug tax authority requires demonstrable business activity before accepting new holding company registrations — a pragmatic sequencing that avoided friction with the cantonal inspector. Re-domiciliation to Zug was completed after 18 months of documented operations.
 
 ---
 

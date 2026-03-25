@@ -30,6 +30,12 @@ tocItems:
     title: "What to Do After Your Swissreg Search"
   - id: "next-steps-request-a-free-assessment"
     title: "Next Steps: Request a Free Assessment"
+  - id: "case-study-the-swissreg-search-that-missed-a-conflict"
+    title: "Case Study: Search That Missed a Conflict"
+  - id: "decision-flow-what-to-search-and-where"
+    title: "Decision Flow: What to Search and Where"
+  - id: "friction-block-what-swissreg-does-not-tell-you"
+    title: "Friction Block: What Swissreg Does Not Tell You"
 ---
 
 
@@ -173,17 +179,74 @@ Proceed to file your [trademark registration in Switzerland](/intellectual-prope
 - If overlap is minimal (different classes, unrelated goods and services): filing may still be viable
 
 **Professional trademark clearance searches:**
-Swissreg keyword searches are not a substitute for a professional clearance opinion. An IP attorney will conduct broader searches — including company names on ZEFIX, domain name registrations across relevant TLDs, and unregistered rights established through prior use — and assess similarity risk across all three dimensions (visual, phonetic, conceptual). The cost of a professional clearance opinion (typically CHF 1,500-3,000) is a fraction of the cost of defending an opposition or rebranding after launch.
+Swissreg keyword searches are not a substitute for a professional clearance opinion. An IP attorney will conduct broader searches — including company names on ZEFIX, domain name registrations across relevant TLDs, and unregistered rights established through prior use — and assess similarity risk across all three dimensions (visual, phonetic, conceptual). The cost of a professional clearance opinion (typically CHF 1'500-3,000) is a fraction of the cost of defending an opposition or rebranding after launch.
 
 <!-- VIDEO: How to conduct a professional trademark clearance search using Swissreg and complementary databases -->
+
+
+---
+
+## Case Study: The Swissreg Search That Missed a Conflict
+
+A Berlin-based DTC brand planned to launch in Switzerland under the name "ALPINA PURE" for skincare products (Class 3). The founder conducted a Swissreg word search for "ALPINA PURE" — zero results. Filed the trademark application with the IGE. CHF 550 paid. Application passed formal examination.
+
+**Three weeks after SHAB publication:** Opposition filed by Alpina Watches (a well-known Swiss brand with registrations in multiple classes, including Class 3 for related luxury goods). Opposition fee: CHF 800. The word "ALPINA" alone — not just the exact phrase "ALPINA PURE" — conflicted with the earlier mark under the likelihood of confusion test.
+
+**What went wrong:**
+- The founder searched for the exact phrase only, not for component words
+- No phonetic similarity search was conducted
+- The Swissreg search was not supplemented by a TMview search (which would have shown the ALPINA registrations across Europe)
+- No professional clearance opinion was obtained
+
+**Resolution:** After 14 months of opposition proceedings, the application was rejected. The founder had already spent CHF 25'000 on Swiss branding, packaging, and marketing materials under the "ALPINA PURE" name. Total loss: approximately CHF 30'000 (legal fees + wasted marketing spend).
+
+**The prevention that was not done:** A professional trademark clearance opinion (CHF 1'500-3'000) would have identified the ALPINA conflict in the first week. The search would have covered: (1) exact matches, (2) component words, (3) phonetic equivalents, (4) conceptual similarity, (5) ZEFIX company names, and (6) TMview cross-border registrations. Total cost of prevention: under CHF 3'000. Total cost of the mistake: CHF 30'000+.
+
+---
+
+## Decision Flow: What to Search and Where
+
+**Step 1 — Start with Swissreg**
+Search for your exact mark, individual words within the mark, phonetic variants, and conceptual equivalents. Filter by relevant Nice classes. Check the status column: "Registered" marks are the highest risk; "Pending" marks also have priority.
+
+**Step 2 — Search ZEFIX**
+Check the Swiss Commercial Register for company names that match or are similar to your proposed mark. A company name registered before your trademark filing can block your application — even if it does not appear in Swissreg.
+
+**Step 3 — Search TMview**
+Check EU and European national trademark registrations. An EUTM does not cover Switzerland, but a mark registered in the EU may be the basis for a Madrid Protocol designation of Switzerland — and the holder may oppose your Swiss filing on the basis of a well-known mark or Paris Convention rights.
+
+**Step 4 — Search WIPO Global Brand Database**
+Check international registrations (Madrid System) that may designate or have already been designated in Switzerland.
+
+**Step 5 — Check domain registrations**
+Search .ch, .com, and relevant TLDs. A matching domain registered to a third party may indicate prior use or brand conflict.
+
+**If all five searches are clean:** Proceed to filing, but understand that no search guarantees registration. Unregistered prior use rights (Art. 14 MSchG) can still create conflicts.
+
+**If any search raises a flag:** Stop. Get a professional clearance opinion before filing. The CHF 1'500-3'000 cost of the opinion is always cheaper than the CHF 5'000-30'000 cost of an opposition or rebranding.
+
+---
+
+## Friction Block: What Swissreg Does Not Tell You
+
+**Limitation 1 — No phonetic or conceptual search.** Swissreg performs exact text matching only. It will not flag "LUXOR" when you search for "LUKSUR", or "BERG" when you search for "MOUNTAIN". Likelihood of confusion under Swiss trademark law is assessed across visual, phonetic, AND conceptual dimensions. A Swissreg keyword search covers only the first.
+
+**Limitation 2 — No unregistered rights.** Prior use rights under Art. 14 MSchG do not appear in any database. A party that has used a mark commercially in Switzerland before your filing date may have defensible prior rights — even without a registration. No search tool can identify these.
+
+**Limitation 3 — No company name conflicts.** Swissreg covers trademarks only. Company names in the Commercial Register (searchable on ZEFIX) can conflict with trademarks under Swiss company name law (Firmenrecht). A complete clearance search requires checking both databases.
+
+**Limitation 4 — No cross-border coverage.** An EU trademark or an international registration designating Switzerland will not appear in Swissreg until the Swiss designation is processed. TMview and the WIPO Global Brand Database fill this gap — but only if you search them.
+
+**Limitation 5 — Status lag.** While Swissreg is updated daily, opposition decisions and register changes may take days to appear. A mark shown as "Registered" may have been cancelled that morning. For time-critical searches (e.g., before a SHAB publication deadline), verify the status directly with the IGE/IPI.
+
 
 ---
 
 ## Frequently Asked Questions
 
-**Is Swissreg in English?**
+**We searched Swissreg ourselves and found nothing. Is that enough before filing?**
 
-Swissreg has an English language interface, but the trademark register entries themselves are in the language filed by the applicant — typically German, French, or Italian. Goods and services descriptions may be in any of the four Swiss national languages.
+Almost certainly not. Swissreg performs exact text matching only — it does not assess phonetic similarity, conceptual similarity, or component word conflicts. It does not cover company names (ZEFIX), unregistered prior use rights, or cross-border registrations (TMview, WIPO). A clean Swissreg search is a necessary first step, but not a sufficient clearance. Professional clearance opinions (CHF 1'500-3'000) cover all five search dimensions and save CHF 5'000-30'000 in potential opposition costs.
 
 **Does Swissreg show company names that conflict with trademarks?**
 

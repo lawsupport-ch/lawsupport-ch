@@ -80,6 +80,22 @@ For a business considering a European base, the combination of low corporate tax
 
 ---
 
+## Five Mistakes Foreign Companies Make When Entering Switzerland
+
+After 18 years and over 1'000 company formations for foreign clients, these are the mistakes we see most frequently:
+
+**1. Treating the bank account as an afterthought.** Banking is the hardest part of doing business in Switzerland as a foreigner — harder than formation, harder than regulatory compliance. PostFinance takes 3-4 weeks and frequently rejects. UBS requires CHF 500'000+ under management. Start the banking process on day one of your Swiss market entry, not after formation is complete.
+
+**2. Assuming the nominee director fee covers everything.** The standard nominee director fee of CHF 5'900/year covers the directorship. It does not cover signing work permits for employees (CHF 350/hour), attending board meetings, executing banking documents, or preparing corporate filings. Budget CHF 9'000-12'000 in total nominee-related costs for an active company in year one.
+
+**3. Ignoring substance requirements.** Switzerland's low-tax regime is legitimate, but OECD BEPS rules and Swiss STAF reform require genuine substance — real employees, real management decisions made in Switzerland, real operations. Pure letterbox structures are increasingly non-compliant and attract scrutiny from both Swiss and foreign tax authorities.
+
+**4. Choosing the wrong canton.** The difference between Zug (11.8% effective tax) and Zurich (19.7%) is approximately CHF 79'000/year on CHF 1'000'000 profit. Unless your business specifically requires a Zurich or Geneva presence, Zug is the default recommendation.
+
+**5. Starting without regulatory clearance.** If your business touches financial services, crypto, or healthcare — even peripherally — obtain a regulatory opinion before commencing operations. Operating without a required FINMA licence is a criminal offence under Swiss law. One client spent CHF 80'000 in regulatory remediation because they started operating before confirming their licence requirements.
+
+---
+
 ## The Legal Framework: Federal and Cantonal Layers
 
 ### The Swiss Code of Obligations and Civil Code
@@ -345,6 +361,25 @@ Lawsupport (Morgan Hartley Consulting GmbH), based in Zug — Switzerland's fore
 - **Ongoing compliance**: Annual reporting, AGM support, director services, [accounting in Switzerland](/tax-accounting/accounting-switzerland/), and audit coordination
 
 Whether you are forming a new Swiss entity, acquiring an existing Swiss business, or restructuring an international group, we provide clear, practical guidance from practitioners who operate in Switzerland daily.
+
+---
+
+## Case Study: German Tech Founder — The Relocation Timeline Fallacy
+
+A German tech founder relocating from London with his family planned to form a Zug AG and serve as his own director within 5-6 months. He requested a nominee director for the interim period.
+
+We flagged the problem immediately: six months is almost never enough. The relocation timeline — finding housing in Zug (CHF 3'500-6'000/month for a three-bedroom apartment), enrolling children in international school, obtaining a B permit, physically moving — typically takes 2+ months for administrative steps alone. Add the time needed for the actual move, and most founders need 8-12 months before they hold a Swiss residence permit and can replace the nominee.
+
+**The cost reality:**
+- AG registration: CHF 2'500
+- Nominee director (planned 6 months): CHF 4'500 quoted
+- Nominee director (actual 14 months): CHF 5'900 for the full year, plus CHF 2'500 for the additional months
+- Registered address in Zug: CHF 2'400/year
+- Work permit applications for his first three hires: CHF 1'050 in nominee signing fees (3 permits x 1 hour at CHF 350/hour)
+
+Total first-year nominee-related cost: approximately CHF 9'000 — not the CHF 4'500 originally budgeted.
+
+The lesson: plan for twelve months of nominee service, even if you expect six. The administrative reality of Swiss relocation does not compress to match your business timeline.
 
 ---
 

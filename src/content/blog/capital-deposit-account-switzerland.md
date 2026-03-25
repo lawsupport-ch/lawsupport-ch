@@ -29,8 +29,8 @@ faqItems:
   - question: "Are there alternatives to the Kapitaleinzahlungskonto for Swiss company formation?"
     answer: "The only statutory alternative to cash deposit is contribution in kind (Sacheinlage) — contributing assets such as real property, machinery, or receivables instead of cash. Contributions in kind require an independent auditor's report and additional disclosure in the articles of association. A third option is acquiring a shelf company (Mantelgesellschaft), which already has a registered capital structure, bypassing the deposit requirement entirely."
 tocItems:
-  - id: "what-is-a-kapitaleinzahlungskonto"
-    title: "What Is a Kapitaleinzahlungskonto?"
+  - id: "why-the-capital-deposit-account-is-where-applications-fail"
+    title: "Why the Capital Deposit Account Is Where Applications Fail"
   - id: "which-banks-open-kapitaleinzahlungskonten"
     title: "Which Banks Open Kapitaleinzahlungskonten?"
   - id: "the-process-step-by-step"
@@ -52,9 +52,9 @@ Every Swiss AG and GmbH must deposit its initial share capital into a blocked ba
 
 ---
 
-## What Is a Kapitaleinzahlungskonto?
+## Why the Capital Deposit Account Is Where Applications Fail
 
-A Kapitaleinzahlungskonto is a special blocked deposit account opened in the name of the company-to-be-formed. Its sole purpose is to hold the initial share capital contribution during the incorporation process.
+A Kapitaleinzahlungskonto is a special blocked deposit account opened in the name of the company-to-be-formed. Its sole purpose is to hold the initial share capital contribution during the incorporation process. It is also the stage where most foreign founders encounter their first Swiss banking rejection — and the rejection has consequences beyond delay.
 
 Swiss law requires that share capital actually exist before incorporation — merely promising to pay later is not sufficient. The capital must be on deposit, blocked, and confirmed in writing to the notary and Commercial Register via an **Einzahlungsbestätigung** (capital deposit confirmation).
 
@@ -216,6 +216,31 @@ Yes. Swiss law permits contribution in kind (Sacheinlage) — contributing asset
 **Does Lawsupport assist with the Kapitaleinzahlungskonto?**
 
 Yes. We coordinate bank selection, prepare the full KYC documentation package, liaise with the bank on behalf of our clients under power of attorney, and manage the process through to release of funds. We work with cantonal banks in Zug and Zurich that are familiar with international formations and can typically compress the bank review phase to the lower end of the timeline.
+
+---
+
+## Bank Comparison for Capital Deposit Accounts
+
+| Factor | Cantonal Banks | PostFinance | UBS | Relio AG |
+|---|---|---|---|---|
+| **Offers Kapitaleinzahlungskonto** | Yes | Yes | Yes (high threshold) | No (operating accounts only) |
+| **Timeline** | 2-4 weeks | 3-4 weeks (high rejection risk) | 4-8 weeks | N/A |
+| **Minimum for non-resident** | None (substance expected) | None | CHF 500'000 AUM | CHF 249/month (operating only) |
+| **US persons** | Rarely | Rarely | Yes (FATCA) | No |
+| **Rejection rate (foreign)** | Moderate | Very high | High without relationship | N/A |
+
+### Why PostFinance Rejections Are Especially Costly at This Stage
+
+A capital deposit rejection does not just delay formation — it can make subsequent bank applications harder. Banks share some information through FINMA reporting, and a pattern of rejections raises compliance flags.
+
+PostFinance has rejected companies at the capital deposit stage for:
+- Brand-sensitive company names ("Tesla" triggered compliance questioning)
+- Health sector and pharmaceutical companies with clean documentation
+- Structures where the business model description was insufficient for their internal checklist
+
+Processing time to rejection at PostFinance: 3-4 weeks. That is 3-4 weeks of company formation delay that cannot be recovered.
+
+**The 80% conversion signal works in reverse too:** Banks that reject the capital deposit account will not reconsider for a permanent account. Getting the capital deposit stage right — by selecting the correct bank from the start — is the single most consequential decision in the formation timeline.
 
 ---
 

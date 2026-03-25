@@ -43,7 +43,17 @@ Swiss working hours are regulated by the <a href="https://www.fedlex.admin.ch/el
 
 ---
 
-## Maximum Weekly Working Hours
+## Common Mistakes With Swiss Working Hours
+
+Foreign employers -- particularly from the US and UK -- assume their home-country practices transfer to Switzerland. They do not. The three most expensive mistakes:
+
+1. **Applying US-style "exempt" categories.** Swiss law has no equivalent. Job title does not determine overtime eligibility. Only genuine senior management (Art. 3 ArG) with real decision-making authority are partially exempt.
+2. **Not recording hours.** Swiss employers must record working hours for all non-exempt employees. The cantonal labour inspectorate (Arbeitsinspektorat) can request records during inspections.
+3. **Waiving overtime premiums below the salary threshold.** Courts have overturned overtime waivers where employee salary was below approximately CHF 120'000. Employees can claim back unpaid premiums with interest for five years.
+
+---
+
+## Statutory Maximum Hours
 
 The Labour Act sets two maximum weekly working hours depending on the sector:
 
@@ -80,6 +90,10 @@ Foreign companies establishing Swiss operations often import employment practice
 - **US-style "exempt" categories do not exist in Swiss law.** An employee's job title does not determine overtime eligibility. Only genuine senior management (Art. 3 ArG) — persons with real decision-making authority over hiring, firing, and strategy — are partially exempt.
 - **"Unlimited PTO" policies** do not override the minimum 4 weeks (20 days) statutory annual leave for employees over 20, or 5 weeks (25 days) for employees under 20.
 - **On-call arrangements** must be structured carefully. Time spent on-call at the employer's premises counts as working time. Time on-call at home does not, unless the employee is called in — in which case travel time to the workplace counts as working time.
+
+### Case Study: The Five-Year Back-Claim
+
+A European tech company established a Zug subsidiary and hired 8 developers on contracts specifying 40-hour weeks with an overtime waiver clause. The developers regularly worked 48-50 hour weeks. After three years, two developers left and filed claims for unpaid ArG overtime premiums. The overtime waiver in their contracts covered OR overtime (hours 40-45) but could not waive the mandatory 25% ArG premium on hours above 45. The court awarded back-pay for three years of ArG overtime premiums plus 5% interest -- approximately CHF 35'000 per developer. The company had no working hour records to dispute the employees' claimed hours, which the court accepted at face value.
 
 ---
 
@@ -154,17 +168,17 @@ Simplified recording is available for employees earning above CHF 120'000 per ye
 
 ## Frequently Asked Questions
 
-**Can a Swiss employment contract specify 60-hour working weeks?**
+**Can we use "unlimited PTO" policies for our Swiss employees?**
 
-No. Contractual working hours cannot exceed the statutory maximum (45 or 50 hours/week depending on sector). Any contractual provision requiring more than the statutory maximum is void. In practice, consistent 60-hour weeks would expose the employer to enforcement action by the cantonal labour inspectorate.
+"Unlimited PTO" policies do not override the minimum 4 weeks (20 days) statutory annual leave for employees over 20, or 5 weeks (25 days) for those under 20. You must track actual usage to prove employees took at minimum the statutory entitlement. If an employee leaves and has not taken their minimum leave, you owe cash compensation for unused days.
 
-**Do unpaid interns have working hours protections?**
+**What happens if we have no working hour records and an employee claims overtime?**
 
-Yes. The Labour Act applies to all persons working in Switzerland regardless of whether they are paid. Interns, trainees, and volunteers performing work-like activities are protected by working hours rules, including maximum weekly hours, rest periods, and overtime compensation.
+Without employer-maintained records, the court will accept the employee's claimed hours at face value unless you can demonstrate otherwise. Swiss employers are legally required to record working hours for all non-exempt employees. The absence of records shifts the burden of proof entirely to the employer -- a position you do not want to be in during an overtime dispute.
 
-**Is Saturday work permitted?**
+**Is Saturday work permitted without special authorisation?**
 
-Yes. Saturday is a normal working day in Switzerland — no special authorisation required. Sunday work is the restricted category requiring cantonal authorisation.
+Yes. Saturday is a normal working day in Switzerland -- no special authorisation required. Sunday work is the restricted category requiring cantonal labour authority authorisation and a 50% salary supplement (or time off in lieu).
 
 **What is the maximum working week in Switzerland?**
 

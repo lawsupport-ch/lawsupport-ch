@@ -16,7 +16,7 @@ faqItems:
   - question: "Can a trademark be transferred or licensed?"
     answer: "Yes. Swiss trademarks can be assigned (transferred in full) or licensed (exclusively or non-exclusively) by written agreement. Assignments and exclusive licences should be recorded in the IGE register to be enforceable against third parties. A trademark can also be pledged as security for financing arrangements."
   - question: "How much does trademark registration in Switzerland cost?"
-    answer: "The IGE application fee is CHF 550 for the first Nice class, plus CHF 100 for each additional class. A mark filed in three classes costs CHF 750 at application. Professional service fees for drafting, filing, and prosecution typically bring total first-year costs to CHF 1,500-3,000 depending on complexity and the number of classes involved."
+    answer: "The IGE application fee is CHF 550 for the first Nice class, plus CHF 100 for each additional class. A mark filed in three classes costs CHF 750 at application. Professional service fees for drafting, filing, and prosecution typically bring total first-year costs to CHF 1'500-3,000 depending on complexity and the number of classes involved."
 tocItems:
   - id: "legal-framework"
     title: "Legal Framework"
@@ -46,6 +46,12 @@ tocItems:
     title: "Related Services"
   - id: "protect-your-brand-in-switzerland"
     title: "Protect Your Brand in Switzerland"
+  - id: "case-study-eu-fintech-expanding-to-switzerland"
+    title: "Case Study: EU Fintech Expanding to Switzerland"
+  - id: "decision-tree-which-trademark-route-do-you-need"
+    title: "Decision Tree: Which Trademark Route Do You Need?"
+  - id: "friction-block-what-actually-goes-wrong"
+    title: "Friction Block: What Actually Goes Wrong"
 ---
 
 
@@ -130,7 +136,7 @@ This means the IGE examination is a formal filter, not a substantive clearance. 
 
 Marks that pass examination are published in the **Swiss Official Gazette of Commerce (SOGC)**. Publication opens the opposition window.
 
-**Register your domains before this step.** SHAB/SOGC publications are scraped by automated bots within hours of going live. Domain squatters register matching .ch, .com, and other TLDs and then demand transfer fees from the trademark applicant. This is not a theoretical risk — it happens routinely. The cost of registering domains pre-emptively (CHF 10-15 per domain per year) is negligible compared to the cost of recovering a squatted domain through WIPO dispute resolution (CHF 1,500 or more, plus months of delay). Secure your domains before filing the trademark application, not after.
+**Register your domains before this step.** SHAB/SOGC publications are scraped by automated bots within hours of going live. Domain squatters register matching .ch, .com, and other TLDs and then demand transfer fees from the trademark applicant. This is not a theoretical risk — it happens routinely. The cost of registering domains pre-emptively (CHF 10-15 per domain per year) is negligible compared to the cost of recovering a squatted domain through WIPO dispute resolution (CHF 1'500 or more, plus months of delay). Secure your domains before filing the trademark application, not after.
 
 ### 6. Opposition Period
 
@@ -171,7 +177,7 @@ The IGE has improved processing times in recent years. Applicants who file onlin
 
 **Example:** A mark filed in three Nice classes costs CHF 750 at application (CHF 550 + CHF 100 + CHF 100). Renewal after ten years costs CHF 900 (CHF 700 + CHF 100 + CHF 100).
 
-Professional service fees for drafting, filing, prosecution, and opposition work are additional. For straightforward filings handled by a Swiss IP practitioner, expect total first-year costs (official fees plus professional time) in the range of CHF 1,500-3,000 depending on complexity and number of classes.
+Professional service fees for drafting, filing, prosecution, and opposition work are additional. For straightforward filings handled by a Swiss IP practitioner, expect total first-year costs (official fees plus professional time) in the range of CHF 1'500-3,000 depending on complexity and number of classes.
 
 ---
 
@@ -226,39 +232,81 @@ Swiss trademark owners have access to a range of enforcement tools:
 
 For businesses requiring [due diligence on existing marks](/corporate-transactions/due-diligence-switzerland/) before acquisition or investment, enforcement history is a critical data point.
 
+
+---
+
+## Case Study: EU Fintech Expanding to Switzerland
+
+A Berlin-based fintech company (Series B, 80 employees) planned to launch its payment product in Switzerland. The founders assumed their EU trademark (EUTM) covered Switzerland and began marketing under the brand name in Zurich.
+
+**The problem:** A Swiss competitor had filed an identical word mark in Class 36 (financial services) at the IGE three months earlier. The fintech only discovered the conflict when they received a cease-and-desist letter — after spending CHF 40'000 on Swiss marketing materials, a localised website, and regulatory submissions referencing the brand.
+
+**What went wrong:**
+- No Swissreg search before market entry
+- Assumption that EUTM covers Switzerland (it does not)
+- No Madrid Protocol designation of Switzerland filed from the German base mark
+
+**Resolution:** The fintech had two options: (1) rebrand for the Swiss market at an estimated cost of CHF 80'000-120'000, or (2) negotiate a coexistence agreement with the Swiss mark owner. After four months of negotiation, a coexistence agreement was reached with geographic and channel restrictions — total legal cost CHF 35'000.
+
+**Lesson:** A Swissreg search (free, 30 minutes) and a Madrid designation of Switzerland (CHF 650 + CHF 200 IPI fee) would have prevented the entire situation. Total preventive cost: under CHF 3'000 including professional fees. Total remediation cost: CHF 75'000.
+
+---
+
+## Decision Tree: Which Trademark Route Do You Need?
+
+**Start here: Where will you sell?**
+
+**Switzerland only** → File directly with IGE/IPI. Cost: CHF 550 per class + CHF 1'500-2'500 legal support. Timeline: 6-8 months.
+
+**Switzerland + 1-3 other countries** → File Swiss national mark first, then individual national filings in target countries. Simpler than Madrid for small portfolios. Total cost varies by country.
+
+**Switzerland + 4+ countries** → File Swiss national mark, then Madrid Protocol international application through IPI/WIPO. One application covers all designated countries. Cost: CHF 550 (Swiss) + CHF 653-903 (WIPO basic fee) + per-country designation fees.
+
+**EU only, not Switzerland** → File EUTM at EUIPO. This does NOT cover Switzerland. If you later need Swiss protection, you must file separately or designate Switzerland via Madrid.
+
+**Already have an EU or US mark** → Use it as a basis for a Madrid Protocol application designating Switzerland. Central attack risk applies for 5 years from the international registration date.
+
+**Decision factor: central attack tolerance.** If your home mark is at risk of cancellation within 5 years, file a Swiss national mark directly rather than relying on a Madrid designation from a vulnerable base mark.
+
+---
+
+## Friction Block: What Actually Goes Wrong
+
+**Trap 1 — Filing before searching.** The IGE does not check for conflicting earlier marks. It will happily register your mark even if an identical mark exists in the same class. You will only discover the conflict when the earlier owner files an opposition (CHF 800 fee for them, CHF 5'000-15'000 in legal costs for you to defend) or sends a cease-and-desist letter post-registration.
+
+**Trap 2 — Swiss first-to-file, but prior use rights exist.** Switzerland is a first-to-file system, but Art. 14 MSchG grants limited prior use rights to parties who used a mark in Switzerland before the filing date of a conflicting registration. This creates uncertainty: your registration may be challenged by a party with no registration but provable prior use. The defence is not absolute — it only protects continued use within the existing scope, not expansion.
+
+**Trap 3 — Domain squatting after SHAB publication.** When your mark is published in the Swiss Official Gazette, automated bots scrape the publication and register matching .ch and .com domains within hours. Register your domains before filing the trademark application. Cost of prevention: CHF 15-30. Cost of WIPO domain recovery: CHF 5'000-15'000.
+
+**Trap 4 — The 5-year use clock starts at registration.** Many companies register trademarks defensively and then forget about them. After 5 years without genuine commercial use, any interested party can file a cancellation action. Token use (a single invoice, a product page with no real sales) does not satisfy the requirement.
+
+**Trap 5 — Class selection errors.** Filing in too few classes leaves gaps competitors can exploit. Filing in too many classes increases costs and opposition surface. A common mistake: filing in Class 42 (IT services) but forgetting Class 9 (software as goods) for a SaaS product, or vice versa. The reverse — over-filing in 10+ classes "just in case" — wastes CHF 1'000+ in official fees and creates use obligations you cannot fulfil.
+
+**Real cost of getting it wrong:** Opposition proceedings cost CHF 5'000-15'000 to defend. Rebranding costs CHF 50'000-200'000 depending on market presence. A Swissreg search and professional clearance opinion cost CHF 1'500-3'000. The economics are unambiguous.
+
+
 ---
 
 ## Frequently Asked Questions
 
-**Can a foreign company register a trademark in Switzerland without a local representative?**
-Applicants with no domicile or registered office in Switzerland must appoint a representative with a Swiss address for service before the IGE. There is no requirement to use a Swiss attorney, but practically a locally qualified IP practitioner is strongly advisable given the formal examination requirements and potential opposition proceedings.
+**We already have an EU trademark. Why do we need a separate Swiss filing?**
+An EU trademark (EUTM) registered at the EUIPO has zero legal effect in Switzerland. Switzerland is not an EU member state. Your EUTM provides no enforceable rights here. You need either a direct Swiss national filing with the IGE (CHF 550 per class) or a Madrid Protocol designation of Switzerland from your existing EUTM (which serves as the basic mark). Neither route is automatic — both require a deliberate filing.
 
-**Does EU trademark registration cover Switzerland?**
-No. The EU Intellectual Property Office (EUIPO) has no jurisdiction in Switzerland. An EUTM provides no protection in Switzerland. Separate Swiss national registration or a Madrid designation of Switzerland is required.
+**Is it worth registering a trademark if we are a small company?**
+The question is whether your brand has commercial value. If customers choose you partly because of your name, logo, or brand identity, then a competitor or bad-faith filer using the same mark in Switzerland can legally take that from you under the first-to-file system. The cost of registration (CHF 1'500-3'000 all-in for one class) is a fraction of the cost of rebranding (CHF 50'000-200'000) or fighting an opposition (CHF 5'000-15'000). Registration is brand insurance.
 
-**What happens if someone files an identical mark before my application?**
-Swiss law is a first-to-file system. The earlier filing date determines priority. If a conflicting application is published, you may file an opposition within the three-month window based on your own earlier rights — but if you have no prior registration or well-known mark, your options are limited. This underscores the importance of filing promptly after completing a clearance search.
+**Can we file the trademark ourselves without a lawyer?**
+Technically, yes. The IGE e-filing portal accepts applications from anyone. The risk is in what you miss: an inadequate Swissreg search, poorly drafted goods/services descriptions, incorrect Nice classification, or failure to register domains before SHAB publication. Professional fees of CHF 1'500-2'500 cover clearance, drafting, filing, and monitoring — and prevent errors that cost far more to fix later.
+
+**What happens if someone files an identical mark before us?**
+Swiss law is first-to-file. The earlier filing date wins. If you discover a conflicting mark after filing, your options are: (1) withdraw your application, (2) negotiate a coexistence agreement, or (3) challenge the earlier mark on the basis of your own prior rights — but only if you have prior use in Switzerland or a well-known mark. Without prior rights, the earlier filer prevails.
+
+**How much does trademark registration in Switzerland actually cost, all-in?**
+IGE official fees: CHF 550 for the first class, CHF 100 per additional class. Professional fees for search, drafting, filing, and prosecution: CHF 1'500-2'500 for a straightforward application. Total first-year cost: CHF 2'000-3'000 for one to three classes. Renewal after 10 years: CHF 700 + CHF 100 per additional class. There are no hidden costs if the application proceeds without opposition.
 
 **Can a trademark be transferred or licensed?**
 Yes. Swiss trademarks can be assigned (transferred in full) or licensed (exclusively or non-exclusively) by written agreement. Assignments and exclusive licences should be recorded in the IGE register to be enforceable against third parties. A trademark can also be pledged as security for financing arrangements.
 
-**How much does trademark registration in Switzerland cost?**
-The IGE application fee is CHF 550 for the first Nice class, plus CHF 100 for each additional class. A mark filed in three classes costs CHF 750 at application. Professional service fees for drafting, filing, and prosecution typically bring total first-year costs to CHF 1,500-3,000 depending on complexity and the number of classes involved.
-
-**How long does trademark registration take in Switzerland?**
-Without opposition, registration typically takes 6-8 months from filing. If an opposition is filed and resolved, the timeline extends to 12-18 months. An appeal to the Federal Administrative Court adds a further 12-24 months. Applicants who file online and respond promptly to examination queries reach the lower end of these ranges.
-
-**What is the opposition period for Swiss trademark applications?**
-Any owner of an earlier registered Swiss trademark may file an opposition within three months of the publication date in the Swiss Official Gazette of Commerce (SOGC). The opposition fee is CHF 800. If the earlier mark has not been used for five or more years, the applicant can request that the opponent demonstrate genuine use.
-
-**Can I register a colour or sound as a trademark in Switzerland?**
-Yes. Swiss law protects sound marks (audio signatures, jingles) and colour marks (single colours or combinations), provided distinctiveness can be demonstrated. Colour marks typically require evidence of distinctiveness through long-term use in the relevant market. Three-dimensional marks and position marks are also registrable.
-
-**What happens if a Swiss trademark is not used for five years?**
-A registered Swiss trademark that has not been put into genuine use within five years of registration is vulnerable to a cancellation action (Loeschungsklage) for non-use. Any interested party can bring this action before the civil courts under Article 12 MSchG. Token use designed purely to preserve the registration will not suffice.
-
-**Is it better to file a Swiss national trademark or use the Madrid Protocol?**
-For businesses whose primary market is Switzerland, a direct national filing with the IGE is often preferable for full control over the application. For Swiss-domiciled businesses expanding internationally, using a Swiss national mark as the basis for a Madrid international registration through WIPO covers 130+ member states and is a cost-effective multi-market strategy.
 
 ---
 

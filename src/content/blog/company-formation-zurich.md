@@ -284,6 +284,36 @@ This outcome — Zug registration, Zurich operations — is the recommendation w
 
 ---
 
+## Real Problems With Zurich Formation
+
+**The CHF 79'000 question.** On CHF 1'000'000 annual profit, the tax difference between Zurich (19.7%) and Zug (11.8%) is approximately CHF 79'000 per year. Over a ten-year horizon, that compounds to nearly CHF 800'000 before investment returns. Every Zurich formation should start with the question: "Is what Zurich offers me worth CHF 79'000 per year?" For many businesses, the answer is no.
+
+**Zurich registered address costs more.** A registered address in Zurich runs CHF 3'000/year versus CHF 2'400/year in Zug. Over ten years, the address alone costs CHF 6'000 more in Zurich. Combined with the tax difference, the total "Zurich premium" for a profitable company is staggering.
+
+**The hybrid approach is underused.** Register in Zug (11.8% tax, CHF 2'400/year address), operate from Zurich (rent a co-working desk or small office). This is legal, common, and used by hundreds of Swiss companies. Your clients, employees, and counterparties see a Zurich office address on your correspondence. Your tax return goes to Zug. We recommend this structure to a significant portion of clients who initially enquire about Zurich.
+
+**Bank account opening is no easier in Zurich.** Being in Switzerland's financial capital does not guarantee faster bank account opening. PostFinance still takes 3-4 weeks and frequently rejects. UBS still requires CHF 500'000+ under management. The banking challenge is the same regardless of canton.
+
+---
+
+## Case Study: French Crypto Miner Chooses Zug Over Zurich
+
+A French entrepreneur mining privacy-focused cryptocurrencies needed a Swiss entity quickly. His initial instinct: Zurich, for the brand recognition. His annual projected revenue: CHF 800'000.
+
+**The analysis that changed his mind:**
+- Tax at Zurich rates (19.7%): approximately CHF 157'600/year
+- Tax at Zug rates (11.8%): approximately CHF 94'400/year
+- Annual saving: CHF 63'200
+- Over five years: CHF 316'000
+
+The formation cost difference was negligible: CHF 1'900 for a GmbH in either canton. The all-in package (registration + Zug address + nominee director + accounting) ran CHF 9'000-11'000.
+
+The real challenge: banking. Privacy coins in the treasury triggered enhanced KYC requirements at every bank. PostFinance rejected outright. Relio could not onboard because the founder's business partner held US citizenship. The banking process took seven weeks — but this would have been identical in Zurich.
+
+He registered in Zug. The tax saving over five years will exceed CHF 300'000 — enough to fund an additional developer for three years.
+
+---
+
 ## How Lawsupport Can Help
 
 We are a Zug-based company formation and corporate services firm managing over 300 companies under fiduciary services with a team of 7. Over 18 years and more than 1,000 formations for clients from more than 40 countries. We handle formations in Zurich, Zug, and across Switzerland.
@@ -317,6 +347,14 @@ We can form your company in Zurich if that is the right choice. We can form it i
 ---
 
 ## Frequently Asked Questions
+
+**Do I really need a nominee director, and how much does it actually cost?**
+
+If no founder or employee is resident in Switzerland, yes — Art. 718 CO requires at least one person authorised to represent the company to be domiciled in Switzerland. Standard nominee: CHF 5'900/year. Premium (higher involvement): CHF 7'400/year. Six-month interim: CHF 4'500. The fee covers the directorship itself — signing work permits, banking documents, and corporate filings are billed separately at CHF 350/hour. In year one, with active operations, expect total nominee-related costs of CHF 9'000-12'000.
+
+**Can I start operating before the Commercial Register entry?**
+
+Yes. The company can legally begin operating from the moment of notarial signing. The notarial deed creates the legal entity; the register entry is declaratory. You can sign contracts and invoice under the company name with the suffix "i.Gr." immediately. This matters when you have contract deadlines or clients waiting.
 
 **Can I register a company in Zurich if I do not live in Switzerland?**
 

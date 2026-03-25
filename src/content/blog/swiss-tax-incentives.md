@@ -14,8 +14,8 @@ faqItems:
   - question: "Should I get a tax ruling before claiming Swiss tax incentives?"
     answer: "Yes. An advance tax ruling from the cantonal tax authority provides binding certainty on the treatment. This is especially important for IP box claims where the nexus calculation is fact-dependent."
 tocItems:
-  - id: "overview-post-staf-swiss-tax-incentive-framework"
-    title: "Overview: Post-STAF Swiss Tax Incentive Framework"
+  - id: "incentive-mistakes-that-cost-ip-companies"
+    title: "Incentive Qualification Failures That Cost IP Companies CHF 100'000+"
   - id: "1-ip-box-patent-box"
     title: "1. IP Box (Patent Box)"
   - id: "2-rd-super-deduction"
@@ -39,9 +39,11 @@ The 2020 Swiss Tax Reform and AHV Financing (STAF) replaced the old cantonal rin
 
 ---
 
-## Overview: Post-STAF Swiss Tax Incentive Framework
+## Incentive Qualification Failures That Cost IP Companies CHF 100'000+
 
-Before 2020, Switzerland offered cantonal-level tax privileges (holding company status, domicile company status, mixed company status) that provided preferential rates to foreign-source income. These were abolished under STAF because they violated OECD and EU standards on harmful tax competition.
+The most expensive IP Box mistake: claiming the 90% deduction without satisfying the OECD nexus requirement. A technology company that outsources 100% of its R&D to a related party abroad gets zero IP Box benefit — the nexus ratio is zero. Companies that claim the deduction anyway face retroactive denial, back taxes for every year claimed, and interest charges. On CHF 2 million of annual IP income, the difference between a valid IP Box claim (effective rate approximately 3%) and a denied claim (full cantonal rate of 11.85%) is CHF 177'000 per year.
+
+Before 2020, Switzerland offered cantonal-level tax privileges that provided preferential rates to foreign-source income. These were abolished under STAF because they violated OECD and EU standards.
 
 STAF introduced three OECD-compliant incentives as replacements:
 
@@ -211,6 +213,24 @@ By stacking the IP box, R&D super-deduction, and NID, a company in Zug with sign
 **Did STAF replace the old Swiss holding company tax regime?**
 
 Yes. The 2020 STAF reform abolished the old cantonal ring-fencing regimes (holding company, domicile company, and mixed company statuses) because they violated OECD and EU standards. The IP box, R&D super-deduction, and NID replaced them.
+
+---
+
+## IP Box Rejection: Why Applications Fail
+
+The OECD DEMPE analysis (Development, Enhancement, Maintenance, Protection, Exploitation) is the gatekeeper for IP Box claims. Many applications are rejected or significantly reduced because the Swiss entity's R&D activities do not satisfy the nexus test.
+
+**Common rejection patterns:**
+
+1. **Insufficient Swiss R&D headcount.** A company with two Swiss employees performing "IP management" and 50 developers in India has a nexus ratio approaching zero. The IP Box benefit is proportional to Swiss R&D expenditure relative to total R&D expenditure.
+
+2. **Purchased IP without Swiss development.** A company acquires a patent portfolio from a related party and sub-licences it from Switzerland. Unless the Swiss entity then conducts genuine enhancement or development of that IP in Switzerland, the nexus ratio on the acquired IP is zero.
+
+3. **Software copyright vs patents.** The federal IP Box definition covers patents and patent-equivalent rights. Pure software copyright does not qualify under the federal framework, though some cantons extend their box to software. A company claiming IP Box on software revenue without an underlying patent faces denial.
+
+4. **Missing documentation.** The nexus fraction must be computed and documented annually. Companies that claim IP Box without maintaining the annual nexus computation face challenge during assessment — the cantonal inspector has no basis to accept the claim.
+
+> **Case study:** A biotech company relocated its patent portfolio to a Swiss AG in Zug and claimed IP Box on CHF 5 million in annual royalty income. The company employed 8 researchers in Switzerland and 35 in the US. The Swiss R&D expenditure was CHF 2.4 million; total R&D expenditure was CHF 12 million. Nexus ratio: 20%. The IP Box benefit applied to only 20% of the qualifying income — CHF 1 million — not CHF 5 million. The effective rate on the full CHF 5 million was approximately 9.5%, not the 3% the company had modelled. The company then hired additional Swiss researchers and contracted with ETH Zurich for specific research programmes, increasing the nexus ratio to 55% over two years. An advance [tax ruling](/tax-accounting/tax-ruling-switzerland/) confirmed the revised ratio before the restructuring was implemented.
 
 ---
 

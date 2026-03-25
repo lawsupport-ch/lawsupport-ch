@@ -135,6 +135,34 @@ The preparation stage is where accounts are won or lost. A well-prepared applica
 
 ---
 
+## Bank Comparison: Requirements by Institution
+
+| Requirement | UBS | PostFinance | Relio AG | Cantonal Banks | Private Banks |
+|---|---|---|---|---|---|
+| **Minimum threshold** | CHF 500'000 AUM | None | CHF 249/month | None (substance expected) | CHF 4'000'000-6'000'000 |
+| **Business plan required** | Yes (detailed) | Yes (very detailed + CVs, contracts) | Basic description | Yes | Yes (source of wealth focus) |
+| **In-person visit** | Usually required | No (but high rejection rate) | No (video via Intrum) | Usually required | RM meeting required |
+| **US persons** | Yes (FATCA) | Rarely | No | Rarely | Rarely |
+| **Timeline to decision** | 8-12 weeks | 3-4 weeks (often to rejection) | Same day | 4-6 weeks | 4-12 weeks |
+| **Rejection rate (foreign)** | High without relationship | Very high | Low (no US nexus) | Moderate with preparation | Low (if minimum met) |
+
+### PostFinance Requirements: The Full List
+
+PostFinance is more demanding than most applicants expect. Beyond the standard KYC package, PostFinance requires all of the following before processing:
+- Written business plan describing activities and revenue model
+- CVs of all directors
+- Copies of employment contracts (if the company has staff)
+- Description of expected transaction types and volumes
+- Documentary proof of source of funds
+
+Missing any single item restarts their review clock. In our experience, PostFinance has rejected companies with brand-sensitive names (one tech company with "Tesla" in its registered name), health sector companies, and pharmaceutical companies — all with clean documentation and straightforward structures.
+
+### The 80% Signal
+
+If a bank approves your blocked [capital deposit account](/banking/capital-deposit-account-switzerland/) during company formation, approximately 80% of those relationships convert into permanent corporate accounts. The capital deposit stage functions as a de facto pre-screening. This is the single most useful signal in the Swiss banking process.
+
+---
+
 ## Frequently Asked Questions
 
 **What is the minimum balance for a Swiss corporate bank account?**

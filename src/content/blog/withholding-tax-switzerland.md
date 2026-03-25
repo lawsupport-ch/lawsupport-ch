@@ -19,7 +19,7 @@ faqItems:
     answer: "Under the Switzerland-UK double tax treaty, qualifying UK corporate shareholders holding 25% or more of the Swiss company pay 0% withholding tax on dividends. Other UK shareholders pay a reduced rate of 15%, down from the standard 35%."
 tocItems:
   - id: "what-the-swiss-withholding-tax-covers"
-    title: "What the Swiss Withholding Tax Covers"
+    title: "What the 35% Withholding Tax Actually Hits"
   - id: "purpose-of-the-tax"
     title: "Purpose of the Tax"
   - id: "treaty-reductions-for-foreign-shareholders"
@@ -43,7 +43,7 @@ Switzerland levies a 35% withholding tax (Verrechnungssteuer) on dividends, cert
 
 ---
 
-## What the Swiss Withholding Tax Covers
+## What the 35% Withholding Tax Actually Hits
 
 The Swiss withholding tax (Verrechnungssteuer — <a href="https://www.fedlex.admin.ch/eli/cc/1966/371_385_381/en" target="_blank" rel="nofollow noopener">VStG</a>) applies to:
 
@@ -207,6 +207,18 @@ A liquidation distribution that returns more than the nominal share capital to s
 **Is Swiss withholding tax deductible as a foreign tax credit?**
 
 In most jurisdictions, Swiss withholding tax qualifies for a foreign tax credit on the shareholder's domestic tax return. The credit is typically limited to the treaty rate. The excess withheld (35% minus the treaty rate) is recoverable through the ESTV refund process using Form 65.
+
+---
+
+## The Withholding Tax Traps That Cost Companies CHF 50'000+
+
+**Trap 1: The refund timeline shock.** Foreign founders assume the treaty refund arrives within weeks. It does not. The ESTV processes refund applications within 6-18 months. For a CHF 1 million dividend to a UK corporate shareholder (0% treaty rate), that means CHF 350'000 locked at the ESTV for over a year. This is not interest-bearing. It is dead capital. Relief at source — arranged before the first dividend — eliminates this problem entirely, but requires advance ESTV confirmation that many newly formed companies do not think to obtain.
+
+**Trap 2: Hidden dividend reclassification.** If a Swiss company pays excessive management fees, royalties, or interest to a foreign related party, the Swiss tax authority can reclassify the excess as a hidden dividend — subject to 35% withholding tax. The company bears this cost even if it cannot recover the amount from the foreign recipient. A Swiss subsidiary paying CHF 500'000 in management fees where the arm's length amount is CHF 200'000 faces 35% withholding on CHF 300'000 = CHF 105'000. The original CHF 300'000 is also non-deductible for income tax. Total cost of the mispricing easily exceeds the excess payment itself.
+
+**Trap 3: Liquidation distributions.** When a Swiss company is liquidated, distributions exceeding the nominal share capital are treated as constructive dividends subject to 35% withholding. A company formed with CHF 100'000 share capital that accumulated CHF 2 million in retained earnings faces 35% withholding on CHF 1.9 million = CHF 665'000 on liquidation. This catches founders who assume liquidation proceeds are simply a return of capital.
+
+> **Case study:** A British entrepreneur held 100% of a Swiss GmbH in Zug. After three years of profitable operations, the company declared a CHF 400'000 dividend. The GmbH withheld 35% (CHF 140'000) and remitted CHF 260'000 to the founder. Under the UK-Switzerland treaty, the correct rate was 0% for a qualifying corporate shareholder — but the founder held shares personally, qualifying only for the 15% individual rate. The refundable amount was CHF 80'000 (35% minus 15% = 20% of CHF 400'000). The ESTV processed the refund in 14 months. Had the founder interposed a UK holding company with genuine substance before the dividend, the rate would have been 0% and the full CHF 400'000 would have been received immediately via relief at source.
 
 ---
 

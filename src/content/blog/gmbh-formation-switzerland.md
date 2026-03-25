@@ -50,14 +50,20 @@ Most founders who contact us about GmbH formation Switzerland assume the hardest
 
 ---
 
-## What Is a Swiss GmbH?
+## When the GmbH Is the Wrong Choice
 
 ![Swiss GmbH corporate structure diagram](/images/swiss-gmbh-structure.jpg)
 *Image: 800×450px — GmbH structure vs AG comparison*
 
-A GmbH (Gesellschaft mit beschränkter Haftung) is Switzerland's equivalent of a limited liability company. It sits between a sole proprietorship and a full Aktiengesellschaft (AG) on the scale of complexity and cost. Shareholders are liable only up to their capital contribution; personal assets are protected. The legal basis is the Swiss Code of Obligations (OR/CO), Articles 772 to 827.
+The GmbH (Gesellschaft mit beschränkter Haftung) is Switzerland's equivalent of a limited liability company — the right structure for most SMEs, service businesses, and foreign subsidiaries. But it is the wrong structure in three specific situations, and choosing it when you should not costs real money to fix:
 
-If you are weighing the two main corporate structures, our [Swiss AG vs GmbH comparison](/company-formation/ag-formation-switzerland/) covers the decision in detail. The short version: a GmbH is typically the right choice for SMEs, service businesses, startups, and foreign groups establishing a Swiss subsidiary, provided that shareholder privacy is not a primary concern.
+**1. You need shareholder privacy.** Every GmbH shareholder's name and ownership percentage appears in the public Commercial Register. If a competitor, journalist, or counterparty searches your company on <a href="https://www.zefix.ch" target="_blank" rel="nofollow noopener">ZEFIX</a>, they see exactly who owns what. One Eastern European entrepreneur came to us after forming a GmbH, only to realise his ownership stake was visible to business rivals in his home market. Converting to an AG cost CHF 3'000-6'000 in professional fees plus CHF 80'000 in additional share capital. The AG was the right choice from the start.
+
+**2. You plan to raise external equity.** GmbH share transfers require a notarial deed — friction that institutional investors dislike. If venture capital or strategic investors are on your 18-month roadmap, form an [AG](/company-formation/ag-formation-switzerland/) from day one.
+
+**3. Your income exceeds CHF 150'000 and you are currently a sole proprietor.** At that level, the tax arithmetic favours the GmbH over the [Einzelfirma](/company-formation/sole-proprietorship-switzerland/), but many founders delay the conversion and overpay personal income tax for years.
+
+If none of these apply, the GmbH is almost certainly correct. It requires only CHF 20'000 in share capital (versus CHF 100'000 for an AG), has simpler governance, and costs CHF 1'900 to register including notary fees. The legal basis is the Swiss Code of Obligations (OR/CO), Articles 772 to 827.
 
 ---
 
@@ -298,6 +304,23 @@ For a full breakdown of rates, cantonal variations, and holding structures, see 
 
 ---
 
+## AG vs GmbH vs Shelf Company: Quick Comparison
+
+| Factor | GmbH | AG | Shelf Company |
+|---|---|---|---|
+| Formation cost (incl. notary) | CHF 1'900 | CHF 2'500 | CHF 15'000-47'500 + ~CHF 1'700 modification |
+| Minimum capital | CHF 20'000 (fully paid) | CHF 100'000 (CHF 50'000 paid in) | Already paid (included in price) |
+| Time to operational entity | 2-4 weeks | 3-6 weeks | 1-2 days (transfer); 2+ weeks with modifications |
+| Shareholder privacy | Low (public register) | High (internal register only) | Depends on entity type (AG or GmbH) |
+| Share transferability | Notarial deed required | Free (unless articles restrict) | Transferred at acquisition |
+| Registered address (Zug/year) | CHF 2'400 | CHF 2'400 | CHF 2'400 |
+| Nominee director (annual) | CHF 5'900 | CHF 5'900 | CHF 5'900 |
+| Best for | SMEs, subsidiaries, startups | Holdings, investor rounds, privacy | Urgent deadlines, prestige (old registration date) |
+
+The full first-year package (registration + address + nominee director + accounting) runs approximately CHF 12'000 for a GmbH, CHF 12'600 for an AG, or CHF 11'800 + company price for a shelf company — all before share capital.
+
+---
+
 ## Request a Free Assessment
 
 Lawsupport (Morgan Hartley Consulting) has handled GmbH formation Switzerland for over 18 years from our office at Grafenauweg 4, Zug. We have completed more than 1,000 formations for clients in more than 40 countries. We manage every step: name check, articles of association, Stampa Declaration, capital deposit coordination, notary appointment, and Commercial Register filing.
@@ -335,6 +358,18 @@ GmbH shares (Stammanteile) cannot be transferred without a notarial deed. AG sha
 **Q: How much does it cost to change the articles of a GmbH after formation?**
 
 Any amendment to the articles of association requires a shareholders' resolution and notarisation, followed by a Commercial Register update. Costs typically include notary fees of CHF 500 to 1,000 and a register fee of around CHF 200 to 400, depending on the canton and the nature of the change.
+
+**Q: Can I start operating before the Commercial Register entry is confirmed?**
+
+Yes. The company can legally begin operating from the moment of notarial signing. You do not need to wait for ZEFIX publication. The company exists as a legal entity from the notarial deed — the register entry is declaratory, not constitutive. You can sign contracts and invoice under the company name with the suffix "i.Gr." (in Gruendung) immediately after the notary appointment.
+
+**Q: What if the bank rejects my blocked account application?**
+
+Roughly 80% of our clients are foreign nationals, and bank rejections during the capital deposit stage happen regularly. PostFinance rejects a significant share of applications — brand-sensitive company names, founders from higher-risk jurisdictions, and insufficient documentation of revenue sources are common triggers. If rejected, start looking at alternatives immediately. We maintain relationships with banks that understand internationally owned Swiss companies. The difference between a professional introduction and a cold application: rejection rates drop from 30%+ to under 10%.
+
+**Q: How much does GmbH formation actually cost all-in?**
+
+GmbH registration including notary fees: CHF 1'900. That is the baseline. Most international founders also need a registered address (CHF 2'400/year in Zug, CHF 3'000/year in Zurich), a nominee director (CHF 5'900/year), and accounting (CHF 1'800/year). The realistic all-in first year: approximately CHF 12'000 plus CHF 20'000 share capital. The share capital is not a cost — it remains in the company as working capital.
 
 **Q: What is the Stampa Declaration and why does it matter?**
 

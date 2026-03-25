@@ -22,6 +22,10 @@ tocItems:
     title: "Tax Treatment of Swiss Restructurings"
   - id: "work-with-lawsupport-on-your-swiss-restructuring"
     title: "Work with Lawsupport on Your Swiss Restructuring"
+  - id: "decision-tree-which-restructuring-route"
+    title: "Decision Tree: Which Restructuring Route?"
+  - id: "friction-block-what-actually-goes-wrong"
+    title: "Friction Block: What Actually Goes Wrong"
 faqItems:
   - question: "How long does a merger take in Switzerland?"
     answer: "A standard merger between two Swiss AGs or GmbHs takes 4 to 6 months from the signing of the merger plan to Commercial Register entry. The main constraint is the three-month SHAB creditor call period, which cannot be shortened. Simplified parent-subsidiary mergers (100% ownership) have reduced documentation requirements but are subject to the same creditor call timeline."
@@ -107,7 +111,7 @@ The most operationally straightforward FusG transaction is a **conversion (*Umwa
 
 **Why convert from GmbH to AG?**
 
-The AG structure is required — or strongly preferred — when a company intends to issue multiple share classes, bring in institutional investors, list on a stock exchange, or operate in sectors where the AG carries greater credibility (banking, insurance, regulated industries). The minimum share capital for an AG is CHF 100,000 (at least CHF 50,000 paid in); for a GmbH it is CHF 20,000. If a GmbH has grown to a point where capital structure flexibility matters, conversion is the logical next step.
+The AG structure is required — or strongly preferred — when a company intends to issue multiple share classes, bring in institutional investors, list on a stock exchange, or operate in sectors where the AG carries greater credibility (banking, insurance, regulated industries). The minimum share capital for an AG is CHF 100'000 (at least CHF 50'000 paid in); for a GmbH it is CHF 20'000. If a GmbH has grown to a point where capital structure flexibility matters, conversion is the logical next step.
 
 For details on the two main Swiss company forms, see our guides on [GmbH formation Switzerland](/company-formation/gmbh-formation-switzerland/) and [AG formation Switzerland](/company-formation/ag-formation-switzerland/).
 
@@ -155,17 +159,58 @@ Each restructuring triggers new tax filings at the Commercial Register level, an
 
 For holding structures and the participation exemption, see our guide on [holding companies in Switzerland](/company-formation/holding-company-switzerland/). For the full picture, see [corporate tax in Switzerland](/tax-accounting/corporate-tax-switzerland/).
 
+
+---
+
+## Decision Tree: Which Restructuring Route?
+
+**What are you trying to achieve?**
+
+**Combine two companies into one** → Merger under FusG. Timeline: 4-6 months (3-month creditor call is the bottleneck). Cost: CHF 10'000-30'000 in legal and notarial fees depending on complexity.
+
+**Split a company into separate businesses** → Demerger (spin-off or division) under FusG. Same timeline and similar costs. Requires precise allocation of assets, liabilities, and employees.
+
+**Change legal form (GmbH to AG)** → Conversion under FusG. Timeline: 6-8 weeks. No creditor call required. Cost: CHF 5'000-10'000 including notarial and register fees.
+
+**Move a business unit between group companies** → Asset transfer under FusG. Benefits from universal succession (no individual contract novation needed). Creditor call applies. Timeline: 4-6 months.
+
+**Simple share transfer / founder exit** → Not a FusG transaction. Governed by Code of Obligations. Timeline: 3-4 weeks for GmbH (notarial requirement), 1-2 weeks for AG. Cost: CHF 3'000-8'000 in legal advisory.
+
+**Change board / directors / signatories** → Commercial Register amendment. Timeline: 1-2 weeks. Cost: CHF 500-1'500 in register and notarial fees.
+
+**Sell/buy a shelf company and modify it** → Share transfer + Commercial Register amendments (name, board, purpose). Cost: ~CHF 1'700 in notary and register fees + purchase price. Timeline: 2-3 weeks.
+
+**Key decision factor: Do you need universal succession?**
+If the restructuring involves transferring contracts, licences, real estate, or employees, the FusG route (merger, demerger, or asset transfer) provides automatic transfer by operation of law at the moment of Commercial Register entry. A conventional asset deal requires individual assignment of each contract and third-party consents — which can take months and may fail if a counterparty refuses to consent.
+
+---
+
+## Friction Block: What Actually Goes Wrong
+
+**Trap 1 — The 3-month creditor call cannot be shortened.** Every FusG transaction (except conversions) requires publication in the SHAB and a 3-month creditor call period. This is non-negotiable. Companies that plan a merger assuming a 4-week timeline discover this constraint too late. Build the creditor call into your project plan from day one.
+
+**Trap 2 — Incomplete demerger inventories.** In a demerger, the plan must specify exactly which assets, liabilities, contracts, and employees transfer to each successor entity. Ambiguities in the inventory create enforcement disputes post-closing. We have seen demergers stall for months because the parties could not agree on which customer contracts belonged to which successor entity. Draft the inventory before the board approves the demerger plan, not after.
+
+**Trap 3 — Tax neutrality is conditional.** FusG transactions can be tax-neutral under Art. 61 DBG, but only if the conditions are met: the business continues, and the assets are held for at least 5 years. If the 5-year holding requirement is breached (e.g., the acquiring entity sells the transferred assets within 5 years), hidden reserves are taxed in full in the year of the breach. Document your tax position at the time of restructuring — it becomes the baseline for any future audit.
+
+**Trap 4 — Forgetting employee consultation.** Swiss law requires employee consultation before certain restructuring transactions. For mergers under the FusG, employee representatives must be informed and consulted before the merger resolution. Failure to consult does not invalidate the transaction, but it can give rise to damages claims and damages the relationship with the workforce at a critical moment.
+
+**Trap 5 — Notarial requirements for GmbH restructurings.** All FusG transactions involving a GmbH require notarial authentication of the shareholder resolution and the merger/demerger plan. This is in addition to the notarial requirement for GmbH share transfers under Art. 785 OR. Schedule notarial appointments early — popular notaries in Zug can be booked out 2-3 weeks in advance.
+
+**Trap 6 — The dormant company cost trap.** Companies that defer restructuring or liquidation because "it is not urgent" accumulate dormant company costs: CHF 1'400/year minimum for annual statements and tax filings, plus CHF 5'900/year for a nominee director and CHF 2'400/year for a registered address in Zug. At CHF 9'700/year, the cost of maintaining a dormant entity exceeds the cost of liquidation within 18 months. Restructure or liquidate — do not defer.
+
+
 ---
 
 ## Frequently Asked Questions
 
-**How long does a merger take in Switzerland?**
+**Can we speed up a Swiss merger to close in under 3 months?**
 
-A standard merger between two Swiss AGs or GmbHs takes 4 to 6 months from the signing of the merger plan to Commercial Register entry. The main constraint is the three-month SHAB creditor call period, which cannot be shortened. Simplified parent-subsidiary mergers (100% ownership) have reduced documentation requirements but are subject to the same creditor call timeline.
+No. The 3-month SHAB creditor call period is mandatory and cannot be shortened, regardless of the companies' financial position or the absence of creditors. A standard merger takes 4-6 months minimum. If speed is critical, consider whether a share deal (3-4 weeks for an AG) achieves the same commercial result without the FusG procedural requirements. A share deal does not provide universal succession, but it avoids the creditor call entirely.
 
 **Can a GmbH convert to an AG without dissolving?**
 
-Yes. Under Art. 54–68 FusG, a conversion changes the legal form of the entity without dissolution. The GmbH becomes an AG, retaining its UID, all contracts, employees, and existing tax registrations. The process takes approximately 6 to 8 weeks. The converted entity must meet the AG's minimum capital requirements (CHF 100,000, at least CHF 50,000 paid in) before or at the time of conversion.
+Yes. Under Art. 54–68 FusG, a conversion changes the legal form of the entity without dissolution. The GmbH becomes an AG, retaining its UID, all contracts, employees, and existing tax registrations. The process takes approximately 6 to 8 weeks. The converted entity must meet the AG's minimum capital requirements (CHF 100'000, at least CHF 50'000 paid in) before or at the time of conversion.
 
 **Are Swiss restructurings tax-neutral?**
 

@@ -18,8 +18,8 @@ faqItems:
   - question: "Is my money protected if a Swiss bank fails?"
     answer: "Deposits are protected up to CHF 100,000 per depositor per bank through the esisuisse scheme. Securities in custody are segregated from the bank's own assets and returned to the client -- they are not part of the bankruptcy estate."
 tocItems:
-  - id: "what-swiss-private-banking-is"
-    title: "What Swiss Private Banking Is"
+  - id: "why-swiss-banks-reject-most-private-banking-applicants"
+    title: "Why Swiss Banks Reject Most Private Banking Applicants"
   - id: "minimum-assets-under-management-aum"
     title: "Minimum Assets Under Management (AUM)"
   - id: "services-offered"
@@ -39,9 +39,17 @@ Switzerland manages approximately one-quarter of the world's cross-border privat
 
 ---
 
-## What Swiss Private Banking Is
+## Why Swiss Banks Reject Most Private Banking Applicants
 
-Swiss private banking refers to premium, relationship-based banking and wealth management services for high-net-worth (HNW) and ultra-high-net-worth (UHNW) individuals. It is distinct from standard commercial banking:
+Swiss private banking is a premium, relationship-based wealth management service for high-net-worth (HNW) and ultra-high-net-worth (UHNW) individuals. The entry barriers are real and non-negotiable. Before reviewing what private banking offers, understand what disqualifies most applicants:
+
+**Automatic disqualifiers in practice:**
+- **US persons without Swiss residence:** Practically always rejected. FATCA compliance costs make US-nexus clients commercially unattractive. Even Relio AG (a fintech, not private banking) explicitly declines all US-nexus companies.
+- **Assets below CHF 500'000:** UBS will not assign a private banking relationship manager. Below CHF 4'000'000-6'000'000, Pictet and Lombard Odier provide standardised service, not bespoke management.
+- **AML/WorldCheck flags:** All directors and beneficial owners are screened. A false positive from a common name can delay onboarding by months.
+- **Source of wealth gaps:** If you cannot document how your assets were accumulated with primary evidence, no Swiss private bank will proceed.
+
+Private banking is distinct from standard commercial banking:
 
 | Feature | Commercial Banking | Private Banking |
 |---|---|---|
@@ -137,6 +145,20 @@ Key differences to consider:
 - **Service depth:** Large universal banks have broader product ranges and global reach. Smaller banks offer more personalised attention.
 - **Stability:** UBS is systemically important and backed implicitly by the Swiss state. Independent banks rely on their own capitalisation and reputation.
 - **Minimum thresholds:** Some independent banks accept lower entry amounts than the major universal banks, particularly for clients referred by established intermediaries.
+
+---
+
+## Private Banking vs. Other Swiss Banking Options
+
+| Factor | Private Banks | UBS Wealth | Cantonal Banks | Relio AG | PostFinance |
+|---|---|---|---|---|---|
+| **Entry minimum** | CHF 4'000'000-6'000'000 | CHF 500'000 AUM | None | CHF 249/month | None |
+| **Service type** | Discretionary wealth management | Full private banking | Corporate/retail accounts | Corporate accounts only | Retail payments |
+| **US persons** | Rarely | Yes (FATCA) | Rarely | No | Rarely |
+| **Timeline** | 4-12 weeks | 8-12 weeks | 4-6 weeks | Same day | 3-4 weeks |
+| **Annual cost** | 0.5-1.5% of AUM | Similar | CHF 240-960/year | CHF 2'988/year | CHF 120-300/year |
+
+**Case from practice:** A Middle Eastern family office with CHF 8'000'000 in investable assets was delayed three weeks at a Geneva private bank because a common-name match in WorldCheck required manual resolution. The family had no adverse history. The delay was purely procedural. This is standard operating procedure, not an exception.
 
 ---
 

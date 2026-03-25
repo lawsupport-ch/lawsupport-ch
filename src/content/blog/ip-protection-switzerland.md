@@ -16,7 +16,7 @@ faqItems:
   - question: "Can software be patented in Switzerland?"
     answer: "Software as such cannot be patented. However, a technical invention using software may be patentable if it solves a technical problem in a novel, non-obvious way."
   - question: "What is the cost of obtaining a Swiss patent?"
-    answer: "A Swiss national patent costs approximately CHF 700 to 1,200 in official fees, plus CHF 5,000 to 15,000 in patent attorney fees. European patents via the EPO commonly reach CHF 20,000 to 40,000."
+    answer: "A Swiss national patent costs approximately CHF 700 to 1,200 in official fees, plus CHF 5'000 to 15,000 in patent attorney fees. European patents via the EPO commonly reach CHF 20'000 to 40,000."
 tocItems:
   - id: "overview-types-of-ip-protection-in-switzerland"
     title: "Overview: Types of IP Protection in Switzerland"
@@ -34,6 +34,12 @@ tocItems:
     title: "IP Enforcement in Switzerland"
   - id: "ip-holding-in-switzerland"
     title: "IP Holding in Switzerland"
+  - id: "case-study-ip-portfolio-audit"
+    title: "Case Study: IP Portfolio Audit"
+  - id: "decision-tree-which-ip-right-do-you-need"
+    title: "Decision Tree: Which IP Right Do You Need?"
+  - id: "friction-block-what-actually-goes-wrong"
+    title: "Friction Block: What Actually Goes Wrong"
 ---
 
 
@@ -162,13 +168,71 @@ Swiss IP holding companies must satisfy the OECD nexus test to benefit from the 
 
 If you are considering forming a Swiss entity to hold IP assets, review our [company formation guide](/company-formation/company-formation-switzerland/) and the [Swiss tax incentives overview](/tax-accounting/swiss-tax-incentives/).
 
+
+---
+
+## Case Study: IP Portfolio Audit Reveals CHF 200'000 in Unprotected Value
+
+A Zug-based medtech company (Series A, 22 employees) had been operating for three years before requesting an IP portfolio audit. The founders assumed their patent application (filed via EPO) covered their core innovation, and their company name served as trademark protection.
+
+**What the audit found:**
+- The EPO patent application covered the first-generation device, but a significant design improvement (second-generation housing) had been publicly disclosed at a medical conference without any design registration or patent filing. Novelty was destroyed for the improvement.
+- The company name was registered in the Commercial Register but not as a trademark with the IGE. A competitor in Class 10 (medical devices) could file an identical word mark and the company would have no opposition grounds beyond the weaker company name right.
+- Employment contracts for the two industrial designers contained no copyright assignment clause. Under Swiss law (no automatic transfer for non-software works), the designers retained economic rights in all product design work.
+- The company's core algorithm (used in the device's control software) was protected only by copyright — no patent application had been filed, and the algorithm had been described in detail in the company's published whitepaper, destroying patent novelty worldwide.
+
+**Total value at risk:** Approximately CHF 200'000 in protectable IP that had either been forfeited through public disclosure or remained unregistered and vulnerable.
+
+**The remediation plan:**
+1. File trademark registration for the brand in Classes 10 and 42 (CHF 750 official fees)
+2. Amend employment contracts with copyright assignment clauses (CHF 1'500 legal cost)
+3. Conduct prior art search for any remaining patentable features of the second-generation device
+4. Implement trade secret protections for non-patented know-how
+
+**Lesson:** An IP audit costs CHF 3'000-5'000. The company had forfeited more than 40x that amount in protectable IP value through simple omissions — each of which could have been prevented for under CHF 1'000.
+
+---
+
+## Decision Tree: Which IP Right Do You Need?
+
+**What are you protecting?**
+
+| What you have | Right needed | Registration | Duration | Cost (official) |
+|---|---|---|---|---|
+| A brand name, logo, or slogan | Trademark | IGE/IPI | 10 years, renewable | CHF 550/class |
+| A technical invention | Patent | IPI or EPO | 20 years | CHF 200-6'000+ |
+| Product appearance | Design right | IPI | 25 years max | CHF 300 |
+| Creative work (text, photos, code) | Copyright | Automatic | Life + 70 years | Free |
+| Confidential business information | Trade secret | None (contractual) | Indefinite | CHF 0 (NDA cost) |
+
+**Common mistakes in IP type selection:**
+- Filing a trademark when you need a patent (brand name vs. technical invention)
+- Relying on copyright for product design when a registered design provides far stronger enforcement
+- Assuming a company name in the Commercial Register equals trademark protection (it does not)
+- Patenting something that should remain a trade secret (patents require public disclosure after 18 months)
+
+---
+
+## Friction Block: What Actually Goes Wrong
+
+**Trap 1 — Assuming one right covers everything.** A patent protects how your product works. A design right protects how it looks. A trademark protects how your brand is identified. Copyright protects creative expression. Each right covers a different dimension — and each requires separate action. A patent on your device does not prevent a competitor from copying your logo. A trademark on your name does not prevent someone from copying your product design.
+
+**Trap 2 — Public disclosure kills patent and design rights.** Conference presentations, social media posts, published papers, trade fair demonstrations — any public disclosure before filing destroys worldwide novelty for patents and design rights (with limited grace periods for designs). File first, present second. This is the single most common and most expensive IP mistake made by Swiss startups.
+
+**Trap 3 — Enforcement costs are real.** A cease-and-desist letter: CHF 1'500-3'500. Interim injunction: CHF 10'000-25'000. Full patent litigation at the Federal Patent Court: CHF 100'000+. Having IP rights without a budget to enforce them provides limited protection. Factor enforcement costs into your IP strategy, not just registration costs.
+
+**Trap 4 — Swiss IP rights have no effect abroad (and vice versa).** A Swiss patent protects only Switzerland. A Swiss trademark protects only Switzerland (+ Liechtenstein). An EU trademark does not cover Switzerland. Plan your IP portfolio by market, not by jurisdiction of incorporation. If you sell in Germany, the US, and China, you need protection in each country separately (or via international systems like the Madrid Protocol and PCT).
+
+**Trap 5 — Trade secrets lose protection instantly on disclosure.** Unlike patents and trademarks, trade secrets have no registration and no recovery mechanism. Once disclosed — whether through a departing employee, a loose NDA, or an accidental email — the protection is gone permanently. Invest in NDAs, access controls, and employee exit procedures.
+
+
 ---
 
 ## Frequently Asked Questions
 
-**Do I need to register copyright in Switzerland?**
+**We are a small company — do we really need to think about IP protection?**
 
-No. Copyright arises automatically at the moment of creation. There is no copyright register in Switzerland and no requirement to register.
+If your business has a name, a logo, a product design, proprietary software, or confidential processes, you already have IP — the question is whether you have protected it. An unregistered trademark can be filed by a competitor for CHF 550. An unpatented invention disclosed publicly is free for anyone to copy. The cost of basic IP protection (trademark + NDA templates) is under CHF 3'000. The cost of losing your brand name to a first-to-file competitor or your product design to a copyist is orders of magnitude higher.
 
 **Can I protect my brand in Switzerland with an EU trademark?**
 

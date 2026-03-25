@@ -6,8 +6,8 @@ category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"
 readTime: "11 min read"
 tocItems:
-  - id: "what-is-capital-tax-in-switzerland"
-    title: "What Is Capital Tax in Switzerland?"
+  - id: "capital-tax-mistakes-that-cost-holding-companies"
+    title: "Capital Tax Mistakes That Cost Holding Companies CHF 50'000+"
   - id: "capital-tax-rates-by-canton-2026"
     title: "Capital Tax Rates by Canton (2026)"
   - id: "how-is-capital-tax-calculated"
@@ -35,22 +35,19 @@ There is no federal capital tax. Rates and rules are set canton by canton under 
 
 ---
 
-## What Is Capital Tax in Switzerland?
+## Capital Tax Mistakes That Cost Holding Companies CHF 50'000+
 
-Capital tax (Kapitalsteuer) is a wealth tax on corporations — it is assessed on the company's **taxable net equity** rather than its annual profit. All Swiss AG and GmbH companies are subject to cantonal capital tax. Branches of foreign companies operating in Switzerland are also subject to capital tax on their attributed Swiss capital (see FAQ section below).
+A holding company with CHF 50 million in equity registered in Vaud pays CHF 175'000 per year in capital tax. The same structure in Zug pays CHF 37'500. Over ten years, that is CHF 1.37 million in unnecessary cost — and the fix is a domicile change that takes 4-6 weeks.
 
-The key features of Swiss capital tax:
+Capital tax (Kapitalsteuer) is a cantonal tax on corporate net equity — not profits. It applies every year regardless of whether the company earns anything. For operating companies with CHF 100'000 in share capital, the bill is trivial (CHF 75 per year in Zug). For holding companies, finance vehicles, and treasury centres with large balance sheets, it is a structural cost that compounds silently.
 
-- **Cantonal only** — no federal capital tax exists
-- **Flat rate** applied to the full equity balance
-- **Annual assessment** in the cantonal tax return
-- **Deductible** from cantonal income tax in several cantons (offset mechanism)
-- **Applies even in loss years** — there is no profit threshold
+**Three mistakes we see repeatedly:**
 
-To understand the practical impact, consider the minimum capitalisation requirements: a GmbH requires CHF 20,000 in share capital (fully paid in), while an AG requires CHF 100,000 total with at least CHF 50,000 paid in. At Zug’s 0.075% rate, the capital tax on a minimum-capitalised GmbH is just CHF 15 per year — effectively negligible. On a minimum AG with CHF 50,000 paid in, it is CHF 37.50. Capital tax only becomes a meaningful planning factor when equity reaches seven figures or above.
+1. **Overcapitalisation.** Founders contribute CHF 3 million in share capital when CHF 100'000 plus a shareholder loan would serve the same purpose. The excess equity creates permanent capital tax liability and triggers 1% stamp duty on amounts above CHF 1 million.
+2. **Wrong canton.** A holding company in Basel-Stadt (0.345%) pays 4.6x more capital tax than the same structure in Zug (0.075%). On CHF 20 million equity, that is CHF 54'000 per year wasted.
+3. **Missing the participation reduction.** Most cantons offer reduced capital tax rates for companies whose assets are predominantly subsidiary holdings. Failing to claim this reduction — or structuring the balance sheet so it does not qualify — leaves money on the table every year.
 
-The legal basis is Articles 29 and 30 of the StHG, which require cantons to tax the capital of legal entities. The <a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">Swiss Federal Tax Administration (ESTV)</a> publishes an annual cantonal tax burden comparison (the Steuerbelastungsstatistik) that includes capital tax rates.
-
+The legal basis is Articles 29 and 30 of the <a href="https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/en" target="_blank" rel="nofollow noopener">Federal Tax Harmonisation Act (StHG)</a>, which require cantons to tax corporate equity. The <a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">Swiss Federal Tax Administration (ESTV)</a> publishes annual cantonal tax burden statistics including capital tax rates.
 ---
 
 ## Capital Tax Rates by Canton (2026)
@@ -193,6 +190,18 @@ In cantons where capital tax is deductible from income tax, the net cost in prof
 
 ---
 
+## Traps and Friction Points
+
+**The overcapitalisation-stamp duty double hit.** A founder contributes CHF 5 million in share capital to a new Swiss AG. The 1% stamp duty on amounts above CHF 1 million costs CHF 40'000 upfront. Then the inflated equity base generates CHF 3'750 per year in capital tax in Zug (CHF 17'200 in Zurich). Had the founder contributed CHF 100'000 in share capital and CHF 4.9 million as a shareholder loan, the stamp duty would have been zero and the annual capital tax CHF 75 in Zug. Total saving over ten years: CHF 40'000 stamp duty + CHF 36'750 capital tax = CHF 76'750. The shareholder loan must comply with ESTV thin capitalisation safe harbour ratios — but that is a documentation exercise, not a structural barrier.
+
+**Capital tax in loss years.** Unlike income tax, capital tax does not disappear when the company makes a loss. A startup burning through cash with CHF 10 million in equity still pays capital tax on that equity every year. If losses reduce retained earnings and the equity base shrinks, capital tax decreases — but the tax applies to the balance sheet position, not to the P&L.
+
+**The hidden reserve trap on immigration.** When a foreign company relocates to Switzerland, cantonal authorities may include disclosed hidden reserves in the opening taxable equity for capital tax purposes. A company stepping up its asset values by CHF 20 million on arrival may find an unexpected capital tax bill on that stepped-up equity. This must be modelled and confirmed by [advance tax ruling](/tax-accounting/tax-ruling-switzerland/) before the relocation, not discovered afterwards.
+
+> **Case study:** A German family office relocated its holding AG from Zurich to Zug in 2024. The holding had CHF 80 million in equity, predominantly subsidiary participations. In Zurich, the annual capital tax bill was approximately CHF 137'600 (at 0.172%). In Zug, with the participation reduction applied, the effective rate dropped to approximately 0.001% on participation-attributable equity, producing an annual bill of approximately CHF 800 on the participation portion plus CHF 7'500 on operating equity — total approximately CHF 8'300. The annual saving of CHF 129'300 justified the relocation cost (approximately CHF 15'000 in legal and registration fees) within two months.
+
+---
+
 ## Request a Free Assessment
 
 Capital tax exposure depends on your company's domicile canton, equity structure, and whether participations qualify for the holding reduction. Lawsupport advises on cantonal selection, holding structures, and annual compliance for Swiss companies.
@@ -205,9 +214,9 @@ Morgan Hartley | Senior Corporate Lawyer & Partner, Lawsupport (Morgan Hartley C
 
 ## Frequently Asked Questions
 
-**What is capital tax in Switzerland?**
+**What is the real all-in tax rate including capital tax?**
 
-Capital tax (Kapitalsteuer) is a cantonal tax levied on the net equity of Swiss corporations — AG and GmbH — and Swiss branches of foreign companies. It is assessed annually on the company's taxable equity balance, not on its profits. There is no federal capital tax. The legal basis is Articles 29–30 of the Federal Tax Harmonisation Act (StHG).
+It depends on the structure. For an operating company in Zug with CHF 500'000 profit and CHF 200'000 equity, the income tax is approximately CHF 59'250 (at 11.85%) and the capital tax is CHF 150 (at 0.075%) — effectively negligible. For a holding company in Zug with CHF 50 million equity and CHF 2 million in management fee income, the income tax is approximately CHF 237'000 and the capital tax (with participation reduction) might be CHF 5'000-10'000. The capital tax adds 0.2-0.4% to the effective rate for holding structures. In high-capital-tax cantons like Vaud or Geneva, the addition can be 1-2% on an effective-rate basis.
 
 **Which cantons have the lowest capital tax rates in Switzerland?**
 

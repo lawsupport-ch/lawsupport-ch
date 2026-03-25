@@ -186,6 +186,29 @@ The timeline from engagement to active account is typically eight to twelve week
 
 ---
 
+## Bank Comparison for Non-Residents
+
+| Factor | UBS | PostFinance | Relio AG | Cantonal Banks | Private Banks |
+|---|---|---|---|---|---|
+| **Non-resident access** | Private banking only (CHF 500'000+) | Not available | Corporate accounts only (no US nexus) | Via Swiss company only | CHF 4'000'000-6'000'000+ |
+| **Personal account** | No (without Swiss residence) | No | No | No | Yes (wealth management) |
+| **Corporate account** | Yes (high threshold) | Yes (high rejection rate) | Yes (same-day, no US nexus) | Yes (with preparation) | N/A |
+| **Timeline** | 8-12 weeks | 3-4 weeks (often to rejection) | Same day | 4-6 weeks | 4-12 weeks |
+| **Remote opening** | No | No | Yes (video via Intrum) | Usually in-person | RM meeting required |
+| **Monthly fees** | CHF 50-80 | CHF 10-25 | CHF 249 | CHF 20-50 | 0.5-1.5% of AUM |
+
+### What Non-Residents Should Know Before Applying
+
+**PostFinance rejections are common and unpredictable.** PostFinance rejected a company with "Tesla" in its name after demanding an explanation for the name choice. Health sector and pharmaceutical companies with clean documentation have also been refused without clear grounds. Processing time to rejection: 3-4 weeks you cannot recover.
+
+**Better address, better chances.** Companies with a direct registered address (not a c/o address) face less scrutiny during bank compliance review. Banks notice the difference between a genuine office and a mailbox.
+
+**Without submitted tax filings, you cannot demonstrate local status.** This matters for companies trying to establish substance. Banks assess whether a company is genuinely Swiss or merely using a Swiss address.
+
+**The 80% signal is real.** If a bank approves the blocked [capital deposit account](/banking/capital-deposit-account-switzerland/) during company formation, roughly 80% of those convert into permanent accounts.
+
+---
+
 ## Frequently Asked Questions
 
 **Can I open a Swiss bank account online as a non-resident without forming a company?**

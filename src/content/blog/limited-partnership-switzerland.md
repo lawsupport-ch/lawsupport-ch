@@ -35,15 +35,25 @@ The Swiss limited partnership (Kommanditgesellschaft -- KG) is a partnership for
 
 ---
 
+## When the Limited Partnership Is the Wrong Choice
+
+The KG is a genuinely niche structure. In roughly 80% of formations we handle, the founder chooses between a GmbH and an AG. The KG is the right answer only when tax transparency — not tax minimisation, but structural transparency where income flows through to partners — is the primary design criterion. If your adviser is recommending a KG for a standard operating business, challenge that recommendation.
+
+**The cost trap.** A KG requires a general partner, typically a GmbH. You are forming two entities: the GmbH (CHF 1'900 + CHF 20'000 share capital) and the KG itself (CHF 600-800 register fee + partnership agreement drafting). Total setup: CHF 5'000-8'000 in professional fees plus the GmbH share capital. A standalone GmbH costs CHF 1'900. An AG costs CHF 2'500. The KG only justifies its extra complexity when tax transparency is non-negotiable.
+
+**The management restriction.** Limited partners cannot participate in management. If they do, they lose their limited liability protection and are treated as general partners with unlimited personal liability. This catches founders who want "passive investment with an advisory role" — there is no middle ground in Swiss law.
+
+---
+
 ## Structure of the Swiss KG
 
-**General partner (Komplementar):** Manages the partnership and bears unlimited personal liability for the partnership's obligations. The general partner is typically a Swiss corporation ([GmbH](/company-formation/gmbh-formation-switzerland/) or [AG](/company-formation/ag-formation-switzerland/)) -- which limits the practical exposure of the individuals behind it.
+**General partner (Komplementar):** Manages the partnership and bears unlimited personal liability. The GP is typically a Swiss [GmbH](/company-formation/gmbh-formation-switzerland/) or [AG](/company-formation/ag-formation-switzerland/) — which limits practical exposure to the GmbH/AG's assets.
 
-**Limited partner (Kommanditare):** Invests capital in the partnership. Liability is limited to the committed capital contribution. The limited partner cannot participate in management (if they do, they may lose their limited liability status and be treated as a general partner).
+**Limited partner (Kommanditare):** Invests capital. Liability is capped at the committed contribution. Cannot participate in management without losing limited liability status.
 
-**Minimum participants:** At least one general partner and one limited partner. No maximum number.
+**Minimum participants:** At least one GP and one LP. No maximum.
 
-**Legal personality:** The Swiss KG is a legal entity under Swiss law -- it can own property, enter contracts, and be sued in its own name. This distinguishes it from simple partnerships (einfache Gesellschaft) which have no legal personality.
+**Legal personality:** The KG is a legal entity — it can own property, enter contracts, and be sued. This distinguishes it from simple partnerships (einfache Gesellschaft).
 
 ---
 
@@ -124,7 +134,35 @@ For a full comparison of Swiss entity types and which structure best fits your n
 
 ---
 
+## Case Study: The Family Business That Chose a KG — Then Converted
+
+A Zurich-based family with a profitable real estate portfolio wanted to bring the next generation into the business while maintaining control. The father (general partner via a management GmbH) would run operations; his two adult children (limited partners) would invest capital and receive income.
+
+The KG worked for three years. Then the daughter wanted to take an active management role. Under Swiss law, her participation in management would strip her limited liability status. The family converted the KG to an AG — a process that took eight weeks and cost CHF 6'000 in professional fees under the Swiss Merger Act. The AG's board structure gave both children governance roles without liability exposure.
+
+The lesson: the KG works precisely when roles are static. The moment limited partners want operational involvement, the structure breaks.
+
+---
+
+## Real Problems With Swiss KG Structures
+
+**General partner insolvency risk.** If the GmbH serving as general partner becomes insolvent, the KG may be dissolved unless remaining partners agree to continue with a replacement GP. Address this in the partnership agreement from day one.
+
+**Public disclosure of LP contributions.** The committed capital contribution of each limited partner is registered in the Commercial Register and publicly searchable. Unlike an AG (where shareholders are private), every LP's investment amount is visible on ZEFIX.
+
+**Banking complexity.** Banks must conduct KYC on both the KG and the GP entity. Two sets of beneficial ownership documentation, two compliance reviews. For international structures with non-Swiss LPs, this can extend the banking timeline to 8+ weeks.
+
+---
+
 ## Frequently Asked Questions
+
+**Why would I choose a KG over a simple GmbH?**
+
+Tax transparency. A KG is not itself taxed — income flows through to partners, avoiding the double taxation (corporate tax + dividend tax) that applies to GmbH and AG distributions. This matters primarily for investment fund structures and family wealth arrangements. For standard operating businesses, the GmbH's simpler governance and lower setup cost make it the better choice.
+
+**How much does a KG actually cost to set up?**
+
+The KG itself costs CHF 600-800 in Commercial Register fees plus legal drafting of the partnership agreement. But you also need a general partner — typically a GmbH at CHF 1'900 formation cost plus CHF 20'000 share capital. Add nominee director if needed (CHF 5'900/year), registered address (CHF 2'400/year), and accounting. Total first-year setup: CHF 5'000-8'000 in professional fees plus the GmbH share capital. Compare this to a standalone GmbH at CHF 1'900 formation cost.
 
 **Can a non-Swiss resident be a limited partner in a Swiss KG?**
 

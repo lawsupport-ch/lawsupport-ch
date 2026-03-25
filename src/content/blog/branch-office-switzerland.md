@@ -29,9 +29,9 @@ A Swiss branch office (Zweigniederlassung) lets a foreign company establish a le
 
 ---
 
-## What a Branch Office Is
+## Why Most Branch Offices Should Have Been Subsidiaries
 
-A Swiss branch office is a legally registered business unit of a foreign company that:
+A Swiss branch office (Zweigniederlassung) is a legally registered business unit of a foreign company that:
 
 - Has a fixed place of business in Switzerland
 - Conducts business activity under the foreign company's name, with the designation "Zweigniederlassung" appended
@@ -100,7 +100,15 @@ A Swiss branch is taxed on its **attributable Swiss profit** — the income aris
 
 Key tax points:
 
-- The branch pays Swiss corporate income tax at the cantonal rate of the registration canton — approximately **11.8% effective in Zug** and **19.7% in Zurich**
+- | Canton | Effective Corporate Tax Rate (2026) |
+|---|---|
+| Zug | ~11.85% |
+| Basel-Stadt | ~13.0% |
+| Geneva | ~14.0% |
+| Zurich | ~19.7% |
+| Bern | ~20.7% |
+
+The branch pays Swiss corporate income tax at the cantonal rate of the registration canton — approximately **11.8% effective in Zug** and **19.7% in Zurich**
 - The branch pays Swiss capital tax on its attributable equity
 - Swiss withholding tax (35%) applies to dividends paid by Swiss companies to foreign shareholders, but branches do not pay dividends — they remit profit to the head office. Head office remittances from a branch are generally not subject to Swiss withholding tax (no dividend characterisation)
 - The head office country may also tax the branch's Swiss profits, subject to double tax treaty provisions. Switzerland has concluded over 100 double tax treaties
@@ -150,6 +158,12 @@ Ongoing annual costs include the resident representative fee (CHF 1,500–2,500)
 
 ---
 
+### Case Study: When a Branch Created More Problems Than It Solved
+
+A US employer-of-record company registered a Swiss branch in Zurich to serve three European clients. The branch was cheaper to set up than a GmbH (roughly CHF 4'500 vs CHF 9'500 all-in). Within eight months, two problems surfaced: (1) a neobank rejected the branch's account application because the foreign parent had no Swiss banking relationship, forcing the company to apply to three additional banks before securing an account; (2) the SECO licensing question arose when the branch began placing temporary workers -- the US parent's master services agreement did not satisfy Swiss staff leasing requirements. The branch was eventually converted to a GmbH at additional cost. Total expenditure on the branch-then-convert path exceeded what a direct GmbH formation would have cost by approximately CHF 8'000.
+
+---
+
 <div class="cta-block">
 
 ## Register Your Swiss Branch Office
@@ -166,6 +180,12 @@ Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, 6300 Zug | +41 44 51 52 
 ---
 
 ## Frequently Asked Questions
+
+**What if our bank rejects the branch's account application?**
+
+This happens frequently. Swiss banks are cautious with branch offices of foreign companies, particularly when the parent has no existing Swiss banking relationship. PostFinance has a high rejection rate for foreign-controlled structures. If the first bank rejects you, apply to at least two alternatives simultaneously. Having a Swiss-resident authorised signatory with an existing Swiss banking history improves approval rates.
+
+---
 
 **What is the difference between a branch office and a subsidiary in Switzerland?**
 

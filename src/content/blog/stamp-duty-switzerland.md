@@ -115,6 +115,18 @@ A 5% stamp tax applies to non-life insurance premiums for risks located in Switz
 
 ---
 
+## The CHF 1 Million Surprise: When Stamp Duty Catches Founders Off Guard
+
+Most founders forming a Swiss GmbH with CHF 20'000 or an AG with CHF 100'000 never encounter stamp duty. The CHF 1 million exemption covers them entirely. The surprise hits at the first serious capital increase.
+
+**The pattern we see repeatedly:** A startup raises a Series A round of CHF 5 million. The investors contribute CHF 5 million in exchange for new shares. Total paid-in capital after the round: CHF 5.1 million. Stamp duty: 1% on CHF 4.1 million (the amount above CHF 1 million) = **CHF 41'000**. This is due within 30 days of the commercial register entry. The founders budgeted for legal fees, notary costs, and share premium — but not for a CHF 41'000 federal tax bill that arrives weeks after closing.
+
+**The conversion trap:** A founder loans CHF 2 million to the company during the early years. When the company stabilises, the board converts the loan to share capital. If total equity after conversion exceeds CHF 1 million, the conversion triggers issuance stamp duty on the excess — even though no new cash entered the company. The conversion is economically neutral but fiscally expensive.
+
+> **Case study:** A fintech company in Zug raised CHF 8 million across three funding rounds. Round 1 (CHF 500'000) and Round 2 (CHF 1.2 million) were structured partly as convertible loans to stay within the CHF 1 million stamp duty exemption for as long as possible. Round 3 (CHF 6.3 million) converted all prior loans and issued new shares, taking total paid-in capital to CHF 8 million. Stamp duty on CHF 7 million above the exemption: CHF 70'000. By timing the conversions to coincide with the final equity round rather than converting incrementally, the company paid stamp duty once instead of across multiple events — though the total amount was identical. The real saving came from structuring CHF 2 million of the Round 3 capital as a subordinated shareholder loan rather than equity, reducing the stamp duty base by CHF 2 million and saving CHF 20'000.
+
+---
+
 ## Planning Points
 
 **Issuance stamp and [holding structures](/company-formation/holding-company-switzerland/):** When a Swiss holding company contributes equity to a Swiss subsidiary, the subsidiary's share capital increase triggers issuance stamp on amounts above CHF 1 million. For large capitalisation scenarios, this is a material cost to plan around — inter-company loan structures may be more efficient above threshold.
@@ -132,6 +144,14 @@ The CHF 1'000'000 exemption applies per entity, which means a holding group with
 ---
 
 ## Frequently Asked Questions
+
+**Is the 1% stamp duty really unavoidable on large capital increases?**
+
+The 1% rate is statutory and cannot be negotiated. However, structuring alternatives exist: shareholder loans instead of equity (within thin capitalisation limits), agio structuring, and qualifying reorganisation exemptions under the Federal Stamp Duties Act. For group restructurings — mergers, demergers, and intragroup asset transfers — specific exemptions can eliminate stamp duty entirely if the conditions are met. These conditions are technical and must be confirmed with the ESTV before the transaction.
+
+**Why do some companies pay CHF 0 in stamp duty while others pay CHF 100'000?**
+
+The CHF 1 million exemption applies per entity. A company that stays at or below CHF 1 million in total paid-in equity pays zero. A company that raises CHF 11 million pays 1% on CHF 10 million = CHF 100'000. The difference is entirely a function of how much equity capital is contributed. Shareholder loans, convertible instruments that remain as debt, and group financing structures can all reduce the equity base subject to stamp duty — but each must comply with Swiss thin capitalisation rules to avoid the loan being reclassified as hidden equity.
 
 **Do I pay issuance stamp when forming a Swiss GmbH with CHF 20'000 capital?**
 
