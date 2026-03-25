@@ -206,6 +206,83 @@ Total: approximately four to five months from job offer to residence permit in h
 
 ---
 
+## Permit Comparison: B vs C vs L vs G for Americans
+
+| Feature | L Permit | B Permit | C Permit | G Permit |
+|---|---|---|---|---|
+| **Duration** | Up to 12 months | 1 year (renewable) | Permanent | Not available (no border zone) |
+| **Quota** | ~5'200/year (shared) | ~8'500/year (shared) | No quota | N/A |
+| **Family reunification** | No | After 3 years residence | Yes | N/A |
+| **Path to C permit** | Does not count | 5 years (bilateral treaty) | Already permanent | N/A |
+| **Path to citizenship** | No | Via C permit | Prerequisite | N/A |
+| **Self-employment** | Not permitted | Discretionary (high bar) | Yes | N/A |
+| **FATCA reporting** | Yes | Yes | Yes | N/A |
+| **US tax filing** | Required | Required | Required | N/A |
+
+Note: Americans benefit from the US-Switzerland bilateral treaty that reduces the C permit qualifying period from ten years to five years — a significant advantage over most other non-EU nationalities.
+
+---
+
+## The Friction Nobody Warns You About
+
+### The Banking Problem Is the Hardest Part
+
+Immigration approval does not solve banking. Banking is consistently the single biggest practical obstacle Americans face when moving to Switzerland — harder than the permit, harder than housing, harder than tax planning. Most Swiss banks refuse US clients entirely due to FATCA compliance costs. A real case from our practice: a US-owned employer of record company with three employees in Switzerland was rejected by Relio AG (which has an explicit exclusion for US nexus at the UBO/shareholder level). The company was forced to route Swiss operations through a UK parent's Ebury payment account — creating compliance problems with Swiss regulators who view companies without their own bank account as questionable.
+
+Your realistic options in 2026: PostFinance (accessible but rejects a meaningful share of US-connected applications), UBS (requires CHF 500'000+ under management), and select cantonal banks that accept US residents case-by-case. Start the banking search before you move.
+
+### The Wet-Ink Signature Trap
+
+Work permit renewals must be physically signed in blue pen. Digital signatures are not accepted. Americans accustomed to DocuSign and electronic processing are consistently caught off guard by this. If you are travelling when your renewal falls due, you must arrange for the original signed document to be couriered to the cantonal office. Missing a renewal creates a gap in continuous residence that delays your C permit and naturalisation timeline.
+
+### The SECO Staff Leasing Myth
+
+If your Swiss company employs staff who work primarily for a US parent entity, you may need a SECO staff leasing licence. The common belief that "fewer than 10 contracts = no licence needed" is false. Fines reach up to CHF 100'000 for the provider and CHF 40'000 for the client. A master service agreement from the US parent does not cover Swiss operations.
+
+### Two Tax Returns, Every Year, Forever
+
+The United States taxes citizens on worldwide income regardless of residence. Moving to Switzerland does not end your US tax obligation. You will file a Swiss cantonal/federal tax return and a US federal tax return every year for as long as you hold US citizenship. The Foreign Earned Income Exclusion (approximately USD 120'000 in 2026) helps, but investment income is not covered. FBAR and FATCA Form 8938 filings are mandatory if your Swiss accounts exceed USD 10'000 aggregate. Penalties for non-filing are severe.
+
+---
+
+## Real Case: US Tech Founder Relocating to Zug
+
+A US technology entrepreneur — founder of an AI software company — planned to relocate from San Francisco to Zug. His timeline estimate: three months. His actual timeline: seven months.
+
+**Month 1-2:** Company formation (AG in Zug) completed. Nominee director appointed at CHF 5'900/year to satisfy the Swiss-resident director requirement during the transition.
+
+**Month 2-4:** B permit application filed through the company. The cantonal migration office required an explanation letter justifying why no Swiss or EU candidate could fill the managing director role. Processing took eight weeks.
+
+**Month 4-5:** D visa obtained from the Swiss consulate in San Francisco (three-week processing). Travelled to Switzerland, registered with the Einwohnerkontrolle.
+
+**Month 5-7:** Banking. This was the bottleneck. PostFinance rejected the corporate account application. The reason: "insufficient documentation of the business model's revenue source." Relio AG rejected due to US nexus policy. The third attempt — a cantonal bank in Zug — succeeded after four weeks of enhanced due diligence, but only because the company already had CHF 300'000 in a blocked capital deposit account at the same bank from the formation process.
+
+**Total cost of the relocation mandate:** CHF 22'000 (combined company formation, immigration, and banking coordination). Ongoing: nominee director (eventually replaced when the founder's permit was issued), accounting (CHF 3'800/year for an active company), registered address (CHF 2'400/year).
+
+**The lesson:** for Americans, the banking step is not a formality — it is a distinct workstream requiring its own timeline, documentation, and contingency planning.
+
+---
+
+## Objection FAQ: Questions Clients Actually Ask
+
+**Can I work while waiting for my US-Switzerland work permit?**
+
+No. Non-EU nationals cannot begin work before the permit is issued. You must obtain a D visa from the Swiss consulate in the US before travelling. Arriving on the 90-day visa-free allowance and starting work is illegal and can result in permit refusal.
+
+**Do I need to speak German or French to move to Switzerland from the US?**
+
+Not for the permit application. Your lawyer handles all documentation in the cantonal language. For daily life in Zug and Zurich, English is widely used in international business. For long-term residency: the C permit (available after five years for Americans under the bilateral treaty) requires A2/B1 German proficiency in German-speaking cantons. For citizenship: B1 spoken, A2 written. Start language training before or immediately upon arrival.
+
+**Can I bring my family from the US?**
+
+Yes, but with conditions. Your spouse and children under 18 can apply for family reunification permits once your own B permit is approved. Requirements include adequate housing (minimum floor area), sufficient income without social assistance (typically CHF 40'000-60'000 net household for a couple), and genuine family relationships. Non-EU B permit holders face a waiting period before family reunification is available — typically three years, though enforcement varies by canton. Children can enrol in international schools (CHF 25'000-45'000/year) or Swiss public schools (free, taught in the local language).
+
+**How much money do I need to move from the US to Switzerland?**
+
+For employed Americans with a Swiss job offer: CHF 15'000-25'000 in relocation savings (deposit, first month, insurance setup). Your employer covers the permit application costs. For self-employed or entrepreneur Americans: personal liquidity of at least CHF 500'000, Swiss company capitalisation of CHF 500'000-1'000'000, plus first-year operating costs of approximately CHF 15'000 (address, nominee director, accounting, permit retainer). For lump-sum taxation: annual minimum tax of CHF 200'000-300'000 depending on canton, plus personal US tax obligations (which continue regardless).
+
+---
+
 ## Frequently Asked Questions
 
 **Can Americans retire in Switzerland?**

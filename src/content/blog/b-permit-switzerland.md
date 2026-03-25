@@ -241,6 +241,41 @@ This parallel approach is standard practice for our clients and significantly re
 
 ---
 
+## Permit Comparison: B Permit in Context
+
+| Feature | L Permit | B Permit | C Permit | G Permit |
+|---|---|---|---|---|
+| **Duration** | Up to 12 months | 1-5 years (renewable) | Permanent | 5 years (renewable) |
+| **Swiss residence** | Yes | Yes | Yes | No (lives abroad) |
+| **Family reunification** | No (non-EU) | Yes, with conditions | Yes | No |
+| **Path to citizenship** | No | Yes (via C permit) | Direct prerequisite | No |
+| **Quota (non-EU)** | Yes (~5'200/year) | Yes (~8'500/year) | No | Yes (non-EU) |
+| **Right to change employer** | No | Yes, with notification | Yes | Yes |
+| **Counts toward C permit** | Limited | Yes — fully | N/A | No |
+| **Source tax applies** | Always | Until C permit or CHF 120'000+ | No | Always |
+
+---
+
+## Objection FAQ: Questions Clients Actually Ask
+
+**Can I work while my B permit application is being processed?**
+
+For EU/EFTA nationals: yes, under the 90-day notification procedure. You can start work while the B permit is processed. For non-EU/EFTA nationals: no. You must wait for the permit to be issued and, if outside Switzerland, obtain a D visa before entering. Starting work without valid authorisation exposes both you and your employer to penalties under Art. 115 AIG.
+
+**Do I need to speak German or French for a B permit?**
+
+Not for the permit application itself. There is no language requirement for B permit issuance. Your lawyer handles submissions in the cantonal language. For daily life, basic German helps in German-speaking cantons but is not essential in internationally oriented business environments (Zug, Zurich). However, if you plan to continue toward a [C permit](/immigration/c-permit-switzerland/) and [Swiss citizenship](/immigration/swiss-citizenship/), language proficiency will eventually be required — start early.
+
+**Can I bring my family on a B permit?**
+
+Yes, subject to conditions. EU/EFTA nationals can bring their spouse and dependent children under the AFMP — the process is straightforward but is only initiated after the primary permit is accepted. Non-EU/EFTA nationals can apply for family reunification, but requirements include adequate housing, sufficient income (typically CHF 40'000-60'000 net household income for a couple), and in some interpretations a waiting period. File promptly — delays beyond 12 months can complicate the application.
+
+**How much money do I need to move to Switzerland on a B permit?**
+
+This depends on your route. For **employed applicants**: your salary must meet Swiss market standards, and you need first/last month rent plus deposit (typically three months' rent = CHF 4'500-9'000 for a one-bedroom). For **self-employed non-EU applicants**: personal liquidity of at least CHF 500'000 and Swiss business capitalisation of CHF 500'000-1'000'000 are practical minimums. Regardless of route, budget for: mandatory health insurance (CHF 400-700/month), AHV social contributions (approximately 10% of self-employment income), and the residence permit support retainer (CHF 3'500 with Lawsupport, plus CHF 150-450/hour for additional work).
+
+---
+
 ## Frequently Asked Questions
 
 **Can I change jobs on a B permit?**

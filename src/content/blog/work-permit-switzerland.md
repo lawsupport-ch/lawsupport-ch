@@ -199,6 +199,26 @@ Clean tax filings, no criminal record, and continued AHV contributions throughou
 
 ---
 
+## Objection FAQ: Questions Clients Actually Ask
+
+**Can I work while waiting for my Swiss work permit?**
+
+For EU/EFTA nationals: yes, under the 90-day notification procedure. For non-EU nationals: no. You must wait for permit issuance and obtain a D visa from the Swiss consulate in your country before entering Switzerland for work. Starting work without a valid permit is a criminal offence under Art. 115 AIG, carrying fines and potential entry bans.
+
+**Do I need to speak German or French for a Swiss work permit?**
+
+Not for the permit application itself. The employer handles documentation in the cantonal language. Whether you need language skills for the role depends on your position. International companies in Zurich, Zug, and Geneva often operate in English. Smaller Swiss firms, client-facing roles, and public-sector positions require the local language. Language proficiency becomes a legal requirement only at the [C permit](/immigration/c-permit-switzerland/) stage (A2/B1 for non-EU nationals) and for [Swiss citizenship](/immigration/swiss-citizenship/) (B1 spoken, A2 written).
+
+**Can I bring my family when I get a Swiss work permit?**
+
+It depends on your permit type and nationality. EU/EFTA B permit holders can apply for family reunification immediately (though the file is processed after the primary permit is accepted). Non-EU B permit holders must wait three years of continuous residence, and must demonstrate adequate income (CHF 40'000-60'000 net household for a couple) and suitable housing. L permit holders (non-EU) cannot bring family members at all.
+
+**How much money do I need to move to Switzerland for work?**
+
+For employed workers: relocation deposit (three months' rent = CHF 4'500-9'000), first month living expenses (CHF 3'000-5'000), health insurance (CHF 400-700/month). Many employers provide relocation packages. For self-employed/entrepreneurs: see our guide on [residence permits for business owners](/immigration/residence-permit-business-owner-switzerland/) — the financial threshold is substantially higher. Residence permit legal support with Lawsupport starts with a CHF 3'500 retainer.
+
+---
+
 ## Frequently Asked Questions
 
 **Does my Swiss employer need to advertise the job before applying for a non-EU work permit?**

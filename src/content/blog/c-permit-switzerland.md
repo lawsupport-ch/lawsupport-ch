@@ -223,6 +223,42 @@ The bar for renewal refusal is substantially higher than for a B permit. Authori
 
 ---
 
+## Objection FAQ: Questions Clients Actually Ask
+
+**Can I work while waiting for my C permit decision?**
+
+Yes. Your B permit remains fully valid during C permit processing. You continue to work, travel, and reside in Switzerland as before. The C permit application does not affect your current status until a decision is issued.
+
+**Do I need to speak German or French for the C permit?**
+
+For non-EU/EFTA nationals, yes — most cantons require A2 or B1 level in the local national language. EU/EFTA nationals are generally not subject to a formal language test, though language ability is part of the broader integration assessment. If you plan to continue toward [Swiss citizenship](/immigration/swiss-citizenship/), you will eventually need B1 spoken and A2 written — so starting language training during your B permit years is strongly advisable.
+
+**Can I bring my family when I get the C permit?**
+
+If your family is already in Switzerland on dependent permits, they continue under their existing status. The C permit does not automatically upgrade family members' permits. Your spouse and children must apply for their own C permits when they individually meet the qualifying conditions. However, your C permit strengthens any pending family reunification applications, as it demonstrates stable, permanent residence.
+
+**How much money do I need to qualify for the C permit?**
+
+There is no specific financial threshold. The requirement is financial independence — meaning you must not have relied on social welfare (Sozialhilfe) during your qualifying period. For entrepreneurs, this means maintaining documented salary payments from your Swiss company throughout the qualifying period. Low salary years — even if the business is profitable — can be flagged by cantonal authorities as insufficient financial independence. A safe benchmark: maintain personal income of at least CHF 60'000-80'000 per year.
+
+---
+
+## The Friction Nobody Warns You About
+
+### The Wet-Ink Signature Requirement Applies Throughout
+
+Every B permit renewal during your five or ten-year qualifying period requires a physically signed application in blue pen. Digital signatures are not accepted. This is not changing. If you travel frequently, calendar your renewal deadlines and ensure you are physically present — or have arranged for courier delivery of the signed original to the cantonal migration office.
+
+### Business Travel Can Reset Your Clock
+
+Extended absences — generally exceeding six consecutive months — can interrupt your qualifying period. For entrepreneurs who travel extensively, this is a real risk. One client, a German tech founder spending four months per year in London, had his qualifying period questioned by the cantonal migration office. He retained his C permit eligibility only after providing detailed Swiss tax filings, travel records, and evidence that his primary domicile remained in Zug throughout.
+
+### The SECO Staff Leasing Myth
+
+If your Swiss company employs staff who work primarily for another group entity, you may have inadvertently created a staff leasing arrangement. The SECO licence is required regardless of the number of contracts — the belief that fewer than 10 contracts exempts you is false. Fines reach up to CHF 100'000 for the provider and CHF 40'000 for the client. A compliance issue of this nature during your qualifying period can complicate your C permit application.
+
+---
+
 ## Frequently Asked Questions
 
 **Q: Can I apply for the C permit before my qualifying period is complete?**

@@ -170,6 +170,68 @@ If your situation does not fit cleanly into one of these categories, a consultat
 
 ---
 
+## Permit Comparison: Which Permit Fits Your Situation
+
+| Feature | L Permit | B Permit | C Permit | G Permit |
+|---|---|---|---|---|
+| **For business owners** | Rare (project-based only) | Primary route | After 5-10 years | Only if living abroad |
+| **Duration** | Up to 12 months | 1-5 years (renewable) | Permanent | 5 years (renewable) |
+| **Self-employment allowed** | No | Yes | Yes | Limited |
+| **Family reunification** | No (non-EU) | Yes, with conditions | Yes | No |
+| **Path to citizenship** | No | Yes (via C permit) | Direct prerequisite | No |
+| **Quota (non-EU)** | Yes | Yes | No | Yes (non-EU) |
+| **Nominee director needed** | N/A | During permit processing | No | If owner is non-resident |
+
+---
+
+## The Friction Nobody Warns You About
+
+### The Nominee Director Timeline Is Longer Than You Think
+
+Non-EU founders using a nominee director during the transition period should budget for at least five to six months — not the two to three months many assume. One case we handled: an AI healthcare startup with two non-resident founders needed a resident managing director. The nominee director arrangement was expected to last three months. In practice, the permit processing took four months, the banking setup took another six weeks, and the founders did not physically arrive in Switzerland until month six. The nominee director retainer (CHF 5'900/year standard, CHF 7'400/year premium) covered the basic directorship, but additional signing of banking documents, corporate filings, and board meeting attendance was billed separately at CHF 350/hour.
+
+### Work Permit Renewal: The Blue Pen Requirement
+
+Work permit renewal documents must be physically signed — blue pen on paper. Digital signatures are not accepted by any cantonal migration authority. This is not an oversight or a legacy system about to be updated. It is current Swiss administrative practice. If you are abroad when your renewal is due, you must arrange for the original signed document to be couriered to the cantonal office.
+
+### The SECO Staff Leasing Myth
+
+If your Swiss company provides staff who work primarily for another group entity (including your own foreign parent company), you may need a SECO staff leasing licence. The common misconception that fewer than 10 contracts exempts you from this requirement is false — the licence is required regardless. Fines reach up to CHF 100'000 for the provider and CHF 40'000 for the client.
+
+---
+
+## Real Case: Romanian Entrepreneur with AG in Zug
+
+A Romanian entrepreneur formed an AG in canton Zug with plans to build a consulting business serving Eastern European clients entering the Swiss market. As a non-EU route was unavailable (Romania is an EU member), he qualified under the AFMP self-employment route.
+
+His initial challenge was not the permit — as an EU national, that was straightforward. The challenge was demonstrating genuine economic activity to the satisfaction of the Zug migration office. He had no Swiss clients at formation, no revenue pipeline, and was funding the business from personal savings.
+
+His approach: he used a Swiss citizen friend as a temporary board member for approximately one year while building the business. During that year, he signed three Swiss client contracts, hired one local employee, and generated CHF 180'000 in Swiss-source revenue. When the migration office reviewed his B permit renewal, the evidence of genuine activity was clear. The temporary board member resigned, and the founder took over as sole director.
+
+**The lesson:** EU nationals have the legal right to self-employment in Switzerland, but the migration office still requires evidence that the activity is genuine. A company with no clients, no employees, and no Swiss revenue will face questions — even from EU-national founders.
+
+---
+
+## Objection FAQ: Questions Clients Actually Ask
+
+**Can I work while my business permit is being processed?**
+
+For EU/EFTA nationals: yes, you can begin self-employed activity while the B permit is processed. For non-EU/EFTA nationals: no. You cannot begin working or managing your Swiss company from within Switzerland until the permit is issued. During the interim period, a nominee director manages the company on your behalf.
+
+**Do I need to speak German or French to get a business owner permit?**
+
+Not for the permit application. Documentation must be in the cantonal language, but your lawyer handles this. For running a business in German-speaking Switzerland, practical German ability helps but is not legally required. For long-term plans including the [C permit](/immigration/c-permit-switzerland/) and [Swiss citizenship](/immigration/swiss-citizenship/), language proficiency becomes a legal requirement.
+
+**Can I bring my family on a business residence permit?**
+
+Yes. Once you hold a valid B or C permit, your spouse and children under 18 qualify for family reunification permits. For EU/EFTA nationals, this is straightforward under the AFMP. For non-EU/EFTA nationals, requirements include adequate housing and sufficient income — typically net household income of at least CHF 40'000-60'000 per year for a couple.
+
+**How much money do I need to establish a business and get a residence permit?**
+
+For EU/EFTA self-employed: GmbH formation costs CHF 1'900, plus registered address (CHF 2'400/year in Zug), plus 12 months of living costs (CHF 24'000-36'000) — total first-year minimum approximately CHF 30'000 plus CHF 20'000 share capital. For non-EU business owners: add personal liquidity of at least CHF 500'000, Swiss business capitalisation of CHF 500'000-1'000'000, nominee director (CHF 5'900/year), and residence permit support retainer (CHF 3'500) — total first-year commitment starts at approximately CHF 550'000 including share capital.
+
+---
+
 ## Frequently Asked Questions
 
 **Can I get a Swiss residence permit just by investing money in Switzerland?**

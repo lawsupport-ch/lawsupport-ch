@@ -198,6 +198,54 @@ Grafenauweg 4, 6300 Zug, Switzerland
 
 ---
 
+## The Friction Nobody Warns You About
+
+### Involuntary Reclassification: When a G Permit Becomes a B Permit
+
+A G permit holder who rents a Swiss flat — even as a "convenience" for late work nights — risks reclassification to B permit status. Cantonal migration offices cross-reference G permit holders against residential registrations. Swiss landlords are required to report tenants. The tax consequences of involuntary reclassification are severe: your tax residency shifts from your home country to Switzerland, potentially mid-year, creating a split-year filing problem in both jurisdictions.
+
+### The SECO Staff Leasing Trap for Cross-Border Workers
+
+Companies that employ G permit holders through group structures — where one Swiss entity employs staff who primarily work for another group company — may inadvertently create a staff leasing arrangement. The SECO licence for staff leasing (Personalverleihbewilligung) is required regardless of the number of contracts. The common belief that "fewer than 10 contracts = no licence needed" is false. Fines reach up to CHF 100'000 for the provider and CHF 40'000 for the client.
+
+### Digital Signature Rejection
+
+G permit renewal documents must be physically signed with a blue pen. Digital signatures are not accepted. This catches cross-border commuters who manage their Swiss paperwork remotely from their home country. The original signed document must be submitted to the cantonal Migrationsamt — scanned copies are returned.
+
+---
+
+## Real Case: German Tech Founder with a G Permit Transition
+
+A German technology entrepreneur was running a SaaS business from London. Post-Brexit, he decided to establish a Swiss presence. His initial plan: form a GmbH in Zug, commute from his apartment in Freiburg im Breisgau (Germany), and hold a G permit.
+
+The G permit application was straightforward — EU national, genuine Swiss employment, border zone residence. It was issued within three weeks. For the first eighteen months, this arrangement worked well: he crossed into Switzerland three days per week, maintained his German tax residency, and paid the 4.5% Swiss withholding offset against his German tax liability.
+
+The problem emerged in year two. His business grew. He was spending four days per week in Zug, had rented a small office apartment, and was returning to Freiburg only on weekends. The cantonal migration office flagged the pattern. His Swiss presence had exceeded what a G permit covers. He needed to switch to a B permit and establish full Swiss tax residency — a transition that took eight weeks and required restructuring his entire tax situation mid-year.
+
+**Lesson learned:** the G permit works precisely for what it is designed for — genuine cross-border commuting. The moment your Swiss presence starts looking like primary residence, the permit category needs to change proactively, not reactively.
+
+---
+
+## Objection FAQ: Questions Clients Actually Ask
+
+**Can I work while my G permit is being processed?**
+
+For EU/EFTA nationals performing short-term work (up to 90 days per year), the employer can submit an online notification and you can begin work without waiting for the G permit card. For longer arrangements, the permit must be issued first. Starting work without valid authorisation exposes both parties to penalties under the AIG.
+
+**Do I need to speak German or French for a G permit?**
+
+No. There is no language requirement for the G permit. The permit is employment-based, and the AFMP does not impose language conditions on EU/EFTA nationals. Practically, however, functioning in a Swiss workplace often requires at least basic local language skills, particularly in client-facing or regulatory roles.
+
+**Can I bring my family to Switzerland on a G permit?**
+
+The G permit does not confer Swiss residence, so standard Swiss family reunification rules do not apply. Your family continues to reside in your home country under that country's rules. If you want your family to live in Switzerland, you need a [B permit](/immigration/b-permit-switzerland/) with Swiss residence, after which family reunification becomes available.
+
+**How much money do I need as a G permit commuter?**
+
+Your Swiss salary is the primary consideration. It must meet Swiss market standards for the role — cantonal authorities conduct salary equivalence checks. Cross-border commuters typically benefit from lower living costs (German or French housing) combined with Swiss-level salaries, making this one of the more financially attractive arrangements in Europe. Budget for Swiss social insurance contributions (AHV: approximately 5.3% employee share) and mandatory Swiss accident insurance. Health insurance arrangements depend on your country of residence and bilateral agreements.
+
+---
+
 ## Frequently Asked Questions
 
 **Can I hold a G permit if my employer is based in Zurich but I live in Germany near the border?**

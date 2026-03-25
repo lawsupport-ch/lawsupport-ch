@@ -126,6 +126,56 @@ For HNW individuals who establish lump-sum residence in their forties and mainta
 
 ---
 
+## The Friction Nobody Warns You About
+
+### Swiss Citizenship by Investment Does Not Exist — Full Stop
+
+This point cannot be overstated. Any adviser, website, or offshore agent who suggests you can buy Swiss citizenship is either misinformed or deliberately misrepresenting Swiss law. The Swiss Federal Chancellery, the State Secretariat for Migration (SEM), and cantonal civil status offices have no mechanism that allows investment to influence citizenship outcomes. There is no legal basis for any such arrangement.
+
+We have seen clients arrive at our office having paid EUR 50'000 or more to "citizenship consultancies" that promised accelerated Swiss naturalisation through investment channels that do not exist. The money was wasted. The timeline was not shortened. The only path to Swiss citizenship is the one described in this article: ten years of legal residence, full integration, and a clean record.
+
+### The Banking Problem for Wealthy Relocators
+
+High-net-worth individuals establishing lump-sum taxation residency often assume Swiss banking will be straightforward given their wealth. It is not. US persons are practically always rejected by Swiss banks due to FATCA compliance costs. Even non-US HNW individuals face enhanced due diligence that can take three to six months. One client — a UAE national with assets above CHF 50 million — had three Swiss private banks decline his account before the fourth agreed. The issue was not his wealth; it was the complexity of his asset structure and the bank's own compliance appetite.
+
+### The Lump-Sum Taxation Negotiation Is Not Standard
+
+Each lump-sum taxation agreement is individually negotiated with the cantonal tax authority. The published minimum figures are starting points, not fixed rates. A poor negotiation — or one conducted without experienced Swiss tax counsel — can result in an annual tax obligation significantly higher than necessary. The difference between a well-negotiated and poorly negotiated forfait in canton Zug can be CHF 50'000-100'000 per year.
+
+---
+
+## Real Case: The Misconception That Cost Two Years
+
+A British entrepreneur with significant liquidity approached a London-based "citizenship advisory" firm in 2022, asking about Swiss citizenship by investment. The advisory firm — which specialised in Caribbean and EU golden visa programmes — assured him that a CHF 2 million investment in a Swiss company, combined with lump-sum taxation, would "fast-track" his Swiss naturalisation to three to four years.
+
+He arrived in Switzerland in 2023, established lump-sum taxation in canton Vaud, and formed a Swiss AG with the CHF 2 million investment. Two years in, he discovered the truth: no amount of investment shortens the ten-year ordinary naturalisation timeline. He had been misadvised. His lump-sum taxation arrangement was valid, his residence was valid, and his company was operational — but he faced eight more years before he could apply for citizenship.
+
+He subsequently relocated to canton Zug (lower tax rates) and engaged Lawsupport for the long-term residency and naturalisation planning that should have been done from the start. The two years in Vaud counted toward his ten-year total, so the move did not reset his clock — but the cantonal change required a new cantonal residence period for naturalisation purposes, adding complexity.
+
+**The lesson:** legitimate residency in Switzerland is entirely achievable for wealthy individuals. Citizenship is not. Anyone promising otherwise is selling something that does not exist under Swiss law.
+
+---
+
+## Objection FAQ: Questions Clients Actually Ask
+
+**Can I work while on lump-sum taxation?**
+
+No. Lump-sum taxation explicitly requires that you do not engage in any gainful employment in Switzerland. You may manage passive investments, sit on foreign company boards, and derive income from non-Swiss sources — but Swiss-source earned income disqualifies you from the regime. If you want to work in Switzerland, you need a standard [work permit](/immigration/work-permit-switzerland/) and standard taxation.
+
+**Do I need to speak German or French for lump-sum taxation?**
+
+Not for the initial residence permit or the tax arrangement. Language requirements only become relevant if you pursue a [C permit](/immigration/c-permit-switzerland/) (for non-EU nationals, A2/B1 level) and eventual naturalisation (B1 spoken, A2 written). Since lump-sum taxpayers are typically planning long-term Swiss residence, starting language training early is advisable.
+
+**Can I bring my family on lump-sum taxation?**
+
+Yes. Your spouse and dependent children qualify for family reunification permits once your residence permit is established. Family members can enrol in Swiss public or international schools. However, each family member increases your deemed living expenses for lump-sum taxation purposes, which can raise your annual tax base.
+
+**How much money do I need to relocate to Switzerland under lump-sum taxation?**
+
+The annual minimum tax obligation varies by canton: Zug starts at approximately CHF 600'000 deemed living expenses (resulting in annual tax of roughly CHF 200'000-300'000), Geneva at approximately CHF 400'000 deemed expenses. Beyond the tax itself, budget for: Swiss health insurance (CHF 5'000-8'400/year per adult), housing (CHF 36'000-120'000/year depending on property), international school fees if applicable (CHF 25'000-45'000/year per child), and general living costs (CHF 30'000-60'000/year per person). Total first-year cost for a family of four in Zug: approximately CHF 350'000-500'000 including tax.
+
+---
+
 ## Frequently Asked Questions
 
 **Is there really no Swiss golden visa?**

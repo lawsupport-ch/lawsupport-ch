@@ -206,6 +206,74 @@ EU/EEA nationals working in Switzerland are subject to Swiss [employment law](/e
 
 ---
 
+## Permit Comparison: EU/EEA Nationals vs. Non-EU Nationals
+
+| Feature | EU/EEA National | Non-EU National |
+|---|---|---|
+| **Right to work** | Yes (AFMP) | No — employer sponsorship required |
+| **Quota** | No | Yes (~8'500 B permits, ~5'200 L permits/year) |
+| **Labour market test** | No | Yes (priority check, 10-20 working days) |
+| **Processing time** | 1-4 weeks | 8-16 weeks |
+| **Self-employment** | Automatic (with proof of activity) | Discretionary, high threshold |
+| **Family reunification** | Immediate (after primary permit accepted) | Wait up to 3 years (non-EU) |
+| **Path to C permit** | 5 years | 10 years (5 for US/Canadian nationals) |
+| **Language requirement for permit** | None | None |
+| **Language for C permit** | Generally no formal test | A2/B1 required |
+
+---
+
+## The Friction Nobody Warns You About
+
+### Family Reunification Is Sequential, Not Simultaneous
+
+The family reunification file is only processed after the primary applicant's own permit has been accepted by the cantonal authority. A spouse or dependent child cannot be added to a file that has not yet cleared. In one case we handled — a German tech founder relocating from London to Zurich with his family — the family assumed they could file everything simultaneously. They could not. The primary permit had to clear first, and because the founder also needed an interim nominee director arrangement for his Swiss company, the entire relocation timeline stretched to five to six months rather than the two to three months initially budgeted.
+
+### The Wet-Ink Signature Requirement
+
+Work permit renewal applications must be physically signed with a blue pen. Digital or electronic signatures are not accepted by any cantonal migration authority. This catches employers accustomed to DocuSign or similar platforms for HR paperwork. If the permit holder or employer representative is abroad when renewal is due, the original signed document must be couriered.
+
+### Self-Employment Requires Genuine Activity
+
+EU/EEA nationals have the right to self-employment in Switzerland — but the migration office still requires evidence that the activity is genuine. A freshly registered GmbH with no clients, no employees, and no Swiss revenue will face questions at renewal. Maintain documented client contracts, invoices, and Swiss-source revenue from the first month of operations.
+
+---
+
+## Real Case: The Family Relocation That Took Twice as Long
+
+A German technology entrepreneur — founder of a SaaS business — planned to relocate from London to Zurich over two to three months. His wife (Swedish) and three children would follow immediately. He formed a GmbH in Zug and applied for his B permit as a self-employed EU national.
+
+The B permit was processed within three weeks — EU nationals face no quota or labour market test. But three complications emerged:
+
+1. **Family timing:** His wife's dependent permit could not be filed until his own was accepted. Processing her application added another three weeks.
+2. **Nominee director:** His Swiss company needed a resident director while he arranged his move. The nominee director arrangement (CHF 5'900/year) was expected for two to three months but extended to five months as the family sorted housing and schooling.
+3. **Banking:** PostFinance accepted the corporate account, but the personal salary account took an additional four weeks to process.
+
+Total elapsed time from decision to full family relocation: five and a half months — roughly double his initial estimate.
+
+**The lesson:** even for EU nationals with straightforward legal rights, the practical logistics of relocation — family timing, banking, housing, schooling — extend the timeline beyond what immigration law alone suggests.
+
+---
+
+## Objection FAQ: Questions Clients Actually Ask
+
+**Can I work while my EU work permit is being processed?**
+
+Yes. EU/EEA nationals can begin work under the 90-day notification procedure while their B or L permit application is processed. The employer submits an online notification to the cantonal authority within 8 days of starting work. You do not need to wait for the physical permit card.
+
+**Do I need to speak German or French to work in Switzerland as an EU national?**
+
+Not legally. There is no language requirement for EU/EEA work permits. Practically, it depends on your role and location. In internationally oriented companies in Zurich and Zug, English is widely used. In smaller Swiss firms, client-facing roles, or French-speaking cantons, local language ability is practically important even if not legally required.
+
+**Can I bring my family immediately?**
+
+Not simultaneously with your own application. Your spouse and dependent children have derived rights under the AFMP, regardless of their own nationality. However, the family reunification file is processed only after your own permit is accepted. Plan the primary application as step one, family reunification as step two. Typical combined timeline: six to eight weeks from your arrival to all family members having permits.
+
+**How much money do I need to move to Switzerland as an EU worker?**
+
+For employed EU nationals: first/last month rent plus deposit (three months' rent = typically CHF 4'500-9'000), health insurance setup (CHF 400-700/month), and relocation costs. Your employer may cover some of these. For self-employed EU nationals: GmbH formation (CHF 1'900), registered address (CHF 2'400/year in Zug), 12 months of living costs (CHF 24'000-36'000), plus share capital (CHF 20'000 minimum for GmbH) — approximately CHF 50'000 total first-year budget.
+
+---
+
 ## Frequently Asked Questions
 
 **Do I need a job offer before coming to Switzerland as an EU national?**

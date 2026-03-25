@@ -208,6 +208,41 @@ This pattern repeats across our practice: the work permit, the company registrat
 
 ---
 
+## Permit Comparison: B vs C vs L vs G for Non-EU Nationals
+
+| Feature | L Permit | B Permit | C Permit | G Permit |
+|---|---|---|---|---|
+| **Duration** | Up to 12 months | 1 year (renewable) | Permanent | 1 year (renewable) |
+| **Quota** | ~5'200/year | ~8'500/year | No quota | Subject to quota |
+| **Family reunification** | No | After 3 years | Yes | No |
+| **Employer tied** | Yes | Partially | No | Partially |
+| **Path to C permit** | Does not count | Yes (10 years) | Already permanent | Does not count |
+| **Path to citizenship** | No | Via C permit (10+ years) | Prerequisite | No |
+| **Self-employment** | Not permitted | Yes (high threshold) | Yes | Limited |
+| **Source tax** | Always | Until C permit | No | Always |
+
+---
+
+## Objection FAQ: Questions Clients Actually Ask
+
+**Can I work while waiting for my non-EU work permit?**
+
+No. You cannot begin work in Switzerland before the permit is issued. The D visa must be obtained from the Swiss consulate in your home country before travel. Starting work "informally" while waiting exposes both you and your employer to criminal penalties under Art. 115 AIG. This is enforced.
+
+**Do I need to speak German or French for a non-EU work permit?**
+
+Not for the permit application. The employer handles submissions in the cantonal language. For the role itself, language requirements depend on the position. In international tech companies in Zurich and Zug, English is the working language. In client-facing roles, regulatory positions, or smaller Swiss firms, German or French ability is practically necessary. For eventual [C permit](/immigration/c-permit-switzerland/) and [citizenship](/immigration/swiss-citizenship/), language proficiency is a legal requirement.
+
+**Can I bring my family as a non-EU work permit holder?**
+
+Yes, but not immediately. Non-EU B permit holders must wait three years of continuous legal residence before applying for family reunification. Requirements include adequate income (net household income of at least CHF 40'000-60'000 for a couple), suitable housing, and genuine documented family relationships. This three-year waiting period is a hard constraint — plan for it from the outset rather than discovering it mid-process.
+
+**How much money do I need to relocate to Switzerland on a non-EU work permit?**
+
+For **employed non-EU specialists**: your employer covers the permit application costs; you need relocation funds for deposit (three months' rent = CHF 4'500-9'000), first month's living expenses (CHF 3'000-5'000), health insurance setup (CHF 400-700/month). For **non-EU entrepreneurs self-sponsoring**: personal liquidity of at least CHF 500'000, Swiss business capitalisation of CHF 500'000-1'000'000, residence permit retainer (CHF 3'500), nominee director during processing (CHF 5'900/year), and company formation (CHF 1'900-2'500) — total first-year commitment starts at approximately CHF 550'000.
+
+---
+
 ## Frequently Asked Questions
 
 **Can a non-EU national apply for a Swiss work permit without a job offer?**

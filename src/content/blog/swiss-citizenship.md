@@ -246,6 +246,62 @@ Email: info@lawsupport.ch
 
 ---
 
+## Permit Comparison: The Path to Citizenship Through Different Permits
+
+| Feature | L Permit | B Permit | C Permit | G Permit |
+|---|---|---|---|---|
+| **Counts toward 10-year residence** | Limited / generally no | Yes | Yes | No |
+| **Can apply for citizenship from this permit** | No | No (need C first) | Yes | No |
+| **Typical time to C permit** | N/A | 5 years (EU) / 10 years (non-EU) | Already C | Must switch to B first |
+| **Family reunification** | No (non-EU) | Yes | Yes | No |
+| **Language requirement for permit** | No | No | A2/B1 (non-EU) | No |
+| **Language requirement for citizenship** | N/A | N/A | N/A | N/A |
+| **Citizenship language requirement** | B1 spoken, A2 written | B1 spoken, A2 written | B1 spoken, A2 written | N/A |
+
+The critical insight: every year on a B permit counts toward the ten-year total for citizenship. Starting the B permit as early as possible — and maintaining unbroken residence — is the only way to reach citizenship efficiently.
+
+---
+
+## The Friction Nobody Warns You About
+
+### The Wet-Ink Signature Trap
+
+Work permit renewals must be physically signed with a blue pen. Digital signatures are not accepted. This applies throughout your entire B permit tenure — meaning every year for non-EU nationals, every five years for EU nationals. Missing a renewal deadline because of an electronic signature creates a gap in your continuous residence record, which can delay your C permit and naturalisation timeline.
+
+### The Communal Vote Is Real
+
+In some Swiss communes, naturalisation decisions are put to a direct democratic vote of registered residents. This is not a formality — it is a constitutionally protected process upheld by the Federal Supreme Court. Applicants who are genuinely embedded in local life — who participate in associations, know their neighbours, attend local events — have materially stronger outcomes. A person who has lived in the commune for ten years but never engaged with the community faces a real risk of rejection at this stage.
+
+### The Financial Independence Requirement Has No Exceptions
+
+Social welfare receipt during your qualifying period is assessed comprehensively. Even a brief, isolated episode of receiving Sozialhilfe three years before your application creates a risk factor. For startup founders who draw minimal salaries while reinvesting in their business, this is a particular trap: cantonal authorities may interpret low personal income as evidence of insufficient financial independence, even if the business is profitable. Maintain consistent, documented salary payments that meet cantonal benchmarks throughout the qualifying period.
+
+### Integration Is Not Paperwork
+
+The communal assessment of integration goes beyond language certificates and clean records. Swiss authorities want to see genuine community ties: membership in local sports clubs, cultural associations, participation in communal assemblies (Gemeindeversammlungen), volunteer work. An applicant who has lived in Zug for ten years but whose social life is entirely within an expatriate bubble will face harder questions at the communal interview than someone who coaches a local youth football team.
+
+---
+
+## Objection FAQ: Questions Clients Actually Ask
+
+**Can I work while waiting for my naturalisation decision?**
+
+Yes. Your existing permit (B or C) remains valid throughout the naturalisation process. The application does not affect your right to work. If your C permit document comes up for its five-year renewal during the naturalisation process, renew it normally.
+
+**Do I need to speak German, French, or Italian to become Swiss?**
+
+Yes — this is a legal requirement. The federal minimum is B1 spoken and A2 written in the national language of your canton of residence. In practice, many cantons apply higher standards. Canton Zug expects functional spoken German beyond the formal B1 minimum. Language certification from FIDE, Goethe-Institut, or TELC is required. Start language training early — reaching B1 typically takes twelve to twenty-four months of sustained effort.
+
+**Can I bring my family into the naturalisation application?**
+
+Children under 22 who are unmarried and living in your household can generally be included. Each family member's integration is assessed individually. Spouses file separately unless they qualify for facilitated naturalisation.
+
+**How much does Swiss citizenship cost?**
+
+Federal fees start at CHF 100. Cantonal and communal fees together typically range from CHF 1'500 to CHF 4'000. Professional legal fees are additional. Total out-of-pocket costs (excluding legal support) are typically CHF 2'000 to CHF 5'000. The real cost is the ten years of Swiss residence and the sustained effort in integration, language, and financial independence that the process demands.
+
+---
+
 ## Frequently Asked Questions
 
 **How long does Swiss naturalisation take?**

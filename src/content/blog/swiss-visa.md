@@ -131,6 +131,68 @@ Each step builds on the previous one. Planning the full pathway from the outset 
 
 ---
 
+## Permit Comparison: What Comes After the Visa
+
+Understanding which permit follows your visa entry is essential. Here is how the four main Swiss permits compare:
+
+| Feature | L Permit | B Permit | C Permit | G Permit |
+|---|---|---|---|---|
+| **Duration** | Up to 12 months | 1-5 years (renewable) | Permanent | 5 years (renewable) |
+| **Swiss residence** | Yes | Yes | Yes | No (lives abroad) |
+| **Family reunification** | No (non-EU) | Yes, with conditions | Yes | No |
+| **Path to citizenship** | No | Yes (via C permit) | Direct prerequisite | No |
+| **Quota (non-EU)** | Yes (~5'200/year) | Yes (~8'500/year) | No | Yes (non-EU) |
+| **Right to change employer** | No | Yes, with notification | Yes | Yes, with notification |
+| **Counts toward C permit** | Limited | Yes | N/A | No |
+
+---
+
+## The Friction Nobody Warns You About
+
+### The D Visa Is Not a Residence Permit
+
+The most common misunderstanding: receiving a D visa does not mean you can live in Switzerland. The D visa is a single-entry travel document that allows you to enter Switzerland to collect your actual permit. Until you register with the Einwohnerkontrolle and receive the physical permit card, your legal status remains provisional. Arriving with a D visa and assuming you have full residence rights is incorrect.
+
+### The 90-Day Trap for Business Visitors
+
+The boundary between "business visit" and "work" is narrower than most people assume. Signing a contract at a Zurich law office is permitted on a Schengen C visa. Spending two weeks at your Swiss subsidiary writing code or managing staff is not. Swiss immigration authorities draw the line at "productive activity" — if you are doing work that a locally hired employee would otherwise do, you need a permit. We have seen enforcement actions against companies whose executives spent weeks in Swiss offices on tourist visas.
+
+### Banking Without a Permit: The Catch-22
+
+Some clients attempt to open a Swiss bank account before obtaining their residence permit. Most banks require a valid Swiss permit for account opening. The exception: blocked capital deposit accounts for company formation, which can be opened with passport identification and proof of the formation mandate. But a regular current account? That requires a permit. And a permit requires a bank account for salary payments. Breaking this circular dependency requires careful sequencing — typically opening the blocked account first during formation, then converting it to an operating account once the permit arrives.
+
+---
+
+## Real Case: The US Entrepreneur Who Overstayed
+
+A US technology entrepreneur visited Switzerland on his visa-free 90-day allowance to explore forming a company in Zug. The research took longer than expected. He spent 85 days in Switzerland, returned to the US for two weeks, then re-entered the Schengen area through Frankfurt for "just another two weeks" in Zurich.
+
+The problem: the 90/180-day rule applies to the entire Schengen area, not just Switzerland. His two weeks in Germany counted against the same 90-day allowance. By the time he realised, he had overstayed by eleven days. The overstay was recorded in the SIS (Schengen Information System). When he applied for a D visa six months later to take up his B permit, the Swiss consulate flagged the prior overstay. The D visa was ultimately issued — but only after his lawyer submitted a detailed explanation letter, adding six weeks to the process.
+
+**Lesson:** the 90/180-day counter is cumulative across all 27 Schengen countries. Track your days precisely, especially if you travel frequently within Europe.
+
+---
+
+## Objection FAQ: Questions Clients Actually Ask
+
+**Can I work while waiting for my Swiss work permit?**
+
+No. Non-EU/EFTA nationals cannot begin work in Switzerland before the permit is issued and the D visa obtained. Arriving on a tourist visa and starting work "while waiting" is illegal and can result in permit refusal. EU/EFTA nationals may begin work under the 90-day notification procedure while their B permit application is processed.
+
+**Do I need to speak German or French to get a Swiss visa?**
+
+No. There is no language requirement for any Swiss visa category. The Schengen C visa and national D visa are assessed on documentation, financial means, and purpose of visit — not language ability. Language requirements only become relevant for the [C permit](/immigration/c-permit-switzerland/) and [Swiss citizenship](/immigration/swiss-citizenship/).
+
+**Can I bring my family when I enter on a D visa?**
+
+Your family members need their own D visas. Family reunification applications are processed separately from the primary applicant. In most cases, the primary applicant's permit must be approved first, then family members apply for their own permits and D visas. Families should plan the primary application as step one and family reunification as step two.
+
+**How much money do I need to show for a Swiss visa?**
+
+For a Schengen C visa (tourist/business): bank statements showing approximately CHF 100 per day of planned stay, plus return travel costs. For a D visa linked to employment: the work permit application demonstrates financial viability through the employment contract and salary. For a D visa linked to self-employment or lump-sum taxation: personal liquidity of CHF 500'000 or more and evidence of sustainable income or assets.
+
+---
+
 ## Frequently Asked Questions
 
 **Can I work in Switzerland on a Schengen tourist visa?**

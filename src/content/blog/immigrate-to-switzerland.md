@@ -231,6 +231,61 @@ If you are a non-EU national planning to immigrate to Switzerland as an entrepre
 
 ---
 
+## Permit Comparison: B vs C vs L vs G at a Glance
+
+| Feature | L Permit | B Permit | C Permit | G Permit |
+|---|---|---|---|---|
+| **Duration** | Up to 12 months | 1-5 years (renewable) | Permanent | 5 years (renewable) |
+| **Swiss residence** | Yes | Yes | Yes | No (lives abroad) |
+| **Family reunification** | No (non-EU) | Yes, with conditions | Yes | No |
+| **Path to citizenship** | No | Yes (via C permit) | Direct prerequisite | No |
+| **Quota (non-EU)** | ~5'200/year | ~8'500/year | No | Yes (non-EU) |
+| **Self-employment** | No | Yes | Yes | Limited |
+| **Source tax** | Always | Until C permit or CHF 120'000+ | No | Always |
+| **Right to change employer** | No | Yes, with notification | Full freedom | Yes |
+
+---
+
+## The Friction Nobody Warns You About
+
+### The Wet-Ink Signature Trap
+
+Work permit renewal documents must be physically signed in blue pen. Digital signatures are not accepted — not by any cantonal migration authority, not in any canton, not for any permit type. This catches internationally mobile entrepreneurs who manage their Swiss affairs remotely. If you are outside Switzerland when your renewal falls due, the original signed document must be couriered to the cantonal office. Missing a deadline creates a gap in continuous residence that can affect your C permit and naturalisation timeline.
+
+### The SECO Staff Leasing Myth
+
+A persistent misconception: companies with fewer than 10 staff leasing contracts do not need a SECO licence. This is false. The <a href="https://www.seco.admin.ch/seco/en/home.html" target="_blank" rel="nofollow noopener">SECO</a> staff leasing licence is required regardless of the number of contracts. Even a single staff leasing arrangement triggers the licensing obligation. Fines reach up to CHF 100'000 for the provider and CHF 40'000 for the client. A master service agreement (MSA) issued by a US parent entity does not cover Swiss operations — the MSA must be issued by the Swiss entity that holds the licence.
+
+### US Persons and Swiss Banking
+
+US persons relocating to Switzerland face a banking obstacle that is structurally distinct from any immigration issue. FATCA compliance costs cause most Swiss banks to decline US clients entirely. Relio AG (Zurich) explicitly rejects companies with US nexus at the UBO/shareholder level. PostFinance rejects a meaningful share of US-connected applications without explanation. UBS requires CHF 500'000 or more under management. Start the banking search before you move, not after. A real case from our practice: a US-owned employer of record with three employees in Switzerland was rejected by Relio, forcing Swiss operations through a UK parent company's payment account — creating serious compliance problems with Swiss regulators.
+
+### The Nominee Director Is Not Optional During Transition
+
+Non-EU founders forming a Swiss company before their own permit is issued need a resident managing director from day one. A nominee director fills this role, typically for four to six months during the transition. But founders should plan for longer — six months is often tight. One case: an AI healthcare startup with two non-resident founders needed a nominee director for eight months before the founders' own permits were issued. Cost: CHF 5'900/year for the basic retainer, plus CHF 350/hour for banking signatures, board meetings, and corporate filings.
+
+---
+
+## Objection FAQ: Questions Clients Actually Ask
+
+**Can I work while waiting for my permit?**
+
+It depends on your nationality and permit type. EU/EFTA nationals can begin work under the 90-day notification procedure while their B permit is processed. Non-EU nationals cannot — they must wait for permit issuance and obtain a D visa before entering Switzerland for work.
+
+**Do I need to speak German or French to immigrate?**
+
+Not for the immigration process itself. Documentation must be in the cantonal language, but your lawyer handles this. For daily life in Zug, English functions as a working language in international business contexts. For long-term residency and naturalisation, German proficiency at B1/B2 level is required. Start language training early in the process.
+
+**Can I bring my family?**
+
+Yes, but the timing and conditions vary by permit type. EU/EFTA B permit holders can apply for family reunification immediately after their own permit is accepted. Non-EU B permit holders face a waiting period (up to three years in some interpretations) and must demonstrate adequate income and housing. L permit holders (non-EU) cannot bring family members. G permit holders' families remain in the home country.
+
+**How much money do I need to move to Switzerland?**
+
+For an employed worker relocating with employer support: CHF 15'000-25'000 in personal savings covers deposit, first month, and setup costs. For a self-employed non-EU entrepreneur: personal liquidity of at least CHF 500'000, Swiss business capitalisation of CHF 500'000-1'000'000, plus first-year operating costs of approximately CHF 12'000 (registered address, nominee director, accounting). For lump-sum taxation residents: annual minimum tax obligation of CHF 200'000-300'000 depending on canton, plus living costs.
+
+---
+
 ## Frequently Asked Questions
 
 **How long does it take to get Swiss residency?**
