@@ -4,7 +4,7 @@ description: "Swiss holding company: participation exemption, Zug tax rates, IP 
 date: "19.03.2026"
 publishDate: "2026-04-05"
 category: "Company Formation"
-categoryHref: "/services/company-formation/"
+categoryHref: "/company-formation/"
 readTime: "11 min read"
 faqItems:
   - question: "What is the minimum ownership threshold for the Swiss participation exemption?"
@@ -79,7 +79,7 @@ The AG is preferred for the following concrete reasons:
 
 The canton of Zug offers the lowest combined (federal + cantonal + municipal) ordinary corporate income tax rate in Switzerland: approximately **11.9%** on pre-exempt income as of 2026. More importantly for holding companies, the participation exemption reduces the effective rate on qualifying dividend and capital-gain income toward zero. Zug also offers fast Commercial Register processing, an established professional services ecosystem, and a stable business-oriented cantonal government with no history of punitive retroactive tax changes.
 
-For a deeper analysis of Zug as a formation jurisdiction, see our dedicated guide on [company formation in Zug](/blog/company-formation-zug/).
+For a deeper analysis of Zug as a formation jurisdiction, see our dedicated guide on [company formation in Zug](/company-formation/company-formation-zug/).
 
 ---
 
@@ -132,7 +132,7 @@ The same proportional logic applies at cantonal level under Art. 28 StHG. In Zug
 | Effective rate after participation exemption | **~0–3%** | On qualifying dividend/CG income |
 | Cantonal capital tax (Zug) | ~0.001% of taxable capital per year | Minimal |
 
-There is no federal capital tax in Switzerland. The cantonal capital tax in Zug is among the lowest in the country and is largely symbolic for a holding company of any meaningful size. For a full comparison across cantons, see our [cantonal tax comparison](/blog/cantonal-tax-comparison-switzerland/).
+There is no federal capital tax in Switzerland. The cantonal capital tax in Zug is among the lowest in the country and is largely symbolic for a holding company of any meaningful size. For a full comparison across cantons, see our [cantonal tax comparison](/tax-accounting/cantonal-tax-comparison-switzerland/).
 
 ---
 
@@ -188,7 +188,7 @@ The era of the Swiss letterbox holding — a registered address, a forwarding se
 
 **Day-to-day management:** For a pure holding, the administrative requirements are relatively light. For a mixed holding or an IP-holding structure, Swiss-based employees or contracted managers must be demonstrably responsible for the substantive functions: monitoring investee companies, managing IP, making treasury decisions.
 
-**Registered office and records:** The registered office (Sitz) must be a genuine address where the company's books and records are maintained and accessible. A professional corporate services address in Zug is acceptable provided there is a genuine service relationship — not merely a postal forwarding arrangement. See our [registered address Switzerland](/blog/registered-address-switzerland/) and [virtual office Switzerland](/blog/virtual-office-switzerland/) services.
+**Registered office and records:** The registered office (Sitz) must be a genuine address where the company's books and records are maintained and accessible. A professional corporate services address in Zug is acceptable provided there is a genuine service relationship — not merely a postal forwarding arrangement. See our [registered address Switzerland](/corporate-services/registered-address-switzerland/) and [virtual office Switzerland](/corporate-services/virtual-office-switzerland/) services.
 
 **Documentation:** Transfer-pricing documentation (for groups above OECD thresholds), master file and local file requirements under BEPS Action 13, and CbCR (Country-by-Country Reporting) for groups with consolidated revenue above CHF 900 million.
 
@@ -230,14 +230,14 @@ Forming a Swiss AG is a structured but efficient process. The key steps are:
 
 1. **Name reservation and feasibility check** — confirm the proposed company name is available on the <a href="https://www.zefix.ch" target="_blank" rel="nofollow noopener">commercial register database (ZEFIX)</a> (1–2 days).
 2. **Draft articles of association** — the articles must specify the holding purpose explicitly if cantonal holding privilege treatment is sought. Boilerplate articles referencing only "all types of commercial activity" are inadequate for a pure holding structure.
-3. **Open a capital deposit account** — the minimum paid-up capital for a Swiss AG is **CHF 100,000**, of which at least CHF 50,000 must be paid in at formation (Art. 632 CO). The founding shareholders deposit the capital into a blocked formation account at a Swiss bank. See our [capital deposit account](/blog/capital-deposit-account-switzerland/) guide.
+3. **Open a capital deposit account** — the minimum paid-up capital for a Swiss AG is **CHF 100,000**, of which at least CHF 50,000 must be paid in at formation (Art. 632 CO). The founding shareholders deposit the capital into a blocked formation account at a Swiss bank. See our [capital deposit account](/banking/capital-deposit-account-switzerland/) guide.
 4. **Notarial deed of incorporation** — a Swiss notary authenticates the founding deed and articles of association (Art. 629 CO). Founders may appear in person or via certified power of attorney.
-5. **Commercial register filing** — the notary submits the application to the cantonal [commercial register](/blog/commercial-register-switzerland/). In Zug, registration typically completes within **5–7 business days**.
+5. **Commercial register filing** — the notary submits the application to the cantonal [commercial register](/company-formation/commercial-register-switzerland/). In Zug, registration typically completes within **5–7 business days**.
 6. **Post-formation steps** — share register establishment, bank account conversion from capital deposit to operational account, tax registration, and statutory auditor appointment if required.
 
-**Total timeline from engagement to registered company: typically 3–6 weeks**, with bank account opening being the variable. For detailed steps and cost breakdown, see our full guide on [AG formation in Switzerland](/blog/ag-formation-switzerland/).
+**Total timeline from engagement to registered company: typically 3–6 weeks**, with bank account opening being the variable. For detailed steps and cost breakdown, see our full guide on [AG formation in Switzerland](/company-formation/ag-formation-switzerland/).
 
-Regarding directors: Swiss law does not require Swiss-national directors, but at least one director must be authorised to represent the company and resident in Switzerland (Art. 718 CO). We can advise on compliant [nominee director arrangements](/blog/nominee-director-switzerland/) where required.
+Regarding directors: Swiss law does not require Swiss-national directors, but at least one director must be authorised to represent the company and resident in Switzerland (Art. 718 CO). We can advise on compliant [nominee director arrangements](/corporate-services/nominee-director-switzerland/) where required.
 
 ---
 
@@ -260,7 +260,7 @@ Formation is the beginning. A Swiss holding AG carries the following recurring o
 
 **Transfer pricing:** Any intra-group transactions — management fees, royalty arrangements, intra-group loans — must be documented at arm's length.
 
-For a complete overview of Swiss corporate tax compliance requirements, see our guide on [corporate tax in Switzerland](/blog/corporate-tax-switzerland/).
+For a complete overview of Swiss corporate tax compliance requirements, see our guide on [corporate tax in Switzerland](/tax-accounting/corporate-tax-switzerland/).
 
 ---
 

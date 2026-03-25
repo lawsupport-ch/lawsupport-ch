@@ -4,7 +4,7 @@ description: "How Swiss tax residency works: the 90-day and 30-day rules, deemed
 date: "19.03.2026"
 publishDate: "2026-08-01"
 category: "Tax & Accounting"
-categoryHref: "/blog/"
+categoryHref: "/tax-accounting/"
 readTime: "14 min read"
 faqItems:
   - question: "How long can I stay in Switzerland before becoming a tax resident?"
@@ -75,7 +75,7 @@ Swiss tax residents are subject to tax on their **worldwide income and wealth**.
 - Swiss wealth: bank accounts, securities portfolios, Swiss real estate, business interests
 - Foreign wealth: foreign real estate, foreign bank accounts, foreign shareholdings
 
-There is a structural carve-out: income from **foreign real estate** and income attributable to a **foreign permanent establishment (PE)** is typically excluded from Swiss taxable income under the applicable [double taxation agreement](/blog/double-tax-treaties-switzerland/). However, it is not ignored. It is included in the Swiss tax return for the purpose of determining the applicable rate — the **progression reservation**. Switzerland taxes only Swiss-source income, but at the rate that would have applied had the foreign income also been taxable. The base is limited; the rate reflects the full picture.
+There is a structural carve-out: income from **foreign real estate** and income attributable to a **foreign permanent establishment (PE)** is typically excluded from Swiss taxable income under the applicable [double taxation agreement](/tax-accounting/double-tax-treaties-switzerland/). However, it is not ignored. It is included in the Swiss tax return for the purpose of determining the applicable rate — the **progression reservation**. Switzerland taxes only Swiss-source income, but at the rate that would have applied had the foreign income also been taxable. The base is limited; the rate reflects the full picture.
 
 ---
 
@@ -83,7 +83,7 @@ There is a structural carve-out: income from **foreign real estate** and income 
 
 Switzerland is one of the very few jurisdictions that levies a recurring **annual wealth tax (Vermogenssteuer)** on individuals. This is a cantonal tax — there is no federal wealth tax — and rates vary considerably by canton.
 
-Effective rates on net worldwide assets typically range from **0.1% to 0.7% per year**. Zug, one of Switzerland's most tax-efficient cantons, sits at the lower end of that range. For a detailed comparison, see our guide to [cantonal tax rates](/blog/swiss-tax-rates-by-canton/).
+Effective rates on net worldwide assets typically range from **0.1% to 0.7% per year**. Zug, one of Switzerland's most tax-efficient cantons, sits at the lower end of that range. For a detailed comparison, see our guide to [cantonal tax rates](/tax-accounting/swiss-tax-rates-by-canton/).
 
 To put it in concrete terms: on **CHF 5 million of net assets**, a Zug tax resident pays approximately **CHF 10,000 to CHF 20,000 per year** in wealth tax. The same assets in a higher-tax canton such as Vaud or Geneva would attract two to three times that amount.
 
@@ -105,7 +105,7 @@ The OECD-standard tie-breaker sequence, which most Swiss DTAs follow, works thro
 
 In practice, the analysis almost always resolves at step 1 or step 2. If you retain a family home in your country of origin after relocating to Switzerland, and your family remains there, the DTA may conclude that your centre of vital interests stayed abroad — even if you are physically present in Switzerland for most of the year.
 
-This is a live risk for executives on assignment and for individuals who relocate without fully restructuring their personal circumstances. The tie-breaker analysis is fact-specific. Get professional [tax advisory](/blog/tax-advisory-switzerland/) before assuming which state has primary residence.
+This is a live risk for executives on assignment and for individuals who relocate without fully restructuring their personal circumstances. The tie-breaker analysis is fact-specific. Get professional [tax advisory](/tax-accounting/tax-advisory-switzerland/) before assuming which state has primary residence.
 
 ---
 
@@ -117,7 +117,7 @@ Not every person living in Switzerland files a standard annual tax return. Swiss
 
 **Ordinary taxation:** Swiss nationals and foreign nationals holding a C permit file a standard annual return covering all worldwide income and wealth. Self-employed individuals and those with multiple income sources are also subject to ordinary taxation regardless of permit status.
 
-If you are in Switzerland on a B permit and your income is below the threshold, you are taxed at source. Once you obtain a C permit or your income crosses the threshold, ordinary taxation applies and you must file. The transition is automatic — it is not optional. For information on Swiss residence permits, see our guide on [work permits](/blog/work-permit-switzerland/).
+If you are in Switzerland on a B permit and your income is below the threshold, you are taxed at source. Once you obtain a C permit or your income crosses the threshold, ordinary taxation applies and you must file. The transition is automatic — it is not optional. For information on Swiss residence permits, see our guide on [work permits](/immigration/work-permit-switzerland/).
 
 ---
 
@@ -131,7 +131,7 @@ Factors authorities examine when assessing whether residency has genuinely ended
 
 - Has the family home been sold or the lease terminated?
 - Has the spouse and family relocated?
-- Have Swiss [bank accounts](/blog/swiss-bank-account/) and custody accounts been closed or transferred?
+- Have Swiss [bank accounts](/banking/swiss-bank-account/) and custody accounts been closed or transferred?
 - Is there a documented new domicile abroad with a genuine tenancy or property ownership?
 - Have Swiss club memberships, professional registrations, and social ties been transferred or closed?
 
@@ -143,19 +143,19 @@ One structural advantage Switzerland offers at exit: **Switzerland levies no dep
 
 ## Corporate Tax Residency in Switzerland
 
-A company is Swiss tax-resident if it is **incorporated in Switzerland** (registered in the [Commercial Register](/blog/commercial-register-switzerland/)) or if it is **effectively managed from Switzerland** — the place of effective management test.
+A company is Swiss tax-resident if it is **incorporated in Switzerland** (registered in the [Commercial Register](/company-formation/commercial-register-switzerland/)) or if it is **effectively managed from Switzerland** — the place of effective management test.
 
 The second limb matters for international entrepreneurs. A foreign-incorporated company whose board meetings, strategic decisions, and day-to-day management are conducted from Switzerland can be treated as a Swiss tax resident even without Swiss incorporation. For founders and business owners who relocate to Switzerland personally, this risk requires active management. Board composition, meeting locations, and decision-making processes should be structured to clearly and demonstrably reflect where management actually occurs.
 
-For a full breakdown of Swiss corporate income tax rates and cantonal regimes, see our guide to [corporate tax in Switzerland](/blog/corporate-tax-switzerland/).
+For a full breakdown of Swiss corporate income tax rates and cantonal regimes, see our guide to [corporate tax in Switzerland](/tax-accounting/corporate-tax-switzerland/).
 
 ---
 
 ## Advance Tax Rulings
 
-Individuals relocating to Switzerland can apply for an **advance tax ruling (Steuerruling)** from the cantonal tax authority before completing their relocation. The ruling confirms the canton's agreed position on how the individual's income and assets will be treated for Swiss tax purposes. For more on this process, see our guide to [advance tax rulings](/blog/tax-ruling-switzerland/).
+Individuals relocating to Switzerland can apply for an **advance tax ruling (Steuerruling)** from the cantonal tax authority before completing their relocation. The ruling confirms the canton's agreed position on how the individual's income and assets will be treated for Swiss tax purposes. For more on this process, see our guide to [advance tax rulings](/tax-accounting/tax-ruling-switzerland/).
 
-For individuals considering [lump-sum taxation](/blog/lump-sum-taxation-switzerland/), an advance ruling is not optional — it is a prerequisite. But advance rulings are equally valuable for ordinary relocations that involve complex asset structures, foreign shareholdings, trusts, or situations with dual-residency risk. Filing an ordinary relocation without first obtaining a ruling exposes you to uncertainty that is easily avoided. The cantonal authority's position is binding once the ruling is issued, provided the facts remain as described.
+For individuals considering [lump-sum taxation](/tax-accounting/lump-sum-taxation-switzerland/), an advance ruling is not optional — it is a prerequisite. But advance rulings are equally valuable for ordinary relocations that involve complex asset structures, foreign shareholdings, trusts, or situations with dual-residency risk. Filing an ordinary relocation without first obtaining a ruling exposes you to uncertainty that is easily avoided. The cantonal authority's position is binding once the ruling is issued, provided the facts remain as described.
 
 ---
 

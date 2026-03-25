@@ -3,7 +3,7 @@ title: "Employment Law Switzerland: Employer's Complete Guide (2026)"
 description: "A complete employer's guide to employment law in Switzerland: contracts, notice periods, social insurance, BVG, work permits, and compliance for 2026."
 date: "19.03.2026"
 category: "Employment Law"
-categoryHref: "/blog/"
+categoryHref: "/employment-law/"
 readTime: "14 min read"
 tocItems:
   - id: "1-the-legal-framework-what-governs-swiss-employment-law"
@@ -45,7 +45,7 @@ Employment law Switzerland is one of the most consequential compliance areas a n
 
 This guide covers everything a newly operational Swiss employer needs to know: the legal framework, employment contracts, notice periods, termination rules, working time, leave, social insurance obligations, pension, accident insurance, and work permits. It is written for foreign business owners and HR managers running Swiss operations for the first time. Legal citations refer to the version of law in force as of March 2026.
 
-If you have not yet formed your Swiss entity, start with our guide to [company formation in Switzerland](/blog/company-formation-switzerland/). For ongoing payroll compliance, see our [accounting Switzerland](/blog/accounting-switzerland/) guide.
+If you have not yet formed your Swiss entity, start with our guide to [company formation in Switzerland](/company-formation/company-formation-switzerland/). For ongoing payroll compliance, see our [accounting Switzerland](/tax-accounting/accounting-switzerland/) guide.
 
 ---
 
@@ -80,7 +80,7 @@ Many Swiss industries operate under **Gesamtarbeitsverträge (GAV)** — collect
 
 Under Swiss law, **oral employment contracts are legally valid**. The OR imposes no general requirement that employment agreements be in writing. In practice, however, every Swiss employer should use a written contract — not because the law demands it, but because the burden of proof for disputed terms falls on the party asserting them. If you and an employee disagree about the notice period, the salary, or the non-compete clause, a signed document is your only reliable evidence.
 
-For **apprenticeship contracts** and certain other special categories, written form is mandatory. For standard employment, it is strongly recommended. For detailed guidance on contract structure, see our [employment contract Switzerland](/blog/employment-contract-switzerland/) guide.
+For **apprenticeship contracts** and certain other special categories, written form is mandatory. For standard employment, it is strongly recommended. For detailed guidance on contract structure, see our [employment contract Switzerland](/employment-law/employment-contract-switzerland/) guide.
 
 ### Fixed-Term vs Open-Ended Contracts
 
@@ -262,7 +262,7 @@ Non-EU nationals — including employees from the US, UK post-Brexit, India, Chi
 3. The State Secretariat for Migration (SEM) issues federal authorisation.
 4. The cantonal authority then issues the permit (typically a B permit).
 
-Quotas are limited and competition is significant. Processing times are typically 8–12 weeks at minimum, and approval is not guaranteed. Employers should plan recruitment timelines accordingly. Detailed guidance is available in our [work permit Switzerland](/blog/work-permit-switzerland/) and [B permit Switzerland](/blog/b-permit-switzerland/) guides.
+Quotas are limited and competition is significant. Processing times are typically 8–12 weeks at minimum, and approval is not guaranteed. Employers should plan recruitment timelines accordingly. Detailed guidance is available in our [work permit Switzerland](/immigration/work-permit-switzerland/) and [B permit Switzerland](/immigration/b-permit-switzerland/) guides.
 
 ---
 
@@ -274,8 +274,8 @@ Before your first employee starts work in Switzerland, you must complete the fol
 2. **BVG pension fund**: Affiliate with a recognised occupational pension fund before the employee's employment start date.
 3. **UVG insurer**: Notify your accident insurer (Suva or approved private insurer). For most office-based companies, Suva is mandatory for occupational accidents; private insurers handle NBU.
 4. **Work permit** (if applicable): If hiring non-EU nationals, initiate permit applications well in advance.
-5. **Withholding tax (Quellensteuer)**: If employing foreign nationals without a C permit (permanent residence), you must register for withholding tax with the cantonal tax authority and deduct Quellensteuer from salary each month. See our [withholding tax Switzerland](/blog/withholding-tax-switzerland/) guide.
-6. **Payroll system**: Establish a compliant [accounting Switzerland](/blog/accounting-switzerland/) process that accurately calculates and remits all contributions.
+5. **Withholding tax (Quellensteuer)**: If employing foreign nationals without a C permit (permanent residence), you must register for withholding tax with the cantonal tax authority and deduct Quellensteuer from salary each month. See our [withholding tax Switzerland](/tax-accounting/withholding-tax-switzerland/) guide.
+6. **Payroll system**: Establish a compliant [accounting Switzerland](/tax-accounting/accounting-switzerland/) process that accurately calculates and remits all contributions.
 
 ---
 
@@ -285,9 +285,9 @@ Remote work creates specific compliance risks that many foreign employers undere
 
 If an employee is **resident in Switzerland** and working for a foreign company — even a parent company headquartered elsewhere — **Swiss social insurance obligations arise from the first day of work**. There is no grace period. The Swiss AHV system applies, the employer must register, and contributions must be made. Failure to comply creates retroactive liability that can span years.
 
-Additionally, a Swiss-resident employee working for a foreign company may create a **permanent establishment (PE)** for that company in Switzerland, with Swiss corporate tax consequences. This is particularly relevant where the employee has authority to conclude contracts on behalf of the employer. See our [corporate tax Switzerland](/blog/corporate-tax-switzerland/) guide for the full picture.
+Additionally, a Swiss-resident employee working for a foreign company may create a **permanent establishment (PE)** for that company in Switzerland, with Swiss corporate tax consequences. This is particularly relevant where the employee has authority to conclude contracts on behalf of the employer. See our [corporate tax Switzerland](/tax-accounting/corporate-tax-switzerland/) guide for the full picture.
 
-For companies [doing business in Switzerland](/blog/doing-business-in-switzerland/) through a formal Swiss entity, these risks are managed naturally. For foreign companies with remote workers in Switzerland, specialist advice before the employment relationship begins is essential.
+For companies [doing business in Switzerland](/company-formation/doing-business-in-switzerland/) through a formal Swiss entity, these risks are managed naturally. For foreign companies with remote workers in Switzerland, specialist advice before the employment relationship begins is essential.
 
 ---
 
@@ -365,7 +365,7 @@ Our services for Swiss employers include:
 - **GAV analysis** — identifying whether a collective agreement applies to your business
 - **Ongoing HR compliance advisory** as your Swiss headcount grows
 
-Whether you have just completed [company formation in Switzerland](/blog/company-formation-switzerland/) or are registering a [branch office](/blog/branch-office-switzerland/) of an existing foreign company, we can help you establish Swiss employment compliance with precision.
+Whether you have just completed [company formation in Switzerland](/company-formation/company-formation-switzerland/) or are registering a [branch office](/company-formation/branch-office-switzerland/) of an existing foreign company, we can help you establish Swiss employment compliance with precision.
 
 **Request a Free Assessment** — contact us to discuss your Swiss employer registration:
 

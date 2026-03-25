@@ -4,7 +4,7 @@ description: "Swiss G permit (Grenzgängerausweis) for cross-border commuters: w
 date: "19.03.2026"
 publishDate: "2026-03-30"
 category: "Immigration"
-categoryHref: "/blog/"
+categoryHref: "/immigration/"
 readTime: "7 min read"
 faqItems:
   - question: "Can I hold a G permit if my employer is in Zurich but I live in Germany?"
@@ -43,17 +43,15 @@ tocItems:
 ---
 
 
-!<a href="https://lawsupport.ch/images/g-permit-switzerland-hero.jpg" target="_blank" rel="nofollow noopener">Swiss G permit (Grenzgängerausweis) — cross-border commuter requirements and rules</a>
 
 The Swiss G permit — officially the Grenzgängerausweis — is one of the most commonly held Swiss residence categories, yet one of the most misunderstood. It is not a general work authorisation for EU nationals who want to work in Switzerland. It is a specific legal status for cross-border commuters: people who live in a recognised border zone of a neighbouring country and travel into Switzerland to work, returning home at least once a week.
 
-If you live in Germany, France, Italy, Austria, or Liechtenstein and have a job offer from a Swiss employer, the G permit is likely your entry point. This guide sets out who qualifies, how the permit works in practice, what taxes apply, and when a [B permit](/blog/b-permit-switzerland/) becomes the right instrument instead.
+If you live in Germany, France, Italy, Austria, or Liechtenstein and have a job offer from a Swiss employer, the G permit is likely your entry point. This guide sets out who qualifies, how the permit works in practice, what taxes apply, and when a [B permit](/immigration/b-permit-switzerland/) becomes the right instrument instead.
 
 ---
 
 ## What Is the G Permit (Grenzgängerausweis)?
 
-!<a href="https://lawsupport.ch/images/g-permit-grenzgaengerausweis.jpg" target="_blank" rel="nofollow noopener">Swiss G permit — Grenzgängerausweis legal basis and issuing authority</a>
 
 The G permit is a Swiss residence category established under the Agreement on the Free Movement of Persons (AFMP) between Switzerland and the EU. It authorises EU/EFTA nationals who are resident in a bordering country to work in Switzerland without establishing Swiss residence.
 
@@ -67,11 +65,10 @@ The official framework governing cross-border commuters is described on the <a h
 
 ## Who Qualifies for the G Permit?
 
-!<a href="https://lawsupport.ch/images/g-permit-eligibility.jpg" target="_blank" rel="nofollow noopener">G permit eligibility requirements — four conditions for cross-border commuters</a>
 
 Four conditions must all be met:
 
-**1. EU/EFTA nationality.** The AFMP covers nationals of EU and EFTA member states. Third-country nationals (including non-EU spouses of EU nationals) follow a separate, more restricted process. See our guide on [work permits in Switzerland](/blog/work-permit-switzerland/) for the full framework.
+**1. EU/EFTA nationality.** The AFMP covers nationals of EU and EFTA member states. Third-country nationals (including non-EU spouses of EU nationals) follow a separate, more restricted process. See our guide on [work permits in Switzerland](/immigration/work-permit-switzerland/) for the full framework.
 
 **2. Residence in the border zone of a neighbouring country.** The applicant must live in a recognised border zone adjacent to Switzerland. In practice, this covers most of the populated areas of Baden-Württemberg and Bavaria bordering Switzerland, the Alsace and Rhône-Alpes regions of France, the Italian border regions (Lombardy, Piedmont, Aosta Valley, Liguria), and Austria's Vorarlberg. The residence address must be genuine — a principal residence, not a secondary address.
 
@@ -93,7 +90,6 @@ The requirement runs both ways: the worker's home address must be in the border 
 
 ## Permit Duration and Renewal
 
-!<a href="https://lawsupport.ch/images/g-permit-duration.jpg" target="_blank" rel="nofollow noopener">G permit duration and renewal — 5-year and 1-year categories</a>
 
 - **Open-ended employment contract:** G permit valid for 5 years, renewable indefinitely provided the employment and residence conditions continue to be met.
 - **Fixed-term employment contract:** G permit valid for the contract duration, up to 1 year, renewable if the contract is extended.
@@ -120,7 +116,6 @@ Processing times range from a few days to several weeks depending on the canton.
 
 ## Tax Implications: Where It Gets Complex
 
-!<a href="https://lawsupport.ch/images/g-permit-tax-implications.jpg" target="_blank" rel="nofollow noopener">G permit tax treatment — Germany, France, and Italy regimes compared</a>
 
 The G permit's tax treatment is one of its most practically significant features — and the most jurisdiction-specific. Three distinct regimes apply depending on which country the worker lives in.
 
@@ -150,13 +145,12 @@ Healthcare and other social benefits are generally maintained in the home countr
 
 ## Banking and Financial Services
 
-G permit holders are not Swiss residents, but they do have a legal Swiss status. Most Swiss cantonal banks and major banks accept G permit holders for standard current accounts. Swiss salary accounts are routinely opened for G permit holders by their employers' banking partners. For an overview of banking options, see our guide on [Swiss bank accounts](/blog/swiss-bank-account/).
+G permit holders are not Swiss residents, but they do have a legal Swiss status. Most Swiss cantonal banks and major banks accept G permit holders for standard current accounts. Swiss salary accounts are routinely opened for G permit holders by their employers' banking partners. For an overview of banking options, see our guide on [Swiss bank accounts](/banking/swiss-bank-account/).
 
 ---
 
 ## G Permit vs. B Permit: Key Differences
 
-!<a href="https://lawsupport.ch/images/g-permit-vs-b-permit.jpg" target="_blank" rel="nofollow noopener">G permit versus B permit — comparison table for Swiss work authorisation</a>
 
 | Feature | G Permit (Grenzgängerausweis) | B Permit (Aufenthaltsbewilligung) |
 |---|---|---|
@@ -175,7 +169,7 @@ G permit holders are not Swiss residents, but they do have a legal Swiss status.
 
 If a G permit holder moves to Switzerland — establishing genuine Swiss residence — they must notify the cantonal Migrationsamt and switch to a B permit. The G permit lapses on establishment of Swiss residence. The switch is not automatic; it requires a formal B permit application. The change in tax residency from the home country to Switzerland takes effect from the date of Swiss registration, with significant implications for that tax year.
 
-For a detailed breakdown of B permit rules and requirements, see our guide to the [B permit in Switzerland](/blog/b-permit-switzerland/). For an overview of all Swiss immigration pathways, see [immigrating to Switzerland](/blog/immigrate-to-switzerland/).
+For a detailed breakdown of B permit rules and requirements, see our guide to the [B permit in Switzerland](/immigration/b-permit-switzerland/). For an overview of all Swiss immigration pathways, see [immigrating to Switzerland](/immigration/immigrate-to-switzerland/).
 
 ---
 
@@ -198,7 +192,7 @@ Grafenauweg 4, 6300 Zug, Switzerland
 
 **Can I hold a G permit if my employer is based in Zurich but I live in Germany near the border?**
 
-No. Zurich does not border Germany. The G permit requires both that the worker lives in the border zone of a neighbouring country and that the Swiss workplace is in a border canton adjacent to that country. A worker living in Germany and employed in Zurich would need to establish Swiss residence and hold a B permit. See our [immigration to Switzerland overview](/blog/immigrate-to-switzerland/) for the full framework.
+No. Zurich does not border Germany. The G permit requires both that the worker lives in the border zone of a neighbouring country and that the Swiss workplace is in a border canton adjacent to that country. A worker living in Germany and employed in Zurich would need to establish Swiss residence and hold a B permit. See our [immigration to Switzerland overview](/immigration/immigrate-to-switzerland/) for the full framework.
 
 **What happens if I stop returning home weekly — for example, during a long project that requires me to stay in Switzerland for several weeks?**
 

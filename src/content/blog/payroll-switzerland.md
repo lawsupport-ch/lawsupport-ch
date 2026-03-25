@@ -4,7 +4,7 @@ description: "Swiss payroll explained: AHV/IV/EO, BVG, UVG, source tax (Quellens
 date: "19.03.2026"
 publishDate: "2026-05-19"
 category: "Tax & Accounting"
-categoryHref: "/blog/"
+categoryHref: "/tax-accounting/"
 readTime: "12 min read"
 faqItems:
   - question: "What is the AHV contribution rate in 2026?"
@@ -43,7 +43,7 @@ Running payroll in Switzerland is not complicated once you understand its archit
 
 Miss a contribution class, withhold the wrong Quellensteuer rate, or skip employer registration, and you face retroactive assessments with penalty interest. The Swiss compensation offices audit regularly, and they go back. This guide gives you every material number and obligation in force as of March 2026 so you can run a compliant payroll from day one.
 
-For entity setup before you hire, see our guide on [starting a business in Switzerland](/blog/start-business-switzerland/) and [accounting obligations in Switzerland](/blog/accounting-switzerland/).
+For entity setup before you hire, see our guide on [starting a business in Switzerland](/company-formation/start-business-switzerland/) and [accounting obligations in Switzerland](/tax-accounting/accounting-switzerland/).
 
 ---
 
@@ -164,7 +164,7 @@ Since January 2021, employees subject to Quellensteuer with a Swiss-sourced inco
 
 **Swiss nationals and C-permit holders** are not subject to Quellensteuer. Their income tax is settled via the ordinary annual tax return. The employer withholds only social insurance contributions from their salaries.
 
-For a broader look at how corporate and personal taxation works, see our guide on [corporate tax in Switzerland](/blog/corporate-tax-switzerland/).
+For a broader look at how corporate and personal taxation works, see our guide on [corporate tax in Switzerland](/tax-accounting/corporate-tax-switzerland/).
 
 ---
 
@@ -213,7 +213,7 @@ Before hiring your first employee in Switzerland, verify whether a GAV applies t
 
 Swiss law requires payroll records to be retained for **10 years**. This includes salary journals, payslips, source tax remittance confirmations, BVG contribution statements, UVG premium notices, and all correspondence with the compensation office. The 10-year period aligns with the general commercial record-keeping requirement under Art. 958f OR.
 
-For accounting and bookkeeping obligations that sit alongside payroll, see our guide to [accounting in Switzerland](/blog/accounting-switzerland/).
+For accounting and bookkeeping obligations that sit alongside payroll, see our guide to [accounting in Switzerland](/tax-accounting/accounting-switzerland/).
 
 ---
 
@@ -284,6 +284,6 @@ info@lawsupport.ch
 
 </div>
 
-Related services: [Corporate Tax Switzerland](/blog/corporate-tax-switzerland/) | [Accounting Switzerland](/blog/accounting-switzerland/) | [VAT Registration Switzerland](/blog/vat-registration-switzerland/) | [Work Permit Switzerland](/blog/work-permit-switzerland/)
+Related services: [Corporate Tax Switzerland](/tax-accounting/corporate-tax-switzerland/) | [Accounting Switzerland](/tax-accounting/accounting-switzerland/) | [VAT Registration Switzerland](/tax-accounting/vat-registration-switzerland/) | [Work Permit Switzerland](/immigration/work-permit-switzerland/)
 
 For the official AHV/IV/EO contribution rates and thresholds, refer to the <a href="https://www.bsv.admin.ch/bsv/en/home/social-insurance/ahv/grundlagen-gesetze/ahv-beitragssaetze.html" target="_blank" rel="nofollow noopener">Federal Social Insurance Office (BSV)</a>. Quellensteuer tariff tables are published by each cantonal tax authority; for Zurich, see the <a href="https://www.zh.ch/de/steuern-finanzen/steuern/quellensteuer.html" target="_blank" rel="nofollow noopener">Zurich cantonal tax office</a>. The BVG coordination deduction and entry threshold are set out in the <a href="https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/en" target="_blank" rel="nofollow noopener">Federal Act on Occupational Retirement (BVG) via Fedlex</a>.

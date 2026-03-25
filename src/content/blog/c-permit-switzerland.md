@@ -1,9 +1,9 @@
 ---
-title: "C Permit Switzerland: Settlement Permit — Requirements & How to Get It (2026)"
+title: "C Permit Switzerland: Requirements & How to Get It"
 description: "Swiss C permit: eligibility after 5 or 10 years, conditions, application steps, and the path to citizenship. Get expert advice from Lawsupport, Zug."
 date: "19.03.2026"
 category: "Immigration"
-categoryHref: "/blog/"
+categoryHref: "/immigration/"
 readTime: "9 min read"
 tocItems:
   - id: "what-is-the-swiss-c-permit-niederlassungsbewilligung"
@@ -50,15 +50,15 @@ faqItems:
 ---
 
 
-The C permit — formally known as the *Niederlassungsbewilligung* — is Switzerland's permanent residence permit and the highest-security immigration status available below Swiss citizenship. If you are living in Switzerland on a [B permit](/blog/b-permit-switzerland/) and thinking about your long-term future here, the C permit changes what you can do, where you can work, and — critically — it is the prerequisite for ordinary naturalisation.
+The C permit — formally known as the *Niederlassungsbewilligung* — is Switzerland's permanent residence permit and the highest-security immigration status available below Swiss citizenship. If you are living in Switzerland on a [B permit](/immigration/b-permit-switzerland/) and thinking about your long-term future here, the C permit changes what you can do, where you can work, and — critically — it is the prerequisite for ordinary naturalisation.
 
-This guide covers what the C permit is, who qualifies and when, the conditions you must meet, how the application works, and what it means for your path to [Swiss citizenship](/blog/swiss-citizenship/).
+This guide covers what the C permit is, who qualifies and when, the conditions you must meet, how the application works, and what it means for your path to [Swiss citizenship](/immigration/swiss-citizenship/).
 
 ---
 
 ## What Is the Swiss C Permit (Niederlassungsbewilligung)?
 
-The C permit is Switzerland's settlement permit. Unlike the [B permit](/blog/b-permit-switzerland/), which is tied to a specific purpose (employment, study, family reunification) and must be renewed periodically, the C permit:
+The C permit is Switzerland's settlement permit. Unlike the [B permit](/immigration/b-permit-switzerland/), which is tied to a specific purpose (employment, study, family reunification) and must be renewed periodically, the C permit:
 
 - Has **unlimited duration** (though the document itself is renewed every five years)
 - Is **not tied to a specific employer** or canton
@@ -190,7 +190,7 @@ Entrepreneurs and self-employed individuals are eligible for the C permit on the
 
 The financial independence requirement deserves particular attention for business owners: periods of business difficulty, losses, or temporary reliance on state support will be scrutinised. If your business has gone through a difficult period, document how you managed finances during that time before you apply.
 
-For those who have formed a company as part of their Swiss immigration journey, see our [company formation in Switzerland](/blog/company-formation-switzerland/) guide and the related [work permit Switzerland](/blog/work-permit-switzerland/) guidance.
+For those who have formed a company as part of their Swiss immigration journey, see our [company formation in Switzerland](/company-formation/company-formation-switzerland/) guide and the related [work permit Switzerland](/immigration/work-permit-switzerland/) guidance.
 
 ---
 
@@ -273,7 +273,7 @@ In practice, yes. Swiss financial institutions and landlords treat C permit hold
 
 The C permit process looks straightforward on paper. In practice, the details — absence calculations, financial independence assessments, integration documentation, cantonal variations — create significant room for errors that can delay your application or, in the worst case, lead to refusal.
 
-At Lawsupport, we advise clients on the full [Swiss immigration](/blog/immigrate-to-switzerland/) pathway: from initial [B permit applications](/blog/b-permit-switzerland/) through C permit eligibility assessment, application preparation, and onward to naturalisation. We work with individuals, families, and entrepreneurs across Swiss cantonal offices.
+At Lawsupport, we advise clients on the full [Swiss immigration](/immigration/immigrate-to-switzerland/) pathway: from initial [B permit applications](/immigration/b-permit-switzerland/) through C permit eligibility assessment, application preparation, and onward to naturalisation. We work with individuals, families, and entrepreneurs across Swiss cantonal offices.
 
 If you are approaching your C permit eligibility date, have questions about whether your residence qualifies, or want to understand how the C permit fits into your long-term plans in Switzerland, we are ready to advise.
 

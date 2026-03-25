@@ -3,7 +3,7 @@ title: "Swiss Commercial Register: What It Is & How to File"
 description: "Swiss Handelsregister explained: public data, search methods, filing triggers, and registration timelines. Get expert filing support from Lawsupport."
 date: "19.03.2026"
 category: "Company Formation"
-categoryHref: "/services/company-formation/"
+categoryHref: "/company-formation/"
 readTime: "8 min read"
 tocItems:
   - id: "what-the-swiss-commercial-register-is"
@@ -84,7 +84,7 @@ The Handelsregister is a public document. Anyone can search Zefix and download a
 - **All registered modifications** — changes to directors, address, capital, purpose, and any other registered particulars, with dates
 - **Dissolution and liquidation proceedings**, including appointment of liquidators
 
-Every entry includes a UID (Unternehmens-Identifikationsnummer) — Switzerland's unique company identifier. The UID is used across all dealings with Swiss authorities: tax filings, [VAT registration](/blog/vat-switzerland/), AHV contributions, and cantonal correspondence.
+Every entry includes a UID (Unternehmens-Identifikationsnummer) — Switzerland's unique company identifier. The UID is used across all dealings with Swiss authorities: tax filings, [VAT registration](/tax-accounting/vat-switzerland/), AHV contributions, and cantonal correspondence.
 
 ---
 
@@ -100,7 +100,7 @@ Knowing what the register does not contain is equally important — particularly
 
 **Commercial contracts and employment agreements** are entirely outside the scope of the register.
 
-**GmbH quota holders are the notable exception.** Unlike AG shareholders, the quota holders (Gesellschafter) of a GmbH are publicly registered. Their names, domiciles, and the nominal value of their quotas appear in the register extract. This is a material distinction between the two entity types — one worth weighing carefully when choosing between a [GmbH formation in Switzerland](/blog/gmbh-formation-switzerland/) and an [AG formation in Switzerland](/blog/ag-formation-switzerland/).
+**GmbH quota holders are the notable exception.** Unlike AG shareholders, the quota holders (Gesellschafter) of a GmbH are publicly registered. Their names, domiciles, and the nominal value of their quotas appear in the register extract. This is a material distinction between the two entity types — one worth weighing carefully when choosing between a [GmbH formation in Switzerland](/company-formation/gmbh-formation-switzerland/) and an [AG formation in Switzerland](/company-formation/ag-formation-switzerland/).
 
 ---
 
@@ -110,7 +110,7 @@ Knowing what the register does not contain is equally important — particularly
 
 **Certified extracts (beglaubigte Auszüge)** carry an official cantonal stamp and signature. They are required for notarial transactions, bank account openings, cross-border corporate filings, and anywhere a counterparty needs a legally authenticated document. These are ordered directly from the cantonal Handelsregisteramt — online in most cantons — and typically issued within one to three business days. Fees range from CHF 20 to CHF 35 per extract depending on the canton.
 
-For canton-specific contact details and ordering procedures, see our guide on [Commercial Register cantonal offices](/blog/commercial-register-cantons/).
+For canton-specific contact details and ordering procedures, see our guide on [Commercial Register cantonal offices](/company-formation/commercial-register-cantons/).
 
 ---
 
@@ -156,7 +156,7 @@ No. AG shareholders are not recorded in the Swiss Commercial Register and are no
 
 **How long does it take to complete an initial registration?**
 
-For a standard GmbH or AG, registration typically takes five to ten business days from the date of notarial deed execution, assuming the filing is complete and correctly prepared. Zug and Zurich are among the faster cantonal offices. The company has no legal existence as an AG or GmbH until the entry appears in the register — the notarial deed alone is not sufficient. See our guide on [company formation in Switzerland](/blog/company-formation-switzerland/) for the full process and timeline.
+For a standard GmbH or AG, registration typically takes five to ten business days from the date of notarial deed execution, assuming the filing is complete and correctly prepared. Zug and Zurich are among the faster cantonal offices. The company has no legal existence as an AG or GmbH until the entry appears in the register — the notarial deed alone is not sufficient. See our guide on [company formation in Switzerland](/company-formation/company-formation-switzerland/) for the full process and timeline.
 
 **What happens if I do not register a change to my company's directors?**
 

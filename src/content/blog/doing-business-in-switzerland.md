@@ -1,9 +1,9 @@
 ---
-title: "Doing Business in Switzerland: The Investor's Legal Guide (2026)"
+title: "Doing Business in Switzerland: Investor's Guide"
 description: "Doing business in Switzerland in 2026: entity types, cantonal taxes, banking, employment, IP, and dispute resolution. Practical guide from Lawsupport, Zug."
 date: "19.03.2026"
 category: "Company Formation"
-categoryHref: "/services/company-formation/"
+categoryHref: "/company-formation/"
 readTime: "14 min read"
 tocItems:
   - id: "why-switzerland-the-business-case-in-numbers"
@@ -66,7 +66,7 @@ Doing business in Switzerland offers a stable, predictable environment where com
 
 This guide is written for international investors, CFOs, and founders evaluating Switzerland as a place to incorporate, operate, or expand. It covers the full business lifecycle — from choosing a legal entity to opening a bank account, hiring employees, protecting intellectual property, and resolving disputes. Where relevant, it points to dedicated guides that go deeper on each topic.
 
-Lawsupport has assisted with [1,000+ company formations](/blog/company-formation-switzerland/) for clients from over 40 countries. The observations here are grounded in 18+ years of practitioner experience.
+Lawsupport has assisted with [1,000+ company formations](/company-formation/company-formation-switzerland/) for clients from over 40 countries. The observations here are grounded in 18+ years of practitioner experience.
 
 ---
 
@@ -104,15 +104,15 @@ Understanding the federal/cantonal distinction is essential to operating in Swit
 
 The Gesellschaft mit beschränkter Haftung (GmbH) is the Swiss equivalent of a private limited company. It is the most common structure for foreign-owned operating companies and subsidiaries. The minimum share capital is CHF 20,000, fully paid up. Management is exercised by one or more managers (Geschäftsführer), at least one of whom must be a Swiss resident.
 
-The GmbH is registered in the [Commercial Register](/blog/commercial-register-switzerland/) and offers limited liability to its shareholders. It is well-suited to operating businesses, professional service firms, and holding structures where a close-held ownership structure is appropriate.
+The GmbH is registered in the [Commercial Register](/company-formation/commercial-register-switzerland/) and offers limited liability to its shareholders. It is well-suited to operating businesses, professional service firms, and holding structures where a close-held ownership structure is appropriate.
 
-For a full comparison of Swiss entity types, see our [company formation in Switzerland guide](/blog/company-formation-switzerland/).
+For a full comparison of Swiss entity types, see our [company formation in Switzerland guide](/company-formation/company-formation-switzerland/).
 
 ### The AG (Swiss Corporation)
 
 The Aktiengesellschaft (AG) is the Swiss public or private corporation. It requires a minimum share capital of CHF 100,000, of which at least 50% (CHF 50,000) must be paid up at formation. The AG is governed by a board of directors (Verwaltungsrat), at least one member of which must be a Swiss resident authorised to represent the company.
 
-The AG is the preferred structure for companies anticipating external investment, public listing, or complex governance arrangements. It offers greater flexibility in structuring share classes, transferring ownership, and accommodating institutional investors. See our dedicated guide to [AG formation in Switzerland](/blog/ag-formation-switzerland/).
+The AG is the preferred structure for companies anticipating external investment, public listing, or complex governance arrangements. It offers greater flexibility in structuring share classes, transferring ownership, and accommodating institutional investors. See our dedicated guide to [AG formation in Switzerland](/company-formation/ag-formation-switzerland/).
 
 ---
 
@@ -120,7 +120,7 @@ The AG is the preferred structure for companies anticipating external investment
 
 ### Corporate Income Tax: A Wide Range
 
-One of the most consequential decisions when [starting a business in Switzerland](/blog/start-business-switzerland/) is the choice of canton. Swiss corporate income tax is levied at three levels: federal, cantonal, and municipal. The **combined effective corporate tax rate** varies significantly by location:
+One of the most consequential decisions when [starting a business in Switzerland](/company-formation/start-business-switzerland/) is the choice of canton. Swiss corporate income tax is levied at three levels: federal, cantonal, and municipal. The **combined effective corporate tax rate** varies significantly by location:
 
 | Canton | Effective Combined CIT Rate (approx.) |
 |---|---|
@@ -134,9 +134,9 @@ One of the most consequential decisions when [starting a business in Switzerland
 
 These figures reflect the combined federal (8.5% on profit after tax, effectively ~7.83%), cantonal, and municipal rates. For a company generating CHF 1,000,000 in profit annually, the difference between incorporating in Zug versus Bern is approximately CHF 90,000 per year in corporate tax. Over a decade, the cumulative impact is material.
 
-Zug is the most recognised low-tax canton, home to thousands of international holding and operating companies. Other low-tax cantons — Nidwalden, Lucerne, Schaffhausen — offer similar rates with different infrastructure profiles. For a [cantonal tax comparison](/blog/cantonal-tax-comparison-switzerland/), see our dedicated guide.
+Zug is the most recognised low-tax canton, home to thousands of international holding and operating companies. Other low-tax cantons — Nidwalden, Lucerne, Schaffhausen — offer similar rates with different infrastructure profiles. For a [cantonal tax comparison](/tax-accounting/cantonal-tax-comparison-switzerland/), see our dedicated guide.
 
-For a detailed breakdown of [Swiss corporate tax](/blog/corporate-tax-switzerland/), including cantonal rates, the federal tax base, and tax planning considerations, see our dedicated guide.
+For a detailed breakdown of [Swiss corporate tax](/tax-accounting/corporate-tax-switzerland/), including cantonal rates, the federal tax base, and tax planning considerations, see our dedicated guide.
 
 ---
 
@@ -144,7 +144,7 @@ For a detailed breakdown of [Swiss corporate tax](/blog/corporate-tax-switzerlan
 
 ### Participation Exemption
 
-Switzerland operates a full **participation exemption** regime. Capital gains and dividend income from qualifying participations (generally 10%+ shareholding or CHF 1 million market value) are either fully exempt or subject to a substantial reduction in effective tax. This makes Switzerland a highly efficient [holding company](/blog/holding-company-switzerland/) jurisdiction, particularly for groups managing international investment portfolios.
+Switzerland operates a full **participation exemption** regime. Capital gains and dividend income from qualifying participations (generally 10%+ shareholding or CHF 1 million market value) are either fully exempt or subject to a substantial reduction in effective tax. This makes Switzerland a highly efficient [holding company](/company-formation/holding-company-switzerland/) jurisdiction, particularly for groups managing international investment portfolios.
 
 ### IP Box / Patent Box
 
@@ -152,11 +152,11 @@ All Swiss cantons are required to offer an **IP Box regime** (Patent Box) under 
 
 ### Withholding Tax on Dividends
 
-Switzerland levies a **35% withholding tax** on dividend distributions to shareholders. However, this rate is substantially reduced or eliminated under Switzerland's extensive network of double tax treaties. For EU-based shareholders, the EU–Switzerland Savings Agreement and bilateral arrangements allow for refunds or reduced rates; for other jurisdictions, treaty rates typically reduce withholding to 5–15%. Proper structuring is essential to managing [withholding tax](/blog/withholding-tax-switzerland/) efficiently.
+Switzerland levies a **35% withholding tax** on dividend distributions to shareholders. However, this rate is substantially reduced or eliminated under Switzerland's extensive network of double tax treaties. For EU-based shareholders, the EU–Switzerland Savings Agreement and bilateral arrangements allow for refunds or reduced rates; for other jurisdictions, treaty rates typically reduce withholding to 5–15%. Proper structuring is essential to managing [withholding tax](/tax-accounting/withholding-tax-switzerland/) efficiently.
 
 ### Value Added Tax (VAT)
 
-Switzerland's standard **VAT rate is 8.1%** (following the 2024 increase from 7.7%). Reduced rates of 2.6% apply to essential goods (food, books, medicines), and 3.8% applies to accommodation services. Businesses must register for [VAT](/blog/vat-switzerland/) once their worldwide taxable turnover exceeds **CHF 100,000 per year**. Voluntary registration is available below this threshold.
+Switzerland's standard **VAT rate is 8.1%** (following the 2024 increase from 7.7%). Reduced rates of 2.6% apply to essential goods (food, books, medicines), and 3.8% applies to accommodation services. Businesses must register for [VAT](/tax-accounting/vat-switzerland/) once their worldwide taxable turnover exceeds **CHF 100,000 per year**. Voluntary registration is available below this threshold.
 
 ### Wealth Tax and Inheritance Tax
 
@@ -172,9 +172,9 @@ Switzerland's banking infrastructure is among the most sophisticated in the worl
 
 ### The Reality of Corporate Account Opening
 
-Opening a [Swiss corporate bank account](/blog/corporate-bank-account-switzerland/) is not a formality. Swiss banks operate under strict anti-money laundering obligations under the Anti-Money Laundering Act (AMLA/GwG), and due diligence requirements for foreign-owned companies are extensive. For companies without professional guidance, rejection rates of **20–30%** are not uncommon. Banks require certified corporate documents, full beneficial ownership disclosure, business plans, and evidence of genuine Swiss nexus.
+Opening a [Swiss corporate bank account](/banking/corporate-bank-account-switzerland/) is not a formality. Swiss banks operate under strict anti-money laundering obligations under the Anti-Money Laundering Act (AMLA/GwG), and due diligence requirements for foreign-owned companies are extensive. For companies without professional guidance, rejection rates of **20–30%** are not uncommon. Banks require certified corporate documents, full beneficial ownership disclosure, business plans, and evidence of genuine Swiss nexus.
 
-The typical timeline from application to operational account is **4–8 weeks** — longer for regulated sectors or complex ownership structures. A [capital deposit account](/blog/capital-deposit-account-switzerland/) is required at the formation stage to pay in share capital. Engaging a formation and compliance adviser significantly improves both timeline and approval probability.
+The typical timeline from application to operational account is **4–8 weeks** — longer for regulated sectors or complex ownership structures. A [capital deposit account](/banking/capital-deposit-account-switzerland/) is required at the formation stage to pay in share capital. Engaging a formation and compliance adviser significantly improves both timeline and approval probability.
 
 ---
 
@@ -197,7 +197,7 @@ Employers in Switzerland must enrol employees in the following mandatory social 
 - **UVG**: Accident insurance (occupational and non-occupational). Employer covers occupational accident; non-occupational accident is typically employee-deducted.
 - **BVG/LPP**: Occupational pension (second pillar). Mandatory for employees earning above CHF 22,050; contribution rates vary by age.
 
-For the full process of registering as an employer, see our [employer registration Switzerland](/blog/employer-registration-switzerland/) guide. To understand work authorisation requirements for foreign hires, see our [work permit Switzerland](/blog/work-permit-switzerland/) guide.
+For the full process of registering as an employer, see our [employer registration Switzerland](/tax-accounting/employer-registration-switzerland/) guide. To understand work authorisation requirements for foreign hires, see our [work permit Switzerland](/immigration/work-permit-switzerland/) guide.
 
 ---
 
@@ -209,7 +209,7 @@ Switzerland offers strong, internationally recognised IP protection administered
 
 Trademark and design protection in Switzerland is obtained through the IGE, either directly or via international registration under the Madrid Protocol. Swiss trademark registration provides protection for 10 years, renewable indefinitely. Design protection lasts up to 25 years from registration.
 
-For businesses with brand assets or visual designs requiring Swiss protection, see our [trademark registration guide](/blog/trademark-registration-switzerland/) and our guide to [IP protection in Switzerland](/blog/ip-protection-switzerland/).
+For businesses with brand assets or visual designs requiring Swiss protection, see our [trademark registration guide](/intellectual-property/trademark-registration-switzerland/) and our guide to [IP protection in Switzerland](/intellectual-property/ip-protection-switzerland/).
 
 ### The IP Box in Practice
 
@@ -223,7 +223,7 @@ The majority of business activities in Switzerland can be commenced without sect
 
 However, several sectors are subject to dedicated federal regulatory oversight:
 
-- **Financial services**: FINMA (Eidgenössische Finanzmarktaufsicht) regulates banks, insurance companies, securities firms, collective investment schemes, financial market infrastructure, and distributed ledger technology (DLT) service providers. Operating a regulated financial service without a FINMA licence is a criminal offence. For fintech, asset management, and crypto businesses, see our [FINMA licensing guide](/blog/finma-licensing-switzerland/) and [crypto licence guide](/blog/crypto-license-switzerland/).
+- **Financial services**: FINMA (Eidgenössische Finanzmarktaufsicht) regulates banks, insurance companies, securities firms, collective investment schemes, financial market infrastructure, and distributed ledger technology (DLT) service providers. Operating a regulated financial service without a FINMA licence is a criminal offence. For fintech, asset management, and crypto businesses, see our [FINMA licensing guide](/licensing/finma-licensing-switzerland/) and [crypto licence guide](/licensing/crypto-license-switzerland/).
 - **Pharmaceuticals and medical devices**: Swissmedic authorises pharmaceutical products and supervises the pharmaceutical industry.
 - **Food, hospitality, and gastronomy**: Subject to cantonal licensing, typically administered by the relevant cantonal authority.
 - **Real estate brokerage, legal services, and certain professional activities**: Subject to cantonal or professional body regulation.
@@ -292,9 +292,9 @@ The **Swiss International Arbitration Centre** in Geneva is one of the leading v
 Operating a business in Switzerland as a foreign national or foreign-owned entity involves several practical constraints worth understanding in advance:
 
 1. **Banking timeline**: Allow 4–8 weeks for a corporate account to become operational. Preparation of due diligence documentation in advance is essential.
-2. **Swiss resident director requirement**: Both the AG and GmbH require at least one Swiss-resident authorised signatory on the board or management. International investors who do not personally reside in Switzerland must arrange a qualified [nominee director](/blog/nominee-director-switzerland/) through a service provider.
+2. **Swiss resident director requirement**: Both the AG and GmbH require at least one Swiss-resident authorised signatory on the board or management. International investors who do not personally reside in Switzerland must arrange a qualified [nominee director](/corporate-services/nominee-director-switzerland/) through a service provider.
 3. **FINMA licensing for regulated activities**: If your business model touches financial services, asset management, payment processing, or crypto — even peripherally — obtain a regulatory opinion before commencing operations. Operating without a required FINMA licence carries criminal liability.
-4. **Language**: Switzerland has four official languages — German, French, Italian, and Romansh. English is the de facto language of international business and is widely used in Zurich and Geneva. However, regulatory correspondence, [Commercial Register](/blog/commercial-register-switzerland/) filings, and employment contracts may require translation into the relevant official cantonal language.
+4. **Language**: Switzerland has four official languages — German, French, Italian, and Romansh. English is the de facto language of international business and is widely used in Zurich and Geneva. However, regulatory correspondence, [Commercial Register](/company-formation/commercial-register-switzerland/) filings, and employment contracts may require translation into the relevant official cantonal language.
 5. **Substance requirements**: Switzerland's low-tax regime is legitimate, but international tax rules (BEPS Pillar Two, Swiss STAF reform) require that companies have genuine substance — real employees, real management, real operations — to benefit from low cantonal rates. Pure letterbox structures are increasingly non-compliant.
 
 ---
@@ -303,13 +303,13 @@ Operating a business in Switzerland as a foreign national or foreign-owned entit
 
 Lawsupport (Morgan Hartley Consulting GmbH), based in Zug — Switzerland's foremost business canton — provides end-to-end legal and compliance support for international businesses entering or operating in Switzerland. With 18+ years of experience and over 1,000 company formations for clients from 40+ countries, we provide:
 
-- **Company formation**: GmbH and AG incorporation, Commercial Register filing, notarial coordination — see our [company formation guide](/blog/company-formation-switzerland/)
+- **Company formation**: GmbH and AG incorporation, Commercial Register filing, notarial coordination — see our [company formation guide](/company-formation/company-formation-switzerland/)
 - **Banking introductions**: Managed introductions to Swiss banks, preparation of due diligence packages, optimisation of account opening timelines
-- **Tax structuring**: Cantonal selection, IP Box planning, participation structures, withholding tax analysis — see our [Swiss corporate tax guide](/blog/corporate-tax-switzerland/)
-- **FINMA licensing**: Regulatory scoping, licence applications, ongoing compliance — see our [FINMA licensing guide](/blog/finma-licensing-switzerland/)
+- **Tax structuring**: Cantonal selection, IP Box planning, participation structures, withholding tax analysis — see our [Swiss corporate tax guide](/tax-accounting/corporate-tax-switzerland/)
+- **FINMA licensing**: Regulatory scoping, licence applications, ongoing compliance — see our [FINMA licensing guide](/licensing/finma-licensing-switzerland/)
 - **Employment**: Employment contracts, social insurance enrolment, collective agreement analysis
-- **IP protection**: Trademark and design registration, IP Box structuring — see our [trademark registration guide](/blog/trademark-registration-switzerland/)
-- **Ongoing compliance**: Annual reporting, AGM support, director services, [accounting in Switzerland](/blog/accounting-switzerland/), and audit coordination
+- **IP protection**: Trademark and design registration, IP Box structuring — see our [trademark registration guide](/intellectual-property/trademark-registration-switzerland/)
+- **Ongoing compliance**: Annual reporting, AGM support, director services, [accounting in Switzerland](/tax-accounting/accounting-switzerland/), and audit coordination
 
 Whether you are forming a new Swiss entity, acquiring an existing Swiss business, or restructuring an international group, we provide clear, practical guidance from practitioners who operate in Switzerland daily.
 
@@ -328,7 +328,7 @@ Grafenauweg 4, Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch
 
-Or [start the company formation process here](/blog/start-business-switzerland/).
+Or [start the company formation process here](/company-formation/start-business-switzerland/).
 
 ---
 
@@ -372,7 +372,7 @@ Yes. At least one manager of a GmbH, or one board member of an AG, who is author
 
 **Q: Can a foreign company open a branch in Switzerland instead of incorporating a subsidiary?**
 
-Yes. A [branch office in Switzerland](/blog/branch-office-switzerland/) is an alternative to incorporating a separate legal entity. A branch is not a separate legal person — the foreign parent company remains fully liable for the branch's obligations. Branches must be registered in the Swiss Commercial Register and are subject to Swiss corporate and cantonal tax on Swiss-source income.
+Yes. A [branch office in Switzerland](/company-formation/branch-office-switzerland/) is an alternative to incorporating a separate legal entity. A branch is not a separate legal person — the foreign parent company remains fully liable for the branch's obligations. Branches must be registered in the Swiss Commercial Register and are subject to Swiss corporate and cantonal tax on Swiss-source income.
 
 ---
 

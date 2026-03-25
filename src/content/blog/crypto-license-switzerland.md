@@ -1,9 +1,9 @@
 ---
-title: "Crypto Licence Switzerland: FINMA Licensing & VASP Registration Guide (2026)"
+title: "Crypto Licence Switzerland: FINMA & VASP Guide"
 description: "Get a crypto licence in Switzerland in 2026. Covers FINMA licensing, VASP registration, DLT Act, SRO membership via VQF, FinTech and banking licences."
 date: "19.03.2026"
 category: "Licensing & Permits"
-categoryHref: "/services/financial-licensing/"
+categoryHref: "/licensing/"
 readTime: "21 min read"
 tocItems:
   - id: "why-switzerland-for-crypto-licensing"
@@ -84,7 +84,7 @@ The DLT Act introduced three critical legal innovations:
 
 **DLT register securities:** The Act formalises the concept of securities recorded on a distributed ledger and sets out the legal requirements for a register to qualify — including decentralisation criteria, integrity protections, and the rights of token holders.
 
-**DLT trading facilities:** The Act created an entirely new licence category — the DLT trading facility — for platforms that trade tokenised securities. This is a lighter regulatory category than a full stock exchange, purpose-built for the crypto securities context. See our full guide to the [DLT trading facility Switzerland](/blog/dlt-trading-facility-switzerland/).
+**DLT trading facilities:** The Act created an entirely new licence category — the DLT trading facility — for platforms that trade tokenised securities. This is a lighter regulatory category than a full stock exchange, purpose-built for the crypto securities context. See our full guide to the [DLT trading facility Switzerland](/licensing/dlt-trading-facility-switzerland/).
 
 **Insolvency protection for crypto assets:** Under the revised Banking Act, crypto assets held in custody by an institution are now treated as segregated assets in insolvency. If your Swiss custodian fails, your crypto assets are not part of the bankruptcy estate. This is a protection many other jurisdictions still have not legislated.
 
@@ -100,7 +100,7 @@ Zug Canton is where Switzerland's crypto ecosystem is concentrated. Ethereum Fou
 
 Zug's effective corporate tax rate is approximately 11.8%, among the lowest in Switzerland. Switzerland has no capital gains tax for private investors and offers favourable tax treatment for holding companies. For a crypto business, these are meaningful structural advantages.
 
-For more on forming the right Swiss entity for your crypto business, see our guide to [company formation in Zug](/blog/company-formation-zug/).
+For more on forming the right Swiss entity for your crypto business, see our guide to [company formation in Zug](/company-formation/company-formation-zug/).
 
 ---
 
@@ -166,7 +166,7 @@ VASP registration is not optional. Operating as an AMLA financial intermediary i
 
 Most crypto businesses in Switzerland satisfy their AMLA registration requirement through membership in a Self-Regulatory Organisation (SRO). SROs are industry associations recognised by FINMA that apply and enforce AML rules among their members. SRO membership is the standard, practical path for crypto intermediaries.
 
-**VQF (Verein zur Qualitätssicherung von Finanzdienstleistungen)** is the principal SRO for Swiss crypto businesses. It has over 1,000 members, a dedicated crypto working group, and experienced staff who understand the particular AML challenges of blockchain businesses — pseudonymous counterparties, DeFi interactions, cross-border transactions, Travel Rule compliance. VQF membership is widely recognised and respected by Swiss banks, which matters when you are trying to open a [corporate bank account in Switzerland](/blog/corporate-bank-account-switzerland/) for a crypto business.
+**VQF (Verein zur Qualitätssicherung von Finanzdienstleistungen)** is the principal SRO for Swiss crypto businesses. It has over 1,000 members, a dedicated crypto working group, and experienced staff who understand the particular AML challenges of blockchain businesses — pseudonymous counterparties, DeFi interactions, cross-border transactions, Travel Rule compliance. VQF membership is widely recognised and respected by Swiss banks, which matters when you are trying to open a [corporate bank account in Switzerland](/banking/corporate-bank-account-switzerland/) for a crypto business.
 
 **PolyReg** is another FINMA-recognised SRO and a viable alternative to VQF. PolyReg has a smaller membership but an established track record and is appropriate for businesses that may not fit the VQF model.
 
@@ -236,7 +236,7 @@ Obtaining a new Swiss banking licence is a major undertaking:
 
 The banking licence is appropriate for businesses that intend to operate at institutional scale from the outset. For most crypto projects, the SRO/VASP or FinTech licence route is more appropriate.
 
-For detail on FINMA licensing generally, see our [FINMA licensing Switzerland](/blog/finma-licensing-switzerland/) guide.
+For detail on FINMA licensing generally, see our [FINMA licensing Switzerland](/licensing/finma-licensing-switzerland/) guide.
 
 ---
 
@@ -329,7 +329,7 @@ One of the most practical challenges for crypto businesses in Switzerland — an
 
 The practical advice: VQF membership significantly improves your prospects with Swiss banks. Banks want to see that your AML compliance is independently supervised. An SRO membership certificate from VQF is a credible signal. FINMA licensing is even stronger. Both are necessary but not always sufficient — you will still go through the bank's own KYC process.
 
-For guidance on opening a corporate bank account for your crypto business, see our [corporate bank account Switzerland](/blog/corporate-bank-account-switzerland/) guide.
+For guidance on opening a corporate bank account for your crypto business, see our [corporate bank account Switzerland](/banking/corporate-bank-account-switzerland/) guide.
 
 ---
 
@@ -412,11 +412,11 @@ We provide:
 
 **AML programme development:** We write AML/KYC programmes that pass VQF and FINMA scrutiny because they are built around the specific operational realities of your business, not adapted from a generic template.
 
-**Swiss entity formation:** AG, GmbH, or foundation — we manage the full incorporation process from notarial appointment to commercial registry entry and post-incorporation setup. See our [company formation in Switzerland](/blog/company-formation-switzerland/) and [company formation in Zug](/blog/company-formation-zug/) services.
+**Swiss entity formation:** AG, GmbH, or foundation — we manage the full incorporation process from notarial appointment to commercial registry entry and post-incorporation setup. See our [company formation in Switzerland](/company-formation/company-formation-switzerland/) and [company formation in Zug](/company-formation/company-formation-zug/) services.
 
 **Foundation structuring:** For token-issuing projects, we advise on the foundation structure, the foundation–operating company relationship, the foundation charter, the purpose statement, and the interface between foundation governance and tokenomics.
 
-**Banking introduction:** We work with the right Swiss banks for crypto clients and facilitate introductions backed by properly prepared KYC files. See our [corporate bank account Switzerland](/blog/corporate-bank-account-switzerland/) service.
+**Banking introduction:** We work with the right Swiss banks for crypto clients and facilitate introductions backed by properly prepared KYC files. See our [corporate bank account Switzerland](/banking/corporate-bank-account-switzerland/) service.
 
 **FINMA licensing for complex structures:** For clients requiring FinTech licences, securities firm licences, or DLT trading facility licences, we manage the FINMA engagement directly, including pre-application meetings, application preparation, and licence condition implementation.
 

@@ -4,7 +4,7 @@ description: "US persons face unique FATCA compliance hurdles with Swiss banking
 date: "19.03.2026"
 publishDate: "2026-05-13"
 category: "Banking & Finance"
-categoryHref: "/blog/"
+categoryHref: "/banking/"
 readTime: "14 min read"
 faqItems:
   - question: "Can a US citizen open a Swiss bank account without moving to Switzerland?"
@@ -72,7 +72,7 @@ The options are narrower than most people expect, but they do exist. They differ
 ### Larger and Private Banks
 
 - **UBS**: Accepts US persons, but typically for private banking relationships with substantial minimum asset levels (often CHF 500,000 and above for non-resident accounts). Not a realistic option for a startup or small business owner.
-- **Julius Baer**: Similarly positioned in the [private banking](/blog/private-banking-switzerland/) space. US persons are accepted as clients, FATCA reporting is in place, but the entry bar is high.
+- **Julius Baer**: Similarly positioned in the [private banking](/banking/private-banking-switzerland/) space. US persons are accepted as clients, FATCA reporting is in place, but the entry bar is high.
 - **Zuercher Kantonalbank (ZKB)**: ZKB accepts some US-person clients, particularly those with Swiss residence or Swiss corporate ties. More accessible than pure private banks, but still selective with US persons.
 
 ### Crypto-Native Swiss Banks
@@ -112,13 +112,13 @@ This is not a bureaucratic technicality that can be worked around with the right
 
 The banks that do accept US persons for personal accounts require private banking-level assets. If you have CHF 500,000 or more to deposit, UBS or Julius Baer may have a conversation with you. If you are looking for a standard current account, the answer from Swiss banks will be no.
 
-For non-resident foreign nationals generally, Swiss banking is already restricted. For US persons specifically, the restrictions are the most severe. See our guide on [Swiss bank accounts for non-residents](/blog/swiss-bank-account-non-residents/) for a broader look at this issue.
+For non-resident foreign nationals generally, Swiss banking is already restricted. For US persons specifically, the restrictions are the most severe. See our guide on [Swiss bank accounts for non-residents](/banking/swiss-bank-account-non-residents/) for a broader look at this issue.
 
 ---
 
 ## Swiss Bank Account for US Citizens Living in Switzerland
 
-The situation changes substantially if you are a US citizen who has moved to Switzerland -- as a resident with a valid residence permit ([L permit](/blog/l-permit-switzerland/), [B permit](/blog/b-permit-switzerland/), or [C permit](/blog/c-permit-switzerland/)) and Swiss-registered address.
+The situation changes substantially if you are a US citizen who has moved to Switzerland -- as a resident with a valid residence permit ([L permit](/immigration/l-permit-switzerland/), [B permit](/immigration/b-permit-switzerland/), or [C permit](/immigration/c-permit-switzerland/)) and Swiss-registered address.
 
 Swiss banks do accept US-person residents for standard banking. When a person lives and works in Switzerland, the bank has a legitimate, ongoing relationship to support. FATCA reporting still applies -- your account information will still be reported to the IRS -- but the bank will not refuse you an account solely because of your US citizenship.
 
@@ -128,13 +128,13 @@ If you are a US citizen relocating to Switzerland, your first task is establishi
 
 ## Swiss Corporate Account for a US-Owned Company: The Most Viable Path
 
-For US entrepreneurs and business owners who need access to Swiss banking, forming a Swiss company and opening a [corporate bank account](/blog/corporate-bank-account-switzerland/) is the most realistic route.
+For US entrepreneurs and business owners who need access to Swiss banking, forming a Swiss company and opening a [corporate bank account](/banking/corporate-bank-account-switzerland/) is the most realistic route.
 
 A Swiss GmbH (Gesellschaft mit beschraenkter Haftung) or AG (Aktiengesellschaft) with a US person as shareholder or director can open a corporate bank account in Switzerland. The account belongs to the Swiss legal entity, not to you personally. FATCA reporting still applies -- the bank will identify you as a US person controlling the entity and report accordingly -- but the corporate structure is far more palatable to Swiss banks than a personal account for a non-resident American.
 
 This is the path we work through most frequently with US clients. It requires more upfront structure -- you need a Swiss company first -- but it opens access to Swiss banking infrastructure that would otherwise be unavailable.
 
-Learn more about [company formation in Switzerland](/blog/company-formation-switzerland/).
+Learn more about [company formation in Switzerland](/company-formation/company-formation-switzerland/).
 
 ### KYC Requirements for US-Person-Owned Swiss Companies
 
@@ -175,7 +175,7 @@ Despite the complexity, there are legitimate business reasons why a US person op
 
 - **CHF accounts for currency hedging**: The Swiss franc is a stable reserve currency. Holding CHF is meaningful for businesses with European liabilities.
 - **SWIFT and European payment infrastructure**: A Swiss IBAN facilitates EUR and CHF payments across Europe with credibility and reliability.
-- **Swiss entity for international holding structures**: A Swiss [holding company](/blog/holding-company-switzerland/) (particularly in Zug, which has favourable cantonal tax treatment) is a recognised structure for international operations.
+- **Swiss entity for international holding structures**: A Swiss [holding company](/company-formation/holding-company-switzerland/) (particularly in Zug, which has favourable cantonal tax treatment) is a recognised structure for international operations.
 - **Counterparty credibility**: European business partners and suppliers often respond differently to a Swiss company with a Swiss IBAN than to a US company paying via wire transfer.
 - **Separation of operational entities**: US entrepreneurs building European-facing businesses may need a European legal and banking presence entirely distinct from their US entity.
 
@@ -183,7 +183,7 @@ Despite the complexity, there are legitimate business reasons why a US person op
 
 ## Steps to Open a Swiss Corporate Bank Account as a US Company Owner
 
-1. **Form a Swiss AG or GmbH.** This is the prerequisite. Without a registered Swiss company, corporate account access is not possible. Lawsupport handles Swiss [company formation](/blog/company-formation-switzerland/) from start to finish, including registered address in Zug, director services if needed, and Handelsregister registration.
+1. **Form a Swiss AG or GmbH.** This is the prerequisite. Without a registered Swiss company, corporate account access is not possible. Lawsupport handles Swiss [company formation](/company-formation/company-formation-switzerland/) from start to finish, including registered address in Zug, director services if needed, and Handelsregister registration.
 
 2. **Select a FATCA-compliant Swiss bank that accepts US-person-owned entities.** Not all do. We advise clients on which banks are currently onboarding US-person-controlled companies based on current market conditions.
 
@@ -241,7 +241,7 @@ This varies by bank. Some cantonal banks require an initial deposit equivalent t
 
 **Can I use a Swiss bank account for my US-based business without forming a Swiss company?**
 
-No. Swiss banks will not open a corporate account for a foreign entity that has no Swiss registration. You need either a Swiss subsidiary (GmbH or AG) or a [branch office](/blog/branch-office-switzerland/) registered in Switzerland to hold a Swiss corporate bank account.
+No. Swiss banks will not open a corporate account for a foreign entity that has no Swiss registration. You need either a Swiss subsidiary (GmbH or AG) or a [branch office](/company-formation/branch-office-switzerland/) registered in Switzerland to hold a Swiss corporate bank account.
 
 **Do Swiss banks charge higher fees for US person accounts?**
 
@@ -268,10 +268,10 @@ For authoritative information on FATCA requirements, see the <a href="https://ww
 ---
 
 **Related guides:**
-- [Swiss Bank Account Overview](/blog/swiss-bank-account/)
-- [Corporate Bank Account in Switzerland](/blog/corporate-bank-account-switzerland/)
-- [Swiss Bank Accounts for Non-Residents](/blog/swiss-bank-account-non-residents/)
-- [Capital Deposit Account Switzerland](/blog/capital-deposit-account-switzerland/)
+- [Swiss Bank Account Overview](/banking/swiss-bank-account/)
+- [Corporate Bank Account in Switzerland](/banking/corporate-bank-account-switzerland/)
+- [Swiss Bank Accounts for Non-Residents](/banking/swiss-bank-account-non-residents/)
+- [Capital Deposit Account Switzerland](/banking/capital-deposit-account-switzerland/)
 
 ---
 

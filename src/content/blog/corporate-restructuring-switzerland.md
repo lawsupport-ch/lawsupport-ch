@@ -3,7 +3,7 @@ title: "Corporate Restructuring Switzerland: Full Guide (2026)"
 description: "Swiss corporate restructuring under the Merger Act (FusG): mergers, demergers, conversions. Process, timeline, and tax treatment. Free assessment."
 date: "19.03.2026"
 category: "Corporate Transactions"
-categoryHref: "/blog/"
+categoryHref: "/corporate-transactions/"
 readTime: "8 min read"
 tocItems:
   - id: "the-swiss-merger-act-fusg-core-architecture"
@@ -109,7 +109,7 @@ The most operationally straightforward FusG transaction is a **conversion (*Umwa
 
 The AG structure is required — or strongly preferred — when a company intends to issue multiple share classes, bring in institutional investors, list on a stock exchange, or operate in sectors where the AG carries greater credibility (banking, insurance, regulated industries). The minimum share capital for an AG is CHF 100,000 (at least CHF 50,000 paid in); for a GmbH it is CHF 20,000. If a GmbH has grown to a point where capital structure flexibility matters, conversion is the logical next step.
 
-For details on the two main Swiss company forms, see our guides on [GmbH formation Switzerland](/blog/gmbh-formation-switzerland/) and [AG formation Switzerland](/blog/ag-formation-switzerland/).
+For details on the two main Swiss company forms, see our guides on [GmbH formation Switzerland](/company-formation/gmbh-formation-switzerland/) and [AG formation Switzerland](/company-formation/ag-formation-switzerland/).
 
 **Process and timeline:**
 
@@ -143,7 +143,7 @@ Swiss restructuring law and Swiss tax law are designed to work together. Qualify
 
 Each restructuring triggers new tax filings at the Commercial Register level, and the competent cantonal tax authorities must be notified. If tax neutrality conditions are breached within the five-year holding period, hidden reserves are taxed in full in the year of the breach. Document your tax position at the time of the restructuring — it becomes the baseline for any future audit. Swiss tax law text is published at <a href="https://www.fedlex.admin.ch" target="_blank" rel="nofollow noopener">fedlex.admin.ch</a>.
 
-For holding structures and the participation exemption, see our guide on [holding companies in Switzerland](/blog/holding-company-switzerland/). For the full picture, see [corporate tax in Switzerland](/blog/corporate-tax-switzerland/).
+For holding structures and the participation exemption, see our guide on [holding companies in Switzerland](/company-formation/holding-company-switzerland/). For the full picture, see [corporate tax in Switzerland](/tax-accounting/corporate-tax-switzerland/).
 
 ---
 
@@ -198,10 +198,10 @@ Restructuring a Swiss company involves coordinating company law, tax law, audito
 **Morgan Hartley** | Senior Corporate Lawyer & Partner, Lawsupport (Morgan Hartley Consulting GmbH), advises Swiss and international clients on the full range of FusG transactions: mergers, spin-offs, divisions, conversions, and asset transfers. We coordinate the legal documentation, the auditor engagement, the SHAB publication, and the Commercial Register filings, and we work with your tax advisers to structure each transaction for maximum tax efficiency.
 
 For related topics, see:
-- [Company formation in Switzerland](/blog/company-formation-switzerland/)
-- [Corporate tax in Switzerland](/blog/corporate-tax-switzerland/)
-- [Holding companies in Switzerland](/blog/holding-company-switzerland/)
-- [AG formation Switzerland](/blog/ag-formation-switzerland/)
+- [Company formation in Switzerland](/company-formation/company-formation-switzerland/)
+- [Corporate tax in Switzerland](/tax-accounting/corporate-tax-switzerland/)
+- [Holding companies in Switzerland](/company-formation/holding-company-switzerland/)
+- [AG formation Switzerland](/company-formation/ag-formation-switzerland/)
 
 [Request a Free Assessment](/contacts/) — Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 

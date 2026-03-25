@@ -4,7 +4,7 @@ description: "Best accounting software for Swiss companies in 2026: Abacus, Sage
 date: "19.03.2026"
 publishDate: "2026-06-10"
 category: "Company Administration"
-categoryHref: "/blog/"
+categoryHref: "/corporate-services/"
 readTime: "11 min read"
 tocItems:
   - id: "swiss-accounting-compliance-requirements"
@@ -48,7 +48,7 @@ Before evaluating software, understand the key Swiss compliance requirements you
 
 Quarterly or semi-annual VAT reporting to the <a href="https://www.estv.admin.ch" target="_blank" rel="nofollow noopener">Swiss Federal Tax Administration (ESTV/AFC)</a>. Software must generate MWST/TVA-compliant returns.
 
-For a full overview of Swiss VAT obligations, see our guide to [VAT in Switzerland](/blog/vat-switzerland/).
+For a full overview of Swiss VAT obligations, see our guide to [VAT in Switzerland](/tax-accounting/vat-switzerland/).
 
 **Payroll deductions:**
 - AHV/IV/EO (old age, disability, maternity): 10.6% split employer/employee
@@ -123,7 +123,7 @@ Sage is a global accounting software provider with a dedicated Swiss version. Wi
 
 **Best for:** Very small companies, sole traders, associations, nonprofits
 
-Banana is a simple, inexpensive Swiss-developed accounting application. Popular with small [associations (Vereins)](/blog/swiss-association-verein/), freelancers, and small NGOs.
+Banana is a simple, inexpensive Swiss-developed accounting application. Popular with small [associations (Vereins)](/company-formation/swiss-association-verein/), freelancers, and small NGOs.
 
 **Swiss-specific features:**
 - Swiss VAT template
@@ -195,7 +195,7 @@ The right choice depends on your company size, structure, and whether you handle
 - **Fiduciary managing multiple clients:** Topal or Abacus
 - **Enterprise / multinational subsidiary:** SAP or Microsoft Dynamics 365
 
-If your company is newly formed and you are still [setting up your Swiss GmbH](/blog/gmbh-formation-switzerland/), most fiduciaries will recommend Bexio or Abacus depending on expected transaction volume. Starting with a simpler platform and migrating later is common and straightforward.
+If your company is newly formed and you are still [setting up your Swiss GmbH](/company-formation/gmbh-formation-switzerland/), most fiduciaries will recommend Bexio or Abacus depending on expected transaction volume. Starting with a simpler platform and migrating later is common and straightforward.
 
 ---
 
@@ -235,11 +235,11 @@ Under OR Art. 958f, Swiss companies must retain business books, accounting recor
 
 **Is an audit required for Swiss companies?**
 
-Swiss companies must undergo an ordinary audit if they exceed two of the following thresholds in two consecutive years: CHF 40 million in total assets, CHF 80 million in revenue, or 250 full-time employees. Smaller companies undergo a limited audit unless all shareholders agree to waive it (opting out). [Sole proprietorships](/blog/sole-proprietorship-switzerland/) below CHF 500'000 turnover are exempt from audit requirements.
+Swiss companies must undergo an ordinary audit if they exceed two of the following thresholds in two consecutive years: CHF 40 million in total assets, CHF 80 million in revenue, or 250 full-time employees. Smaller companies undergo a limited audit unless all shareholders agree to waive it (opting out). [Sole proprietorships](/company-formation/sole-proprietorship-switzerland/) below CHF 500'000 turnover are exempt from audit requirements.
 
 **Can I handle Swiss accounting from abroad?**
 
-Yes, provided you use software that meets Swiss compliance requirements or engage a Swiss-based fiduciary. Cloud platforms like Bexio and Xero allow remote access from anywhere. Most foreign founders of Swiss companies appoint a local fiduciary to manage [accounting obligations](/blog/accounting-switzerland/) rather than handling them directly.
+Yes, provided you use software that meets Swiss compliance requirements or engage a Swiss-based fiduciary. Cloud platforms like Bexio and Xero allow remote access from anywhere. Most foreign founders of Swiss companies appoint a local fiduciary to manage [accounting obligations](/tax-accounting/accounting-switzerland/) rather than handling them directly.
 
 ---
 

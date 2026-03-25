@@ -4,7 +4,7 @@ description: "Setting up a joint venture in Switzerland: contractual JV, company
 date: "19.03.2026"
 publishDate: "2026-04-23"
 category: "Company Formation"
-categoryHref: "/services/company-formation/"
+categoryHref: "/company-formation/"
 readTime: "6 min read"
 faqItems:
   - question: "Who governs the JV if the parties disagree?"
@@ -41,7 +41,7 @@ The simplest form: the parties enter into a JV agreement without creating a new 
 - No legal entity — the JV itself cannot own property or enter contracts in its own name
 - Each party remains individually liable for its own obligations
 - Joint liability: for obligations entered into jointly, partners are jointly and severally liable unless otherwise agreed
-- No [commercial register](/blog/commercial-register-switzerland/) filing required
+- No [commercial register](/company-formation/commercial-register-switzerland/) filing required
 
 **When appropriate:** Short-term projects, construction consortia, specific-purpose cooperations where creating a new company is disproportionate.
 
@@ -60,7 +60,7 @@ The parties form a new Swiss company (GmbH or AG) to carry out the JV business. 
 - Common in 50/50 JVs where both parties want veto rights over key decisions
 - Managing directors can be nominated by each party proportionally
 
-For more on the GmbH structure, see our [GmbH formation guide](/blog/gmbh-formation-switzerland/).
+For more on the GmbH structure, see our [GmbH formation guide](/company-formation/gmbh-formation-switzerland/).
 
 **AG as JV vehicle:**
 - Minimum capital: CHF 100'000
@@ -68,7 +68,7 @@ For more on the GmbH structure, see our [GmbH formation guide](/blog/gmbh-format
 - Better for JVs with unequal economic participation or where future capital rounds are anticipated
 - Board of directors governance with each party having board representation
 
-For AG-specific requirements, see our [AG formation guide](/blog/ag-formation-switzerland/).
+For AG-specific requirements, see our [AG formation guide](/company-formation/ag-formation-switzerland/).
 
 ---
 
@@ -87,11 +87,11 @@ For AG-specific requirements, see our [AG formation guide](/blog/ag-formation-sw
 
 ## Tax Considerations
 
-**Swiss JV company:** Subject to Swiss corporate income tax (cantonal + federal) on its profits. Dividends distributed to JV partners are subject to 35% Swiss withholding tax, refundable to qualifying treaty-resident partners. For details on Swiss corporate tax, see [corporate tax in Switzerland](/blog/corporate-tax-switzerland/).
+**Swiss JV company:** Subject to Swiss corporate income tax (cantonal + federal) on its profits. Dividends distributed to JV partners are subject to 35% Swiss withholding tax, refundable to qualifying treaty-resident partners. For details on Swiss corporate tax, see [corporate tax in Switzerland](/tax-accounting/corporate-tax-switzerland/).
 
 **Contractual JV (einfache Gesellschaft):** Tax-transparent — profits taxed at partner level, not JV level. More tax-efficient for many international structures.
 
-**Stamp duty:** Formation of a JV GmbH or AG with capital above CHF 1 million triggers 1% issuance [stamp duty](/blog/stamp-duty-switzerland/) on the excess.
+**Stamp duty:** Formation of a JV GmbH or AG with capital above CHF 1 million triggers 1% issuance [stamp duty](/tax-accounting/stamp-duty-switzerland/) on the excess.
 
 ---
 
@@ -104,7 +104,7 @@ Switzerland is a common JV location for European and international industrial an
 - Strong rule of law and reliable courts for dispute resolution
 - Access to Swiss banking for JV operations
 
-For an overview of what it takes to set up any type of business entity, see [company formation in Switzerland](/blog/company-formation-switzerland/).
+For an overview of what it takes to set up any type of business entity, see [company formation in Switzerland](/company-formation/company-formation-switzerland/).
 
 ---
 
@@ -116,7 +116,7 @@ The SHA and the statutory articles together set the governance framework. If the
 
 **Can a Swiss JV company be dissolved if the JV fails?**
 
-Yes — by voluntary liquidation under the <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en" target="_blank" rel="nofollow noopener">Code of Obligations</a> if the JV company is solvent, or by bankruptcy proceedings if insolvent. The SHA should specify the winding-down procedure. For more detail on the process, see [company liquidation in Switzerland](/blog/company-liquidation-switzerland/).
+Yes — by voluntary liquidation under the <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en" target="_blank" rel="nofollow noopener">Code of Obligations</a> if the JV company is solvent, or by bankruptcy proceedings if insolvent. The SHA should specify the winding-down procedure. For more detail on the process, see [company liquidation in Switzerland](/company-formation/company-liquidation-switzerland/).
 
 **Is a Swiss shareholders' agreement enforceable against successors?**
 
@@ -128,7 +128,7 @@ An AG requires minimum share capital of CHF 100'000, with at least 50% paid in a
 
 **Can foreign companies participate in a Swiss JV without a Swiss presence?**
 
-Yes. Foreign companies can hold shares in a Swiss JV GmbH or AG without having their own Swiss establishment. However, at least one person authorised to represent the JV company must be resident in Switzerland (a managing director for a GmbH, or a board member for an AG). A [nominee director](/blog/nominee-director-switzerland/) arrangement can satisfy this requirement.
+Yes. Foreign companies can hold shares in a Swiss JV GmbH or AG without having their own Swiss establishment. However, at least one person authorised to represent the JV company must be resident in Switzerland (a managing director for a GmbH, or a board member for an AG). A [nominee director](/corporate-services/nominee-director-switzerland/) arrangement can satisfy this requirement.
 
 **How are profits distributed in a Swiss JV company?**
 
@@ -136,7 +136,7 @@ Profits are distributed as dividends, subject to Swiss withholding tax of 35%. T
 
 **What due diligence should JV partners conduct before forming a Swiss JV?**
 
-Each party should conduct commercial, financial, and legal due diligence on the other. This includes verifying corporate standing, financial capacity, regulatory compliance, and reputation. In regulated sectors (banking, fintech, healthcare), additional regulatory due diligence is required. For guidance, see [due diligence in Switzerland](/blog/due-diligence-switzerland/).
+Each party should conduct commercial, financial, and legal due diligence on the other. This includes verifying corporate standing, financial capacity, regulatory compliance, and reputation. In regulated sectors (banking, fintech, healthcare), additional regulatory due diligence is required. For guidance, see [due diligence in Switzerland](/corporate-transactions/due-diligence-switzerland/).
 
 **Can a Swiss JV operate in multiple cantons?**
 

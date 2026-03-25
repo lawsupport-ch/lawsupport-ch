@@ -4,7 +4,7 @@ description: "Swiss Lex Koller (BewG) restricts foreign purchase of residential 
 date: "19.03.2026"
 publishDate: "2026-04-27"
 category: "Immigration"
-categoryHref: "/blog/"
+categoryHref: "/immigration/"
 readTime: "6 min read"
 faqItems:
   - question: "Can my Swiss company buy residential property for me?"
@@ -41,7 +41,7 @@ Lex Koller — officially the <a href="https://www.fedlex.admin.ch/eli/cc/1984/1
 
 Lex Koller restricts foreigners (Personen im Ausland) from acquiring Swiss residential real estate without cantonal authorisation. "Persons abroad" (auslaendische Personen) means:
 - Foreign nationals not residing in Switzerland
-- Foreign nationals residing in Switzerland but holding an [L permit](/blog/l-permit-switzerland/) (short-term) — generally restricted
+- Foreign nationals residing in Switzerland but holding an [L permit](/immigration/l-permit-switzerland/) (short-term) — generally restricted
 - Foreign-controlled Swiss legal entities whose beneficial owner is a non-resident foreign national
 - Swiss companies more than 50% owned by non-resident foreigners — generally subject to Lex Koller for residential property
 
@@ -51,7 +51,7 @@ Lex Koller restricts foreigners (Personen im Ausland) from acquiring Swiss resid
 
 **Swiss citizens:** No restriction at all.
 
-**EU/EFTA nationals with B permit or C permit:** Can purchase a primary residence in their canton of residence without authorisation. A [B permit](/blog/b-permit-switzerland/) holder can buy one primary residence in the canton where they are registered. A [C permit](/blog/c-permit-switzerland/) holder has equivalent rights to Swiss citizens for property purposes.
+**EU/EFTA nationals with B permit or C permit:** Can purchase a primary residence in their canton of residence without authorisation. A [B permit](/immigration/b-permit-switzerland/) holder can buy one primary residence in the canton where they are registered. A [C permit](/immigration/c-permit-switzerland/) holder has equivalent rights to Swiss citizens for property purposes.
 
 **Non-EU/EFTA nationals with C permit:** Can purchase their primary residence without Lex Koller authorisation.
 
@@ -88,7 +88,7 @@ In practice, the holiday apartment quota is largely exhausted in popular destina
 
 A Swiss company whose majority beneficial owner is a non-resident foreigner is generally treated as a "foreign person" for Lex Koller purposes when acquiring residential real estate. The company structure does not bypass the restriction.
 
-The exception: if the Swiss company is genuinely commercial and the real estate is for its business operations, Lex Koller does not apply. For more on structuring a Swiss entity, see our [company formation guide](/blog/company-formation-switzerland/).
+The exception: if the Swiss company is genuinely commercial and the real estate is for its business operations, Lex Koller does not apply. For more on structuring a Swiss entity, see our [company formation guide](/company-formation/company-formation-switzerland/).
 
 ---
 
@@ -114,7 +114,7 @@ Your immigration status determines your property rights under Lex Koller. The re
 | L permit | Restricted | Restricted | Unrestricted |
 | No permit (non-resident) | Restricted | Restricted (holiday quota) | Unrestricted |
 
-For a full overview of Swiss immigration categories, see [immigrate to Switzerland](/blog/immigrate-to-switzerland/).
+For a full overview of Swiss immigration categories, see [immigrate to Switzerland](/immigration/immigrate-to-switzerland/).
 
 ---
 

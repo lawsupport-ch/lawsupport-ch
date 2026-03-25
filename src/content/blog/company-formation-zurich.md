@@ -3,7 +3,7 @@ title: "Company Formation Zurich: Full Guide (2026)"
 description: "Form a company in Zurich: AG and GmbH registration, tax rates, and honest Zurich vs Zug comparison. Free assessment from Lawsupport."
 date: "19.03.2026"
 category: "Company Formation"
-categoryHref: "/services/company-formation/"
+categoryHref: "/company-formation/"
 readTime: "9 min read"
 tocItems:
   - id: "why-zurich-the-case-for-switzerlands-largest-city"
@@ -94,7 +94,7 @@ The gap between Zurich and Zug is approximately **7.9 percentage points**. On a 
 
 This is not an argument against Zurich. It is a factual input that should drive your decision. If your reasons for being in Zurich are strong, the tax cost may be entirely justified. If your reasons are vague ("Zurich just sounds better"), they probably are not.
 
-For a full breakdown of Swiss corporate tax by canton, see our guide to [corporate tax in Switzerland](/blog/corporate-tax-switzerland/).
+For a full breakdown of Swiss corporate tax by canton, see our guide to [corporate tax in Switzerland](/tax-accounting/corporate-tax-switzerland/).
 
 ---
 
@@ -110,7 +110,7 @@ Swiss company law is federal. The rules governing an AG (Aktiengesellschaft, or 
 - More complex governance structure; statutory auditor required above certain thresholds
 - Standard choice for holding companies, financial services entities, and larger operating businesses
 
-For a complete walkthrough, see our guide to [AG formation in Switzerland](/blog/ag-formation-switzerland/).
+For a complete walkthrough, see our guide to [AG formation in Switzerland](/company-formation/ag-formation-switzerland/).
 
 ### GmbH (Gesellschaft mit beschränkter Haftung)
 
@@ -119,7 +119,7 @@ For a complete walkthrough, see our guide to [AG formation in Switzerland](/blog
 - Simpler governance; lower setup and ongoing compliance costs
 - Standard choice for smaller operating companies, subsidiaries, and founder-owned businesses
 
-For a complete walkthrough, see our guide to [GmbH formation in Switzerland](/blog/gmbh-formation-switzerland/).
+For a complete walkthrough, see our guide to [GmbH formation in Switzerland](/company-formation/gmbh-formation-switzerland/).
 
 Both forms offer limited liability and full legal personality. Both can be used for virtually any business activity. The choice between them depends on your capital structure, governance needs, and future plans — not on which canton you register in.
 
@@ -133,7 +133,7 @@ The Zurich Commercial Register (Handelsregisteramt des Kantons Zürich) is one o
 
 **Notarial requirement.** Swiss law requires that the articles of association for both an AG and a GmbH be executed before a Swiss-qualified notary. The notary also certifies the founding meeting and prepares the certification documents submitted to the Commercial Register. You do not need to be physically present in Switzerland if you grant a power of attorney to a Swiss representative — which is how the majority of our international clients proceed.
 
-**Swiss-resident director requirement.** Under Article 718 of the Swiss Code of Obligations, at least one person authorised to represent the company (typically a director) must be resident in Switzerland. This applies to both AG and GmbH formations. If you do not have a Swiss-resident co-founder or director, you will need a nominee director. We provide this service — see our [nominee director services](/blog/nominee-director-switzerland/) for details.
+**Swiss-resident director requirement.** Under Article 718 of the Swiss Code of Obligations, at least one person authorised to represent the company (typically a director) must be resident in Switzerland. This applies to both AG and GmbH formations. If you do not have a Swiss-resident co-founder or director, you will need a nominee director. We provide this service — see our [nominee director services](/corporate-services/nominee-director-switzerland/) for details.
 
 Company entries in the register can be searched at <a href="https://www.zefix.ch" target="_blank" rel="nofollow noopener">zefix.ch</a>, the official Swiss commercial register portal run by the <a href="https://www.bj.admin.ch" target="_blank" rel="nofollow noopener">Federal Office of Justice</a>.
 
@@ -195,7 +195,7 @@ Zug outperforms Zurich in these situations:
 
 **You have no specific Zurich requirement.** Many international clients ask for Zurich because it is the most recognisable Swiss city. When we ask what specifically requires a Zurich presence, the answer is often "nothing in particular." In that case, Zug is the rational choice.
 
-For a full analysis of Zug as a formation jurisdiction, see our guide to [company formation in Zug](/blog/company-formation-zug/).
+For a full analysis of Zug as a formation jurisdiction, see our guide to [company formation in Zug](/company-formation/company-formation-zug/).
 
 ---
 
@@ -207,7 +207,7 @@ A company incorporated in Zug has its registered address and statutory seat in Z
 
 That same company can rent an office in Zurich, employ staff in Zurich, hold client meetings in Zurich, and present a Zurich operational address on its website and correspondence. Swiss law does not require a company to operate exclusively in its canton of registration.
 
-The practical requirement is that there is a genuine registered presence in Zug — a real registered address (not merely a mailbox), and at least one Swiss-resident director with a connection to that address. Our [virtual office and registered address services](/blog/virtual-office-switzerland/) cover this requirement for international clients.
+The practical requirement is that there is a genuine registered presence in Zug — a real registered address (not merely a mailbox), and at least one Swiss-resident director with a connection to that address. Our [virtual office and registered address services](/corporate-services/virtual-office-switzerland/) cover this requirement for international clients.
 
 For international entrepreneurs who want Zurich's operational environment but Zug's tax rate, the hybrid approach is the standard recommendation.
 
@@ -225,7 +225,7 @@ Zurich is the centre of Swiss banking, and companies registered here generally h
 
 **Neo-banking options** (Neon Business, Yapeal, Wise Business) are available regardless of canton and provide faster onboarding for companies that do not immediately need a traditional Swiss bank account.
 
-Be aware that corporate bank account opening in Switzerland requires full KYC documentation on all beneficial owners, directors, and shareholders. For companies with complex ownership structures or non-EU/US shareholders, allow additional time. This applies equally to Zurich and Zug. See our guide to [corporate bank accounts in Switzerland](/blog/corporate-bank-account-switzerland/) for more detail.
+Be aware that corporate bank account opening in Switzerland requires full KYC documentation on all beneficial owners, directors, and shareholders. For companies with complex ownership structures or non-EU/US shareholders, allow additional time. This applies equally to Zurich and Zug. See our guide to [corporate bank accounts in Switzerland](/banking/corporate-bank-account-switzerland/) for more detail.
 
 ---
 
@@ -239,7 +239,7 @@ The formation process for a Zurich company is substantively identical to any Swi
 
 **3. Power of attorney.** If you are not attending the notarial deed in person (most international clients are not), you will sign a certified and apostilled power of attorney authorising a Swiss representative to act on your behalf at the notary.
 
-**4. Share capital deposit.** The formation capital (CHF 100,000 for AG; CHF 20,000 for GmbH) is deposited into a blocked formation account at a Swiss bank. The bank issues a capital deposit confirmation, which is submitted to the notary. [Learn about capital deposit accounts](/blog/capital-deposit-account-switzerland/).
+**4. Share capital deposit.** The formation capital (CHF 100,000 for AG; CHF 20,000 for GmbH) is deposited into a blocked formation account at a Swiss bank. The bank issues a capital deposit confirmation, which is submitted to the notary. [Learn about capital deposit accounts](/banking/capital-deposit-account-switzerland/).
 
 **5. Notarial deed.** The notary executes the articles of association and founding documents. The notary also prepares the submission package for the Commercial Register.
 
@@ -247,7 +247,7 @@ The formation process for a Zurich company is substantively identical to any Swi
 
 **7. Post-registration.** Once the company appears in the register, the blocked share capital is released into the company's corporate bank account. The company may then begin operations, apply for any required licences, and register for VAT if anticipated turnover exceeds CHF 100,000.
 
-For a full overview of the Swiss formation process, see our guide to [company formation in Switzerland](/blog/company-formation-switzerland/).
+For a full overview of the Swiss formation process, see our guide to [company formation in Switzerland](/company-formation/company-formation-switzerland/).
 
 ---
 
@@ -299,7 +299,7 @@ We can form your company in Zurich if that is the right choice. We can form it i
 
 **Can I register a company in Zurich if I do not live in Switzerland?**
 
-Yes. Non-residents can own and direct Swiss companies. The legal requirement is that at least one person authorised to represent the company (a director with signatory power) is resident in Switzerland. If you do not have a Swiss-resident co-founder, you will need a nominee director. We provide Swiss-resident nominee directors as part of our formation service. See our [nominee director services](/blog/nominee-director-switzerland/) for details.
+Yes. Non-residents can own and direct Swiss companies. The legal requirement is that at least one person authorised to represent the company (a director with signatory power) is resident in Switzerland. If you do not have a Swiss-resident co-founder, you will need a nominee director. We provide Swiss-resident nominee directors as part of our formation service. See our [nominee director services](/corporate-services/nominee-director-switzerland/) for details.
 
 **How long does it take to register a company in Zurich?**
 
@@ -327,7 +327,7 @@ All founders, directors, and beneficial owners must provide a certified copy of 
 
 **Can a foreign company form a subsidiary in Zurich?**
 
-Yes. A foreign company can form a fully owned Swiss subsidiary (AG or GmbH) in Zurich or any Swiss canton. Alternatively, it can open a Swiss branch office (Zweigniederlassung) without forming a new legal entity. The branch must also be registered in the Commercial Register. See our guide to [branch offices in Switzerland](/blog/branch-office-switzerland/).
+Yes. A foreign company can form a fully owned Swiss subsidiary (AG or GmbH) in Zurich or any Swiss canton. Alternatively, it can open a Swiss branch office (Zweigniederlassung) without forming a new legal entity. The branch must also be registered in the Commercial Register. See our guide to [branch offices in Switzerland](/company-formation/branch-office-switzerland/).
 
 **Is it difficult to open a Swiss bank account for a Zurich-registered company?**
 
@@ -335,7 +335,7 @@ Swiss corporate bank account opening has become more documentation-intensive sin
 
 **What taxes does a Zurich company pay beyond corporate income tax?**
 
-In addition to corporate income tax (approximately 19.7% effective in Zurich city), Swiss companies typically face: cantonal capital tax (on equity), employer AHV/ALV contributions (social insurance), VAT at 8.1% standard rate on turnover above CHF 100,000, and withholding tax at 35% on dividend distributions to shareholders (refundable to treaty-resident shareholders). See our [VAT registration guide](/blog/vat-registration-switzerland/) for more detail.
+In addition to corporate income tax (approximately 19.7% effective in Zurich city), Swiss companies typically face: cantonal capital tax (on equity), employer AHV/ALV contributions (social insurance), VAT at 8.1% standard rate on turnover above CHF 100,000, and withholding tax at 35% on dividend distributions to shareholders (refundable to treaty-resident shareholders). See our [VAT registration guide](/tax-accounting/vat-registration-switzerland/) for more detail.
 
 **How does company formation in Zurich compare to other European cities?**
 

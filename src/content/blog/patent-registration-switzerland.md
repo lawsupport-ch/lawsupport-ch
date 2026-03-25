@@ -4,7 +4,7 @@ description: "How to register a patent in Switzerland through the IPI or EPO rou
 date: "19.03.2026"
 publishDate: "2026-05-17"
 category: "IP & Commercial Law"
-categoryHref: "/blog/"
+categoryHref: "/intellectual-property/"
 readTime: "12 min read"
 faqItems:
   - question: "Does a European patent automatically protect my invention in Switzerland?"
@@ -140,11 +140,11 @@ After the international phase (~30 months from priority date), the applicant mus
 
 ## Swiss IP Box and Patent Strategy
 
-Switzerland's **[IP Box regime](/blog/patent-box-switzerland/)** (cantonal level) allows Swiss companies to apply a preferential low tax rate to income derived from qualifying patents. To benefit from the IP Box, the company must hold qualifying patents and have conducted sufficient R&D in Switzerland (nexus test).
+Switzerland's **[IP Box regime](/tax-accounting/patent-box-switzerland/)** (cantonal level) allows Swiss companies to apply a preferential low tax rate to income derived from qualifying patents. To benefit from the IP Box, the company must hold qualifying patents and have conducted sufficient R&D in Switzerland (nexus test).
 
 This creates a strong incentive for Swiss-based companies to formally register patents through Swiss or EP routes -- a patent held in Switzerland by a Swiss company with Swiss R&D activity can qualify for the IP Box, potentially reducing effective cantonal income tax on royalty income to approximately 1-3%.
 
-For companies considering an IP holding structure, the patent registration strategy should be aligned with the [tax incentives](/blog/swiss-tax-incentives/) available in the chosen canton.
+For companies considering an IP holding structure, the patent registration strategy should be aligned with the [tax incentives](/tax-accounting/swiss-tax-incentives/) available in the chosen canton.
 
 ---
 
@@ -158,7 +158,7 @@ Key points for patent holders:
 - **Damages** can include lost profits, reasonable royalties, or disgorgement of the infringer's profits
 - **Language:** Proceedings can be conducted in German, French, or Italian
 
-For companies holding patents as part of a broader [IP protection strategy](/blog/ip-protection-switzerland/), enforcement capability should factor into the decision of where and how to register.
+For companies holding patents as part of a broader [IP protection strategy](/intellectual-property/ip-protection-switzerland/), enforcement capability should factor into the decision of where and how to register.
 
 ---
 
@@ -186,7 +186,7 @@ Maximum 20 years from the filing date, subject to payment of annual maintenance 
 
 **What is the difference between a patent and a trademark in Switzerland?**
 
-A patent protects a technical invention (a product or process that solves a technical problem in a new way). A [trademark](/blog/trademark-registration-switzerland/) protects a sign (word, logo, shape) that distinguishes goods or services in the marketplace. These are separate forms of [intellectual property protection](/blog/ip-protection-switzerland/) with different registration procedures, durations, and enforcement mechanisms.
+A patent protects a technical invention (a product or process that solves a technical problem in a new way). A [trademark](/intellectual-property/trademark-registration-switzerland/) protects a sign (word, logo, shape) that distinguishes goods or services in the marketplace. These are separate forms of [intellectual property protection](/intellectual-property/ip-protection-switzerland/) with different registration procedures, durations, and enforcement mechanisms.
 
 **Can software be patented in Switzerland?**
 
@@ -216,11 +216,11 @@ Switzerland does not have a formal "provisional application" system like the US.
 
 ## Related Guides
 
-- [Trademark registration in Switzerland](/blog/trademark-registration-switzerland/) -- brand protection
-- [IP protection in Switzerland](/blog/ip-protection-switzerland/) -- broader IP strategy
-- [Patent Box / IP Box Switzerland](/blog/patent-box-switzerland/) -- tax benefits for patent holders
-- [Copyright law in Switzerland](/blog/copyright-law-switzerland/) -- creative works protection
-- [Company formation in Switzerland](/blog/company-formation-switzerland/) -- incorporating to hold IP
+- [Trademark registration in Switzerland](/intellectual-property/trademark-registration-switzerland/) -- brand protection
+- [IP protection in Switzerland](/intellectual-property/ip-protection-switzerland/) -- broader IP strategy
+- [Patent Box / IP Box Switzerland](/tax-accounting/patent-box-switzerland/) -- tax benefits for patent holders
+- [Copyright law in Switzerland](/intellectual-property/copyright-law-switzerland/) -- creative works protection
+- [Company formation in Switzerland](/company-formation/company-formation-switzerland/) -- incorporating to hold IP
 
 For official information on Swiss patent procedures, see the <a href="https://www.ige.ch/en/intellectual-property/patents" target="_blank" rel="nofollow noopener">Swiss Federal Institute of Intellectual Property (IPI)</a>. For European patent applications, the <a href="https://www.epo.org/en/applying/how-to-apply" target="_blank" rel="nofollow noopener">European Patent Office application guide</a> provides detailed procedural guidance. PCT applications are administered by the <a href="https://www.wipo.int/pct/en/" target="_blank" rel="nofollow noopener">World Intellectual Property Organisation (WIPO)</a>.
 

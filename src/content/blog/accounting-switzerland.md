@@ -3,7 +3,7 @@ title: "Swiss Accounting Requirements: OR, GAAP FER & Audit"
 description: "Swiss accounting obligations for AG and GmbH: Code of Obligations bookkeeping rules, Swiss GAAP FER, IFRS requirements, audit thresholds and record retention."
 date: "19.03.2026"
 category: "Tax & Accounting"
-categoryHref: "/blog/"
+categoryHref: "/tax-accounting/"
 readTime: "12 min read"
 tocItems:
   - id: "legal-basis-articles-957963b-or"
@@ -61,7 +61,7 @@ The duty to maintain accounting records applies to all companies registered in S
 
 The trigger for sole traders and partnerships (Kollektivgesellschaft, Kommanditgesellschaft) is a rolling revenue threshold of CHF 500,000 per year. Below that figure, a simplified form of record-keeping applies under Art. 957 para. 2 OR. Above it, the full double-entry obligation kicks in.
 
-For an overview of the main Swiss company structures and their obligations, see our guide on [company formation in Switzerland](/blog/company-formation-switzerland/).
+For an overview of the main Swiss company structures and their obligations, see our guide on [company formation in Switzerland](/company-formation/company-formation-switzerland/).
 
 ---
 
@@ -84,7 +84,7 @@ Required under Art. 957 para. 1 OR for:
 - All **cooperatives**
 - Sole traders and partnerships with revenue above CHF 500,000
 
-Double-entry bookkeeping under the OR requires, at minimum, a **balance sheet** and an **income statement (profit and loss account)**. Notes to the accounts are also required where they are necessary to give a true picture of the company's financial position (Art. 959c OR). For practical support setting up compliant accounts, see our [bookkeeping Switzerland](/blog/bookkeeping-switzerland/) service.
+Double-entry bookkeeping under the OR requires, at minimum, a **balance sheet** and an **income statement (profit and loss account)**. Notes to the accounts are also required where they are necessary to give a true picture of the company's financial position (Art. 959c OR). For practical support setting up compliant accounts, see our [bookkeeping Switzerland](/tax-accounting/bookkeeping-switzerland/) service.
 
 ---
 
@@ -154,7 +154,7 @@ Companies exceeding two of the three thresholds — CHF 40M revenue, CHF 20M bal
 
 ### Limited Audit
 
-All AG and GmbH that do not meet the ordinary audit thresholds — and have not opted out — must undergo a **limited audit** (eingeschränkte Revision) under Art. 727a OR. A limited audit is substantially lighter: the auditor performs enquiries and analytical procedures but does not obtain sufficient evidence for a positive opinion. The result is a negative assurance statement: nothing has come to the auditor's attention that causes them to believe the accounts are not in accordance with the law and the articles. A licensed audit expert (Revisionsexperte) or audit specialist (Revisor) registered with the RAB must conduct the engagement. For detailed guidance, see our [audit Switzerland](/blog/audit-switzerland/) overview.
+All AG and GmbH that do not meet the ordinary audit thresholds — and have not opted out — must undergo a **limited audit** (eingeschränkte Revision) under Art. 727a OR. A limited audit is substantially lighter: the auditor performs enquiries and analytical procedures but does not obtain sufficient evidence for a positive opinion. The result is a negative assurance statement: nothing has come to the auditor's attention that causes them to believe the accounts are not in accordance with the law and the articles. A licensed audit expert (Revisionsexperte) or audit specialist (Revisor) registered with the RAB must conduct the engagement. For detailed guidance, see our [audit Switzerland](/tax-accounting/audit-switzerland/) overview.
 
 ### Opting-Out
 
@@ -178,11 +178,11 @@ Swiss companies are not required to maintain accounts in Swiss francs. Where a c
 
 ## Filing and Public Disclosure
 
-A point that surprises many founders coming from the UK or Germany: **Swiss private companies do not file financial statements with the Commercial Register**. There is no public filing obligation for AG or GmbH. Accounts are submitted to the cantonal tax authority as part of the annual [corporate tax return Switzerland](/blog/corporate-tax-return-switzerland/) and remain confidential. Only the basic company data — directors, share capital, registered office — appears in the public register.
+A point that surprises many founders coming from the UK or Germany: **Swiss private companies do not file financial statements with the Commercial Register**. There is no public filing obligation for AG or GmbH. Accounts are submitted to the cantonal tax authority as part of the annual [corporate tax return Switzerland](/tax-accounting/corporate-tax-return-switzerland/) and remain confidential. Only the basic company data — directors, share capital, registered office — appears in the public register.
 
 This means a Swiss company's financial position is entirely private unless the company chooses to publish its accounts or is subject to special regulatory reporting (for example, as a bank or insurance company). For listed companies on SIX, public financial reporting is mandatory under the exchange's listing rules. More information on cantonal tax procedures is available via the <a href="https://www.admin.ch/gov/en/start/documentation/links/federal-authorities/federal-department-of-finance.html" target="_blank" rel="nofollow noopener">Federal Department of Finance</a>.
 
-For the broader tax implications of your accounting results, see our guide on [corporate tax Switzerland](/blog/corporate-tax-switzerland/).
+For the broader tax implications of your accounting results, see our guide on [corporate tax Switzerland](/tax-accounting/corporate-tax-switzerland/).
 
 <!-- VIDEO: Explainer — Swiss accounting filing obligations vs UK/Germany. Duration approx 3 min. -->
 
@@ -194,7 +194,7 @@ Swiss tax law follows a principle known as the **Massgeblichkeitsprinzip** — t
 
 This connection between commercial and tax accounting means that accounting policy choices have direct tax consequences in Switzerland. Decisions about depreciation rates, provisions, and valuation methods are not merely presentational; they affect the tax charge in the same year.
 
-If your accounting records are incomplete or in disarray, see how we handle [accounting recovery Switzerland](/blog/accounting-recovery-switzerland/).
+If your accounting records are incomplete or in disarray, see how we handle [accounting recovery Switzerland](/tax-accounting/accounting-recovery-switzerland/).
 
 <!-- VIDEO: Explainer — Massgeblichkeitsprinzip: how Swiss commercial accounts drive the tax calculation. Duration approx 4 min. -->
 
@@ -202,7 +202,7 @@ If your accounting records are incomplete or in disarray, see how we handle [acc
 
 ## VAT and Accounting Interaction
 
-Swiss VAT obligations interact directly with accounting records. Companies with annual turnover above CHF 100,000 are required to register for VAT with the <a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">ESTV</a> and submit periodic returns. The VAT method chosen — effective method or flat-rate method — affects how the income statement is presented and how input tax is tracked. Failure to reconcile VAT accounts with the general ledger is a common source of errors in Swiss tax audits. For registration requirements, see our [VAT registration Switzerland](/blog/vat-registration-switzerland/) guide.
+Swiss VAT obligations interact directly with accounting records. Companies with annual turnover above CHF 100,000 are required to register for VAT with the <a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">ESTV</a> and submit periodic returns. The VAT method chosen — effective method or flat-rate method — affects how the income statement is presented and how input tax is tracked. Failure to reconcile VAT accounts with the general ledger is a common source of errors in Swiss tax audits. For registration requirements, see our [VAT registration Switzerland](/tax-accounting/vat-registration-switzerland/) guide.
 
 ---
 
@@ -234,7 +234,7 @@ Yes. IFRS is permitted for any Swiss company and satisfies all OR requirements. 
 
 **What happens if accounting records are lost or incomplete?**
 
-The 10-year retention obligation under Art. 958f OR is strict. Missing records create serious exposure during tax audits — the cantonal tax authority can estimate taxable income, typically to the company's disadvantage. Directors can be held personally liable for failures in record-keeping under Art. 127 of the Swiss Criminal Code (StGB). Where records are incomplete for prior years, remediation must be approached carefully and, where possible, supported by documentation reconstruction. See our [accounting recovery Switzerland](/blog/accounting-recovery-switzerland/) service for options.
+The 10-year retention obligation under Art. 958f OR is strict. Missing records create serious exposure during tax audits — the cantonal tax authority can estimate taxable income, typically to the company's disadvantage. Directors can be held personally liable for failures in record-keeping under Art. 127 of the Swiss Criminal Code (StGB). Where records are incomplete for prior years, remediation must be approached carefully and, where possible, supported by documentation reconstruction. See our [accounting recovery Switzerland](/tax-accounting/accounting-recovery-switzerland/) service for options.
 
 **What are the penalties for non-compliance with Swiss accounting obligations?**
 
@@ -246,7 +246,7 @@ Under Arts. 962–963b OR, a group must prepare consolidated financial statement
 
 **How does the Massgeblichkeitsprinzip affect tax planning for Swiss companies?**
 
-The Massgeblichkeitsprinzip means commercial accounting choices feed directly into taxable income. A company that books a generous provision under the OR will reduce taxable profit in the same period — but the provision must be commercially justifiable to survive a tax audit. Conversely, aggressive capitalisation of costs inflates taxable profit. Swiss tax planning therefore begins with the chart of accounts and depreciation policy, not with year-end adjustments. For a detailed review, see our [corporate tax Switzerland](/blog/corporate-tax-switzerland/) guide.
+The Massgeblichkeitsprinzip means commercial accounting choices feed directly into taxable income. A company that books a generous provision under the OR will reduce taxable profit in the same period — but the provision must be commercially justifiable to survive a tax audit. Conversely, aggressive capitalisation of costs inflates taxable profit. Swiss tax planning therefore begins with the chart of accounts and depreciation policy, not with year-end adjustments. For a detailed review, see our [corporate tax Switzerland](/tax-accounting/corporate-tax-switzerland/) guide.
 
 ---
 

@@ -3,7 +3,7 @@ title: "Asset Management License Switzerland: FINMA Guide"
 description: "FINMA asset management licence (FinIA): capital requirements, fit & proper, supervisory organisation affiliation, and application timeline for 2026."
 date: "19.03.2026"
 category: "Licensing & Permits"
-categoryHref: "/services/financial-licensing/"
+categoryHref: "/licensing/"
 readTime: "9 min read"
 faqItems:
   - question: "Do I need a FINMA licence if I manage only my own family's assets?"
@@ -54,7 +54,7 @@ tocItems:
 
 Switzerland is one of the world's leading locations for independent asset management. Since the FinSA/FinIA reform came into force on 1 January 2020, any person or entity that professionally manages third-party assets on a discretionary basis in Switzerland requires a **FINMA licence under the Financial Institutions Act (FinIA — Art. 17–26)**. This article sets out exactly what that requires, what it costs, and how long it takes — based on current FINMA practice as at March 2026.
 
-For a broader overview of the Swiss regulatory licensing framework, see our guide on [FINMA licensing in Switzerland](/blog/finma-licensing-switzerland/).
+For a broader overview of the Swiss regulatory licensing framework, see our guide on [FINMA licensing in Switzerland](/licensing/finma-licensing-switzerland/).
 
 ---
 
@@ -80,7 +80,7 @@ This captures:
 
 One important carve-out: managers of **collective investment schemes (CIS)** — mutual funds, SICAVs — require a separate authorisation as a fund management company (Fondsleitung) under Art. 38 FinIA. The individual client portfolio manager licence does not cover collective fund management activity.
 
-If you are uncertain whether your activity triggers the licensing requirement, the threshold question is whether you hold discretionary authority over client funds. Execution-only or pure advisory relationships without discretion fall under a different, lighter FinSA compliance framework. See our guide on [SRO membership in Switzerland](/blog/sro-membership-switzerland/) for the anti-money laundering obligations that apply regardless of licence type.
+If you are uncertain whether your activity triggers the licensing requirement, the threshold question is whether you hold discretionary authority over client funds. Execution-only or pure advisory relationships without discretion fall under a different, lighter FinSA compliance framework. See our guide on [SRO membership in Switzerland](/licensing/sro-membership-switzerland/) for the anti-money laundering obligations that apply regardless of licence type.
 
 ---
 
@@ -144,7 +144,7 @@ Recognised AOs currently operating in Switzerland include:
 
 The AO affiliation must be confirmed **before** submitting the FINMA licence application. FINMA will not process an application from a manager that has not secured an AO commitment. Factor AO onboarding — typically a separate review process with its own documentation requirements — into your overall timeline.
 
-Note that the AO relationship does not replace SRO membership for AML purposes. See our [SRO membership guide](/blog/sro-membership-switzerland/) for details on how these two requirements interact.
+Note that the AO relationship does not replace SRO membership for AML purposes. See our [SRO membership guide](/licensing/sro-membership-switzerland/) for details on how these two requirements interact.
 
 ### 6. FinSA Compliance
 
@@ -155,7 +155,7 @@ Licensed asset managers are also subject to the Financial Services Act. Key ongo
 - **Point-of-sale documentation**: cost disclosure, conflict of interest disclosure, and provision of the key information document (KID) where applicable
 - **Complaints handling**: a documented process and access to an ombudsman service recognised under FinSA
 
-For a detailed overview of FinSA obligations, see our guide to [FinSA in Switzerland](/blog/finsa-switzerland/).
+For a detailed overview of FinSA obligations, see our guide to [FinSA in Switzerland](/licensing/finsa-switzerland/).
 
 FinSA compliance is not a one-time exercise. It requires documented annual reviews of client suitability and ongoing monitoring of the product universe offered to clients.
 
@@ -178,7 +178,7 @@ A complete FINMA application package typically includes:
 
 FINMA charges an **application fee of approximately CHF 5,000** for an asset manager licence. Ongoing annual supervision fees — collected via the AO — vary by AUM tier but typically range from CHF 3,000 to CHF 15,000 per year for smaller managers.
 
-If you are establishing the legal entity from scratch alongside the licence application, see our [company formation guide for Switzerland](/blog/company-formation-switzerland/) for the corporate structure decisions that affect the licensing process — including GmbH vs. AG, registered capital, and shareholder structure. Once licensed and operating, you will also need a Swiss corporate bank account; our guide on [opening a corporate bank account in Switzerland](/blog/corporate-bank-account-switzerland/) covers the options available to regulated financial firms.
+If you are establishing the legal entity from scratch alongside the licence application, see our [company formation guide for Switzerland](/company-formation/company-formation-switzerland/) for the corporate structure decisions that affect the licensing process — including GmbH vs. AG, registered capital, and shareholder structure. Once licensed and operating, you will also need a Swiss corporate bank account; our guide on [opening a corporate bank account in Switzerland](/banking/corporate-bank-account-switzerland/) covers the options available to regulated financial firms.
 
 ### Timeline: 6 to 12 Months
 
@@ -249,7 +249,7 @@ Yes. FinIA permits operational outsourcing of compliance, risk management, and o
 
 **What is the difference between the FinIA asset manager licence and an SRO membership?**
 
-SRO membership under the Anti-Money Laundering Act (AMLA) addresses AML/KYC obligations. The FinIA licence addresses prudential regulation: capital adequacy, organisational requirements, client protection, and conduct standards. Licensed asset managers need both. The two frameworks are complementary, not alternatives. For details, see our guide to [SRO membership in Switzerland](/blog/sro-membership-switzerland/).
+SRO membership under the Anti-Money Laundering Act (AMLA) addresses AML/KYC obligations. The FinIA licence addresses prudential regulation: capital adequacy, organisational requirements, client protection, and conduct standards. Licensed asset managers need both. The two frameworks are complementary, not alternatives. For details, see our guide to [SRO membership in Switzerland](/licensing/sro-membership-switzerland/).
 
 **What are the FINMA application fees and ongoing supervision costs?**
 

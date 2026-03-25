@@ -4,7 +4,7 @@ description: "Step-by-step guide to starting a business in Switzerland in 2026. 
 date: "19.03.2026"
 publishDate: "2026-06-08"
 category: "Company Formation"
-categoryHref: "/services/company-formation/"
+categoryHref: "/company-formation/"
 readTime: "16 min read"
 tocItems:
   - id: "why-switzerland-the-practical-case"
@@ -51,7 +51,7 @@ faqItems:
 
 Switzerland consistently ranks among the world's most attractive destinations for international business. The legal framework is stable, the tax rates are genuinely competitive, the banking system is sophisticated, and the country sits at the centre of Europe without being inside the EU — a position that affords both access and flexibility. If you are considering starting a business in Switzerland in 2026, this guide covers every material step from choosing your entity type through to post-formation compliance, with honest timelines and costs.
 
-This is the hub page for our [company formation in Switzerland](/blog/company-formation-switzerland/) service. Each section links to a dedicated guide for that topic.
+This is the hub page for our [company formation in Switzerland](/company-formation/company-formation-switzerland/) service. Each section links to a dedicated guide for that topic.
 
 ---
 
@@ -59,11 +59,11 @@ This is the hub page for our [company formation in Switzerland](/blog/company-fo
 
 You have heard the reputation. Here are the facts that matter operationally:
 
-**Tax rates.** Effective [corporate tax rates](/blog/corporate-tax-switzerland/) in the lowest-tax cantons run between 11–12%. The canton of Zug, where Lawsupport is headquartered, has an effective rate of approximately 11.8% — among the lowest in Europe for a stable, OECD-compliant jurisdiction.
+**Tax rates.** Effective [corporate tax rates](/tax-accounting/corporate-tax-switzerland/) in the lowest-tax cantons run between 11–12%. The canton of Zug, where Lawsupport is headquartered, has an effective rate of approximately 11.8% — among the lowest in Europe for a stable, OECD-compliant jurisdiction.
 
 **Legal system.** Switzerland operates under a civil law system codified in the <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en" target="_blank" rel="nofollow noopener">Swiss Code of Obligations (CO)</a>. Company law is predictable, courts are efficient, and contract enforcement is strong. There is no political risk to speak of.
 
-**Banking.** Swiss banks remain a global reference point. Corporate accounts, multi-currency facilities, and private banking services are all available, though [account opening for foreign-owned companies](/blog/corporate-bank-account-switzerland/) requires careful preparation (more on this below).
+**Banking.** Swiss banks remain a global reference point. Corporate accounts, multi-currency facilities, and private banking services are all available, though [account opening for foreign-owned companies](/banking/corporate-bank-account-switzerland/) requires careful preparation (more on this below).
 
 **Location and bilateral agreements.** Switzerland has bilateral agreements with the EU covering free movement of persons, mutual recognition of certain professional qualifications, and trade facilitation. It is not an EU member, which means it sets its own corporate tax policy without Brussels interference. Zurich Airport connects directly to most major global cities.
 
@@ -87,11 +87,11 @@ The GmbH is the most common choice for SMEs, operating companies, and internatio
 
 The GmbH is ideal for founders who want limited liability, a straightforward governance structure, and a capital requirement that is manageable without institutional backing.
 
-[Full guide: GmbH formation in Switzerland](/blog/gmbh-formation-switzerland/)
+[Full guide: GmbH formation in Switzerland](/company-formation/gmbh-formation-switzerland/)
 
 ### AG (Aktiengesellschaft — Joint Stock Company)
 
-The AG is the Swiss equivalent of a public limited company and is preferred for larger [holding structures](/blog/holding-company-switzerland/), companies anticipating institutional investment, and situations where shareholder anonymity matters — AG shareholders are not publicly listed in the Commercial Register.
+The AG is the Swiss equivalent of a public limited company and is preferred for larger [holding structures](/company-formation/holding-company-switzerland/), companies anticipating institutional investment, and situations where shareholder anonymity matters — AG shareholders are not publicly listed in the Commercial Register.
 
 - **Minimum share capital:** CHF 100'000 (minimum CHF 50'000 must be paid up at formation)
 - **Minimum directors:** 1 (at least one must be a Swiss resident with individual signatory authority)
@@ -99,7 +99,7 @@ The AG is the Swiss equivalent of a public limited company and is preferred for 
 - **Share classes:** multiple classes possible; bearer shares abolished since 2021
 - **Preferred for:** holding companies, IP holding structures, pre-IPO structures, family offices
 
-[Full guide: AG formation in Switzerland](/blog/ag-formation-switzerland/)
+[Full guide: AG formation in Switzerland](/company-formation/ag-formation-switzerland/)
 
 ### Sole Proprietorship (Einzelfirma)
 
@@ -107,23 +107,23 @@ The simplest and cheapest structure. No minimum capital, no formation notarisati
 
 Best suited for freelancers, independent consultants, and small traders who are Swiss residents. Not generally recommended for international entrepreneurs building a scalable business.
 
-[Full guide: Sole proprietorship in Switzerland](/blog/sole-proprietorship-switzerland/)
+[Full guide: Sole proprietorship in Switzerland](/company-formation/sole-proprietorship-switzerland/)
 
 ### Swiss Branch of a Foreign Company
 
-If you already operate a foreign company and want a Swiss presence without incorporating a new Swiss entity, a [branch registration](/blog/branch-office-switzerland/) is an option. The foreign parent company registers a branch (Zweigniederlassung) in Switzerland. The branch is not a separate legal entity — the parent company bears full liability for branch obligations.
+If you already operate a foreign company and want a Swiss presence without incorporating a new Swiss entity, a [branch registration](/company-formation/branch-office-switzerland/) is an option. The foreign parent company registers a branch (Zweigniederlassung) in Switzerland. The branch is not a separate legal entity — the parent company bears full liability for branch obligations.
 
 A Swiss resident representative with signatory authority is required. Branch registration is faster and cheaper than a full incorporation but offers less structural flexibility and no liability ring-fencing.
 
 ### Foundation (Stiftung)
 
-The [Swiss foundation](/blog/swiss-foundation/) is a non-profit or quasi-non-profit structure used for charitable purposes, family succession planning, or — increasingly — as an issuer vehicle in crypto and blockchain projects (the so-called "crypto foundation" or protocol foundation model). A foundation has no shareholders; assets are dedicated to a defined purpose. Establishment requires a minimum endowment (no statutory minimum, but CHF 50'000 is a practical floor) and registration with the Commercial Register. Foundations with charitable purposes are supervised by the relevant cantonal or federal authority.
+The [Swiss foundation](/company-formation/swiss-foundation/) is a non-profit or quasi-non-profit structure used for charitable purposes, family succession planning, or — increasingly — as an issuer vehicle in crypto and blockchain projects (the so-called "crypto foundation" or protocol foundation model). A foundation has no shareholders; assets are dedicated to a defined purpose. Establishment requires a minimum endowment (no statutory minimum, but CHF 50'000 is a practical floor) and registration with the Commercial Register. Foundations with charitable purposes are supervised by the relevant cantonal or federal authority.
 
 ---
 
 ## Step 2: Choose Your Canton
 
-Switzerland has 26 cantons, each with its own tax authority, Commercial Register, and notary system. For most international entrepreneurs, the primary decision driver is effective corporate tax rate. Substance requirements — a real office, at least one local employee — have tightened under OECD BEPS rules, but the fundamentals of [cantonal tax competition](/blog/cantonal-tax-comparison-switzerland/) remain intact.
+Switzerland has 26 cantons, each with its own tax authority, Commercial Register, and notary system. For most international entrepreneurs, the primary decision driver is effective corporate tax rate. Substance requirements — a real office, at least one local employee — have tightened under OECD BEPS rules, but the fundamentals of [cantonal tax competition](/tax-accounting/cantonal-tax-comparison-switzerland/) remain intact.
 
 ### Canton Tax Comparison (Effective Corporate Tax Rate, 2026)
 
@@ -140,8 +140,8 @@ Switzerland has 26 cantons, each with its own tax authority, Commercial Register
 
 **Zurich** makes sense when talent acquisition is a priority (larger labour market), when your business is client-facing in Switzerland (financial services, consulting, media), or when you need access to Zurich's professional and financial ecosystem and the higher tax rate is an acceptable cost of that access.
 
-[Company formation in Zug](/blog/company-formation-zug/)
-[Company formation in Zurich](/blog/company-formation-zurich/)
+[Company formation in Zug](/company-formation/company-formation-zug/)
+[Company formation in Zurich](/company-formation/company-formation-zurich/)
 
 ---
 
@@ -164,7 +164,7 @@ As a practical matter, short, distinctive names in English work well for interna
 
 **For a GmbH:** the same residency rule applies to the managing director(s) (Geschaeftsfuehrer).
 
-**For international founders without Swiss residence,** a professional [nominee director service](/blog/nominee-director-switzerland/) satisfies this requirement. A nominee director is a licenced Swiss resident professional who provides their name and signatory authority for the purpose of legal compliance. The nominee does not have operational control over the company; that is governed by a separate management agreement and limited power of attorney arrangement.
+**For international founders without Swiss residence,** a professional [nominee director service](/corporate-services/nominee-director-switzerland/) satisfies this requirement. A nominee director is a licenced Swiss resident professional who provides their name and signatory authority for the purpose of legal compliance. The nominee does not have operational control over the company; that is governed by a separate management agreement and limited power of attorney arrangement.
 
 Shareholder structure has no residency requirements for either entity type. A 100% foreign-owned GmbH or AG is fully permissible.
 
@@ -172,7 +172,7 @@ Shareholder structure has no residency requirements for either entity type. A 10
 
 ## Step 5: Deposit the Share Capital
 
-Before notarisation, you must open a **Kapitaleinzahlungskonto** ([capital deposit account](/blog/capital-deposit-account-switzerland/)) at a Swiss bank. This is a special escrow-type account used exclusively for the initial capital deposit. The bank confirms the deposit in writing; this bank confirmation letter is a required document for the notarisation.
+Before notarisation, you must open a **Kapitaleinzahlungskonto** ([capital deposit account](/banking/capital-deposit-account-switzerland/)) at a Swiss bank. This is a special escrow-type account used exclusively for the initial capital deposit. The bank confirms the deposit in writing; this bank confirmation letter is a required document for the notarisation.
 
 - **GmbH:** CHF 20'000 fully paid up
 - **AG:** minimum CHF 50'000 of the CHF 100'000 authorised capital must be deposited (the remainder can be called up post-formation)
@@ -199,7 +199,7 @@ This mechanism makes Swiss company formation fully remote for international foun
 
 ## Step 7: Commercial Register Filing
 
-Following notarisation, the complete formation dossier is submitted to the cantonal [Commercial Register](/blog/commercial-register-switzerland/) (Handelsregisteramt). The dossier includes:
+Following notarisation, the complete formation dossier is submitted to the cantonal [Commercial Register](/company-formation/commercial-register-switzerland/) (Handelsregisteramt). The dossier includes:
 
 - Notarised articles of association and formation deed
 - Bank confirmation of capital deposit
@@ -222,13 +222,13 @@ Registration with the Commercial Register creates the legal entity. Running a bu
 
 **VAT (MWST) registration.** VAT registration is mandatory once Swiss taxable turnover exceeds CHF 100'000 per year. Voluntary registration below the threshold is possible and often advisable if you have Swiss input VAT to recover. The standard VAT rate is 8.1%.
 
-[VAT registration in Switzerland](/blog/vat-registration-switzerland/)
+[VAT registration in Switzerland](/tax-accounting/vat-registration-switzerland/)
 
 **AHV / Social insurance.** If you employ staff in Switzerland — or if a director receives remuneration — registration with the cantonal AHV compensation office is required. Switzerland's social insurance system (AHV/IV/EO/ALV) requires employer and employee contributions.
 
 **Tax registration.** The cantonal tax authority (Steueramt) will typically contact the company automatically following Commercial Register publication. For Zug, the process is straightforward; an initial tax return is filed for the first business period.
 
-**Operational bank account.** The capital deposit account is released and converted or closed; a separate operational [Swiss bank account](/blog/swiss-bank-account/) must be opened. Account opening for the operational account is covered below.
+**Operational bank account.** The capital deposit account is released and converted or closed; a separate operational [Swiss bank account](/banking/swiss-bank-account/) must be opened. Account opening for the operational account is covered below.
 
 ---
 
@@ -265,10 +265,10 @@ The capital deposit account is the most common source of delay. Starting it earl
 
 ## Permits and Licensing
 
-The majority of businesses in Switzerland can operate with nothing more than Commercial Register registration. There is no general [business licence](/blog/swiss-business-licenses/). However, certain regulated sectors require authorisation before commencing operations:
+The majority of businesses in Switzerland can operate with nothing more than Commercial Register registration. There is no general [business licence](/licensing/swiss-business-licenses/). However, certain regulated sectors require authorisation before commencing operations:
 
-- **Financial services (investment management, asset management, financial intermediation):** authorisation from or registration with FINMA (Swiss Financial Market Supervisory Authority). [FINMA licensing](/blog/finma-licensing-switzerland/)
-- **Crypto / Virtual Asset Service Providers (VASP):** FINMA registration required under the Anti-Money Laundering Act for VASPs; for larger operations, a banking or [fintech licence](/blog/fintech-license-switzerland/) may apply.
+- **Financial services (investment management, asset management, financial intermediation):** authorisation from or registration with FINMA (Swiss Financial Market Supervisory Authority). [FINMA licensing](/licensing/finma-licensing-switzerland/)
+- **Crypto / Virtual Asset Service Providers (VASP):** FINMA registration required under the Anti-Money Laundering Act for VASPs; for larger operations, a banking or [fintech licence](/licensing/fintech-license-switzerland/) may apply.
 - **Food and hospitality:** cantonal permits required; vary by canton.
 - **Healthcare and medical devices:** authorisation from <a href="https://www.swissmedic.ch" target="_blank" rel="nofollow noopener">Swissmedic</a>.
 - **Legal and fiduciary services:** cantonal licensing requirements apply in most cantons.
@@ -279,7 +279,7 @@ If your business falls into a regulated category, licensing timelines can be sig
 
 ## Swiss Corporate Bank Account
 
-Opening a [corporate bank account](/blog/corporate-bank-account-switzerland/) for a foreign-owned Swiss company is not automatic. Swiss banks — including cantonal banks, major banks (UBS, Credit Suisse/UBS post-merger, Julius Baer), and neo-banks — apply KYC and AML procedures that are rigorous by global standards.
+Opening a [corporate bank account](/banking/corporate-bank-account-switzerland/) for a foreign-owned Swiss company is not automatic. Swiss banks — including cantonal banks, major banks (UBS, Credit Suisse/UBS post-merger, Julius Baer), and neo-banks — apply KYC and AML procedures that are rigorous by global standards.
 
 Key facts:
 
@@ -289,7 +289,7 @@ Key facts:
 
 Lawsupport manages banking introductions as part of our formation service. We work with banks that understand the profile of internationally owned Swiss companies and can present your application in the format they require.
 
-[Corporate bank account opening in Switzerland](/blog/corporate-bank-account-switzerland/)
+[Corporate bank account opening in Switzerland](/banking/corporate-bank-account-switzerland/)
 
 ---
 
@@ -306,9 +306,9 @@ Our full formation service covers:
 - **Notary coordination** in Zug, Zurich, or other cantons as required
 - **Commercial Register filing and follow-up**
 - **Banking introduction:** capital deposit account and operational account
-- **[Nominee director service](/blog/nominee-director-switzerland/)** where required
+- **[Nominee director service](/corporate-services/nominee-director-switzerland/)** where required
 - **Post-formation compliance:** VAT registration, AHV registration, tax registration
-- **Ongoing [registered office](/blog/registered-address-switzerland/) and domicile services**
+- **Ongoing [registered office](/corporate-services/registered-address-switzerland/) and domicile services**
 
 We operate on fixed fees with transparent scope. There are no surprise invoices.
 
@@ -346,7 +346,7 @@ Swiss companies must file annual accounts, submit corporate tax returns (federal
 
 **Do I need a work permit to run a Swiss company?**
 
-Not necessarily. If you are a non-resident director who does not work physically in Switzerland, no work permit is required. If you intend to relocate to Switzerland or work on Swiss soil regularly, you will need a [work permit](/blog/work-permit-switzerland/) — the type depends on your nationality and intended duration of stay.
+Not necessarily. If you are a non-resident director who does not work physically in Switzerland, no work permit is required. If you intend to relocate to Switzerland or work on Swiss soil regularly, you will need a [work permit](/immigration/work-permit-switzerland/) — the type depends on your nationality and intended duration of stay.
 
 **What is the difference between a GmbH and an AG?**
 

@@ -4,7 +4,7 @@ description: "EU and EEA nationals working in Switzerland benefit from the AFMP 
 date: "19.03.2026"
 publishDate: "2026-07-24"
 category: "Immigration"
-categoryHref: "/blog/"
+categoryHref: "/immigration/"
 readTime: "14 min read"
 faqItems:
   - question: "Do I need a job offer before coming to Switzerland as an EU national?"
@@ -49,11 +49,11 @@ EU and EEA nationals enjoy a fundamentally different — and significantly easie
 
 The **AFMP (Freizuegigkeitsabkommen / Accord sur la libre circulation des personnes)** is a bilateral agreement between Switzerland and the EU, in force since 2002. Under the AFMP:
 
-- EU/EEA nationals have the **right to enter Switzerland to work** without needing a traditional [work permit](/blog/work-permit-switzerland/)
+- EU/EEA nationals have the **right to enter Switzerland to work** without needing a traditional [work permit](/immigration/work-permit-switzerland/)
 - They must **register** with Swiss authorities after arrival
 - They receive **residence permits** automatically upon meeting basic conditions (employed, self-employed, or sufficient own resources)
 
-The AFMP does not apply to third-country nationals (non-EU/EEA). For non-EU/EEA nationals, see our guide on [work permits for non-EU nationals](/blog/work-permit-non-eu-switzerland/).
+The AFMP does not apply to third-country nationals (non-EU/EEA). For non-EU/EEA nationals, see our guide on [work permits for non-EU nationals](/immigration/work-permit-non-eu-switzerland/).
 
 **EU/EEA nationals covered:** Citizens of all 27 EU member states plus Iceland, Liechtenstein, and Norway (EEA). Switzerland is not an EU member but applies the AFMP through bilateral agreements.
 
@@ -94,7 +94,7 @@ For EU/EEA nationals working in Switzerland:
 - Processing: 1–4 weeks
 - Fee: CHF 50–150 depending on canton
 
-For full details on the B permit, see our [B permit Switzerland](/blog/b-permit-switzerland/) guide.
+For full details on the B permit, see our [B permit Switzerland](/immigration/b-permit-switzerland/) guide.
 
 ### C Permit — Settlement Permit
 
@@ -102,14 +102,14 @@ For full details on the B permit, see our [B permit Switzerland](/blog/b-permit-
 - No time limit; no further renewal required
 - Full freedom of movement — no restriction to specific employer or canton
 
-The [C permit](/blog/c-permit-switzerland/) is the prerequisite for [Swiss naturalization](/blog/swiss-naturalization/) and eventual [Swiss citizenship](/blog/swiss-citizenship/).
+The [C permit](/immigration/c-permit-switzerland/) is the prerequisite for [Swiss naturalization](/immigration/swiss-naturalization/) and eventual [Swiss citizenship](/immigration/swiss-citizenship/).
 
 ---
 
 ## Step-by-Step Process for EU/EEA National Starting Work in Switzerland
 
 **Before arrival:**
-- EU/EEA nationals do not need a [visa](/blog/swiss-visa/) to enter Switzerland
+- EU/EEA nationals do not need a [visa](/immigration/swiss-visa/) to enter Switzerland
 - Ensure you have a valid passport or national ID card
 
 **Within 14 days of arrival (for stays > 90 days):**
@@ -159,9 +159,9 @@ EU/EEA nationals who are **self-employed** in Switzerland (freelancers, consulta
 - Entitled to a B permit for self-employed activity
 - Must demonstrate genuine economic activity (business plan, client contracts, or revenue history)
 - Register as self-employed with AHV (social insurance) — mandatory
-- Register for [VAT](/blog/vat-switzerland/) if turnover exceeds CHF 100,000/year
+- Register for [VAT](/tax-accounting/vat-switzerland/) if turnover exceeds CHF 100,000/year
 
-No labour market test applies — EU/EEA self-employed persons do not need to show that a Swiss national was not available for the work. Those planning to establish a formal business should also consider [company formation in Switzerland](/blog/company-formation-switzerland/) as a parallel step.
+No labour market test applies — EU/EEA self-employed persons do not need to show that a Swiss national was not available for the work. Those planning to establish a formal business should also consider [company formation in Switzerland](/company-formation/company-formation-switzerland/) as a parallel step.
 
 ---
 
@@ -185,8 +185,8 @@ For EU/EEA nationals who wish to build a long-term future in Switzerland, the pa
 
 1. **B permit:** Issued upon arrival with employment (year 0)
 2. **C permit:** After 5 years of continuous residence for EU-15/EFTA nationals
-3. **[Swiss naturalization](/blog/swiss-naturalization/):** After 10 years of total residence, with C permit held
-4. **[Swiss passport](/blog/swiss-passport/):** Issued upon confirmation of citizenship
+3. **[Swiss naturalization](/immigration/swiss-naturalization/):** After 10 years of total residence, with C permit held
+4. **[Swiss passport](/immigration/swiss-passport/):** Issued upon confirmation of citizenship
 
 The relatively straightforward permit process for EU nationals means the main barrier to citizenship is the 10-year residence requirement, not the permit system itself.
 
@@ -194,7 +194,7 @@ The relatively straightforward permit process for EU nationals means the main ba
 
 ## Employment Law Considerations
 
-EU/EEA nationals working in Switzerland are subject to Swiss [employment law](/blog/employment-law-switzerland/), not EU labour law. Key points include:
+EU/EEA nationals working in Switzerland are subject to Swiss [employment law](/employment-law/employment-law-switzerland/), not EU labour law. Key points include:
 
 - **Probation period:** Maximum 3 months under Art. 335b CO
 - **Notice period:** 1 month in the first year, 2 months in years 2–9, 3 months from year 10
@@ -211,7 +211,7 @@ You can enter Switzerland as an EU/EEA national without a job offer and search f
 
 **Can my EU/EEA national family members join me in Switzerland?**
 
-Yes. Spouses and dependent children of EU/EEA permit holders have derived rights to join and reside in Switzerland, regardless of their own nationality. This includes non-EU/EEA family members under the [family reunification](/blog/family-reunification-switzerland/) provisions of the AFMP.
+Yes. Spouses and dependent children of EU/EEA permit holders have derived rights to join and reside in Switzerland, regardless of their own nationality. This includes non-EU/EEA family members under the [family reunification](/immigration/family-reunification-switzerland/) provisions of the AFMP.
 
 **Does Brexit affect UK nationals working in Switzerland?**
 

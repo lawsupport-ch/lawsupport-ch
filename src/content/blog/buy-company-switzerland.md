@@ -3,7 +3,7 @@ title: "Buy a Company in Switzerland: Process & Legal Guide"
 description: "How to buy a Swiss company: finding targets, LOI, due diligence, SPA structuring, financing, and closing. Practical guide from Lawsupport, Zug."
 date: "19.03.2026"
 category: "Corporate Transactions"
-categoryHref: "/blog/"
+categoryHref: "/corporate-transactions/"
 readTime: "13 min read"
 tocItems:
   - id: "why-buy-rather-than-form"
@@ -109,7 +109,7 @@ A newly incorporated Swiss AG or GmbH takes 5–10 business days to register. Th
 
 The trade-off is that you also step into whatever liabilities the target carries — disclosed and, without proper due diligence, undisclosed. Structuring the deal correctly is how you manage that.
 
-For a broader look at corporate structuring options, see our guide to [company formation in Switzerland](/blog/company-formation-switzerland/).
+For a broader look at corporate structuring options, see our guide to [company formation in Switzerland](/company-formation/company-formation-switzerland/).
 
 ---
 
@@ -123,7 +123,7 @@ The Swiss SME market is large and relatively illiquid. Most deals happen off-mar
 - **Cantonal chambers of commerce.** Several cantonal chambers maintain business succession databases, particularly relevant for family-owned SMEs where the owner is approaching retirement with no internal successor.
 - **Industry networks and trade associations.** For sector-specific acquisitions, trade bodies often know which businesses are quietly in play.
 
-If speed of market entry is the priority, a [shelf company in Switzerland](/blog/shelf-company-switzerland/) — a dormant, already-registered entity — offers an alternative to a full acquisition process and can be operational within days.
+If speed of market entry is the priority, a [shelf company in Switzerland](/company-formation/shelf-company-switzerland/) — a dormant, already-registered entity — offers an alternative to a full acquisition process and can be operational within days.
 
 ---
 
@@ -156,13 +156,13 @@ A standard Swiss acquisition due diligence covers:
 - **IP:** ownership of trade marks, patents, domain names, software — particularly whether IP sits in the target or in a related entity.
 - **Employment:** employment contracts, collective agreements, pension obligations (BVG/LPP), pending dismissals. Under Article 333 CO, employment contracts transfer automatically to the acquirer in an asset deal or business transfer; employees have a right to object.
 
-The due diligence findings directly shape the representations and warranties requested in the SPA and any specific indemnities. See our detailed guide on [due diligence in Switzerland](/blog/due-diligence-switzerland/) for a full walkthrough.
+The due diligence findings directly shape the representations and warranties requested in the SPA and any specific indemnities. See our detailed guide on [due diligence in Switzerland](/corporate-transactions/due-diligence-switzerland/) for a full walkthrough.
 
 ---
 
 ## The Share Purchase Agreement
 
-The SPA is the central transaction document. In Swiss law, share transfers for an AG are effected by endorsement of the share certificate and entry in the share ledger — there is no public registration requirement for the transfer itself. For a GmbH, the quota transfer must be notarised and filed with the [Commercial Register](/blog/commercial-register-switzerland/). Both structures are covered under the Swiss Code of Obligations (CO).
+The SPA is the central transaction document. In Swiss law, share transfers for an AG are effected by endorsement of the share certificate and entry in the share ledger — there is no public registration requirement for the transfer itself. For a GmbH, the quota transfer must be notarised and filed with the [Commercial Register](/company-formation/commercial-register-switzerland/). Both structures are covered under the Swiss Code of Obligations (CO).
 
 Key SPA provisions:
 
@@ -235,7 +235,7 @@ Completion is not the end of the process. Immediate post-closing items include:
 - Integration planning — systems, brand, reporting lines.
 - Notification to key customers and suppliers where commercially appropriate.
 
-For more complex group restructurings following an acquisition, see our overview of [corporate restructuring in Switzerland](/blog/corporate-restructuring-switzerland/).
+For more complex group restructurings following an acquisition, see our overview of [corporate restructuring in Switzerland](/corporate-transactions/corporate-restructuring-switzerland/).
 
 ---
 
@@ -245,7 +245,7 @@ Switzerland's Lex Koller legislation (officially the *Bundesgesetz über den Erw
 
 The issue arises when the target company holds Swiss residential property — for example, a property developer or a company with staff accommodation. In that scenario, a Lex Koller analysis is required before signing. Lex Friedrich, the predecessor regime, shaped the current rules; the term is still used colloquially in practice.
 
-See our [mergers and acquisitions Switzerland overview](/blog/mergers-acquisitions-switzerland/) for cross-border structuring considerations.
+See our [mergers and acquisitions Switzerland overview](/corporate-transactions/mergers-acquisitions-switzerland/) for cross-border structuring considerations.
 
 ---
 
@@ -378,7 +378,7 @@ In a share deal, the buyer acquires the company's shares and inherits all assets
 
 **What due diligence should I carry out before buying a Swiss company?**
 
-A standard Swiss acquisition due diligence covers: legal (corporate structure, share register, material contracts, change-of-control clauses, litigation), financial (audited accounts, working capital, net debt), tax (corporate tax, VAT, withholding tax, open audits), regulatory (licences, permits, FINMA status), IP (trade marks, patents, software ownership), and employment (contracts, BVG pension obligations, collective agreements). The findings directly shape the warranty and indemnity protections in the SPA. Our [due diligence guide](/blog/due-diligence-switzerland/) covers each workstream in detail.
+A standard Swiss acquisition due diligence covers: legal (corporate structure, share register, material contracts, change-of-control clauses, litigation), financial (audited accounts, working capital, net debt), tax (corporate tax, VAT, withholding tax, open audits), regulatory (licences, permits, FINMA status), IP (trade marks, patents, software ownership), and employment (contracts, BVG pension obligations, collective agreements). The findings directly shape the warranty and indemnity protections in the SPA. Our [due diligence guide](/corporate-transactions/due-diligence-switzerland/) covers each workstream in detail.
 
 **Can a foreigner buy a Swiss company?**
 
@@ -406,7 +406,7 @@ An earn-out defers part of the purchase price, making it contingent on the targe
 
 **What Commercial Register changes are required after buying a Swiss company?**
 
-For an AG: the share transfer itself is not registered in the [Commercial Register](/blog/commercial-register-switzerland/). The buyer is recorded in the company's internal share ledger. Any director or signatory changes must be filed with the relevant cantonal register. For a GmbH: the quota transfer requires a publicly notarised deed, and the new owner's name appears in the Commercial Register. Both types of filing are typically completed within 1–2 weeks of closing.
+For an AG: the share transfer itself is not registered in the [Commercial Register](/company-formation/commercial-register-switzerland/). The buyer is recorded in the company's internal share ledger. Any director or signatory changes must be filed with the relevant cantonal register. For a GmbH: the quota transfer requires a publicly notarised deed, and the new owner's name appears in the Commercial Register. Both types of filing are typically completed within 1–2 weeks of closing.
 
 **Do I need a Swiss lawyer to buy a Swiss company?**
 

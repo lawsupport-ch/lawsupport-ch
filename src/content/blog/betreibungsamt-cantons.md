@@ -3,7 +3,7 @@ title: "Betreibungsamt Switzerland: Offices by Canton"
 description: "Find the Betreibungsamt for every Swiss canton, request a Betreibungsregisterauszug, and understand how SchKG debt enforcement works step by step."
 date: "19.03.2026"
 category: "Swiss Legal System"
-categoryHref: "/blog/"
+categoryHref: "/corporate-services/"
 readTime: "9 min read"
 tocItems:
   - id: "what-the-betreibungsamt-does"
@@ -109,7 +109,7 @@ Core functions:
 - **Konkurs (bankruptcy):** For legal entities (AG, GmbH), initiates bankruptcy proceedings under a court's bankruptcy decree (Art. 159–270 SchKG)
 - **Betreibungsregisterauszug:** Issues official register extracts showing a person's or company's debt enforcement history (Art. 8a SchKG)
 
-See also: [Swiss debt collection procedures explained →](/blog/debt-collection-switzerland/)
+See also: [Swiss debt collection procedures explained →](/company-formation/debt-collection-switzerland/)
 
 ---
 
@@ -239,13 +239,13 @@ Within **10 days** of receiving the Zahlungsbefehl, the debtor may:
 
 **Step 5 — Pfändung or Konkurs (Art. 89 SchKG)**
 
-Where no Rechtsvorschlag was raised (or it was successfully lifted), the creditor applies for Pfändung. For legal entities (AG, GmbH), the next step is a Konkursbegehren (bankruptcy application) filed with the court — there is no Pfändung for corporate debtors. See our guide on [bankruptcy proceedings in Switzerland →](/blog/bankruptcy-switzerland/) for the full corporate insolvency process.
+Where no Rechtsvorschlag was raised (or it was successfully lifted), the creditor applies for Pfändung. For legal entities (AG, GmbH), the next step is a Konkursbegehren (bankruptcy application) filed with the court — there is no Pfändung for corporate debtors. See our guide on [bankruptcy proceedings in Switzerland →](/company-formation/bankruptcy-switzerland/) for the full corporate insolvency process.
 
 **Step 6 — Verwertung (Art. 116 SchKG)**
 
 Seized assets are realised (sold by auction) and proceeds distributed. If assets are insufficient, the Betreibungsamt issues a **Verlustschein** — the creditor's evidence of an unpaid and unrecovered claim.
 
-For guidance on dissolving a company following enforcement proceedings, see [company liquidation in Switzerland →](/blog/company-liquidation-switzerland/).
+For guidance on dissolving a company following enforcement proceedings, see [company liquidation in Switzerland →](/company-formation/company-liquidation-switzerland/).
 
 ---
 
@@ -293,7 +293,7 @@ While the SchKG is federal law applying uniformly, cantons have limited areas of
 - **Language:** German, French, or Italian depending on canton (Valais and Fribourg are bilingual; Graubünden is trilingual)
 - **Bankruptcy proceedings:** While SchKG bankruptcy rules are federal, cantonal courts apply them. Cantonal civil procedure supplements the SchKG where gaps exist
 
-For a canton-by-canton company registration comparison, see the [commercial register by canton →](/blog/commercial-register-cantons/).
+For a canton-by-canton company registration comparison, see the [commercial register by canton →](/company-formation/commercial-register-cantons/).
 
 ---
 
@@ -346,7 +346,7 @@ A Betreibungsregisterauszug is an official extract from the debt enforcement reg
 
 **How does the SchKG debt enforcement process work?**
 
-The process starts when a creditor files a Betreibungsbegehren at the Betreibungsamt of the debtor's domicile. The office issues a Zahlungsbefehl. The debtor has 10 days to raise a Rechtsvorschlag (objection). Without an objection, the creditor applies for Pfändung (seizure), followed by Verwertung (auction). For corporate debtors (AG, GmbH), enforcement leads to Konkurs (bankruptcy) rather than Pfändung. Full detail on each step is in the [Swiss debt collection guide →](/blog/debt-collection-switzerland/).
+The process starts when a creditor files a Betreibungsbegehren at the Betreibungsamt of the debtor's domicile. The office issues a Zahlungsbefehl. The debtor has 10 days to raise a Rechtsvorschlag (objection). Without an objection, the creditor applies for Pfändung (seizure), followed by Verwertung (auction). For corporate debtors (AG, GmbH), enforcement leads to Konkurs (bankruptcy) rather than Pfändung. Full detail on each step is in the [Swiss debt collection guide →](/company-formation/debt-collection-switzerland/).
 
 ---
 
@@ -394,23 +394,23 @@ A Verlustschein (certificate of loss) is issued by the Betreibungsamt when enfor
 
 **What is the difference between Pfändung and Konkurs?**
 
-Pfändung (seizure) applies to individuals and sole proprietors: specific assets are seized and sold. Konkurs (bankruptcy) applies to legal entities (AG, GmbH, cooperatives) and certain commercially registered individuals: the debtor's entire estate is liquidated. The distinction follows from Art. 39–43 SchKG. See our guides on [bankruptcy in Switzerland →](/blog/bankruptcy-switzerland/) and [company liquidation →](/blog/company-liquidation-switzerland/) for what happens to companies.
+Pfändung (seizure) applies to individuals and sole proprietors: specific assets are seized and sold. Konkurs (bankruptcy) applies to legal entities (AG, GmbH, cooperatives) and certain commercially registered individuals: the debtor's entire estate is liquidated. The distinction follows from Art. 39–43 SchKG. See our guides on [bankruptcy in Switzerland →](/company-formation/bankruptcy-switzerland/) and [company liquidation →](/company-formation/company-liquidation-switzerland/) for what happens to companies.
 
 ---
 
 **How do I find the correct Betreibungsamt for a debtor?**
 
-The correct office is the Betreibungsamt of the debtor's domicile commune (individuals) or registered address commune (companies). For companies, check the commercial register entry to confirm the registered address — this determines the Betreibungskreis. See [the commercial register by canton →](/blog/commercial-register-cantons/) for how to look up a company's registered seat.
+The correct office is the Betreibungsamt of the debtor's domicile commune (individuals) or registered address commune (companies). For companies, check the commercial register entry to confirm the registered address — this determines the Betreibungskreis. See [the commercial register by canton →](/company-formation/commercial-register-cantons/) for how to look up a company's registered seat.
 
 ---
 
 ## Related Guides
 
-- [Debt Collection in Switzerland →](/blog/debt-collection-switzerland/)
-- [Bankruptcy in Switzerland →](/blog/bankruptcy-switzerland/)
-- [Company Liquidation in Switzerland →](/blog/company-liquidation-switzerland/)
-- [Commercial Register by Canton →](/blog/commercial-register-cantons/)
-- [Company Formation in Switzerland →](/blog/company-formation-switzerland/)
+- [Debt Collection in Switzerland →](/company-formation/debt-collection-switzerland/)
+- [Bankruptcy in Switzerland →](/company-formation/bankruptcy-switzerland/)
+- [Company Liquidation in Switzerland →](/company-formation/company-liquidation-switzerland/)
+- [Commercial Register by Canton →](/company-formation/commercial-register-cantons/)
+- [Company Formation in Switzerland →](/company-formation/company-formation-switzerland/)
 
 ---
 

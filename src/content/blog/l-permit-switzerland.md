@@ -4,7 +4,7 @@ description: "Swiss L permit explained: who qualifies, maximum duration, renewal
 date: "19.03.2026"
 publishDate: "2026-04-25"
 category: "Immigration"
-categoryHref: "/blog/"
+categoryHref: "/immigration/"
 readTime: "6 min read"
 faqItems:
   - question: "Can I convert my L permit to a B permit?"
@@ -43,7 +43,7 @@ Switzerland's permit system is precise by design. Each category corresponds to a
 
 ## What Is the L Permit?
 
-The L permit is Switzerland's short-term residence permit, issued for stays of up to 12 months. It is tied to a specific purpose — almost always employment or education — and to a specific employer or institution. It does not confer open-ended residence rights, does not automatically enable family reunification for non-EU/EFTA nationals, and does not accumulate toward the permanent residence (C permit) timeline in the same way as a [B permit](/blog/b-permit-switzerland/).
+The L permit is Switzerland's short-term residence permit, issued for stays of up to 12 months. It is tied to a specific purpose — almost always employment or education — and to a specific employer or institution. It does not confer open-ended residence rights, does not automatically enable family reunification for non-EU/EFTA nationals, and does not accumulate toward the permanent residence (C permit) timeline in the same way as a [B permit](/immigration/b-permit-switzerland/).
 
 The permit is issued by the cantonal migration authority (Migrationsamt) of the canton where the holder will live and work. The card itself is issued after the holder registers with the local residents' registration office (Einwohnerkontrolle) within 14 days of arrival — a legal obligation, not a formality.
 
@@ -63,14 +63,14 @@ Key point for EU/EFTA holders: the L permit tracks the employment contract. If t
 
 For third-country nationals, the L permit operates under a substantially more restrictive regime. The national annual quota sits at approximately 5'200 L permits. Cantonal sub-quotas apply, and in high-demand cantons — Zurich, Geneva, Zug — quota exhaustion mid-year is not uncommon. Timing matters.
 
-Beyond quota, a non-EU/EFTA national seeking an L permit must satisfy the same criteria applied to a [B permit](/blog/b-permit-switzerland/):
+Beyond quota, a non-EU/EFTA national seeking an L permit must satisfy the same criteria applied to a [B permit](/immigration/b-permit-switzerland/):
 
 - **Skilled worker status.** The candidate must hold qualifications relevant to the role.
 - **Priority check (Inlaendervorrang).** The employer must demonstrate the position cannot be filled by a Swiss national, an EU/EFTA national, or a person already holding a valid Swiss residence permit.
 - **Employer sponsorship.** The employer submits the application; individuals cannot self-sponsor.
 - **Salary equivalence.** Remuneration must meet the customary local and sector salary for the role. Undercutting Swiss wage levels to reduce costs is not permissible and is a common ground for refusal.
 
-The only material difference from the B permit application is the intended duration: the L permit is for assignments that are, genuinely, temporary and under 12 months. For an overview of all permit categories, see our guide to [work permits in Switzerland](/blog/work-permit-switzerland/).
+The only material difference from the B permit application is the intended duration: the L permit is for assignments that are, genuinely, temporary and under 12 months. For an overview of all permit categories, see our guide to [work permits in Switzerland](/immigration/work-permit-switzerland/).
 
 ---
 
@@ -80,7 +80,7 @@ The L permit is issued for the duration of the employment contract, up to a maxi
 
 Renewal is possible where the underlying employment continues and the total stay remains under 12 months, or where a new qualifying contract begins. However, cantonal authorities scrutinise repeated renewal requests. The L permit is designed for genuinely temporary stays. Where patterns suggest an employer is cycling workers through consecutive short-term permits to avoid the B permit process, authorities will push back. After repeated renewals, or once total employment exceeds 12 months, the expected outcome is either conversion to a B permit or departure from Switzerland.
 
-If employment extends beyond one year, the transition to a [B permit](/blog/b-permit-switzerland/) is the standard path. That transition is not automatic — a new application is required — but it is the legally anticipated route.
+If employment extends beyond one year, the transition to a [B permit](/immigration/b-permit-switzerland/) is the standard path. That transition is not automatic — a new application is required — but it is the legally anticipated route.
 
 ---
 
@@ -134,7 +134,7 @@ For anyone whose role does not fit cleanly into these categories, or where the e
 | **Source tax** | Yes — always | Depends on income level | Yes — always |
 | **Right to change employer** | No — new permit required | Yes, with notification | Yes, with notification |
 
-For a broader overview of all Swiss work authorisation categories, see our guide to [work permits in Switzerland](/blog/work-permit-switzerland/). For cross-border commuters specifically, see the [G permit guide](/blog/g-permit-switzerland/).
+For a broader overview of all Swiss work authorisation categories, see our guide to [work permits in Switzerland](/immigration/work-permit-switzerland/). For cross-border commuters specifically, see the [G permit guide](/immigration/g-permit-switzerland/).
 
 ---
 
@@ -146,7 +146,7 @@ Yes, in most cases. Where employment extends beyond 12 months, the transition fr
 
 **Does time on an L permit count toward Swiss permanent residence (C permit)?**
 
-Not in the same way as time on a B permit. L permit periods are generally not credited toward the qualifying residence periods (typically 10 years for most non-EU/EFTA nationals, 5 years for EU/EFTA nationals) required for a C permit. If long-term residence in Switzerland is the objective, the B permit is the appropriate starting point. See our guide on [immigrating to Switzerland](/blog/immigrate-to-switzerland/) for the full pathway.
+Not in the same way as time on a B permit. L permit periods are generally not credited toward the qualifying residence periods (typically 10 years for most non-EU/EFTA nationals, 5 years for EU/EFTA nationals) required for a C permit. If long-term residence in Switzerland is the objective, the B permit is the appropriate starting point. See our guide on [immigrating to Switzerland](/immigration/immigrate-to-switzerland/) for the full pathway.
 
 **My employer wants to renew my L permit for another 12 months. Is that possible?**
 
@@ -154,7 +154,7 @@ A renewal that would push total employment in Switzerland beyond 12 months is no
 
 **Can I bring my family to Switzerland on an L permit?**
 
-For non-EU/EFTA nationals, family reunification is not available under the L permit category. Your spouse and children cannot obtain dependent permits based on your L permit. EU/EFTA nationals have broader rights under the AFMP, but these are limited for genuinely short-term stays. If family accompaniment is essential, the [B permit](/blog/b-permit-switzerland/) is the appropriate route.
+For non-EU/EFTA nationals, family reunification is not available under the L permit category. Your spouse and children cannot obtain dependent permits based on your L permit. EU/EFTA nationals have broader rights under the AFMP, but these are limited for genuinely short-term stays. If family accompaniment is essential, the [B permit](/immigration/b-permit-switzerland/) is the appropriate route.
 
 **What happens if my employment contract ends before my L permit expires?**
 
@@ -174,7 +174,7 @@ Processing typically takes 6 to 12 weeks from submission of a complete applicati
 
 **Can an L permit holder open a Swiss bank account?**
 
-Yes, but some banks are reluctant to open accounts for short-term residents. A valid L permit, employment contract, and proof of Swiss address are typically required. The [corporate bank account guide](/blog/corporate-bank-account-switzerland/) covers banking requirements in more detail, though personal accounts follow similar identity verification procedures.
+Yes, but some banks are reluctant to open accounts for short-term residents. A valid L permit, employment contract, and proof of Swiss address are typically required. The [corporate bank account guide](/banking/corporate-bank-account-switzerland/) covers banking requirements in more detail, though personal accounts follow similar identity verification procedures.
 
 **Is there a minimum salary requirement for an L permit?**
 

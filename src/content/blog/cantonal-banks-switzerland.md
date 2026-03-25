@@ -3,7 +3,7 @@ title: "Cantonal Banks Switzerland: Full List & Guide (2026)"
 description: "Switzerland has 24 cantonal banks — state-owned, state-guaranteed, regionally focused. Full list, key banks, and how to open a corporate account."
 date: "19.03.2026"
 category: "Banking & Finance"
-categoryHref: "/blog/"
+categoryHref: "/banking/"
 readTime: "7 min read"
 tocItems:
   - id: "what-cantonal-banks-are"
@@ -21,7 +21,7 @@ tocItems:
 
 Switzerland has 24 cantonal banks — one per canton. State-owned or majority state-owned, most carry a cantonal government guarantee on deposits. They form the backbone of Swiss regional banking, providing retail accounts, mortgages, SME lending, and — increasingly — corporate banking services for internationally owned companies. This guide explains what cantonal banks are, lists all 24, and covers their relevance for foreign businesses.
 
-For a broader overview of Switzerland's banking system, see [Swiss banking system](/blog/swiss-banking-system/).
+For a broader overview of Switzerland's banking system, see [Swiss banking system](/banking/swiss-banking-system/).
 
 ---
 
@@ -82,7 +82,7 @@ Cantonal banks are chartered under cantonal legislation, majority-owned by their
 
 **BCGE (Banque Cantonale de Genève):** The key cantonal bank for Geneva's international community — private clients, NGOs, international organisations, and financial sector firms. BCGE carries an explicit state guarantee from the Canton of Geneva.
 
-For a comparison of how cantonal banks sit within Switzerland's full banking spectrum, see [Swiss bank account](/blog/swiss-bank-account/) and [best Swiss banks for foreigners](/blog/best-swiss-banks-foreigners/).
+For a comparison of how cantonal banks sit within Switzerland's full banking spectrum, see [Swiss bank account](/banking/swiss-bank-account/) and [best Swiss banks for foreigners](/banking/best-swiss-banks-foreigners/).
 
 ---
 
@@ -97,13 +97,13 @@ Cantonal banks are the most accessible route for foreign-owned Swiss companies t
 
 Standard documentation required is similar across Swiss banks: commercial register extract, articles of association, Form A (beneficial owner declaration), passports for all UBOs, source of funds documentation, and a business description.
 
-For a full breakdown of what Swiss banks require, see [corporate bank account Switzerland](/blog/corporate-bank-account-switzerland/).
+For a full breakdown of what Swiss banks require, see [corporate bank account Switzerland](/banking/corporate-bank-account-switzerland/).
 
 ---
 
 ## Cantonal Banks vs. Private Banks
 
-Cantonal banks and [private banking Switzerland](/blog/private-banking-switzerland/) serve different client profiles. Cantonal banks focus on regional retail and SME banking, with the added security of state guarantees. Private banks — many based in Geneva and Zurich — focus on wealth management for high-net-worth individuals, typically requiring minimum assets and offering discretionary portfolio management. For most operating companies and SMEs, a cantonal bank is the practical choice. For personal wealth structuring alongside a Swiss company, a private bank or the private banking arm of ZKB or BCGE may be more appropriate.
+Cantonal banks and [private banking Switzerland](/banking/private-banking-switzerland/) serve different client profiles. Cantonal banks focus on regional retail and SME banking, with the added security of state guarantees. Private banks — many based in Geneva and Zurich — focus on wealth management for high-net-worth individuals, typically requiring minimum assets and offering discretionary portfolio management. For most operating companies and SMEs, a cantonal bank is the practical choice. For personal wealth structuring alongside a Swiss company, a private bank or the private banking arm of ZKB or BCGE may be more appropriate.
 
 ---
 

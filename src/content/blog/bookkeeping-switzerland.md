@@ -3,7 +3,7 @@ title: "Bookkeeping Switzerland: Rules & Requirements (2026)"
 description: "Bookkeeping rules for Swiss companies under Art. 957–963 CO: who must keep books, double-entry rules, retention, and outsourcing costs. Get expert help."
 date: "19.03.2026"
 category: "Tax & Accounting"
-categoryHref: "/blog/"
+categoryHref: "/tax-accounting/"
 readTime: "12 min read"
 tocItems:
   - id: "legal-basis-art-957963-of-the-swiss-code-of-obligations"
@@ -73,7 +73,7 @@ Swiss bookkeeping law is codified in **Articles 957 to 958f of the Swiss Code of
 
 The law establishes a tiered system. The level of accounting complexity required depends on the legal form and size of the entity.
 
-For a broader overview of Swiss accounting and statutory obligations, see our guide to [accounting requirements in Switzerland](/blog/accounting-switzerland/).
+For a broader overview of Swiss accounting and statutory obligations, see our guide to [accounting requirements in Switzerland](/tax-accounting/accounting-switzerland/).
 
 ---
 
@@ -213,7 +213,7 @@ Key differences to be aware of:
 - **Intercompany transactions.** Related-party transactions must be conducted at arm's length. Swiss tax authorities challenge intercompany service fees, royalties, or interest charges that deviate materially from market rates.
 - **Thin capitalisation.** Switzerland has safe harbour debt-to-equity ratios. If a company is over-leveraged relative to its asset base, excess interest payments may be recharacterised as hidden profit distributions and denied as a tax deduction.
 
-For detailed guidance on the tax treatment of Swiss companies, see our page on [corporate tax Switzerland](/blog/corporate-tax-switzerland/).
+For detailed guidance on the tax treatment of Swiss companies, see our page on [corporate tax Switzerland](/tax-accounting/corporate-tax-switzerland/).
 
 ---
 
@@ -229,7 +229,7 @@ Failure to maintain proper books is not a minor administrative oversight in Swit
 
 **Company dissolution.** Persistent failure to produce annual accounts or hold an AGM can, in extreme cases, lead to the cantonal registry initiating dissolution proceedings.
 
-See our guide to [corporate tax return filing in Switzerland](/blog/corporate-tax-return-switzerland/) for the interaction between accounting obligations and tax deadlines.
+See our guide to [corporate tax return filing in Switzerland](/tax-accounting/corporate-tax-return-switzerland/) for the interaction between accounting obligations and tax deadlines.
 
 ---
 
@@ -253,7 +253,7 @@ Foreign-owned Swiss companies — holding companies, IP boxes, trading entities,
 
 The Swiss market has a clear set of preferred platforms:
 
-- **Bexio** — the dominant choice for Swiss SMEs and newly formed GmbH/AG structures. Cloud-based, Swiss-hosted, integrates with Swiss banks, supports VAT filing. The most practical starting point for most of our clients. See our overview of [Swiss accounting software](/blog/swiss-accounting-software/) for a full comparison.
+- **Bexio** — the dominant choice for Swiss SMEs and newly formed GmbH/AG structures. Cloud-based, Swiss-hosted, integrates with Swiss banks, supports VAT filing. The most practical starting point for most of our clients. See our overview of [Swiss accounting software](/corporate-services/swiss-accounting-software/) for a full comparison.
 - **Abacus** — the standard for mid-sized Swiss companies with more complex needs, including payroll, project accounting, and multi-entity setups.
 - **Banana Accounting** — a lightweight, affordable option often used by sole proprietors and small associations. Less suited to complex GmbH/AG structures.
 - **Sage 50** — used by a segment of Swiss SMEs, particularly those with connections to the broader European Sage ecosystem.
@@ -276,7 +276,7 @@ Annual account preparation (balance sheet, P&L, notes, and tax return) is typica
 
 The key variable is transaction volume. A holding company with a small number of dividend receipts and management fee invoices per year costs far less to administer than an operating company processing hundreds of purchase and sales invoices monthly.
 
-For companies that have fallen behind on their accounts, see our [accounting recovery Switzerland](/blog/accounting-recovery-switzerland/) service.
+For companies that have fallen behind on their accounts, see our [accounting recovery Switzerland](/tax-accounting/accounting-recovery-switzerland/) service.
 
 ---
 
@@ -296,7 +296,7 @@ Our bookkeeping service includes:
 
 We work with clients across 40+ countries and understand the specific requirements that arise when a Swiss entity sits within a larger international structure. All work is performed by qualified professionals with 18+ years of experience in Swiss company law and taxation.
 
-If you are setting up a new Swiss company or taking over an existing one, we can also assist with the company formation process. See our [company formation Switzerland](/blog/company-formation-switzerland/) page for details.
+If you are setting up a new Swiss company or taking over an existing one, we can also assist with the company formation process. See our [company formation Switzerland](/company-formation/company-formation-switzerland/) page for details.
 
 ---
 
@@ -351,7 +351,7 @@ You choose your financial year at incorporation — it can be any 12-month perio
 
 **What are the consequences of not maintaining proper bookkeeping in Switzerland?**
 
-Non-compliance operates on several levels. Directors face personal liability if the company becomes over-indebted and proper accounts were not maintained. Deliberate failure to keep books is a criminal offence under Art. 166 of the Swiss Criminal Code. Tax authorities may estimate taxable income if records are absent or unreliable. In serious cases, cantonal registries can initiate dissolution proceedings. See our [corporate tax return Switzerland](/blog/corporate-tax-return-switzerland/) page for related filing obligations.
+Non-compliance operates on several levels. Directors face personal liability if the company becomes over-indebted and proper accounts were not maintained. Deliberate failure to keep books is a criminal offence under Art. 166 of the Swiss Criminal Code. Tax authorities may estimate taxable income if records are absent or unreliable. In serious cases, cantonal registries can initiate dissolution proceedings. See our [corporate tax return Switzerland](/tax-accounting/corporate-tax-return-switzerland/) page for related filing obligations.
 
 **What does outsourcing bookkeeping in Switzerland typically cost?**
 

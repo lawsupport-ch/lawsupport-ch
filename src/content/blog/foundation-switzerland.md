@@ -4,7 +4,7 @@ description: "Swiss Stiftung (foundation): formation requirements, governance, t
 date: "19.03.2026"
 publishDate: "2026-03-28"
 category: "Company Formation"
-categoryHref: "/services/company-formation/"
+categoryHref: "/company-formation/"
 readTime: "7 min read"
 faqItems:
   - question: "Can a foundation distribute profits to its founder?"
@@ -37,7 +37,6 @@ tocItems:
 ---
 
 
-!<a href="https://lawsupport.ch/images/foundation-switzerland-hero.jpg" target="_blank" rel="nofollow noopener">Swiss foundation (Stiftung) — formation, governance and tax status guide</a>
 
 A Swiss foundation (Stiftung) is an independent legal entity created to pursue a specific purpose using dedicated assets. Unlike companies (which serve shareholders) or associations (which serve members), a foundation has no owners or members — it exists solely to fulfil the purpose declared in its charter. Switzerland has approximately 13,000 foundations, making it one of the world's most foundation-rich countries relative to population.
 
@@ -47,7 +46,6 @@ The foundation structure is used across philanthropy, employee benefits, family 
 
 ## Legal Basis
 
-!<a href="https://lawsupport.ch/images/foundation-legal-basis-switzerland.jpg" target="_blank" rel="nofollow noopener">Legal basis for Swiss foundations — Swiss Civil Code and supervisory framework</a>
 
 Swiss foundations are governed by Articles 80–89a of the Swiss Civil Code (ZGB) and, for certain types, the Code of Obligations. They are supervised by a federal or cantonal supervisory authority depending on their geographic scope and purpose.
 
@@ -57,7 +55,6 @@ The full text of the relevant ZGB provisions is available on <a href="https://ww
 
 ## Types of Swiss Foundations
 
-!<a href="https://lawsupport.ch/images/types-of-swiss-foundations.jpg" target="_blank" rel="nofollow noopener">Types of Swiss foundations — charitable, family, employee benefit, and crypto protocol</a>
 
 **Charitable foundation (gemeinnützige Stiftung):** The most common type. Pursues a public benefit purpose — education, culture, science, poverty relief, environmental protection. Can apply for tax-exempt status.
 
@@ -73,7 +70,6 @@ The full text of the relevant ZGB provisions is available on <a href="https://ww
 
 ## Formation Requirements
 
-!<a href="https://lawsupport.ch/images/foundation-formation-requirements.jpg" target="_blank" rel="nofollow noopener">Swiss foundation formation requirements — charter, notary, and Commercial Register</a>
 
 A Swiss foundation requires:
 
@@ -100,7 +96,6 @@ A Swiss foundation requires:
 
 ## Governance Structure
 
-!<a href="https://lawsupport.ch/images/foundation-governance-switzerland.jpg" target="_blank" rel="nofollow noopener">Swiss foundation board (Stiftungsrat) — governance and responsibilities</a>
 
 A foundation must have a foundation board (Stiftungsrat) — the supreme governing body. A minimum of three members is recommended, though not legally mandated.
 
@@ -118,7 +113,6 @@ There are no shareholders or members to whom the board is accountable — the su
 
 ## Tax-Exempt Status
 
-!<a href="https://lawsupport.ch/images/foundation-tax-exemption-switzerland.jpg" target="_blank" rel="nofollow noopener">Tax exemption for Swiss charitable foundations</a>
 
 A charitable foundation pursuing a public benefit purpose can apply to the cantonal tax authority for **tax exemption** (Steuerbefreiung). Requirements:
 - Purpose is exclusively public benefit (not private enrichment)
@@ -129,7 +123,7 @@ A tax-exempt Swiss foundation pays no cantonal income tax or wealth tax on found
 
 Donations to tax-exempt Swiss foundations are deductible from the donor's Swiss income tax up to 20% of net income.
 
-For companies considering whether a foundation or a corporate vehicle better serves their structure, see our guides on [company formation in Switzerland](/blog/company-formation-switzerland/), [GmbH formation](/blog/gmbh-formation-switzerland/), and [holding companies in Switzerland](/blog/holding-company-switzerland/). For the tax implications of different structures, see [corporate tax in Switzerland](/blog/corporate-tax-switzerland/).
+For companies considering whether a foundation or a corporate vehicle better serves their structure, see our guides on [company formation in Switzerland](/company-formation/company-formation-switzerland/), [GmbH formation](/company-formation/gmbh-formation-switzerland/), and [holding companies in Switzerland](/company-formation/holding-company-switzerland/). For the tax implications of different structures, see [corporate tax in Switzerland](/tax-accounting/corporate-tax-switzerland/).
 
 ---
 
@@ -155,7 +149,7 @@ Key considerations for a crypto protocol foundation:
 - Treasury management — holding and deploying ETH, BTC, or protocol-native tokens — is governed by the foundation charter and must serve the stated purpose.
 - Foundation boards are personally accountable to the supervisory authority. Board members of crypto foundations face the same personal liability exposure as any Swiss foundation board.
 
-For the full regulatory picture, see our guides on [FINMA licensing in Switzerland](/blog/finma-licensing-switzerland/) and the [Swiss crypto license](/blog/crypto-license-switzerland/).
+For the full regulatory picture, see our guides on [FINMA licensing in Switzerland](/licensing/finma-licensing-switzerland/) and the [Swiss crypto license](/licensing/crypto-license-switzerland/).
 
 ---
 

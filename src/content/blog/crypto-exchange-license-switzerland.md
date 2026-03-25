@@ -1,9 +1,9 @@
 ---
-title: "Crypto Exchange Licence Switzerland: FINMA Requirements (2026)"
+title: "Crypto Exchange Licence Switzerland: FINMA Guide"
 description: "Crypto exchange licence Switzerland: FINMA FinTech vs banking licence, VQF/SRO membership, AML rules, DLT Act. Contact Lawsupport for expert guidance."
 date: "19.03.2026"
 category: "Licensing & Permits"
-categoryHref: "/services/financial-licensing/"
+categoryHref: "/licensing/"
 readTime: "7 min read"
 tocItems:
   - id: "switzerlands-regulatory-framework-for-crypto-exchanges"
@@ -70,7 +70,7 @@ Switzerland does not have a single "crypto exchange licence." Instead, FINMA app
 
 The DLT Act (Federal Act on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force 2021) introduced:
 
-**DLT trading facility:** A new licence category for multilateral trading of DLT-based securities. Allows trading, clearing, and settlement in one entity — unusual globally. Requires FINMA authorisation. For a full breakdown of this category, see our guide on the [DLT trading facility Switzerland](/blog/dlt-trading-facility-switzerland/).
+**DLT trading facility:** A new licence category for multilateral trading of DLT-based securities. Allows trading, clearing, and settlement in one entity — unusual globally. Requires FINMA authorisation. For a full breakdown of this category, see our guide on the [DLT trading facility Switzerland](/licensing/dlt-trading-facility-switzerland/).
 
 **Book-entry securities on DLT:** Swiss law now recognises DLT-based ledger entries as legally valid securities (Registerwertrechte). This enables compliant tokenisation of equity, bonds, and fund units on blockchain.
 
@@ -97,7 +97,7 @@ For most crypto exchanges operating in Switzerland, the **FinTech licence (Art. 
 
 **Timeline:** 9–15 months from submission of a complete application.
 
-For a detailed overview of [FINMA licensing in Switzerland](/blog/finma-licensing-switzerland/), see our dedicated guide.
+For a detailed overview of [FINMA licensing in Switzerland](/licensing/finma-licensing-switzerland/), see our dedicated guide.
 
 ---
 
@@ -128,7 +128,7 @@ Any Swiss entity dealing in crypto assets as a financial intermediary must compl
 - Travel Rule compliance: for crypto transfers above CHF 1,000, the originator and beneficiary data must be transmitted with the transfer (FINMA Circular 2019/3)
 - Suspicious activity reporting to MROS (Money Reporting Office Switzerland)
 
-For broader context on obtaining your [crypto licence in Switzerland](/blog/crypto-license-switzerland/), see our full FINMA licensing guide.
+For broader context on obtaining your [crypto licence in Switzerland](/licensing/crypto-license-switzerland/), see our full FINMA licensing guide.
 
 ---
 
@@ -146,8 +146,8 @@ Travel Rule compliance requires implementing a protocol such as TRUST, OpenVASP,
 
 ## Practical Steps to Establish a Swiss Crypto Exchange
 
-1. **Incorporate a Swiss entity:** AG or GmbH (AG preferred for institutional credibility). See our guide to [company formation in Switzerland](/blog/company-formation-switzerland/).
-2. **Swiss domicile:** Physical office in Switzerland (Zug is the preferred location). See [company formation Zug](/blog/company-formation-zug/).
+1. **Incorporate a Swiss entity:** AG or GmbH (AG preferred for institutional credibility). See our guide to [company formation in Switzerland](/company-formation/company-formation-switzerland/).
+2. **Swiss domicile:** Physical office in Switzerland (Zug is the preferred location). See [company formation Zug](/company-formation/company-formation-zug/).
 3. **Capital:** Fund minimum CHF 300,000 (FinTech) or CHF 10M+ (banking)
 4. **Hire qualified management:** At least 2 directors with financial services/crypto experience; one Switzerland-based
 5. **AML programme:** Design and implement AML/KYC/Travel Rule framework

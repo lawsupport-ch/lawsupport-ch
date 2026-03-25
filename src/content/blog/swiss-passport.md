@@ -4,7 +4,7 @@ description: "The Swiss passport grants visa-free access to 186+ countries. The 
 date: "19.03.2026"
 publishDate: "2026-07-16"
 category: "Immigration"
-categoryHref: "/blog/"
+categoryHref: "/immigration/"
 readTime: "17 min read"
 faqItems:
   - question: "Can I buy Swiss citizenship or a Swiss passport through investment?"
@@ -66,7 +66,7 @@ Each route has distinct requirements, timelines, and procedural steps.
 
 ## Route 1: Ordinary Naturalization
 
-Ordinary naturalization (ordentliche Einbuergerung) under the <a href="https://www.fedlex.admin.ch/eli/cc/2016/404/en" target="_blank" rel="nofollow noopener">Federal Act on Swiss Citizenship (BuG)</a> is the route most foreigners living in Switzerland will pursue. It is demanding — deliberately so — but entirely achievable with proper long-term planning. For a detailed treatment of this route, see our dedicated [Swiss naturalization](/blog/swiss-naturalization/) guide.
+Ordinary naturalization (ordentliche Einbuergerung) under the <a href="https://www.fedlex.admin.ch/eli/cc/2016/404/en" target="_blank" rel="nofollow noopener">Federal Act on Swiss Citizenship (BuG)</a> is the route most foreigners living in Switzerland will pursue. It is demanding — deliberately so — but entirely achievable with proper long-term planning. For a detailed treatment of this route, see our dedicated [Swiss naturalization](/immigration/swiss-naturalization/) guide.
 
 ### Residence Requirement
 
@@ -76,7 +76,7 @@ Of those ten qualifying years, the **most recent three must be continuous and un
 
 ### Permit Requirement
 
-You must hold a valid **[C permit](/blog/c-permit-switzerland/)** (Niederlassungsbewilligung — settlement permit) at the time of application. EU/EFTA nationals become eligible for a C permit after five years of legal residence; most non-EU/EFTA nationals must wait ten years.
+You must hold a valid **[C permit](/immigration/c-permit-switzerland/)** (Niederlassungsbewilligung — settlement permit) at the time of application. EU/EFTA nationals become eligible for a C permit after five years of legal residence; most non-EU/EFTA nationals must wait ten years.
 
 ### Language Requirements
 
@@ -120,7 +120,7 @@ The combined three-level process typically takes **one to three years**. Costs v
 
 ## Route 2: Facilitated Naturalization (Spouse of a Swiss Citizen)
 
-Foreign nationals married to Swiss citizens qualify for a substantially faster route under Art. 21 BuG. This route runs entirely through the federal SEM — bypassing the cantonal and communal approval process. For full details, see our page on [Swiss citizenship by marriage](/blog/swiss-citizenship-by-marriage/).
+Foreign nationals married to Swiss citizens qualify for a substantially faster route under Art. 21 BuG. This route runs entirely through the federal SEM — bypassing the cantonal and communal approval process. For full details, see our page on [Swiss citizenship by marriage](/immigration/swiss-citizenship-by-marriage/).
 
 ### Eligibility Requirements
 
@@ -137,7 +137,7 @@ Processing by the SEM typically takes **12 to 24 months** from submission of a c
 
 ## Route 3: Citizenship by Descent (Jus Sanguinis)
 
-Switzerland does not apply jus soli — being born on Swiss territory conveys no citizenship rights. Citizenship transmits through parentage. For a full breakdown, see our guide to [Swiss citizenship by descent](/blog/swiss-citizenship-by-descent/).
+Switzerland does not apply jus soli — being born on Swiss territory conveys no citizenship rights. Citizenship transmits through parentage. For a full breakdown, see our guide to [Swiss citizenship by descent](/immigration/swiss-citizenship-by-descent/).
 
 A child born to **at least one Swiss parent** acquires Swiss citizenship at birth, regardless of where they were born. Key rules:
 
@@ -151,7 +151,7 @@ A child born to **at least one Swiss parent** acquires Swiss citizenship at birt
 
 Since **1992**, Switzerland has permitted dual and multiple citizenship for both naturalising foreigners and Swiss citizens who acquire a foreign passport. Swiss law imposes no requirement to renounce your existing nationality.
 
-Whether you can hold [dual citizenship](/blog/swiss-dual-citizenship/) also depends on **your home country's law**:
+Whether you can hold [dual citizenship](/immigration/swiss-dual-citizenship/) also depends on **your home country's law**:
 
 - **US nationals:** The US permits dual citizenship. A US national who naturalises as Swiss keeps both passports
 - **Indian nationals:** India does not permit dual citizenship. Indian nationals who naturalise must renounce their Indian passport
@@ -230,7 +230,7 @@ We advise on:
 
 - Assessing your current position and eligibility timeline for ordinary or facilitated naturalization
 - Citizenship by descent claims — whether you or your children may already hold Swiss citizenship
-- Permit pathway planning, from initial [work permit](/blog/work-permit-switzerland/) eligibility through [C permit](/blog/c-permit-switzerland/) qualification
+- Permit pathway planning, from initial [work permit](/immigration/work-permit-switzerland/) eligibility through [C permit](/immigration/c-permit-switzerland/) qualification
 - Coordinating dual citizenship implications with your home country's legal requirements
 - Preparing and submitting naturalization applications at communal, cantonal, and federal level
 

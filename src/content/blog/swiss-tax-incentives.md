@@ -4,7 +4,7 @@ description: "Swiss corporate tax incentives in 2026 include the IP box (patent 
 date: "19.03.2026"
 publishDate: "2026-07-18"
 category: "Tax & Accounting"
-categoryHref: "/blog/"
+categoryHref: "/tax-accounting/"
 readTime: "15 min read"
 faqItems:
   - question: "What effective tax rate can a company achieve in Zug with Swiss tax incentives?"
@@ -35,7 +35,7 @@ tocItems:
 ---
 
 
-The 2020 Swiss Tax Reform and AHV Financing (STAF) replaced the old cantonal ring-fencing regimes (holding, domicile, and mixed company statuses) with a set of internationally compliant Swiss tax incentives. These incentives — the IP box, R&D super-deduction, and notional interest deduction — are available at the cantonal level and, when stacked, can substantially reduce effective [corporate tax rates](/blog/corporate-tax-switzerland/) for qualifying businesses. A company in Zug with strong patent income and active Swiss R&D can achieve combined effective rates of 5–8%, well below the standard 11.8%.
+The 2020 Swiss Tax Reform and AHV Financing (STAF) replaced the old cantonal ring-fencing regimes (holding, domicile, and mixed company statuses) with a set of internationally compliant Swiss tax incentives. These incentives — the IP box, R&D super-deduction, and notional interest deduction — are available at the cantonal level and, when stacked, can substantially reduce effective [corporate tax rates](/tax-accounting/corporate-tax-switzerland/) for qualifying businesses. A company in Zug with strong patent income and active Swiss R&D can achieve combined effective rates of 5–8%, well below the standard 11.8%.
 
 ---
 
@@ -57,7 +57,7 @@ These apply at the cantonal level; the federal corporate income tax rate of 8.5%
 
 ### What It Is
 
-The IP box allows Swiss companies to tax qualifying intellectual property income at a reduced effective rate. Cantons set their own IP box reduction levels, subject to the OECD-aligned modified nexus approach. For more on how [cantonal tax rates](/blog/swiss-tax-rates-by-canton/) differ, see our comparison guide.
+The IP box allows Swiss companies to tax qualifying intellectual property income at a reduced effective rate. Cantons set their own IP box reduction levels, subject to the OECD-aligned modified nexus approach. For more on how [cantonal tax rates](/tax-accounting/swiss-tax-rates-by-canton/) differ, see our comparison guide.
 
 ### Qualifying IP
 
@@ -79,7 +79,7 @@ Without the IP box, the same CHF 1,000,000 would generate ~CHF 118,000 in canton
 
 ### The Nexus Requirement
 
-The OECD modified nexus approach requires that the tax benefit be proportionate to the R&D expenditure incurred by the taxpayer itself. IP income from IP developed entirely by in-house Swiss R&D qualifies fully. IP income from purchased IP or outsourced R&D is proportionally restricted. This prevents pure IP [holding structures](/blog/holding-company-switzerland/) from claiming the box without genuine Swiss R&D activity.
+The OECD modified nexus approach requires that the tax benefit be proportionate to the R&D expenditure incurred by the taxpayer itself. IP income from IP developed entirely by in-house Swiss R&D qualifies fully. IP income from purchased IP or outsourced R&D is proportionally restricted. This prevents pure IP [holding structures](/company-formation/holding-company-switzerland/) from claiming the box without genuine Swiss R&D activity.
 
 ---
 
@@ -140,7 +140,7 @@ A Swiss biotech company in Zug with significant patent income and an active R&D 
 - R&D super-deduction: further reduce taxable income by 50% of R&D costs
 - NID: modest additional deduction on equity base
 
-Combined effective cantonal+federal rate for a high-IP, high-R&D business in Zug could fall to 5–8% — well below the headline 11.8%. Companies considering [formation in Switzerland](/blog/company-formation-switzerland/) with an IP-intensive business model should evaluate these incentives early in the structuring process.
+Combined effective cantonal+federal rate for a high-IP, high-R&D business in Zug could fall to 5–8% — well below the headline 11.8%. Companies considering [formation in Switzerland](/company-formation/company-formation-switzerland/) with an IP-intensive business model should evaluate these incentives early in the structuring process.
 
 <!-- VIDEO: Worked example — stacking Swiss tax incentives to achieve effective rates below 8% -->
 
@@ -162,7 +162,7 @@ Before implementing IP box or R&D super-deduction structures, companies should o
 
 The STAF incentives were specifically designed to comply with <a href="https://www.admin.ch/gov/en/start.html" target="_blank" rel="nofollow noopener">international standards</a> under the OECD BEPS framework. Unlike the old cantonal regimes, the IP box, R&D super-deduction, and NID do not create harmful ring-fencing of foreign-source income. This means companies using these incentives face no risk of being placed on EU or OECD blacklists, providing long-term certainty for international structures.
 
-Companies with cross-border operations should also consider how [double tax treaties](/blog/double-tax-treaties-switzerland/) interact with these incentives to avoid double taxation on IP income flows.
+Companies with cross-border operations should also consider how [double tax treaties](/tax-accounting/double-tax-treaties-switzerland/) interact with these incentives to avoid double taxation on IP income flows.
 
 ---
 

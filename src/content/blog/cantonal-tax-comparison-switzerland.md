@@ -3,7 +3,7 @@ title: "Cantonal Tax Comparison Switzerland: All 26 Cantons (2026)"
 description: "Compare corporate and individual tax rates across all 26 Swiss cantons. Zug ~11.8%, Lucerne ~12.3%, Zurich ~19.7%. Find the best canton."
 date: "19.03.2026"
 category: "Tax & Accounting"
-categoryHref: "/blog/"
+categoryHref: "/tax-accounting/"
 readTime: "8 min read"
 tocItems:
   - id: "how-swiss-cantonal-taxation-works"
@@ -51,7 +51,7 @@ Swiss taxation operates on three levels — each adding to the total burden:
 
 Even within a single canton, rates differ by commune. Wollerau in Schwyz canton applies a lower communal multiplier than Schwyz town itself — the effective rate for a high-earner in Wollerau is several percentage points below the cantonal average. Selecting the right commune within a low-tax canton amplifies the overall saving.
 
-For a full breakdown of how the Swiss corporate tax system works, see the [Swiss corporate tax guide](/blog/corporate-tax-switzerland/).
+For a full breakdown of how the Swiss corporate tax system works, see the [Swiss corporate tax guide](/tax-accounting/corporate-tax-switzerland/).
 
 ---
 
@@ -90,7 +90,7 @@ Effective combined corporate income tax rate (federal + cantonal + communal) at 
 
 Zug (~11.8%) and Nidwalden (~11.9%) hold the lowest corporate income tax rates in Switzerland. Zurich (~19.7%) and Berne (~21.0%) sit at the high end. For a company earning CHF 1,000,000 profit annually, the difference between Zug and Zurich translates to approximately CHF 78,000–90,000 in additional tax each year — on the same income, in the same country.
 
-Detailed rate tables, including cantonal statutory rates before the federal layer, are available at the [Swiss tax rates by canton](/blog/swiss-tax-rates-by-canton/) page.
+Detailed rate tables, including cantonal statutory rates before the federal layer, are available at the [Swiss tax rates by canton](/tax-accounting/swiss-tax-rates-by-canton/) page.
 
 ---
 
@@ -157,7 +157,7 @@ In addition to income tax, Swiss cantons impose a **capital tax (Kapitalsteuer)*
 
 For a company holding CHF 10,000,000 in equity, Zug's capital tax is approximately CHF 7,500/year versus Zurich at approximately CHF 17,200/year. Holding companies with large balance sheets — common in private equity and family office structures — benefit substantially from low-capital-tax cantons.
 
-Full detail on how this tax works is at [capital tax Switzerland](/blog/capital-tax-switzerland/).
+Full detail on how this tax works is at [capital tax Switzerland](/tax-accounting/capital-tax-switzerland/).
 
 ---
 
@@ -184,13 +184,13 @@ All cantons impose inheritance tax on bequests to unrelated persons. Rates range
 Zug's tax position for companies rests on several structural factors:
 
 1. **CIT rate ~11.8%** — the lowest in Switzerland and among the lowest in Europe for a fully onshore, OECD-compliant jurisdiction
-2. **Participation exemption:** Dividends and capital gains on qualifying holdings (≥10% shareholding) are substantially exempt from Swiss corporate income tax at the federal level — making Zug particularly efficient for holding companies. See [Swiss holding company structures](/blog/holding-company-switzerland/).
+2. **Participation exemption:** Dividends and capital gains on qualifying holdings (≥10% shareholding) are substantially exempt from Swiss corporate income tax at the federal level — making Zug particularly efficient for holding companies. See [Swiss holding company structures](/company-formation/holding-company-switzerland/).
 3. **Low capital tax:** ~0.075% of equity, well below the Swiss average
-4. **IP box regime:** Reduced effective tax rate on qualifying intellectual property income — details at [patent box Switzerland](/blog/patent-box-switzerland/)
+4. **IP box regime:** Reduced effective tax rate on qualifying intellectual property income — details at [patent box Switzerland](/tax-accounting/patent-box-switzerland/)
 5. **R&D super-deduction:** 150% deduction on qualifying R&D expenditure under the STAF reforms
 6. **Infrastructure and talent:** Despite its size, Zug has a well-established legal and financial services ecosystem
 
-For practical steps, see [company formation in Zug](/blog/company-formation-zug/).
+For practical steps, see [company formation in Zug](/company-formation/company-formation-zug/).
 
 ---
 
@@ -207,7 +207,7 @@ For practical steps, see [company formation in Zug](/blog/company-formation-zug/
 | Financial centre access | 30 min by train | Directly |
 | Canton population | ~130,000 | ~1.5M |
 
-Companies requiring large pools of specialist labour often choose Zurich despite the higher tax burden, accepting the tax cost as a business expense. Holding companies, treasury operations, IP holding structures, and family offices consistently favour Zug. For a Zurich company formation overview, see [company formation in Zurich](/blog/company-formation-zurich/).
+Companies requiring large pools of specialist labour often choose Zurich despite the higher tax burden, accepting the tax cost as a business expense. Holding companies, treasury operations, IP holding structures, and family offices consistently favour Zug. For a Zurich company formation overview, see [company formation in Zurich](/company-formation/company-formation-zurich/).
 
 ---
 
@@ -215,12 +215,12 @@ Companies requiring large pools of specialist labour often choose Zurich despite
 
 The 2020 STAF reform (Federal Act on Tax Reform and AHV Financing) abolished old cantonal holding company privileges that were incompatible with international standards. Cantons replaced them with OECD-compliant alternatives:
 
-- **Patent box:** Income from qualifying patents and similar IP rights taxed at a reduced rate (up to 90% reduction on qualifying income in some cantons). See [patent box Switzerland](/blog/patent-box-switzerland/).
+- **Patent box:** Income from qualifying patents and similar IP rights taxed at a reduced rate (up to 90% reduction on qualifying income in some cantons). See [patent box Switzerland](/tax-accounting/patent-box-switzerland/).
 - **R&D super-deduction:** Up to 150% deduction on qualifying research and development costs — available in Zug, Zurich, Geneva, and most other cantons.
 - **Notional interest deduction (NID):** Available in high-equity cantons including Zurich and Berne — a deemed interest expense on excess equity capital, reducing taxable income.
 - **Step-up relief:** Companies relocating to Switzerland from abroad can step up the tax basis of assets to fair market value, reducing future Swiss taxable gains.
 
-These regimes, combined with Switzerland's [tax incentives framework](/blog/swiss-tax-incentives/), allow genuinely innovative companies to achieve effective tax rates well below the statutory headline rate.
+These regimes, combined with Switzerland's [tax incentives framework](/tax-accounting/swiss-tax-incentives/), allow genuinely innovative companies to achieve effective tax rates well below the statutory headline rate.
 
 ---
 
@@ -273,7 +273,7 @@ Capital tax (Kapitalsteuer) is levied annually on a company's equity — its sha
 
 **What special tax regimes are available after the 2020 STAF reform?**
 
-The STAF reform replaced old privileged regimes with OECD-compliant alternatives: the patent box (reduced tax on qualifying IP income), R&D super-deduction (up to 150% on qualifying research costs), notional interest deduction (available in Zurich and Berne), and step-up on hidden reserves for companies relocating to Switzerland. Most cantons implement all four, though the specific rates and conditions differ. Full detail is at [Swiss tax incentives](/blog/swiss-tax-incentives/).
+The STAF reform replaced old privileged regimes with OECD-compliant alternatives: the patent box (reduced tax on qualifying IP income), R&D super-deduction (up to 150% on qualifying research costs), notional interest deduction (available in Zurich and Berne), and step-up on hidden reserves for companies relocating to Switzerland. Most cantons implement all four, though the specific rates and conditions differ. Full detail is at [Swiss tax incentives](/tax-accounting/swiss-tax-incentives/).
 
 **How do I choose the right canton for my company?**
 
@@ -311,9 +311,9 @@ Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, Zug, Switzerland | +41 4
 
 ## Related Pages
 
-- [Corporate tax in Switzerland](/blog/corporate-tax-switzerland/) — full guide to Swiss corporate income tax
-- [Swiss tax rates by canton](/blog/swiss-tax-rates-by-canton/) — detailed rate tables including statutory cantonal rates
-- [Company formation in Zug](/blog/company-formation-zug/) — registering a company in Switzerland's lowest-tax canton
-- [Company formation in Zurich](/blog/company-formation-zurich/) — Switzerland's financial centre
-- [Swiss tax incentives](/blog/swiss-tax-incentives/) — patent box, R&D deductions, NID and step-up regimes
-- [Patent box Switzerland](/blog/patent-box-switzerland/) — reduced tax on qualifying IP income
+- [Corporate tax in Switzerland](/tax-accounting/corporate-tax-switzerland/) — full guide to Swiss corporate income tax
+- [Swiss tax rates by canton](/tax-accounting/swiss-tax-rates-by-canton/) — detailed rate tables including statutory cantonal rates
+- [Company formation in Zug](/company-formation/company-formation-zug/) — registering a company in Switzerland's lowest-tax canton
+- [Company formation in Zurich](/company-formation/company-formation-zurich/) — Switzerland's financial centre
+- [Swiss tax incentives](/tax-accounting/swiss-tax-incentives/) — patent box, R&D deductions, NID and step-up regimes
+- [Patent box Switzerland](/tax-accounting/patent-box-switzerland/) — reduced tax on qualifying IP income

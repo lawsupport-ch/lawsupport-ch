@@ -4,7 +4,7 @@ description: "Switzerland has no citizenship by investment programme. What wealt
 date: "19.03.2026"
 publishDate: "2026-07-04"
 category: "Immigration"
-categoryHref: "/blog/"
+categoryHref: "/immigration/"
 readTime: "11 min read"
 faqItems:
   - question: "Is there a Swiss golden visa or citizenship by investment programme?"
@@ -31,7 +31,7 @@ tocItems:
 
 There is no Swiss citizenship by investment programme. There is no golden visa, no investor passport, no donation route, and no discretionary scheme that allows you to buy a Swiss passport. Any adviser or website suggesting otherwise is misrepresenting Swiss law — in some cases deliberately.
 
-This article explains why people search for Swiss citizenship by investment, what Switzerland actually offers wealthy foreign nationals, and what the legitimate path to [Swiss citizenship](/blog/swiss-citizenship/) looks like for someone starting from zero.
+This article explains why people search for Swiss citizenship by investment, what Switzerland actually offers wealthy foreign nationals, and what the legitimate path to [Swiss citizenship](/immigration/swiss-citizenship/) looks like for someone starting from zero.
 
 ---
 
@@ -53,7 +53,7 @@ There are three legitimate routes relevant to high-net-worth individuals. Only o
 
 This is the primary route wealthy foreign nationals use when they say they want "Swiss residency." It is a residence arrangement, not a citizenship pathway — but for many people, it is exactly what they are actually looking for.
 
-Under [lump-sum taxation](/blog/lump-sum-taxation-switzerland/), a foreign national establishes Swiss residence in a participating canton. Instead of being taxed on worldwide income and assets, they agree a tax base with the cantonal tax authority calculated on annual living expenses — typically five to seven times the annual rent of their Swiss residence. The resulting annual tax liability ranges from approximately CHF 200,000 to CHF 500,000 or more depending on the canton and the individual's lifestyle.
+Under [lump-sum taxation](/tax-accounting/lump-sum-taxation-switzerland/), a foreign national establishes Swiss residence in a participating canton. Instead of being taxed on worldwide income and assets, they agree a tax base with the cantonal tax authority calculated on annual living expenses — typically five to seven times the annual rent of their Swiss residence. The resulting annual tax liability ranges from approximately CHF 200,000 to CHF 500,000 or more depending on the canton and the individual's lifestyle.
 
 Key eligibility conditions:
 
@@ -63,11 +63,11 @@ Key eligibility conditions:
 
 Participating cantons include Zug, Geneva, Vaud, Valais, Graubünden, Bern, and Lucerne, among others. Zurich abolished the regime in 2009 and does not participate.
 
-Once you have established lump-sum residence, you receive a Swiss residence permit, access to Swiss banking, the right to enrol children in Swiss schools, and all the practical benefits of living in Switzerland. This is the arrangement that most HNW individuals are actually seeking. The timeline for a [C permit](/blog/c-permit-switzerland/) (permanent residence) and eventual naturalisation runs from there — but those are separate processes with their own requirements.
+Once you have established lump-sum residence, you receive a Swiss residence permit, access to Swiss banking, the right to enrol children in Swiss schools, and all the practical benefits of living in Switzerland. This is the arrangement that most HNW individuals are actually seeking. The timeline for a [C permit](/immigration/c-permit-switzerland/) (permanent residence) and eventual naturalisation runs from there — but those are separate processes with their own requirements.
 
 ### 2. Ordinary Naturalisation
 
-[Swiss naturalisation](/blog/swiss-naturalization/) through the ordinary route requires ten years of continuous Swiss residence with a C permit. The integration requirements are substantive: language proficiency (typically B1 oral, A2 written in a national language), knowledge of Swiss civic structures, demonstrated local community ties, clean criminal and tax record, and financial independence.
+[Swiss naturalisation](/immigration/swiss-naturalization/) through the ordinary route requires ten years of continuous Swiss residence with a C permit. The integration requirements are substantive: language proficiency (typically B1 oral, A2 written in a national language), knowledge of Swiss civic structures, demonstrated local community ties, clean criminal and tax record, and financial independence.
 
 Years spent in Switzerland between the ages of eight and eighteen count double toward the ten-year total. This benefits those who came to Switzerland as children or young adults, but it does not benefit most people arriving as adults for tax purposes.
 
@@ -77,7 +77,7 @@ At the federal level, naturalisation applications are processed through the cant
 
 ### 3. Facilitated Naturalisation (Spouse Route)
 
-Foreign nationals married to Swiss citizens can apply for facilitated naturalisation under a shorter timeline: three years of marriage combined with five years of total residence in Switzerland. See our detailed guide to [Swiss citizenship by marriage](/blog/swiss-citizenship-by-marriage/).
+Foreign nationals married to Swiss citizens can apply for facilitated naturalisation under a shorter timeline: three years of marriage combined with five years of total residence in Switzerland. See our detailed guide to [Swiss citizenship by marriage](/immigration/swiss-citizenship-by-marriage/).
 
 The conditions are set by the Federal Act on Swiss Citizenship (BüG) and are not subject to financial discretion. Cohabitation must be genuine and ongoing. The relationship is examined. The process still requires demonstrated integration and good character.
 
@@ -89,7 +89,7 @@ This route is available irrespective of wealth, and wealth does not accelerate i
 
 **Investment CAN:**
 
-Establish a genuine business presence in Switzerland, create Swiss jobs, and support an application for a cantonal discretionary residence permit under Art. 19 AIG (Foreign Nationals and Integration Act). In some cantons, a significant investment — typically CHF 1 million or more — combined with the creation of five to ten or more Swiss jobs can support a cantonal recommendation for a [work permit](/blog/work-permit-switzerland/) or residence permit for the investor. This grants residency. It does not grant citizenship, and it does not shorten the naturalisation timeline.
+Establish a genuine business presence in Switzerland, create Swiss jobs, and support an application for a cantonal discretionary residence permit under Art. 19 AIG (Foreign Nationals and Integration Act). In some cantons, a significant investment — typically CHF 1 million or more — combined with the creation of five to ten or more Swiss jobs can support a cantonal recommendation for a [work permit](/immigration/work-permit-switzerland/) or residence permit for the investor. This grants residency. It does not grant citizenship, and it does not shorten the naturalisation timeline.
 
 **Investment CANNOT:**
 
@@ -118,7 +118,7 @@ Switzerland is not competing in this market. The Swiss passport is not for sale.
 
 ## The Swiss Passport: What You Get After Naturalisation
 
-Once you do obtain Swiss citizenship through the ordinary or facilitated route, the [Swiss passport](/blog/swiss-passport/) is among the most functional in the world. Visa-free or visa-on-arrival access to 186+ countries as of 2026, including the United States, the UK, Japan, and all Schengen states. Switzerland has permitted [dual citizenship](/blog/swiss-dual-citizenship/) since 1992, so naturalisation does not require renouncing your existing nationality in most cases (though your home country's rules on dual nationality apply separately).
+Once you do obtain Swiss citizenship through the ordinary or facilitated route, the [Swiss passport](/immigration/swiss-passport/) is among the most functional in the world. Visa-free or visa-on-arrival access to 186+ countries as of 2026, including the United States, the UK, Japan, and all Schengen states. Switzerland has permitted [dual citizenship](/immigration/swiss-dual-citizenship/) since 1992, so naturalisation does not require renouncing your existing nationality in most cases (though your home country's rules on dual nationality apply separately).
 
 For HNW individuals who establish lump-sum residence in their forties and maintain it continuously, Swiss citizenship becomes a realistic prospect in their fifties. For those arriving earlier, or whose children grow up in Switzerland, the timeline is shorter.
 
@@ -142,7 +142,7 @@ No. There is no legal mechanism in Switzerland by which charitable or cultural d
 
 **What is lump-sum taxation in Switzerland?**
 
-Lump-sum taxation (Pauschalbesteuerung) allows wealthy foreign nationals to be taxed on annual living expenses rather than worldwide income. The resulting annual tax is typically CHF 200,000 to CHF 500,000 or more depending on the canton. You must be a foreign national taking up Swiss residence for the first time (or after a ten-year absence) and not gainfully employed in Switzerland. See our guide to [lump-sum taxation](/blog/lump-sum-taxation-switzerland/) for full details.
+Lump-sum taxation (Pauschalbesteuerung) allows wealthy foreign nationals to be taxed on annual living expenses rather than worldwide income. The resulting annual tax is typically CHF 200,000 to CHF 500,000 or more depending on the canton. You must be a foreign national taking up Swiss residence for the first time (or after a ten-year absence) and not gainfully employed in Switzerland. See our guide to [lump-sum taxation](/tax-accounting/lump-sum-taxation-switzerland/) for full details.
 
 **Can I get Swiss residency by investing in a Swiss business?**
 
@@ -150,7 +150,7 @@ A significant investment — typically CHF 1 million or more — combined with t
 
 **Which Swiss cantons offer lump-sum taxation?**
 
-Participating cantons include Zug, Geneva, Vaud, Valais, Graubünden, Bern, and Lucerne, among others. Zurich abolished the regime in 2009 and does not participate. The tax base and minimum amounts vary by canton. Zug is a popular choice given its favourable [corporate tax](/blog/corporate-tax-switzerland/) environment and proximity to Zurich.
+Participating cantons include Zug, Geneva, Vaud, Valais, Graubünden, Bern, and Lucerne, among others. Zurich abolished the regime in 2009 and does not participate. The tax base and minimum amounts vary by canton. Zug is a popular choice given its favourable [corporate tax](/tax-accounting/corporate-tax-switzerland/) environment and proximity to Zurich.
 
 **Does Switzerland sell passports to wealthy individuals?**
 

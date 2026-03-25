@@ -3,7 +3,7 @@ title: "AG Formation Switzerland: Aktiengesellschaft Guide"
 description: "Form a Swiss AG (Aktiengesellschaft) with CHF 100,000 capital. Shareholder anonymity, board requirements, notarisation steps. Expert guide by Lawsupport, Zug."
 date: "19.03.2026"
 category: "Company Formation"
-categoryHref: "/services/company-formation/"
+categoryHref: "/company-formation/"
 readTime: "13 min read"
 faqItems:
   - question: "How long does AG formation in Switzerland take?"
@@ -73,7 +73,7 @@ The Aktiengesellschaft is Switzerland's joint-stock company, the equivalent of a
 - Future IPO candidates
 - International businesses that want a premium Swiss identity
 
-For a full side-by-side comparison with the GmbH, see our [complete guide to Swiss company formation](/blog/company-formation-switzerland/). If you are still weighing the two structures, our page on [GmbH formation](/blog/gmbh-formation-switzerland/) covers the simpler alternative in detail.
+For a full side-by-side comparison with the GmbH, see our [complete guide to Swiss company formation](/company-formation/company-formation-switzerland/). If you are still weighing the two structures, our page on [GmbH formation](/company-formation/gmbh-formation-switzerland/) covers the simpler alternative in detail.
 
 ---
 
@@ -130,7 +130,7 @@ The purpose clause in an AG follows the same logic as in a GmbH: broad enough to
 
 The minimum CHF 50,000 (or more, up to the full CHF 100,000 if paying in full) must be deposited in a Swiss bank capital deposit account (Kapitaleinzahlungskonto) before notarisation. The bank issues a blocking confirmation that the notary requires.
 
-Swiss banks have tightened their due diligence procedures considerably in recent years. Opening a capital deposit account for a new AG, particularly with foreign shareholders or board members, can take 2 to 6 weeks depending on the bank. We maintain working relationships with banking partners who understand our clients' structures. See our page on [capital deposit account](/blog/capital-deposit-account-switzerland/) for more detail.
+Swiss banks have tightened their due diligence procedures considerably in recent years. Opening a capital deposit account for a new AG, particularly with foreign shareholders or board members, can take 2 to 6 weeks depending on the bank. We maintain working relationships with banking partners who understand our clients' structures. See our page on [capital deposit account](/banking/capital-deposit-account-switzerland/) for more detail.
 
 ### Step 5: Notarisation and Constituent Meeting
 
@@ -257,7 +257,7 @@ If you need a compliant Swiss board member, our nominee director service provide
 
 For most international founders setting up a first Swiss entity without complex equity plans, the GmbH is faster and cheaper. For founders where privacy, share transferability, or investor compatibility matter, the AG is worth the additional formation cost.
 
-Read our dedicated [GmbH formation](/blog/gmbh-formation-switzerland/) page and our guide to [Swiss holding company](/blog/holding-company-switzerland/) structures for the scenarios where each structure works best.
+Read our dedicated [GmbH formation](/company-formation/gmbh-formation-switzerland/) page and our guide to [Swiss holding company](/company-formation/holding-company-switzerland/) structures for the scenarios where each structure works best.
 
 ---
 
@@ -265,7 +265,7 @@ Read our dedicated [GmbH formation](/blog/gmbh-formation-switzerland/) page and 
 
 The AG is subject to corporate income tax at federal, cantonal, and municipal levels. The effective combined rate varies by canton and is one of the most competitive in Europe in low-tax cantons. Zug's effective rate for ordinary companies has historically been among the lowest in Switzerland.
 
-**Participation deduction (Beteiligungsabzug).** An AG holding at least 10% of the share capital of another company, or shares with a fair market value of at least CHF 1 million, qualifies for a participation deduction that effectively reduces or eliminates Swiss corporate tax on dividends received and capital gains from qualifying participations. This makes the AG the dominant vehicle for [Swiss holding company](/blog/holding-company-switzerland/) structures.
+**Participation deduction (Beteiligungsabzug).** An AG holding at least 10% of the share capital of another company, or shares with a fair market value of at least CHF 1 million, qualifies for a participation deduction that effectively reduces or eliminates Swiss corporate tax on dividends received and capital gains from qualifying participations. This makes the AG the dominant vehicle for [Swiss holding company](/company-formation/holding-company-switzerland/) structures.
 
 **Issuance stamp duty.** Contributions of equity capital above CHF 1 million are subject to a 1% federal issuance stamp duty (Emissionsabgabe). The first CHF 1 million of capital is exempt. This is a one-time cost at formation (or at subsequent capital increases) and should be factored into formation planning for larger capitalised entities.
 
@@ -343,15 +343,15 @@ Authorised capital (genehmigtes Kapital) gives the board authority, without a sh
 
 **Q: Do I need a Swiss bank account to form an AG?**
 
-Yes. The capital deposit account (Kapitaleinzahlungskonto) required before notarisation must be held at a Swiss bank or a bank with a Swiss branch authorised to hold such deposits. After registration, this becomes or converts into the company's regular corporate account. We coordinate this with banking partners to minimise delays. See our [capital deposit account guide](/blog/capital-deposit-account-switzerland/) for more detail.
+Yes. The capital deposit account (Kapitaleinzahlungskonto) required before notarisation must be held at a Swiss bank or a bank with a Swiss branch authorised to hold such deposits. After registration, this becomes or converts into the company's regular corporate account. We coordinate this with banking partners to minimise delays. See our [capital deposit account guide](/banking/capital-deposit-account-switzerland/) for more detail.
 
 **Q: What are the annual obligations of a Swiss AG?**
 
-A Swiss AG must hold an annual general meeting (Generalversammlung) within six months of the financial year end, approve annual accounts, and elect or re-elect board members and auditors. It must file annual tax returns with cantonal and federal tax authorities. If the AG meets the audit thresholds, it must appoint a licensed statutory auditor. The AG must also maintain and update its internal share register and notify the [Commercial Register](/blog/commercial-register-switzerland/) of any changes to board composition or signatory rights.
+A Swiss AG must hold an annual general meeting (Generalversammlung) within six months of the financial year end, approve annual accounts, and elect or re-elect board members and auditors. It must file annual tax returns with cantonal and federal tax authorities. If the AG meets the audit thresholds, it must appoint a licensed statutory auditor. The AG must also maintain and update its internal share register and notify the [Commercial Register](/company-formation/commercial-register-switzerland/) of any changes to board composition or signatory rights.
 
 **Q: How does AG formation Switzerland compare to GmbH formation?**
 
-The AG requires CHF 100,000 minimum capital (versus CHF 20,000 for a GmbH), involves higher notary fees (CHF 1,500–3,000 versus CHF 800–1,500), and takes longer due to bank due diligence on larger capital amounts. However, the AG offers shareholder privacy (names not in the public register), freely transferable shares without notarial involvement, and is compatible with institutional investor mandates that exclude GmbH investments. Read our full [AG vs GmbH comparison on the company formation Switzerland](/blog/company-formation-switzerland/) page.
+The AG requires CHF 100,000 minimum capital (versus CHF 20,000 for a GmbH), involves higher notary fees (CHF 1,500–3,000 versus CHF 800–1,500), and takes longer due to bank due diligence on larger capital amounts. However, the AG offers shareholder privacy (names not in the public register), freely transferable shares without notarial involvement, and is compatible with institutional investor mandates that exclude GmbH investments. Read our full [AG vs GmbH comparison on the company formation Switzerland](/company-formation/company-formation-switzerland/) page.
 
 **Q: What does AG formation in Switzerland cost in 2026?**
 

@@ -4,7 +4,7 @@ description: "Swiss advance tax rulings (Steuerruling): how to get binding confi
 date: "19.03.2026"
 publishDate: "2026-08-03"
 category: "Tax & Accounting"
-categoryHref: "/blog/"
+categoryHref: "/tax-accounting/"
 readTime: "12 min read"
 faqItems:
   - question: "Are Swiss tax rulings confidential?"
@@ -53,17 +53,17 @@ A Steuerruling is not a negotiation — it is a formal request for the tax autho
 
 ## What Swiss Tax Rulings Cover
 
-**Holding and group structures:** Participation exemption qualification under the Beteiligungsabzug, [transfer pricing](/blog/transfer-pricing-switzerland/) treatment, entity classification. For companies establishing a Swiss [holding structure](/blog/holding-company-switzerland/), a ruling confirms the exemption applies to specific dividend flows and shareholdings.
+**Holding and group structures:** Participation exemption qualification under the Beteiligungsabzug, [transfer pricing](/tax-accounting/transfer-pricing-switzerland/) treatment, entity classification. For companies establishing a Swiss [holding structure](/company-formation/holding-company-switzerland/), a ruling confirms the exemption applies to specific dividend flows and shareholdings.
 
 **Real estate transactions:** Whether a transaction is subject to real estate capital gains tax or income tax; imputed rental value; transfer tax treatment.
 
 **Corporate restructurings:** Tax neutrality of mergers, demergers, and conversions; treatment of hidden reserves upon structural changes. The <a href="https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/en" target="_blank" rel="nofollow noopener">Federal Merger Act (FusG)</a> provides for tax-neutral restructurings, but the conditions are specific and a ruling confirms compliance.
 
-**Individual and personal tax:** Tax treatment on relocation to Switzerland; [lump-sum taxation](/blog/lump-sum-taxation-switzerland/) base confirmation; treatment of cryptocurrency, foreign trusts, deferred compensation. For individuals considering a move to Switzerland, see our guide on [tax residency](/blog/tax-residency-switzerland/).
+**Individual and personal tax:** Tax treatment on relocation to Switzerland; [lump-sum taxation](/tax-accounting/lump-sum-taxation-switzerland/) base confirmation; treatment of cryptocurrency, foreign trusts, deferred compensation. For individuals considering a move to Switzerland, see our guide on [tax residency](/tax-accounting/tax-residency-switzerland/).
 
 **IP Box and R&D:** Confirmation that specific IP qualifies for the cantonal IP Box; nexus ratio calculation; R&D super-deduction qualification. The IP Box can reduce the effective tax on qualifying IP income by up to 90%.
 
-**Withholding tax:** Whether a specific payment constitutes a hidden dividend distribution (verdeckte Gewinnausschuttung); treaty access confirmation. Switzerland levies 35% [withholding tax](/blog/withholding-tax-switzerland/) on dividends, and a ruling can confirm treaty relief applies.
+**Withholding tax:** Whether a specific payment constitutes a hidden dividend distribution (verdeckte Gewinnausschuttung); treaty access confirmation. Switzerland levies 35% [withholding tax](/tax-accounting/withholding-tax-switzerland/) on dividends, and a ruling can confirm treaty relief applies.
 
 ---
 
@@ -101,7 +101,7 @@ No official form exists for most cantonal rulings. The request is a letter to th
 | Zurich | 6-12 weeks |
 | Geneva | 8-16 weeks |
 
-Complex or novel questions take longer. Straightforward holding or IP Box confirmations in Zug: 4-6 weeks. For companies forming in a specific canton, the ruling timeline should be factored into the overall [company formation](/blog/company-formation-switzerland/) planning.
+Complex or novel questions take longer. Straightforward holding or IP Box confirmations in Zug: 4-6 weeks. For companies forming in a specific canton, the ruling timeline should be factored into the overall [company formation](/company-formation/company-formation-switzerland/) planning.
 
 ---
 
@@ -115,7 +115,7 @@ Under OECD BEPS Action 5, Switzerland exchanges advance rulings with treaty part
 
 ## Common Ruling Scenarios
 
-**Scenario 1 — New holding company in Zug:** A foreign group establishes a Swiss holding AG in Zug to receive dividends from subsidiaries in Germany, the UK, and Singapore. The ruling confirms: (a) the participation exemption applies to all three dividend streams; (b) the company has sufficient substance in Zug; (c) the applicable [corporate tax](/blog/corporate-tax-switzerland/) rate. Timeline: 4-6 weeks.
+**Scenario 1 — New holding company in Zug:** A foreign group establishes a Swiss holding AG in Zug to receive dividends from subsidiaries in Germany, the UK, and Singapore. The ruling confirms: (a) the participation exemption applies to all three dividend streams; (b) the company has sufficient substance in Zug; (c) the applicable [corporate tax](/tax-accounting/corporate-tax-switzerland/) rate. Timeline: 4-6 weeks.
 
 **Scenario 2 — IP Box qualification:** A technology company migrates its patent portfolio to a Swiss entity. The ruling confirms: (a) the patents qualify for IP Box treatment; (b) the OECD nexus ratio calculation is accepted; (c) the effective tax rate on qualifying IP income. Timeline: 6-8 weeks.
 
@@ -149,7 +149,7 @@ A ruling remains valid as long as the described facts remain in place and the un
 
 **Can individuals apply for advance tax rulings?**
 
-Yes. Individuals relocating to Switzerland regularly apply for rulings to confirm their [tax residency](/blog/tax-residency-switzerland/) treatment before completing the move. This is particularly important for lump-sum taxation, complex asset structures, foreign trusts, and situations with dual-residency risk.
+Yes. Individuals relocating to Switzerland regularly apply for rulings to confirm their [tax residency](/tax-accounting/tax-residency-switzerland/) treatment before completing the move. This is particularly important for lump-sum taxation, complex asset structures, foreign trusts, and situations with dual-residency risk.
 
 **What is the difference between a federal and cantonal tax ruling?**
 
@@ -157,7 +157,7 @@ Cantonal rulings cover cantonal income tax, capital tax, and real estate gains t
 
 **Can I request a ruling on transfer pricing?**
 
-Yes. The cantonal Steuerverwaltung can confirm the tax treatment of specific intercompany pricing arrangements. [Transfer pricing](/blog/transfer-pricing-switzerland/) rulings typically require detailed documentation of the pricing methodology, comparability analysis, and the functions and risks performed by each entity.
+Yes. The cantonal Steuerverwaltung can confirm the tax treatment of specific intercompany pricing arrangements. [Transfer pricing](/tax-accounting/transfer-pricing-switzerland/) rulings typically require detailed documentation of the pricing methodology, comparability analysis, and the functions and risks performed by each entity.
 
 **Does Switzerland exchange tax rulings with other countries?**
 

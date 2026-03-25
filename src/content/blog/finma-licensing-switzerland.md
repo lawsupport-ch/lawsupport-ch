@@ -3,7 +3,7 @@ title: "FINMA Licensing Switzerland: Crypto & Banking (2026)"
 description: "FINMA licensing in Switzerland: banking, crypto (VASP), FinIA securities, fund management. Capital requirements and process."
 date: "19.03.2026"
 category: "Licensing & Permits"
-categoryHref: "/services/financial-licensing/"
+categoryHref: "/licensing/"
 readTime: "12 min read"
 tocItems:
   - id: "what-is-finma"
@@ -53,7 +53,7 @@ FINMA licenses and supervises:
 
 Switzerland's regulatory framework is notable for its technology-neutral design. FINMA does not regulate the technology; it regulates the activity. A company issuing tokens, operating a crypto exchange, or accepting digital asset deposits is assessed based on what it does economically, not what it calls itself. This principle has made Switzerland — and Zug in particular — one of the world's premier jurisdictions for blockchain and fintech companies.
 
-For companies considering [company formation in Switzerland](/blog/company-formation-switzerland/) or specifically [company formation in Zug](/blog/company-formation-zug/), understanding the applicable regulatory regime at the outset determines both corporate structure and timeline.
+For companies considering [company formation in Switzerland](/company-formation/company-formation-switzerland/) or specifically [company formation in Zug](/company-formation/company-formation-zug/), understanding the applicable regulatory regime at the outset determines both corporate structure and timeline.
 
 Official guidance is published directly by <a href="https://www.finma.ch/en/" target="_blank" rel="nofollow noopener">FINMA on its website</a>, including circulars, published practice, and the full authorization checklist for each license category.
 
@@ -152,7 +152,7 @@ Regardless of category, FinIA-licensed entities must maintain:
 
 **Timeline:** 6–18 months depending on category and complexity.
 
-For foreign-domiciled asset managers wishing to serve Swiss clients, a Swiss subsidiary with a FinIA license is the standard structure. See [AG formation in Switzerland](/blog/ag-formation-switzerland/) for the corporate vehicle used in the majority of cases.
+For foreign-domiciled asset managers wishing to serve Swiss clients, a Swiss subsidiary with a FinIA license is the standard structure. See [AG formation in Switzerland](/company-formation/ag-formation-switzerland/) for the corporate vehicle used in the majority of cases.
 
 ---
 
@@ -206,7 +206,7 @@ Switzerland's **DLT Act**, which entered into force in stages from August 2021, 
 
 The DLT trading facility license is the most demanding in the crypto space — it combines elements of exchange, CCP, and CSD licensing. It is appropriate for institutional-grade infrastructure operators.
 
-For companies asking whether they need to register in Switzerland specifically, the combination of the DLT Act infrastructure, FINMA's technology-neutral approach, and Zug's concentration of crypto expertise makes the answer, for most serious operators, yes. See also [corporate tax in Switzerland](/blog/corporate-tax-switzerland/) and [AG formation](/blog/ag-formation-switzerland/) for the full structural picture.
+For companies asking whether they need to register in Switzerland specifically, the combination of the DLT Act infrastructure, FINMA's technology-neutral approach, and Zug's concentration of crypto expertise makes the answer, for most serious operators, yes. See also [corporate tax in Switzerland](/tax-accounting/corporate-tax-switzerland/) and [AG formation](/company-formation/ag-formation-switzerland/) for the full structural picture.
 
 ---
 
@@ -322,14 +322,14 @@ A Dubai-based asset management firm with USD 400 million in AUM — managing alt
 
 **Total timeline:** 11 months from engagement to operational authorisation.
 
-The client has since opened a Swiss bank account — a process that is materially easier for FinIA-licensed entities than for unlicensed companies. See our guide on [opening a Swiss bank account](/blog/swiss-bank-account/) for further detail.
+The client has since opened a Swiss bank account — a process that is materially easier for FinIA-licensed entities than for unlicensed companies. See our guide on [opening a Swiss bank account](/banking/swiss-bank-account/) for further detail.
 
 ---
 
 ## Crypto Valley and Switzerland's Competitive Advantage
 
 
-Zug's emergence as "Crypto Valley" was not accidental. It reflects a combination of Switzerland's technology-neutral regulatory philosophy, its stable legal system, favourable [corporate tax environment](/blog/corporate-tax-switzerland/), and a concentration of talent, capital, and institutional knowledge that is difficult to replicate.
+Zug's emergence as "Crypto Valley" was not accidental. It reflects a combination of Switzerland's technology-neutral regulatory philosophy, its stable legal system, favourable [corporate tax environment](/tax-accounting/corporate-tax-switzerland/), and a concentration of talent, capital, and institutional knowledge that is difficult to replicate.
 
 ### Token Classification Under FINMA Guidelines
 
@@ -359,7 +359,7 @@ Lawsupport (Morgan Hartley Consulting) has been advising on Swiss corporate and 
 
 Every FINMA application we support is built around the specific business model, the applicable regulatory category, and the practical constraints of the client's timeline and budget.
 
-If you are considering a FINMA license in 2026, the first step is a structured pre-engagement review of your business model and proposed structure. You may also find it useful to review our pages on [company formation in Switzerland](/blog/company-formation-switzerland/), the [Swiss corporate bank account](/blog/corporate-bank-account-switzerland/), and [AG formation](/blog/ag-formation-switzerland/) before your consultation.
+If you are considering a FINMA license in 2026, the first step is a structured pre-engagement review of your business model and proposed structure. You may also find it useful to review our pages on [company formation in Switzerland](/company-formation/company-formation-switzerland/), the [Swiss corporate bank account](/banking/corporate-bank-account-switzerland/), and [AG formation](/company-formation/ag-formation-switzerland/) before your consultation.
 
 **[Request a Free Assessment](/contacts/)** — or contact us directly:
 

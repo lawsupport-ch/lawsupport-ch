@@ -21,12 +21,16 @@ const {
 const canonicalURL = new URL(Astro.url.pathname, "https://lawsupport.ch");
 
 const organizationSchema = {
-  "@context": "https://schema.org",
-  "@type": "LegalService",
+  "@type": ["LegalService", "LocalBusiness"],
   "@id": "https://lawsupport.ch/#organization",
   "name": "Lawsupport",
   "url": "https://lawsupport.ch",
-  "logo": "https://lawsupport.ch/images/logo.png",
+  "logo": {
+    "@type": "ImageObject",
+    "@id": "https://lawsupport.ch/#logo",
+    "url": "https://lawsupport.ch/images/logo.png"
+  },
+  "image": {"@id": "https://lawsupport.ch/#logo"},
   "description": "Professional corporate services and legal support for businesses in Switzerland.",
   "telephone": "+41445152592",
   "email": "info@lawsupport.ch",
@@ -49,11 +53,25 @@ const organizationSchema = {
   "knowsAbout": ["Swiss corporate law", "company formation", "shelf companies", "financial services licensing", "SECO permits", "residence permits", "Swiss bank accounts", "accounting"],
   "sameAs": ["https://x.com/Law_Switzerland", "https://www.facebook.com/goldblum.and.partners", "https://www.instagram.com/law_support.switzerland"],
   "foundingDate": "2003",
-  "numberOfEmployees": {"@type": "QuantitativeValue", "value": 12}
+  "numberOfEmployees": {"@type": "QuantitativeValue", "value": 12},
+  "priceRange": "$$$",
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "opens": "09:00",
+    "closes": "18:00"
+  }
+};
+
+const websiteSchema = {
+  "@type": "WebSite",
+  "@id": "https://lawsupport.ch/#website",
+  "name": "Lawsupport",
+  "url": "https://lawsupport.ch",
+  "publisher": {"@id": "https://lawsupport.ch/#organization"}
 };
 
 const personSchema = {
-  "@context": "https://schema.org",
   "@type": "Person",
   "@id": "https://lawsupport.ch/#morgan-hartley",
   "name": "Morgan Hartley",
@@ -71,7 +89,10 @@ const personSchema = {
   "email": "m.hartley@lawsupport.ch"
 };
 
-const allSchemas = [organizationSchema, personSchema, ...schema];
+const graphSchema = {
+  "@context": "https://schema.org",
+  "@graph": [organizationSchema, websiteSchema, personSchema, ...schema]
+};
 ---
 
 <!doctype html>
@@ -102,9 +123,7 @@ const allSchemas = [organizationSchema, personSchema, ...schema];
 
   <link rel="preload" href="/fonts/guton-regular.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/fonts/guton-medium.woff2" as="font" type="font/woff2" crossorigin />
-  {allSchemas.map(s => (
-    <script type="application/ld+json" set:html={JSON.stringify(s)} />
-  ))}
+  <script type="application/ld+json" set:html={JSON.stringify(graphSchema)} />
 </head>
 <body>
   <Header />

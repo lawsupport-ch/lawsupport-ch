@@ -3,7 +3,7 @@ title: "Capital Tax Switzerland: Rates & Calculation (2026)"
 description: "Swiss cantonal capital tax (Kapitalsteuer) on company equity: how it's calculated, current cantonal rates, and planning approaches. From Lawsupport, Zug."
 date: "19.03.2026"
 category: "Tax & Accounting"
-categoryHref: "/blog/"
+categoryHref: "/tax-accounting/"
 readTime: "11 min read"
 tocItems:
   - id: "what-is-capital-tax-in-switzerland"
@@ -69,7 +69,7 @@ The legal basis is Articles 29 and 30 of the StHG, which require cantons to tax 
 | Geneva | 0.335% |
 | Vaud | 0.35% |
 
-Rates are indicative for the 2026 tax year and exclude municipal multipliers, which can increase the effective rate. Cantonal tax laws change — always verify the current rate with the cantonal tax authority or a Swiss tax adviser. See our [cantonal tax comparison](/blog/cantonal-tax-comparison-switzerland/) for a broader breakdown across all 26 cantons.
+Rates are indicative for the 2026 tax year and exclude municipal multipliers, which can increase the effective rate. Cantonal tax laws change — always verify the current rate with the cantonal tax authority or a Swiss tax adviser. See our [cantonal tax comparison](/tax-accounting/cantonal-tax-comparison-switzerland/) for a broader breakdown across all 26 cantons.
 
 Nidwalden and Zug are consistently the lowest. Vaud and Basel-Stadt are among the highest. The variation between the cheapest and most expensive canton is roughly 8x on the headline rate alone.
 
@@ -134,7 +134,7 @@ Hidden reserves (stillen Reserven) — assets carried below market value or liab
 
 Capital tax acts as a **minimum tax** — it is the floor cost of holding a Swiss company regardless of earnings. In high-profit years, income tax dominates and the capital tax is often deductible from it, reducing the net cost. In loss years, capital tax is the only corporate tax liability.
 
-For a detailed breakdown of profit tax rates, see our guide to [Swiss tax rates by canton](/blog/swiss-tax-rates-by-canton/).
+For a detailed breakdown of profit tax rates, see our guide to [Swiss tax rates by canton](/tax-accounting/swiss-tax-rates-by-canton/).
 
 ---
 
@@ -150,7 +150,7 @@ Under Article 30 StHG, cantons are required to provide a reduction in capital ta
 
 The **STAF reform** (Steuerreform und AHV-Finanzierung), effective 1 January 2020, abolished the formal cantonal holding privilege for income tax purposes. However, cantonal capital tax reductions on participations have been **maintained** under revised cantonal tax laws. Zug, Nidwalden, and Lucerne all retained participation-based capital tax reductions post-STAF.
 
-For a full analysis of holding structures, see our guide to [holding companies in Switzerland](/blog/holding-company-switzerland/).
+For a full analysis of holding structures, see our guide to [holding companies in Switzerland](/company-formation/holding-company-switzerland/).
 
 ---
 
@@ -173,7 +173,7 @@ For holding and finance structures, Nidwalden and Zug offer the lowest capital t
 Capital tax applies only to equity. **Shareholder loans** (intercompany debt) are excluded from the capital tax base and reduce the equity subject to tax. However, this must be balanced against:
 
 - Swiss **thin capitalisation guidelines** (the safe harbour debt ratios published annually by the ESTV) — Article 65 DBG and the ESTV circular limit how much shareholder debt a Swiss company can carry without interest being reclassified as a hidden dividend distribution
-- **Stamp duty** (Emissionsabgabe) on equity issuances — issuing more equity incurs a 1% stamp duty on amounts exceeding CHF 1 million; see our guide to [stamp duty in Switzerland](/blog/stamp-duty-switzerland/)
+- **Stamp duty** (Emissionsabgabe) on equity issuances — issuing more equity incurs a 1% stamp duty on amounts exceeding CHF 1 million; see our guide to [stamp duty in Switzerland](/tax-accounting/stamp-duty-switzerland/)
 
 ### Subsidiary participations
 
@@ -245,11 +245,11 @@ In several cantons — including Zug — the capital tax paid is deductible from
 
 ## Further Reading
 
-- [Corporate Tax Switzerland →](/blog/corporate-tax-switzerland/)
-- [Cantonal Tax Comparison Switzerland →](/blog/cantonal-tax-comparison-switzerland/)
-- [Swiss Tax Rates by Canton →](/blog/swiss-tax-rates-by-canton/)
-- [Holding Company Switzerland →](/blog/holding-company-switzerland/)
-- [Stamp Duty Switzerland →](/blog/stamp-duty-switzerland/)
+- [Corporate Tax Switzerland →](/tax-accounting/corporate-tax-switzerland/)
+- [Cantonal Tax Comparison Switzerland →](/tax-accounting/cantonal-tax-comparison-switzerland/)
+- [Swiss Tax Rates by Canton →](/tax-accounting/swiss-tax-rates-by-canton/)
+- [Holding Company Switzerland →](/company-formation/holding-company-switzerland/)
+- [Stamp Duty Switzerland →](/tax-accounting/stamp-duty-switzerland/)
 
 ---
 

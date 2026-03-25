@@ -1,0 +1,94 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+import { COCOON_META, getCocoon } from '../../lib/cocoon-map';
+
+export async function getStaticPaths() {
+  return Object.keys(COCOON_META).map(cocoon => ({
+    params: { cocoon },
+    props: { cocoon },
+  }));
+}
+
+const { cocoon } = Astro.props;
+const meta = COCOON_META[cocoon];
+
+const allPosts = await getCollection('blog', ({ data }) => {
+  if (!data.publishDate) return true;
+  return new Date(data.publishDate) <= new Date();
+});
+
+const articles = allPosts
+  .filter(post => getCocoon(post.data.category) === cocoon)
+  .sort((a, b) => {
+    const dateA = a.data.date.split('.').reverse().join('-');
+    const dateB = b.data.date.split('.').reverse().join('-');
+    return dateB.localeCompare(dateA);
+  })
+  .map(post => ({
+    title: post.data.title,
+    href: `/${cocoon}/${post.id}/`,
+    category: post.data.category,
+    date: post.data.date,
+    description: post.data.description,
+  }));
+
+const schema = [
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": meta.title,
+    "url": `https://lawsupport.ch/${cocoon}/`
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://lawsupport.ch/" },
+      { "@type": "ListItem", "position": 2, "name": meta.title, "item": `https://lawsupport.ch/${cocoon}/` }
+    ]
+  }
+];
+---
+
+<Base title={`${meta.title} — Guides & Articles`} description={meta.description} schema={schema}>
+
+  <div class="container">
+    <nav class="breadcrumb">
+      <a href="/">Home</a> <span>/</span> <span>{meta.title}</span>
+    </nav>
+  </div>
+
+  <section class="section">
+    <div class="container">
+      <h1>{meta.title}</h1>
+      <p class="cocoon-lead">{meta.description}</p>
+      <div class="grid-3">
+        {articles.map(article => (
+          <a href={article.href} class="card">
+            <div class="card-body">
+              <span class="blog-card-category">{article.category}</span>
+              <h3>{article.title}</h3>
+              <span class="blog-card-date">{article.date}</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+</Base>
+
+<style>
+  .cocoon-lead { color: var(--gray-text); margin: 12px 0 40px; max-width: 700px; }
+  .blog-card-category {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--red);
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  .blog-card-date { font-size: 0.8rem; color: var(--gray-text); margin-top: 8px; display: block; }
+</style>

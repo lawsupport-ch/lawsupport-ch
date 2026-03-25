@@ -1,6 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
+import { getCocoon } from '../../lib/cocoon-map';
 
 const allPosts = await getCollection('blog', ({ data }) => {
   if (!data.publishDate) return true;
@@ -13,13 +14,16 @@ const articles = allPosts
     const dateB = b.data.date.split('.').reverse().join('-');
     return dateB.localeCompare(dateA);
   })
-  .map(post => ({
-    title: post.data.title,
-    href: `/blog/${post.id}/`,
-    category: post.data.category,
-    date: post.data.date,
-    description: post.data.description,
-  }));
+  .map(post => {
+    const cocoon = getCocoon(post.data.category);
+    return {
+      title: post.data.title,
+      href: `/${cocoon}/${post.id}/`,
+      category: post.data.category,
+      date: post.data.date,
+      description: post.data.description,
+    };
+  });
 
 const categories = [...new Set(articles.map(a => a.category))].sort();
 

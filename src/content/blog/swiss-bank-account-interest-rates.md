@@ -4,7 +4,7 @@ description: "Current Swiss bank account interest rates for 2026: CHF savings ac
 date: "19.03.2026"
 publishDate: "2026-06-16"
 category: "Banking & Finance"
-categoryHref: "/blog/"
+categoryHref: "/banking/"
 readTime: "10 min read"
 faqItems:
   - question: "Do Swiss banks charge fees on savings accounts?"
@@ -14,9 +14,9 @@ faqItems:
   - question: "Why are Swiss franc interest rates so low?"
     answer: "The CHF is a reserve currency and safe haven. Global demand for CHF keeps interest rates low — high rates would attract further capital inflows, strengthening the CHF excessively and damaging Swiss export competitiveness."
   - question: "Can I get better rates at a private bank?"
-    answer: "Yes, marginally. Private banks like Julius Baer and Pictet may offer 0.20–0.50% on CHF savings for clients with CHF 500'000+ in assets. The primary value of [private banking](/blog/private-banking-switzerland/) is not savings interest but wealth management, portfolio returns, and advisory services."
+    answer: "Yes, marginally. Private banks like Julius Baer and Pictet may offer 0.20–0.50% on CHF savings for clients with CHF 500'000+ in assets. The primary value of [private banking](/banking/private-banking-switzerland/) is not savings interest but wealth management, portfolio returns, and advisory services."
   - question: "Are Swiss bank interest rates taxable?"
-    answer: "Yes. Interest income on Swiss bank accounts is subject to Swiss withholding tax (Verrechnungssteuer) at 35%. Swiss tax residents can reclaim this through their annual tax return. Non-residents may reclaim part or all of the withholding tax under applicable [double taxation treaties](/blog/double-tax-treaties-switzerland/)."
+    answer: "Yes. Interest income on Swiss bank accounts is subject to Swiss withholding tax (Verrechnungssteuer) at 35%. Swiss tax residents can reclaim this through their annual tax return. Non-residents may reclaim part or all of the withholding tax under applicable [double taxation treaties](/tax-accounting/double-tax-treaties-switzerland/)."
 tocItems:
   - id: "snb-policy-rate-and-its-effect-on-savings-rates"
     title: "SNB Policy Rate and Its Effect on Savings Rates"
@@ -112,7 +112,7 @@ Corporate current accounts in Switzerland typically pay:
 
 Negative rates on corporate accounts (which were common in 2015–2022) have been eliminated as the SNB rate returned to positive territory. However, do not expect meaningful positive returns on CHF corporate cash.
 
-For more on corporate banking in Switzerland, see our guide to [corporate bank accounts](/blog/corporate-bank-account-switzerland/).
+For more on corporate banking in Switzerland, see our guide to [corporate bank accounts](/banking/corporate-bank-account-switzerland/).
 
 ---
 
@@ -128,7 +128,7 @@ For clients with EUR income, EUR-denominated accounts at Swiss banks can offer m
 
 ## USD Accounts in Swiss Banks
 
-US dollar accounts at Swiss [private banks](/blog/private-banking-switzerland/):
+US dollar accounts at Swiss [private banks](/banking/private-banking-switzerland/):
 - **USD savings/deposits:** 3.0–4.5% (reflecting US Federal Reserve rates)
 - Fed policy rate (early 2026): approximately 4.0–4.5%
 
@@ -163,11 +163,11 @@ With CHF savings rates low, Swiss residents and companies maximise returns throu
 
 ## How Interest Rates Affect Company Formation Decisions
 
-For entrepreneurs [starting a business in Switzerland](/blog/start-business-switzerland/), interest rates are a secondary but relevant consideration:
+For entrepreneurs [starting a business in Switzerland](/company-formation/start-business-switzerland/), interest rates are a secondary but relevant consideration:
 
-- **Share capital sitting in a [capital deposit account](/blog/capital-deposit-account-switzerland/)** earns zero interest during the blocking period (typically 2–6 weeks)
+- **Share capital sitting in a [capital deposit account](/banking/capital-deposit-account-switzerland/)** earns zero interest during the blocking period (typically 2–6 weeks)
 - **Corporate treasury management** in CHF yields minimal returns; companies with significant cash positions often allocate across currencies
-- **[Holding companies](/blog/holding-company-switzerland/)** in Zug or other low-tax cantons may hold EUR or USD treasury positions at Swiss banks to capture higher yields while benefiting from Swiss [corporate tax rates](/blog/corporate-tax-switzerland/)
+- **[Holding companies](/company-formation/holding-company-switzerland/)** in Zug or other low-tax cantons may hold EUR or USD treasury positions at Swiss banks to capture higher yields while benefiting from Swiss [corporate tax rates](/tax-accounting/corporate-tax-switzerland/)
 
 ---
 
@@ -187,11 +187,11 @@ The CHF is a reserve currency and safe haven. Global demand for CHF keeps intere
 
 **Can I get better rates at a private bank?**
 
-Yes, marginally. Private banks like Julius Baer and Pictet may offer 0.20–0.50% on CHF savings for clients with CHF 500'000+ in assets. The primary value of [private banking](/blog/private-banking-switzerland/) is not savings interest but wealth management, portfolio returns, and advisory services.
+Yes, marginally. Private banks like Julius Baer and Pictet may offer 0.20–0.50% on CHF savings for clients with CHF 500'000+ in assets. The primary value of [private banking](/banking/private-banking-switzerland/) is not savings interest but wealth management, portfolio returns, and advisory services.
 
 **Are Swiss bank interest rates taxable?**
 
-Yes. Interest income on Swiss bank accounts is subject to Swiss withholding tax (Verrechnungssteuer) at 35%. Swiss tax residents can reclaim this through their annual tax return. Non-residents may reclaim part or all of the withholding tax under applicable [double taxation treaties](/blog/double-tax-treaties-switzerland/).
+Yes. Interest income on Swiss bank accounts is subject to Swiss withholding tax (Verrechnungssteuer) at 35%. Swiss tax residents can reclaim this through their annual tax return. Non-residents may reclaim part or all of the withholding tax under applicable [double taxation treaties](/tax-accounting/double-tax-treaties-switzerland/).
 
 **How do Swiss interest rates compare to other European countries?**
 
@@ -203,11 +203,11 @@ It is possible. The SNB has stated that negative rates remain a tool in its mone
 
 **Should I hold my Swiss company's cash in CHF or another currency?**
 
-That depends on your revenue and expense currencies. If your [Swiss GmbH](/blog/gmbh-formation-switzerland/) invoices primarily in EUR, holding EUR at a Swiss bank captures higher interest and avoids conversion costs. CHF is appropriate for Swiss-denominated expenses (salaries, rent, taxes). A multi-currency strategy is standard for internationally active Swiss companies.
+That depends on your revenue and expense currencies. If your [Swiss GmbH](/company-formation/gmbh-formation-switzerland/) invoices primarily in EUR, holding EUR at a Swiss bank captures higher interest and avoids conversion costs. CHF is appropriate for Swiss-denominated expenses (salaries, rent, taxes). A multi-currency strategy is standard for internationally active Swiss companies.
 
 **Do neobanks offer better interest rates than traditional Swiss banks?**
 
-Generally no. Neobanks like Neon and Yuh offer lower fees but comparable or lower savings rates. Their advantage is cost efficiency on transactions, not deposit interest. For meaningful returns on cash, fixed deposits at cantonal banks or a [Swiss bank account](/blog/swiss-bank-account/) with a private banking relationship are more effective.
+Generally no. Neobanks like Neon and Yuh offer lower fees but comparable or lower savings rates. Their advantage is cost efficiency on transactions, not deposit interest. For meaningful returns on cash, fixed deposits at cantonal banks or a [Swiss bank account](/banking/swiss-bank-account/) with a private banking relationship are more effective.
 
 **What happens to interest rates if I hold a large balance?**
 

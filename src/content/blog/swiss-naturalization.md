@@ -4,7 +4,7 @@ description: "Swiss ordinary naturalization requires 10 years residence, a C per
 date: "19.03.2026"
 publishDate: "2026-07-14"
 category: "Immigration"
-categoryHref: "/blog/"
+categoryHref: "/immigration/"
 readTime: "16 min read"
 faqItems:
   - question: "Can I apply for Swiss naturalization with a B permit?"
@@ -45,7 +45,7 @@ To apply for ordinary Swiss naturalization, you must meet all of the following:
 
 **1. Residence requirement:** At least 10 years total Swiss residence is required at the federal level. Years spent in Switzerland between ages 8 and 18 count double toward this total — meaning a child who spent 5 years in Switzerland during school (ages 8–13) would have 10 qualifying years early in adulthood.
 
-**2. C permit (Niederlassungsbewilligung):** You must hold a Swiss [C permit](/blog/c-permit-switzerland/) (settlement permit). B permit holders are not yet eligible for ordinary naturalization. The C permit is typically issued after 5 years of Swiss residence for EU/EFTA nationals with a [B permit](/blog/b-permit-switzerland/), or after 10 years for non-EU/EFTA nationals.
+**2. C permit (Niederlassungsbewilligung):** You must hold a Swiss [C permit](/immigration/c-permit-switzerland/) (settlement permit). B permit holders are not yet eligible for ordinary naturalization. The C permit is typically issued after 5 years of Swiss residence for EU/EFTA nationals with a [B permit](/immigration/b-permit-switzerland/), or after 10 years for non-EU/EFTA nationals.
 
 **3. Current Swiss residence:** You must be living in Switzerland at the time of application. You cannot apply from abroad (unlike facilitated naturalization for spouses of Swiss citizens).
 
@@ -100,7 +100,7 @@ The commune phase dominates the timeline. Some urban communes (e.g., Zurich City
 
 ## Key Differences from Facilitated Naturalization
 
-Ordinary naturalization differs from facilitated naturalization (for spouses of Swiss citizens through [citizenship by marriage](/blog/swiss-citizenship-by-marriage/)) in several important ways:
+Ordinary naturalization differs from facilitated naturalization (for spouses of Swiss citizens through [citizenship by marriage](/immigration/swiss-citizenship-by-marriage/)) in several important ways:
 
 | | Ordinary Naturalization | Facilitated Naturalization |
 |---|---|---|
@@ -129,13 +129,13 @@ Ordinary naturalization differs from facilitated naturalization (for spouses of 
 
 ## Dual Citizenship
 
-Switzerland permits dual citizenship since 1992. You do not need to renounce your existing nationality to naturalise as Swiss. Whether your home country requires you to renounce upon acquiring Swiss citizenship is a matter of your home country's law — Switzerland does not require or arrange renunciation. For full details, see our guide on [Swiss dual citizenship](/blog/swiss-dual-citizenship/).
+Switzerland permits dual citizenship since 1992. You do not need to renounce your existing nationality to naturalise as Swiss. Whether your home country requires you to renounce upon acquiring Swiss citizenship is a matter of your home country's law — Switzerland does not require or arrange renunciation. For full details, see our guide on [Swiss dual citizenship](/immigration/swiss-dual-citizenship/).
 
 ---
 
 ## Naturalization and Your Swiss Passport
 
-Once naturalization is approved at all three levels, you become a Swiss citizen and are entitled to a [Swiss passport](/blog/swiss-passport/). The passport application itself is a straightforward administrative step — the naturalization process is the substantive hurdle. A Swiss passport provides visa-free access to 186+ countries and full political participation rights in Switzerland's direct democracy.
+Once naturalization is approved at all three levels, you become a Swiss citizen and are entitled to a [Swiss passport](/immigration/swiss-passport/). The passport application itself is a straightforward administrative step — the naturalization process is the substantive hurdle. A Swiss passport provides visa-free access to 186+ countries and full political participation rights in Switzerland's direct democracy.
 
 ---
 
@@ -143,8 +143,8 @@ Once naturalization is approved at all three levels, you become a Swiss citizen 
 
 For foreign nationals arriving in Switzerland to work, the naturalization timeline begins from day one of registered residence. Key milestones along the way include:
 
-1. **Arrival and registration:** Register with the Einwohnerkontrolle and obtain your initial residence permit ([work permit](/blog/work-permit-switzerland/) or [B permit](/blog/b-permit-switzerland/))
-2. **C permit eligibility:** After 5 years (EU/EFTA) or 10 years (non-EU/EFTA), apply for the [C permit](/blog/c-permit-switzerland/)
+1. **Arrival and registration:** Register with the Einwohnerkontrolle and obtain your initial residence permit ([work permit](/immigration/work-permit-switzerland/) or [B permit](/immigration/b-permit-switzerland/))
+2. **C permit eligibility:** After 5 years (EU/EFTA) or 10 years (non-EU/EFTA), apply for the [C permit](/immigration/c-permit-switzerland/)
 3. **Integration building:** Actively participate in community life, achieve language certification, maintain financial independence
 4. **Naturalization application:** Once you have 10 years of residence and a valid C permit, file your application
 

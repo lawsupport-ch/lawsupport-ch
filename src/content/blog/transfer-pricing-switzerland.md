@@ -4,7 +4,7 @@ description: "Swiss transfer pricing rules explained: arm's length principle, do
 date: "19.03.2026"
 publishDate: "2026-08-11"
 category: "Tax & Accounting"
-categoryHref: "/blog/"
+categoryHref: "/tax-accounting/"
 readTime: "13 min read"
 faqItems:
   - question: "Does Switzerland require a contemporaneous transfer pricing study?"
@@ -49,7 +49,7 @@ Switzerland has no dedicated transfer pricing legislation comparable to Germany'
 
 **Art. 58 DBG (Federal Tax Act):** Business expenses not at arm's length are not deductible. Income shifted away from Switzerland through non-arm's length pricing is added back to taxable income.
 
-**Hidden profit distribution (verdeckte Gewinnausschuettung):** If a Swiss company pays an excessive price to a related foreign entity (e.g., excessive royalties, management fees, or interest to a parent), the excess is recharacterised as a hidden dividend distribution — subject to 35% [withholding tax](/blog/withholding-tax-switzerland/).
+**Hidden profit distribution (verdeckte Gewinnausschuettung):** If a Swiss company pays an excessive price to a related foreign entity (e.g., excessive royalties, management fees, or interest to a parent), the excess is recharacterised as a hidden dividend distribution — subject to 35% [withholding tax](/tax-accounting/withholding-tax-switzerland/).
 
 **Hidden capital contribution:** The reverse — below-market income received by a Swiss company from a related party — is a potential issue but less commonly challenged.
 
@@ -69,7 +69,7 @@ Swiss tax authorities accept all five standard OECD methods:
 | Transactional Net Margin Method (TNMM) | Most common — used for tested party analysis of routine entities |
 | Profit Split Method | Highly integrated transactions, unique contributions by both parties |
 
-TNMM is the most frequently applied method in practice because it requires less detailed comparables data than CUP. For companies subject to [corporate tax in Switzerland](/blog/corporate-tax-switzerland/), method selection directly affects the taxable profit allocation.
+TNMM is the most frequently applied method in practice because it requires less detailed comparables data than CUP. For companies subject to [corporate tax in Switzerland](/tax-accounting/corporate-tax-switzerland/), method selection directly affects the taxable profit allocation.
 
 ---
 
@@ -77,7 +77,7 @@ TNMM is the most frequently applied method in practice because it requires less 
 
 **Management fees:** A Swiss subsidiary paying management fees to a foreign parent for shared services must be able to demonstrate that (a) the services were actually rendered, (b) the benefiting entity received genuine value, and (c) the price is consistent with what an independent party would pay (arm's length).
 
-**Royalties and IP licensing:** A Swiss IP [holding company](/blog/holding-company-switzerland/) licensing IP to group subsidiaries must price the royalties at arm's length — typically supported by a royalty benchmarking study using comparable licensing agreements.
+**Royalties and IP licensing:** A Swiss IP [holding company](/company-formation/holding-company-switzerland/) licensing IP to group subsidiaries must price the royalties at arm's length — typically supported by a royalty benchmarking study using comparable licensing agreements.
 
 **Intercompany loans:** Swiss-source interest on intercompany loans must be at arm's length. The ESTV (Federal Tax Administration) publishes annual safe harbour interest rates for shareholder loans — the Merkblatt S-02.123 rates (2026: approximately 1.5% for CHF loans, 3.0% for EUR, 4.5% for USD, adjusted annually). Staying within these rates provides a safe harbour for Swiss tax purposes.
 
@@ -95,7 +95,7 @@ Switzerland does not have a statutory transfer pricing documentation obligation 
 
 **Country-by-Country Reporting (CbCR):** Swiss groups with annual consolidated revenue above CHF 900 million must file a CbCR with the <a href="https://www.estv.admin.ch" target="_blank" rel="nofollow noopener">ESTV</a>. The ESTV exchanges CbCRs with treaty partner jurisdictions.
 
-**Master File / Local File:** Switzerland does not mandate a statutory Master File or Local File. However, large Swiss entities in multinational groups are strongly advised to maintain OECD-compliant transfer pricing documentation as their first line of defence in audits. Many Swiss subsidiaries of foreign groups maintain a Local File as a matter of group policy. Companies should coordinate this with their [accounting and financial reporting obligations](/blog/accounting-switzerland/).
+**Master File / Local File:** Switzerland does not mandate a statutory Master File or Local File. However, large Swiss entities in multinational groups are strongly advised to maintain OECD-compliant transfer pricing documentation as their first line of defence in audits. Many Swiss subsidiaries of foreign groups maintain a Local File as a matter of group policy. Companies should coordinate this with their [accounting and financial reporting obligations](/tax-accounting/accounting-switzerland/).
 
 ---
 
@@ -105,7 +105,7 @@ Swiss tax authorities (cantonal authorities for cantonal tax, ESTV for federal t
 
 The Zug and Zurich tax authorities are experienced with international tax structuring and process APA requests for their respective cantonal taxes. For federal tax, the ESTV handles APAs. Bilateral APAs with foreign treaty partners are possible in principle but rarely used given Switzerland's domestic APA practice.
 
-**Timeline for an APA:** 3-12 months depending on complexity. Rulings are typically binding for 5 years, renewable. For guidance on available [tax advisory services](/blog/tax-advisory-switzerland/) that support the APA process, contact our team directly.
+**Timeline for an APA:** 3-12 months depending on complexity. Rulings are typically binding for 5 years, renewable. For guidance on available [tax advisory services](/tax-accounting/tax-advisory-switzerland/) that support the APA process, contact our team directly.
 
 ---
 
@@ -121,7 +121,7 @@ Then:
 - The Swiss company must pay the withholding tax even if it cannot recover it from the foreign recipient
 - The foreign recipient may not be entitled to a treaty refund if the Swiss authority determines the arrangement was structured to avoid withholding
 
-This is why royalty rates paid from Swiss companies to IP holding companies in low-tax jurisdictions are scrutinised carefully — both by the Swiss authorities and by the authorities of the foreign IP company's jurisdiction. The interaction with Switzerland's extensive network of [double tax treaties](/blog/double-tax-treaties-switzerland/) adds further complexity to the withholding tax analysis.
+This is why royalty rates paid from Swiss companies to IP holding companies in low-tax jurisdictions are scrutinised carefully — both by the Swiss authorities and by the authorities of the foreign IP company's jurisdiction. The interaction with Switzerland's extensive network of [double tax treaties](/tax-accounting/double-tax-treaties-switzerland/) adds further complexity to the withholding tax analysis.
 
 ---
 
@@ -133,7 +133,7 @@ Switzerland implemented BEPS minimum standards through:
 - Spontaneous exchange of advance rulings with treaty partners
 - BEPS Action 5 on harmful tax practices (elimination of ring-fencing regimes — STAF 2020)
 
-Switzerland enacted the 15% supplement tax for qualifying large Swiss groups (consolidated revenue CHF 900M+, applicable from 2024), implementing the OECD Pillar Two global minimum tax. Companies affected should review their group structure with reference to available [Swiss tax incentives](/blog/swiss-tax-incentives/) such as the patent box and R&D super-deduction to manage effective rates.
+Switzerland enacted the 15% supplement tax for qualifying large Swiss groups (consolidated revenue CHF 900M+, applicable from 2024), implementing the OECD Pillar Two global minimum tax. Companies affected should review their group structure with reference to available [Swiss tax incentives](/tax-accounting/swiss-tax-incentives/) such as the patent box and R&D super-deduction to manage effective rates.
 
 ---
 
@@ -147,7 +147,7 @@ Swiss cantonal tax authorities and the ESTV focus on specific patterns during au
 - **Interest rates on intercompany loans** that exceed the ESTV safe harbour rates published in the Merkblatt
 - **Lack of written intercompany agreements** supporting the pricing applied
 
-Maintaining contemporaneous documentation and ensuring all intercompany agreements are executed before transactions commence is the most effective audit defence. Companies filing their [corporate tax return in Switzerland](/blog/corporate-tax-return-switzerland/) should reconcile intercompany positions annually.
+Maintaining contemporaneous documentation and ensuring all intercompany agreements are executed before transactions commence is the most effective audit defence. Companies filing their [corporate tax return in Switzerland](/tax-accounting/corporate-tax-return-switzerland/) should reconcile intercompany positions annually.
 
 ---
 

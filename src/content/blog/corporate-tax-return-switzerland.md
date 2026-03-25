@@ -1,9 +1,9 @@
 ---
-title: "Corporate Tax Return Switzerland: Filing Guide for Swiss Companies (2026)"
+title: "Corporate Tax Return Switzerland: Filing Guide"
 description: "Corporate tax return Switzerland: deadlines, required documents, cantonal differences, and common errors. Get expert filing support from Lawsupport, Zug."
 date: "19.03.2026"
 category: "Tax & Accounting"
-categoryHref: "/blog/"
+categoryHref: "/tax-accounting/"
 readTime: "8 min read"
 tocItems:
   - id: "who-must-file"
@@ -54,7 +54,7 @@ All Swiss legal entities — AG (Aktiengesellschaft), GmbH (Gesellschaft mit bes
 
 Tax liability runs from the date of Commercial Register entry to the date of deletion. Newly formed companies file their first return for the period from incorporation to financial year end, even if that period is less than 12 months.
 
-For an overview of the underlying rates and special regimes that determine your tax liability, see our guide on [corporate tax Switzerland](/blog/corporate-tax-switzerland/).
+For an overview of the underlying rates and special regimes that determine your tax liability, see our guide on [corporate tax Switzerland](/tax-accounting/corporate-tax-switzerland/).
 
 ---
 
@@ -68,7 +68,7 @@ Swiss corporate taxes operate at three levels, but the filing process is consoli
 
 **Cantonal capital tax (Kapitalsteuer):** Annual tax on the company's taxable equity (net assets). Rates are low in most cantons; in Zug, the rate is among Switzerland's lowest.
 
-One return, submitted to the cantonal tax authority, covers all three. You do not file separately with the federal government. For a full canton-by-canton rate comparison, see [cantonal tax comparison Switzerland](/blog/cantonal-tax-comparison-switzerland/).
+One return, submitted to the cantonal tax authority, covers all three. You do not file separately with the federal government. For a full canton-by-canton rate comparison, see [cantonal tax comparison Switzerland](/tax-accounting/cantonal-tax-comparison-switzerland/).
 
 ---
 
@@ -96,7 +96,7 @@ The Swiss corporate tax return consists of:
 Each canton has its own form (electronic submission via the canton's tax portal is standard). The return requests: name, domicile, financial year, share capital, gross revenue, operating profit/loss, adjustments to taxable income, and total taxable profit.
 
 **2. Annual financial statements**
-Full annual accounts must accompany the return: balance sheet, profit and loss statement, and — for larger companies — notes to the accounts. These must comply with Swiss accounting standards (Swiss GAAP FER or at minimum the requirements of Art. 958 CO). For support with annual accounts preparation, see our [accounting Switzerland](/blog/accounting-switzerland/) service.
+Full annual accounts must accompany the return: balance sheet, profit and loss statement, and — for larger companies — notes to the accounts. These must comply with Swiss accounting standards (Swiss GAAP FER or at minimum the requirements of Art. 958 CO). For support with annual accounts preparation, see our [accounting Switzerland](/tax-accounting/accounting-switzerland/) service.
 
 **3. Tax reconciliation statement**
 Commercial accounts (balance sheet P&L) differ from taxable accounts. Common adjustments:
@@ -151,9 +151,9 @@ We prepare and file corporate tax returns for Zug-based companies as part of our
 Phone: +41 44 51 52 592 | Email: info@lawsupport.ch | Address: Grafenauweg 4, Zug
 
 [Request a Free Assessment →](/contacts/)
-[Corporate tax rates by canton →](/blog/corporate-tax-switzerland/)
-[Accounting services Switzerland →](/blog/accounting-switzerland/)
-[VAT registration Switzerland →](/blog/vat-registration-switzerland/)
+[Corporate tax rates by canton →](/tax-accounting/corporate-tax-switzerland/)
+[Accounting services Switzerland →](/tax-accounting/accounting-switzerland/)
+[VAT registration Switzerland →](/tax-accounting/vat-registration-switzerland/)
 
 ---
 

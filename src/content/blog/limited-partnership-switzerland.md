@@ -4,7 +4,7 @@ description: "Swiss Kommanditgesellschaft (KG): partner roles, liability rules, 
 date: "19.03.2026"
 publishDate: "2026-04-29"
 category: "Company Formation"
-categoryHref: "/services/company-formation/"
+categoryHref: "/company-formation/"
 readTime: "12 min read"
 faqItems:
   - question: "Can a non-Swiss resident be a limited partner?"
@@ -37,7 +37,7 @@ The Swiss limited partnership (Kommanditgesellschaft -- KG) is a partnership for
 
 ## Structure of the Swiss KG
 
-**General partner (Komplementar):** Manages the partnership and bears unlimited personal liability for the partnership's obligations. The general partner is typically a Swiss corporation ([GmbH](/blog/gmbh-formation-switzerland/) or [AG](/blog/ag-formation-switzerland/)) -- which limits the practical exposure of the individuals behind it.
+**General partner (Komplementar):** Manages the partnership and bears unlimited personal liability for the partnership's obligations. The general partner is typically a Swiss corporation ([GmbH](/company-formation/gmbh-formation-switzerland/) or [AG](/company-formation/ag-formation-switzerland/)) -- which limits the practical exposure of the individuals behind it.
 
 **Limited partner (Kommanditare):** Invests capital in the partnership. Liability is limited to the committed capital contribution. The limited partner cannot participate in management (if they do, they may lose their limited liability status and be treated as a general partner).
 
@@ -49,7 +49,7 @@ The Swiss limited partnership (Kommanditgesellschaft -- KG) is a partnership for
 
 ## Formation and Registration
 
-The Kommanditgesellschaft must be registered in the [Commercial Register](/blog/commercial-register-switzerland/) (Art. 594 OR). Registration requires:
+The Kommanditgesellschaft must be registered in the [Commercial Register](/company-formation/commercial-register-switzerland/) (Art. 594 OR). Registration requires:
 - Partnership agreement (Gesellschaftsvertrag) -- in writing, signed by all partners
 - Name of the partnership: must include the name of at least one partner + "& Co." or "KG" / "Kommanditgesellschaft"
 - Registered address
@@ -66,13 +66,13 @@ There is no minimum capital requirement for the partnership itself (though the g
 
 The Swiss KG is **tax-transparent** -- it is not itself a taxable entity for income tax purposes. Instead, each partner is taxed on their share of the partnership's profit in proportion to their participation.
 
-**General partner GmbH:** Taxed on its share of partnership profit as corporate income. For details on corporate tax rates, see our guide to [corporate tax in Switzerland](/blog/corporate-tax-switzerland/).
+**General partner GmbH:** Taxed on its share of partnership profit as corporate income. For details on corporate tax rates, see our guide to [corporate tax in Switzerland](/tax-accounting/corporate-tax-switzerland/).
 
 **Limited partner individuals:** Taxed on their share of partnership profit as personal income in their canton of residence.
 
 **Capital tax:** The KG is subject to cantonal capital tax on its net assets (at partnership level, separate from partners' individual wealth tax on their participation).
 
-**VAT:** The KG is itself a VAT taxpayer -- if it provides taxable supplies exceeding CHF 100'000/year, it must register for VAT. See our [VAT registration guide](/blog/vat-registration-switzerland/) for thresholds and procedures.
+**VAT:** The KG is itself a VAT taxpayer -- if it provides taxable supplies exceeding CHF 100'000/year, it must register for VAT. See our [VAT registration guide](/tax-accounting/vat-registration-switzerland/) for thresholds and procedures.
 
 ---
 
@@ -103,7 +103,7 @@ The KGK was reformed in 2024 to be more competitive with Luxembourg (SCSp) and D
 | Commercial Register | Required | Required | Required |
 | Common use | Investment funds | Operating companies | Holding/operating |
 
-For a full comparison of Swiss entity types and which structure best fits your needs, see our [company formation guide](/blog/company-formation-switzerland/).
+For a full comparison of Swiss entity types and which structure best fits your needs, see our [company formation guide](/company-formation/company-formation-switzerland/).
 
 ---
 
@@ -113,7 +113,7 @@ For a full comparison of Swiss entity types and which structure best fits your n
 
 **Family businesses:** A KG can allow senior family members (as limited partners) to invest capital while a next-generation manager serves as general partner (through a management GmbH).
 
-**Joint ventures:** For projects where one party contributes capital passively and another operates actively. See also our page on [joint ventures in Switzerland](/blog/joint-venture-switzerland/).
+**Joint ventures:** For projects where one party contributes capital passively and another operates actively. See also our page on [joint ventures in Switzerland](/company-formation/joint-venture-switzerland/).
 
 **Not recommended for:** Standard Swiss operating companies -- the GmbH or AG is more appropriate for most commercial businesses.
 

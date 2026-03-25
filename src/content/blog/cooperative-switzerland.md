@@ -3,7 +3,7 @@ title: "Swiss Cooperative (Genossenschaft): Formation Guide (2026)"
 description: "Swiss Genossenschaft: formation steps, member liability, governance, and when a cooperative is right for you. Get expert advice from Lawsupport."
 date: "19.03.2026"
 category: "Company Formation"
-categoryHref: "/services/company-formation/"
+categoryHref: "/company-formation/"
 readTime: "6 min read"
 tocItems:
   - id: "legal-basis"
@@ -88,7 +88,7 @@ Forming a cooperative in Switzerland requires:
 - **Commercial Register registration.** The cooperative must be registered in the Commercial Register of the canton where it has its registered office. Registration by a licensed representative is required. Company searches can be verified at <a href="https://www.zefix.ch" target="_blank" rel="nofollow noopener">zefix.ch</a>.
 - **Auditor requirement.** Cooperatives with more than 300 members or that issue cooperative shares (Anteilscheine) to the public must have their accounts audited. Smaller cooperatives may qualify for the opting-out provisions.
 
-For a step-by-step overview of Swiss entity formation procedures, see [Company Formation in Switzerland](/blog/company-formation-switzerland/).
+For a step-by-step overview of Swiss entity formation procedures, see [Company Formation in Switzerland](/company-formation/company-formation-switzerland/).
 
 ---
 
@@ -117,7 +117,7 @@ The practical tax position of a cooperative depends heavily on how it is structu
 
 Swiss tax authorities examine the substance of cooperative operations carefully. Structures that are nominally cooperative but function as investor vehicles attract standard corporate tax treatment.
 
-For a broader overview of Swiss corporate tax, see our [corporate tax Switzerland guide](/blog/corporate-tax-switzerland/).
+For a broader overview of Swiss corporate tax, see our [corporate tax Switzerland guide](/tax-accounting/corporate-tax-switzerland/).
 
 ---
 
@@ -148,7 +148,7 @@ For a broader overview of Swiss corporate tax, see our [corporate tax Switzerlan
 | Membership | Variable, open | Fixed (share transfer required) | Variable |
 | Best suited for | Housing, agriculture, member-benefit organisations | Investor-owned commercial business | Associations, clubs, non-profits |
 
-For a detailed comparison of the GmbH structure, see [GmbH Formation in Switzerland](/blog/gmbh-formation-switzerland/).
+For a detailed comparison of the GmbH structure, see [GmbH Formation in Switzerland](/company-formation/gmbh-formation-switzerland/).
 
 ---
 
@@ -158,7 +158,7 @@ A cooperative is dissolved by a resolution of the general assembly, typically re
 
 Upon dissolution, the cooperative enters liquidation. After all debts are satisfied, any remaining surplus is distributed to members in accordance with the articles — typically in proportion to their capital contributions or membership duration. Unlike a Verein, where surplus must go to a purpose-aligned organisation, a cooperative's residual assets can be returned to members.
 
-For details on the dissolution process, see our [company liquidation Switzerland guide](/blog/company-liquidation-switzerland/).
+For details on the dissolution process, see our [company liquidation Switzerland guide](/company-formation/company-liquidation-switzerland/).
 
 ---
 
@@ -184,7 +184,7 @@ No. A cooperative requires a minimum of seven members at formation. A sole-membe
 
 **Is a cooperative right for a tech startup or investor-backed business?**
 
-Rarely. The one-member-one-vote rule makes it structurally incompatible with investor-driven governance, where capital providers expect voting rights proportional to their investment. Investor-backed ventures should look at the AG, which allows flexible share class structures. See [Company Formation in Switzerland](/blog/company-formation-switzerland/) for an entity comparison.
+Rarely. The one-member-one-vote rule makes it structurally incompatible with investor-driven governance, where capital providers expect voting rights proportional to their investment. Investor-backed ventures should look at the AG, which allows flexible share class structures. See [Company Formation in Switzerland](/company-formation/company-formation-switzerland/) for an entity comparison.
 
 **Do housing cooperative members own their apartment?**
 

@@ -4,7 +4,7 @@ description: "How to open a Swiss bank account online in 2026. Digital neobanks,
 date: "19.03.2026"
 publishDate: "2026-06-20"
 category: "Banking & Finance"
-categoryHref: "/blog/"
+categoryHref: "/banking/"
 readTime: "8 min read"
 faqItems:
   - question: "Can I open a Swiss bank account before moving to Switzerland?"
@@ -49,7 +49,7 @@ The answer depends on your residency status:
 | Non-resident (non-EU/EEA) | Very limited — most require in-person |
 | Corporate / company account | Always in-person or via representative |
 
-If you are a non-resident, our [dedicated guide to Swiss bank accounts for non-residents](/blog/swiss-bank-account-non-residents/) explains the realistic paths in detail.
+If you are a non-resident, our [dedicated guide to Swiss bank accounts for non-residents](/banking/swiss-bank-account-non-residents/) explains the realistic paths in detail.
 
 ---
 
@@ -106,7 +106,7 @@ Zuger Kantonalbank requires in-person identification for account opening — no 
 
 ### UBS / Julius Baer (Private Banking)
 
-These banks do not offer online-only account opening. A relationship manager meeting (in-person or video conference) is required, but the KYC documentation can be submitted electronically. For [private banking](/blog/private-banking-switzerland/) clients, the initial meeting is relationship-focused, not merely administrative.
+These banks do not offer online-only account opening. A relationship manager meeting (in-person or video conference) is required, but the KYC documentation can be submitted electronically. For [private banking](/banking/private-banking-switzerland/) clients, the initial meeting is relationship-focused, not merely administrative.
 
 ---
 
@@ -118,9 +118,9 @@ For non-residents needing a Swiss bank account without being present in Switzerl
 
 **Option 2 — Revolut with Swiss IBAN:** Revolut can provide a CHF IBAN for non-residents in some circumstances, but this is a Lithuanian-licenced bank, not a Swiss bank. It cannot receive all Swiss payment types (notably some employer salary payments require a Swiss-registered IBAN).
 
-**Option 3 — Arrive first, then open:** The most reliable path for non-residents is to arrive in Switzerland, register at the commune (Einwohnerkontrolle), obtain your [residence permit](/blog/b-permit-switzerland/), and then open an account at a cantonal bank or neobank — all within the first few weeks of arrival.
+**Option 3 — Arrive first, then open:** The most reliable path for non-residents is to arrive in Switzerland, register at the commune (Einwohnerkontrolle), obtain your [residence permit](/immigration/b-permit-switzerland/), and then open an account at a cantonal bank or neobank — all within the first few weeks of arrival.
 
-**Option 4 — Corporate account via formation agent:** For company accounts, banks typically require a director or authorised signatory to attend in-person at the bank. Lawsupport coordinates this as part of [company formation](/blog/company-formation-switzerland/).
+**Option 4 — Corporate account via formation agent:** For company accounts, banks typically require a director or authorised signatory to attend in-person at the bank. Lawsupport coordinates this as part of [company formation](/company-formation/company-formation-switzerland/).
 
 ---
 
@@ -141,7 +141,7 @@ For traditional banks (remote video KYC):
 
 ## Corporate Bank Account Online
 
-Online opening of Swiss [corporate bank accounts](/blog/corporate-bank-account-switzerland/) is not available. All major Swiss banks require:
+Online opening of Swiss [corporate bank accounts](/banking/corporate-bank-account-switzerland/) is not available. All major Swiss banks require:
 - In-person meeting with a director or authorised representative
 - Commercial Register extract (Handelsregisterauszug)
 - Company documents (articles of association, shareholder register)

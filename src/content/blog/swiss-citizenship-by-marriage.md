@@ -4,7 +4,7 @@ description: "Foreign spouses of Swiss citizens can naturalise in 1-2 years via 
 date: "19.03.2026"
 publishDate: "2026-07-06"
 category: "Immigration"
-categoryHref: "/blog/"
+categoryHref: "/immigration/"
 readTime: "14 min read"
 faqItems:
   - question: "Does marrying a Swiss citizen automatically make me Swiss?"
@@ -49,7 +49,7 @@ This guide sets out the precise legal requirements under Article 21 of the <a hr
 
 ## What Is Facilitated Naturalisation?
 
-Ordinary naturalisation in Switzerland requires ten years of legal residence, a C permit, and approvals from communal, cantonal, and federal authorities. The process can take thirteen or more years from first arrival to passport. Facilitated naturalisation, introduced under Art. 21 BüG, is a separate procedure reserved for foreign spouses of Swiss citizens. It operates at the federal level only — the <a href="https://www.sem.admin.ch" target="_blank" rel="nofollow noopener">State Secretariat for Migration (SEM)</a> decides the case — and entirely bypasses the cantonal and communal stages that define ordinary [Swiss citizenship](/blog/swiss-citizenship/) through the standard route.
+Ordinary naturalisation in Switzerland requires ten years of legal residence, a C permit, and approvals from communal, cantonal, and federal authorities. The process can take thirteen or more years from first arrival to passport. Facilitated naturalisation, introduced under Art. 21 BüG, is a separate procedure reserved for foreign spouses of Swiss citizens. It operates at the federal level only — the <a href="https://www.sem.admin.ch" target="_blank" rel="nofollow noopener">State Secretariat for Migration (SEM)</a> decides the case — and entirely bypasses the cantonal and communal stages that define ordinary [Swiss citizenship](/immigration/swiss-citizenship/) through the standard route.
 
 The rationale is that the Swiss spouse's existing citizenship substitutes for the long residence that ordinary naturalisation requires. The foreign spouse is, in effect, already embedded in Swiss civic life through the marriage relationship — provided that relationship is genuine.
 
@@ -61,7 +61,7 @@ If you and your Swiss spouse live together in Switzerland, the eligibility crite
 
 - **Marriage duration:** You must have been married to your Swiss spouse for at least **three years** at the date of application.
 - **Total Swiss residence:** You must have lived legally in Switzerland for a total of at least **five years**. These years do not need to be continuous — earlier periods of residence count, even if interrupted. The current period of residence must be ongoing.
-- **Valid permit:** You must hold a valid Swiss residence permit at the time of application. A [B permit](/blog/b-permit-switzerland/) is sufficient; a [C permit](/blog/c-permit-switzerland/) is not required.
+- **Valid permit:** You must hold a valid Swiss residence permit at the time of application. A [B permit](/immigration/b-permit-switzerland/) is sufficient; a [C permit](/immigration/c-permit-switzerland/) is not required.
 - **Genuine community of life:** The marriage must be a real, stable partnership (eheliche Gemeinschaft). This is assessed substantively by the SEM, not assumed.
 - **Integration:** Language proficiency at a minimum of **B1 oral** level in a Swiss national language, along with demonstrable knowledge of Swiss customs, institutions, and way of life.
 - **Clean record:** No grounds for exclusion — specifically no criminal record that would indicate a disregard for Swiss legal order, and no reliance on social welfare that raises questions about financial independence.
@@ -118,7 +118,7 @@ Facilitated naturalisation applications are filed with the **State Secretariat f
 
 5. **Decision:** The SEM issues a decision. If approved, the foreign spouse receives a federal naturalisation decree (Einbürgerungsverfügung). Unlike ordinary naturalisation, there is no communal or cantonal vote. The federal decision is the final decision.
 
-6. **Registration:** Following the federal decree, the new Swiss citizen is registered in the civil registry of the Swiss spouse's home commune (Heimatgemeinde), acquires the Heimatschein, and may then apply for a [Swiss passport](/blog/swiss-passport/).
+6. **Registration:** Following the federal decree, the new Swiss citizen is registered in the civil registry of the Swiss spouse's home commune (Heimatgemeinde), acquires the Heimatschein, and may then apply for a [Swiss passport](/immigration/swiss-passport/).
 
 ---
 
@@ -158,13 +158,13 @@ This risk is real in cases where the relationship is under strain at the time of
 
 ## Children: Inclusion in the Application
 
-Children born during the marriage who have not yet acquired Swiss citizenship may be included in a facilitated naturalisation application, provided they are under 22 years of age and the SEM is satisfied that inclusion is in the child's interest. If the applicant parent naturalises and the child is included in the decree, the child also becomes Swiss. Children who have already reached 22, or who are from a previous relationship and not adopted by the Swiss spouse, must pursue their own path to citizenship separately — potentially through [Swiss citizenship by descent](/blog/swiss-citizenship-by-descent/) if applicable.
+Children born during the marriage who have not yet acquired Swiss citizenship may be included in a facilitated naturalisation application, provided they are under 22 years of age and the SEM is satisfied that inclusion is in the child's interest. If the applicant parent naturalises and the child is included in the decree, the child also becomes Swiss. Children who have already reached 22, or who are from a previous relationship and not adopted by the Swiss spouse, must pursue their own path to citizenship separately — potentially through [Swiss citizenship by descent](/immigration/swiss-citizenship-by-descent/) if applicable.
 
 ---
 
 ## Dual Citizenship
 
-Switzerland has permitted [dual and multiple citizenship](/blog/swiss-dual-citizenship/) since 1992. There is no requirement under Swiss law to renounce your existing nationality when naturalising. You keep your current passport, and you gain a Swiss one.
+Switzerland has permitted [dual and multiple citizenship](/immigration/swiss-dual-citizenship/) since 1992. There is no requirement under Swiss law to renounce your existing nationality when naturalising. You keep your current passport, and you gain a Swiss one.
 
 The caveat applies on the other side: your home country's law governs whether you are permitted to hold dual citizenship. Countries including the United States, France, the United Kingdom, and most EU member states permit it. Countries including India, and many Gulf states, do not. If you hold a nationality from a country that prohibits dual citizenship, acquiring Swiss citizenship through marriage will, under your home country's law, result in automatic loss of your original nationality. This is a question for specialist advice before you apply — not after.
 
@@ -194,7 +194,7 @@ Lawsupport (Morgan Hartley Consulting) advises clients on the full spectrum of S
 - Coordinate with the SEM on document requests and interview scheduling
 - Advise on dual citizenship implications under the home country's law, in coordination with home-country counsel where needed
 
-We also advise clients who are earlier in their Swiss journey — whether they have just arrived on a [B permit](/blog/b-permit-switzerland/), are planning to [relocate to Switzerland](/blog/work-permit-switzerland/) as a couple, or are exploring other citizenship routes including [Swiss citizenship by descent](/blog/swiss-citizenship-by-descent/).
+We also advise clients who are earlier in their Swiss journey — whether they have just arrived on a [B permit](/immigration/b-permit-switzerland/), are planning to [relocate to Switzerland](/immigration/work-permit-switzerland/) as a couple, or are exploring other citizenship routes including [Swiss citizenship by descent](/immigration/swiss-citizenship-by-descent/).
 
 ---
 

@@ -4,7 +4,7 @@ description: "Register a trademark in Switzerland: official fees from CHF 550, t
 date: "19.03.2026"
 publishDate: "2026-08-09"
 category: "IP & Commercial Law"
-categoryHref: "/blog/"
+categoryHref: "/intellectual-property/"
 readTime: "14 min read"
 faqItems:
   - question: "Can a foreign company register a trademark in Switzerland without a local representative?"
@@ -57,7 +57,7 @@ A registered trademark is one of the most commercially durable assets a business
 
 Swiss trademark law is codified in the **Markenschutzgesetz (MSchG)** — the Federal Act on the Protection of Trademarks and Indications of Source — and its associated ordinance (MSchV). Administration falls to the **Swiss Federal Institute of Intellectual Property (IGE/IPI)**, headquartered in Bern. Switzerland has been a member of the **Paris Convention** and the **TRIPS Agreement** since its inception, and a contracting party to the **Madrid Protocol** for international trademark registration through WIPO.
 
-The MSchG protects marks that distinguish the goods or services of one undertaking from those of another. Protection is acquired by registration, not by use — although prior use can establish certain prior rights that affect third-party filings. For businesses structuring their [intellectual property portfolio in Switzerland](/blog/ip-protection-switzerland/), trademark registration is typically the first protective step.
+The MSchG protects marks that distinguish the goods or services of one undertaking from those of another. Protection is acquired by registration, not by use — although prior use can establish certain prior rights that affect third-party filings. For businesses structuring their [intellectual property portfolio in Switzerland](/intellectual-property/ip-protection-switzerland/), trademark registration is typically the first protective step.
 
 ---
 
@@ -101,7 +101,7 @@ Class selection matters strategically and financially. Filing in more classes in
 
 ### 1. Trademark Search
 
-Before filing, conduct a clearance search. The IGE's **trademark register** is publicly searchable at no cost through <a href="https://www.swissreg.ch" target="_blank" rel="nofollow noopener">Swissreg</a> and covers all registered and pending Swiss marks. A search should examine identical marks, phonetically similar marks, and conceptually similar marks across the relevant classes. Separate searches against the [commercial register (Zefix)](/blog/commercial-register-switzerland/) and domain name databases are advisable. A professional clearance opinion reduces the risk of costly post-filing disputes.
+Before filing, conduct a clearance search. The IGE's **trademark register** is publicly searchable at no cost through <a href="https://www.swissreg.ch" target="_blank" rel="nofollow noopener">Swissreg</a> and covers all registered and pending Swiss marks. A search should examine identical marks, phonetically similar marks, and conceptually similar marks across the relevant classes. Separate searches against the [commercial register (Zefix)](/company-formation/commercial-register-switzerland/) and domain name databases are advisable. A professional clearance opinion reduces the risk of costly post-filing disputes.
 
 ### 2. Filing the Application
 
@@ -197,7 +197,7 @@ Swiss law recognises several categories of prior rights that can block registrat
 - **Protected geographic indications** and designations of origin
 - **Personal names and portraits** — third parties cannot register another person's name as a mark without consent
 
-A thorough clearance search covers all of these, not just the trademark register. Businesses that have already completed [company formation in Switzerland](/blog/company-formation-switzerland/) should verify that their company name does not conflict with existing marks before applying.
+A thorough clearance search covers all of these, not just the trademark register. Businesses that have already completed [company formation in Switzerland](/company-formation/company-formation-switzerland/) should verify that their company name does not conflict with existing marks before applying.
 
 ---
 
@@ -218,7 +218,7 @@ Swiss trademark owners have access to a range of enforcement tools:
 - **Criminal sanctions** — wilful trademark infringement is a criminal offence under <a href="https://www.fedlex.admin.ch/eli/cc/1993/274_274_274/en" target="_blank" rel="nofollow noopener">Article 61 MSchG</a>, punishable by a custodial sentence of up to one year or a monetary penalty. Criminal complaints are filed with the cantonal prosecution authorities.
 - **Administrative proceedings** — the IGE handles oppositions; broader cancellation and invalidity actions go to the civil courts.
 
-For businesses requiring [due diligence on existing marks](/blog/due-diligence-switzerland/) before acquisition or investment, enforcement history is a critical data point.
+For businesses requiring [due diligence on existing marks](/corporate-transactions/due-diligence-switzerland/) before acquisition or investment, enforcement history is a critical data point.
 
 ---
 
@@ -260,9 +260,9 @@ For businesses whose primary market is Switzerland, a direct national filing wit
 
 For businesses building an IP portfolio in Switzerland, trademark registration is often one component of a broader strategy. See also:
 
-- [Patent registration in Switzerland](/blog/patent-registration-switzerland/) — process, fees, and timeline for Swiss national and EP(CH) patents
-- [IP protection in Switzerland](/blog/ip-protection-switzerland/) — overview of copyright, design rights, trade secrets, and portfolio management
-- [Company formation in Switzerland](/blog/company-formation-switzerland/) — structuring the entity that will hold and exploit IP rights
+- [Patent registration in Switzerland](/intellectual-property/patent-registration-switzerland/) — process, fees, and timeline for Swiss national and EP(CH) patents
+- [IP protection in Switzerland](/intellectual-property/ip-protection-switzerland/) — overview of copyright, design rights, trade secrets, and portfolio management
+- [Company formation in Switzerland](/company-formation/company-formation-switzerland/) — structuring the entity that will hold and exploit IP rights
 
 ---
 

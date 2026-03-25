@@ -4,7 +4,7 @@ description: "The Swiss National Bank (SNB) manages monetary policy, interest ra
 date: "19.03.2026"
 publishDate: "2026-07-12"
 category: "Banking & Finance"
-categoryHref: "/blog/"
+categoryHref: "/banking/"
 readTime: "14 min read"
 faqItems:
   - question: "Can I buy SNB shares?"
@@ -31,7 +31,7 @@ tocItems:
 ---
 
 
-The Swiss National Bank (SNB / Schweizerische Nationalbank) is Switzerland's central bank, responsible for monetary policy, currency issuance, and financial stability. Unlike most central banks, the SNB is a publicly listed company — its shares trade on the SIX Swiss Exchange — while remaining under substantial public sector control. For businesses and individuals operating within the Swiss financial system, understanding how the SNB functions is essential for planning around interest rates, currency movements, and [banking arrangements in Switzerland](/blog/swiss-bank-account/).
+The Swiss National Bank (SNB / Schweizerische Nationalbank) is Switzerland's central bank, responsible for monetary policy, currency issuance, and financial stability. Unlike most central banks, the SNB is a publicly listed company — its shares trade on the SIX Swiss Exchange — while remaining under substantial public sector control. For businesses and individuals operating within the Swiss financial system, understanding how the SNB functions is essential for planning around interest rates, currency movements, and [banking arrangements in Switzerland](/banking/swiss-bank-account/).
 
 ---
 
@@ -80,7 +80,7 @@ Despite partial private ownership, the SNB operates in the public interest under
 | March 2025 | +0.25% |
 | 2026 | ~0.0–0.25% |
 
-The SNB was among the first major central banks to cut rates in 2024, as Swiss inflation returned to within target. These rate movements directly affect [corporate banking conditions](/blog/corporate-bank-account-switzerland/) and mortgage pricing across Switzerland.
+The SNB was among the first major central banks to cut rates in 2024, as Swiss inflation returned to within target. These rate movements directly affect [corporate banking conditions](/banking/corporate-bank-account-switzerland/) and mortgage pricing across Switzerland.
 
 ---
 
@@ -90,7 +90,7 @@ The CHF is one of the world's safest haven currencies — demand increases durin
 
 The SNB monitors the CHF and intervenes in foreign exchange markets when necessary — buying foreign currencies and selling CHF to prevent excessive appreciation. This is why the SNB has accumulated such large foreign reserves.
 
-In January 2015, the SNB abandoned its EUR/CHF floor of 1.20 (maintained since 2011) in one of the most dramatic central bank decisions of recent decades. The CHF instantly appreciated 15–20% against the EUR. This event underscored why businesses with Swiss franc exposure — including those pursuing [company formation in Switzerland](/blog/company-formation-switzerland/) — must factor currency risk into their financial planning.
+In January 2015, the SNB abandoned its EUR/CHF floor of 1.20 (maintained since 2011) in one of the most dramatic central bank decisions of recent decades. The CHF instantly appreciated 15–20% against the EUR. This event underscored why businesses with Swiss franc exposure — including those pursuing [company formation in Switzerland](/company-formation/company-formation-switzerland/) — must factor currency risk into their financial planning.
 
 <!-- VIDEO: Explainer — How SNB foreign exchange interventions work and their impact on the Swiss franc -->
 
@@ -100,7 +100,7 @@ In January 2015, the SNB abandoned its EUR/CHF floor of 1.20 (maintained since 2
 
 The SNB distributes profits to the Confederation (one-third) and cantons (two-thirds), subject to a minimum reserve requirement. In years of large unrealised losses on its reserves (due to CHF strength or bond mark-to-market losses), no distribution is made. The SNB recorded record losses in 2022 (CHF 132 billion), reducing distributions significantly.
 
-The distribution mechanism means that [cantonal tax rates](/blog/swiss-tax-rates-by-canton/) can be indirectly affected by SNB performance — cantons receiving smaller distributions may need to adjust their fiscal planning accordingly.
+The distribution mechanism means that [cantonal tax rates](/tax-accounting/swiss-tax-rates-by-canton/) can be indirectly affected by SNB performance — cantons receiving smaller distributions may need to adjust their fiscal planning accordingly.
 
 ---
 
@@ -108,11 +108,11 @@ The distribution mechanism means that [cantonal tax rates](/blog/swiss-tax-rates
 
 The SNB's policy decisions ripple through the entire Swiss economy. For businesses considering Switzerland as a base of operations, several SNB functions are directly relevant:
 
-**Interest rate environment:** The current low-rate environment (0.0–0.25% as of 2026) reduces borrowing costs for Swiss businesses and affects returns on CHF-denominated deposits. Companies opening a [Swiss bank account](/blog/swiss-bank-account/) should factor in the prevailing rate environment.
+**Interest rate environment:** The current low-rate environment (0.0–0.25% as of 2026) reduces borrowing costs for Swiss businesses and affects returns on CHF-denominated deposits. Companies opening a [Swiss bank account](/banking/swiss-bank-account/) should factor in the prevailing rate environment.
 
 **Currency stability:** The SNB's commitment to preventing excessive CHF appreciation provides a degree of predictability for international businesses operating in Switzerland, particularly those involved in cross-border trade.
 
-**Regulatory framework:** The SNB works alongside FINMA to maintain a stable financial system. Companies requiring [FINMA licensing](/blog/finma-licensing-switzerland/) operate within a regulatory environment shaped by both institutions.
+**Regulatory framework:** The SNB works alongside FINMA to maintain a stable financial system. Companies requiring [FINMA licensing](/licensing/finma-licensing-switzerland/) operate within a regulatory environment shaped by both institutions.
 
 ---
 

@@ -3,7 +3,7 @@ title: "Corporate Bank Account Switzerland: How to Open One in 2026"
 description: "Open a corporate bank account in Switzerland. What Swiss banks require, which bank fits, and how to avoid rejection. Free assessment available."
 date: "19.03.2026"
 category: "Banking & Finance"
-categoryHref: "/blog/"
+categoryHref: "/banking/"
 readTime: "10 min read"
 tocItems:
   - id: "why-swiss-corporate-banking-is-different"
@@ -120,7 +120,7 @@ Fintech providers offer significantly faster onboarding — sometimes within day
 
 ### Crypto-Friendly Banks: SEBA Bank, Sygnum
 
-Switzerland is home to two FINMA-licensed crypto banks: SEBA Bank (now AMINA Bank) and Sygnum. These institutions are specifically equipped to handle the banking needs of blockchain businesses, crypto asset managers, and Web3 companies. If your business involves cryptocurrency, tokenised assets, or DeFi activities, these are the only credible Swiss banking partners. Approaching a cantonal bank with a crypto-heavy business model is a reliable way to receive a rejection. For regulated crypto and fintech businesses, see our guide on [FINMA licensing Switzerland](/blog/finma-licensing-switzerland/).
+Switzerland is home to two FINMA-licensed crypto banks: SEBA Bank (now AMINA Bank) and Sygnum. These institutions are specifically equipped to handle the banking needs of blockchain businesses, crypto asset managers, and Web3 companies. If your business involves cryptocurrency, tokenised assets, or DeFi activities, these are the only credible Swiss banking partners. Approaching a cantonal bank with a crypto-heavy business model is a reliable way to receive a rejection. For regulated crypto and fintech businesses, see our guide on [FINMA licensing Switzerland](/licensing/finma-licensing-switzerland/).
 
 ---
 
@@ -132,7 +132,7 @@ This is a special blocked account, distinct from an operating account, that must
 
 This sequence matters for your timeline planning. The Kapitaleinzahlungskonto typically takes **2–6 weeks** to open, depending on the bank and the complexity of the ownership structure. Some banks process straightforward applications in two weeks; others with more demanding compliance requirements can take six. Factor this into your formation timeline and do not assume the capital account will open quickly.
 
-For a detailed walkthrough of the [company formation process in Switzerland](/blog/company-formation-switzerland/), including the full formation timeline for a [GmbH](/blog/gmbh-formation-switzerland/) or [AG](/blog/ag-formation-switzerland/), see our dedicated formation guides. For the dedicated guide to capital deposit accounts, see [capital deposit account Switzerland](/blog/capital-deposit-account-switzerland/).
+For a detailed walkthrough of the [company formation process in Switzerland](/company-formation/company-formation-switzerland/), including the full formation timeline for a [GmbH](/company-formation/gmbh-formation-switzerland/) or [AG](/company-formation/ag-formation-switzerland/), see our dedicated formation guides. For the dedicated guide to capital deposit accounts, see [capital deposit account Switzerland](/banking/capital-deposit-account-switzerland/).
 
 ---
 
@@ -176,7 +176,7 @@ SWIFT connectivity is standard across Swiss banking institutions, and Swiss IBAN
 
 If you are forming a Swiss company specifically for international trading or as a regional treasury vehicle, the multi-currency infrastructure of Swiss corporate banking is a genuine operational asset. Discuss your currency requirements with any bank during the onboarding conversation — not after.
 
-For broader context on Swiss bank accounts for non-residents and foreign entities, see our guide on [Swiss bank accounts](/blog/swiss-bank-account/).
+For broader context on Swiss bank accounts for non-residents and foreign entities, see our guide on [Swiss bank accounts](/banking/swiss-bank-account/).
 
 ---
 
@@ -192,7 +192,7 @@ Planning your Swiss banking setup requires realistic timeline expectations. Here
 
 If you are operating under a business deadline — a contract that requires a Swiss corporate entity with an active bank account — plan accordingly and engage professional support early, not after the first rejection.
 
-If you are forming a company in [Zug specifically](/blog/company-formation-zug/), several cantonal and private banking institutions have strong familiarity with the Zug business environment, which can work in your favour during compliance review.
+If you are forming a company in [Zug specifically](/company-formation/company-formation-zug/), several cantonal and private banking institutions have strong familiarity with the Zug business environment, which can work in your favour during compliance review.
 
 ---
 
@@ -227,7 +227,7 @@ Email: info@lawsupport.ch
 
 **Do I need a Swiss company to open a Swiss corporate bank account?**
 
-Yes. Swiss banks open corporate accounts for Swiss-registered legal entities only. A foreign company cannot open a standard Swiss corporate operating account without a Swiss branch registration or a Swiss subsidiary. If you want a Swiss IBAN and full Swiss banking infrastructure, [company formation in Switzerland](/blog/company-formation-switzerland/) is the necessary first step.
+Yes. Swiss banks open corporate accounts for Swiss-registered legal entities only. A foreign company cannot open a standard Swiss corporate operating account without a Swiss branch registration or a Swiss subsidiary. If you want a Swiss IBAN and full Swiss banking infrastructure, [company formation in Switzerland](/company-formation/company-formation-switzerland/) is the necessary first step.
 
 **How long does it take to open a Swiss corporate bank account?**
 
@@ -255,7 +255,7 @@ The most common reasons are unclear or high-risk business activities, beneficial
 
 **Can a holding company open a Swiss corporate bank account?**
 
-Yes, but holding companies face close scrutiny because they often lack the operational substance banks use to assess risk. A well-prepared application must demonstrate clear economic rationale, identify UBOs thoroughly, and explain the expected flow of funds between group entities. See our guide on [holding companies in Switzerland](/blog/holding-company-switzerland/) for the broader context.
+Yes, but holding companies face close scrutiny because they often lack the operational substance banks use to assess risk. A well-prepared application must demonstrate clear economic rationale, identify UBOs thoroughly, and explain the expected flow of funds between group entities. See our guide on [holding companies in Switzerland](/company-formation/holding-company-switzerland/) for the broader context.
 
 **Do Swiss banks charge fees for corporate accounts?**
 

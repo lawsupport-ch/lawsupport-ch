@@ -3,7 +3,7 @@ title: "Commercial Register Switzerland: Cantonal Offices (2026)"
 description: "Swiss Commercial Register by canton: search Zefix, obtain extracts, register a company. All 26 cantonal offices listed. Contact Lawsupport for help."
 date: "19.03.2026"
 category: "Company Formation"
-categoryHref: "/services/company-formation/"
+categoryHref: "/company-formation/"
 readTime: "7 min read"
 tocItems:
   - id: "what-the-commercial-register-contains"
@@ -155,7 +155,7 @@ Lugano-based; significant for Italian-market holding companies and cross-border 
 Every Swiss company registered in the Commercial Register receives a **UID (Unternehmens-Identifikationsnummer)** — a unique federal identifier in the format CHE-123.456.789.
 
 The UID is used for:
-- VAT registration (MWST number) — see our [VAT Switzerland guide](/blog/vat-switzerland/)
+- VAT registration (MWST number) — see our [VAT Switzerland guide](/tax-accounting/vat-switzerland/)
 - AHV/social insurance reporting
 - All interactions with Swiss federal authorities
 - Identifying companies in Zefix and other federal systems
@@ -175,9 +175,9 @@ New company registrations are filed with the cantonal Handelsregisteramt where t
 5. Publication in SHAB (Swiss Official Gazette of Commerce — shab.ch)
 6. UID assigned upon registration
 
-For a full walkthrough of the incorporation process, see our [company formation Switzerland](/blog/company-formation-switzerland/) guide. For the specific rules on [GmbH formation](/blog/gmbh-formation-switzerland/) and [AG formation](/blog/ag-formation-switzerland/), we have dedicated guides for each entity type.
+For a full walkthrough of the incorporation process, see our [company formation Switzerland](/company-formation/company-formation-switzerland/) guide. For the specific rules on [GmbH formation](/company-formation/gmbh-formation-switzerland/) and [AG formation](/company-formation/ag-formation-switzerland/), we have dedicated guides for each entity type.
 
-Canton selection matters: Zug processes registrations efficiently and its administration is experienced with international structures. See our [company formation in Zug](/blog/company-formation-zug/) guide for the canton-specific advantages. For Zurich-based companies, see [company formation in Zurich](/blog/company-formation-zurich/).
+Canton selection matters: Zug processes registrations efficiently and its administration is experienced with international structures. See our [company formation in Zug](/company-formation/company-formation-zug/) guide for the canton-specific advantages. For Zurich-based companies, see [company formation in Zurich](/company-formation/company-formation-zurich/).
 
 ---
 
@@ -235,7 +235,7 @@ A change of canton requires deregistration from the current cantonal register an
 
 ## How Lawsupport Can Help
 
-Whether you need a [commercial register Switzerland](/blog/commercial-register-switzerland/) filing, certified extracts for banking or legal transactions, or guidance on registering a new Swiss entity, Lawsupport handles the full process across all major cantons. We work with the Zug, Zurich, Geneva, and other cantonal offices regularly and understand the practical requirements at each step.
+Whether you need a [commercial register Switzerland](/company-formation/commercial-register-switzerland/) filing, certified extracts for banking or legal transactions, or guidance on registering a new Swiss entity, Lawsupport handles the full process across all major cantons. We work with the Zug, Zurich, Geneva, and other cantonal offices regularly and understand the practical requirements at each step.
 
 [**Request a Free Assessment**](/contacts/)
 

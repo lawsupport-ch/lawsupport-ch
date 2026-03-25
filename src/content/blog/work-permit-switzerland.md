@@ -1,10 +1,10 @@
 ---
-title: "Work Permit Switzerland: Types, Requirements & How to Apply (2026)"
+title: "Work Permit Switzerland: Types & Requirements"
 description: "Swiss work permits explained for 2026: L, B, C and G permits, EU vs non-EU rules, annual quotas, employer obligations, priority check, and application timelines."
 date: "19.03.2026"
 publishDate: "2026-08-27"
 category: "Immigration"
-categoryHref: "/blog/"
+categoryHref: "/immigration/"
 readTime: "16 min read"
 faqItems:
   - question: "What are the Swiss work permit types?"
@@ -51,7 +51,7 @@ The threshold question in any Swiss work permit analysis is nationality. Switzer
 
 **EU/EFTA nationals** have a qualified right to live and work in Switzerland. They do not compete in a quota. Their employer does not need to demonstrate that a Swiss candidate was unavailable. The administrative process is a registration exercise rather than a discretionary immigration assessment.
 
-**Non-EU/EFTA nationals** — citizens of the United States, the United Kingdom (post-Brexit), India, China, the UAE, Australia, Canada, and all other third countries — enter a fundamentally different legal regime. Switzerland applies the **priority principle (<a href="https://www.seco.admin.ch/seco/en/home.html" target="_blank" rel="nofollow noopener">Inlandervorrang</a>)**: employers must demonstrate that no suitable Swiss or EU/EFTA candidate was available before a [non-EU worker](/blog/work-permit-non-eu-switzerland/) can be authorised. Numbers are constrained by hard annual federal quotas. Processing involves both cantonal and, often, federal review. The discretion exercised by authorities is real and consequential.
+**Non-EU/EFTA nationals** — citizens of the United States, the United Kingdom (post-Brexit), India, China, the UAE, Australia, Canada, and all other third countries — enter a fundamentally different legal regime. Switzerland applies the **priority principle (<a href="https://www.seco.admin.ch/seco/en/home.html" target="_blank" rel="nofollow noopener">Inlandervorrang</a>)**: employers must demonstrate that no suitable Swiss or EU/EFTA candidate was available before a [non-EU worker](/immigration/work-permit-non-eu-switzerland/) can be authorised. Numbers are constrained by hard annual federal quotas. Processing involves both cantonal and, often, federal review. The discretion exercised by authorities is real and consequential.
 
 Understanding which system applies to you is not a preliminary step — it is the determinative question that shapes every decision that follows.
 
@@ -61,19 +61,19 @@ Understanding which system applies to you is not a preliminary step — it is th
 
 ### L Permit — Short-Term Residence Permit
 
-The [L permit](/blog/l-permit-switzerland/) (Kurzaufenthaltsbewilligung) authorises stays of **up to 12 months**. It is non-renewable in the same form and is used for fixed-term [employment contracts](/blog/employment-contract-switzerland/), intracompany transfers of defined duration, and short-term service assignments. For non-EU nationals, L permits are drawn from a separate federal quota. The L permit is not the end goal for most relocating workers, but it is a practical bridging instrument — particularly for executives being transferred to a Swiss subsidiary before a B permit is secured.
+The [L permit](/immigration/l-permit-switzerland/) (Kurzaufenthaltsbewilligung) authorises stays of **up to 12 months**. It is non-renewable in the same form and is used for fixed-term [employment contracts](/employment-law/employment-contract-switzerland/), intracompany transfers of defined duration, and short-term service assignments. For non-EU nationals, L permits are drawn from a separate federal quota. The L permit is not the end goal for most relocating workers, but it is a practical bridging instrument — particularly for executives being transferred to a Swiss subsidiary before a B permit is secured.
 
 ### B Permit — Initial Residence Permit
 
-The [B permit](/blog/b-permit-switzerland/) (Aufenthaltsbewilligung) is the standard long-term work and residence permit. For **EU/EFTA nationals** with an employment contract of 12 months or more, the B permit is issued for **five years** and is renewable. For **non-EU/EFTA nationals**, the B permit is issued for **one year** and renewed annually, subject to continued compliance with the qualifying conditions. The B permit authorises employment in Switzerland and, for self-employed individuals, active management of a Swiss company.
+The [B permit](/immigration/b-permit-switzerland/) (Aufenthaltsbewilligung) is the standard long-term work and residence permit. For **EU/EFTA nationals** with an employment contract of 12 months or more, the B permit is issued for **five years** and is renewable. For **non-EU/EFTA nationals**, the B permit is issued for **one year** and renewed annually, subject to continued compliance with the qualifying conditions. The B permit authorises employment in Switzerland and, for self-employed individuals, active management of a Swiss company.
 
 ### C Permit — Settlement Permit
 
-The [C permit](/blog/c-permit-switzerland/) (Niederlassungsbewilligung) is the permanent residence permit. It does not require renewal linked to employment and confers near-equivalent status to Swiss citizenship for most practical purposes. **EU/EFTA nationals** qualify after **five years** of uninterrupted legal residence on a B permit. **Non-EU/EFTA nationals** qualify after **ten years**, though nationals of certain treaty countries — including the United States — may qualify after five years under bilateral provisions. The C permit is the milestone that most long-term residents are working toward.
+The [C permit](/immigration/c-permit-switzerland/) (Niederlassungsbewilligung) is the permanent residence permit. It does not require renewal linked to employment and confers near-equivalent status to Swiss citizenship for most practical purposes. **EU/EFTA nationals** qualify after **five years** of uninterrupted legal residence on a B permit. **Non-EU/EFTA nationals** qualify after **ten years**, though nationals of certain treaty countries — including the United States — may qualify after five years under bilateral provisions. The C permit is the milestone that most long-term residents are working toward.
 
 ### G Permit — Cross-Border Commuter Permit
 
-The [G permit](/blog/g-permit-switzerland/) (Grenzgangerbewilligung) is issued to individuals who live in a neighbouring country — Germany, Austria, France, Italy, or Liechtenstein — and work in Switzerland, returning to their primary foreign residence at least once per week. The G permit does not establish Swiss tax residency and does not count toward the residence period required for a C permit. For EU/EFTA cross-border workers, the G permit is administratively straightforward. For non-EU nationals, the priority check and quota constraints that apply to B permit applicants apply equally here.
+The [G permit](/immigration/g-permit-switzerland/) (Grenzgangerbewilligung) is issued to individuals who live in a neighbouring country — Germany, Austria, France, Italy, or Liechtenstein — and work in Switzerland, returning to their primary foreign residence at least once per week. The G permit does not establish Swiss tax residency and does not count toward the residence period required for a C permit. For EU/EFTA cross-border workers, the G permit is administratively straightforward. For non-EU nationals, the priority check and quota constraints that apply to B permit applicants apply equally here.
 
 ---
 
@@ -113,7 +113,7 @@ Multinational companies transferring employees to Swiss subsidiaries, branches, 
 
 ### Self-Employed Individuals
 
-Self-employment permits for non-EU nationals are issued sparingly and assessed on a case-by-case basis. The applicant must demonstrate genuine self-employed activity in Switzerland — not a letterbox structure — along with professional qualifications, a credible business plan, economic benefit to Switzerland (local jobs, tax revenue, client relationships), and sufficient personal financial means. In practice, applications from individuals who cannot demonstrate personal liquidity above CHF 500'000 and meaningful Swiss business activity face high rejection risk. EU/EFTA nationals, by contrast, need only register their self-employed activity; no economic interest test applies. For entrepreneurs combining self-employment with Swiss [company formation](/blog/company-formation-switzerland/), see our dedicated guide.
+Self-employment permits for non-EU nationals are issued sparingly and assessed on a case-by-case basis. The applicant must demonstrate genuine self-employed activity in Switzerland — not a letterbox structure — along with professional qualifications, a credible business plan, economic benefit to Switzerland (local jobs, tax revenue, client relationships), and sufficient personal financial means. In practice, applications from individuals who cannot demonstrate personal liquidity above CHF 500'000 and meaningful Swiss business activity face high rejection risk. EU/EFTA nationals, by contrast, need only register their self-employed activity; no economic interest test applies. For entrepreneurs combining self-employment with Swiss [company formation](/company-formation/company-formation-switzerland/), see our dedicated guide.
 
 <!-- VIDEO: Explainer — Swiss work permit categories for non-EU nationals: managers, specialists, and ICT -->
 
@@ -160,7 +160,7 @@ Canton Zug consistently processes well-prepared applications at the faster end o
 
 ## Family Reunification
 
-B permit holders are entitled to apply for [family reunification](/blog/family-reunification-switzerland/) for their spouse and dependent children under 18, subject to conditions. For **EU/EFTA permit holders**, family members who are themselves EU/EFTA nationals benefit from free movement rights directly. Non-EU/EFTA family members of EU/EFTA workers may join under the AFMP's derivative rights provisions.
+B permit holders are entitled to apply for [family reunification](/immigration/family-reunification-switzerland/) for their spouse and dependent children under 18, subject to conditions. For **EU/EFTA permit holders**, family members who are themselves EU/EFTA nationals benefit from free movement rights directly. Non-EU/EFTA family members of EU/EFTA workers may join under the AFMP's derivative rights provisions.
 
 For **non-EU/EFTA B permit holders**, family reunification requires the principal permit holder to demonstrate:
 - Adequate housing suitable for the family (a minimum floor area requirement applies in most cantons)
@@ -174,12 +174,12 @@ Family reunification applications should be filed promptly. A delay of more than
 
 The C permit is the long-term goal for most work permit holders. The qualifying periods are fixed:
 
-- **EU/EFTA nationals**: eligible for the [C permit](/blog/c-permit-switzerland/) after **5 years** of uninterrupted, lawful residence in Switzerland on a B or L permit
+- **EU/EFTA nationals**: eligible for the [C permit](/immigration/c-permit-switzerland/) after **5 years** of uninterrupted, lawful residence in Switzerland on a B or L permit
 - **Non-EU/EFTA nationals**: eligible after **10 years** of uninterrupted, lawful residence. US and Canadian nationals benefit from bilateral treaty provisions that may reduce this to **5 years** in practice
 
 "Uninterrupted" means exactly that. Absences from Switzerland exceeding certain thresholds — generally six consecutive months, or cumulative absences exceeding twelve months over a five-year period — can reset the clock. Annual C permit-track residents should avoid extended absences and maintain clear residency documentation throughout the qualifying period.
 
-Clean tax filings, no criminal record, and continued AHV contributions throughout the B permit years are the foundation of a successful C permit application. For the broader context of relocating to Switzerland, including lump-sum taxation options for high-net-worth individuals and the entrepreneur self-employment route, see our guide on [Swiss visas](/blog/swiss-visa/).
+Clean tax filings, no criminal record, and continued AHV contributions throughout the B permit years are the foundation of a successful C permit application. For the broader context of relocating to Switzerland, including lump-sum taxation options for high-net-worth individuals and the entrepreneur self-employment route, see our guide on [Swiss visas](/immigration/swiss-visa/).
 
 <!-- VIDEO: Overview — The path from Swiss work permit to permanent residence -->
 
@@ -201,7 +201,7 @@ For non-EU/EFTA nationals, loss of the sponsoring employer is a material change 
 
 **Does forming a Swiss company give me a work permit automatically?**
 
-No. Registering a [GmbH](/blog/gmbh-formation-switzerland/) or [AG](/blog/ag-formation-switzerland/) in Switzerland — even as sole shareholder and managing director — does not automatically confer a work or residence permit. The permit is issued based on your qualifying activity and personal circumstances, assessed separately from the company's legal existence. EU/EFTA nationals need to register their self-employed activity with the cantonal migration office. Non-EU/EFTA nationals must go through the full self-employment permit assessment. Owning shares is not a qualifying basis.
+No. Registering a [GmbH](/company-formation/gmbh-formation-switzerland/) or [AG](/company-formation/ag-formation-switzerland/) in Switzerland — even as sole shareholder and managing director — does not automatically confer a work or residence permit. The permit is issued based on your qualifying activity and personal circumstances, assessed separately from the company's legal existence. EU/EFTA nationals need to register their self-employed activity with the cantonal migration office. Non-EU/EFTA nationals must go through the full self-employment permit assessment. Owning shares is not a qualifying basis.
 
 **What are the Swiss work permit types?**
 
@@ -238,7 +238,7 @@ Lawsupport (Morgan Hartley Consulting)
 Grafenauweg 4, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 
-We handle employer-sponsored work permit applications, intracompany transfer filings, self-employment permit dossiers, and the [company formation](/blog/company-formation-switzerland/) mandates that accompany them — coordinated in parallel to minimise total lead time.
+We handle employer-sponsored work permit applications, intracompany transfer filings, self-employment permit dossiers, and the [company formation](/company-formation/company-formation-switzerland/) mandates that accompany them — coordinated in parallel to minimise total lead time.
 
 [Request a Free Assessment](/contacts/)
 

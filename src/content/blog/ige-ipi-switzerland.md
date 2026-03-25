@@ -4,7 +4,7 @@ description: "The Swiss IP office IGE/IPI handles trademark, patent, and design 
 date: "19.03.2026"
 publishDate: "2026-04-11"
 category: "IP & Commercial Law"
-categoryHref: "/blog/"
+categoryHref: "/intellectual-property/"
 readTime: "6 min read"
 faqItems:
   - question: "Does IGE/IPI register copyrights?"
@@ -46,7 +46,7 @@ IGE/IPI operates under the Federal Department of Justice and Police (EJPD/DFJP).
 - **Trademark registration:** Examines and registers Swiss trademarks under the Trademark Protection Act (MSchG)
 - **Patent administration:** Administers Swiss patents (examination of formal requirements; substantive examination outsourced to EPO in limited cases)
 - **Design registration:** Registers industrial designs under the Design Act (DesG)
-- **Copyright policy:** Advises on copyright law (does not register copyrights — copyright is automatic under Swiss law). See our guide on [copyright law in Switzerland](/blog/copyright-law-switzerland/) for further detail.
+- **Copyright policy:** Advises on copyright law (does not register copyrights — copyright is automatic under Swiss law). See our guide on [copyright law in Switzerland](/intellectual-property/copyright-law-switzerland/) for further detail.
 - **IP policy and international:** Represents Switzerland in WIPO, EPO, and bilateral IP negotiations
 - **Public education:** Provides guidance for businesses and inventors on IP protection
 
@@ -56,7 +56,7 @@ IGE/IPI operates under the Federal Department of Justice and Police (EJPD/DFJP).
 
 ## Trademark Registration at IGE/IPI
 
-Trademarks protect brand names, logos, slogans, and other distinctive signs for goods and services. For a step-by-step walkthrough of the full process, see our dedicated guide on [trademark registration in Switzerland](/blog/trademark-registration-switzerland/).
+Trademarks protect brand names, logos, slogans, and other distinctive signs for goods and services. For a step-by-step walkthrough of the full process, see our dedicated guide on [trademark registration in Switzerland](/intellectual-property/trademark-registration-switzerland/).
 
 **Filing process:**
 1. Conduct a prior art search on Swissreg (Swiss trademark register) and TMview (EU)
@@ -78,7 +78,7 @@ Trademarks protect brand names, logos, slogans, and other distinctive signs for 
 
 ## Patent Registration at IGE/IPI
 
-Switzerland's patent system has a distinctive feature: **IGE/IPI does not conduct substantive examination of Swiss patents** by default. For a broader overview of patent protection options, see our guide on [patent registration in Switzerland](/blog/patent-registration-switzerland/).
+Switzerland's patent system has a distinctive feature: **IGE/IPI does not conduct substantive examination of Swiss patents** by default. For a broader overview of patent protection options, see our guide on [patent registration in Switzerland](/intellectual-property/patent-registration-switzerland/).
 
 **Swiss patent options:**
 
@@ -209,7 +209,7 @@ If a third party files an opposition during the 3-month publication period, IGE/
 
 ---
 
-For a broader look at protecting your intellectual property across all categories, see our overview of [IP protection in Switzerland](/blog/ip-protection-switzerland/). If you are forming a Swiss company and need to secure your brand name, our guides on [company formation in Switzerland](/blog/company-formation-switzerland/) and [doing business in Switzerland](/blog/doing-business-in-switzerland/) provide the corporate context.
+For a broader look at protecting your intellectual property across all categories, see our overview of [IP protection in Switzerland](/intellectual-property/ip-protection-switzerland/). If you are forming a Swiss company and need to secure your brand name, our guides on [company formation in Switzerland](/company-formation/company-formation-switzerland/) and [doing business in Switzerland](/company-formation/doing-business-in-switzerland/) provide the corporate context.
 
 ---
 

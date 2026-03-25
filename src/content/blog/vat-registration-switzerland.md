@@ -4,7 +4,7 @@ description: "VAT registration in Switzerland for foreign companies: CHF 100,000
 date: "19.03.2026"
 publishDate: "2026-08-15"
 category: "Tax & Accounting"
-categoryHref: "/blog/"
+categoryHref: "/tax-accounting/"
 readTime: "15 min read"
 faqItems:
   - question: "What is the Swiss VAT registration threshold for foreign companies?"
@@ -45,7 +45,7 @@ tocItems:
 ---
 
 
-VAT registration in Switzerland becomes mandatory once your company exceeds CHF 100,000 in worldwide annual taxable turnover and makes supplies with a Swiss nexus. The standard rate is 8.1%, foreign companies must appoint a fiscal representative, and the ESTV processes complete applications within 2-4 weeks. Switzerland operates one of Europe's most internationally open tax systems, but its [VAT regime](/blog/vat-switzerland/) has rules that catch foreign companies off guard — sometimes years after they began trading. If your company provides goods or services with any Swiss nexus, understanding your MWST obligations is not optional. This guide covers every aspect of Swiss VAT registration for foreign and newly formed companies: thresholds, rates, the registration process, fiscal representative requirements, and ongoing compliance.
+VAT registration in Switzerland becomes mandatory once your company exceeds CHF 100,000 in worldwide annual taxable turnover and makes supplies with a Swiss nexus. The standard rate is 8.1%, foreign companies must appoint a fiscal representative, and the ESTV processes complete applications within 2-4 weeks. Switzerland operates one of Europe's most internationally open tax systems, but its [VAT regime](/tax-accounting/vat-switzerland/) has rules that catch foreign companies off guard — sometimes years after they began trading. If your company provides goods or services with any Swiss nexus, understanding your MWST obligations is not optional. This guide covers every aspect of Swiss VAT registration for foreign and newly formed companies: thresholds, rates, the registration process, fiscal representative requirements, and ongoing compliance.
 
 ---
 
@@ -129,7 +129,7 @@ Foreign companies without a permanent establishment in Switzerland must appoint 
 - Takes joint liability for outstanding VAT obligations
 - Must be resident or established in Switzerland
 
-Lawsupport provides fiscal representative services for foreign companies registering for Swiss VAT. This is one of the first steps we handle after [company formation in Switzerland](/blog/company-formation-switzerland/).
+Lawsupport provides fiscal representative services for foreign companies registering for Swiss VAT. This is one of the first steps we handle after [company formation in Switzerland](/company-formation/company-formation-switzerland/).
 
 ### 3. Register via the ESTV SuisseTax Portal
 
@@ -151,7 +151,7 @@ The ESTV typically issues a VAT number within **2 to 4 weeks** of a complete app
 
 ### 5. Your VAT Number Format
 
-Swiss VAT numbers follow the format **CHE-XXX.XXX.XXX MWST** (or TVA / IVA depending on the official language of the canton). The core number is the UID (Unternehmens-Identifikationsnummer), which is also used for [commercial register](/blog/commercial-register-switzerland/) and other federal purposes.
+Swiss VAT numbers follow the format **CHE-XXX.XXX.XXX MWST** (or TVA / IVA depending on the official language of the canton). The core number is the UID (Unternehmens-Identifikationsnummer), which is also used for [commercial register](/company-formation/commercial-register-switzerland/) and other federal purposes.
 
 <!-- VIDEO: Step-by-step walkthrough of the ESTV SuisseTax portal VAT registration process -->
 
@@ -181,7 +181,7 @@ Once registered, you must file VAT returns according to one of three periods:
 
 Quarterly filing is the standard. Returns are submitted via the SuisseTax portal. Payment is due at the same time as the return. Late payment attracts default interest at the applicable ESTV rate.
 
-The ESTV operates on a **self-assessment** basis: you calculate your own VAT liability, report it, and pay it. This places the compliance burden squarely on the registered entity — errors discovered by the ESTV during audits are treated as evasion, not honest mistakes, unless the company can demonstrate good-faith compliance efforts. Coordination with your [accounting provider](/blog/accounting-switzerland/) is essential for accurate quarterly filings.
+The ESTV operates on a **self-assessment** basis: you calculate your own VAT liability, report it, and pay it. This places the compliance burden squarely on the registered entity — errors discovered by the ESTV during audits are treated as evasion, not honest mistakes, unless the company can demonstrate good-faith compliance efforts. Coordination with your [accounting provider](/tax-accounting/accounting-switzerland/) is essential for accurate quarterly filings.
 
 ---
 
@@ -242,7 +242,7 @@ Lawsupport (Morgan Hartley Consulting) has assisted companies from over 40 count
 - **Input tax optimisation:** We review your input tax position to ensure you are recovering everything you are entitled to and not over-claiming.
 - **Audit support:** If the ESTV opens a review or audit of your VAT account, we represent you throughout the process.
 
-Our VAT services integrate directly with our [corporate tax](/blog/corporate-tax-switzerland/) and [accounting services](/blog/accounting-switzerland/), so there are no gaps in your compliance posture from day one of Swiss operations.
+Our VAT services integrate directly with our [corporate tax](/tax-accounting/corporate-tax-switzerland/) and [accounting services](/tax-accounting/accounting-switzerland/), so there are no gaps in your compliance posture from day one of Swiss operations.
 
 ---
 
@@ -286,7 +286,7 @@ Yes. Voluntary registration allows input tax recovery on business expenses such 
 
 **10. What format does a Swiss VAT number follow?**
 
-Swiss VAT numbers follow the format CHE-XXX.XXX.XXX MWST (or TVA/IVA depending on the canton's official language). The core number is the UID (Unternehmens-Identifikationsnummer), which is also used for [commercial register](/blog/commercial-register-switzerland/) purposes and other federal identification.
+Swiss VAT numbers follow the format CHE-XXX.XXX.XXX MWST (or TVA/IVA depending on the canton's official language). The core number is the UID (Unternehmens-Identifikationsnummer), which is also used for [commercial register](/company-formation/commercial-register-switzerland/) purposes and other federal identification.
 
 ---
 

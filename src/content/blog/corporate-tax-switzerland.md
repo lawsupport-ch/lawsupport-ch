@@ -3,7 +3,7 @@ title: "Corporate Tax Switzerland: Rates, Cantons & Planning (2026)"
 description: "Swiss corporate tax rates by canton 2026. Zug 11.8%, Zurich 19.7%, Geneva 14%. IP Box, holding exemption, tax rulings. Expert guide by Lawsupport."
 date: "19.03.2026"
 category: "Tax & Accounting"
-categoryHref: "/blog/"
+categoryHref: "/tax-accounting/"
 readTime: "16 min read"
 tocItems:
   - id: "how-corporate-tax-switzerland-is-structured-federal-cantonal"
@@ -48,7 +48,7 @@ faqItems:
 
 Corporate tax Switzerland rates are among the most competitive in the world, and the gap between Switzerland and its European neighbours is substantial. Germany taxes corporate profits at approximately 29%, the UK at 25%, and France at 25%. Switzerland's combined effective rates start at just 11.8% in Zug and reach 19.7% in Zurich, still lower than most Western European jurisdictions. For internationally mobile businesses, IP owners, and holding companies, this difference translates directly into retained capital that can be reinvested, distributed, or deployed across markets.
 
-This guide explains every layer of the Swiss corporate tax system: the federal rate, cantonal and communal variations, special regimes such as the IP Box and participation exemption, double tax treaty benefits, withholding tax, VAT obligations, and the practical process of obtaining advance certainty through a tax ruling. Whether you are evaluating [company formation in Switzerland](/blog/company-formation-switzerland/) for the first time or restructuring an existing group, this article gives you the numbers, the legal framework, and the planning context you need.
+This guide explains every layer of the Swiss corporate tax system: the federal rate, cantonal and communal variations, special regimes such as the IP Box and participation exemption, double tax treaty benefits, withholding tax, VAT obligations, and the practical process of obtaining advance certainty through a tax ruling. Whether you are evaluating [company formation in Switzerland](/company-formation/company-formation-switzerland/) for the first time or restructuring an existing group, this article gives you the numbers, the legal framework, and the planning context you need.
 
 ---
 
@@ -99,13 +99,13 @@ The table below shows the combined effective corporate income tax rate for each 
 | Bern | Bern | ~20.7% |
 | Zurich | Zurich | ~19.7% |
 
-Zug is consistently the benchmark low-tax canton. Its proximity to Zurich (a 30-minute train journey), well-developed financial and legal services infrastructure, and strong track record with international companies make it the most popular Swiss location for holding companies, finance companies, and IP holding structures. [Company formation in Zug](/blog/company-formation-zug/) is the single most common request Lawsupport receives from internationally structured groups.
+Zug is consistently the benchmark low-tax canton. Its proximity to Zurich (a 30-minute train journey), well-developed financial and legal services infrastructure, and strong track record with international companies make it the most popular Swiss location for holding companies, finance companies, and IP holding structures. [Company formation in Zug](/company-formation/company-formation-zug/) is the single most common request Lawsupport receives from internationally structured groups.
 
 Basel-City achieves a rate of approximately 13% despite being a major city with an international airport and headquarters of several of the world's largest pharmaceutical companies. Its research and development infrastructure makes it attractive for life sciences businesses that can combine a low effective rate with access to deep scientific talent.
 
 Geneva at approximately 14% offers the advantages of a major international hub with proximity to the United Nations, the World Trade Organization, and hundreds of international organisations. The financial and family office ecosystem is among the best in Europe.
 
-For a detailed breakdown of filing obligations, see our guide on [corporate tax return Switzerland](/blog/corporate-tax-return-switzerland/).
+For a detailed breakdown of filing obligations, see our guide on [corporate tax return Switzerland](/tax-accounting/corporate-tax-return-switzerland/).
 
 ---
 
@@ -128,7 +128,7 @@ Switzerland's participation exemption applies at the federal and cantonal levels
 1. **Dividend income** from participations of 10% or more (by capital or votes), regardless of holding period.
 2. **Capital gains** on the disposal of participations of 10% or more held for at least one year.
 
-In both cases, the net profit from the qualifying participation is proportionally relieved. For a pure holding company where the majority of income is from qualifying participations, the effective corporate tax rate on those receipts can approach zero. The Swiss participation exemption is the foundation of the [Swiss holding company](/blog/holding-company-switzerland/) structure used by private equity funds, family offices, and multinational groups.
+In both cases, the net profit from the qualifying participation is proportionally relieved. For a pure holding company where the majority of income is from qualifying participations, the effective corporate tax rate on those receipts can approach zero. The Swiss participation exemption is the foundation of the [Swiss holding company](/company-formation/holding-company-switzerland/) structure used by private equity funds, family offices, and multinational groups.
 
 ### Research and Development Super-Deduction
 
@@ -150,7 +150,7 @@ Withholding tax on dividends from Swiss companies is levied at the statutory rat
 
 Switzerland does not levy statutory withholding tax on royalty payments made to non-residents. This makes Switzerland attractive as a royalty licensing jurisdiction: a Swiss IP holding company can receive royalties from operating subsidiaries in higher-tax jurisdictions, apply the IP Box to reduce Swiss tax on those royalties, and remit net income without Swiss withholding on the outbound royalty stream.
 
-For guidance on [withholding tax Switzerland](/blog/withholding-tax-switzerland/), see our dedicated guide.
+For guidance on [withholding tax Switzerland](/tax-accounting/withholding-tax-switzerland/), see our dedicated guide.
 
 ### Transfer Pricing
 
@@ -172,7 +172,7 @@ Common ruling topics include: IP Box qualification, participation exemption appl
 
 Switzerland's VAT is governed by the Federal VAT Act (MWSTG / LTVA). The standard rate is 8.1%, with a reduced rate of 2.6% for food, books, newspapers, and medicines, and a special rate of 3.8% for accommodation.
 
-A business is obliged to register for Swiss VAT if its worldwide taxable turnover exceeds CHF 100,000 per calendar year. Non-resident businesses exceeding the threshold must appoint a Swiss fiscal representative. For assistance with registration and compliance, see our page on [VAT registration Switzerland](/blog/vat-registration-switzerland/).
+A business is obliged to register for Swiss VAT if its worldwide taxable turnover exceeds CHF 100,000 per calendar year. Non-resident businesses exceeding the threshold must appoint a Swiss fiscal representative. For assistance with registration and compliance, see our page on [VAT registration Switzerland](/tax-accounting/vat-registration-switzerland/).
 
 ---
 
@@ -198,7 +198,7 @@ In Zug at 11.8%: corporate tax liability CHF 59,000.
 In Zurich at 19.7%: corporate tax liability CHF 98,500.
 Annual difference: CHF 39,500.
 
-Over five years with 15% annual profit growth, the cumulative additional tax cost of Zurich over Zug exceeded CHF 280,000. Alexandra chose Zug. Lawsupport handled the [company formation in Zug](/blog/company-formation-zug/) and connected her with ongoing [accounting services Switzerland](/blog/accounting-switzerland/).
+Over five years with 15% annual profit growth, the cumulative additional tax cost of Zurich over Zug exceeded CHF 280,000. Alexandra chose Zug. Lawsupport handled the [company formation in Zug](/company-formation/company-formation-zug/) and connected her with ongoing [accounting services Switzerland](/tax-accounting/accounting-switzerland/).
 
 ---
 

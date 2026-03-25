@@ -4,7 +4,7 @@ description: "Switzerland has allowed dual citizenship since 1992. Keep your exi
 date: "19.03.2026"
 publishDate: "2026-07-08"
 category: "Immigration"
-categoryHref: "/blog/"
+categoryHref: "/immigration/"
 readTime: "9 min read"
 faqItems:
   - question: "Does Switzerland allow dual citizenship?"
@@ -51,7 +51,7 @@ Switzerland takes no position on whether other countries permit their citizens t
 
 ## What This Means for Naturalisation Applicants
 
-If you are going through Swiss ordinary [naturalisation](/blog/swiss-naturalization/) or [facilitated naturalisation](/blog/swiss-citizenship-by-marriage/) (as the spouse of a Swiss citizen), you will not be asked to give up your existing passport. The Swiss authorities do not require proof of renunciation and do not inform your home country of your Swiss naturalisation.
+If you are going through Swiss ordinary [naturalisation](/immigration/swiss-naturalization/) or [facilitated naturalisation](/immigration/swiss-citizenship-by-marriage/) (as the spouse of a Swiss citizen), you will not be asked to give up your existing passport. The Swiss authorities do not require proof of renunciation and do not inform your home country of your Swiss naturalisation.
 
 **Your home country's rules are your concern.** Some countries — including Germany (with exceptions), Japan, China, India, and Singapore — limit or prohibit dual citizenship under their own laws. If your home country requires renunciation upon acquiring Swiss citizenship, that obligation comes from your home country, not from Switzerland. Swiss law has nothing to say about it.
 
@@ -63,7 +63,7 @@ Swiss citizenship is not permanently guaranteed. There are still circumstances w
 
 **Voluntary renunciation:** A Swiss citizen can formally renounce Swiss citizenship at a Swiss consulate or cantonal authority. This is irrevocable once processed.
 
-**Citizenship by descent — extended absence:** Swiss citizenship acquired by descent (ius sanguinis) from a Swiss parent can be subject to lapse rules in limited historical cases. Citizens by descent who have never lived in Switzerland and whose Swiss connection is remote should check their specific situation. See our guide to [Swiss citizenship by descent](/blog/swiss-citizenship-by-descent/) for the age-25 registration deadline and other critical rules.
+**Citizenship by descent — extended absence:** Swiss citizenship acquired by descent (ius sanguinis) from a Swiss parent can be subject to lapse rules in limited historical cases. Citizens by descent who have never lived in Switzerland and whose Swiss connection is remote should check their specific situation. See our guide to [Swiss citizenship by descent](/immigration/swiss-citizenship-by-descent/) for the age-25 registration deadline and other critical rules.
 
 **Pre-1992 naturalisations:** Naturalisations that involved renunciation before 1992 are not retroactively reinstated — if you renounced Swiss citizenship before 1992 to take foreign citizenship, you cannot reclaim it on the basis that the rule has since changed. However, reintegration under Art. 51 BüG may be available.
 
@@ -79,7 +79,7 @@ Swiss citizenship is not permanently guaranteed. There are still circumstances w
 
 **Consular protection:** Switzerland can only provide consular protection in third countries — it cannot protect you in the country of your other nationality, as that country views you as its own national.
 
-**Tax:** Swiss citizenship does not itself create Swiss [tax residency](/blog/tax-residency-switzerland/). Tax residency is determined by where you live, not your passport. If you hold Swiss citizenship but live abroad, you are not subject to Swiss income tax (unlike the US, which taxes citizens globally regardless of residence). Switzerland has extensive <a href="https://www.estv.admin.ch" target="_blank" rel="nofollow noopener">double tax treaties</a> covering most major economies to mitigate potential double taxation situations. See our guide on [double tax treaties](/blog/double-tax-treaties-switzerland/) for more detail.
+**Tax:** Swiss citizenship does not itself create Swiss [tax residency](/tax-accounting/tax-residency-switzerland/). Tax residency is determined by where you live, not your passport. If you hold Swiss citizenship but live abroad, you are not subject to Swiss income tax (unlike the US, which taxes citizens globally regardless of residence). Switzerland has extensive <a href="https://www.estv.admin.ch" target="_blank" rel="nofollow noopener">double tax treaties</a> covering most major economies to mitigate potential double taxation situations. See our guide on [double tax treaties](/tax-accounting/double-tax-treaties-switzerland/) for more detail.
 
 ---
 
@@ -108,7 +108,7 @@ This table provides general guidance. Laws change, and individual circumstances 
 
 ## Children of Dual Citizens
 
-A child born to a Swiss parent acquires [Swiss citizenship](/blog/swiss-citizenship/) automatically at birth, regardless of where the child is born or what citizenship the other parent holds. Swiss citizenship acquired by descent must be registered at the Swiss consulate for children born abroad. Failure to register does not erase the citizenship but can create administrative complications later. For births abroad after 1 June 1985, the age-25 registration deadline under Art. 7a BüG applies — see [Swiss citizenship by descent](/blog/swiss-citizenship-by-descent/).
+A child born to a Swiss parent acquires [Swiss citizenship](/immigration/swiss-citizenship/) automatically at birth, regardless of where the child is born or what citizenship the other parent holds. Swiss citizenship acquired by descent must be registered at the Swiss consulate for children born abroad. Failure to register does not erase the citizenship but can create administrative complications later. For births abroad after 1 June 1985, the age-25 registration deadline under Art. 7a BüG applies — see [Swiss citizenship by descent](/immigration/swiss-citizenship-by-descent/).
 
 ---
 
@@ -134,7 +134,7 @@ Under the old Swiss law, naturalising Swiss often required renunciation of prior
 
 **Can a Swiss company owner hold dual citizenship?**
 
-Yes. Dual citizenship has no bearing on your ability to own and operate a Swiss company. Swiss corporate law does not distinguish between shareholders or directors based on nationality. You can [form a company](/blog/company-formation-switzerland/) regardless of how many citizenships you hold.
+Yes. Dual citizenship has no bearing on your ability to own and operate a Swiss company. Swiss corporate law does not distinguish between shareholders or directors based on nationality. You can [form a company](/company-formation/company-formation-switzerland/) regardless of how many citizenships you hold.
 
 **Does dual citizenship affect Swiss military service obligations?**
 
@@ -154,7 +154,7 @@ A child born to a Swiss parent acquires Swiss citizenship automatically at birth
 
 **Do Swiss dual citizens pay tax in both countries?**
 
-Swiss citizenship does not itself create Swiss tax residency. Tax residency is determined by where you live. If you hold Swiss citizenship but live abroad, you are not subject to Swiss income tax. However, the US taxes citizens globally, so US-Swiss dual citizens have obligations in both countries. Switzerland has extensive [double tax treaties](/blog/double-tax-treaties-switzerland/) to mitigate this.
+Swiss citizenship does not itself create Swiss tax residency. Tax residency is determined by where you live. If you hold Swiss citizenship but live abroad, you are not subject to Swiss income tax. However, the US taxes citizens globally, so US-Swiss dual citizens have obligations in both countries. Switzerland has extensive [double tax treaties](/tax-accounting/double-tax-treaties-switzerland/) to mitigate this.
 
 **Can I reclaim Swiss citizenship I lost before 1992?**
 

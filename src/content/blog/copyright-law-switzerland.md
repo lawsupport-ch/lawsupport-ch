@@ -3,7 +3,7 @@ title: "Copyright Law Switzerland: Protection & Enforcement (2026)"
 description: "Swiss copyright law (URG/LDA): what is protected, moral rights, software copyright, and enforcement. Get expert IP advice from Lawsupport, Zug."
 date: "19.03.2026"
 category: "IP & Commercial Law"
-categoryHref: "/blog/"
+categoryHref: "/intellectual-property/"
 readTime: "7 min read"
 tocItems:
   - id: "legal-basis-the-urglda"
@@ -162,7 +162,7 @@ Computer programs are protected as **literary works** under the URG. The key sof
 - **Reverse engineering** for interoperability purposes is permitted under limited conditions (Art. 21 URG) — the person decompiling must have lawful access, the information sought must not be otherwise obtainable, and the information obtained cannot be used for other purposes.
 - The work-for-hire rule in Art. 17 URG applies: employer gets the economic rights in employee-created software automatically.
 
-For broader IP protection strategy, including patents and trademarks, see [IP protection in Switzerland](/blog/ip-protection-switzerland/).
+For broader IP protection strategy, including patents and trademarks, see [IP protection in Switzerland](/intellectual-property/ip-protection-switzerland/).
 
 ---
 
@@ -205,7 +205,7 @@ Available remedies include:
 
 Border measures are also available: customs authorities can detain suspected infringing goods at the border on application by the rights holder.
 
-For related intellectual property protections, see our guides to [trademark registration in Switzerland](/blog/trademark-registration-switzerland/) and [IP protection in Switzerland](/blog/ip-protection-switzerland/).
+For related intellectual property protections, see our guides to [trademark registration in Switzerland](/intellectual-property/trademark-registration-switzerland/) and [IP protection in Switzerland](/intellectual-property/ip-protection-switzerland/).
 
 ---
 
@@ -267,7 +267,7 @@ Databases with a creative selection or arrangement of content are protected as w
 
 **What is the difference between copyright and a trademark in Switzerland?**
 
-Copyright protects original creative expression automatically, without registration, for the author's life plus 70 years. A trademark protects a sign (name, logo, symbol) that distinguishes goods or services of one business from another, and requires registration with the Swiss Federal Institute of Intellectual Property (IGE/IPI) to be enforceable. Copyright and trademark protection can overlap — a logo can be both a copyrighted artistic work and a registered trademark — but they serve different purposes and are governed by different legal frameworks. See [trademark registration in Switzerland](/blog/trademark-registration-switzerland/) for more detail.
+Copyright protects original creative expression automatically, without registration, for the author's life plus 70 years. A trademark protects a sign (name, logo, symbol) that distinguishes goods or services of one business from another, and requires registration with the Swiss Federal Institute of Intellectual Property (IGE/IPI) to be enforceable. Copyright and trademark protection can overlap — a logo can be both a copyrighted artistic work and a registered trademark — but they serve different purposes and are governed by different legal frameworks. See [trademark registration in Switzerland](/intellectual-property/trademark-registration-switzerland/) for more detail.
 
 **Does Swiss copyright automatically cover me in other countries?**
 
@@ -281,8 +281,8 @@ For software developers, the Art. 17 URG rule automatically transfers economic r
 
 ## Related Topics
 
-- [IP Protection in Switzerland](/blog/ip-protection-switzerland/)
-- [Trademark Registration in Switzerland](/blog/trademark-registration-switzerland/)
+- [IP Protection in Switzerland](/intellectual-property/ip-protection-switzerland/)
+- [Trademark Registration in Switzerland](/intellectual-property/trademark-registration-switzerland/)
 
 ---
 

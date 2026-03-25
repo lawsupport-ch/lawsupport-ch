@@ -3,7 +3,7 @@ title: "Double Tax Treaties Switzerland: Key Rates (2026)"
 description: "Switzerland's 100+ double tax treaties explained: withholding rates, LOB, PPT, PE rules, and relief procedures. Practitioner guide from Lawsupport, Zug."
 date: "19.03.2026"
 category: "Tax & Accounting"
-categoryHref: "/blog/"
+categoryHref: "/tax-accounting/"
 readTime: "10 min read"
 tocItems:
   - id: "what-double-tax-treaties-do"
@@ -61,7 +61,7 @@ The Swiss Federal Tax Administration (ESTV) publishes the current list of treati
 
 ## Withholding Tax: The Core Issue for Cross-Border Structures
 
-Switzerland levies a [35% withholding tax](/blog/withholding-tax-switzerland/) (Verrechnungssteuer) on dividends paid by Swiss companies, interest on Swiss bonds and bank deposits above certain thresholds, and certain other Swiss-source income. At 35%, this is among the highest statutory rates in Europe — and the practical function of the DTA network is primarily to reduce this rate for qualifying foreign recipients.
+Switzerland levies a [35% withholding tax](/tax-accounting/withholding-tax-switzerland/) (Verrechnungssteuer) on dividends paid by Swiss companies, interest on Swiss bonds and bank deposits above certain thresholds, and certain other Swiss-source income. At 35%, this is among the highest statutory rates in Europe — and the practical function of the DTA network is primarily to reduce this rate for qualifying foreign recipients.
 
 The domestic 35% rate applies to all outbound payments unless:
 
@@ -102,7 +102,7 @@ These rates represent the maximum tax the source state (Switzerland) may levy; S
 
 On interest payments, most Swiss DTAs reduce the withholding rate to 0% or 10%. Many treaties with major partners — including Germany, the UK, the Netherlands, France, and the US — reduce withholding on interest to 0% for arm's-length lending between unrelated parties.
 
-On royalties and licence fees, the same trend applies. The treaties with the UK, Netherlands, Germany, Luxembourg, Singapore, and the UAE all provide for 0% withholding on royalties. This makes Switzerland particularly effective as an IP-holding jurisdiction: royalties can be received by a Swiss IP company with no withholding deduction at source in the paying country. See our guide to [holding company and IP structuring in Switzerland](/blog/holding-company-switzerland/) for how this integrates with the Swiss IP Box regime.
+On royalties and licence fees, the same trend applies. The treaties with the UK, Netherlands, Germany, Luxembourg, Singapore, and the UAE all provide for 0% withholding on royalties. This makes Switzerland particularly effective as an IP-holding jurisdiction: royalties can be received by a Swiss IP company with no withholding deduction at source in the paying country. See our guide to [holding company and IP structuring in Switzerland](/company-formation/holding-company-switzerland/) for how this integrates with the Swiss IP Box regime.
 
 ---
 
@@ -114,7 +114,7 @@ Separate from the DTA network, Switzerland concluded a bilateral agreement with 
 - The holding has been maintained for at least **2 years** (or the company commits to maintain it), and
 - Both companies are subject to normal corporate income tax in their respective states — conduit structures without genuine economic substance do not qualify.
 
-This effectively places Swiss subsidiaries on the same footing as EU subsidiaries when paying dividends to EU group parents, which is significant for European corporate groups holding Swiss operating or [holding companies](/blog/holding-company-switzerland/).
+This effectively places Swiss subsidiaries on the same footing as EU subsidiaries when paying dividends to EU group parents, which is significant for European corporate groups holding Swiss operating or [holding companies](/company-formation/holding-company-switzerland/).
 
 ---
 
@@ -126,7 +126,7 @@ The procedural route for claiming treaty benefits matters considerably in practi
 
 **Refund procedure:** Under most treaties, the standard approach is for the Swiss company to withhold the full 35% and remit it to the ESTV. The foreign recipient then files a refund application (Form 86 or equivalent) with the ESTV to reclaim the difference between 35% and the applicable treaty rate. Refund applications must generally be filed within three years of the payment date. The ESTV reviews the claim, verifies treaty eligibility, and issues a refund — a process that can take six to eighteen months.
 
-For regular dividend flows from a Swiss subsidiary to a corporate group parent, a standing arrangement with the ESTV to apply the treaty rate at source is preferable to managing recurring refund cycles. This is particularly relevant for [corporate tax planning in Switzerland](/blog/corporate-tax-switzerland/) where cash-flow timing matters.
+For regular dividend flows from a Swiss subsidiary to a corporate group parent, a standing arrangement with the ESTV to apply the treaty rate at source is preferable to managing recurring refund cycles. This is particularly relevant for [corporate tax planning in Switzerland](/tax-accounting/corporate-tax-switzerland/) where cash-flow timing matters.
 
 ---
 
@@ -151,7 +151,7 @@ Switzerland updated its DTA network under OECD BEPS Action 6 (Prevention of Trea
 
 This is a subjective, facts-and-circumstances test administered by the tax authorities of both contracting states. A Swiss company that exists solely to channel dividends to a third-country parent — with no employees, no office, no decision-making capacity, and no genuine business in Switzerland — is at material risk of PPT challenge even where the treaty rate would otherwise apply.
 
-The practical implication is clear: treaty benefits require genuine substance. Management decisions must be made in Switzerland by qualified personnel. Board meetings must be held in Switzerland with directors who actively supervise the structure. Mere registration in Zug is insufficient. See our guide to [company formation in Switzerland](/blog/company-formation-switzerland/) for substance requirements in practice.
+The practical implication is clear: treaty benefits require genuine substance. Management decisions must be made in Switzerland by qualified personnel. Board meetings must be held in Switzerland with directors who actively supervise the structure. Mere registration in Zug is insufficient. See our guide to [company formation in Switzerland](/company-formation/company-formation-switzerland/) for substance requirements in practice.
 
 ---
 
@@ -163,7 +163,7 @@ Swiss DTAs generally follow the OECD Model on permanent establishment (PE). A fo
 - An **agent PE**: a person acting in Switzerland with authority to habitually conclude contracts on behalf of the foreign enterprise, or
 - A **construction or installation PE**: a building site or construction project lasting more than 12 months (the OECD standard period; some Swiss treaties set different thresholds).
 
-A PE in Switzerland means the foreign enterprise's profits attributable to that PE are taxable in Switzerland under Swiss [corporate tax rules](/blog/corporate-tax-switzerland/). Conversely, Swiss companies with operations abroad may create PEs in those countries, and the relevant treaty determines whether Switzerland must exempt the PE income or credit the foreign tax.
+A PE in Switzerland means the foreign enterprise's profits attributable to that PE are taxable in Switzerland under Swiss [corporate tax rules](/tax-accounting/corporate-tax-switzerland/). Conversely, Swiss companies with operations abroad may create PEs in those countries, and the relevant treaty determines whether Switzerland must exempt the PE income or credit the foreign tax.
 
 The PE rules are particularly relevant for Swiss-based managers overseeing foreign subsidiaries, for foreign companies sending staff to Switzerland for extended periods, and for construction and service projects carried out in Switzerland by foreign contractors.
 
@@ -182,7 +182,7 @@ An individual or company can be considered tax resident in two states simultaneo
 
 **For companies**, the OECD Model and most Swiss treaties historically assigned residence to the state of effective management — the place where key management and commercial decisions are made in substance. Following BEPS, many updated treaties now refer disputes to the competent authority mutual agreement procedure rather than providing an automatic tiebreaker for corporate dual residents.
 
-Dual residence situations require careful analysis of the applicable treaty and the underlying facts. They commonly arise where a non-Swiss owner relocates to Switzerland while maintaining property and family ties abroad, or where a company's directors are split across jurisdictions. For immigration and residency considerations, see our guides on [immigrating to Switzerland](/blog/immigrate-to-switzerland/) and [Swiss citizenship](/blog/swiss-citizenship/).
+Dual residence situations require careful analysis of the applicable treaty and the underlying facts. They commonly arise where a non-Swiss owner relocates to Switzerland while maintaining property and family ties abroad, or where a company's directors are split across jurisdictions. For immigration and residency considerations, see our guides on [immigrating to Switzerland](/immigration/immigrate-to-switzerland/) and [Swiss citizenship](/immigration/swiss-citizenship/).
 
 ---
 
@@ -232,7 +232,7 @@ For individuals, treaties use a sequential cascade: permanent home, centre of vi
 
 ## How Lawsupport Advises on Swiss DTA Planning
 
-Lawsupport (Morgan Hartley Consulting GmbH), based in Zug, advises international clients on all aspects of Swiss treaty planning: determining applicable treaty rates, structuring qualifying holding and IP companies, preparing refund applications to the ESTV, obtaining advance tax rulings, and building the substance documentation needed to withstand PPT and LOB scrutiny. Our work spans the full Swiss tax lifecycle — from initial structuring through to annual compliance and [withholding tax refund](/blog/withholding-tax-switzerland/) management.
+Lawsupport (Morgan Hartley Consulting GmbH), based in Zug, advises international clients on all aspects of Swiss treaty planning: determining applicable treaty rates, structuring qualifying holding and IP companies, preparing refund applications to the ESTV, obtaining advance tax rulings, and building the substance documentation needed to withstand PPT and LOB scrutiny. Our work spans the full Swiss tax lifecycle — from initial structuring through to annual compliance and [withholding tax refund](/tax-accounting/withholding-tax-switzerland/) management.
 
 If you are assessing a Swiss structure, expanding into Switzerland, or reviewing an existing arrangement in light of BEPS changes, contact us for a focused advisory consultation.
 

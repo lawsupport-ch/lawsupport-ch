@@ -4,7 +4,7 @@ description: "Swiss nominee director, shareholder and registered address service
 date: "19.03.2026"
 publishDate: "2026-05-09"
 category: "Company Formation"
-categoryHref: "/services/company-formation/"
+categoryHref: "/company-formation/"
 readTime: "11 min read"
 faqItems:
   - question: "Is using a nominee director legal in Switzerland?"
@@ -82,7 +82,7 @@ Nominee shareholder (Treuhandaktionaer/Treuhaender) arrangements exist -- a Swis
 
 **Swiss AG:** AG shares are not publicly registered -- the shareholder register is internal and private. A nominee shareholder for an AG provides no additional anonymity from the perspective of Swiss authorities because the beneficial owner must be identified in bank KYC (Form A) and the shareholder register (under Art. 697l OR for AGM disclosure purposes).
 
-**Swiss GmbH:** GmbH quota holders are registered in the Commercial Register and are publicly visible. A [nominee shareholder](/blog/nominee-shareholder-switzerland/) for a GmbH keeps the beneficial owner out of the public register -- but the beneficial owner is still fully identified in the nominee's records and the bank's Form A.
+**Swiss GmbH:** GmbH quota holders are registered in the Commercial Register and are publicly visible. A [nominee shareholder](/company-formation/nominee-shareholder-switzerland/) for a GmbH keeps the beneficial owner out of the public register -- but the beneficial owner is still fully identified in the nominee's records and the bank's Form A.
 
 **AMLA disclosure:** Swiss law requires all financial intermediaries (including nominee service providers) to identify the beneficial owner. Nominees cannot be used to hide ownership from Swiss authorities -- they provide administrative convenience, not concealment.
 
@@ -109,7 +109,7 @@ Yes. A Swiss nominee director has director liability under Swiss corporate law (
 
 **Can I be both the beneficial owner and a director of a Swiss company?**
 
-Yes -- if you are resident in Switzerland. The nominee arrangement is specifically for owners who are not Swiss residents. If you obtain a Swiss [B permit](/blog/b-permit-switzerland/) or [C permit](/blog/c-permit-switzerland/), you can become the director yourself.
+Yes -- if you are resident in Switzerland. The nominee arrangement is specifically for owners who are not Swiss residents. If you obtain a Swiss [B permit](/immigration/b-permit-switzerland/) or [C permit](/immigration/c-permit-switzerland/), you can become the director yourself.
 
 **What does a nominee director cost in Switzerland?**
 
@@ -129,7 +129,7 @@ In Swiss practice, the terms are often used interchangeably. Both refer to a Swi
 
 **Do I need a nominee director for a branch office?**
 
-Swiss branch offices of foreign companies must appoint a person domiciled in Switzerland who is authorised to represent the branch. This person serves a similar function to a nominee director and must be entered in the [Commercial Register](/blog/commercial-register-switzerland/). Lawsupport provides this service for branch offices as well.
+Swiss branch offices of foreign companies must appoint a person domiciled in Switzerland who is authorised to represent the branch. This person serves a similar function to a nominee director and must be entered in the [Commercial Register](/company-formation/commercial-register-switzerland/). Lawsupport provides this service for branch offices as well.
 
 **Can a company act as a nominee director in Switzerland?**
 
@@ -137,7 +137,7 @@ For a GmbH, the managing director (Geschaeftsfuehrer) must be a natural person. 
 
 **What is the difference between a nominee director and a nominee shareholder?**
 
-A nominee director sits on the board and holds signatory authority; a [nominee shareholder](/blog/nominee-shareholder-switzerland/) holds shares on behalf of the true owner. These are separate arrangements with different legal implications. A company may use one, both, or neither depending on its ownership and management structure.
+A nominee director sits on the board and holds signatory authority; a [nominee shareholder](/company-formation/nominee-shareholder-switzerland/) holds shares on behalf of the true owner. These are separate arrangements with different legal implications. A company may use one, both, or neither depending on its ownership and management structure.
 
 ---
 
@@ -145,11 +145,11 @@ A nominee director sits on the board and holds signatory authority; a [nominee s
 
 For a full understanding of how nominee arrangements fit into Swiss company ownership, see these related guides:
 
-- [Company formation in Switzerland](/blog/company-formation-switzerland/) -- full incorporation process
-- [GmbH formation](/blog/gmbh-formation-switzerland/) -- the most common entity for foreign founders
-- [AG formation](/blog/ag-formation-switzerland/) -- Swiss public limited company
-- [Registered address services](/blog/registered-address-switzerland/) -- domicile-only arrangements
-- [Due diligence requirements](/blog/due-diligence-switzerland/) -- what Swiss law requires
+- [Company formation in Switzerland](/company-formation/company-formation-switzerland/) -- full incorporation process
+- [GmbH formation](/company-formation/gmbh-formation-switzerland/) -- the most common entity for foreign founders
+- [AG formation](/company-formation/ag-formation-switzerland/) -- Swiss public limited company
+- [Registered address services](/corporate-services/registered-address-switzerland/) -- domicile-only arrangements
+- [Due diligence requirements](/corporate-transactions/due-diligence-switzerland/) -- what Swiss law requires
 
 Swiss nominee arrangements are governed by the <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en" target="_blank" rel="nofollow noopener">Swiss Code of Obligations (OR)</a>, with anti-money laundering obligations set out in the <a href="https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/en" target="_blank" rel="nofollow noopener">Anti-Money Laundering Act (AMLA)</a>. For guidance on director duties, see the <a href="https://www.seco.admin.ch/seco/en/home.html" target="_blank" rel="nofollow noopener">Swiss State Secretariat for Economic Affairs (SECO)</a>.
 

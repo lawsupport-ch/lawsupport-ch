@@ -4,7 +4,7 @@ description: "Swiss fintech licensing options: FINMA banking license, fintech li
 date: "19.03.2026"
 publishDate: "2026-03-26"
 category: "Licensing & Permits"
-categoryHref: "/services/financial-licensing/"
+categoryHref: "/licensing/"
 readTime: "9 min read"
 faqItems:
   - question: "Can a foreign company obtain a Swiss FinTech license without incorporating in Switzerland?"
@@ -35,7 +35,6 @@ tocItems:
 ---
 
 
-!<a href="https://lawsupport.ch/images/fintech-license-switzerland-hero.jpg" target="_blank" rel="nofollow noopener">Fintech license Switzerland — FINMA authorisation options for 2026</a>
 
 Switzerland does not have a single "fintech license." What it has is a coherent, activity-based regulatory framework that routes each business model to the appropriate supervisory regime — sandbox exemption, SRO membership, FinTech-Bewilligung, or full banking license. Choosing the wrong pathway costs time and money. Choosing the right one gives you one of the most credible regulatory stamps in global finance.
 
@@ -45,7 +44,6 @@ This guide maps the Swiss fintech regulatory framework as it stands in 2026, wit
 
 ## Switzerland's Regulatory Logic: Activity-Based, Not Entity-Based
 
-!<a href="https://lawsupport.ch/images/finma-activity-based-regulation.jpg" target="_blank" rel="nofollow noopener">FINMA's activity-based regulatory approach for fintech companies</a>
 
 FINMA does not regulate companies — it regulates activities. The decisive question is always: what exactly are you doing with client money?
 
@@ -56,13 +54,12 @@ FINMA does not regulate companies — it regulates activities. The decisive ques
 
 Each answer points to a different regulatory box. A payment company that never holds client money for more than a settlement cycle sits in a different universe than a crypto custodian managing CHF 80 million in client assets. The Swiss framework is sophisticated enough to distinguish between them — and pragmatic enough to avoid licensing everything.
 
-For companies at the entity formation stage, see our guide to [company formation in Switzerland](/blog/company-formation-switzerland/) and [AG formation](/blog/ag-formation-switzerland/) for the corporate vehicle most commonly used by fintech companies.
+For companies at the entity formation stage, see our guide to [company formation in Switzerland](/company-formation/company-formation-switzerland/) and [AG formation](/company-formation/ag-formation-switzerland/) for the corporate vehicle most commonly used by fintech companies.
 
 ---
 
 ## The Four Main Regulatory Pathways
 
-!<a href="https://lawsupport.ch/images/swiss-fintech-regulatory-pathways.jpg" target="_blank" rel="nofollow noopener">Switzerland's four fintech regulatory pathways</a>
 
 ### 1. No FINMA License Required — SRO Membership Sufficient
 
@@ -138,7 +135,6 @@ A poorly prepared application adds months. Engaging regulatory counsel before su
 
 ### 4. Full Banking License (BankG)
 
-!<a href="https://lawsupport.ch/images/banking-license-requirements.jpg" target="_blank" rel="nofollow noopener">Full banking license Switzerland — requirements and timeline</a>
 
 If you accept public deposits exceeding CHF 100 million, or if your model involves investing or lending deposited funds, you need a full banking license under the Banking Act.
 
@@ -153,13 +149,12 @@ Requirements at a glance:
 
 A banking license is not out of reach for well-capitalised fintech companies — several Swiss neo-banks and payment institutions have obtained one — but the regulatory burden is qualitatively different from the FinTech-Bewilligung. For most fintech startups, the banking license represents a medium-term goal, not a launch-day requirement.
 
-See our guide on [FINMA licensing in Switzerland](/blog/finma-licensing-switzerland/) for full banking license requirements.
+See our guide on [FINMA licensing in Switzerland](/licensing/finma-licensing-switzerland/) for full banking license requirements.
 
 ---
 
 ## Payment Services: No PSD2 Equivalent in Switzerland
 
-!<a href="https://lawsupport.ch/images/swiss-payment-services.jpg" target="_blank" rel="nofollow noopener">Swiss payment services regulation — no PSD2 equivalent</a>
 
 This surprises many European founders: Switzerland has no standalone payment services license equivalent to the EU's PSD2 Payment Institution or E-Money Institution authorisation.
 
@@ -174,7 +169,6 @@ Swiss payment companies with EU ambitions often obtain a Swiss regulatory status
 
 ## VASP Regulation: Virtual Asset Service Providers
 
-!<a href="https://lawsupport.ch/images/vasp-regulation-switzerland.jpg" target="_blank" rel="nofollow noopener">VASP regulation in Switzerland — crypto and virtual asset service providers</a>
 
 Switzerland regulates virtual asset service providers (VASPs) under AMLA, not under a separate crypto-specific license — with one important exception.
 
@@ -184,7 +178,7 @@ The exception: custodial wallet services accepting client crypto assets at volum
 
 For DLT-based businesses trading tokenised securities, a separate DLT Trading Facility license exists (Art. 73a FMIA, introduced 2021). This is a purpose-built category for blockchain-based multilateral trading platforms.
 
-See our guide on the [Swiss crypto license](/blog/crypto-license-switzerland/) for detailed treatment of VASP-specific pathways.
+See our guide on the [Swiss crypto license](/licensing/crypto-license-switzerland/) for detailed treatment of VASP-specific pathways.
 
 The <a href="https://www.finma.ch/en/authorisation/fintech/" target="_blank" rel="nofollow noopener">FINMA FinTech authorisation page</a> provides official application guidance and the published checklist for FinTech-Bewilligung applicants.
 
@@ -213,7 +207,7 @@ This does not make the process informal. FINMA expects complete, well-organised 
 
 Consumer protection and AML compliance are FINMA's non-negotiable priorities. Applications that show incomplete AML frameworks, vague operational risk controls, or fit & proper issues with directors will be delayed or refused. Addressing these issues in advance, rather than in response to FINMA queries, is the single most effective way to compress the timeline.
 
-For the corporate structure that underpins any fintech authorisation, see our guides on [AG formation](/blog/ag-formation-switzerland/), [GmbH formation](/blog/gmbh-formation-switzerland/), and [corporate bank accounts in Switzerland](/blog/corporate-bank-account-switzerland/). For the [capital deposit account](/blog/capital-deposit-account-switzerland/) required at incorporation, see our dedicated guide.
+For the corporate structure that underpins any fintech authorisation, see our guides on [AG formation](/company-formation/ag-formation-switzerland/), [GmbH formation](/company-formation/gmbh-formation-switzerland/), and [corporate bank accounts in Switzerland](/banking/corporate-bank-account-switzerland/). For the [capital deposit account](/banking/capital-deposit-account-switzerland/) required at incorporation, see our dedicated guide.
 
 The <a href="https://www.seco.admin.ch/seco/en/home/Standortfoerderung/Wirtschaftspolitik/Finanzmarktpolitik/fintech.html" target="_blank" rel="nofollow noopener">SECO overview of Swiss fintech policy</a> provides context on how the regulatory framework fits within Switzerland's broader economic strategy.
 

@@ -4,7 +4,7 @@ description: "Switzerland's three-pillar social insurance system explained: AHV,
 date: "19.03.2026"
 publishDate: "2026-05-31"
 category: "Tax & Accounting"
-categoryHref: "/blog/"
+categoryHref: "/tax-accounting/"
 readTime: "11 min read"
 tocItems:
   - id: "the-three-pillar-structure"
@@ -68,7 +68,7 @@ The 1st pillar contribution encompasses three components collected together:
 
 **No ceiling:** Unlike many countries, AHV contributions apply to the full gross salary with no upper earnings limit.
 
-**Self-employed:** Self-employed individuals pay AHV/IV/EO at a reduced combined rate (approximately 10% on a sliding scale, minimum contributions apply). Those operating as a [sole proprietorship](/blog/sole-proprietorship-switzerland/) should budget for this as a significant cost alongside income tax.
+**Self-employed:** Self-employed individuals pay AHV/IV/EO at a reduced combined rate (approximately 10% on a sliding scale, minimum contributions apply). Those operating as a [sole proprietorship](/company-formation/sole-proprietorship-switzerland/) should budget for this as a significant cost alongside income tax.
 
 ---
 
@@ -93,7 +93,7 @@ Cantonal family allowance funds (Familienausgleichskassen) provide child allowan
 - Zurich: ~2.3% of payroll
 - Geneva: ~3.5% of payroll
 
-For more on how cantonal differences affect overall costs, see our [cantonal tax comparison](/blog/cantonal-tax-comparison-switzerland/).
+For more on how cantonal differences affect overall costs, see our [cantonal tax comparison](/tax-accounting/cantonal-tax-comparison-switzerland/).
 
 ---
 
@@ -161,7 +161,7 @@ For a mid-career employee earning CHF 120'000/year in Zug:
 | Krankentaggeld (50% of premium) | ~CHF 500 |
 | **Total employer social costs** | **~CHF 13'880** |
 
-This represents approximately 11.6% of gross salary in additional employer costs beyond the base salary, before VAT or other compliance costs. Understanding these costs is essential when planning your [company formation in Switzerland](/blog/company-formation-switzerland/) and budgeting for your first employees.
+This represents approximately 11.6% of gross salary in additional employer costs beyond the base salary, before VAT or other compliance costs. Understanding these costs is essential when planning your [company formation in Switzerland](/company-formation/company-formation-switzerland/) and budgeting for your first employees.
 
 ---
 
@@ -169,7 +169,7 @@ This represents approximately 11.6% of gross salary in additional employer costs
 
 **Are social insurance contributions deductible for the company?**
 
-Yes. Employer social insurance contributions are fully deductible operating costs for Swiss [corporate income tax](/blog/corporate-tax-switzerland/) purposes.
+Yes. Employer social insurance contributions are fully deductible operating costs for Swiss [corporate income tax](/tax-accounting/corporate-tax-switzerland/) purposes.
 
 **What is the AHV retirement pension amount?**
 
@@ -185,7 +185,7 @@ Registration with the cantonal Ausgleichskasse (AHV compensation office) is requ
 
 **Do foreign employees working in Switzerland pay AHV?**
 
-Yes. Any employee working in Switzerland — regardless of nationality — is subject to AHV contributions from day one. The employer deducts the employee's share and remits the combined amount. For cross-border workers holding a [G permit](/blog/g-permit-switzerland/), the same rules apply as long as they work in Switzerland.
+Yes. Any employee working in Switzerland — regardless of nationality — is subject to AHV contributions from day one. The employer deducts the employee's share and remits the combined amount. For cross-border workers holding a [G permit](/immigration/g-permit-switzerland/), the same rules apply as long as they work in Switzerland.
 
 **How does AHV apply to self-employed persons?**
 

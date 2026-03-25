@@ -4,7 +4,7 @@ description: "Swiss AG and GmbH companies need a Swiss-resident director. Profes
 date: "19.03.2026"
 publishDate: "2026-05-07"
 category: "Company Administration"
-categoryHref: "/blog/"
+categoryHref: "/corporate-services/"
 readTime: "15 min read"
 faqItems:
   - question: "Is a nominee director legal in Switzerland?"
@@ -49,7 +49,7 @@ tocItems:
 
 Forming a Swiss company from abroad is straightforward -- until you reach the director residency requirement. Swiss company law requires that at least one director of an AG, or one manager of a GmbH, be a Swiss resident with individual signatory authority. If you cannot satisfy that requirement personally, your Commercial Register application will be rejected before it is ever processed.
 
-A professional nominee director resolves this. At Lawsupport, we have provided Swiss resident director services for over 18 years, supporting more than 1'000 [company formations](/blog/company-formation-switzerland/) for clients from 40+ countries. This page explains exactly how the service works, what it costs, and what you should know before engaging one.
+A professional nominee director resolves this. At Lawsupport, we have provided Swiss resident director services for over 18 years, supporting more than 1'000 [company formations](/company-formation/company-formation-switzerland/) for clients from 40+ countries. This page explains exactly how the service works, what it costs, and what you should know before engaging one.
 
 ---
 
@@ -62,7 +62,7 @@ The legal basis is unambiguous. Under **Article 718 of the <a href="https://www.
 
 The same principle applies to a *Gesellschaft mit beschrankter Haftung* (GmbH): at least one manager (*Geschaftsfuhrer*) must be a Swiss resident with individual signatory authority.
 
-This is not a technicality that can be worked around at a later stage. The cantonal [Commercial Register](/blog/commercial-register-switzerland/) (*Handelsregister*) will not record a new company -- AG or GmbH -- unless this condition is met at the time of incorporation. There is no grace period, and there is no exception for foreign-owned companies.
+This is not a technicality that can be worked around at a later stage. The cantonal [Commercial Register](/company-formation/commercial-register-switzerland/) (*Handelsregister*) will not record a new company -- AG or GmbH -- unless this condition is met at the time of incorporation. There is no grace period, and there is no exception for foreign-owned companies.
 
 If all founders and intended directors are resident abroad, they must either obtain Swiss residency themselves, or appoint a Swiss-resident professional to serve as director alongside them. This is the nominee director.
 
@@ -133,7 +133,7 @@ In practice, this means:
 - You retain the right to remove the nominee director at any time by shareholder resolution
 - You can appoint yourself as an additional director at any time -- for example, once you obtain Swiss residency
 
-For more on how nominee services fit into the broader corporate structure, see our overview of [nominee shareholder services](/blog/nominee-shareholder-switzerland/).
+For more on how nominee services fit into the broader corporate structure, see our overview of [nominee shareholder services](/company-formation/nominee-shareholder-switzerland/).
 
 ---
 
@@ -149,7 +149,7 @@ Under Swiss law, directors can be held personally liable for:
 
 This liability exposure is mitigated by two things: the indemnification clause in the mandate agreement, and the quality of the company being directed.
 
-Lawsupport conducts thorough **KYC (Know Your Customer) [due diligence](/blog/due-diligence-switzerland/)** on every client before accepting a nominee engagement. We verify identity, source of funds, and the nature of the business. We do not accept nominee engagements for companies whose activities we cannot verify or whose beneficial owners cannot be identified.
+Lawsupport conducts thorough **KYC (Know Your Customer) [due diligence](/corporate-transactions/due-diligence-switzerland/)** on every client before accepting a nominee engagement. We verify identity, source of funds, and the nature of the business. We do not accept nominee engagements for companies whose activities we cannot verify or whose beneficial owners cannot be identified.
 
 This is not bureaucracy. It is the responsible practice that protects both the nominee director and the client.
 
@@ -164,9 +164,9 @@ This describes the majority of Lawsupport's international client base. Common pr
 - **Entrepreneurs based in Asia, the Middle East, or North America** who want a Swiss AG or GmbH as a European holding or operating company
 - **Founders of fintech, trading, or consulting businesses** who have chosen Switzerland for its legal environment, reputation, and commercial access
 - **Existing companies in other jurisdictions** establishing a Swiss subsidiary without relocating personnel to Switzerland
-- **High-net-worth individuals** forming Swiss [holding structures](/blog/holding-company-switzerland/) for asset management purposes
+- **High-net-worth individuals** forming Swiss [holding structures](/company-formation/holding-company-switzerland/) for asset management purposes
 
-If you are forming a [Swiss AG](/blog/ag-formation-switzerland/) or [Swiss GmbH](/blog/gmbh-formation-switzerland/) and are not personally resident in Switzerland, you will need this service or an equivalent arrangement. There is no way around Art. 718 CO.
+If you are forming a [Swiss AG](/company-formation/ag-formation-switzerland/) or [Swiss GmbH](/company-formation/gmbh-formation-switzerland/) and are not personally resident in Switzerland, you will need this service or an equivalent arrangement. There is no way around Art. 718 CO.
 
 ---
 
@@ -191,9 +191,9 @@ There are no hidden costs. Any document outside the standard scope -- for exampl
 
 A nominee director is a service solution, not the only solution. If you intend to be actively involved in your Swiss company over the long term, obtaining Swiss residency yourself may be the better path.
 
-As a Swiss resident, you can serve as director of your own company without any third-party involvement, reducing cost and simplifying governance. Switzerland offers several residency options for entrepreneurs and investors, including [lump-sum taxation](/blog/lump-sum-taxation-switzerland/) arrangements in some cantons.
+As a Swiss resident, you can serve as director of your own company without any third-party involvement, reducing cost and simplifying governance. Switzerland offers several residency options for entrepreneurs and investors, including [lump-sum taxation](/tax-accounting/lump-sum-taxation-switzerland/) arrangements in some cantons.
 
-Lawsupport's immigration practice supports clients through Swiss [work permit](/blog/work-permit-switzerland/) and residency applications. If this is relevant to your situation, contact us to discuss the options before forming the company -- the sequence of steps matters.
+Lawsupport's immigration practice supports clients through Swiss [work permit](/immigration/work-permit-switzerland/) and residency applications. If this is relevant to your situation, contact us to discuss the options before forming the company -- the sequence of steps matters.
 
 ---
 
@@ -203,7 +203,7 @@ A nominee director satisfies the residency requirement for directorship. It does
 
 Under Swiss law, every AG and GmbH must have a registered address in Switzerland at which legal correspondence can be received and official documents can be served. This address appears in the Commercial Register alongside the director's name.
 
-Lawsupport provides [registered address services in Switzerland](/blog/registered-address-switzerland/) from our Grafenauweg 4, Zug office. Combining the nominee director service with a registered address at the same location gives a foreign-owned company a complete, legally compliant Swiss corporate presence -- without the founder needing to be physically present in Switzerland at any point after formation.
+Lawsupport provides [registered address services in Switzerland](/corporate-services/registered-address-switzerland/) from our Grafenauweg 4, Zug office. Combining the nominee director service with a registered address at the same location gives a foreign-owned company a complete, legally compliant Swiss corporate presence -- without the founder needing to be physically present in Switzerland at any point after formation.
 
 ---
 
@@ -217,7 +217,7 @@ A nominee director can be appointed at two stages:
 
 The Commercial Register processes director appointments within standard cantonal timeframes -- typically one to three weeks in Zug, depending on current workload.
 
-For a complete walkthrough of the formation process, see our [company formation Switzerland](/blog/company-formation-switzerland/) guide.
+For a complete walkthrough of the formation process, see our [company formation Switzerland](/company-formation/company-formation-switzerland/) guide.
 
 ---
 
@@ -235,7 +235,7 @@ In practice, Lawsupport manages this transition when it arises. If a client wish
 
 A founder based in Singapore decides to establish a Zug AG as the holding entity for a software business with European clients. She has no Swiss residency and no immediate plans to relocate.
 
-At formation, Lawsupport appoints one of its qualified Swiss professionals as nominee director of the AG. The mandate agreement is signed, KYC is completed, and the company is registered in the [Zug Commercial Register](/blog/company-formation-zug/) within the standard processing time.
+At formation, Lawsupport appoints one of its qualified Swiss professionals as nominee director of the AG. The mandate agreement is signed, KYC is completed, and the company is registered in the [Zug Commercial Register](/company-formation/company-formation-zug/) within the standard processing time.
 
 The Singapore-based founder is the sole shareholder. She holds all shareholder rights, receives dividends, and directs the company's commercial activity. She signs commercial contracts in her capacity as authorised signatory under a power of attorney granted by the company. The nominee director signs internal corporate documents as required and is available for Swiss-law compliance obligations.
 
@@ -263,7 +263,7 @@ This is an important question for any company with a nominee director. Under Swi
 
 **Can a nominee director also serve as nominee shareholder?**
 
-Yes, though the two roles serve different purposes. A [nominee shareholder](/blog/nominee-shareholder-switzerland/) holds shares on behalf of the beneficial owner, providing privacy regarding ownership. A nominee director satisfies the residency requirement for the board. The same individual may serve in both capacities, but the arrangements are documented separately -- a mandate agreement for the directorship and a fiduciary agreement for the shareholding. At Lawsupport, we offer both services and can combine them where appropriate.
+Yes, though the two roles serve different purposes. A [nominee shareholder](/company-formation/nominee-shareholder-switzerland/) holds shares on behalf of the beneficial owner, providing privacy regarding ownership. A nominee director satisfies the residency requirement for the board. The same individual may serve in both capacities, but the arrangements are documented separately -- a mandate agreement for the directorship and a fiduciary agreement for the shareholding. At Lawsupport, we offer both services and can combine them where appropriate.
 
 **Does the nominee director need to be a Swiss citizen?**
 
@@ -271,11 +271,11 @@ No. The requirement is Swiss residency, not Swiss citizenship. A foreign nationa
 
 **How does the nominee director arrangement affect bank account opening?**
 
-Swiss banks conduct their own KYC procedures when opening a [corporate bank account](/blog/corporate-bank-account-switzerland/). The bank will identify both the nominee director (as a signatory or board member) and the beneficial owner (as the controlling person). The nominee director arrangement is transparent to the bank. Most Swiss banks are familiar with nominee structures and process them routinely, provided the KYC documentation is complete and the business purpose is clear.
+Swiss banks conduct their own KYC procedures when opening a [corporate bank account](/banking/corporate-bank-account-switzerland/). The bank will identify both the nominee director (as a signatory or board member) and the beneficial owner (as the controlling person). The nominee director arrangement is transparent to the bank. Most Swiss banks are familiar with nominee structures and process them routinely, provided the KYC documentation is complete and the business purpose is clear.
 
 **What obligations does the nominee director have regarding annual accounts?**
 
-Under Swiss law, the board of directors is responsible for preparing annual accounts and presenting them to the general meeting for approval. The nominee director, as a board member, shares this obligation. In practice, the beneficial owner instructs a Swiss accountant to prepare the accounts, and the nominee director signs them as part of the annual compliance cycle. Lawsupport coordinates this process with the client's accountant to ensure deadlines are met. For details on Swiss [accounting requirements](/blog/accounting-switzerland/), see our dedicated guide.
+Under Swiss law, the board of directors is responsible for preparing annual accounts and presenting them to the general meeting for approval. The nominee director, as a board member, shares this obligation. In practice, the beneficial owner instructs a Swiss accountant to prepare the accounts, and the nominee director signs them as part of the annual compliance cycle. Lawsupport coordinates this process with the client's accountant to ensure deadlines are met. For details on Swiss [accounting requirements](/tax-accounting/accounting-switzerland/), see our dedicated guide.
 
 **Can a legal entity serve as nominee director instead of a natural person?**
 

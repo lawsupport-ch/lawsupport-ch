@@ -3,7 +3,7 @@ title: "Company Formation Switzerland: Complete Guide (2026)"
 description: "Register a company in Switzerland in 2-4 weeks. AG, GmbH, holding, foundation. No travel required. Fixed fees. Request a free assessment today."
 date: "19.03.2026"
 category: "Company Formation"
-categoryHref: "/services/company-formation/"
+categoryHref: "/company-formation/"
 readTime: "17 min read"
 tocItems:
   - id: "why-switzerland-the-numbers-behind-the-reputation"
@@ -56,7 +56,7 @@ Switzerland is also a signatory to over 100 double taxation agreements, giving S
 
 Beyond tax, Switzerland offers political stability, a strong rule of law, a highly skilled multilingual workforce, and a legal system grounded in the Swiss Code of Obligations (Obligationenrecht, OR) that has remained substantively stable for decades. Founders and investors can plan with a high degree of confidence that the rules will not change arbitrarily.
 
-For more detail on how cantonal rates affect your overall tax burden, see our guide to [Swiss corporate tax rates](/blog/corporate-tax-switzerland/).
+For more detail on how cantonal rates affect your overall tax burden, see our guide to [Swiss corporate tax rates](/tax-accounting/corporate-tax-switzerland/).
 
 ---
 
@@ -77,19 +77,19 @@ Switzerland offers several legal forms for business activity. The choice determi
 
 The AG is Switzerland's capital company par excellence. Minimum share capital is CHF 100,000, of which at least CHF 50,000 must be paid in at the time of formation. The remainder can be called up later. Shares in an AG are not publicly disclosed in the Commercial Register unless the company opts for registered shares (Namenaktien). Bearer shares (Inhaberaktien) in non-listed AGs must now be held via a recognised intermediary following the 2019 amendments to the Code of Obligations. The AG is the standard vehicle for companies that anticipate outside investment, eventual listing, or that value the additional privacy layer.
 
-For a detailed breakdown of this structure, see our [AG (Aktiengesellschaft) formation](/blog/ag-formation-switzerland/) guide.
+For a detailed breakdown of this structure, see our [AG (Aktiengesellschaft) formation](/company-formation/ag-formation-switzerland/) guide.
 
 **GmbH (Gesellschaft mit beschränkter Haftung)**
 
 The GmbH requires only CHF 20,000 in minimum capital, all of which must be fully paid in at formation. It is Switzerland's most common entity type for small and medium-sized enterprises. The critical privacy distinction: GmbH shareholders (Gesellschafter) and their quota holdings are recorded in the Commercial Register, which is publicly searchable. For founders who prefer not to disclose their ownership publicly, the AG is the more appropriate vehicle.
 
-For full details, see our [GmbH formation Switzerland](/blog/gmbh-formation-switzerland/) guide.
+For full details, see our [GmbH formation Switzerland](/company-formation/gmbh-formation-switzerland/) guide.
 
 **Holding Company**
 
 A Swiss holding company is typically incorporated as an AG. Its primary activity is holding shares in subsidiaries. Under Swiss tax law, a holding company qualifies for the participation exemption (Beteiligungsabzug) on dividend income and capital gains from qualifying participations. This exemption scales with the size of the participation and can reduce effective tax on qualifying income to near zero. Zug is the dominant canton for holding structures.
 
-See our [Swiss holding company](/blog/holding-company-switzerland/) guide for structuring details.
+See our [Swiss holding company](/company-formation/holding-company-switzerland/) guide for structuring details.
 
 **Foundation (Stiftung)**
 
@@ -97,7 +97,7 @@ The Swiss foundation is a legal entity without members or shareholders, dedicate
 
 **Sole Proprietorship (Einzelfirma)**
 
-The sole proprietorship requires no minimum capital. Registration with the Commercial Register is mandatory once annual turnover exceeds CHF 100,000. The critical limitation: the owner bears unlimited personal liability for all business obligations. This structure is appropriate for individual consultants or freelancers in the early stages of activity. See our [sole proprietorship Switzerland](/blog/sole-proprietorship-switzerland/) guide.
+The sole proprietorship requires no minimum capital. Registration with the Commercial Register is mandatory once annual turnover exceeds CHF 100,000. The critical limitation: the owner bears unlimited personal liability for all business obligations. This structure is appropriate for individual consultants or freelancers in the early stages of activity. See our [sole proprietorship Switzerland](/company-formation/sole-proprietorship-switzerland/) guide.
 
 **Shelf Company (Mantelgesellschaft)**
 
@@ -119,13 +119,13 @@ The articles of association define the company's purpose, share structure, gover
 
 **Step 3: Appoint a Swiss-Resident Director**
 
-Article 718 of the Swiss Code of Obligations requires that at least one member of the board of directors (for an AG) or one managing director (for a GmbH) has individual signatory authority and is domiciled in Switzerland. This is a hard statutory requirement, not a best practice. For founders who do not have a Swiss-resident individual available, a [Swiss nominee director](/blog/nominee-director-switzerland/) service provides a compliant solution.
+Article 718 of the Swiss Code of Obligations requires that at least one member of the board of directors (for an AG) or one managing director (for a GmbH) has individual signatory authority and is domiciled in Switzerland. This is a hard statutory requirement, not a best practice. For founders who do not have a Swiss-resident individual available, a [Swiss nominee director](/corporate-services/nominee-director-switzerland/) service provides a compliant solution.
 
 **Step 4: Open a Capital Deposit Account at a Swiss Bank**
 
-Before the notarisation appointment, the required capital must be deposited into a blocked capital deposit account (Kapitaleinzahlungskonto) at a Swiss bank. The bank issues a confirmation letter (Einzahlungsbestätigung) certifying the deposit. This letter is a required document at notarisation. The account remains blocked until the Commercial Register confirms registration, at which point the funds are released to the operating account. See our [capital deposit account Switzerland](/blog/capital-deposit-account-switzerland/) guide.
+Before the notarisation appointment, the required capital must be deposited into a blocked capital deposit account (Kapitaleinzahlungskonto) at a Swiss bank. The bank issues a confirmation letter (Einzahlungsbestätigung) certifying the deposit. This letter is a required document at notarisation. The account remains blocked until the Commercial Register confirms registration, at which point the funds are released to the operating account. See our [capital deposit account Switzerland](/banking/capital-deposit-account-switzerland/) guide.
 
-For guidance on the banking process, see our [Swiss bank account opening](/blog/swiss-bank-account/) guide.
+For guidance on the banking process, see our [Swiss bank account opening](/banking/swiss-bank-account/) guide.
 
 **Step 5: Notarisation (In Person or via Power of Attorney)**
 
@@ -135,15 +135,15 @@ A critical point for international founders: you do not need to travel to Switze
 
 **Step 6: Commercial Register Filing**
 
-Following notarisation, the notary or the founders' representative files the incorporation documents with the cantonal [Commercial Register](/blog/commercial-register-switzerland/) (Handelsregister). The filing fee is approximately CHF 600. Registration typically takes 5-10 business days. Zug and Zurich have well-staffed registers with consistent turnaround times. See our [Swiss Commercial Register guide](/blog/commercial-register-switzerland/) for the full registration process.
+Following notarisation, the notary or the founders' representative files the incorporation documents with the cantonal [Commercial Register](/company-formation/commercial-register-switzerland/) (Handelsregister). The filing fee is approximately CHF 600. Registration typically takes 5-10 business days. Zug and Zurich have well-staffed registers with consistent turnaround times. See our [Swiss Commercial Register guide](/company-formation/commercial-register-switzerland/) for the full registration process.
 
 **Step 7: UID Number Issued**
 
-Upon registration, the Federal Tax Administration automatically issues a Unternehmens-Identifikationsnummer (UID), formatted as CHE-xxx.xxx.xxx. This is the company's universal identification number, used for all interactions with Swiss authorities including tax filings, [VAT registration](/blog/vat-registration-switzerland/), and social insurance.
+Upon registration, the Federal Tax Administration automatically issues a Unternehmens-Identifikationsnummer (UID), formatted as CHE-xxx.xxx.xxx. This is the company's universal identification number, used for all interactions with Swiss authorities including tax filings, [VAT registration](/tax-accounting/vat-registration-switzerland/), and social insurance.
 
 **Step 8: Bank Account Activation, VAT Registration if Needed**
 
-Once the UID is issued and registration is confirmed, the capital deposit account is unblocked and the funds transfer to the company's operating account. If the company expects to exceed CHF 100,000 in annual taxable turnover, [VAT registration](/blog/vat-registration-switzerland/) with the Federal Tax Administration (ESTV) is mandatory. Voluntary registration is possible below that threshold and may be advantageous if the company incurs significant Swiss VAT on its inputs.
+Once the UID is issued and registration is confirmed, the capital deposit account is unblocked and the funds transfer to the company's operating account. If the company expects to exceed CHF 100,000 in annual taxable turnover, [VAT registration](/tax-accounting/vat-registration-switzerland/) with the Federal Tax Administration (ESTV) is mandatory. Voluntary registration is possible below that threshold and may be advantageous if the company incurs significant Swiss VAT on its inputs.
 
 Ready to start? Lawsupport handles every step from name check to bank account. Call us at +41 44 51 52 592.
 
@@ -153,15 +153,15 @@ Ready to start? Lawsupport handles every step from name check to bank account. C
 
 The canton of incorporation determines the applicable cantonal and communal tax rates, the local Commercial Register office, and the registered office requirement. You must have a verifiable registered address in the chosen canton.
 
-**Zug** is the preferred canton for holding companies, international trading companies, and IP-holding structures. The effective combined corporate tax rate of approximately 11.8% is among the lowest in Switzerland. The Zug Commercial Register is efficient, the cantonal administration is experienced with international structures, and the local infrastructure — law firms, fiduciaries, and banks — is well-developed for corporate services. Lawsupport's office is at Grafenauweg 4, Zug. For a [registered address in Switzerland](/blog/registered-address-switzerland/) or [virtual office in Zug](/blog/virtual-office-switzerland/), we can arrange this directly.
+**Zug** is the preferred canton for holding companies, international trading companies, and IP-holding structures. The effective combined corporate tax rate of approximately 11.8% is among the lowest in Switzerland. The Zug Commercial Register is efficient, the cantonal administration is experienced with international structures, and the local infrastructure — law firms, fiduciaries, and banks — is well-developed for corporate services. Lawsupport's office is at Grafenauweg 4, Zug. For a [registered address in Switzerland](/corporate-services/registered-address-switzerland/) or [virtual office in Zug](/corporate-services/virtual-office-switzerland/), we can arrange this directly.
 
 **Zurich** carries a higher effective rate of approximately 19.7% but offers unmatched access to financial institutions, a deep talent pool, and the prestige of Switzerland's largest city. It is the natural choice for companies whose primary activity involves the Zurich financial ecosystem or companies that need to hire locally at scale.
 
 **Geneva** at approximately 14% sits between Zug and Zurich on the tax spectrum. It is the primary choice for companies in commodities trading, private banking, international organisations, and businesses requiring proximity to the French-speaking world or Geneva's specific regulatory environment.
 
-Other cantons worth considering include Schwyz, Nidwalden, and Obwalden, all of which have competed on tax rates in recent years. See our [cantonal tax comparison Switzerland](/blog/cantonal-tax-comparison-switzerland/) for a detailed breakdown.
+Other cantons worth considering include Schwyz, Nidwalden, and Obwalden, all of which have competed on tax rates in recent years. See our [cantonal tax comparison Switzerland](/tax-accounting/cantonal-tax-comparison-switzerland/) for a detailed breakdown.
 
-For a focused analysis of the Zug option, see our [company formation in Zug](/blog/company-formation-zug/) guide. For Zurich, see our [company formation in Zurich](/blog/company-formation-zurich/) guide.
+For a focused analysis of the Zug option, see our [company formation in Zug](/company-formation/company-formation-zug/) guide. For Zurich, see our [company formation in Zurich](/company-formation/company-formation-zurich/) guide.
 
 ---
 
@@ -212,15 +212,15 @@ Incorporation is the beginning, not the end, of your Swiss legal obligations. Th
 
 **Annual General Meeting (GV/GmbH: Gesellschafterversammlung):** Swiss law requires an annual general meeting of shareholders. For a GmbH with a single shareholder, this can be a circular resolution. The AGM approves the annual accounts and elects the board.
 
-**Annual Accounts:** Every Swiss company must maintain proper books of account and prepare annual financial statements in accordance with Swiss GAAP (or full IFRS for larger entities). The financial year is defined in the articles and is typically the calendar year. See our [accounting Switzerland](/blog/accounting-switzerland/) guide for more detail.
+**Annual Accounts:** Every Swiss company must maintain proper books of account and prepare annual financial statements in accordance with Swiss GAAP (or full IFRS for larger entities). The financial year is defined in the articles and is typically the calendar year. See our [accounting Switzerland](/tax-accounting/accounting-switzerland/) guide for more detail.
 
 **Corporate Tax Filing:** The company files cantonal and federal tax returns annually. The filing deadline varies by canton but is typically several months after the financial year end, with extension possible on request.
 
-**VAT Returns:** [VAT-registered](/blog/vat-switzerland/) companies file quarterly or semi-annual returns with the ESTV. Switzerland's standard VAT rate is 8.1% as of 2024, with a reduced rate of 2.6% for certain goods and a special rate of 3.8% for accommodation services.
+**VAT Returns:** [VAT-registered](/tax-accounting/vat-switzerland/) companies file quarterly or semi-annual returns with the ESTV. Switzerland's standard VAT rate is 8.1% as of 2024, with a reduced rate of 2.6% for certain goods and a special rate of 3.8% for accommodation services.
 
 **Beneficial Ownership Register:** Swiss law requires companies to maintain a register of beneficial owners (individuals who hold or control more than 25% of shares or voting rights). This register is not public but must be kept up to date and produced on request by authorities.
 
-**Director Changes and Statutory Amendments:** Any change to the board, the articles, the registered address, or the share capital must be filed with the [Commercial Register](/blog/commercial-register-switzerland/). Structural changes such as capital increases require notarisation. For [withholding tax](/blog/withholding-tax-switzerland/) obligations on dividends, see our separate guide.
+**Director Changes and Statutory Amendments:** Any change to the board, the articles, the registered address, or the share capital must be filed with the [Commercial Register](/company-formation/commercial-register-switzerland/). Structural changes such as capital increases require notarisation. For [withholding tax](/tax-accounting/withholding-tax-switzerland/) obligations on dividends, see our separate guide.
 
 ---
 
@@ -236,7 +236,7 @@ No. Swiss law expressly permits incorporation via power of attorney. The foundin
 
 **What is the difference between a GmbH and an AG in Switzerland?**
 
-The primary differences are: minimum capital (CHF 20,000 for a GmbH versus CHF 100,000 for an AG, with CHF 50,000 paid in at formation); shareholder disclosure (GmbH shareholders are named in the public Commercial Register, AG shareholders are not); and transferability of ownership interests (AG shares are in principle freely transferable unless the articles restrict transfer; GmbH quotas require a notarised deed and are subject to a right of first refusal). For a detailed comparison, see our [GmbH formation Switzerland](/blog/gmbh-formation-switzerland/) and [AG formation](/blog/ag-formation-switzerland/) guides.
+The primary differences are: minimum capital (CHF 20,000 for a GmbH versus CHF 100,000 for an AG, with CHF 50,000 paid in at formation); shareholder disclosure (GmbH shareholders are named in the public Commercial Register, AG shareholders are not); and transferability of ownership interests (AG shares are in principle freely transferable unless the articles restrict transfer; GmbH quotas require a notarised deed and are subject to a right of first refusal). For a detailed comparison, see our [GmbH formation Switzerland](/company-formation/gmbh-formation-switzerland/) and [AG formation](/company-formation/ag-formation-switzerland/) guides.
 
 **Can a foreigner own 100% of a Swiss company?**
 
@@ -264,11 +264,11 @@ Ongoing obligations include: an annual general meeting, annual accounts under Sw
 
 **Does a Swiss company need a Swiss bank account?**
 
-A Swiss bank account is required to hold the capital deposit during formation. After registration, the operating account is released. Most Swiss companies maintain a Swiss [corporate bank account](/blog/corporate-bank-account-switzerland/) for day-to-day operations and to satisfy substance requirements for banking and tax treaty purposes.
+A Swiss bank account is required to hold the capital deposit during formation. After registration, the operating account is released. Most Swiss companies maintain a Swiss [corporate bank account](/banking/corporate-bank-account-switzerland/) for day-to-day operations and to satisfy substance requirements for banking and tax treaty purposes.
 
 **What is the Swiss holding company participation exemption?**
 
-Under Swiss tax law, a holding company qualifies for the participation exemption (Beteiligungsabzug) on dividend income and capital gains from qualifying participations in subsidiaries. This exemption scales with the size of the participation and can reduce effective tax on qualifying income to near zero. See our [holding company Switzerland](/blog/holding-company-switzerland/) guide for full details.
+Under Swiss tax law, a holding company qualifies for the participation exemption (Beteiligungsabzug) on dividend income and capital gains from qualifying participations in subsidiaries. This exemption scales with the size of the participation and can reduce effective tax on qualifying income to near zero. See our [holding company Switzerland](/company-formation/holding-company-switzerland/) guide for full details.
 
 **What is a shelf company and when is it useful?**
 

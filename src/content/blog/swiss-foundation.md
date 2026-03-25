@@ -4,7 +4,7 @@ description: "How to form a Swiss foundation (Stiftung) in 2026. Types, formatio
 date: "19.03.2026"
 publishDate: "2026-07-10"
 category: "Company Formation"
-categoryHref: "/services/company-formation/"
+categoryHref: "/company-formation/"
 readTime: "18 min read"
 faqItems:
   - question: "What is the minimum endowment for a Swiss foundation?"
@@ -61,9 +61,9 @@ Key structural features:
 - **Purpose (Stiftungszweck)** — the foundation exists to serve this purpose and nothing else. The purpose must be legally permissible and permanently achievable.
 - **Board of Trustees (Stiftungsrat)** — governance rests with the Stiftungsrat, not with shareholders or members. Minimum one person; in practice, at least three members is the norm and is required by many supervisory authorities.
 - **No distributions to founders** — a Swiss foundation cannot return assets to its founder (Stifter). This is a fundamental legal distinction from a company structure. The assets are permanently dedicated.
-- **Supervisory oversight** — unlike a [GmbH](/blog/gmbh-formation-switzerland/) or [AG](/blog/ag-formation-switzerland/), a Swiss foundation is subject to ongoing supervision by a designated public authority (Stiftungsaufsicht).
+- **Supervisory oversight** — unlike a [GmbH](/company-formation/gmbh-formation-switzerland/) or [AG](/company-formation/ag-formation-switzerland/), a Swiss foundation is subject to ongoing supervision by a designated public authority (Stiftungsaufsicht).
 
-This combination of perpetual purpose, asset dedication, and public oversight makes the Swiss foundation structurally distinct from any company form. If you are evaluating legal structures for [company formation in Switzerland](/blog/company-formation-switzerland/), the foundation is not a general-purpose business vehicle — it is a purpose-first legal entity.
+This combination of perpetual purpose, asset dedication, and public oversight makes the Swiss foundation structurally distinct from any company form. If you are evaluating legal structures for [company formation in Switzerland](/company-formation/company-formation-switzerland/), the foundation is not a general-purpose business vehicle — it is a purpose-first legal entity.
 
 ---
 
@@ -81,7 +81,7 @@ Tax-exempt status is not automatic. It must be applied for from the relevant tax
 
 A family foundation serves the interests of a defined family or family group. Under Swiss law, however, family foundations face significant restrictions on their permitted purposes. Article 335 ZGB limits family foundations to purposes such as covering costs of education, providing startup assistance at marriage or career commencement for family members, and similar narrowly defined benefits.
 
-A Swiss family foundation **cannot** be used as a general wealth-holding vehicle that distributes income or capital freely to family members — that function belongs to private trust structures (which Switzerland does not itself create; see below) or [holding companies](/blog/holding-company-switzerland/). If your objective is broad family wealth management, a Swiss holding company or a foreign trust recognised under the Hague Convention may be more appropriate.
+A Swiss family foundation **cannot** be used as a general wealth-holding vehicle that distributes income or capital freely to family members — that function belongs to private trust structures (which Switzerland does not itself create; see below) or [holding companies](/company-formation/holding-company-switzerland/). If your objective is broad family wealth management, a Swiss holding company or a foreign trust recognised under the Hague Convention may be more appropriate.
 
 Family foundations are **fully taxable** — no exemption applies.
 
@@ -100,7 +100,7 @@ Over the past decade, Zug has established itself as the global centre for blockc
 - **Protocol governance** — holding and exercising governance rights over a decentralised protocol
 - **Token ecosystem development** — funding open-source development and ecosystem grants
 - **Treasury management** — managing a protocol treasury in accordance with a defined governance framework
-- **Token issuance** — subject to [FINMA's](/blog/finma-licensing-switzerland/) utility token framework and, where applicable, VASP (Virtual Asset Service Provider) registration requirements
+- **Token issuance** — subject to [FINMA's](/licensing/finma-licensing-switzerland/) utility token framework and, where applicable, VASP (Virtual Asset Service Provider) registration requirements
 
 These foundations are not charitable and are not tax-exempt. They are fully taxable entities, and given the novelty and complexity of their activities, obtaining an advance tax ruling before commencement is not optional — it is essential.
 
@@ -141,11 +141,11 @@ A minimum of one trustee is legally required. In practice, three or more is stan
 - Be willing to accept fiduciary responsibility for the foundation's purpose
 - Not act in conflict of interest with the foundation's objectives
 
-For internationally controlled foundations, many supervisory authorities — including in Zug — require at least one Swiss-resident trustee or a qualified Swiss-based officer. We advise on compliant governance structures for each client situation, including the use of a [nominee director](/blog/nominee-director-switzerland/) where appropriate.
+For internationally controlled foundations, many supervisory authorities — including in Zug — require at least one Swiss-resident trustee or a qualified Swiss-based officer. We advise on compliant governance structures for each client situation, including the use of a [nominee director](/corporate-services/nominee-director-switzerland/) where appropriate.
 
 ### Step 3 — Commercial Register Filing
 
-Following notarisation, the foundation is filed with the **[Commercial Register](/blog/commercial-register-switzerland/) of the canton of domicile** (Handelsregisteramt). For Zug-based foundations, this is the Handelsregisteramt des Kantons Zug. The filing must include the Stiftungsurkunde, details of the board, and evidence of the initial endowment.
+Following notarisation, the foundation is filed with the **[Commercial Register](/company-formation/commercial-register-switzerland/) of the canton of domicile** (Handelsregisteramt). For Zug-based foundations, this is the Handelsregisteramt des Kantons Zug. The filing must include the Stiftungsurkunde, details of the board, and evidence of the initial endowment.
 
 Upon registration, the foundation receives a **UID (Unternehmens-Identifikationsnummer)** — Switzerland's universal business identifier — and a Commercial Register entry number.
 
@@ -186,7 +186,7 @@ Complex foundations — particularly those with unusual governance structures or
 
 ### Charitable Foundations
 
-A genuine public benefit foundation can obtain **exemption from [corporate income tax](/blog/corporate-tax-switzerland/) and capital tax** at both federal and cantonal level. The foundation must:
+A genuine public benefit foundation can obtain **exemption from [corporate income tax](/tax-accounting/corporate-tax-switzerland/) and capital tax** at both federal and cantonal level. The foundation must:
 
 - Pursue an objectively charitable purpose
 - Not enrich its founders, trustees, or related parties
@@ -213,7 +213,7 @@ A Swiss foundation is not a set-and-forget structure. Ongoing obligations includ
 - **Commercial Register updates** — any change to the board, domicile, or charter requires formal amendment and re-registration
 - **Tax filings** — annual corporate tax returns (or annual confirmation of exempt status for charitable foundations)
 - **Supervisory authority audits** — the supervisory authority may conduct periodic reviews of the foundation's activities and governance
-- **[Accounting](/blog/accounting-switzerland/) compliance** — proper bookkeeping under the Swiss Code of Obligations is mandatory
+- **[Accounting](/tax-accounting/accounting-switzerland/) compliance** — proper bookkeeping under the Swiss Code of Obligations is mandatory
 
 Governance failures — failure to file, conflicts of interest, misuse of foundation assets — can result in supervisory intervention up to and including dissolution.
 
@@ -229,7 +229,7 @@ For international clients, Zug is the default canton for foundation formation fo
 - **Efficient Commercial Register** — the Handelsregisteramt des Kantons Zug is operationally efficient, with consistent processing times.
 - **Professional ecosystem** — Zug-based notaries, legal counsel, and service providers have processed hundreds of foundation formations, reducing friction at every step.
 
-For context, Lawsupport operates from Grafenauweg 4, Zug — the centre of this ecosystem. We have been involved in [company formation](/blog/company-formation-switzerland/) and foundation formation for clients from over 40 countries.
+For context, Lawsupport operates from Grafenauweg 4, Zug — the centre of this ecosystem. We have been involved in [company formation](/company-formation/company-formation-switzerland/) and foundation formation for clients from over 40 countries.
 
 ---
 
@@ -241,9 +241,9 @@ A crypto or blockchain protocol foundation in Zug typically has the following st
 
 **Token issuance**: Where the foundation issues tokens (utility tokens under FINMA's 2018 ICO guidelines and subsequent regulatory clarifications), the token structure must be reviewed against FINMA's current categorisation framework. Utility tokens — tokens that provide access to a service or platform — are the most common structure for protocol foundations. Payment tokens and asset tokens trigger different regulatory requirements.
 
-**VASP status**: Foundations that hold, transfer, or exchange crypto assets above defined thresholds may trigger VASP registration obligations with FINMA. This must be assessed at the structuring stage, not after launch. See our [FINMA licensing guide](/blog/finma-licensing-switzerland/) for detail.
+**VASP status**: Foundations that hold, transfer, or exchange crypto assets above defined thresholds may trigger VASP registration obligations with FINMA. This must be assessed at the structuring stage, not after launch. See our [FINMA licensing guide](/licensing/finma-licensing-switzerland/) for detail.
 
-**Treasury management**: A protocol treasury held by a Zug foundation may contain a mix of native tokens, stablecoins, and other digital assets. The tax and [accounting](/blog/accounting-switzerland/) treatment of this treasury — revaluation, realisation, hedging — must be agreed with the Zug tax authority in advance via a ruling.
+**Treasury management**: A protocol treasury held by a Zug foundation may contain a mix of native tokens, stablecoins, and other digital assets. The tax and [accounting](/tax-accounting/accounting-switzerland/) treatment of this treasury — revaluation, realisation, hedging — must be agreed with the Zug tax authority in advance via a ruling.
 
 **Governance structure**: Protocol foundations often operate alongside a separate operating company (typically a Swiss AG or GmbH, or a foreign entity) that executes development contracts. The relationship between the foundation and its contracting entities must be at arm's length and commercially documented to avoid tax and supervisory complications.
 
@@ -264,7 +264,7 @@ For wealth holders accustomed to common law trust structures, the Swiss foundati
 | Supervisory oversight | Mandatory (Stiftungsaufsicht) | Varies; generally private |
 | Formation formality | Notarial deed + Commercial Register | Trust deed (often private) |
 
-For international clients seeking Swiss-law asset protection and succession structures, the foundation — carefully structured — can serve many functions that a trust would serve in a common law context, though with important differences in flexibility and distribution mechanics. We advise on the full range of [Swiss entity types](/blog/company-formation-switzerland/) to ensure clients select the right structure for their specific objectives.
+For international clients seeking Swiss-law asset protection and succession structures, the foundation — carefully structured — can serve many functions that a trust would serve in a common law context, though with important differences in flexibility and distribution mechanics. We advise on the full range of [Swiss entity types](/company-formation/company-formation-switzerland/) to ensure clients select the right structure for their specific objectives.
 
 ---
 
@@ -290,13 +290,13 @@ A developer team from Germany and Singapore has built a decentralised lending pr
 
 **Step 2 — Charter drafting**: The Stiftungsurkunde is drafted with a purpose focused on developing, maintaining, and promoting the open-source protocol and its ecosystem. The board is constituted with three members — two founders and one independent Swiss-resident trustee.
 
-**Step 3 — Tax ruling application**: A ruling application is submitted to the Zug cantonal tax authority addressing: classification of the treasury's token holdings, treatment of token grants to developers, treatment of income from protocol revenue, and [VAT](/blog/vat-switzerland/) status. The ruling is obtained within approximately four weeks.
+**Step 3 — Tax ruling application**: A ruling application is submitted to the Zug cantonal tax authority addressing: classification of the treasury's token holdings, treatment of token grants to developers, treatment of income from protocol revenue, and [VAT](/tax-accounting/vat-switzerland/) status. The ruling is obtained within approximately four weeks.
 
 **Step 4 — Notarisation and registration**: The charter is notarised in Zug. The Commercial Register filing is submitted with the foundation's initial endowment of CHF 50,000 in fiat, with the token treasury to be transferred following launch.
 
 **Step 5 — Supervisory notification**: The Zug cantonal supervisory authority is notified and confirms supervision. The foundation is operational within 22 business days of complete document submission.
 
-The team now has a Zug-registered foundation with a unique legal identity, a confirmed tax position, regulatory clarity from FINMA's token framework, and an institutional structure that satisfies the [due diligence](/blog/due-diligence-switzerland/) requirements of exchanges and institutional partners.
+The team now has a Zug-registered foundation with a unique legal identity, a confirmed tax position, regulatory clarity from FINMA's token framework, and an institutional structure that satisfies the [due diligence](/corporate-transactions/due-diligence-switzerland/) requirements of exchanges and institutional partners.
 
 ---
 
@@ -352,7 +352,7 @@ Annual costs include supervisory authority fees (CHF 500-2,000+ depending on com
 
 **Is a Swiss foundation suitable for holding real estate?**
 
-A foundation can hold real estate if doing so serves its stated purpose. However, Swiss foundations are not suitable as general property holding vehicles because assets cannot be returned to the founder. For real estate investment, a Swiss [holding company](/blog/holding-company-switzerland/) or AG is typically more appropriate.
+A foundation can hold real estate if doing so serves its stated purpose. However, Swiss foundations are not suitable as general property holding vehicles because assets cannot be returned to the founder. For real estate investment, a Swiss [holding company](/company-formation/holding-company-switzerland/) or AG is typically more appropriate.
 
 **Do Swiss foundations need to be audited?**
 

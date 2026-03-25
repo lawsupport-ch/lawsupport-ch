@@ -4,7 +4,7 @@ description: "Swissmedic licensing for pharmaceuticals and medical devices in Sw
 date: "19.03.2026"
 publishDate: "2026-07-26"
 category: "Licensing & Permits"
-categoryHref: "/services/financial-licensing/"
+categoryHref: "/licensing/"
 readTime: "13 min read"
 faqItems:
   - question: "Does EU marketing authorisation apply automatically in Switzerland?"
@@ -50,7 +50,7 @@ Swissmedic is the Swiss Agency for Therapeutic Products — the federal authorit
 - Stem cell preparations
 - Medical devices and in vitro diagnostics
 
-The legal foundation sits in two instruments: the **Therapeutic Products Act (HMG/LPTh)** and the **Medical Device Ordinance (MepV/ODim)**. Operating without the required Swissmedic authorisation is a criminal offence, not just a regulatory infraction. Companies entering the Swiss market must also consider the broader [Swiss business licensing](/blog/swiss-business-licenses/) framework that governs regulated sectors.
+The legal foundation sits in two instruments: the **Therapeutic Products Act (HMG/LPTh)** and the **Medical Device Ordinance (MepV/ODim)**. Operating without the required Swissmedic authorisation is a criminal offence, not just a regulatory infraction. Companies entering the Swiss market must also consider the broader [Swiss business licensing](/licensing/swiss-business-licenses/) framework that governs regulated sectors.
 
 ---
 
@@ -102,7 +102,7 @@ Every company manufacturing therapeutic products in Switzerland — whether for 
 
 **GMP compliance is non-negotiable.** Swissmedic conducts regular GMP inspections of manufacturing sites. Inspections can be announced or unannounced. Deficiencies that are not remediated on the agreed timeline will result in licence suspension or withdrawal.
 
-Where a Swiss company manufactures for EU markets under the Swiss-EU Mutual Recognition Agreement (MRA), Swissmedic GMP certificates are recognised by EU competent authorities — and vice versa. This bilateral recognition is a significant practical advantage that Switzerland's non-EU status would otherwise remove. Foreign companies that need to establish a Swiss manufacturing entity should review our guide on [company formation in Switzerland](/blog/company-formation-switzerland/).
+Where a Swiss company manufactures for EU markets under the Swiss-EU Mutual Recognition Agreement (MRA), Swissmedic GMP certificates are recognised by EU competent authorities — and vice versa. This bilateral recognition is a significant practical advantage that Switzerland's non-EU status would otherwise remove. Foreign companies that need to establish a Swiss manufacturing entity should review our guide on [company formation in Switzerland](/company-formation/company-formation-switzerland/).
 
 ---
 
@@ -171,7 +171,7 @@ Post-Brexit, the UK operates outside the Swiss-EU MRA. UK marketing authorisatio
 
 A Swissmedic authorisation carries weight well beyond Swiss borders. Regulators in the Gulf, Southeast Asia, and Latin America routinely treat Swissmedic approval as a quality benchmark when evaluating market access applications. For companies that plan international commercialisation, obtaining Swiss authorisation early — even before pursuing US FDA or Japanese PMDA pathways — can shorten overall time to global market.
 
-The Swiss pharmaceutical regulatory environment is also genuinely stable. Swissmedic's procedures, inspection standards, and fee schedules are published in advance and applied consistently. That predictability has real value in a sector where regulatory surprise is expensive. Companies establishing operations in Switzerland benefit from [FINMA licensing](/blog/finma-licensing-switzerland/) structures that complement the Swissmedic regulatory framework for financial aspects of pharmaceutical operations.
+The Swiss pharmaceutical regulatory environment is also genuinely stable. Swissmedic's procedures, inspection standards, and fee schedules are published in advance and applied consistently. That predictability has real value in a sector where regulatory surprise is expensive. Companies establishing operations in Switzerland benefit from [FINMA licensing](/licensing/finma-licensing-switzerland/) structures that complement the Swissmedic regulatory framework for financial aspects of pharmaceutical operations.
 
 <!-- VIDEO: How Swissmedic authorisation supports global market access for pharmaceutical companies -->
 
@@ -185,7 +185,7 @@ No. Switzerland is not an EU member state. A European Medicines Agency (EMA) cen
 
 **Can a foreign pharmaceutical company apply to Swissmedic directly?**
 
-Yes, but the marketing authorisation holder must have a legal address in Switzerland (or the European Economic Area in certain circumstances). Foreign companies without a Swiss presence typically establish a Swiss subsidiary or appoint a local regulatory affairs representative before submitting. See our guide to [company formation in Switzerland](/blog/company-formation-switzerland/) for the structural options.
+Yes, but the marketing authorisation holder must have a legal address in Switzerland (or the European Economic Area in certain circumstances). Foreign companies without a Swiss presence typically establish a Swiss subsidiary or appoint a local regulatory affairs representative before submitting. See our guide to [company formation in Switzerland](/company-formation/company-formation-switzerland/) for the structural options.
 
 **How does Switzerland handle biosimilars?**
 
@@ -225,7 +225,7 @@ Operating without the required Swissmedic authorisation is a criminal offence un
 
 Swissmedic licensing is a specialist regulatory and legal task. The dossier requirements are substantial, the procedures are sequential, and errors in the initial submission add months to the timeline.
 
-Lawsupport works with pharmaceutical companies, medical device manufacturers, and biotech startups to structure Swissmedic applications, advise on entity setup, and coordinate with regulatory affairs specialists. We also advise on the broader [Swiss business licensing](/blog/swiss-business-licenses/) framework that governs market entry across regulated sectors.
+Lawsupport works with pharmaceutical companies, medical device manufacturers, and biotech startups to structure Swissmedic applications, advise on entity setup, and coordinate with regulatory affairs specialists. We also advise on the broader [Swiss business licensing](/licensing/swiss-business-licenses/) framework that governs market entry across regulated sectors.
 
 For a direct conversation about your product and the applicable authorisation pathway, [request a free assessment](/contacts/).
 

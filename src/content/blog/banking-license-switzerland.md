@@ -3,7 +3,7 @@ title: "Swiss Banking Licence: FINMA Requirements (2026)"
 description: "Swiss banking licence from FINMA: CHF 10M capital, fit & proper criteria, 12-24 month timeline. Get expert guidance from Lawsupport, Zug."
 date: "19.03.2026"
 category: "Licensing & Permits"
-categoryHref: "/services/financial-licensing/"
+categoryHref: "/licensing/"
 readTime: "13 min read"
 faqItems:
   - question: "What are the FINMA banking licence requirements in Switzerland?"
@@ -67,9 +67,9 @@ The trigger for a banking licence is the combination of two activities under Art
 1. **Accepting deposits from the public** (or refinancing through non-bankable counterparties), AND
 2. **Investing or lending those funds** (financial intermediation)
 
-Both elements must be present. A company that merely lends its own funds does not meet the definition. A company that holds client funds in segregated settlement accounts and does not invest them may qualify for the lighter [fintech licence](/blog/fintech-license-switzerland/) instead.
+Both elements must be present. A company that merely lends its own funds does not meet the definition. A company that holds client funds in segregated settlement accounts and does not invest them may qualify for the lighter [fintech licence](/licensing/fintech-license-switzerland/) instead.
 
-The practical test: if your business model profits from the spread between deposit costs and lending returns, and you take in public money to do it, you need a banking licence. See our overview of [FINMA licensing in Switzerland](/blog/finma-licensing-switzerland/) for how banking sits within the broader authorisation framework.
+The practical test: if your business model profits from the spread between deposit costs and lending returns, and you take in public money to do it, you need a banking licence. See our overview of [FINMA licensing in Switzerland](/licensing/finma-licensing-switzerland/) for how banking sits within the broader authorisation framework.
 
 ### The Fintech Licence Alternative (Art. 1b BankG)
 
@@ -233,7 +233,7 @@ A Swiss banking licence is not a one-time event. Post-authorisation obligations 
 - Ongoing Basel III capital monitoring and buffer maintenance
 - Continuous AML programme updates in line with evolving FATF standards
 
-For context on how Swiss banking fits within the broader regulatory system, see our guide to the [Swiss banking system and financial centre](/blog/swiss-banking-system/).
+For context on how Swiss banking fits within the broader regulatory system, see our guide to the [Swiss banking system and financial centre](/banking/swiss-banking-system/).
 
 ---
 
@@ -247,7 +247,7 @@ For context on how Swiss banking fits within the broader regulatory system, see 
 | FINMA authorisation | Yes | Yes | No (SRO supervised) |
 | FINMA annual fee | CHF 50,000–500,000+ | Lower tier | None directly |
 | Typical timeline | 12–24 months | 6–12 months | 1–3 months |
-| Best suited for | Full-service banks, private banks, crypto banks | Payment platforms, e-money, deposit holders | Forex brokers, [asset managers](/blog/asset-management-license-switzerland/), independent financial advisers |
+| Best suited for | Full-service banks, private banks, crypto banks | Payment platforms, e-money, deposit holders | Forex brokers, [asset managers](/licensing/asset-management-license-switzerland/), independent financial advisers |
 
 ---
 
@@ -283,7 +283,7 @@ Post-authorisation obligations include quarterly and annual regulatory reporting
 
 **Q: What banking licence categories exist in Switzerland?**
 
-Switzerland distinguishes between: full banking licences (BankG) for deposit-taking and lending institutions; the fintech licence (Art. 1b BankG) for settlement account operators below CHF 100 million; branches of foreign banks (Art. 4 BankG); and systemically important banks subject to additional capital surcharges. Securities firms and [asset managers](/blog/asset-management-license-switzerland/) operate under separate FINMA authorisations under FINIG.
+Switzerland distinguishes between: full banking licences (BankG) for deposit-taking and lending institutions; the fintech licence (Art. 1b BankG) for settlement account operators below CHF 100 million; branches of foreign banks (Art. 4 BankG); and systemically important banks subject to additional capital surcharges. Securities firms and [asset managers](/licensing/asset-management-license-switzerland/) operate under separate FINMA authorisations under FINIG.
 
 **Q: What does a Swiss banking licence application cost?**
 
@@ -299,7 +299,7 @@ Governance and fit & proper issues, by a wide margin. Capital requirements are c
 
 **Q: Can I set up a bank in Switzerland as a foreign national or foreign-owned company?**
 
-Yes. Nationality of directors and shareholders is not a FINMA requirement in itself, though all individuals must pass fit and proper review regardless of nationality. Foreign shareholders holding 10% or more are subject to the same qualifying shareholder review as Swiss nationals. The key requirements are transparency of the ownership structure, sound financial standing, and absence of regulatory sanctions — not Swiss residency or citizenship. For general context on [company formation in Switzerland](/blog/company-formation-switzerland/), see our separate guide.
+Yes. Nationality of directors and shareholders is not a FINMA requirement in itself, though all individuals must pass fit and proper review regardless of nationality. Foreign shareholders holding 10% or more are subject to the same qualifying shareholder review as Swiss nationals. The key requirements are transparency of the ownership structure, sound financial standing, and absence of regulatory sanctions — not Swiss residency or citizenship. For general context on [company formation in Switzerland](/company-formation/company-formation-switzerland/), see our separate guide.
 
 ---
 

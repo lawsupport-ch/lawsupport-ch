@@ -4,7 +4,7 @@ description: "How to get a Swiss residence permit as a business owner: EU/EFTA s
 date: "19.03.2026"
 publishDate: "2026-05-25"
 category: "Immigration"
-categoryHref: "/blog/"
+categoryHref: "/immigration/"
 readTime: "12 min read"
 tocItems:
   - id: "the-fundamental-point-company-ownership-does-not-create-resi"
@@ -45,7 +45,7 @@ What Switzerland does have is a clear, if demanding, set of routes for business 
 
 Registering a Swiss GmbH or AG gives you a company. It does not give you a right to reside or work in Switzerland. Residency and the right to work are governed by immigration law, not commercial law. The two systems operate in parallel and do not automatically interact.
 
-This distinction matters practically: a non-EU/EFTA national can own 100% of a Swiss company, hold a seat on the board, and direct the company's strategy entirely from abroad — legally — without ever needing a Swiss residence permit. That is a deliberate design, not a loophole. [Nominee director services](/blog/nominee-director-switzerland/) exist precisely to satisfy the Swiss domicile requirement for directors without requiring the owner to relocate.
+This distinction matters practically: a non-EU/EFTA national can own 100% of a Swiss company, hold a seat on the board, and direct the company's strategy entirely from abroad — legally — without ever needing a Swiss residence permit. That is a deliberate design, not a loophole. [Nominee director services](/corporate-services/nominee-director-switzerland/) exist precisely to satisfy the Swiss domicile requirement for directors without requiring the owner to relocate.
 
 If you want to physically live in Switzerland, you need a permit. Which permit, and how you obtain it, depends on your circumstances.
 
@@ -70,11 +70,11 @@ A freshly registered GmbH with no clients and no Swiss activity will not satisfy
 
 ### Permit and Timeline
 
-Qualifying EU/EFTA self-employed persons receive a **B permit** (Aufenthaltsbewilligung), renewable annually for the first five years, then upgradeable to a [C permit](/blog/c-permit-switzerland/) (permanent residence) after five years of uninterrupted, compliant residence. No cantonal quota applies.
+Qualifying EU/EFTA self-employed persons receive a **B permit** (Aufenthaltsbewilligung), renewable annually for the first five years, then upgradeable to a [C permit](/immigration/c-permit-switzerland/) (permanent residence) after five years of uninterrupted, compliant residence. No cantonal quota applies.
 
 Processing: **4–8 weeks** from submission of a complete application, though this varies by canton. Zug and Zurich tend to be efficient; rural cantons can be slower.
 
-For more on the B permit specifically, see our guide to [B permit Switzerland](/blog/b-permit-switzerland/).
+For more on the B permit specifically, see our guide to [B permit Switzerland](/immigration/b-permit-switzerland/).
 
 ---
 
@@ -84,14 +84,14 @@ Non-EU/EFTA nationals operate under the Foreign Nationals and Integration Act (A
 
 ### The Employment Structure
 
-Switzerland issues work/residence permits to non-EU/EFTA nationals based on employment relationships, not ownership structures. Your Swiss GmbH or AG can sponsor your [work permit](/blog/work-permit-switzerland/) application as your employer. But the permit is not automatic. The cantonal authority assesses:
+Switzerland issues work/residence permits to non-EU/EFTA nationals based on employment relationships, not ownership structures. Your Swiss GmbH or AG can sponsor your [work permit](/immigration/work-permit-switzerland/) application as your employer. But the permit is not automatic. The cantonal authority assesses:
 
 - **Economic benefit to Switzerland**: does the company create Swiss jobs? Does it generate economic activity that benefits the Swiss economy — not just the owner?
 - **Your qualifications**: Swiss law requires that non-EU/EFTA employees demonstrate advanced qualifications and specialised expertise. Generic management roles rarely qualify.
 - **Cantonal quota**: non-EU/EFTA B work permits are subject to annual federal and cantonal quotas. Supply is limited.
 - **Priority check**: authorities formally check whether the role could be filled by a Swiss or EU/EFTA national. For a business owner self-sponsoring, this is assessed with some pragmatism, but it is not waived.
 
-The result: an [L permit](/blog/l-permit-switzerland/) (short-term, up to 12 months) or a B work permit (renewable), obtained through your Swiss company as sponsor. The criteria are genuinely demanding, and outcomes are not guaranteed. Cantonal authorities have significant discretion.
+The result: an [L permit](/immigration/l-permit-switzerland/) (short-term, up to 12 months) or a B work permit (renewable), obtained through your Swiss company as sponsor. The criteria are genuinely demanding, and outcomes are not guaranteed. Cantonal authorities have significant discretion.
 
 This route works most reliably when the company has substance — Swiss employees, Swiss clients, Swiss economic footprint — and the applicant has demonstrable expertise that cannot readily be sourced domestically.
 
@@ -123,7 +123,7 @@ Under this arrangement, income tax is calculated not on actual income but on a n
 
 The financial thresholds vary by canton. In Zug and Zurich, the minimum taxable basis tends to be CHF 400,000–600,000 per year. This route is not designed for people running active businesses — it explicitly excludes Swiss gainful activity — but it is relevant for investors, asset managers operating through foreign structures, or retirees.
 
-For a full breakdown of the mechanics, see our guide to [lump-sum taxation Switzerland](/blog/lump-sum-taxation-switzerland/).
+For a full breakdown of the mechanics, see our guide to [lump-sum taxation Switzerland](/tax-accounting/lump-sum-taxation-switzerland/).
 
 ---
 
@@ -135,7 +135,7 @@ For a full breakdown of the mechanics, see our guide to [lump-sum taxation Switz
 
 **Mistake 3: Underestimating cantonal discretion.** Swiss immigration is not purely federal. Cantonal migration offices have real power and real variation in how they apply discretionary provisions. What works in Zug may not work in another canton.
 
-**Mistake 4: Not considering the nominee director structure.** If the owner's goal is primarily to operate a Swiss company without personally relocating, a [nominee director](/blog/nominee-director-switzerland/) arrangement — combined with [Swiss company formation](/blog/company-formation-switzerland/) — satisfies the domicile requirement without triggering Swiss residency obligations.
+**Mistake 4: Not considering the nominee director structure.** If the owner's goal is primarily to operate a Swiss company without personally relocating, a [nominee director](/corporate-services/nominee-director-switzerland/) arrangement — combined with [Swiss company formation](/company-formation/company-formation-switzerland/) — satisfies the domicile requirement without triggering Swiss residency obligations.
 
 ---
 
@@ -164,7 +164,7 @@ Yes, in principle. Your Swiss company can sponsor your work permit application a
 
 **Do I need to live in Switzerland to run a Swiss company?**
 
-No. Swiss company law requires at least one director domiciled in Switzerland — but that director does not need to be the owner. A nominee director fulfils this requirement. The owner can reside and operate from any country, subject to their own tax and legal obligations in that country. See our [nominee director services](/blog/nominee-director-switzerland/) for how this works in practice.
+No. Swiss company law requires at least one director domiciled in Switzerland — but that director does not need to be the owner. A nominee director fulfils this requirement. The owner can reside and operate from any country, subject to their own tax and legal obligations in that country. See our [nominee director services](/corporate-services/nominee-director-switzerland/) for how this works in practice.
 
 **How long does it take to get a B permit as a self-employed EU/EFTA national?**
 
@@ -176,11 +176,11 @@ Yes. Once you hold a valid B or C permit, your spouse and children under 18 are 
 
 **What is the difference between a B permit and a C permit for business owners?**
 
-A [B permit](/blog/b-permit-switzerland/) is a residence permit renewed annually (or every five years for EU/EFTA nationals). A [C permit](/blog/c-permit-switzerland/) is a permanent residence permit, typically available after five or ten years of continuous residence depending on nationality. C permit holders have stronger residency rights and are no longer subject to source tax (Quellensteuer) at the employer level.
+A [B permit](/immigration/b-permit-switzerland/) is a residence permit renewed annually (or every five years for EU/EFTA nationals). A [C permit](/immigration/c-permit-switzerland/) is a permanent residence permit, typically available after five or ten years of continuous residence depending on nationality. C permit holders have stronger residency rights and are no longer subject to source tax (Quellensteuer) at the employer level.
 
 **Can I apply for Swiss citizenship as a business owner?**
 
-Yes, after meeting the ordinary residency requirements. Swiss citizenship requires at least ten years of residence in Switzerland (with years spent between ages 8 and 18 counting double), plus meeting cantonal and communal residency requirements. Business ownership is neither an advantage nor a disadvantage in the citizenship process. See our guide on [Swiss citizenship](/blog/swiss-citizenship/).
+Yes, after meeting the ordinary residency requirements. Swiss citizenship requires at least ten years of residence in Switzerland (with years spent between ages 8 and 18 counting double), plus meeting cantonal and communal residency requirements. Business ownership is neither an advantage nor a disadvantage in the citizenship process. See our guide on [Swiss citizenship](/immigration/swiss-citizenship/).
 
 **What happens to my residence permit if my business fails?**
 
@@ -192,7 +192,7 @@ No. Switzerland does not operate a separate startup visa or tech entrepreneur vi
 
 **Do I need a Swiss bank account to apply for a residence permit?**
 
-A Swiss bank account is not formally required for the permit application itself, but it is practically necessary. Employers (including your own company) must pay salaries into a Swiss bank account, and cantonal authorities may request evidence of financial means held in Switzerland. Opening a [Swiss bank account](/blog/swiss-bank-account/) before or during the permit application process is standard practice.
+A Swiss bank account is not formally required for the permit application itself, but it is practically necessary. Employers (including your own company) must pay salaries into a Swiss bank account, and cantonal authorities may request evidence of financial means held in Switzerland. Opening a [Swiss bank account](/banking/swiss-bank-account/) before or during the permit application process is standard practice.
 
 ---
 
@@ -211,6 +211,6 @@ info@lawsupport.ch
 
 </div>
 
-For a broader overview of Swiss immigration routes, see [immigrate to Switzerland](/blog/immigrate-to-switzerland/).
+For a broader overview of Swiss immigration routes, see [immigrate to Switzerland](/immigration/immigrate-to-switzerland/).
 
 The Foreign Nationals and Integration Act (AIG) is published at <a href="https://www.fedlex.admin.ch/eli/cc/2007/758/en" target="_blank" rel="nofollow noopener">Fedlex — AIG</a>. The State Secretariat for Migration (SEM) provides information on permit categories at <a href="https://www.sem.admin.ch/sem/en/home/themen/aufenthalt.html" target="_blank" rel="nofollow noopener">sem.admin.ch</a>. For the Agreement on the Free Movement of Persons with the EU, see <a href="https://www.eda.admin.ch/europa/en/home/europapolitik/ueberblick/bilaterale-abkommen-1/personenfreizuegigkeit.html" target="_blank" rel="nofollow noopener">EDA — Free Movement of Persons</a>.

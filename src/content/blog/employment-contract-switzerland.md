@@ -3,7 +3,7 @@ title: "Employment Contract Switzerland: Key Clauses (2026)"
 description: "Swiss employment contracts: what must be included, probation, notice, non-compete clauses, fixed-term vs open-ended, and collective agreement obligations."
 date: "19.03.2026"
 category: "Employment Law"
-categoryHref: "/blog/"
+categoryHref: "/employment-law/"
 readTime: "7 min read"
 tocItems:
   - id: "written-vs-verbal-contracts"
@@ -46,7 +46,7 @@ Swiss law does not mandate a written employment contract for most positions. A v
 - Certain clauses (non-compete, fixed-term agreements, specific working conditions) should always be in writing to be enforceable
 - If any party requests a written summary of key terms, the other must provide it (Art. 330b OR)
 
-In practice, all Swiss employment contracts should be in writing. For foreign employees requiring work permits, a written contract is mandatory for the permit application. See our [work permit Switzerland](/blog/work-permit-switzerland/) guide for full documentation requirements.
+In practice, all Swiss employment contracts should be in writing. For foreign employees requiring work permits, a written contract is mandatory for the permit application. See our [work permit Switzerland](/immigration/work-permit-switzerland/) guide for full documentation requirements.
 
 ---
 
@@ -91,7 +91,7 @@ Swiss law sets no statutory national minimum wage (except for cantons that have 
 
 **Bonus:** Discretionary bonuses (Gratifikation) must be distinguished from contractual bonuses (Bonus). A discretionary Gratifikation can be withheld or reduced by the employer; a contractual Bonus (linked to performance metrics or paid consistently) becomes an entitlement.
 
-For full payroll obligations — including social insurance deductions — see our [accounting Switzerland](/blog/accounting-switzerland/) overview.
+For full payroll obligations — including social insurance deductions — see our [accounting Switzerland](/tax-accounting/accounting-switzerland/) overview.
 
 ---
 
@@ -132,7 +132,7 @@ Non-compete clauses are valid in Switzerland if:
 
 Employees have a statutory duty of confidentiality about employer business secrets during and after employment (Art. 321a/321b OR). A contractual confidentiality clause reinforces this and can specify what counts as confidential information.
 
-For companies with intellectual property assets, see our [IP protection Switzerland](/blog/ip-protection-switzerland/) guide.
+For companies with intellectual property assets, see our [IP protection Switzerland](/intellectual-property/ip-protection-switzerland/) guide.
 
 ---
 
@@ -158,7 +158,7 @@ Work created by an employee in the exercise of their employment duties belongs t
 
 Swiss-law contracts must be governed by Swiss law for employees ordinarily working in Switzerland (mandatory under Swiss PIL Act). Choice of a foreign governing law for a Swiss-domiciled employee working in Switzerland will be overridden by Swiss mandatory employment law provisions.
 
-For a full overview of the legal framework, see our [employment law Switzerland](/blog/employment-law-switzerland/) pillar guide.
+For a full overview of the legal framework, see our [employment law Switzerland](/employment-law/employment-law-switzerland/) pillar guide.
 
 ---
 
@@ -230,7 +230,7 @@ Swiss employment contracts carry obligations that are easy to miss — from GAV 
 
 ---
 
-Related guides: [Employment law Switzerland](/blog/employment-law-switzerland/) | [Work permit Switzerland](/blog/work-permit-switzerland/) | [B permit Switzerland](/blog/b-permit-switzerland/) | [Accounting Switzerland](/blog/accounting-switzerland/)
+Related guides: [Employment law Switzerland](/employment-law/employment-law-switzerland/) | [Work permit Switzerland](/immigration/work-permit-switzerland/) | [B permit Switzerland](/immigration/b-permit-switzerland/) | [Accounting Switzerland](/tax-accounting/accounting-switzerland/)
 
 ---
 

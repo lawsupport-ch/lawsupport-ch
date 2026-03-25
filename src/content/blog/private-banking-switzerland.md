@@ -4,7 +4,7 @@ description: "Swiss private banking for HNWIs: minimum AUM thresholds, services 
 date: "19.03.2026"
 publishDate: "2026-05-21"
 category: "Banking & Finance"
-categoryHref: "/blog/"
+categoryHref: "/banking/"
 readTime: "11 min read"
 faqItems:
   - question: "Is Swiss banking secrecy still in force?"
@@ -95,11 +95,11 @@ The process involves:
 
 **1. Initial contact and referral:** Most top private banks prefer — or require — a warm referral from an existing client, lawyer, or intermediary. Cold approaches are possible but less effective.
 
-**2. KYC documentation:** Extensive — comparable to opening a [corporate bank account in Switzerland](/blog/corporate-bank-account-switzerland/) for complex structures. Required: passport, proof of address, source of wealth documentation (how assets were accumulated — not just where they are now), structure of any holding companies, beneficial ownership confirmation.
+**2. KYC documentation:** Extensive — comparable to opening a [corporate bank account in Switzerland](/banking/corporate-bank-account-switzerland/) for complex structures. Required: passport, proof of address, source of wealth documentation (how assets were accumulated — not just where they are now), structure of any holding companies, beneficial ownership confirmation.
 
 **3. Relationship manager interview:** A meeting (in person or video) with the private banker. They assess fit, understand the client's needs, and begin establishing the relationship.
 
-**4. Compliance review:** Swiss banks conduct AML and KYC review at senior compliance level. For politically exposed persons (PEPs) or clients from high-risk jurisdictions, enhanced due diligence applies. Banks must also comply with obligations under Swiss anti-money laundering regulations and [due diligence requirements](/blog/due-diligence-switzerland/).
+**4. Compliance review:** Swiss banks conduct AML and KYC review at senior compliance level. For politically exposed persons (PEPs) or clients from high-risk jurisdictions, enhanced due diligence applies. Banks must also comply with obligations under Swiss anti-money laundering regulations and [due diligence requirements](/corporate-transactions/due-diligence-switzerland/).
 
 **5. Account agreement:** Signing of account opening documentation, mandate agreement, and investment policy statement.
 
@@ -123,7 +123,7 @@ Swiss private bank fees vary by mandate type:
 
 The March 2023 forced merger of Credit Suisse into UBS changed Switzerland's private banking sector. UBS is now the dominant force in Swiss private banking with approximately USD 3.5 trillion in AUM globally. Independent private banks (Pictet, Lombard Odier, Julius Baer, etc.) have benefited from clients seeking diversification away from UBS.
 
-FINMA has strengthened supervision of systemically important banks and raised liquidity requirements. The sector remains fundamentally sound — Swiss private banks are well-capitalised by international standards. For details on how FINMA oversees financial institutions, see our guide on [FINMA licensing in Switzerland](/blog/finma-licensing-switzerland/).
+FINMA has strengthened supervision of systemically important banks and raised liquidity requirements. The sector remains fundamentally sound — Swiss private banks are well-capitalised by international standards. For details on how FINMA oversees financial institutions, see our guide on [FINMA licensing in Switzerland](/licensing/finma-licensing-switzerland/).
 
 ---
 
@@ -148,7 +148,7 @@ Swiss banking secrecy between bank and client remains a domestic legal obligatio
 
 **Can a non-resident open a Swiss private banking account?**
 
-Yes. Swiss private banks work extensively with non-resident clients — international wealth management for non-residents is their core business. Residency requirements apply to some services (e.g., mortgages on Swiss real estate), not to portfolio management or custody. For standard accounts, see our guide on [Swiss bank accounts for non-residents](/blog/swiss-bank-account-non-residents/).
+Yes. Swiss private banks work extensively with non-resident clients — international wealth management for non-residents is their core business. Residency requirements apply to some services (e.g., mortgages on Swiss real estate), not to portfolio management or custody. For standard accounts, see our guide on [Swiss bank accounts for non-residents](/banking/swiss-bank-account-non-residents/).
 
 **What currencies do Swiss private banks manage?**
 
@@ -168,7 +168,7 @@ Most Swiss private banks charge an all-in fee based on assets under management, 
 
 **Can I hold a Swiss private banking account through a company or trust?**
 
-Yes. Swiss private banks regularly serve corporate clients, [holding companies](/blog/holding-company-switzerland/), trusts, and foundations. Additional KYC requirements apply — the bank must identify all beneficial owners and understand the purpose of the structure. Complex structures take longer to onboard.
+Yes. Swiss private banks regularly serve corporate clients, [holding companies](/company-formation/holding-company-switzerland/), trusts, and foundations. Additional KYC requirements apply — the bank must identify all beneficial owners and understand the purpose of the structure. Complex structures take longer to onboard.
 
 **What reporting do Swiss private banks provide?**
 
@@ -199,6 +199,6 @@ info@lawsupport.ch
 
 </div>
 
-Related services: [Swiss bank account](/blog/swiss-bank-account/) | [Corporate bank account Switzerland](/blog/corporate-bank-account-switzerland/) | [Swiss banking system](/blog/swiss-banking-system/) | [Holding company Switzerland](/blog/holding-company-switzerland/)
+Related services: [Swiss bank account](/banking/swiss-bank-account/) | [Corporate bank account Switzerland](/banking/corporate-bank-account-switzerland/) | [Swiss banking system](/banking/swiss-banking-system/) | [Holding company Switzerland](/company-formation/holding-company-switzerland/)
 
 For an overview of Switzerland's banking regulations, see the <a href="https://www.finma.ch/en/supervision/banks-and-securities-firms/" target="_blank" rel="nofollow noopener">FINMA banks and securities firms supervision page</a>. Details on the automatic exchange of information (AEOI) are published by the <a href="https://www.sif.admin.ch/sif/en/home/multilateral/aia.html" target="_blank" rel="nofollow noopener">State Secretariat for International Finance (SIF)</a>. The esisuisse depositor protection scheme is documented at <a href="https://www.esisuisse.ch/en" target="_blank" rel="nofollow noopener">esisuisse.ch</a>.

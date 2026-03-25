@@ -1,10 +1,10 @@
 ---
-title: "Swiss Withholding Tax: Rates, Treaties & Refund Process (2026)"
+title: "Swiss Withholding Tax: Rates, Treaties & Refunds"
 description: "Swiss withholding tax at 35% on dividends and interest. Treaty reductions, refund process via ESTV Form 65, and holding structure planning from Lawsupport, Zug."
 date: "19.03.2026"
 publishDate: "2026-08-23"
 category: "Tax & Accounting"
-categoryHref: "/blog/"
+categoryHref: "/tax-accounting/"
 readTime: "11 min read"
 faqItems:
   - question: "What is the Swiss withholding tax rate on dividends?"
@@ -39,7 +39,7 @@ tocItems:
 ---
 
 
-Switzerland levies a 35% withholding tax (Verrechnungssteuer) on dividends, certain interest payments, and lottery winnings paid by Swiss companies and institutions to recipients at home and abroad. This is one of the highest withholding tax rates in Europe — but it is designed to be refunded (in full or in part) to qualifying recipients. Understanding how the Swiss withholding tax works is essential for anyone owning a Swiss company or receiving Swiss investment income, particularly when structuring [holding companies](/blog/holding-company-switzerland/) or planning dividend distributions.
+Switzerland levies a 35% withholding tax (Verrechnungssteuer) on dividends, certain interest payments, and lottery winnings paid by Swiss companies and institutions to recipients at home and abroad. This is one of the highest withholding tax rates in Europe — but it is designed to be refunded (in full or in part) to qualifying recipients. Understanding how the Swiss withholding tax works is essential for anyone owning a Swiss company or receiving Swiss investment income, particularly when structuring [holding companies](/company-formation/holding-company-switzerland/) or planning dividend distributions.
 
 ---
 
@@ -48,10 +48,10 @@ Switzerland levies a 35% withholding tax (Verrechnungssteuer) on dividends, cert
 The Swiss withholding tax (Verrechnungssteuer — <a href="https://www.fedlex.admin.ch/eli/cc/1966/371_385_381/en" target="_blank" rel="nofollow noopener">VStG</a>) applies to:
 
 **Dividends paid by Swiss companies**
-Any dividend distribution from a Swiss [AG](/blog/ag-formation-switzerland/) or [GmbH](/blog/gmbh-formation-switzerland/) to shareholders — whether Swiss or foreign — triggers a 35% withholding obligation. The company pays 35% of the gross dividend to the Swiss Federal Tax Administration (ESTV) and remits the net 65% to the shareholder.
+Any dividend distribution from a Swiss [AG](/company-formation/ag-formation-switzerland/) or [GmbH](/company-formation/gmbh-formation-switzerland/) to shareholders — whether Swiss or foreign — triggers a 35% withholding obligation. The company pays 35% of the gross dividend to the Swiss Federal Tax Administration (ESTV) and remits the net 65% to the shareholder.
 
 **Interest on Swiss bonds and Swiss bank deposits**
-Interest paid on bonds issued by Swiss entities and interest on Swiss [bank deposits](/blog/swiss-bank-account/) exceeding certain thresholds is subject to 35% withholding. This catches Swiss-source passive income for Swiss tax residents who might otherwise not declare it.
+Interest paid on bonds issued by Swiss entities and interest on Swiss [bank deposits](/banking/swiss-bank-account/) exceeding certain thresholds is subject to 35% withholding. This catches Swiss-source passive income for Swiss tax residents who might otherwise not declare it.
 
 **Lottery winnings above CHF 1'000**
 
@@ -69,7 +69,7 @@ The Swiss withholding tax has two distinct purposes depending on the recipient:
 
 **For Swiss residents:** It is a "security deposit" — an advance payment on income tax. Swiss residents who correctly declare their Swiss income in their personal tax return receive a full refund of the withheld amount. The 35% rate is intentionally high to encourage declaration. An undeclared Swiss dividend results in no refund — the 35% is retained. This is the anti-evasion mechanism.
 
-**For foreign recipients:** It is a final or provisional tax depending on the applicable [double tax treaty](/blog/double-tax-treaties-switzerland/). Non-resident shareholders receive a refund (or reduced withholding) only to the extent their treaty entitlement allows.
+**For foreign recipients:** It is a final or provisional tax depending on the applicable [double tax treaty](/tax-accounting/double-tax-treaties-switzerland/). Non-resident shareholders receive a refund (or reduced withholding) only to the extent their treaty entitlement allows.
 
 ---
 
@@ -101,7 +101,7 @@ Switzerland has concluded over 100 double tax treaties that reduce the 35% withh
 
 ## The Participation Exemption Route: Eliminating Withholding
 
-The Swiss-Swiss dividend withholding tax is often largely irrelevant for [holding structures](/blog/holding-company-switzerland/) because the **participation exemption** eliminates Swiss [corporate tax](/blog/corporate-tax-switzerland/) on qualifying dividends — and the refund mechanism fully returns the 35% to qualifying Swiss resident shareholders.
+The Swiss-Swiss dividend withholding tax is often largely irrelevant for [holding structures](/company-formation/holding-company-switzerland/) because the **participation exemption** eliminates Swiss [corporate tax](/tax-accounting/corporate-tax-switzerland/) on qualifying dividends — and the refund mechanism fully returns the 35% to qualifying Swiss resident shareholders.
 
 For international structures, a more important planning tool is the **Swiss holding company to EU parent company** route using the EU Parent-Subsidiary Directive equivalent arrangement under the Switzerland-EU bilateral agreements. Under the bilateral agreement (since 2005), dividends from a Swiss subsidiary to a qualifying EU parent company can be reduced to **0% withholding tax** (subject to qualifying conditions: >=25% stake held for 2 years, genuine structure, anti-abuse compliance).
 
@@ -145,12 +145,12 @@ Required documentation: proof of shareholding at the time of dividend, proof of 
 
 ## Withholding Tax and Swiss Company Formation
 
-When setting up a [Swiss company](/blog/company-formation-switzerland/), withholding tax planning should be addressed before the first dividend distribution. Key decisions include:
+When setting up a [Swiss company](/company-formation/company-formation-switzerland/), withholding tax planning should be addressed before the first dividend distribution. Key decisions include:
 
 - **Choice of entity:** Both AG and GmbH are subject to the same 35% withholding rules on dividends
 - **Shareholder structure:** The treaty rate available depends on the shareholder's country of residence and percentage ownership
 - **Holding versus operating company:** Interposing a Swiss holding company can optimise the withholding position through the participation exemption
-- **[Accounting](/blog/accounting-switzerland/) and documentation:** Proper records of dividend declarations, withholding deductions, and ESTV filings must be maintained
+- **[Accounting](/tax-accounting/accounting-switzerland/) and documentation:** Proper records of dividend declarations, withholding deductions, and ESTV filings must be maintained
 
 ---
 

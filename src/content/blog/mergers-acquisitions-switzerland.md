@@ -4,7 +4,7 @@ description: "Swiss M&A process: share deal vs asset deal, due diligence, SPA ke
 date: "19.03.2026"
 publishDate: "2026-05-05"
 category: "Corporate Transactions"
-categoryHref: "/blog/"
+categoryHref: "/corporate-transactions/"
 readTime: "16 min read"
 faqItems:
   - question: "Do I need a notary for a Swiss M&A transaction?"
@@ -59,7 +59,7 @@ This is the first structural decision in any Swiss M&A transaction and it carrie
 
 ### Share Deal
 
-In a share deal, the buyer acquires the shares of the target company ([AG or GmbH](/blog/company-formation-switzerland/)). The company itself -- with all of its assets, contracts, liabilities, and contingent obligations -- transfers to the buyer as a going concern. No individual asset or contract needs to be separately assigned.
+In a share deal, the buyer acquires the shares of the target company ([AG or GmbH](/company-formation/company-formation-switzerland/)). The company itself -- with all of its assets, contracts, liabilities, and contingent obligations -- transfers to the buyer as a going concern. No individual asset or contract needs to be separately assigned.
 
 The upside: simplicity of execution. Existing customer contracts, supplier agreements, licences, and regulatory permits stay in place. The downside: the buyer assumes all liabilities, including those that are unknown or contingent at signing. This is why robust representations and warranties, and increasingly W&I insurance, are central to every share deal.
 
@@ -93,15 +93,15 @@ The FusG governs formal mergers (absorptions and combinations), demergers (spin-
 
 ## Due Diligence: What Gets Examined
 
-Due diligence in a Swiss M&A transaction is not a formality. It is the primary mechanism by which the buyer identifies risks, calibrates price, and scopes the representations and warranties it will require from the seller. For a detailed overview, see our [due diligence guide](/blog/due-diligence-switzerland/).
+Due diligence in a Swiss M&A transaction is not a formality. It is the primary mechanism by which the buyer identifies risks, calibrates price, and scopes the representations and warranties it will require from the seller. For a detailed overview, see our [due diligence guide](/corporate-transactions/due-diligence-switzerland/).
 
 Standard due diligence workstreams:
 
 - **Legal**: Corporate structure, shareholder agreements, authorised signatories, material contracts, litigation and disputes, regulatory licences, IP ownership and encumbrances, real property, data protection compliance.
 - **Financial**: Audited accounts (Swiss GAAP FER, IFRS, or US GAAP depending on the target), working capital analysis, debt and cash positions, normalised EBITDA, off-balance-sheet items.
-- **Tax**: Historic tax filings, open assessments, transfer pricing arrangements, VAT compliance, withholding tax exposure on dividends, hidden reserves (a Swiss-specific concept relevant to step-up planning). See our [corporate tax Switzerland](/blog/corporate-tax-switzerland/) page.
+- **Tax**: Historic tax filings, open assessments, transfer pricing arrangements, VAT compliance, withholding tax exposure on dividends, hidden reserves (a Swiss-specific concept relevant to step-up planning). See our [corporate tax Switzerland](/tax-accounting/corporate-tax-switzerland/) page.
 - **Regulatory and compliance**: Sector licences, FINMA authorisations, competition law compliance, sanctions screening, AML/KYC programmes.
-- **IP**: Patent ownership chains, trademark registrations, software licences, open-source code use. See our [IP protection Switzerland](/blog/ip-protection-switzerland/) overview.
+- **IP**: Patent ownership chains, trademark registrations, software licences, open-source code use. See our [IP protection Switzerland](/intellectual-property/ip-protection-switzerland/) overview.
 - **Employment**: Employment agreements, collective labour agreements, pension fund status, senior management retention, pending disputes.
 
 For acquisitions with Swiss operations, due diligence requires attention to a number of locally specific items -- Swiss pension fund liabilities (BVG/LPP obligations), cantonal tax rulings, and notarial formalities for GmbH transfers among them.
@@ -142,7 +142,7 @@ Where due diligence identifies a specific known risk -- a tax exposure, an envir
 
 ### FINMA
 
-Acquisitions of qualifying participations (10% or more of capital or voting rights) in FINMA-supervised entities -- banks, insurance companies, securities firms, fund management companies -- require prior FINMA approval. See our page on [FINMA licensing](/blog/finma-licensing-switzerland/) for regulatory context. FINMA assesses the acquirer's financial soundness, reputation, and ability to guarantee the ongoing sound operation of the regulated entity. Timeline: typically two to four months, though complex cases take longer.
+Acquisitions of qualifying participations (10% or more of capital or voting rights) in FINMA-supervised entities -- banks, insurance companies, securities firms, fund management companies -- require prior FINMA approval. See our page on [FINMA licensing](/licensing/finma-licensing-switzerland/) for regulatory context. FINMA assesses the acquirer's financial soundness, reputation, and ability to guarantee the ongoing sound operation of the regulated entity. Timeline: typically two to four months, though complex cases take longer.
 
 ### Merger Control (COMCO)
 
@@ -156,7 +156,7 @@ Additional approvals may be required in media (concentration rules under the RTV
 
 ## Swiss Stamp Duty on Share Transfers
 
-Swiss securities transfer stamp duty applies where a Swiss securities dealer (as defined -- banks, certain brokers, large [holding companies](/blog/holding-company-switzerland/)) is a party to or intermediary in the transaction. The rate is 0.15% on Swiss securities and 0.30% on foreign securities, applied to the consideration. For further detail, see our [stamp duty guide](/blog/stamp-duty-switzerland/).
+Swiss securities transfer stamp duty applies where a Swiss securities dealer (as defined -- banks, certain brokers, large [holding companies](/company-formation/holding-company-switzerland/)) is a party to or intermediary in the transaction. The rate is 0.15% on Swiss securities and 0.30% on foreign securities, applied to the consideration. For further detail, see our [stamp duty guide](/tax-accounting/stamp-duty-switzerland/).
 
 Direct private transfers of AG or GmbH shares between parties neither of which qualifies as a Swiss securities dealer are generally not subject to transfer stamp duty. Structuring the transaction to avoid unnecessary stamp duty exposure is a standard element of Swiss M&A tax planning.
 
@@ -180,7 +180,7 @@ Swiss pension fund obligations -- governed by the BVG/LPP -- require particular 
 
 Closing in a Swiss private M&A transaction involves simultaneous exchange of deliverables: the signed SPA (if not already signed at an earlier signing date), share transfer documentation, board resolutions effecting the change of directors and authorised signatories, resignation letters from outgoing directors, and evidence of satisfaction of all conditions precedent.
 
-[Commercial Register](/blog/commercial-register-switzerland/) filings are required promptly after closing to update the board of directors and authorised signatories. For AG transactions, changes to shareholders are not registered -- the internal share register is updated instead. For GmbH transactions, the authenticated quota transfer agreement is filed with the Commercial Register, and the new quota holder is publicly recorded.
+[Commercial Register](/company-formation/commercial-register-switzerland/) filings are required promptly after closing to update the board of directors and authorised signatories. For AG transactions, changes to shareholders are not registered -- the internal share register is updated instead. For GmbH transactions, the authenticated quota transfer agreement is filed with the Commercial Register, and the new quota holder is publicly recorded.
 
 Post-closing, the parties typically enter a transition services period. The SPA will specify the purchase price adjustment process (if closing accounts apply), the W&I insurance notification procedure, and any earn-out governance obligations.
 
@@ -222,7 +222,7 @@ Earn-out provisions are inherently prone to disagreement because the buyer contr
 
 **What tax considerations apply to the purchase price?**
 
-The tax treatment depends on whether the transaction is a share deal or asset deal, and on the seller's tax status. In a share deal, Swiss corporate sellers may benefit from the participation exemption on capital gains from qualifying participations. In an asset deal, gains on individual assets are taxed as ordinary income. [Withholding tax](/blog/withholding-tax-switzerland/) may apply on deemed dividend distributions connected to the transaction. Transfer pricing rules apply to cross-border intragroup transactions.
+The tax treatment depends on whether the transaction is a share deal or asset deal, and on the seller's tax status. In a share deal, Swiss corporate sellers may benefit from the participation exemption on capital gains from qualifying participations. In an asset deal, gains on individual assets are taxed as ordinary income. [Withholding tax](/tax-accounting/withholding-tax-switzerland/) may apply on deemed dividend distributions connected to the transaction. Transfer pricing rules apply to cross-border intragroup transactions.
 
 **Do Swiss M&A transactions require employee consultation?**
 

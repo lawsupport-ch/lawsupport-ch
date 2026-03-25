@@ -3,7 +3,7 @@ title: "Bankruptcy Switzerland: Corporate Insolvency Guide"
 description: "Swiss corporate bankruptcy (Konkurs): triggers, creditor priority, director liability, and alternatives. Free assessment from Lawsupport."
 date: "19.03.2026"
 category: "Company Formation"
-categoryHref: "/services/company-formation/"
+categoryHref: "/company-formation/"
 readTime: "9 min read"
 faqItems:
   - question: "Can a director resign to avoid liability in an insolvent Swiss company?"
@@ -66,7 +66,7 @@ A Swiss company may enter formal bankruptcy through three routes set out in Swis
 2. Have it audited by a licensed audit expert
 3. If overindebtedness is confirmed: notify the court — unless creditors with subordination agreements (postponement of ranking, *Rangrücktritt*) restore solvency on paper
 
-**Inability to pay (Zahlungsunfähigkeit):** A company that cannot meet its payment obligations as they fall due is insolvent. Creditors can trigger bankruptcy through the [debt collection Switzerland](/blog/debt-collection-switzerland/) (*SchKG*) process — filing a *Betreibung* at the *Betreibungsamt*, obtaining a *Konkursandrohung* (notice of bankruptcy threat), then petitioning the district court to open bankruptcy proceedings.
+**Inability to pay (Zahlungsunfähigkeit):** A company that cannot meet its payment obligations as they fall due is insolvent. Creditors can trigger bankruptcy through the [debt collection Switzerland](/company-formation/debt-collection-switzerland/) (*SchKG*) process — filing a *Betreibung* at the *Betreibungsamt*, obtaining a *Konkursandrohung* (notice of bankruptcy threat), then petitioning the district court to open bankruptcy proceedings.
 
 **Loss of capital (Kapitalverlust) — Art. 725 CO:** If half of the share capital and statutory reserves are no longer covered by assets, the board must convene the general meeting and propose remediation measures. Failure to act exposes directors to personal liability.
 
@@ -78,7 +78,7 @@ A Swiss company may enter formal bankruptcy through three routes set out in Swis
 
 **Step 2 — *Konkursamt* takes control:** The cantonal bankruptcy office seizes all assets, assumes control of business operations (or immediately ceases trading), and produces a full inventory of assets. Directors lose authority to act on the company's behalf.
 
-**Step 3 — Creditors' call (*Schuldenruf*):** The *Konkursamt* publishes the bankruptcy in the Swiss Official Gazette of Commerce (SHAB). All creditors are invited to file their claims within 20 days. The [Betreibungsamt cantons](/blog/betreibungsamt-cantons/) directory lists the relevant local offices.
+**Step 3 — Creditors' call (*Schuldenruf*):** The *Konkursamt* publishes the bankruptcy in the Swiss Official Gazette of Commerce (SHAB). All creditors are invited to file their claims within 20 days. The [Betreibungsamt cantons](/corporate-services/betreibungsamt-cantons/) directory lists the relevant local offices.
 
 **Step 4 — Proof of claims (*Kollokation*):** The *Konkursamt* evaluates all creditor claims and establishes the *Kollokationsplan* — the ranked schedule of creditors showing who is paid in what order and in which priority class.
 
@@ -86,7 +86,7 @@ A Swiss company may enter formal bankruptcy through three routes set out in Swis
 
 **Step 6 — Distribution:** Proceeds are distributed to creditors strictly in priority order. Third-class unsecured creditors receive payment only after first- and second-class claims are satisfied in full.
 
-**Step 7 — Closure:** Once distributions are complete and the estate is exhausted, the company is dissolved and deleted from the [Commercial Register (*Handelsregister*)](/blog/company-formation-switzerland/).
+**Step 7 — Closure:** Once distributions are complete and the estate is exhausted, the company is dissolved and deleted from the [Commercial Register (*Handelsregister*)](/company-formation/company-formation-switzerland/).
 
 ---
 
@@ -126,7 +126,7 @@ Swiss directors face substantial personal liability exposure once insolvency ind
 
 **Resignation does not extinguish liability:** A director who was aware of overindebtedness and resigned without first following the Art. 725b CO notification procedure remains personally liable for the period of inaction. See the FAQ below.
 
-For an overview of the formal [company liquidation Switzerland](/blog/company-liquidation-switzerland/) process — which applies when a solvent company voluntarily winds down — see our separate guide.
+For an overview of the formal [company liquidation Switzerland](/company-formation/company-liquidation-switzerland/) process — which applies when a solvent company voluntarily winds down — see our separate guide.
 
 ---
 
@@ -134,7 +134,7 @@ For an overview of the formal [company liquidation Switzerland](/blog/company-li
 
 **Nachlassvertrag (composition agreement) — Art. 293–336 SchKG:** A structured alternative to formal bankruptcy. The debtor and creditors agree on a restructuring plan or partial debt discharge, subject to court approval and creditor super-majorities. A *Nachlassvertrag* allows the company to continue as a going concern if the restructuring is financially viable.
 
-**Debt moratorium (*Nachlassstundung*):** A court-supervised moratorium suspending enforcement proceedings, granted for up to four months initially and extendable to 24 months. It provides breathing space to negotiate with creditors and prepare a restructuring plan. Related to [corporate restructuring Switzerland](/blog/corporate-restructuring-switzerland/).
+**Debt moratorium (*Nachlassstundung*):** A court-supervised moratorium suspending enforcement proceedings, granted for up to four months initially and extendable to 24 months. It provides breathing space to negotiate with creditors and prepare a restructuring plan. Related to [corporate restructuring Switzerland](/corporate-transactions/corporate-restructuring-switzerland/).
 
 **Voluntary liquidation:** If the company is solvent but wishes to close, voluntary liquidation under the Code of Obligations is faster and more controlled than bankruptcy. It is only available where all liabilities can be paid in full.
 
@@ -173,7 +173,7 @@ The *Betreibungsamt* (debt enforcement office) administers the pre-bankruptcy de
 
 **How does the SchKG bankruptcy process differ from voluntary liquidation?**
 
-The SchKG bankruptcy process applies to insolvent companies — those unable to pay debts or whose liabilities exceed assets. Control passes to the *Konkursamt*. [Voluntary liquidation](/blog/company-liquidation-switzerland/) under the Code of Obligations applies to solvent companies that choose to close, and the directors remain in control as liquidators throughout the process.
+The SchKG bankruptcy process applies to insolvent companies — those unable to pay debts or whose liabilities exceed assets. Control passes to the *Konkursamt*. [Voluntary liquidation](/company-formation/company-liquidation-switzerland/) under the Code of Obligations applies to solvent companies that choose to close, and the directors remain in control as liquidators throughout the process.
 
 ---
 
@@ -221,7 +221,7 @@ Art. 163 StGB (fraudulent bankruptcy and debt enforcement) and Art. 164 StGB (re
 
 **Can a Swiss company in financial difficulty use a debt moratorium instead of bankruptcy?**
 
-Yes. A *Nachlassstundung* (provisional moratorium) under Art. 293a SchKG gives the debtor court protection from enforcement proceedings for an initial period of up to four months, extendable to 24 months. During this period the debtor works with a court-appointed commissioner to negotiate a composition agreement or restructuring plan. It is the preferred first step for companies with restructuring potential. See our guide to [corporate restructuring Switzerland](/blog/corporate-restructuring-switzerland/) for the full process.
+Yes. A *Nachlassstundung* (provisional moratorium) under Art. 293a SchKG gives the debtor court protection from enforcement proceedings for an initial period of up to four months, extendable to 24 months. During this period the debtor works with a court-appointed commissioner to negotiate a composition agreement or restructuring plan. It is the preferred first step for companies with restructuring potential. See our guide to [corporate restructuring Switzerland](/corporate-transactions/corporate-restructuring-switzerland/) for the full process.
 
 ---
 
@@ -237,11 +237,11 @@ Morgan Hartley and the Lawsupport team advise AG and GmbH directors on insolvenc
 
 ## Related Guides
 
-- [Debt Collection Switzerland (SchKG process) →](/blog/debt-collection-switzerland/)
-- [Company Liquidation Switzerland →](/blog/company-liquidation-switzerland/)
-- [Corporate Restructuring Switzerland →](/blog/corporate-restructuring-switzerland/)
-- [Betreibungsamt by Canton →](/blog/betreibungsamt-cantons/)
-- [Company Formation Switzerland →](/blog/company-formation-switzerland/)
+- [Debt Collection Switzerland (SchKG process) →](/company-formation/debt-collection-switzerland/)
+- [Company Liquidation Switzerland →](/company-formation/company-liquidation-switzerland/)
+- [Corporate Restructuring Switzerland →](/corporate-transactions/corporate-restructuring-switzerland/)
+- [Betreibungsamt by Canton →](/corporate-services/betreibungsamt-cantons/)
+- [Company Formation Switzerland →](/company-formation/company-formation-switzerland/)
 
 ---
 

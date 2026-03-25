@@ -4,7 +4,7 @@ description: "Swiss Patent Box regime allows up to 90% reduction on qualifying I
 date: "19.03.2026"
 publishDate: "2026-05-15"
 category: "Tax & Accounting"
-categoryHref: "/blog/"
+categoryHref: "/tax-accounting/"
 readTime: "14 min read"
 faqItems:
   - question: "Does the Swiss Patent Box apply to federal corporate tax?"
@@ -53,7 +53,7 @@ The Patent Box (also called the IP Box) is a preferential cantonal tax regime fo
 
 The legal basis at the federal level came into effect on 1 January 2020. All cantons have since implemented the regime, though implementation details vary by canton.
 
-The key principle: qualifying net IP income is taxed at a substantially reduced effective rate, rather than the standard [corporate income tax](/blog/corporate-tax-switzerland/) rate. In a canton like Zug, this can bring the effective tax rate on IP income well below 5%, compared to the ordinary effective rate of approximately 11.8%.
+The key principle: qualifying net IP income is taxed at a substantially reduced effective rate, rather than the standard [corporate income tax](/tax-accounting/corporate-tax-switzerland/) rate. In a canton like Zug, this can bring the effective tax rate on IP income well below 5%, compared to the ordinary effective rate of approximately 11.8%.
 
 This is not a deferral mechanism. It is a permanent reduction in tax on qualifying IP income, every year, so long as your IP and expenditure structure meets the qualifying criteria.
 
@@ -140,7 +140,7 @@ All Swiss cantons implement the IP Box, but the ordinary corporate tax rates and
 | Geneva | 14.0% | 90% | ~1.4%-3.5% |
 | Vaud | 14.0% | 90% | ~1.4%-3.5% |
 
-*Note: Effective rates include cantonal and communal taxes. Federal corporate tax (8.5% on pre-tax profit) is not reduced by the Patent Box. Figures are indicative for 2026 and vary by commune. For a full cantonal comparison, see our [cantonal tax comparison](/blog/cantonal-tax-comparison-switzerland/).*
+*Note: Effective rates include cantonal and communal taxes. Federal corporate tax (8.5% on pre-tax profit) is not reduced by the Patent Box. Figures are indicative for 2026 and vary by commune. For a full cantonal comparison, see our [cantonal tax comparison](/tax-accounting/cantonal-tax-comparison-switzerland/).*
 
 For foreign founders comparing Swiss cantons for an IP holding structure, **Zug and Nidwalden remain the most attractive** when combining the Patent Box with low ordinary rates and a business-friendly administration.
 
@@ -171,9 +171,9 @@ The regime is most relevant for:
 - **IP holding companies** that hold patents licensed to operating subsidiaries internationally
 - **Medical device companies** with registered patents on products sold or licensed globally
 
-The Patent Box is particularly powerful when combined with a Swiss IP holding structure. A company in Zug holding patents and licensing them to group companies abroad benefits from the low effective rate on royalty income, treaty-based [withholding tax](/blog/withholding-tax-switzerland/) reductions on incoming royalties, and the holding company participation exemption where dividends from subsidiaries are concerned.
+The Patent Box is particularly powerful when combined with a Swiss IP holding structure. A company in Zug holding patents and licensing them to group companies abroad benefits from the low effective rate on royalty income, treaty-based [withholding tax](/tax-accounting/withholding-tax-switzerland/) reductions on incoming royalties, and the holding company participation exemption where dividends from subsidiaries are concerned.
 
-See our guide to [holding company structures in Switzerland](/blog/holding-company-switzerland/) for the broader context.
+See our guide to [holding company structures in Switzerland](/company-formation/holding-company-switzerland/) for the broader context.
 
 ---
 
@@ -181,7 +181,7 @@ See our guide to [holding company structures in Switzerland](/blog/holding-compa
 
 Zug is Switzerland's leading jurisdiction for IP holding companies, and the Patent Box is a central reason. A typical structure for a foreign tech or pharma group looks like this:
 
-1. A **Swiss IP Holding GmbH or AG** is incorporated in Zug ([company formation in Zug](/blog/company-formation-zug/))
+1. A **Swiss IP Holding GmbH or AG** is incorporated in Zug ([company formation in Zug](/company-formation/company-formation-zug/))
 2. The IP holding acquires or develops the qualifying patents (ensuring the nexus ratio is maximised by conducting genuine R&D in Switzerland or through approved third parties)
 3. The IP holding licenses the patents to operating companies in Germany, the US, or elsewhere
 4. Royalty income flows into Zug, where it is taxed at an effective rate well below 5% on the qualifying portion
@@ -196,7 +196,7 @@ Attempting to park IP in Switzerland without real substance is not viable. Attem
 
 ### Step 1 -- Confirm qualifying IP
 
-Before incorporating or transferring IP to Switzerland, confirm that the rights meet the statutory definition under Article 24a StHG. A [patent registration](/blog/patent-registration-switzerland/) search and legal review of the IP portfolio is the starting point.
+Before incorporating or transferring IP to Switzerland, confirm that the rights meet the statutory definition under Article 24a StHG. A [patent registration](/intellectual-property/patent-registration-switzerland/) search and legal review of the IP portfolio is the starting point.
 
 ### Step 2 -- Document the nexus ratio
 
@@ -215,7 +215,7 @@ An advance ruling eliminates uncertainty and provides legal certainty for forwar
 
 ### Step 4 -- Annual tax return
 
-The Patent Box is claimed annually in the cantonal [corporate tax return](/blog/corporate-tax-return-switzerland/). You will need to file:
+The Patent Box is claimed annually in the cantonal [corporate tax return](/tax-accounting/corporate-tax-return-switzerland/). You will need to file:
 
 - A Patent Box annex showing the calculation of qualifying IP income
 - The nexus ratio computation with supporting documentation
@@ -229,7 +229,7 @@ The cantonal tax authority reviews the filing and issues the tax assessment. The
 
 A US-founded SaaS company has developed a patented method for real-time data compression registered under the European Patent Convention. The founders wish to restructure before a Series B funding round.
 
-They incorporate a **Swiss AG in Zug**, which acquires the patent from the US parent at arm's length value (documented by [transfer pricing](/blog/transfer-pricing-switzerland/) analysis). The Zug AG licenses the patent back to the US operating company and to a newly established UK subsidiary.
+They incorporate a **Swiss AG in Zug**, which acquires the patent from the US parent at arm's length value (documented by [transfer pricing](/tax-accounting/transfer-pricing-switzerland/) analysis). The Zug AG licenses the patent back to the US operating company and to a newly established UK subsidiary.
 
 In year one, royalty income is CHF 1,500,000. In-house R&D in Switzerland amounts to CHF 600,000 (two senior engineers employed in Zug). The nexus ratio is calculated at 78% after accounting for acquisition cost and the 30% uplift.
 

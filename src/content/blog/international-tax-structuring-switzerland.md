@@ -4,7 +4,7 @@ description: "Swiss international tax structures in 2026: holding companies, IP 
 date: "19.03.2026"
 publishDate: "2026-04-19"
 category: "Tax & Accounting"
-categoryHref: "/blog/"
+categoryHref: "/tax-accounting/"
 readTime: "9 min read"
 faqItems:
   - question: "Is the Swiss holding company still useful after the 2020 reform?"
@@ -57,7 +57,7 @@ The case for Switzerland is structural, not promotional.
 | Geneva | 13.99% |
 | Zurich | 19.70% |
 
-The federal rate is fixed at 8.5% on after-tax profit (approximately 7.83% on pre-tax profit). Cantonal rates vary significantly; Zug is the benchmark for holding and trading structures. For a full cantonal comparison, see our guide on [Swiss tax rates by canton](/blog/swiss-tax-rates-by-canton/).
+The federal rate is fixed at 8.5% on after-tax profit (approximately 7.83% on pre-tax profit). Cantonal rates vary significantly; Zug is the benchmark for holding and trading structures. For a full cantonal comparison, see our guide on [Swiss tax rates by canton](/tax-accounting/swiss-tax-rates-by-canton/).
 
 **Advance tax rulings.** The cantonal tax authorities issue binding written rulings confirming the tax treatment of a proposed structure before incorporation. A ruling from the Steuerverwaltung Zug can provide certainty for five or more years — a feature not replicable in many competing jurisdictions.
 
@@ -98,13 +98,13 @@ A Swiss holding AG or GmbH in Zug, holding shares in subsidiaries across multipl
 
 Where these conditions are met, net dividend income is effectively excluded from Swiss taxable income through a proportional reduction in tax. Qualifying dividends flow through the Swiss holding company at close to 0% Swiss corporate tax. Capital gains on qualifying participations are treated equivalently.
 
-**Capital tax.** Cantons impose a net worth (capital) tax on equity. In Zug the rate is 0.075% per annum — 0.001% for equity attributable to qualifying participations under the holding privilege. For a holding with CHF 100 million in equity, annual capital tax in Zug is in the order of CHF 75'000–100'000: negligible relative to the dividends flowing through. Read more about [capital tax in Switzerland](/blog/capital-tax-switzerland/).
+**Capital tax.** Cantons impose a net worth (capital) tax on equity. In Zug the rate is 0.075% per annum — 0.001% for equity attributable to qualifying participations under the holding privilege. For a holding with CHF 100 million in equity, annual capital tax in Zug is in the order of CHF 75'000–100'000: negligible relative to the dividends flowing through. Read more about [capital tax in Switzerland](/tax-accounting/capital-tax-switzerland/).
 
 **Post-STAF clarification.** The cantonal holding company privilege — which previously exempted Swiss holding companies from cantonal corporate income tax entirely — was abolished on 1 January 2020. Swiss holding companies are now taxed at ordinary cantonal rates but benefit from the participation exemption on qualifying dividend and capital gain income. For a well-structured pure holding, the practical outcome is nearly identical to the pre-2020 position. The change removed the formal privilege that invited BEPS challenge.
 
-**Swiss withholding tax.** Switzerland levies 35% Verrechnungssteuer on dividends paid by Swiss companies to shareholders. International holding structures must therefore be owned by a foreign parent in a DTA jurisdiction, or by qualifying EU entities under the bilateral agreement, to reduce or eliminate Swiss WHT on upward dividend flows. See [withholding tax in Switzerland](/blog/withholding-tax-switzerland/) for treaty rates and refund procedures.
+**Swiss withholding tax.** Switzerland levies 35% Verrechnungssteuer on dividends paid by Swiss companies to shareholders. International holding structures must therefore be owned by a foreign parent in a DTA jurisdiction, or by qualifying EU entities under the bilateral agreement, to reduce or eliminate Swiss WHT on upward dividend flows. See [withholding tax in Switzerland](/tax-accounting/withholding-tax-switzerland/) for treaty rates and refund procedures.
 
-For formation and governance detail, see [holding company formation in Switzerland](/blog/holding-company-switzerland/).
+For formation and governance detail, see [holding company formation in Switzerland](/company-formation/holding-company-switzerland/).
 
 ---
 
@@ -118,13 +118,13 @@ Swiss cantons introduced a statutory IP box following STAF. In Zug, the IP box a
 
 > IP Box fraction = (Qualifying Swiss R&D expenditure / Total R&D expenditure) x Net qualifying IP income
 
-A pure IP holding company that conducts no R&D in Switzerland and simply licences in IP from a related party receives no IP box benefit. This is not a compliance risk to be managed around — it is a threshold requirement. Genuine Swiss R&D headcount, facilities, and documented expenditure are prerequisites. For more on intellectual property rights, see our guide to [IP protection in Switzerland](/blog/ip-protection-switzerland/).
+A pure IP holding company that conducts no R&D in Switzerland and simply licences in IP from a related party receives no IP box benefit. This is not a compliance risk to be managed around — it is a threshold requirement. Genuine Swiss R&D headcount, facilities, and documented expenditure are prerequisites. For more on intellectual property rights, see our guide to [IP protection in Switzerland](/intellectual-property/ip-protection-switzerland/).
 
 **Practical application.** Pharmaceutical and biotech companies locating research teams in Switzerland, owning the resulting patents in the Swiss entity, and licensing those patents to manufacturing or distribution entities worldwide can achieve effective rates of 2–3% on royalty streams. Transfer pricing documentation must demonstrate arm's-length royalty rates. The nexus fraction must be computed and documented annually.
 
 **Inbound royalty withholding.** When the Swiss company receives royalties from treaty-country subsidiaries, source-country withholding is reduced under the applicable DTA — commonly to 0–5%.
 
-For a full breakdown of the Patent Box mechanics, see [Swiss tax incentives](/blog/swiss-tax-incentives/).
+For a full breakdown of the Patent Box mechanics, see [Swiss tax incentives](/tax-accounting/swiss-tax-incentives/).
 
 ---
 
@@ -154,7 +154,7 @@ A Swiss finance company can borrow from external markets or related parties and 
 
 **Inbound interest.** Switzerland does not impose withholding tax on interest received by Swiss companies. When the Swiss finance company receives interest from treaty-country subsidiaries, source-country withholding is reduced under the applicable DTA — commonly to 0–10%.
 
-See [double tax treaties Switzerland](/blog/double-tax-treaties-switzerland/) for the full DTA matrix. You may also want to review [transfer pricing rules in Switzerland](/blog/transfer-pricing-switzerland/) for intercompany lending documentation.
+See [double tax treaties Switzerland](/tax-accounting/double-tax-treaties-switzerland/) for the full DTA matrix. You may also want to review [transfer pricing rules in Switzerland](/tax-accounting/transfer-pricing-switzerland/) for intercompany lending documentation.
 
 ---
 
@@ -166,7 +166,7 @@ See [double tax treaties Switzerland](/blog/double-tax-treaties-switzerland/) fo
 
 **Pillar Two (global minimum tax).** Switzerland enacted OECD Pillar Two rules with effect from 1 January 2024. For groups with global consolidated revenue above EUR 750 million, a top-up tax ensures a minimum effective rate of 15% at the jurisdictional level, collected as a domestic Qualified Minimum Top-Up Tax (QDMTT). At 11.82% in Zug, the top-up exposure is approximately 3.18 percentage points — modest compared with jurisdictions at 0–5%. For groups below the EUR 750 million Pillar Two threshold, Swiss rate advantages are fully preserved.
 
-For a full rate mechanics analysis, see [corporate tax in Switzerland](/blog/corporate-tax-switzerland/).
+For a full rate mechanics analysis, see [corporate tax in Switzerland](/tax-accounting/corporate-tax-switzerland/).
 
 ---
 

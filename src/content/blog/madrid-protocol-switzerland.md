@@ -4,7 +4,7 @@ description: "Using the Madrid Protocol for international trademark registration
 date: "19.03.2026"
 publishDate: "2026-05-03"
 category: "IP & Commercial Law"
-categoryHref: "/blog/"
+categoryHref: "/intellectual-property/"
 readTime: "13 min read"
 faqItems:
   - question: "Do I need a Swiss trademark before using the Madrid Protocol?"
@@ -62,7 +62,7 @@ Member countries include every major commercial market: all 27 EU member states 
 Swiss applicants must follow a defined sequence.
 
 **Step 1: Establish a Swiss basic mark.**
-You must own either a registered Swiss trademark or a pending application at the IPI. This is called the "basic mark." You cannot file internationally under the Madrid Protocol without it. If you have not yet filed in Switzerland, that is the starting point -- see our guide to [trademark registration in Switzerland](/blog/trademark-registration-switzerland/).
+You must own either a registered Swiss trademark or a pending application at the IPI. This is called the "basic mark." You cannot file internationally under the Madrid Protocol without it. If you have not yet filed in Switzerland, that is the starting point -- see our guide to [trademark registration in Switzerland](/intellectual-property/trademark-registration-switzerland/).
 
 **Step 2: File the international application through the IPI.**
 The international application is submitted to the IPI, which acts as the office of origin. The IPI verifies that the international application matches the basic mark (same owner, same mark, goods/services cannot exceed those in the basic mark) and certifies the application before forwarding it to WIPO.
@@ -148,7 +148,7 @@ Yes. Subsequent designations can be filed at any time during the life of the int
 
 **Do I need a Swiss trademark before using the Madrid Protocol?**
 
-Yes. A Swiss basic mark -- either a registered trademark or a pending application at the IPI -- is a mandatory prerequisite for filing an international application through Switzerland as the office of origin. Without a Swiss basic mark, you cannot access the Madrid System from Switzerland. See our guide to [trademark registration in Switzerland](/blog/trademark-registration-switzerland/) for the domestic filing process.
+Yes. A Swiss basic mark -- either a registered trademark or a pending application at the IPI -- is a mandatory prerequisite for filing an international application through Switzerland as the office of origin. Without a Swiss basic mark, you cannot access the Madrid System from Switzerland. See our guide to [trademark registration in Switzerland](/intellectual-property/trademark-registration-switzerland/) for the domestic filing process.
 
 **How long does the entire Madrid Protocol process take?**
 
@@ -180,7 +180,7 @@ Without the Madrid Protocol, you must file separate national trademark applicati
 
 The Madrid Protocol is the right tool for Swiss businesses with genuine international brand exposure. It is not appropriate for companies with no immediate need beyond Switzerland, given that the IPI filing fees and WIPO fees represent real upfront costs. But for any business operating across multiple jurisdictions -- export-driven manufacturers, software companies, consumer brands, financial services firms -- the administrative and cost efficiency versus country-by-country filing is substantial.
 
-The foundation is a solid Swiss trademark. Get that right first. For broader guidance on protecting your intellectual property in Switzerland, see our overview of [IP protection in Switzerland](/blog/ip-protection-switzerland/). If you are also setting up a Swiss entity to hold your brand assets, our [company formation guide](/blog/company-formation-switzerland/) covers the available structures.
+The foundation is a solid Swiss trademark. Get that right first. For broader guidance on protecting your intellectual property in Switzerland, see our overview of [IP protection in Switzerland](/intellectual-property/ip-protection-switzerland/). If you are also setting up a Swiss entity to hold your brand assets, our [company formation guide](/company-formation/company-formation-switzerland/) covers the available structures.
 
 ---
 

@@ -4,7 +4,7 @@ description: "Opening a restaurant or hotel in Switzerland: Wirtepatent rules, f
 date: "19.03.2026"
 publishDate: "2026-04-07"
 category: "Licensing & Permits"
-categoryHref: "/services/financial-licensing/"
+categoryHref: "/licensing/"
 readTime: "7 min read"
 faqItems:
   - question: "Can a foreigner hold a Wirtepatent in Switzerland?"
@@ -145,7 +145,7 @@ The **Landesgesamtarbeitsvertrag des Gastgewerbes (L-GAV)** is the national coll
 
 Non-compliance is not a civil matter between you and your employee — cantonal labour inspectorates enforce the L-GAV and can impose administrative sanctions. Before you draft employment contracts, read the current L-GAV. This applies even if you are setting up a small owner-operated café.
 
-To ensure your company is properly constituted before applying for the Wirtepatent, see our guide on [starting a business in Switzerland](/blog/start-business-switzerland/) and [company formation in Switzerland](/blog/company-formation-switzerland/).
+To ensure your company is properly constituted before applying for the Wirtepatent, see our guide on [starting a business in Switzerland](/company-formation/start-business-switzerland/) and [company formation in Switzerland](/company-formation/company-formation-switzerland/).
 
 ---
 
@@ -193,13 +193,13 @@ The **Bedürfnisnachweis** — the old requirement to prove the neighbourhood ne
 
 **Zug**: a relatively streamlined process; the Volkswirtschaftsdirektion handles commercial licensing efficiently and response times are short.
 
-If you are also setting up a company to operate the business, [company formation in Zug](/blog/company-formation-zug/) or [company formation in Zurich](/blog/company-formation-zurich/) may be relevant depending on where your establishment is located.
+If you are also setting up a company to operate the business, [company formation in Zug](/company-formation/company-formation-zug/) or [company formation in Zurich](/company-formation/company-formation-zurich/) may be relevant depending on where your establishment is located.
 
 ---
 
 ## VAT Considerations
 
-Restaurant and hotel turnover is subject to Swiss VAT. The reduced VAT rate applies to food and non-alcoholic beverages for take-away; the standard rate applies to on-premises food service, alcohol, and accommodation (with some nuances for breakfast). If your annual turnover is expected to exceed CHF 100,000, VAT registration is mandatory before you open. See our [VAT Switzerland guide](/blog/vat-switzerland/) for the registration process and our [VAT registration guide](/blog/vat-registration-switzerland/) for step-by-step instructions.
+Restaurant and hotel turnover is subject to Swiss VAT. The reduced VAT rate applies to food and non-alcoholic beverages for take-away; the standard rate applies to on-premises food service, alcohol, and accommodation (with some nuances for breakfast). If your annual turnover is expected to exceed CHF 100,000, VAT registration is mandatory before you open. See our [VAT Switzerland guide](/tax-accounting/vat-switzerland/) for the registration process and our [VAT registration guide](/tax-accounting/vat-registration-switzerland/) for step-by-step instructions.
 
 ---
 
@@ -220,7 +220,7 @@ Restaurant and hotel turnover is subject to Swiss VAT. The reduced VAT rate appl
 10. Obtain any additional permits (alcohol, music, events) as required
 11. Register for cantonal tourism tax if operating overnight accommodation
 12. Draft employment contracts compliant with the L-GAV
-13. Register for [VAT](/blog/vat-registration-switzerland/) if turnover will exceed CHF 100,000
+13. Register for [VAT](/tax-accounting/vat-registration-switzerland/) if turnover will exceed CHF 100,000
 
 ---
 

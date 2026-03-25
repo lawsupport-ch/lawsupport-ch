@@ -3,7 +3,7 @@ title: "Due Diligence Switzerland: Process & Risks (2026)"
 description: "Swiss due diligence for M&A: legal, financial, tax, regulatory, and IP streams. Red flags, timelines, and Swiss-specific risks. Lawsupport, Zug."
 date: "19.03.2026"
 category: "Corporate Transactions"
-categoryHref: "/blog/"
+categoryHref: "/corporate-transactions/"
 readTime: "9 min read"
 tocItems:
   - id: "what-due-diligence-is-and-why-it-cannot-be-skipped"
@@ -31,7 +31,7 @@ Due diligence is the systematic investigation a buyer conducts before signing a 
 
 In a Swiss context, that last point is particularly important. Swiss law does not provide generous statutory protections to buyers of going-concern businesses. If a risk is discoverable during due diligence and the buyer fails to find it, courts will be unsympathetic to warranty claims later. The principle of *caveat emptor* is not absolute under Swiss law, but known or knowable risks that a buyer could reasonably have investigated will reduce warranty recovery. Thorough due diligence is therefore both a business requirement and a legal risk management exercise.
 
-Swiss M&A due diligence typically divides into five parallel workstreams: legal, financial, tax, regulatory/compliance, and intellectual property (IP)/technology. On smaller SME transactions, legal and tax are sometimes merged. On complex or regulated targets, each workstream runs independently with dedicated specialists. The starting point for corporate due diligence is the entry in the [Commercial Register](/blog/commercial-register-switzerland/), which confirms the target's legal status, directors, and share capital. Company filings can be verified at <a href="https://www.zefix.ch" target="_blank" rel="nofollow noopener">zefix.ch</a>, the federal commercial register search platform.
+Swiss M&A due diligence typically divides into five parallel workstreams: legal, financial, tax, regulatory/compliance, and intellectual property (IP)/technology. On smaller SME transactions, legal and tax are sometimes merged. On complex or regulated targets, each workstream runs independently with dedicated specialists. The starting point for corporate due diligence is the entry in the [Commercial Register](/company-formation/commercial-register-switzerland/), which confirms the target's legal status, directors, and share capital. Company filings can be verified at <a href="https://www.zefix.ch" target="_blank" rel="nofollow noopener">zefix.ch</a>, the federal commercial register search platform.
 
 ---
 
@@ -41,7 +41,7 @@ Swiss M&A due diligence typically divides into five parallel workstreams: legal,
 
 Legal due diligence examines the company's formal standing, its contractual obligations, its workforce, and any litigation exposure.
 
-**Corporate structure.** The starting point is the [Commercial Register](/blog/commercial-register-switzerland/) (*Handelsregister*) extract, which confirms legal form, registered address, share capital, directors, and authorised signatories. For a GmbH, the register also shows the shareholder list. Review the articles of association (*Statuten*), shareholder agreements, and any shareholders' resolutions affecting capital structure or profit distribution. Confirm that any capital increases or transfers of quota/shares were validly executed under Swiss corporate law (CO Art. 774 ff. for GmbH, CO Art. 652 ff. for AG).
+**Corporate structure.** The starting point is the [Commercial Register](/company-formation/commercial-register-switzerland/) (*Handelsregister*) extract, which confirms legal form, registered address, share capital, directors, and authorised signatories. For a GmbH, the register also shows the shareholder list. Review the articles of association (*Statuten*), shareholder agreements, and any shareholders' resolutions affecting capital structure or profit distribution. Confirm that any capital increases or transfers of quota/shares were validly executed under Swiss corporate law (CO Art. 774 ff. for GmbH, CO Art. 652 ff. for AG).
 
 **Contracts.** Identify all material customer and supplier contracts. The critical question is whether those contracts contain change-of-control provisions: if the acquisition triggers a right for the counterparty to terminate, the deal economics can collapse post-closing. Many Swiss SME contracts are short-form and may not include such clauses — but exclusive distribution agreements and long-term supply contracts frequently do. Confirm also whether key contracts are validly assignable or require third-party consent.
 
@@ -71,7 +71,7 @@ Tax is where Swiss-specific issues are most likely to generate material findings
 
 **Corporate income tax.** Request the last three to five years of cantonal and federal tax filings. Open assessments (*offene Veranlagungen*) and outstanding tax objections are contingent liabilities. Confirm whether any tax loss carry-forwards exist — in Switzerland these are carried forward for seven years and are transferable within certain limits.
 
-**VAT.** Swiss VAT applies at 8.1% (standard rate as of 2024), 3.8% (accommodation), and 2.6% (reduced). Review VAT filing history, payment records, and whether the company has been subject to an ESTV VAT audit. Errors in input tax recovery and in cross-border service treatment are common. See our [VAT Switzerland](/blog/vat-switzerland/) guide for the applicable rules.
+**VAT.** Swiss VAT applies at 8.1% (standard rate as of 2024), 3.8% (accommodation), and 2.6% (reduced). Review VAT filing history, payment records, and whether the company has been subject to an ESTV VAT audit. Errors in input tax recovery and in cross-border service treatment are common. See our [VAT Switzerland](/tax-accounting/vat-switzerland/) guide for the applicable rules.
 
 **AHV and social insurance.** Payroll compliance covers AHV/IV/EO, ALV, and cantonal family allowances. Misclassification of contractors as self-employed is a recurring issue. Swiss compensation offices can raise retroactive AHV claims going back up to five years; in cases of gross negligence, longer periods apply.
 
@@ -79,7 +79,7 @@ Tax is where Swiss-specific issues are most likely to generate material findings
 
 **International structures.** For targets with foreign subsidiaries or cross-border service flows, assess permanent establishment risk, treaty eligibility, and whether any BEPS-related adjustments are pending. Switzerland's participation in the OECD Pillar Two global minimum tax (applicable from 2024) is relevant for groups with consolidated revenue above EUR 750 million.
 
-For a detailed overview of Swiss [corporate tax](/blog/corporate-tax-switzerland/) structures, see our dedicated guide. The ESTV publishes tax circular letters and guidance at <a href="https://www.estv.admin.ch" target="_blank" rel="nofollow noopener">estv.admin.ch</a>.
+For a detailed overview of Swiss [corporate tax](/tax-accounting/corporate-tax-switzerland/) structures, see our dedicated guide. The ESTV publishes tax circular letters and guidance at <a href="https://www.estv.admin.ch" target="_blank" rel="nofollow noopener">estv.admin.ch</a>.
 
 ### 4. Regulatory and Compliance Due Diligence
 
@@ -97,7 +97,7 @@ IP due diligence confirms that the assets generating value are actually owned by
 
 Check Swiss trademark registrations (IGE/IPI), patent registrations, and domain ownership. For software businesses, review third-party component licences and any open-source obligations — GPL, LGPL, and AGPL licences impose specific requirements that can affect commercialisation. Confirm that all developers (employees and contractors) have signed IP assignment agreements. In Switzerland, employee inventions made in the course of employment belong to the employer under CO Art. 332 — but contractor-developed IP does not transfer automatically.
 
-For [IP protection in Switzerland](/blog/ip-protection-switzerland/) and [trademark registration](/blog/trademark-registration-switzerland/), see our dedicated guides.
+For [IP protection in Switzerland](/intellectual-property/ip-protection-switzerland/) and [trademark registration](/intellectual-property/trademark-registration-switzerland/), see our dedicated guides.
 
 ---
 
@@ -154,7 +154,7 @@ The most significant red flags are: missing or incomplete AHV records or misclas
 
 **What is verdeckte Gewinnausschüttung in Swiss tax due diligence?**
 
-A verdeckte Gewinnausschüttung (hidden profit distribution) occurs where a shareholder receives economic benefit from the company through transactions at below-market prices or other favourable terms that would not be granted to an unrelated party. The ESTV will recharacterise the benefit as a taxable distribution and assess both [corporate tax](/blog/corporate-tax-switzerland/) on the disallowed expense and 35% [withholding tax](/blog/withholding-tax-switzerland/) on the imputed dividend.
+A verdeckte Gewinnausschüttung (hidden profit distribution) occurs where a shareholder receives economic benefit from the company through transactions at below-market prices or other favourable terms that would not be granted to an unrelated party. The ESTV will recharacterise the benefit as a taxable distribution and assess both [corporate tax](/tax-accounting/corporate-tax-switzerland/) on the disallowed expense and 35% [withholding tax](/tax-accounting/withholding-tax-switzerland/) on the imputed dividend.
 
 **What is confirmatory due diligence in Switzerland?**
 
@@ -176,7 +176,7 @@ Under Swiss law, a buyer who could reasonably have discovered a risk during due 
 
 ## Request a Free Assessment
 
-For Swiss M&A transactions, [company structuring advice](/blog/company-formation-switzerland/), or detailed due diligence support, contact Lawsupport directly.
+For Swiss M&A transactions, [company structuring advice](/company-formation/company-formation-switzerland/), or detailed due diligence support, contact Lawsupport directly.
 
 [Request a Free Assessment](/contacts/)
 

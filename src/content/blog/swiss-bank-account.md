@@ -4,7 +4,7 @@ description: "Open a Swiss bank account as a foreigner or non-resident. Requirem
 date: "19.03.2026"
 publishDate: "2026-06-14"
 category: "Banking & Finance"
-categoryHref: "/blog/"
+categoryHref: "/banking/"
 readTime: "14 min read"
 faqItems:
   - question: "Can a non-resident open a Swiss bank account?"
@@ -43,13 +43,13 @@ tocItems:
 
 Swiss banks reject 20 to 30 percent of foreign company account applications outright, often without explanation. For individual foreigners and non-residents, the rejection rate at major banks is similarly high. Yet Swiss bank accounts remain among the most sought-after financial assets in the world, for good reason: political stability, a hard currency, <a href="https://www.finma.ch/en/" target="_blank" rel="nofollow noopener">FINMA</a> oversight, and access to private banking services that most jurisdictions cannot replicate.
 
-This guide explains exactly how to open a Swiss bank account as a foreigner, what documents you need, which banks are most accessible, how long the process takes, and where applications typically fail. Whether you need a personal account, a [corporate account](/blog/corporate-bank-account-switzerland/) for your Swiss GmbH, or a [capital deposit account](/blog/capital-deposit-account-switzerland/) for incorporation, every step is covered here.
+This guide explains exactly how to open a Swiss bank account as a foreigner, what documents you need, which banks are most accessible, how long the process takes, and where applications typically fail. Whether you need a personal account, a [corporate account](/banking/corporate-bank-account-switzerland/) for your Swiss GmbH, or a [capital deposit account](/banking/capital-deposit-account-switzerland/) for incorporation, every step is covered here.
 
 ---
 
 ## What Makes a Swiss Bank Account Worth Pursuing
 
-Switzerland has 239 licenced banks under Swiss Financial Market Supervisory Authority (FINMA) regulation. The country holds roughly 25 percent of global cross-border private wealth, and the Swiss franc has maintained purchasing power against major currencies for decades. These are not myths or marketing claims; they are structural facts about the [Swiss financial system](/blog/swiss-banking-system/).
+Switzerland has 239 licenced banks under Swiss Financial Market Supervisory Authority (FINMA) regulation. The country holds roughly 25 percent of global cross-border private wealth, and the Swiss franc has maintained purchasing power against major currencies for decades. These are not myths or marketing claims; they are structural facts about the [Swiss financial system](/banking/swiss-banking-system/).
 
 For foreign entrepreneurs and investors, a Swiss bank account provides:
 
@@ -58,7 +58,7 @@ For foreign entrepreneurs and investors, a Swiss bank account provides:
 - **Discreet, professionally managed relationships** at private banks, starting at CHF 500'000 in assets
 - **Multicurrency accounts** (EUR, USD, GBP, CHF) in a single banking relationship
 - **IBAN credibility**: a CH-prefix IBAN signals financial substance to international counterparties
-- **Integration with Swiss corporate structure**: essential if you are [forming a GmbH](/blog/gmbh-formation-switzerland/) or AG
+- **Integration with Swiss corporate structure**: essential if you are [forming a GmbH](/company-formation/gmbh-formation-switzerland/) or AG
 
 One point foreign applicants often underestimate: Swiss banks are not obligated to accept any customer. Since the FINMA Anti-Money Laundering Act (AMLA) revisions in 2016 and the FATF-aligned reforms of 2022, Swiss banks conduct full KYC and source-of-funds verification before opening any account for a non-resident or foreign national. Banks bear direct liability for onboarding clients they cannot adequately verify. This is why preparation and documentation matter more than almost any other factor.
 
@@ -72,11 +72,11 @@ Not all accounts are created equal. Understanding which account type you need sa
 
 Standard retail accounts (Privatkonto or Sparkonto) for day-to-day transactions and savings. Available at cantonal banks, PostFinance, UBS, Credit Suisse (now integrated into UBS), and Raiffeisen. Most require Swiss residency, though several cantonal banks and PostFinance will open accounts for EU/EEA residents with strong ties to Switzerland.
 
-For non-residents without Swiss residency, options narrow considerably. Online banks (Neon, Yuh, Zak) require a Swiss address or permit. The practical alternatives for non-resident individuals are either [private banking](/blog/private-banking-switzerland/) relationships (minimum CHF 250'000 to 500'000 in assets) or fintech solutions such as Wise or Revolut, which offer CHF accounts with CH IBANs at lower compliance thresholds.
+For non-residents without Swiss residency, options narrow considerably. Online banks (Neon, Yuh, Zak) require a Swiss address or permit. The practical alternatives for non-resident individuals are either [private banking](/banking/private-banking-switzerland/) relationships (minimum CHF 250'000 to 500'000 in assets) or fintech solutions such as Wise or Revolut, which offer CHF accounts with CH IBANs at lower compliance thresholds.
 
 ### Corporate Bank Accounts
 
-A [corporate bank account](/blog/corporate-bank-account-switzerland/) is mandatory for any Swiss legal entity. Every GmbH and AG must maintain a Swiss business account for payroll, VAT, and commercial transactions. Banks require the company to be properly registered in the Handelsregister (commercial register) before account opening, which means the corporate account is opened after notarisation but sometimes simultaneously via a two-step capital deposit process.
+A [corporate bank account](/banking/corporate-bank-account-switzerland/) is mandatory for any Swiss legal entity. Every GmbH and AG must maintain a Swiss business account for payroll, VAT, and commercial transactions. Banks require the company to be properly registered in the Handelsregister (commercial register) before account opening, which means the corporate account is opened after notarisation but sometimes simultaneously via a two-step capital deposit process.
 
 Corporate accounts at major Swiss banks carry monthly fees of CHF 20 to 80 plus transaction charges. Neobank business accounts (Neon Business, Swiss21) offer lower-cost alternatives, though they have lower cash deposit limits and fewer treasury services.
 
@@ -84,11 +84,11 @@ Corporate accounts at major Swiss banks carry monthly fees of CHF 20 to 80 plus 
 
 This is a specialised account used only during Swiss company incorporation. Before a GmbH or AG can be registered in the Handelsregister, the founding shareholders must deposit the minimum share capital into a blocked capital deposit account at a Swiss bank. For a GmbH, this is CHF 20'000. For an AG, it is CHF 100'000 (with at least CHF 50'000 paid in at incorporation).
 
-The bank issues a capital deposit confirmation (Einzahlungsbestaetigung), which the notary requires before certifying the deed of incorporation. Once the Handelsregister confirms registration, the blocked funds are released to the company's ordinary corporate account. Lawsupport manages this entire capital deposit process as part of its [formation service](/blog/company-formation-switzerland/), including the banking introduction required for non-resident founders. See our detailed guide on the [capital deposit account](/blog/capital-deposit-account-switzerland/).
+The bank issues a capital deposit confirmation (Einzahlungsbestaetigung), which the notary requires before certifying the deed of incorporation. Once the Handelsregister confirms registration, the blocked funds are released to the company's ordinary corporate account. Lawsupport manages this entire capital deposit process as part of its [formation service](/company-formation/company-formation-switzerland/), including the banking introduction required for non-resident founders. See our detailed guide on the [capital deposit account](/banking/capital-deposit-account-switzerland/).
 
 ### Private Banking Accounts
 
-Switzerland's [private banking](/blog/private-banking-switzerland/) sector serves high-net-worth individuals with assets typically starting at CHF 250'000 to 500'000 (Julius Baer, Pictet, Lombard Odier) or CHF 1 million and above (Vontobel, Bank J. Safra Sarasin). These relationships offer asset management, estate planning, and currency services not available through retail banking. Non-residents are welcomed, compliance is rigorous but experienced, and relationship managers typically speak English, French, German, and often Mandarin or Arabic.
+Switzerland's [private banking](/banking/private-banking-switzerland/) sector serves high-net-worth individuals with assets typically starting at CHF 250'000 to 500'000 (Julius Baer, Pictet, Lombard Odier) or CHF 1 million and above (Vontobel, Bank J. Safra Sarasin). These relationships offer asset management, estate planning, and currency services not available through retail banking. Non-residents are welcomed, compliance is rigorous but experienced, and relationship managers typically speak English, French, German, and often Mandarin or Arabic.
 
 ---
 
@@ -108,7 +108,7 @@ US citizens face specific additional requirements under FATCA. Not all Swiss ban
 
 ### For Corporate Accounts
 
-- **Handelsregister extract** ([commercial register](/blog/commercial-register-switzerland/) excerpt), certified and apostilled if issued outside Switzerland
+- **Handelsregister extract** ([commercial register](/company-formation/commercial-register-switzerland/) excerpt), certified and apostilled if issued outside Switzerland
 - **Articles of association** (Statuten)
 - **Shareholder register** (Aktionaersbuch or Gesellschafterliste)
 - **UBO (Ultimate Beneficial Owner) declaration**: full names, nationalities, addresses, and ownership percentages of all persons holding more than 25 percent
@@ -153,7 +153,7 @@ Once approved, the bank issues account credentials and a CH-prefix IBAN. Corpora
 
 ## Corporate Bank Accounts: The Hardest Part of Swiss Company Formation
 
-Opening a [corporate bank account in Switzerland](/blog/corporate-bank-account-switzerland/) is consistently described by foreign founders as the most difficult step in the entire [formation process](/blog/company-formation-switzerland/). This is not an exaggeration. Major banks, particularly UBS and ZKB, have significantly tightened their onboarding criteria for foreign-owned companies since 2020. Requirements include demonstrated Swiss business activity, an existing client relationship, or referral from a recognised professional services firm.
+Opening a [corporate bank account in Switzerland](/banking/corporate-bank-account-switzerland/) is consistently described by foreign founders as the most difficult step in the entire [formation process](/company-formation/company-formation-switzerland/). This is not an exaggeration. Major banks, particularly UBS and ZKB, have significantly tightened their onboarding criteria for foreign-owned companies since 2020. Requirements include demonstrated Swiss business activity, an existing client relationship, or referral from a recognised professional services firm.
 
 **Why banks reject foreign companies:**
 
@@ -164,7 +164,7 @@ Opening a [corporate bank account in Switzerland](/blog/corporate-bank-account-s
 5. **Sanctions exposure**: directors or shareholders connected to sanctioned individuals or entities
 6. **Prior rejections**: banks share some information through FINMA reporting; multiple rejections can compound
 
-For foreign-owned GmbHs, a professional introduction from a licenced Swiss lawyer significantly improves acceptance rates. Lawsupport has maintained banking relationships with multiple Swiss institutions since 2007 and provides formal introductions as part of the [company formation Switzerland](/blog/company-formation-switzerland/) service. This distinction — a cold application versus a professionally introduced application — is often the difference between approval and rejection.
+For foreign-owned GmbHs, a professional introduction from a licenced Swiss lawyer significantly improves acceptance rates. Lawsupport has maintained banking relationships with multiple Swiss institutions since 2007 and provides formal introductions as part of the [company formation Switzerland](/company-formation/company-formation-switzerland/) service. This distinction — a cold application versus a professionally introduced application — is often the difference between approval and rejection.
 
 ### Mini-story: Arjun's GmbH in Zug
 
@@ -202,7 +202,7 @@ The summary below covers the most relevant options for foreign individuals and c
 | Swiss21 | Neobank | N/A | Swiss-reg. companies | CHF 0 | Yes |
 | Wise (e-money) | Fintech | Yes, non-residents | Yes | CHF 0 | Yes |
 
-For most foreign entrepreneurs forming a [GmbH](/blog/gmbh-formation-switzerland/) in [Zug](/blog/company-formation-zug/) or [Zurich](/blog/company-formation-zurich/), the optimal strategy is: open a neobank account (Neon Business or Swiss21) for immediate operational banking, then apply to a cantonal bank for a full-service relationship once 3 to 6 months of Swiss business activity can be documented.
+For most foreign entrepreneurs forming a [GmbH](/company-formation/gmbh-formation-switzerland/) in [Zug](/company-formation/company-formation-zug/) or [Zurich](/company-formation/company-formation-zurich/), the optimal strategy is: open a neobank account (Neon Business or Swiss21) for immediate operational banking, then apply to a cantonal bank for a full-service relationship once 3 to 6 months of Swiss business activity can be documented.
 
 ---
 
@@ -223,7 +223,7 @@ US persons must file FinCEN Form 114 (FBAR) annually if their aggregate foreign 
 
 ## Corporate Bank Account Switzerland: Connecting Formation to Banking
 
-If you are forming a Swiss company, the banking timeline is integrated into the overall [formation process](/blog/start-business-switzerland/). Here is how it connects:
+If you are forming a Swiss company, the banking timeline is integrated into the overall [formation process](/company-formation/start-business-switzerland/). Here is how it connects:
 
 1. **Pre-formation**: Lawsupport introduces founders to a Swiss bank before notarisation. The bank reviews founders' KYC documents and pre-approves the account in principle.
 2. **Capital deposit**: Founders transfer CHF 20'000 (GmbH) or CHF 50'000+ (AG) to the blocked capital deposit account. Bank issues the Einzahlungsbestaetigung.
@@ -234,7 +234,7 @@ If you are forming a Swiss company, the banking timeline is integrated into the 
 
 This integrated process is why Lawsupport's company formation service includes banking introduction as a standard component, not an add-on. Attempting to open the capital deposit account without a professional introduction adds 2 to 4 weeks to the timeline and risks rejection that delays the entire formation.
 
-For a full breakdown of costs and structure, see our guide to [Swiss corporate tax](/blog/corporate-tax-switzerland/) and how Swiss [holding structures](/blog/holding-company-switzerland/) interact with banking relationships.
+For a full breakdown of costs and structure, see our guide to [Swiss corporate tax](/tax-accounting/corporate-tax-switzerland/) and how Swiss [holding structures](/company-formation/holding-company-switzerland/) interact with banking relationships.
 
 ---
 
@@ -299,7 +299,7 @@ A Swiss bank account at a FINMA-licenced institution provides esisuisse deposit 
 - Swiss banks reject 20 to 30 percent of foreign company account applications; preparation and professional introduction are decisive
 - The standard opening timeline is 4 to 8 weeks for corporate accounts and 1 to 2 weeks for neobank accounts
 - Non-residents need either private banking minimums, a Swiss company, or a fintech alternative for practical access
-- The [capital deposit account](/blog/capital-deposit-account-switzerland/) is a mandatory step for GmbH and AG formation; it must be opened before notarisation
+- The [capital deposit account](/banking/capital-deposit-account-switzerland/) is a mandatory step for GmbH and AG formation; it must be opened before notarisation
 - US persons face FATCA restrictions but have options through UBS Private Banking and fintech platforms
 - A power of attorney eliminates the need to travel to Switzerland for non-resident account openings
 - Lawsupport's professional introductions and 18 years of Swiss banking relationships make the difference between approval and rejection

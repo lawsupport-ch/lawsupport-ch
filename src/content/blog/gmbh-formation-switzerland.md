@@ -4,7 +4,7 @@ description: "Form a Swiss GmbH in 2–4 weeks. CHF 20,000 minimum capital, no t
 date: "19.03.2026"
 publishDate: "2026-04-01"
 category: "Company Formation"
-categoryHref: "/services/company-formation/"
+categoryHref: "/company-formation/"
 readTime: "9 min read"
 faqItems:
   - question: "How long does GmbH formation in Switzerland take?"
@@ -57,7 +57,7 @@ Most founders who contact us about GmbH formation Switzerland assume the hardest
 
 A GmbH (Gesellschaft mit beschränkter Haftung) is Switzerland's equivalent of a limited liability company. It sits between a sole proprietorship and a full Aktiengesellschaft (AG) on the scale of complexity and cost. Shareholders are liable only up to their capital contribution; personal assets are protected. The legal basis is the Swiss Code of Obligations (OR/CO), Articles 772 to 827.
 
-If you are weighing the two main corporate structures, our [Swiss AG vs GmbH comparison](/blog/ag-formation-switzerland/) covers the decision in detail. The short version: a GmbH is typically the right choice for SMEs, service businesses, startups, and foreign groups establishing a Swiss subsidiary, provided that shareholder privacy is not a primary concern.
+If you are weighing the two main corporate structures, our [Swiss AG vs GmbH comparison](/company-formation/ag-formation-switzerland/) covers the decision in detail. The short version: a GmbH is typically the right choice for SMEs, service businesses, startups, and foreign groups establishing a Swiss subsidiary, provided that shareholder privacy is not a primary concern.
 
 ---
 
@@ -74,7 +74,7 @@ Before starting the formation process, you need to understand what you are build
 
 **Share transfers require a notarial deed.** You cannot sell or transfer your GmbH share via a simple contract. Every transfer must be executed before a notary, which adds friction but also protects existing shareholders from unwanted new members.
 
-**At least one managing director must be resident in Switzerland.** Under Article 718 of the <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en" target="_blank" rel="nofollow noopener">Code of Obligations</a>, at least one person with individual signatory rights must be domiciled in Switzerland. If no founder lives here, a [Swiss nominee director](/blog/nominee-director-switzerland/) can satisfy this requirement.
+**At least one managing director must be resident in Switzerland.** Under Article 718 of the <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en" target="_blank" rel="nofollow noopener">Code of Obligations</a>, at least one person with individual signatory rights must be domiciled in Switzerland. If no founder lives here, a [Swiss nominee director](/corporate-services/nominee-director-switzerland/) can satisfy this requirement.
 
 **Notarisation is required.** The articles of association (Gesellschaftsvertrag) must be executed before a public notary. This is not optional and cannot be done remotely via a foreign notary.
 
@@ -115,9 +115,9 @@ Missing or incorrectly prepared Stampa Declarations cause the Commercial Registe
 
 ### Step 4: Open a Capital Deposit Account
 
-Before the notarisation can take place, the share capital (CHF 20,000 minimum) must be deposited in a special [capital deposit account](/blog/capital-deposit-account-switzerland/) (Kapitaleinzahlungskonto) at a Swiss bank. This is not a regular business account. The bank will issue a blocking confirmation letter, which the notary requires.
+Before the notarisation can take place, the share capital (CHF 20,000 minimum) must be deposited in a special [capital deposit account](/banking/capital-deposit-account-switzerland/) (Kapitaleinzahlungskonto) at a Swiss bank. This is not a regular business account. The bank will issue a blocking confirmation letter, which the notary requires.
 
-Opening this account has become more complex since 2022, as Swiss banks apply enhanced due diligence to newly forming entities. Our team coordinates directly with several banking partners to accelerate this step. For guidance on the broader banking picture, see our page on [corporate bank accounts in Switzerland](/blog/corporate-bank-account-switzerland/).
+Opening this account has become more complex since 2022, as Swiss banks apply enhanced due diligence to newly forming entities. Our team coordinates directly with several banking partners to accelerate this step. For guidance on the broader banking picture, see our page on [corporate bank accounts in Switzerland](/banking/corporate-bank-account-switzerland/).
 
 ### Step 5: Notarisation
 
@@ -127,14 +127,14 @@ Notary fees for a standard GmbH formation in Switzerland range from CHF 800 to C
 
 ### Step 6: Commercial Register Application
 
-The notary or your legal representative files the registration application with the cantonal [Commercial Register](/blog/commercial-register-switzerland/). The application includes:
+The notary or your legal representative files the registration application with the cantonal [Commercial Register](/company-formation/commercial-register-switzerland/). The application includes:
 
 - Certified articles of association
 - Stampa Declaration(s)
 - Capital deposit confirmation
 - Details of managing directors and signatures
 
-The Commercial Register fee is approximately CHF 600 for a standard GmbH. Registrations in Zug, our home canton, are processed efficiently, which is one reason [Zug canton](/blog/company-formation-zug/) remains popular with international founders.
+The Commercial Register fee is approximately CHF 600 for a standard GmbH. Registrations in Zug, our home canton, are processed efficiently, which is one reason [Zug canton](/company-formation/company-formation-zug/) remains popular with international founders.
 
 ### Step 7: Capital Release and Account Conversion
 
@@ -190,7 +190,7 @@ The GmbH suits you if:
 - You are comfortable with public shareholder disclosure
 - You do not plan to raise equity from many investors or pursue a public listing
 
-If investor rounds, strict shareholder anonymity, or a larger capital base are on the agenda, our [Swiss AG formation guide](/blog/ag-formation-switzerland/) will help you think through the decision properly. You may also want to read about [holding company structures in Switzerland](/blog/holding-company-switzerland/) if group ownership is part of your plan.
+If investor rounds, strict shareholder anonymity, or a larger capital base are on the agenda, our [Swiss AG formation guide](/company-formation/ag-formation-switzerland/) will help you think through the decision properly. You may also want to read about [holding company structures in Switzerland](/company-formation/holding-company-switzerland/) if group ownership is part of your plan.
 
 ---
 
@@ -198,7 +198,7 @@ If investor rounds, strict shareholder anonymity, or a larger capital base are o
 
 Marta Kolovic, head of European expansion at a Slovenian software company, needed a Swiss GmbH registered within four weeks before a key contract could be signed with a Zurich-based client. The client's procurement policy required a Switzerland-registered entity as counterparty. Her company had no Swiss residents on its team.
 
-We arranged a Swiss nominee director through our [nominee director service](/blog/nominee-director-switzerland/), drafted articles with a technology services purpose clause, coordinated the capital deposit with a cantonal bank, and filed the registration application following notarisation on day 11. The GmbH appeared in the Commercial Register on day 22. The contract was signed on day 28.
+We arranged a Swiss nominee director through our [nominee director service](/corporate-services/nominee-director-switzerland/), drafted articles with a technology services purpose clause, coordinated the capital deposit with a cantonal bank, and filed the registration application following notarisation on day 11. The GmbH appeared in the Commercial Register on day 22. The contract was signed on day 28.
 
 Speed was only possible because every document was prepared correctly the first time.
 
@@ -214,7 +214,7 @@ This is the single most common practical obstacle for foreign founders. Article 
 1. Appoint a Swiss-resident employee as managing director
 2. Engage a professional nominee director service
 
-A nominee director is a licensed professional who holds the directorship and Swiss signatory rights on behalf of the company under a clearly defined contractual arrangement. The beneficial owner retains full operational control. This is a standard, legally compliant practice widely used by international businesses establishing Swiss entities. Learn more on our [Swiss nominee director page](/blog/nominee-director-switzerland/).
+A nominee director is a licensed professional who holds the directorship and Swiss signatory rights on behalf of the company under a clearly defined contractual arrangement. The beneficial owner retains full operational control. This is a standard, legally compliant practice widely used by international businesses establishing Swiss entities. Learn more on our [Swiss nominee director page](/corporate-services/nominee-director-switzerland/).
 
 ---
 
@@ -227,7 +227,7 @@ GmbH taxation in Switzerland operates at three levels: federal, cantonal, and mu
 
 GmbH profits are subject to corporate income tax. Distributions to shareholders are taxed as dividend income at the shareholder level, creating economic double taxation, though participation relief (Beteiligungsabzug) may apply when a GmbH holds significant stakes in subsidiaries.
 
-For a full breakdown of rates, cantonal variations, and holding structures, see our guide to [corporate tax in Switzerland](/blog/corporate-tax-switzerland/). You can also compare rates across cantons in our [cantonal tax comparison](/blog/cantonal-tax-comparison-switzerland/).
+For a full breakdown of rates, cantonal variations, and holding structures, see our guide to [corporate tax in Switzerland](/tax-accounting/corporate-tax-switzerland/). You can also compare rates across cantons in our [cantonal tax comparison](/tax-accounting/cantonal-tax-comparison-switzerland/).
 
 ---
 
@@ -260,7 +260,7 @@ No travel is required. Founders can authorise us by power of attorney to act on 
 - **Email:** info@lawsupport.ch
 - **Address:** Grafenauweg 4, Zug, Switzerland
 
-For context on how the GmbH fits within the broader Swiss corporate framework, start with our guide to [company formation in Switzerland](/blog/company-formation-switzerland/).
+For context on how the GmbH fits within the broader Swiss corporate framework, start with our guide to [company formation in Switzerland](/company-formation/company-formation-switzerland/).
 
 ---
 

@@ -3,7 +3,7 @@ title: "Best Swiss Banks for Foreigners: Business Guide"
 description: "Match your company profile to the right Swiss bank. Based on 18+ years of account openings for 40+ nationalities. Free assessment available."
 date: "19.03.2026"
 category: "Banking & Finance"
-categoryHref: "/blog/"
+categoryHref: "/banking/"
 readTime: "9 min read"
 tocItems:
   - id: "why-bank-selection-matters-more-than-you-think"
@@ -90,7 +90,7 @@ Choosing the best Swiss bank for foreigners is not a matter of picking the most 
 
 Apply to the wrong bank and you will wait four to eight weeks for a rejection. Apply to the right bank and you can have a fully functional CHF account within a similar timeframe. This guide is built on 18 years of opening Swiss bank accounts for foreign-owned companies registered across 40+ nationalities. We tell you what actually works in 2026, not what the bank's brochure says.
 
-If you are looking for a foundational overview of the process, start with our [Swiss bank account guide](/blog/swiss-bank-account/). For the specific documentation requirements, see our [corporate bank account Switzerland page](/blog/corporate-bank-account-switzerland/).
+If you are looking for a foundational overview of the process, start with our [Swiss bank account guide](/banking/swiss-bank-account/). For the specific documentation requirements, see our [corporate bank account Switzerland page](/banking/corporate-bank-account-switzerland/).
 
 ---
 
@@ -106,7 +106,7 @@ The right approach — and the approach we use at Lawsupport — is to profile t
 
 ## The Swiss Banking System: A Practical Overview
 
-For a deeper look at the overall structure of Swiss banking regulation, see our [Swiss banking system guide](/blog/swiss-banking-system/).
+For a deeper look at the overall structure of Swiss banking regulation, see our [Swiss banking system guide](/banking/swiss-banking-system/).
 
 ### Big Banks
 
@@ -126,7 +126,7 @@ Cantonal banks are relationship-driven institutions. They serve the economic int
 
 ### Private and Wealth Banks
 
-**Pictet**, **Lombard Odier**, **Julius Baer**, and **EFG International** operate in a different tier. These are relationship banks serving high-net-worth individuals and family offices. They are not retail product providers. Most require a minimum investable asset threshold of CHF 500,000 to CHF 1 million or more to initiate a private banking relationship. Julius Baer can also serve as a banking counterparty for larger corporate structures with significant shareholders. For a full breakdown of the private banking tier, see our [private banking Switzerland guide](/blog/private-banking-switzerland/).
+**Pictet**, **Lombard Odier**, **Julius Baer**, and **EFG International** operate in a different tier. These are relationship banks serving high-net-worth individuals and family offices. They are not retail product providers. Most require a minimum investable asset threshold of CHF 500,000 to CHF 1 million or more to initiate a private banking relationship. Julius Baer can also serve as a banking counterparty for larger corporate structures with significant shareholders. For a full breakdown of the private banking tier, see our [private banking Switzerland guide](/banking/private-banking-switzerland/).
 
 ### Neo-Banking and Fintech
 
@@ -184,7 +184,7 @@ AMINA and Sygnum are built for exactly this client profile. If your business is 
 
 The US Foreign Account Tax Compliance Act requires Swiss banks to report account data for US persons to the IRS. Many smaller cantonal banks have made a deliberate business decision not to invest in FATCA reporting infrastructure, which means they have also made a decision not to serve US-person clients. Presenting as a US citizen or green card holder to an unprepared institution wastes everyone's time.
 
-UBS has FATCA compliance at institutional scale. Some of the larger cantonal banks — ZKB among them — have also invested in this capacity. For a more detailed breakdown of US-specific considerations, see our dedicated page on [opening a Swiss bank account as a US person](/blog/open-swiss-bank-account-us/).
+UBS has FATCA compliance at institutional scale. Some of the larger cantonal banks — ZKB among them — have also invested in this capacity. For a more detailed breakdown of US-specific considerations, see our dedicated page on [opening a Swiss bank account as a US person](/banking/open-swiss-bank-account-us/).
 
 **Expected timeline:** 6–10 weeks with a prepared FATCA-ready application.
 
@@ -244,7 +244,7 @@ Not every foreign company is bankable at a Swiss institution today. The warning 
 
 The <a href="https://www.snb.ch/en/the-snb/mandates-goals/financial-stability" target="_blank" rel="nofollow noopener">Swiss National Bank's financial stability framework</a> sets the broader regulatory environment within which all Swiss banks operate. Understanding that framework helps explain why banks apply the criteria they do.
 
-For a full breakdown of the most common reasons Swiss bank account applications fail, and how to address them before applying, see our [corporate bank account Switzerland guide](/blog/corporate-bank-account-switzerland/) and our [Swiss bank account for non-residents page](/blog/swiss-bank-account-non-residents/).
+For a full breakdown of the most common reasons Swiss bank account applications fail, and how to address them before applying, see our [corporate bank account Switzerland guide](/banking/corporate-bank-account-switzerland/) and our [Swiss bank account for non-residents page](/banking/swiss-bank-account-non-residents/).
 
 ---
 
@@ -376,7 +376,7 @@ Lawsupport (Morgan Hartley Consulting) has been opening Swiss bank accounts for 
 
 **Can a non-resident foreigner open a Swiss bank account for their company?**
 
-Yes. Swiss law does not prohibit non-residents from holding accounts at Swiss banks, and Swiss banks do serve foreign-owned companies. However, each bank sets its own eligibility criteria. Non-residency increases the depth of due diligence required, particularly around source of funds and the commercial rationale for banking in Switzerland. Our [Swiss bank account for non-residents](/blog/swiss-bank-account-non-residents/) page covers this in detail.
+Yes. Swiss law does not prohibit non-residents from holding accounts at Swiss banks, and Swiss banks do serve foreign-owned companies. However, each bank sets its own eligibility criteria. Non-residency increases the depth of due diligence required, particularly around source of funds and the commercial rationale for banking in Switzerland. Our [Swiss bank account for non-residents](/banking/swiss-bank-account-non-residents/) page covers this in detail.
 
 **How long does it take to open a Swiss business bank account as a foreigner?**
 
@@ -388,7 +388,7 @@ There is no universal answer because ease of access depends entirely on your pro
 
 **Do Swiss banks accept US citizens?**
 
-Yes, but not all of them. FATCA compliance is a prerequisite, and many smaller Swiss banks have chosen not to maintain the reporting infrastructure required to serve US persons. UBS and certain larger cantonal banks do accept US-person clients with the appropriate documentation. See our dedicated guide on [opening a Swiss bank account as a US person](/blog/open-swiss-bank-account-us/) for a full breakdown.
+Yes, but not all of them. FATCA compliance is a prerequisite, and many smaller Swiss banks have chosen not to maintain the reporting infrastructure required to serve US persons. UBS and certain larger cantonal banks do accept US-person clients with the appropriate documentation. See our dedicated guide on [opening a Swiss bank account as a US person](/banking/open-swiss-bank-account-us/) for a full breakdown.
 
 **What is the minimum deposit required to open a Swiss business bank account?**
 

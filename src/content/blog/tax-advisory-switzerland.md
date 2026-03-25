@@ -4,7 +4,7 @@ description: "Swiss corporate tax advisory for international clients: tax struct
 date: "19.03.2026"
 publishDate: "2026-07-30"
 category: "Tax & Accounting"
-categoryHref: "/blog/"
+categoryHref: "/tax-accounting/"
 readTime: "13 min read"
 faqItems:
   - question: "What is the difference between tax advisory and tax compliance?"
@@ -40,31 +40,31 @@ Tax advisory in the Swiss corporate context is not tax filing — it is strategi
 The areas where Swiss tax advisory has the greatest impact:
 
 **1. Entity structure and canton selection**
-The choice of canton is one of the most consequential tax decisions you make at [company formation](/blog/company-formation-switzerland/). The effective combined corporate tax rate varies from 11.8% (Zug) to 20.7% (Bern). For a company generating CHF 1 million in taxable profit annually, the difference between Zug and Zurich is approximately CHF 79,000 per year. Advice on this decision — which must be made before formation — is among the highest-return planning activities available. [See Swiss tax rates by canton](/blog/swiss-tax-rates-by-canton/)
+The choice of canton is one of the most consequential tax decisions you make at [company formation](/company-formation/company-formation-switzerland/). The effective combined corporate tax rate varies from 11.8% (Zug) to 20.7% (Bern). For a company generating CHF 1 million in taxable profit annually, the difference between Zug and Zurich is approximately CHF 79,000 per year. Advice on this decision — which must be made before formation — is among the highest-return planning activities available. [See Swiss tax rates by canton](/tax-accounting/swiss-tax-rates-by-canton/)
 
 **2. Participation exemption planning**
-Switzerland's participation exemption (Beteiligungsabzug) eliminates corporate tax on dividends and capital gains from qualifying shareholdings (10% or more, or CHF 1 million or more in value). Structuring your company's participation in subsidiaries to meet these thresholds, and planning dividend flows through the Swiss [holding structure](/blog/holding-company-switzerland/), is a core tax advisory function.
+Switzerland's participation exemption (Beteiligungsabzug) eliminates corporate tax on dividends and capital gains from qualifying shareholdings (10% or more, or CHF 1 million or more in value). Structuring your company's participation in subsidiaries to meet these thresholds, and planning dividend flows through the Swiss [holding structure](/company-formation/holding-company-switzerland/), is a core tax advisory function.
 
 **3. IP Box structuring**
 If your company generates income from patents or equivalent rights, the Swiss IP Box provides a reduction of up to 90% on net qualifying IP income at the cantonal level. Advisory work involves identifying qualifying IP, calculating the OECD nexus ratio, and structuring R&D activities and IP ownership to maximise the benefit.
 
 **4. Advance tax rulings**
-For any non-standard structure — a holding company, an IP holding arrangement, a cross-border restructuring, a crypto treasury — we prepare and submit advance [tax ruling requests](/blog/tax-ruling-switzerland/) to the Steuerverwaltung Zug. A ruling provides written certainty on your tax treatment before you commit to a structure. This is one of the most valuable services in Swiss tax planning — certainty has its own commercial value.
+For any non-standard structure — a holding company, an IP holding arrangement, a cross-border restructuring, a crypto treasury — we prepare and submit advance [tax ruling requests](/tax-accounting/tax-ruling-switzerland/) to the Steuerverwaltung Zug. A ruling provides written certainty on your tax treatment before you commit to a structure. This is one of the most valuable services in Swiss tax planning — certainty has its own commercial value.
 
 **5. Transfer pricing**
-Swiss companies transacting with related parties — parent companies, subsidiaries, affiliated entities — must document that those transactions occur at arm's length prices. Tax advisory includes designing [transfer pricing](/blog/transfer-pricing-switzerland/) policies, preparing documentation, and reviewing intercompany pricing on an ongoing basis. The Steuerverwaltung Zug can issue rulings on transfer pricing for specific intercompany arrangements.
+Swiss companies transacting with related parties — parent companies, subsidiaries, affiliated entities — must document that those transactions occur at arm's length prices. Tax advisory includes designing [transfer pricing](/tax-accounting/transfer-pricing-switzerland/) policies, preparing documentation, and reviewing intercompany pricing on an ongoing basis. The Steuerverwaltung Zug can issue rulings on transfer pricing for specific intercompany arrangements.
 
 **6. Thin capitalisation management**
 Swiss tax law limits the deductibility of interest on related-party debt exceeding safe harbour debt-to-equity ratios. Advisory work involves structuring the company's financing to stay within these limits, or accepting and managing the consequences where they cannot be met. The safe harbour ratios are published by the <a href="https://www.estv.admin.ch" target="_blank" rel="nofollow noopener">Federal Tax Administration (ESTV)</a> and vary by asset type.
 
 **7. Withholding tax planning**
-Switzerland levies 35% [withholding tax](/blog/withholding-tax-switzerland/) on dividends paid by Swiss companies to shareholders. For foreign shareholders, this is refundable or creditable under [double tax treaties](/blog/double-tax-treaties-switzerland/) — but only if the treaty conditions are met and the recipient is the beneficial owner. Planning dividend distributions through the Swiss company, and ensuring treaty entitlement is documented in advance, avoids unnecessary withholding tax costs.
+Switzerland levies 35% [withholding tax](/tax-accounting/withholding-tax-switzerland/) on dividends paid by Swiss companies to shareholders. For foreign shareholders, this is refundable or creditable under [double tax treaties](/tax-accounting/double-tax-treaties-switzerland/) — but only if the treaty conditions are met and the recipient is the beneficial owner. Planning dividend distributions through the Swiss company, and ensuring treaty entitlement is documented in advance, avoids unnecessary withholding tax costs.
 
 **8. VAT structuring**
-For companies providing both taxable and exempt supplies, input tax recovery is partial. Structuring business activities to maximise the proportion of fully taxable supplies — and, where possible, using separate legal entities for distinct supply types — can improve the [VAT](/blog/vat-switzerland/) position.
+For companies providing both taxable and exempt supplies, input tax recovery is partial. Structuring business activities to maximise the proportion of fully taxable supplies — and, where possible, using separate legal entities for distinct supply types — can improve the [VAT](/tax-accounting/vat-switzerland/) position.
 
 **9. Crypto and blockchain tax planning**
-FINMA's token classifications (payment tokens, utility tokens, asset tokens) have different tax consequences. Staking income, DeFi treasury management, token issuance, and foundation taxation all require specific advice. The Steuerverwaltung Zug has more developed competency in this area than most other Swiss cantonal tax authorities. [FINMA licensing](/blog/finma-licensing-switzerland/)
+FINMA's token classifications (payment tokens, utility tokens, asset tokens) have different tax consequences. Staking income, DeFi treasury management, token issuance, and foundation taxation all require specific advice. The Steuerverwaltung Zug has more developed competency in this area than most other Swiss cantonal tax authorities. [FINMA licensing](/licensing/finma-licensing-switzerland/)
 
 <!-- VIDEO: Overview of Swiss corporate tax advisory services and when to engage an adviser -->
 
@@ -97,7 +97,7 @@ All advice is given in writing. We do not provide verbal opinions on significant
 
 **What is the difference between tax advisory and tax compliance?**
 
-Tax compliance is filing what is required — annual [tax returns](/blog/corporate-tax-return-switzerland/), VAT returns, withholding tax declarations. Tax advisory is planning how your company's structure and transactions are arranged to minimise legally what those returns will show. Both are necessary; advisory determines the outcome, compliance records it.
+Tax compliance is filing what is required — annual [tax returns](/tax-accounting/corporate-tax-return-switzerland/), VAT returns, withholding tax declarations. Tax advisory is planning how your company's structure and transactions are arranged to minimise legally what those returns will show. Both are necessary; advisory determines the outcome, compliance records it.
 
 **When should I engage a tax adviser for my Swiss company?**
 
@@ -105,7 +105,7 @@ Before you form the company — the cantonal choice alone can be worth tens of t
 
 **Does every Swiss company need tax advisory?**
 
-Simple operating companies with standard domestic transactions and no international elements can often manage with good tax compliance alone. Tax advisory becomes materially valuable for: holding structures, international groups, IP-intensive businesses, companies receiving dividends from subsidiaries, businesses considering Swiss residence from a [tax efficiency perspective](/blog/tax-residency-switzerland/), and any structure where the tax treatment is not straightforwardly clear from published rules.
+Simple operating companies with standard domestic transactions and no international elements can often manage with good tax compliance alone. Tax advisory becomes materially valuable for: holding structures, international groups, IP-intensive businesses, companies receiving dividends from subsidiaries, businesses considering Swiss residence from a [tax efficiency perspective](/tax-accounting/tax-residency-switzerland/), and any structure where the tax treatment is not straightforwardly clear from published rules.
 
 **What does a Swiss tax adviser typically charge?**
 
@@ -117,7 +117,7 @@ Yes. Swiss tax advisory routinely involves cross-border elements — double tax 
 
 **What is the Swiss participation exemption?**
 
-The Beteiligungsabzug eliminates corporate tax on dividends and capital gains from qualifying shareholdings of 10% or more (or CHF 1 million or more in value). This makes Switzerland one of the most attractive jurisdictions for [holding companies](/blog/holding-company-switzerland/). Proper structuring of participation thresholds and dividend flows is a core tax advisory function.
+The Beteiligungsabzug eliminates corporate tax on dividends and capital gains from qualifying shareholdings of 10% or more (or CHF 1 million or more in value). This makes Switzerland one of the most attractive jurisdictions for [holding companies](/company-formation/holding-company-switzerland/). Proper structuring of participation thresholds and dividend flows is a core tax advisory function.
 
 **How does the Swiss IP Box work?**
 

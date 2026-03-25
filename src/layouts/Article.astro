@@ -1,5 +1,5 @@
 ---
-import Base from './Base.astro';
+import Base from "./Base.astro";
 
 interface Props {
   title: string;
@@ -17,12 +17,12 @@ interface Props {
 
 const {
   title,
-  description = '',
-  category = 'Swiss Company Formation',
-  categoryHref = '/swiss-company-formation/',
-  date = '06.03.2026',
-  readTime = '4 min read',
-  heroImage = '',
+  description = "",
+  category = "Swiss Company Formation",
+  categoryHref = "/swiss-company-formation/",
+  date = "06.03.2026",
+  readTime = "4 min read",
+  heroImage = "",
   tocItems = [],
   faqItems = [],
   relatedArticles = [],
@@ -31,44 +31,53 @@ const {
 
 const schema = [
   {
-    "@context": "https://schema.org",
     "@type": "Article",
+    "@id": `https://lawsupport.ch${Astro.url.pathname}#article`,
+    "isPartOf": {"@id": `https://lawsupport.ch${Astro.url.pathname}#webpage`},
     "headline": title,
     "description": description,
     "image": heroImage ? `https://lawsupport.ch${heroImage}` : "https://lawsupport.ch/images/logo.png",
     "datePublished": date.split(".").reverse().join("-"),
     "dateModified": date.split(".").reverse().join("-"),
-    "author": { "@type": "Person", "@id": "https://lawsupport.ch/#morgan-hartley", "name": "Morgan Hartley", "jobTitle": "Senior Corporate Lawyer & Partner" },
-    "publisher": { "@type": "Organization", "@id": "https://lawsupport.ch/#organization", "name": "Lawsupport", "logo": { "@type": "ImageObject", "url": "https://lawsupport.ch/images/logo.png" } }
+    "author": {"@id": "https://lawsupport.ch/#morgan-hartley"},
+    "publisher": {"@id": "https://lawsupport.ch/#organization"},
+    "mainEntityOfPage": {"@id": `https://lawsupport.ch${Astro.url.pathname}#webpage`}
   },
   {
-    "@context": "https://schema.org",
     "@type": "WebPage",
+    "@id": `https://lawsupport.ch${Astro.url.pathname}#webpage`,
+    "url": `https://lawsupport.ch${Astro.url.pathname}`,
     "name": title,
-    "url": `https://lawsupport.ch${Astro.url.pathname}`
+    "isPartOf": {"@id": "https://lawsupport.ch/#website"},
+    "about": {"@id": "https://lawsupport.ch/#organization"},
+    "breadcrumb": {"@id": `https://lawsupport.ch${Astro.url.pathname}#breadcrumb`}
   },
   {
-    "@context": "https://schema.org",
     "@type": "BreadcrumbList",
+    "@id": `https://lawsupport.ch${Astro.url.pathname}#breadcrumb`,
     "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://lawsupport.ch/" },
-      { "@type": "ListItem", "position": 2, "name": category, "item": `https://lawsupport.ch${categoryHref}` },
-      { "@type": "ListItem", "position": 3, "name": title, "item": `https://lawsupport.ch${Astro.url.pathname}` }
+      {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://lawsupport.ch/"},
+      {"@type": "ListItem", "position": 2, "name": category, "item": `https://lawsupport.ch${categoryHref}`},
+      {"@type": "ListItem", "position": 3, "name": title, "item": `https://lawsupport.ch${Astro.url.pathname}`}
     ]
   },
-  ...(faqItems.length > 0 ? [{
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": faqItems.map(f => ({
-      "@type": "Question",
-      "name": f.question,
-      "acceptedAnswer": { "@type": "Answer", "text": f.answer }
-    }))
-  }] : [])
+  ...(faqItems.length > 0
+    ? [
+        {
+          "@type": "FAQPage",
+          "@id": `https://lawsupport.ch${Astro.url.pathname}#faq`,
+          "mainEntity": faqItems.map((f) => ({
+            "@type": "Question",
+            "name": f.question,
+            "acceptedAnswer": {"@type": "Answer", "text": f.answer},
+          })),
+        },
+      ]
+    : []),
 ];
 ---
 
-<Base title={`${title} — Lawsupport.ch`} description={description} schema={schema} robots={robots}>
+<Base title={title} description={description} schema={schema} robots={robots}>
 
   <div class="container">
     <nav class="breadcrumb">
@@ -163,7 +172,7 @@ const schema = [
         <div class="grid-3 related-grid">
           {relatedArticles.map(article => (
             <a href={article.href} class="card">
-              <div class="card-img" style={article.image ? `background-image:url(${article.image});background-size:cover;background-position:center` : 'background:#ddd'}></div>
+              <div class="card-img" style={article.image ? `background-image:url(${article.image});background-size:cover;background-position:center` : "background:#ddd"}></div>
               <div class="card-body">
                 <h3>{article.title}</h3>
               </div>
@@ -245,30 +254,30 @@ const schema = [
 </style>
 
 <script>
-  document.querySelectorAll('.faq-question').forEach(btn => {
-    btn.addEventListener('click', () => {
+  document.querySelectorAll(".faq-question").forEach(btn => {
+    btn.addEventListener("click", () => {
       const item = btn.parentElement;
-      item?.classList.toggle('active');
+      item?.classList.toggle("active");
     });
   });
 
   // TOC active state on scroll
-  const tocLinks = document.querySelectorAll('.toc a');
+  const tocLinks = document.querySelectorAll(".toc a");
   if (tocLinks.length > 0) {
     const headings = Array.from(tocLinks).map(link => {
-      const id = link.getAttribute('href')?.slice(1);
+      const id = link.getAttribute("href")?.slice(1);
       return id ? document.getElementById(id) : null;
     }).filter(Boolean) as HTMLElement[];
 
     const observer = new IntersectionObserver((entries) => {
       entries.forEach(entry => {
         if (entry.isIntersecting) {
-          tocLinks.forEach(l => l.classList.remove('active'));
+          tocLinks.forEach(l => l.classList.remove("active"));
           const active = document.querySelector(`.toc a[href="#${entry.target.id}"]`);
-          active?.classList.add('active');
+          active?.classList.add("active");
         }
       });
-    }, { rootMargin: '-80px 0px -60% 0px' });
+    }, { rootMargin: "-80px 0px -60% 0px" });
 
     headings.forEach(h => observer.observe(h));
   }

@@ -4,7 +4,7 @@ description: "Nominee shareholders in Switzerland: what Swiss law says, benefici
 date: "19.03.2026"
 publishDate: "2026-05-11"
 category: "Company Formation"
-categoryHref: "/services/company-formation/"
+categoryHref: "/company-formation/"
 readTime: "12 min read"
 faqItems:
   - question: "Is there a public Swiss beneficial owner register?"
@@ -113,10 +113,10 @@ The company records both the nominee (in the share register) and the beneficial 
 If the underlying business goal is privacy, asset protection, or estate planning, Swiss law offers compliant mechanisms:
 
 **1. Swiss holding company structure:**
-A foreign [holding company](/blog/holding-company-switzerland/) owns the Swiss operating company. The foreign holding's beneficial ownership is disclosed to Swiss authorities as required, but the operational ownership chain involves a separate jurisdiction. This is legitimate where there is a genuine group structure, not a pure secrecy device.
+A foreign [holding company](/company-formation/holding-company-switzerland/) owns the Swiss operating company. The foreign holding's beneficial ownership is disclosed to Swiss authorities as required, but the operational ownership chain involves a separate jurisdiction. This is legitimate where there is a genuine group structure, not a pure secrecy device.
 
 **2. Stiftung (Foundation):**
-A [Swiss foundation](/blog/swiss-foundation/) can hold assets (including company shares) without an identifiable owner in the conventional sense -- the foundation is an independent legal entity serving a stated purpose. The foundation board is disclosed; the foundation itself is the owner. Used for genuine wealth preservation and philanthropic purposes.
+A [Swiss foundation](/company-formation/swiss-foundation/) can hold assets (including company shares) without an identifiable owner in the conventional sense -- the foundation is an independent legal entity serving a stated purpose. The foundation board is disclosed; the foundation itself is the owner. Used for genuine wealth preservation and philanthropic purposes.
 
 **3. Discretionary trust (non-Swiss):**
 Trusts are not recognised under Swiss law as domestic structures, but Swiss residents can be beneficiaries of foreign trusts (e.g., Liechtenstein, Jersey, Cayman). The trust owns assets; the beneficiary's interest is disclosed for tax purposes under AEOI.
@@ -128,7 +128,7 @@ For family business confidentiality (not wanting competitors to know the family 
 
 ## Nominee Director vs Nominee Shareholder
 
-**Nominee director:** Different from nominee shareholder -- a [nominee director](/blog/nominee-services-switzerland/) sits on the board but takes instructions from the beneficial owner. Swiss law requires directors to exercise independent judgment (Art. 717 OR duty of care). A nominee director who merely follows instructions without independent exercise of duties may be in breach of Swiss director duties and expose themselves to liability.
+**Nominee director:** Different from nominee shareholder -- a [nominee director](/company-formation/nominee-services-switzerland/) sits on the board but takes instructions from the beneficial owner. Swiss law requires directors to exercise independent judgment (Art. 717 OR duty of care). A nominee director who merely follows instructions without independent exercise of duties may be in breach of Swiss director duties and expose themselves to liability.
 
 For Swiss AG and GmbH companies, at least one director must be a Swiss resident (in practice) for most banks to open accounts. Nominee directors are used by some fiduciaries, but come with liability considerations.
 
@@ -158,11 +158,11 @@ Yes. The nominee shareholder, as the registered holder, exercises voting rights 
 
 **Is nominee shareholding common for Swiss GmbH companies?**
 
-It is less common than for AG companies because GmbH quota holders appear in the public [Commercial Register](/blog/commercial-register-switzerland/). For GmbH structures, a nominee arrangement keeps the beneficial owner's name out of publicly searchable records, which can be useful for privacy reasons. However, the beneficial owner is still disclosed to authorities through the internal registers.
+It is less common than for AG companies because GmbH quota holders appear in the public [Commercial Register](/company-formation/commercial-register-switzerland/). For GmbH structures, a nominee arrangement keeps the beneficial owner's name out of publicly searchable records, which can be useful for privacy reasons. However, the beneficial owner is still disclosed to authorities through the internal registers.
 
 **How does nominee shareholding affect dividend distributions?**
 
-Dividends are paid to the registered shareholder (the nominee), who then passes them through to the beneficial owner under the terms of the nominee agreement. Swiss [withholding tax](/blog/withholding-tax-switzerland/) of 35% applies to dividends regardless of whether a nominee is involved. The beneficial owner can reclaim the withholding tax through the applicable double tax treaty, provided they are properly declared as the beneficial owner.
+Dividends are paid to the registered shareholder (the nominee), who then passes them through to the beneficial owner under the terms of the nominee agreement. Swiss [withholding tax](/tax-accounting/withholding-tax-switzerland/) of 35% applies to dividends regardless of whether a nominee is involved. The beneficial owner can reclaim the withholding tax through the applicable double tax treaty, provided they are properly declared as the beneficial owner.
 
 **Can a foreign entity act as a nominee shareholder in Switzerland?**
 
@@ -182,10 +182,10 @@ Switzerland is not an EU member state and does not directly implement EU AML Dir
 
 For the broader context of Swiss corporate ownership structures:
 
-- [Nominee services in Switzerland](/blog/nominee-services-switzerland/) -- director and address services
-- [Company formation in Switzerland](/blog/company-formation-switzerland/) -- full incorporation process
-- [AG formation](/blog/ag-formation-switzerland/) -- Swiss public limited company
-- [Due diligence requirements](/blog/due-diligence-switzerland/) -- Swiss compliance obligations
+- [Nominee services in Switzerland](/company-formation/nominee-services-switzerland/) -- director and address services
+- [Company formation in Switzerland](/company-formation/company-formation-switzerland/) -- full incorporation process
+- [AG formation](/company-formation/ag-formation-switzerland/) -- Swiss public limited company
+- [Due diligence requirements](/corporate-transactions/due-diligence-switzerland/) -- Swiss compliance obligations
 
 For information on <a href="https://www.zefix.admin.ch/en/search/entity/welcome" target="_blank" rel="nofollow noopener">Swiss Commercial Register entries</a>, the central search platform Zefix provides public access to registered company data. The <a href="https://www.finma.ch/en/" target="_blank" rel="nofollow noopener">Swiss Financial Market Supervisory Authority (FINMA)</a> publishes guidance on beneficial ownership disclosure for regulated entities.
 

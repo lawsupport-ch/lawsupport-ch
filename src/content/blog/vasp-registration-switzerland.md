@@ -4,7 +4,7 @@ description: "VASP registration in Switzerland under AMLA: SRO membership, VQF a
 date: "19.03.2026"
 publishDate: "2026-08-13"
 category: "Licensing & Permits"
-categoryHref: "/services/financial-licensing/"
+categoryHref: "/licensing/"
 readTime: "14 min read"
 faqItems:
   - question: "Do I need a VASP registration if my platform is non-custodial?"
@@ -51,7 +51,7 @@ Switzerland has established one of the most clearly structured regulatory framew
 
 ## What Is a VASP Under Swiss Law?
 
-The term "virtual asset service provider" does not appear as a standalone category in a dedicated Swiss VASP law. Instead, the obligation flows from the **Anti-Money Laundering Act (AMLA / Geldwaeschereigesetz, GwG)**. Under AMLA, any natural or legal person who carries out financial intermediation as a main business activity is a *financial intermediary* and must either join a FINMA-recognised SRO or obtain direct [FINMA authorisation](/blog/finma-licensing-switzerland/).
+The term "virtual asset service provider" does not appear as a standalone category in a dedicated Swiss VASP law. Instead, the obligation flows from the **Anti-Money Laundering Act (AMLA / Geldwaeschereigesetz, GwG)**. Under AMLA, any natural or legal person who carries out financial intermediation as a main business activity is a *financial intermediary* and must either join a FINMA-recognised SRO or obtain direct [FINMA authorisation](/licensing/finma-licensing-switzerland/).
 
 Since Switzerland adopted the updates to **FATF Recommendation 15** through an amendment to AMLA and related FINMA ordinances, virtual asset service activities have been explicitly brought within the scope of financial intermediation. A company is a VASP under Swiss AMLA when its main business involves one or more of the following:
 
@@ -77,13 +77,13 @@ The standard route for virtual asset service providers is **membership in a FINM
 
 The principal SRO for crypto businesses in Switzerland is **VQF (Verein zur Qualitaetssicherung von Finanzdienstleistungen)**. VQF has over 1,000 members and has developed specific AML compliance standards for virtual asset businesses. Other FINMA-recognised SROs include PolyReg and the SRO of the Swiss Cantonal Banks, but VQF is the dominant choice for crypto VASPs.
 
-SRO membership is appropriate when the VASP activity does not, in itself, also trigger a requirement for a banking licence or a securities dealer authorisation. Most token exchanges, crypto brokers, and custodians fall within this category. For a broader overview of [crypto licensing requirements in Switzerland](/blog/crypto-license-switzerland/), including activity-specific licence thresholds, see our dedicated guide.
+SRO membership is appropriate when the VASP activity does not, in itself, also trigger a requirement for a banking licence or a securities dealer authorisation. Most token exchanges, crypto brokers, and custodians fall within this category. For a broader overview of [crypto licensing requirements in Switzerland](/licensing/crypto-license-switzerland/), including activity-specific licence thresholds, see our dedicated guide.
 
 ### Route 2: Direct FINMA Authorisation (Larger VASPs)
 
 If the scale or nature of the business triggers additional regulated activities — for example, accepting deposits from the public (banking licence threshold) or trading securities on a proprietary basis — the entity will require **direct FINMA authorisation** rather than, or in addition to, SRO membership.
 
-VASPs operating at institutional scale, running a multilateral trading facility, or acting as a crypto bank must engage directly with FINMA and meet the full capitalisation, governance, and risk management requirements that apply to the relevant licence category. Details on the [FINMA licensing process](/blog/finma-licensing-switzerland/) are covered in our separate guide.
+VASPs operating at institutional scale, running a multilateral trading facility, or acting as a crypto bank must engage directly with FINMA and meet the full capitalisation, governance, and risk management requirements that apply to the relevant licence category. Details on the [FINMA licensing process](/licensing/finma-licensing-switzerland/) are covered in our separate guide.
 
 ---
 
@@ -152,7 +152,7 @@ Upon acceptance, the VASP is a regulated financial intermediary under Swiss law.
 
 | Requirement | Detail |
 |---|---|
-| Swiss legal entity | GmbH or AG registered in the [Commercial Register](/blog/commercial-register-switzerland/) |
+| Swiss legal entity | GmbH or AG registered in the [Commercial Register](/company-formation/commercial-register-switzerland/) |
 | Fit and proper directors | No criminal history; relevant professional background |
 | Fit and proper beneficial owners | Disclosure of full UBO chain; FINMA/VQF background check |
 | Written AML policy | Specific to business model; updated annually |
@@ -179,7 +179,7 @@ Upon acceptance, the VASP is a regulated financial intermediary under Swiss law.
 
 Applications fail for predictable reasons. The most frequent:
 
-**Insufficient KYC procedures.** Generic KYC documentation that does not reflect the specific client onboarding flow, threshold logic, or enhanced [due diligence](/blog/due-diligence-switzerland/) triggers for the actual business model will be rejected. VQF expects procedures that match the real operation.
+**Insufficient KYC procedures.** Generic KYC documentation that does not reflect the specific client onboarding flow, threshold logic, or enhanced [due diligence](/corporate-transactions/due-diligence-switzerland/) triggers for the actual business model will be rejected. VQF expects procedures that match the real operation.
 
 **Unclear business model.** If the application does not clearly establish what services are provided, to whom, in what jurisdictions, and at what volumes, the committee cannot assess the risk profile. Ambiguity is treated as a red flag.
 
@@ -193,7 +193,7 @@ Many Swiss crypto projects operate a **dual structure**: a Swiss AG or GmbH as t
 
 Under this structure, the VASP registration attaches to the operating entity. The foundation is a separate legal person and, if it does not itself conduct VASP activities for clients, does not require its own SRO membership. The boundary between the two entities must be clearly maintained in governance documents, treasury management, and operational practice.
 
-For guidance on establishing the operating entity, see our guides on [GmbH formation](/blog/gmbh-formation-switzerland/) and [AG formation in Switzerland](/blog/ag-formation-switzerland/).
+For guidance on establishing the operating entity, see our guides on [GmbH formation](/company-formation/gmbh-formation-switzerland/) and [AG formation in Switzerland](/company-formation/ag-formation-switzerland/).
 
 ---
 
@@ -201,7 +201,7 @@ For guidance on establishing the operating entity, see our guides on [GmbH forma
 
 AMLA-registered Swiss VASPs occupy a recognised regulatory position that matters beyond Swiss borders. Many regulated exchanges and institutional counterparties require that onboarding VASPs hold a demonstrable regulated status. Swiss SRO membership satisfies this requirement in a large number of counterparty due diligence frameworks.
 
-Switzerland's FATF-compliant VASP framework is well understood by correspondent banks, custodians, and regulated platforms in the EU, UK, Singapore, and the United States. Operating as a registered Swiss VASP is a material advantage when negotiating banking relationships, exchange listings, and institutional partnerships. Companies that need to open a [corporate bank account in Switzerland](/blog/corporate-bank-account-switzerland/) will find that VQF membership significantly accelerates the bank onboarding process.
+Switzerland's FATF-compliant VASP framework is well understood by correspondent banks, custodians, and regulated platforms in the EU, UK, Singapore, and the United States. Operating as a registered Swiss VASP is a material advantage when negotiating banking relationships, exchange listings, and institutional partnerships. Companies that need to open a [corporate bank account in Switzerland](/banking/corporate-bank-account-switzerland/) will find that VQF membership significantly accelerates the bank onboarding process.
 
 ---
 
@@ -243,11 +243,11 @@ For a well-prepared application with complete documentation, the typical timelin
 
 **Can a foreign company register as a Swiss VASP without a Swiss entity?**
 
-No. Swiss AMLA registration requires a Swiss legal entity — a GmbH or AG registered in the Swiss [Commercial Register](/blog/commercial-register-switzerland/). A branch of a foreign company may qualify in limited circumstances, but the standard approach is to establish a Swiss operating entity before applying for SRO membership.
+No. Swiss AMLA registration requires a Swiss legal entity — a GmbH or AG registered in the Swiss [Commercial Register](/company-formation/commercial-register-switzerland/). A branch of a foreign company may qualify in limited circumstances, but the standard approach is to establish a Swiss operating entity before applying for SRO membership.
 
 **What is the difference between VQF membership and a FINMA licence?**
 
-VQF membership satisfies the AMLA affiliation requirement for financial intermediaries and is supervised at the SRO level. A [FINMA licence](/blog/finma-licensing-switzerland/) (such as a banking licence, securities dealer licence, or FINMA-authorised fund management licence) is a direct regulatory authorisation issued by FINMA itself, carrying higher capital, governance, and reporting requirements. Most VASPs require VQF membership, not a FINMA licence. The two are not mutually exclusive — some VASPs hold both.
+VQF membership satisfies the AMLA affiliation requirement for financial intermediaries and is supervised at the SRO level. A [FINMA licence](/licensing/finma-licensing-switzerland/) (such as a banking licence, securities dealer licence, or FINMA-authorised fund management licence) is a direct regulatory authorisation issued by FINMA itself, carrying higher capital, governance, and reporting requirements. Most VASPs require VQF membership, not a FINMA licence. The two are not mutually exclusive — some VASPs hold both.
 
 **What happens if we operate as a VASP in Switzerland without registering?**
 

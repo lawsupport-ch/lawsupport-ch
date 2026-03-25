@@ -4,7 +4,7 @@ description: "Gold trading in Switzerland: AML/SRO obligations, FINMA rules, VAT
 date: "19.03.2026"
 publishDate: "2026-04-03"
 category: "Licensing & Permits"
-categoryHref: "/services/financial-licensing/"
+categoryHref: "/licensing/"
 readTime: "6 min read"
 faqItems:
   - question: "Do I need a FINMA licence to trade gold in Switzerland?"
@@ -120,7 +120,7 @@ Switzerland applies special VAT rules to gold, following the EU model:
 - Jewellery, watches, industrial gold, gold alloys below investment purity
 - Standard Swiss VAT rate: 8.1% (from 2024)
 
-The VAT exemption for investment gold is a significant commercial advantage for Swiss gold traders — buyers do not bear VAT costs that they would face in many other jurisdictions. See our [VAT Switzerland guide](/blog/vat-switzerland/) for registration requirements and thresholds.
+The VAT exemption for investment gold is a significant commercial advantage for Swiss gold traders — buyers do not bear VAT costs that they would face in many other jurisdictions. See our [VAT Switzerland guide](/tax-accounting/vat-switzerland/) for registration requirements and thresholds.
 
 ---
 
@@ -177,11 +177,11 @@ Establishing a gold storage operation in a Swiss freeport requires:
 
 ## Setting Up Your Swiss Gold Trading Company
 
-To operate legally as a gold trader in Switzerland, you need a properly formed Swiss entity before applying for SRO membership. The typical structure is an AG or GmbH registered in a low-tax canton such as Zug. See our guides on [company formation in Switzerland](/blog/company-formation-switzerland/) and [FINMA licensing Switzerland](/blog/finma-licensing-switzerland/) for the full process.
+To operate legally as a gold trader in Switzerland, you need a properly formed Swiss entity before applying for SRO membership. The typical structure is an AG or GmbH registered in a low-tax canton such as Zug. See our guides on [company formation in Switzerland](/company-formation/company-formation-switzerland/) and [FINMA licensing Switzerland](/licensing/finma-licensing-switzerland/) for the full process.
 
 Once incorporated, you apply to your chosen SRO (VQF or OAR-G), submit your AML compliance programme, appoint a compliance officer, and undergo an initial review. SRO membership typically completes within 4–8 weeks of a complete application.
 
-If your gold business involves managing client assets or trading derivatives, a [FINMA licence or crypto licence](/blog/crypto-license-switzerland/) may also be required.
+If your gold business involves managing client assets or trading derivatives, a [FINMA licence or crypto licence](/licensing/crypto-license-switzerland/) may also be required.
 
 ---
 

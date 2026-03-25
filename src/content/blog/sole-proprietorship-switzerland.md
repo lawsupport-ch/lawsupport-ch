@@ -4,7 +4,7 @@ description: "How to register a Swiss Einzelfirma (sole proprietorship): require
 date: "19.03.2026"
 publishDate: "2026-06-02"
 category: "Company Formation"
-categoryHref: "/services/company-formation/"
+categoryHref: "/company-formation/"
 readTime: "11 min read"
 tocItems:
   - id: "what-an-einzelfirma-is"
@@ -53,11 +53,11 @@ This is both its strength and its primary limitation:
 
 ## Registration: When Is It Required?
 
-Under Swiss law (<a href="https://www.fedlex.admin.ch/eli/cc/2007/686/en" target="_blank" rel="nofollow noopener">Art. 36 HRegV</a>), an Einzelfirma **must** register with the [Commercial Register](/blog/commercial-register-switzerland/) when annual turnover exceeds **CHF 100'000**.
+Under Swiss law (<a href="https://www.fedlex.admin.ch/eli/cc/2007/686/en" target="_blank" rel="nofollow noopener">Art. 36 HRegV</a>), an Einzelfirma **must** register with the [Commercial Register](/company-formation/commercial-register-switzerland/) when annual turnover exceeds **CHF 100'000**.
 
 Below CHF 100'000, registration is **voluntary**. Many small freelancers and consultants operate below this threshold and never register. They still have a business — it simply is not registered.
 
-**Practical point:** Even without Commercial Register registration, a sole proprietor must register for tax (income tax is paid on the business profit as part of the individual's personal income tax return) and, if applicable, for MWST ([VAT](/blog/vat-registration-switzerland/)) once turnover exceeds CHF 100'000.
+**Practical point:** Even without Commercial Register registration, a sole proprietor must register for tax (income tax is paid on the business profit as part of the individual's personal income tax return) and, if applicable, for MWST ([VAT](/tax-accounting/vat-registration-switzerland/)) once turnover exceeds CHF 100'000.
 
 **Voluntary registration:** A sole proprietor below the CHF 100'000 threshold can still choose to register. Benefits include a public Register entry, which some clients and banks prefer. The registration fee is the same as for mandatory registration.
 
@@ -72,7 +72,7 @@ Registration of an Einzelfirma with the Swiss Commercial Register is done direct
 - Confirmation of Swiss domicile (the proprietor must be resident in Switzerland)
 - Business name (Firma) — must contain the owner's surname
 
-**Swiss residency requirement:** The owner of a Swiss Einzelfirma must be domiciled (resident) in Switzerland. This is a fundamental distinction from a GmbH or AG, which can be owned and operated by non-resident foreigners (with a Swiss-resident director). Foreign nationals without Swiss residence cannot operate an Einzelfirma. For non-residents looking to [start a business in Switzerland](/blog/start-business-switzerland/), a GmbH or AG is the required structure.
+**Swiss residency requirement:** The owner of a Swiss Einzelfirma must be domiciled (resident) in Switzerland. This is a fundamental distinction from a GmbH or AG, which can be owned and operated by non-resident foreigners (with a Swiss-resident director). Foreign nationals without Swiss residence cannot operate an Einzelfirma. For non-residents looking to [start a business in Switzerland](/company-formation/start-business-switzerland/), a GmbH or AG is the required structure.
 
 **Registration fee:** Approximately CHF 200-400 for a new Einzelfirma, depending on canton.
 
@@ -82,11 +82,11 @@ Registration of an Einzelfirma with the Swiss Commercial Register is done direct
 
 An Einzelfirma does not pay corporate tax. Instead, the business profit is added to the owner's personal income and taxed as personal income at the individual's marginal rate. In Switzerland, combined federal, cantonal, and communal income tax rates can reach 25-40% for high earners, depending on the canton.
 
-Additionally, sole proprietors pay [social insurance contributions](/blog/social-insurance-switzerland/) (AHV/IV/EO) of approximately 10.1% of net business profit on the employer and employee portions combined — a significant additional cost.
+Additionally, sole proprietors pay [social insurance contributions](/tax-accounting/social-insurance-switzerland/) (AHV/IV/EO) of approximately 10.1% of net business profit on the employer and employee portions combined — a significant additional cost.
 
 **Comparison with GmbH:**
-A [GmbH](/blog/gmbh-formation-switzerland/) can generate substantial savings for a profitable business:
-- [Corporate tax](/blog/corporate-tax-switzerland/) at 11.8% (Zug) on retained profit
+A [GmbH](/company-formation/gmbh-formation-switzerland/) can generate substantial savings for a profitable business:
+- [Corporate tax](/tax-accounting/corporate-tax-switzerland/) at 11.8% (Zug) on retained profit
 - Salary to the owner is deductible from corporate income — but AHV applies to the salary portion
 - Retained profit stays in the company at corporate tax rates rather than being taxed immediately at personal rates
 
@@ -96,7 +96,7 @@ For income above approximately CHF 100'000-150'000, the GmbH typically becomes t
 
 ## Accounting Requirements
 
-Unlike an AG or GmbH, a sole proprietor with turnover below CHF 500'000 may use simplified [accounting](/blog/accounting-switzerland/) — a straightforward income and expense summary rather than full double-entry bookkeeping. Above CHF 500'000, double-entry bookkeeping applies (Art. 957 CO).
+Unlike an AG or GmbH, a sole proprietor with turnover below CHF 500'000 may use simplified [accounting](/tax-accounting/accounting-switzerland/) — a straightforward income and expense summary rather than full double-entry bookkeeping. Above CHF 500'000, double-entry bookkeeping applies (Art. 957 CO).
 
 ---
 
@@ -130,7 +130,7 @@ A Swiss Einzelfirma can be converted to a GmbH as the business grows. The conver
 - Transfer of the business assets and liabilities from the sole proprietorship to the GmbH
 - Deregistration of the Einzelfirma from the Commercial Register
 
-This is a standard process. We handle such conversions regularly as part of [company formation](/blog/company-formation-switzerland/) engagements.
+This is a standard process. We handle such conversions regularly as part of [company formation](/company-formation/company-formation-switzerland/) engagements.
 
 ---
 
@@ -162,11 +162,11 @@ The business name must contain the owner's surname. It may also include a descri
 
 **What residence permits allow operating an Einzelfirma?**
 
-Swiss citizens and holders of C permits (permanent residence) can operate an Einzelfirma without restriction. [B permit](/blog/b-permit-switzerland/) holders may operate an Einzelfirma if their permit allows self-employment — this depends on the permit conditions. [L permit](/blog/l-permit-switzerland/) holders and cross-border [G permit](/blog/g-permit-switzerland/) holders face restrictions and should verify their permit conditions before registering.
+Swiss citizens and holders of C permits (permanent residence) can operate an Einzelfirma without restriction. [B permit](/immigration/b-permit-switzerland/) holders may operate an Einzelfirma if their permit allows self-employment — this depends on the permit conditions. [L permit](/immigration/l-permit-switzerland/) holders and cross-border [G permit](/immigration/g-permit-switzerland/) holders face restrictions and should verify their permit conditions before registering.
 
 **Can I convert my Einzelfirma to an AG instead of a GmbH?**
 
-Yes. The conversion process works for both GmbH and [AG formation](/blog/ag-formation-switzerland/). The choice between them depends on capital requirements (AG minimum CHF 100'000 vs. GmbH minimum CHF 20'000), governance preferences, and whether you plan to issue shares to outside investors. For most sole proprietors upgrading, the GmbH is the more practical and cost-effective option.
+Yes. The conversion process works for both GmbH and [AG formation](/company-formation/ag-formation-switzerland/). The choice between them depends on capital requirements (AG minimum CHF 100'000 vs. GmbH minimum CHF 20'000), governance preferences, and whether you plan to issue shares to outside investors. For most sole proprietors upgrading, the GmbH is the more practical and cost-effective option.
 
 **Do I need a separate bank account for my Einzelfirma?**
 

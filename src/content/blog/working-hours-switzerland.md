@@ -1,10 +1,10 @@
 ---
-title: "Working Hours Switzerland: Legal Limits, Overtime & Rest Periods (2026)"
+title: "Working Hours Switzerland: Limits & Overtime Rules"
 description: "Swiss working hours rules for 2026: maximum 45 or 50 hours per week, overtime compensation at 125%, rest periods, Sunday work restrictions, and GAV provisions."
 date: "19.03.2026"
 publishDate: "2026-08-29"
 category: "Employment Law"
-categoryHref: "/blog/"
+categoryHref: "/employment-law/"
 readTime: "10 min read"
 faqItems:
   - question: "What is the maximum working week in Switzerland?"
@@ -39,7 +39,7 @@ tocItems:
 ---
 
 
-Swiss working hours are regulated by the <a href="https://www.fedlex.admin.ch/eli/cc/1966/57_57_57/en" target="_blank" rel="nofollow noopener">Labour Act (ArG/LTr)</a> and the Code of Obligations (OR). The maximum working week in Switzerland is 45 hours for office, technical, and retail workers, or 50 hours for industrial and other sectors. Most Swiss [employment contracts](/blog/employment-contract-switzerland/) specify 40–42.5 hours as the standard contractual working time. The Labour Act applies to most employees in Switzerland; the Code of Obligations governs overtime and compensation. Together they create a framework that is more regulated than US or UK employment but somewhat more flexible than German or French law.
+Swiss working hours are regulated by the <a href="https://www.fedlex.admin.ch/eli/cc/1966/57_57_57/en" target="_blank" rel="nofollow noopener">Labour Act (ArG/LTr)</a> and the Code of Obligations (OR). The maximum working week in Switzerland is 45 hours for office, technical, and retail workers, or 50 hours for industrial and other sectors. Most Swiss [employment contracts](/employment-law/employment-contract-switzerland/) specify 40–42.5 hours as the standard contractual working time. The Labour Act applies to most employees in Switzerland; the Code of Obligations governs overtime and compensation. Together they create a framework that is more regulated than US or UK employment but somewhat more flexible than German or French law.
 
 ---
 
@@ -57,7 +57,7 @@ These are legal maximums — not norms. Most Swiss employment contracts specify 
 
 ## Overtime: OR vs ArG
 
-**Code of Obligations (OR) overtime:** Hours worked beyond the contractual weekly hours (e.g., beyond 40 hours/week if that is the contract). Compensation: time off in lieu or 125% salary premium (unless the [employment contract](/blog/employment-contract-switzerland/) expressly waives the premium for higher-earning employees).
+**Code of Obligations (OR) overtime:** Hours worked beyond the contractual weekly hours (e.g., beyond 40 hours/week if that is the contract). Compensation: time off in lieu or 125% salary premium (unless the [employment contract](/employment-law/employment-contract-switzerland/) expressly waives the premium for higher-earning employees).
 
 **Labour Act (ArG) overtime (Ueberzeit):** Hours worked beyond the statutory legal maximum (45 or 50 hours/week). Must be compensated with a 25% salary premium. Cannot be waived by contract. ArG overtime is capped at 170 hours per calendar year for employees subject to the 45-hour maximum and 140 hours for those subject to the 50-hour maximum.
 
@@ -101,9 +101,9 @@ Many collective labour agreements (GAVs) set higher premium rates. Regular night
 
 **Overtime banking:** Many Swiss employers maintain overtime accounts (Ueberstundenkonto) — employees accumulate overtime and draw it down as time off during quieter periods.
 
-**Home office:** No statutory right to home office in Switzerland. The employer can require office attendance. Many companies introduced generous home office policies post-pandemic; these are now being revised. [Working hours](/blog/working-hours-switzerland/) rules apply equally to home office work.
+**Home office:** No statutory right to home office in Switzerland. The employer can require office attendance. Many companies introduced generous home office policies post-pandemic; these are now being revised. [Working hours](/employment-law/working-hours-switzerland/) rules apply equally to home office work.
 
-**Part-time:** Common in Switzerland — approximately 36% of the workforce works part-time according to <a href="https://www.bfs.admin.ch/bfs/en/home.html" target="_blank" rel="nofollow noopener">Federal Statistical Office (BFS)</a> data. Part-time employees have proportionally scaled rights under [employment law](/blog/employment-law-switzerland/).
+**Part-time:** Common in Switzerland — approximately 36% of the workforce works part-time according to <a href="https://www.bfs.admin.ch/bfs/en/home.html" target="_blank" rel="nofollow noopener">Federal Statistical Office (BFS)</a> data. Part-time employees have proportionally scaled rights under [employment law](/employment-law/employment-law-switzerland/).
 
 ---
 
@@ -128,7 +128,7 @@ Even exempt managers retain protection under the Code of Obligations regarding d
 
 ## Recording and Compliance
 
-Swiss [employers](/blog/payroll-switzerland/) must record working hours for all employees subject to the Labour Act. Records must include daily start and end times, breaks, and overtime. The cantonal labour inspectorate (Arbeitsinspektorat) can request these records during inspections.
+Swiss [employers](/tax-accounting/payroll-switzerland/) must record working hours for all employees subject to the Labour Act. Records must include daily start and end times, breaks, and overtime. The cantonal labour inspectorate (Arbeitsinspektorat) can request these records during inspections.
 
 Simplified recording is available for employees earning above CHF 120'000 per year who have a degree of schedule autonomy. Under the simplified system, only total daily hours need to be recorded, not start and end times. This requires a written agreement between employer and employee or a GAV provision.
 
@@ -180,7 +180,7 @@ Senior management (Kadermitarbeiter) with genuine decision-making authority are 
 
 ## Request a Free Assessment
 
-Swiss [employment law](/blog/employment-law-switzerland/) sets clear rules on working hours, overtime, and rest periods — but the interaction between statutory provisions, contractual terms, and collective labour agreements requires careful analysis for each employer's situation. Whether you are setting up [payroll](/blog/payroll-switzerland/) for a new Swiss entity or reviewing existing employment terms, we can advise on compliance.
+Swiss [employment law](/employment-law/employment-law-switzerland/) sets clear rules on working hours, overtime, and rest periods — but the interaction between statutory provisions, contractual terms, and collective labour agreements requires careful analysis for each employer's situation. Whether you are setting up [payroll](/tax-accounting/payroll-switzerland/) for a new Swiss entity or reviewing existing employment terms, we can advise on compliance.
 
 **Morgan Hartley — Senior Corporate Lawyer & Partner**
 Lawsupport (Morgan Hartley Consulting)

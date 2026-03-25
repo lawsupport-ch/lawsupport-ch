@@ -4,11 +4,11 @@ description: "How the Swiss banking system works: UBS, cantonal banks, private b
 date: "19.03.2026"
 publishDate: "2026-06-24"
 category: "Banking & Finance"
-categoryHref: "/blog/"
+categoryHref: "/banking/"
 readTime: "9 min read"
 faqItems:
   - question: "How many banks are there in Switzerland?"
-    answer: "Approximately 240 banks hold FINMA banking licences in Switzerland as of 2026. This is down from a peak of over 600 in the 1990s, reflecting decades of consolidation. For a full listing by category, see our [Swiss banks list](/blog/swiss-banks-list/)."
+    answer: "Approximately 240 banks hold FINMA banking licences in Switzerland as of 2026. This is down from a peak of over 600 in the 1990s, reflecting decades of consolidation. For a full listing by category, see our [Swiss banks list](/banking/swiss-banks-list/)."
   - question: "What is the safest type of Swiss bank?"
     answer: "Cantonal banks with a state guarantee (Staatsgarantie) are widely considered the safest. The canton itself guarantees deposits beyond the standard CHF 100'000 esisuisse protection. ZKB (Zurich) is the largest and one of the highest-rated banks in the world by credit quality."
   - question: "Is Swiss banking secrecy still in effect?"
@@ -60,7 +60,7 @@ Swiss banking is organised into several distinct categories, each serving differ
 | PostFinance | PostFinance AG | Retail payments and savings |
 | Specialty banks | SEBA/AMINA, Sygnum | Crypto-asset banking |
 
-For a detailed listing of individual institutions, see our [full Swiss banks list](/blog/swiss-banks-list/).
+For a detailed listing of individual institutions, see our [full Swiss banks list](/banking/swiss-banks-list/).
 
 ---
 
@@ -108,7 +108,7 @@ Key names:
 
 Private banks operate under a partnership or listed company structure. Many maintain minimal public profile — deliberately private about their client relationships.
 
-For more on Swiss [private banking services](/blog/private-banking-switzerland/), including minimum thresholds and what to expect as a client, see our dedicated guide.
+For more on Swiss [private banking services](/banking/private-banking-switzerland/), including minimum thresholds and what to expect as a client, see our dedicated guide.
 
 ---
 
@@ -129,7 +129,7 @@ All Swiss banks are supervised by the <a href="https://www.finma.ch/en/" target=
 
 Switzerland implements Basel III capital standards through the <a href="https://www.fedlex.admin.ch/eli/cc/2012/629/en" target="_blank" rel="nofollow noopener">Capital Adequacy Ordinance (ERV/OFR)</a>.
 
-Businesses that require a banking licence or other financial market authorisation should consult our guide to [FINMA licensing](/blog/finma-licensing-switzerland/).
+Businesses that require a banking licence or other financial market authorisation should consult our guide to [FINMA licensing](/licensing/finma-licensing-switzerland/).
 
 ---
 
@@ -165,7 +165,7 @@ Swiss banking secrecy under Art. 47 of the Banking Act remains a domestic legal 
 - Criminal asset investigations: Swiss prosecutors can override secrecy for criminal proceedings
 - Banking secrecy no longer shields offshore tax evasion — the era of Swiss bank secrecy for non-disclosure is over
 
-For non-residents considering a Swiss account, our [guide to Swiss bank accounts for non-residents](/blog/swiss-bank-account-non-residents/) explains the practical implications.
+For non-residents considering a Swiss account, our [guide to Swiss bank accounts for non-residents](/banking/swiss-bank-account-non-residents/) explains the practical implications.
 
 ---
 
@@ -173,7 +173,7 @@ For non-residents considering a Swiss account, our [guide to Swiss bank accounts
 
 **How many banks are there in Switzerland?**
 
-Approximately 240 banks hold FINMA banking licences in Switzerland as of 2026. This is down from a peak of over 600 in the 1990s, reflecting decades of consolidation. For a full listing by category, see our [Swiss banks list](/blog/swiss-banks-list/).
+Approximately 240 banks hold FINMA banking licences in Switzerland as of 2026. This is down from a peak of over 600 in the 1990s, reflecting decades of consolidation. For a full listing by category, see our [Swiss banks list](/banking/swiss-banks-list/).
 
 **What is the safest type of Swiss bank?**
 
@@ -197,7 +197,7 @@ The esisuisse deposit protection scheme covers up to CHF 100'000 per depositor p
 
 **Can foreigners use Swiss banks?**
 
-Swiss residents — including foreign nationals with valid residence permits — can open accounts at most Swiss banks. Non-residents face significant restrictions for personal accounts but can access [corporate banking](/blog/corporate-bank-account-switzerland/) through a Swiss company or [private banking](/blog/private-banking-switzerland/) with sufficient assets.
+Swiss residents — including foreign nationals with valid residence permits — can open accounts at most Swiss banks. Non-residents face significant restrictions for personal accounts but can access [corporate banking](/banking/corporate-bank-account-switzerland/) through a Swiss company or [private banking](/banking/private-banking-switzerland/) with sufficient assets.
 
 **What is the Swiss National Bank?**
 

@@ -4,7 +4,7 @@ description: "What Swiss banks require to open an account in 2026: documents, mi
 date: "19.03.2026"
 publishDate: "2026-06-22"
 category: "Banking & Finance"
-categoryHref: "/blog/"
+categoryHref: "/banking/"
 readTime: "9 min read"
 faqItems:
   - question: "What is the minimum balance for a Swiss corporate bank account?"
@@ -14,7 +14,7 @@ faqItems:
   - question: "How long does it take to open a Swiss corporate bank account in 2026?"
     answer: "The capital deposit account required for company formation takes 2–6 weeks. A regular operating account opened after formation typically takes 4–8 weeks. With professional preparation and the right bank selected, the process can be completed at the faster end of these ranges."
   - question: "What documents do non-residents need for a Swiss bank account?"
-    answer: "Non-residents applying through a [Swiss company](/blog/company-formation-switzerland/) need a valid passport, proof of residential address abroad, a source of funds declaration with supporting evidence, a detailed business plan, Form A (beneficial ownership declaration), and complete company documentation. The specifics vary by bank and by the complexity of the ownership structure."
+    answer: "Non-residents applying through a [Swiss company](/company-formation/company-formation-switzerland/) need a valid passport, proof of residential address abroad, a source of funds declaration with supporting evidence, a detailed business plan, Form A (beneficial ownership declaration), and complete company documentation. The specifics vary by bank and by the complexity of the ownership structure."
   - question: "Can I open a Swiss bank account with a foreign passport only?"
     answer: "For a personal account, no — Swiss banks require Swiss residency for retail accounts regardless of passport. For a corporate account through a Swiss company, a foreign passport is acceptable provided all other KYC documentation is complete and the company has genuine Swiss substance."
 tocItems:
@@ -48,7 +48,7 @@ A current, certified extract from the <a href="https://www.zefix.admin.ch/en" ta
 A certified copy of the company's articles of association. For a newly formed company, the notarised deed of formation serves this purpose.
 
 **3. Form A — Beneficial Owner Declaration**
-All Swiss banks are required to identify the ultimate beneficial owner (UBO) of every company account. Form A captures the natural person who ultimately owns or controls the company. For a company owned through a chain of [holding companies](/blog/holding-company-switzerland/), every layer must be documented.
+All Swiss banks are required to identify the ultimate beneficial owner (UBO) of every company account. Form A captures the natural person who ultimately owns or controls the company. For a company owned through a chain of [holding companies](/company-formation/holding-company-switzerland/), every layer must be documented.
 
 **4. Identity documents — All directors and UBOs**
 Valid passports (and in some cases, national ID cards) for all directors with signatory authority and all beneficial owners. Some banks require notarised copies for foreign nationals.
@@ -82,9 +82,9 @@ Swiss bank minimum balances vary significantly by bank type and account type:
 | Crypto banks (SEBA/AMINA, Sygnum) | None specified | None specified |
 | Fintech (Neon, Revolut Business) | None | None |
 
-For **corporate accounts**, Swiss banks typically do not publish minimum balance requirements — the decision is based on KYC review rather than a deposit floor. However, arriving at account opening with zero funds and no realistic business activity is a weak profile. A company that immediately deposits its CHF 20'000 ([GmbH](/blog/gmbh-formation-switzerland/)) or CHF 100'000 ([AG](/blog/ag-formation-switzerland/)) share capital into an operating account after formation and shows credible business activity is a stronger applicant.
+For **corporate accounts**, Swiss banks typically do not publish minimum balance requirements — the decision is based on KYC review rather than a deposit floor. However, arriving at account opening with zero funds and no realistic business activity is a weak profile. A company that immediately deposits its CHF 20'000 ([GmbH](/company-formation/gmbh-formation-switzerland/)) or CHF 100'000 ([AG](/company-formation/ag-formation-switzerland/)) share capital into an operating account after formation and shows credible business activity is a stronger applicant.
 
-For **[private banking](/blog/private-banking-switzerland/)** at prestigious institutions (Pictet, Lombard Odier, Julius Baer), minimum assets under management of CHF 500'000–2'000'000 are typical.
+For **[private banking](/banking/private-banking-switzerland/)** at prestigious institutions (Pictet, Lombard Odier, Julius Baer), minimum assets under management of CHF 500'000–2'000'000 are typical.
 
 ---
 
@@ -100,7 +100,7 @@ Swiss banks reject approximately 20–30% of corporate account applications from
 
 **Cash-intensive business.** Banks are cautious about businesses involving significant cash flows — retail, hospitality, certain service businesses. These require extra documentation.
 
-**Cryptocurrency activities without specialist bank.** Applying for a corporate account at a cantonal bank for a crypto business will almost certainly result in rejection. The appropriate institutions are SEBA/AMINA Bank or Sygnum. See our [corporate bank account guide](/blog/corporate-bank-account-switzerland/) for details.
+**Cryptocurrency activities without specialist bank.** Applying for a corporate account at a cantonal bank for a crypto business will almost certainly result in rejection. The appropriate institutions are SEBA/AMINA Bank or Sygnum. See our [corporate bank account guide](/banking/corporate-bank-account-switzerland/) for details.
 
 **Incomplete documentation.** Submitting without all required documents results in delays at best and rejection at worst. Banks do not hold applications open indefinitely.
 
@@ -108,7 +108,7 @@ Swiss banks reject approximately 20–30% of corporate account applications from
 
 ## Capital Deposit Account: Special Requirements
 
-For a **newly forming** Swiss company, the first banking step is opening a **Kapitaleinzahlungskonto** ([capital deposit account](/blog/capital-deposit-account-switzerland/)) before the company is registered with the Commercial Register. This blocked account holds the initial share capital until incorporation is complete.
+For a **newly forming** Swiss company, the first banking step is opening a **Kapitaleinzahlungskonto** ([capital deposit account](/banking/capital-deposit-account-switzerland/)) before the company is registered with the Commercial Register. This blocked account holds the initial share capital until incorporation is complete.
 
 Requirements for the Kapitaleinzahlungskonto:
 - Same KYC documents as above, but applied to the founders (before the company legally exists)
@@ -143,7 +143,7 @@ The capital deposit account required for company formation takes 2–6 weeks. A 
 
 **What documents do non-residents need for a Swiss bank account?**
 
-Non-residents applying through a [Swiss company](/blog/company-formation-switzerland/) need a valid passport, proof of residential address abroad, a source of funds declaration with supporting evidence, a detailed business plan, Form A (beneficial ownership declaration), and complete company documentation. The specifics vary by bank and by the complexity of the ownership structure.
+Non-residents applying through a [Swiss company](/company-formation/company-formation-switzerland/) need a valid passport, proof of residential address abroad, a source of funds declaration with supporting evidence, a detailed business plan, Form A (beneficial ownership declaration), and complete company documentation. The specifics vary by bank and by the complexity of the ownership structure.
 
 **Can I open a Swiss bank account with a foreign passport only?**
 
@@ -163,7 +163,7 @@ The bank reviews your identity documents, proof of address, source of funds, bus
 
 **Can I open a Swiss bank account for a holding company?**
 
-Yes. Swiss banks regularly open accounts for [holding companies](/blog/holding-company-switzerland/), but the KYC requirements are more extensive because the bank must identify beneficial owners through every layer of the corporate structure. Holding companies with transparent ownership and a clear business purpose are well received.
+Yes. Swiss banks regularly open accounts for [holding companies](/company-formation/holding-company-switzerland/), but the KYC requirements are more extensive because the bank must identify beneficial owners through every layer of the corporate structure. Holding companies with transparent ownership and a clear business purpose are well received.
 
 **What is the difference between a capital deposit account and a regular corporate account?**
 

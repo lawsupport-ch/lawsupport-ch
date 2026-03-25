@@ -3,7 +3,7 @@ title: "Employer Registration Switzerland: AHV & VAT (2026)"
 description: "Registering as an employer in Switzerland: AHV, accident insurance, pension fund, VAT. Steps, timelines, and ongoing obligations."
 date: "19.03.2026"
 category: "Tax & Accounting"
-categoryHref: "/blog/"
+categoryHref: "/tax-accounting/"
 readTime: "8 min read"
 tocItems:
   - id: "step-1-ahv-compensation-office-registration-ausgleichskasse"
@@ -97,17 +97,17 @@ If you hire foreign employees who do not hold a Swiss C permit and are not marri
 
 **Swiss nationals and C-permit holders** file ordinary tax returns — no employer withholding is required beyond social insurance.
 
-For employees who require a [work permit in Switzerland](/blog/work-permit-switzerland/) — such as B permit holders — source tax withholding is required from the start of employment. See our [B permit](/blog/b-permit-switzerland/) guide for permit classes and their tax treatment.
+For employees who require a [work permit in Switzerland](/immigration/work-permit-switzerland/) — such as B permit holders — source tax withholding is required from the start of employment. See our [B permit](/immigration/b-permit-switzerland/) guide for permit classes and their tax treatment.
 
 ---
 
 ## Step 6: VAT Registration
 
-[VAT registration](/blog/vat-registration-switzerland/) is separate from employer registration and is required when the company's annual turnover from taxable supplies exceeds CHF 100,000. Registration is with the ESTV (Federal Tax Administration) and is voluntary below the threshold.
+[VAT registration](/tax-accounting/vat-registration-switzerland/) is separate from employer registration and is required when the company's annual turnover from taxable supplies exceeds CHF 100,000. Registration is with the ESTV (Federal Tax Administration) and is voluntary below the threshold.
 
 For new companies expecting to exceed CHF 100,000 in turnover in the first year, voluntary early registration is advisable — it allows input VAT recovery from the start. Registration takes 2–4 weeks.
 
-The ESTV provides VAT registration forms and guidance on <a href="https://www.estv.admin.ch/estv/en/home/value-added-tax/vat-registration.html" target="_blank" rel="nofollow noopener">estv.admin.ch</a>. For a full breakdown of Swiss VAT rates and rules, see our [VAT Switzerland](/blog/vat-switzerland/) guide.
+The ESTV provides VAT registration forms and guidance on <a href="https://www.estv.admin.ch/estv/en/home/value-added-tax/vat-registration.html" target="_blank" rel="nofollow noopener">estv.admin.ch</a>. For a full breakdown of Swiss VAT rates and rules, see our [VAT Switzerland](/tax-accounting/vat-switzerland/) guide.
 
 ---
 
@@ -135,7 +135,7 @@ Once registered, an employer's recurring obligations include:
 - **Quarterly or monthly VAT returns** (depending on the method selected)
 - **Annual AHV audit** by the Ausgleichskasse (typically every 4 years for small employers)
 
-For ongoing [accounting in Switzerland](/blog/accounting-switzerland/) and payroll management, Lawsupport can coordinate with specialist payroll providers.
+For ongoing [accounting in Switzerland](/tax-accounting/accounting-switzerland/) and payroll management, Lawsupport can coordinate with specialist payroll providers.
 
 ---
 
@@ -179,7 +179,7 @@ AHV declarations and payments are made monthly or quarterly to the cantonal Ausg
 
 **Can a foreign company register as an employer in Switzerland without a Swiss subsidiary?**
 
-A foreign company posting employees to Switzerland must comply with Swiss employer registration requirements, including AHV enrolment, under the Swiss posted workers rules (Entsendegesetz). For longer-term operations involving employees permanently based in Switzerland, establishing a Swiss subsidiary or [branch office](/blog/branch-office-switzerland/) is generally required to satisfy Swiss employment law, tax, and social insurance obligations fully. See our [company formation Switzerland](/blog/company-formation-switzerland/) guide for entity options.
+A foreign company posting employees to Switzerland must comply with Swiss employer registration requirements, including AHV enrolment, under the Swiss posted workers rules (Entsendegesetz). For longer-term operations involving employees permanently based in Switzerland, establishing a Swiss subsidiary or [branch office](/company-formation/branch-office-switzerland/) is generally required to satisfy Swiss employment law, tax, and social insurance obligations fully. See our [company formation Switzerland](/company-formation/company-formation-switzerland/) guide for entity options.
 
 ---
 
@@ -197,7 +197,7 @@ info@lawsupport.ch
 
 ---
 
-[Company formation Switzerland](/blog/company-formation-switzerland/) | [VAT Switzerland](/blog/vat-switzerland/) | [Work permit Switzerland](/blog/work-permit-switzerland/) | [Accounting Switzerland](/blog/accounting-switzerland/)
+[Company formation Switzerland](/company-formation/company-formation-switzerland/) | [VAT Switzerland](/tax-accounting/vat-switzerland/) | [Work permit Switzerland](/immigration/work-permit-switzerland/) | [Accounting Switzerland](/tax-accounting/accounting-switzerland/)
 
 ---
 

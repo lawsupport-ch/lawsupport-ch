@@ -4,7 +4,7 @@ description: "Swiss SECO export controls: dual-use goods permits, war materiel l
 date: "19.03.2026"
 publishDate: "2026-05-27"
 category: "Licensing & Permits"
-categoryHref: "/services/financial-licensing/"
+categoryHref: "/licensing/"
 readTime: "11 min read"
 tocItems:
   - id: "secos-role-in-export-controls"
@@ -211,6 +211,6 @@ info@lawsupport.ch
 
 </div>
 
-Related services: [Company formation Switzerland](/blog/company-formation-switzerland/) | [FINMA licensing Switzerland](/blog/finma-licensing-switzerland/) | [Swiss business licences](/blog/swiss-business-licenses/) | [Due diligence Switzerland](/blog/due-diligence-switzerland/)
+Related services: [Company formation Switzerland](/company-formation/company-formation-switzerland/) | [FINMA licensing Switzerland](/licensing/finma-licensing-switzerland/) | [Swiss business licences](/licensing/swiss-business-licenses/) | [Due diligence Switzerland](/corporate-transactions/due-diligence-switzerland/)
 
 For the official SECO sanctions list and export control guidance, see <a href="https://www.seco.admin.ch/seco/en/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen.html" target="_blank" rel="nofollow noopener">SECO export controls and sanctions page</a>. The Goods Control Act (GKG) is published at <a href="https://www.fedlex.admin.ch/eli/cc/1997/1697_1697_1697/en" target="_blank" rel="nofollow noopener">Fedlex — GKG</a>. For the Embargo Act, see <a href="https://www.fedlex.admin.ch/eli/cc/2002/564/en" target="_blank" rel="nofollow noopener">Fedlex — EmbG</a>.

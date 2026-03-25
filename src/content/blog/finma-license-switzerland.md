@@ -3,7 +3,7 @@ title: "FINMA License Switzerland: Licensing Guide (2026)"
 description: "FINMA licensing in Switzerland: banking, securities, asset manager, FinTech, and crypto licences. Requirements and process."
 date: "19.03.2026"
 category: "Licensing & Permits"
-categoryHref: "/services/financial-licensing/"
+categoryHref: "/licensing/"
 readTime: "8 min read"
 tocItems:
   - id: "finma-licence-categories"
@@ -69,7 +69,7 @@ A full banking licence is required for any entity that:
 
 **Cost:** FINMA fees are CHF 10,000–100,000+ depending on complexity. Legal and advisory costs for a banking licence application: CHF 500,000–2,000,000.
 
-For the company vehicle underlying a banking or financial institution, see our [AG formation Switzerland](/blog/ag-formation-switzerland/) guide — Swiss banks and securities firms are typically incorporated as AGs.
+For the company vehicle underlying a banking or financial institution, see our [AG formation Switzerland](/company-formation/ag-formation-switzerland/) guide — Swiss banks and securities firms are typically incorporated as AGs.
 
 ---
 
@@ -133,7 +133,7 @@ The FinTech licence is a lighter-touch banking authorisation for non-bank financ
 - Simplified governance compared to full banking licence
 - Swiss domicile
 
-The FinTech licence is used by crypto asset custodians, payment institutions, and financial innovators who need to hold client funds but do not conduct full banking operations. For the corporate structure underlying a FinTech licence application, a Swiss GmbH or AG is standard — see our [GmbH formation Switzerland](/blog/gmbh-formation-switzerland/) and [AG formation Switzerland](/blog/ag-formation-switzerland/) guides.
+The FinTech licence is used by crypto asset custodians, payment institutions, and financial innovators who need to hold client funds but do not conduct full banking operations. For the corporate structure underlying a FinTech licence application, a Swiss GmbH or AG is standard — see our [GmbH formation Switzerland](/company-formation/gmbh-formation-switzerland/) and [AG formation Switzerland](/company-formation/ag-formation-switzerland/) guides.
 
 ---
 
@@ -150,7 +150,7 @@ FINMA does not have a specific "crypto licence" — instead, crypto activities a
 | Crypto token issuance (security token) | Securities dealer licence may apply |
 | Crypto bank (SEBA/AMINA model) | Full banking licence |
 
-FINMA's 2018 ICO guidance and subsequent DLT Act amendments clarified the regulatory framework. The full statutory basis is available at <a href="https://www.fedlex.admin.ch" target="_blank" rel="nofollow noopener">fedlex.admin.ch</a>. For detailed guidance on crypto structuring, see our [crypto license Switzerland](/blog/crypto-license-switzerland/) guide.
+FINMA's 2018 ICO guidance and subsequent DLT Act amendments clarified the regulatory framework. The full statutory basis is available at <a href="https://www.fedlex.admin.ch" target="_blank" rel="nofollow noopener">fedlex.admin.ch</a>. For detailed guidance on crypto structuring, see our [crypto license Switzerland](/licensing/crypto-license-switzerland/) guide.
 
 ---
 
@@ -175,7 +175,7 @@ SRO membership is not a FINMA licence — it is fulfilment of the AML compliance
 5. **FINMA decision:** Approval (with or without conditions) or rejection
 6. **Ongoing supervision:** Annual reporting, FINMA-approved audit, ongoing fit and proper monitoring
 
-For the holding or operational entity that will hold the licence, see our [holding company Switzerland](/blog/holding-company-switzerland/) and [company formation Switzerland](/blog/company-formation-switzerland/) guides.
+For the holding or operational entity that will hold the licence, see our [holding company Switzerland](/company-formation/holding-company-switzerland/) and [company formation Switzerland](/company-formation/company-formation-switzerland/) guides.
 
 ---
 
@@ -239,7 +239,7 @@ Morgan Hartley and the Lawsupport team have advised clients on FINMA licensing, 
 
 ---
 
-Related guides: [Crypto license Switzerland](/blog/crypto-license-switzerland/) | [Company formation Switzerland](/blog/company-formation-switzerland/) | [AG formation Switzerland](/blog/ag-formation-switzerland/) | [Holding company Switzerland](/blog/holding-company-switzerland/) | [FINMA licensing Switzerland](/blog/finma-licensing-switzerland/)
+Related guides: [Crypto license Switzerland](/licensing/crypto-license-switzerland/) | [Company formation Switzerland](/company-formation/company-formation-switzerland/) | [AG formation Switzerland](/company-formation/ag-formation-switzerland/) | [Holding company Switzerland](/company-formation/holding-company-switzerland/) | [FINMA licensing Switzerland](/licensing/finma-licensing-switzerland/)
 
 ---
 

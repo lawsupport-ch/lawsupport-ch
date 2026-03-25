@@ -4,15 +4,15 @@ description: "What business licences and permits does a Swiss company need? Indu
 date: "19.03.2026"
 publishDate: "2026-06-28"
 category: "Licensing & Permits"
-categoryHref: "/services/financial-licensing/"
+categoryHref: "/licensing/"
 readTime: "14 min read"
 faqItems:
   - question: "Do I need a business licence to open a GmbH or AG in Switzerland?"
-    answer: "No. Incorporation in the [Commercial Register](/blog/commercial-register-switzerland/) is the foundational step, but it is not a business licence — it is registration. The vast majority of commercial activities require nothing beyond registration and VAT enrolment. Industry-specific licences (FINMA, Swissmedic, cantonal gastronomy permits, etc.) are required only for regulated sectors. See our guide to [company formation in Switzerland](/blog/company-formation-switzerland/) for the full incorporation process."
+    answer: "No. Incorporation in the [Commercial Register](/company-formation/commercial-register-switzerland/) is the foundational step, but it is not a business licence — it is registration. The vast majority of commercial activities require nothing beyond registration and VAT enrolment. Industry-specific licences (FINMA, Swissmedic, cantonal gastronomy permits, etc.) are required only for regulated sectors. See our guide to [company formation in Switzerland](/company-formation/company-formation-switzerland/) for the full incorporation process."
   - question: "How long does it take to get a FINMA licence?"
     answer: "It depends on the licence type. A fintech licence or SRO affiliation for a payment service provider can be completed in 3-6 months with a complete application. A full banking licence routinely takes 18-24 months and requires significant capital commitment before FINMA approves operations. Asset manager licensing under FinIA typically takes 6-12 months from submission of a complete dossier."
   - question: "Can a foreign company operate in Switzerland without a Swiss entity?"
-    answer: "In many sectors, yes — cross-border services can be provided to Swiss clients from a foreign entity, subject to applicable rules on marketing and solicitation. However, regulated activities (banking, insurance, fund management, medical practice) require Swiss authorisation or a recognised equivalence arrangement. Establishing a Swiss [branch office](/blog/branch-office-switzerland/) or subsidiary is often required in practice, particularly where physical presence, local compliance officers, or Swiss-domiciled directors are mandatory."
+    answer: "In many sectors, yes — cross-border services can be provided to Swiss clients from a foreign entity, subject to applicable rules on marketing and solicitation. However, regulated activities (banking, insurance, fund management, medical practice) require Swiss authorisation or a recognised equivalence arrangement. Establishing a Swiss [branch office](/company-formation/branch-office-switzerland/) or subsidiary is often required in practice, particularly where physical presence, local compliance officers, or Swiss-domiciled directors are mandatory."
   - question: "What is the most expensive Swiss business licence to obtain?"
     answer: "A full banking licence under the Banking Act (BankG) is the most costly. Minimum paid-in capital is CHF 10 million, with Basel III requirements substantially higher in practice. The application process alone — including legal, compliance, and consultancy fees — typically costs CHF 500,000 to CHF 2 million before FINMA approves operations."
   - question: "Do Swiss cantons charge different fees for business licences?"
@@ -57,13 +57,13 @@ Swiss business regulation operates on two levels.
 
 **Cantonal and communal licences** cover activities where the cantons have retained authority — construction, food and hospitality, healthcare practice, taxis, and private security. Requirements and fees vary meaningfully between cantons. A restaurant licence in Zug follows different procedures than one in Geneva; a medical practice permit in Zurich has its own cantonal framework.
 
-The practical implication: before you incorporate or before you launch a new product line, you need to identify which tier applies to your activity — and in some sectors, both tiers apply simultaneously. If you are planning [company formation in Switzerland](/blog/company-formation-switzerland/), understanding your licensing obligations is an essential first step.
+The practical implication: before you incorporate or before you launch a new product line, you need to identify which tier applies to your activity — and in some sectors, both tiers apply simultaneously. If you are planning [company formation in Switzerland](/company-formation/company-formation-switzerland/), understanding your licensing obligations is an essential first step.
 
 ---
 
 ## Activities That Require No Specific Licence
 
-Most ordinary commercial activity in Switzerland falls into this category. You register your [GmbH](/blog/gmbh-formation-switzerland/) or [AG](/blog/ag-formation-switzerland/) in the Commercial Register, obtain a UID (business identification number) automatically, register for [VAT](/blog/vat-switzerland/) once turnover exceeds CHF 100,000 per year, and you are operational.
+Most ordinary commercial activity in Switzerland falls into this category. You register your [GmbH](/company-formation/gmbh-formation-switzerland/) or [AG](/company-formation/ag-formation-switzerland/) in the Commercial Register, obtain a UID (business identification number) automatically, register for [VAT](/tax-accounting/vat-switzerland/) once turnover exceeds CHF 100,000 per year, and you are operational.
 
 Activities that require no industry-specific licence beyond Commercial Register registration and VAT include:
 
@@ -84,7 +84,7 @@ This breadth is a genuine competitive advantage for Switzerland. A management co
 
 Financial services is where Swiss licensing law is most demanding and most consequential. FINMA — the Swiss Financial Market Supervisory Authority — oversees the entire sector under a framework of interconnected federal statutes. Operating without the required authorisation is a criminal offence.
 
-**Banking licence (BankG — Banking Act):** Required for any entity that accepts deposits from the public on a professional basis. Minimum paid-in capital is CHF 10 million; total capital requirements under Basel III are substantially higher in practice. Obtaining a full banking licence typically takes 12-24 months from application submission. For more detail, see our guide to [FINMA licensing in Switzerland](/blog/finma-licensing-switzerland/).
+**Banking licence (BankG — Banking Act):** Required for any entity that accepts deposits from the public on a professional basis. Minimum paid-in capital is CHF 10 million; total capital requirements under Basel III are substantially higher in practice. Obtaining a full banking licence typically takes 12-24 months from application submission. For more detail, see our guide to [FINMA licensing in Switzerland](/licensing/finma-licensing-switzerland/).
 
 **Asset manager / securities firm licence (FinIA — Financial Institutions Act):** Any person or entity managing assets on behalf of clients on a professional basis must be authorised by FINMA as an asset manager (Vermogensverwalter) or securities firm. Minimum capital for an independent asset manager is CHF 100,000 (fully paid in); for securities firms, CHF 1.5 million or higher depending on activities. Ongoing requirements include affiliation with an Ombudsman, compliance with the FinSA (Financial Services Act) conduct rules, and annual FINMA reporting.
 
@@ -180,7 +180,7 @@ Switzerland's revised Federal Act on Data Protection (nDSG) entered into force o
 
 **Do I need a business licence to open a GmbH or AG in Switzerland?**
 
-No. Incorporation in the [Commercial Register](/blog/commercial-register-switzerland/) is the foundational step, but it is not a business licence — it is registration. The vast majority of commercial activities require nothing beyond registration and VAT enrolment. Industry-specific licences (FINMA, Swissmedic, cantonal gastronomy permits, etc.) are required only for regulated sectors. See our guide to [company formation in Switzerland](/blog/company-formation-switzerland/) for the full incorporation process.
+No. Incorporation in the [Commercial Register](/company-formation/commercial-register-switzerland/) is the foundational step, but it is not a business licence — it is registration. The vast majority of commercial activities require nothing beyond registration and VAT enrolment. Industry-specific licences (FINMA, Swissmedic, cantonal gastronomy permits, etc.) are required only for regulated sectors. See our guide to [company formation in Switzerland](/company-formation/company-formation-switzerland/) for the full incorporation process.
 
 **How long does it take to get a FINMA licence?**
 
@@ -188,7 +188,7 @@ It depends on the licence type. A fintech licence or SRO affiliation for a payme
 
 **Can a foreign company operate in Switzerland without a Swiss entity?**
 
-In many sectors, yes — cross-border services can be provided to Swiss clients from a foreign entity, subject to applicable rules on marketing and solicitation. However, regulated activities (banking, insurance, fund management, medical practice) require Swiss authorisation or a recognised equivalence arrangement. Establishing a Swiss [branch office](/blog/branch-office-switzerland/) or subsidiary is often required in practice, particularly where physical presence, local compliance officers, or Swiss-domiciled directors are mandatory.
+In many sectors, yes — cross-border services can be provided to Swiss clients from a foreign entity, subject to applicable rules on marketing and solicitation. However, regulated activities (banking, insurance, fund management, medical practice) require Swiss authorisation or a recognised equivalence arrangement. Establishing a Swiss [branch office](/company-formation/branch-office-switzerland/) or subsidiary is often required in practice, particularly where physical presence, local compliance officers, or Swiss-domiciled directors are mandatory.
 
 **What is the most expensive Swiss business licence to obtain?**
 

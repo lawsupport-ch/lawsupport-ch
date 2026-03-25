@@ -1,9 +1,9 @@
 ---
-title: "Debt Collection Switzerland (SchKG): Enforcement Process & Timeline (2026)"
+title: "Debt Collection Switzerland: SchKG Process Guide"
 description: "Swiss debt collection (SchKG): Betreibung, payment order, objection, and bankruptcy steps with timelines. Contact Lawsupport for creditor advice."
 date: "19.03.2026"
 category: "Company Formation"
-categoryHref: "/services/company-formation/"
+categoryHref: "/company-formation/"
 readTime: "7 min read"
 tocItems:
   - id: "overview-the-two-tracks"
@@ -48,7 +48,7 @@ faqItems:
 
 Switzerland's debt enforcement and bankruptcy system is governed by the Federal Debt Enforcement and Bankruptcy Act (SchKG — Schuldbetreibungs- und Konkursgesetz). It is one of the most systematic creditor enforcement frameworks in the world, administered by cantonal Debt Enforcement Offices (Betreibungsämter) without court involvement in the initial stages. Understanding how it works is essential for any business operating in Switzerland — whether you are pursuing a debtor or need to know what happens when a Betreibung is filed against you.
 
-For businesses managing [company formation in Switzerland](/blog/company-formation-switzerland/) or operating Swiss entities, understanding debt enforcement obligations is part of sound corporate governance.
+For businesses managing [company formation in Switzerland](/company-formation/company-formation-switzerland/) or operating Swiss entities, understanding debt enforcement obligations is part of sound corporate governance.
 
 ---
 
@@ -142,7 +142,7 @@ Every Betreibung filed against a person or company is recorded in the Betreibung
 
 This makes the Swiss Betreibung a powerful reputational tool as well as a legal one. A business with Betreibungen on its register faces difficulties opening bank accounts, obtaining leases, and maintaining commercial relationships.
 
-For businesses concerned about their standing in the [Swiss Commercial Register](/blog/commercial-register-switzerland/), keeping the Betreibungsregister clear is an important operational priority. Equally, checking a potential partner's Betreibungsregister before entering significant contracts is standard Swiss due diligence practice.
+For businesses concerned about their standing in the [Swiss Commercial Register](/company-formation/commercial-register-switzerland/), keeping the Betreibungsregister clear is an important operational priority. Equally, checking a potential partner's Betreibungsregister before entering significant contracts is standard Swiss due diligence practice.
 
 ---
 

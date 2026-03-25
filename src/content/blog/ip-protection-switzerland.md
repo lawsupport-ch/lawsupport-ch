@@ -4,7 +4,7 @@ description: "Switzerland IP protection explained: patents, trademarks, copyrigh
 date: "19.03.2026"
 publishDate: "2026-04-21"
 category: "IP & Commercial Law"
-categoryHref: "/blog/"
+categoryHref: "/intellectual-property/"
 readTime: "7 min read"
 faqItems:
   - question: "Do I need to register copyright in Switzerland?"
@@ -62,7 +62,7 @@ Patents protect technical inventions — new, non-obvious solutions to technical
 - European patents (EPO) undergo full examination and have stronger presumed validity
 - Switzerland's IP box tax regime provides preferential tax rates on patent income — creating a strong incentive to formally register patents held by Swiss companies
 
-[Patent registration Switzerland](/blog/patent-registration-switzerland/)
+[Patent registration Switzerland](/intellectual-property/patent-registration-switzerland/)
 
 ---
 
@@ -78,7 +78,7 @@ Trademarks protect brand identifiers: words, logos, slogans, sounds, colours, an
 
 **International options:** Switzerland participates in the Madrid Protocol for International Trademark Registration — one filing can designate multiple countries simultaneously.
 
-[Trademark registration Switzerland](/blog/trademark-registration-switzerland/)
+[Trademark registration Switzerland](/intellectual-property/trademark-registration-switzerland/)
 
 ---
 
@@ -156,9 +156,9 @@ Switzerland is an attractive jurisdiction for holding intellectual property beca
 - Extensive DTA network reduces withholding tax on royalties paid to Swiss IP holders
 - OECD-aligned — no harmful tax competition issues
 
-Swiss IP holding companies must satisfy the OECD nexus test to benefit from the IP box — substantial R&D activity must occur in Switzerland. Pure shell IP holding structures without Swiss R&D do not qualify. For the tax treatment of IP income, see our guide on the [patent box regime in Switzerland](/blog/patent-box-switzerland/).
+Swiss IP holding companies must satisfy the OECD nexus test to benefit from the IP box — substantial R&D activity must occur in Switzerland. Pure shell IP holding structures without Swiss R&D do not qualify. For the tax treatment of IP income, see our guide on the [patent box regime in Switzerland](/tax-accounting/patent-box-switzerland/).
 
-If you are considering forming a Swiss entity to hold IP assets, review our [company formation guide](/blog/company-formation-switzerland/) and the [Swiss tax incentives overview](/blog/swiss-tax-incentives/).
+If you are considering forming a Swiss entity to hold IP assets, review our [company formation guide](/company-formation/company-formation-switzerland/) and the [Swiss tax incentives overview](/tax-accounting/swiss-tax-incentives/).
 
 ---
 

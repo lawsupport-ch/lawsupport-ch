@@ -4,7 +4,7 @@ description: "Swiss employment termination: statutory notice periods, wrongful d
 date: "19.03.2026"
 publishDate: "2026-08-05"
 category: "Employment Law"
-categoryHref: "/blog/"
+categoryHref: "/employment-law/"
 readTime: "14 min read"
 faqItems:
   - question: "Can an employer terminate without giving a reason?"
@@ -52,7 +52,7 @@ Switzerland does not have a general "unfair dismissal" doctrine requiring employ
 2. Not terminating during protected periods
 3. Not terminating in an abusive (missbrauchliche) manner
 
-For a broader overview of [employment law in Switzerland](/blog/employment-law-switzerland/), including contract formation, working hours, and employee protections, see our detailed guide.
+For a broader overview of [employment law in Switzerland](/employment-law/employment-law-switzerland/), including contract formation, working hours, and employee protections, see our detailed guide.
 
 ---
 
@@ -144,7 +144,7 @@ Dismissals qualifying as a mass redundancy (more than 10 employees in companies 
 - Notification to cantonal labour authority (Amt fur Wirtschaft und Arbeit)
 - Waiting period of 30 days from notification before dismissals take effect
 
-Employers planning significant workforce reductions should also consider the [work permit](/blog/work-permit-switzerland/) implications for foreign employees whose employment ends.
+Employers planning significant workforce reductions should also consider the [work permit](/immigration/work-permit-switzerland/) implications for foreign employees whose employment ends.
 
 <!-- VIDEO: Understanding Swiss employment termination rules — notice periods, protected periods, and employer obligations -->
 
@@ -210,7 +210,7 @@ Mass redundancy rules apply when an employer dismisses more than 10 employees in
 
 Whether you are an employer planning a termination, restructuring your workforce, or an individual facing dismissal, the rules are specific and the consequences of getting them wrong are material.
 
-Lawsupport advises on all aspects of Swiss [employment law](/blog/employment-law-switzerland/), including termination procedures, severance negotiations, abusive dismissal claims, mass redundancy processes, and exit agreements. We work from Zug with clients across Switzerland.
+Lawsupport advises on all aspects of Swiss [employment law](/employment-law/employment-law-switzerland/), including termination procedures, severance negotiations, abusive dismissal claims, mass redundancy processes, and exit agreements. We work from Zug with clients across Switzerland.
 
 [Request a Free Assessment →](/contacts/)
 

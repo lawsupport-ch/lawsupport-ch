@@ -4,7 +4,7 @@ description: "Immigrate to Switzerland as an entrepreneur or investor. Permit ty
 date: "19.03.2026"
 publishDate: "2026-04-15"
 category: "Immigration"
-categoryHref: "/blog/"
+categoryHref: "/immigration/"
 readTime: "12 min read"
 faqItems:
   - question: "How long does it take to get Swiss residency?"
@@ -65,19 +65,19 @@ Switzerland issues several categories of residence permit. These are the ones re
 
 ### B Permit — Residence Permit
 
-The [B permit](/blog/b-permit-switzerland/) is the standard first-step residence permit for individuals relocating to Switzerland. It is issued for one year initially and is renewable, typically in multi-year increments (up to five years for EU/EFTA nationals under the AFMP). For non-EU nationals, initial B permits are issued for one year and renewed annually subject to continued compliance. The B permit authorises holders to live and work in Switzerland, including as self-employed individuals or as directors and shareholders of Swiss companies. For most entrepreneurs immigrating to Switzerland, the B permit is the target document at the point of arrival.
+The [B permit](/immigration/b-permit-switzerland/) is the standard first-step residence permit for individuals relocating to Switzerland. It is issued for one year initially and is renewable, typically in multi-year increments (up to five years for EU/EFTA nationals under the AFMP). For non-EU nationals, initial B permits are issued for one year and renewed annually subject to continued compliance. The B permit authorises holders to live and work in Switzerland, including as self-employed individuals or as directors and shareholders of Swiss companies. For most entrepreneurs immigrating to Switzerland, the B permit is the target document at the point of arrival.
 
 ### C Permit — Settlement Permit
 
-The [C permit](/blog/c-permit-switzerland/) is the permanent residence permit. It confers near-equivalent rights to Swiss citizenship for daily practical purposes: unrestricted employment rights, no renewal requirement, freedom to change employers or cantons without permission. EU/EFTA nationals from most member states qualify after five years of uninterrupted legal residence. Non-EU nationals from certain treaty countries (notably the United States) qualify after ten years; for most other nationalities, the standard period is also ten years of uninterrupted residence with a clean immigration record. The C permit is the milestone most long-term residents are working toward. It is also a prerequisite for naturalisation on the standard track. See our guide to [Swiss citizenship](/blog/swiss-citizenship/) for a full discussion of the naturalisation timeline.
+The [C permit](/immigration/c-permit-switzerland/) is the permanent residence permit. It confers near-equivalent rights to Swiss citizenship for daily practical purposes: unrestricted employment rights, no renewal requirement, freedom to change employers or cantons without permission. EU/EFTA nationals from most member states qualify after five years of uninterrupted legal residence. Non-EU nationals from certain treaty countries (notably the United States) qualify after ten years; for most other nationalities, the standard period is also ten years of uninterrupted residence with a clean immigration record. The C permit is the milestone most long-term residents are working toward. It is also a prerequisite for naturalisation on the standard track. See our guide to [Swiss citizenship](/immigration/swiss-citizenship/) for a full discussion of the naturalisation timeline.
 
 ### L Permit — Short-Term Residence Permit
 
-The [L permit](/blog/l-permit-switzerland/) authorises stays of up to 12 months and is non-renewable in the same form. It is used for fixed-term employment contracts, intracompany transfers of defined duration, and short-term service assignments. For most entrepreneurs planning a genuine relocation, the L permit is not the end goal — but it can be a useful bridging instrument during the transition period before a B permit application is approved, particularly for executives being transferred to a Swiss subsidiary. We cover this in the section on intracompany transfers below.
+The [L permit](/immigration/l-permit-switzerland/) authorises stays of up to 12 months and is non-renewable in the same form. It is used for fixed-term employment contracts, intracompany transfers of defined duration, and short-term service assignments. For most entrepreneurs planning a genuine relocation, the L permit is not the end goal — but it can be a useful bridging instrument during the transition period before a B permit application is approved, particularly for executives being transferred to a Swiss subsidiary. We cover this in the section on intracompany transfers below.
 
 ### G Permit — Cross-Border Commuter Permit
 
-The [G permit](/blog/g-permit-switzerland/) is issued to individuals who live in a neighbouring country (Germany, Austria, France, Italy, Liechtenstein) and work in Switzerland, returning to their primary residence at least weekly. It is not a residency permit in the meaningful sense — holders do not establish Swiss tax residency. For entrepreneurs who are considering whether to live in Switzerland or merely have a Swiss company, the G permit is occasionally relevant as a transitional structure, but it does not confer the tax residency status that most of our clients are seeking.
+The [G permit](/immigration/g-permit-switzerland/) is issued to individuals who live in a neighbouring country (Germany, Austria, France, Italy, Liechtenstein) and work in Switzerland, returning to their primary residence at least weekly. It is not a residency permit in the meaningful sense — holders do not establish Swiss tax residency. For entrepreneurs who are considering whether to live in Switzerland or merely have a Swiss company, the G permit is occasionally relevant as a transitional structure, but it does not confer the tax residency status that most of our clients are seeking.
 
 ---
 
@@ -87,7 +87,7 @@ If you hold an EU or EFTA passport, the process of establishing Swiss residency 
 
 **Step one** is registering your arrival with the cantonal migration office (Migrationsamt) within 14 days of moving into your accommodation. You will need a valid identity document, proof of accommodation, and documentation of your economic activity — either an employment contract, evidence of self-employment, or confirmation of company formation.
 
-**Step two**, if you are self-employed or forming a company, is registering your business activity. For a GmbH or AG, this means completing [company formation in Switzerland](/blog/company-formation-switzerland/) and registering with the Commercial Register. For self-employment without a separate legal entity, you register directly as a self-employed person with the cantonal AHV compensation office (SVA).
+**Step two**, if you are self-employed or forming a company, is registering your business activity. For a GmbH or AG, this means completing [company formation in Switzerland](/company-formation/company-formation-switzerland/) and registering with the Commercial Register. For self-employment without a separate legal entity, you register directly as a self-employed person with the cantonal AHV compensation office (SVA).
 
 **Step three** is AHV/IV/EO registration. All self-employed individuals in Switzerland — regardless of nationality — must register with the social insurance system and pay contributions. For EU/EFTA nationals operating as self-employed persons, this is mandatory from the first month of activity. Contributions for self-employed persons run at approximately 10% of net income, with a minimum contribution threshold.
 
@@ -123,7 +123,7 @@ A well-prepared non-EU entrepreneur permit application in canton Zug or canton Z
 
 Applications should be prepared with Swiss legal counsel from the outset. Incomplete or poorly framed applications are returned and significantly extend the process. Our team at Lawsupport has handled more than 1,000 formations and immigration-related corporate mandates since 2007; we know what the authorities expect and how to present a client's profile to maximum effect.
 
-For the corporate formation component that typically accompanies an entrepreneur permit application, see our dedicated guides on [company formation in Switzerland](/blog/company-formation-switzerland/) and [company formation in Zug](/blog/company-formation-zug/).
+For the corporate formation component that typically accompanies an entrepreneur permit application, see our dedicated guides on [company formation in Switzerland](/company-formation/company-formation-switzerland/) and [company formation in Zug](/company-formation/company-formation-zug/).
 
 ---
 
@@ -135,7 +135,7 @@ Under this structure, your employer sponsors your permit application. The Swiss 
 
 Processing times for intracompany transfer permits with complete documentation typically run **four to eight weeks** at cantonal level. Permits are initially issued for 12 months as an L permit, then converted to a B permit upon extension.
 
-For executives considering whether to use a [nominee director](/blog/nominee-director-switzerland/) structure during the transition period while their own permit is processed, Lawsupport can advise on compliant interim governance arrangements.
+For executives considering whether to use a [nominee director](/corporate-services/nominee-director-switzerland/) structure during the transition period while their own permit is processed, Lawsupport can advise on compliant interim governance arrangements.
 
 ---
 
@@ -143,19 +143,19 @@ For executives considering whether to use a [nominee director](/blog/nominee-dir
 
 Canton Zug is not the only Swiss canton worth considering for a relocated entrepreneur, but it is the one that consistently attracts the most sophisticated international business people — and for measurable reasons.
 
-**Tax rates**: The effective combined cantonal and municipal corporate income tax rate in Zug is approximately **11.8%**, among the lowest in Switzerland and materially below rates in canton Zurich (approximately 19.7%) or Geneva (approximately 13.99%). For an entrepreneur structuring a Swiss operating company or [holding vehicle](/blog/holding-company-switzerland/), the Zug rate represents a genuine, bankable advantage. See our analysis in [corporate tax in Switzerland](/blog/corporate-tax-switzerland/) for a full canton-by-canton comparison.
+**Tax rates**: The effective combined cantonal and municipal corporate income tax rate in Zug is approximately **11.8%**, among the lowest in Switzerland and materially below rates in canton Zurich (approximately 19.7%) or Geneva (approximately 13.99%). For an entrepreneur structuring a Swiss operating company or [holding vehicle](/company-formation/holding-company-switzerland/), the Zug rate represents a genuine, bankable advantage. See our analysis in [corporate tax in Switzerland](/tax-accounting/corporate-tax-switzerland/) for a full canton-by-canton comparison.
 
 **International community**: Zug has the highest concentration of foreign nationals of any Swiss canton, at approximately 27% of the total population. English functions as a working language in many professional contexts. International schools — including the International School of Zug and Luzern — offer IB curricula and accept students mid-year with limited German requirement.
 
 **Infrastructure**: Zug is 25 minutes by direct train from Zurich Airport (ZRH), one of Europe's best-connected hubs. The town itself is small and walkable, with housing ranging from lakefront villas to modern apartments, all within short commuting distance of Zurich's financial district.
 
-**Regulatory environment**: The cantonal authorities in Zug have institutional experience with internationally mobile entrepreneurs and operate with efficiency and pragmatism. The [commercial register](/blog/commercial-register-switzerland/) processes company formations promptly and the migration office communicates clearly on documentation requirements.
+**Regulatory environment**: The cantonal authorities in Zug have institutional experience with internationally mobile entrepreneurs and operate with efficiency and pragmatism. The [commercial register](/company-formation/commercial-register-switzerland/) processes company formations promptly and the migration office communicates clearly on documentation requirements.
 
 ---
 
 ## Lump-Sum Taxation (Pauschalsteuer) for High-Net-Worth Individuals
 
-Switzerland's expenditure-based taxation regime — known as Pauschalsteuer or forfait fiscal — is one of the most significant and least-understood tools available to high-net-worth individuals relocating to Switzerland. For full details, see our dedicated guide on [lump-sum taxation in Switzerland](/blog/lump-sum-taxation-switzerland/).
+Switzerland's expenditure-based taxation regime — known as Pauschalsteuer or forfait fiscal — is one of the most significant and least-understood tools available to high-net-worth individuals relocating to Switzerland. For full details, see our dedicated guide on [lump-sum taxation in Switzerland](/tax-accounting/lump-sum-taxation-switzerland/).
 
 **Who qualifies**: Lump-sum taxation is available to foreign nationals who are moving to Switzerland for the first time (or returning after an absence of at least ten years) and who do not engage in gainful employment in Switzerland. This means the regime is suited to investors, retirees, beneficiaries of family wealth, and individuals who have structured their income-generating activities outside Switzerland. Swiss nationals do not qualify.
 
@@ -209,7 +209,7 @@ If you are a non-EU national planning to immigrate to Switzerland as an entrepre
 
 2. **Engage Swiss legal counsel early**: The permit application process begins with a pre-application consultation with the cantonal migration authority. Your lawyer should attend this meeting. Unrepresented applicants frequently make framing errors at this stage that prejudice the outcome.
 
-3. **Form your Swiss company**: In most cases, the permit application is strengthened by or conditional upon the existence of a Swiss legal entity. See [company formation in Zug](/blog/company-formation-zug/) for timelines and options. Company formation can typically be completed in two to three weeks.
+3. **Form your Swiss company**: In most cases, the permit application is strengthened by or conditional upon the existence of a Swiss legal entity. See [company formation in Zug](/company-formation/company-formation-zug/) for timelines and options. Company formation can typically be completed in two to three weeks.
 
 4. **Prepare your business plan and financial documentation**: This is the most time-consuming element. The business plan must be in German (or accompanied by a certified translation) and must address the four-part test described above. Financial documentation includes audited or certified accounts, bank statements, evidence of personal assets, and tax returns from your home jurisdiction.
 
@@ -221,7 +221,7 @@ If you are a non-EU national planning to immigrate to Switzerland as an entrepre
 
 8. **Register for AHV, health insurance, and cantonal taxes**: These registrations occur in parallel with or immediately following residency registration.
 
-9. **Open Swiss banking**: Swiss bank accounts for non-EU individuals require documentation of residency and source of funds. Allow four to eight weeks for account opening once permit is in hand. See our guide on [corporate bank accounts in Switzerland](/blog/corporate-bank-account-switzerland/).
+9. **Open Swiss banking**: Swiss bank accounts for non-EU individuals require documentation of residency and source of funds. Allow four to eight weeks for account opening once permit is in hand. See our guide on [corporate bank accounts in Switzerland](/banking/corporate-bank-account-switzerland/).
 
 10. **Ongoing compliance**: B permits are renewed annually for non-EU nationals. Maintain clean tax filings, AHV contributions, and residency records to support future C permit and naturalisation applications.
 
@@ -247,7 +247,7 @@ For the permit application process itself, documentation must generally be submi
 
 **What corporate structures do entrepreneurs typically use in Switzerland?**
 
-The most common structures for relocated entrepreneurs are the GmbH (limited liability company) and the AG (public limited company). The GmbH has a minimum share capital of CHF 20,000 and suits most small to mid-sized businesses. The AG has a minimum share capital of CHF 100,000 (with CHF 50,000 paid in) and is preferred for businesses that may seek external investment or wish to issue bearer shares. Both entity types can be formed within two to three weeks. For a detailed comparison, see our guides on [GmbH formation](/blog/gmbh-formation-switzerland/) and [AG formation](/blog/ag-formation-switzerland/).
+The most common structures for relocated entrepreneurs are the GmbH (limited liability company) and the AG (public limited company). The GmbH has a minimum share capital of CHF 20,000 and suits most small to mid-sized businesses. The AG has a minimum share capital of CHF 100,000 (with CHF 50,000 paid in) and is preferred for businesses that may seek external investment or wish to issue bearer shares. Both entity types can be formed within two to three weeks. For a detailed comparison, see our guides on [GmbH formation](/company-formation/gmbh-formation-switzerland/) and [AG formation](/company-formation/ag-formation-switzerland/).
 
 **Can I change cantons after receiving my permit?**
 
@@ -263,7 +263,7 @@ Beyond business operating costs, budget for: mandatory health insurance (CHF 5,0
 
 **How does Swiss immigration affect my existing business abroad?**
 
-Establishing Swiss residence does not require you to close or sell foreign businesses. However, the tax treatment of income from foreign entities changes once you become Swiss tax resident. Switzerland taxes worldwide income for residents, with credit for foreign taxes paid under applicable double tax treaties. The structure of your foreign holdings (branch vs. subsidiary, active vs. passive income) determines how Swiss tax applies. Pre-immigration tax structuring with a cross-border specialist is essential. See our guide on [double tax treaties](/blog/double-tax-treaties-switzerland/) for treaty details.
+Establishing Swiss residence does not require you to close or sell foreign businesses. However, the tax treatment of income from foreign entities changes once you become Swiss tax resident. Switzerland taxes worldwide income for residents, with credit for foreign taxes paid under applicable double tax treaties. The structure of your foreign holdings (branch vs. subsidiary, active vs. passive income) determines how Swiss tax applies. Pre-immigration tax structuring with a cross-border specialist is essential. See our guide on [double tax treaties](/tax-accounting/double-tax-treaties-switzerland/) for treaty details.
 
 **What happens if my B permit renewal is refused?**
 

@@ -4,7 +4,7 @@ description: "Buy a Swiss shelf company (AG or GmbH) in Zug in 3-5 business days
 date: "19.03.2026"
 publishDate: "2026-05-29"
 category: "Company Formation"
-categoryHref: "/services/company-formation/"
+categoryHref: "/company-formation/"
 readTime: "11 min read"
 tocItems:
   - id: "what-is-a-swiss-shelf-company"
@@ -43,7 +43,7 @@ A shelf company — also called a ready-made company or dormant company — is a
 
 ## What Is a Swiss Shelf Company?
 
-A Swiss shelf company is an Aktiengesellschaft (AG) or Gesellschaft mit beschraenkter Haftung (GmbH) that was legally incorporated, entered into the [Commercial Register](/blog/commercial-register-switzerland/), and then kept completely dormant. It has never traded, has no existing liabilities, holds no contracts, and carries no legal or tax history beyond its original registration.
+A Swiss shelf company is an Aktiengesellschaft (AG) or Gesellschaft mit beschraenkter Haftung (GmbH) that was legally incorporated, entered into the [Commercial Register](/company-formation/commercial-register-switzerland/), and then kept completely dormant. It has never traded, has no existing liabilities, holds no contracts, and carries no legal or tax history beyond its original registration.
 
 All shares are held by the current owner — in Lawsupport's case, that is Morgan Hartley Consulting or a designated trustee — until a buyer is identified.
 
@@ -56,7 +56,7 @@ When you acquire the company, the following steps occur in sequence:
 
 The result: you receive a fully operational Swiss legal entity with an existing Commercial Register entry, often within one week of signing. The entity's registration date remains unchanged — that is one of the core reasons buyers pay a premium for shelf companies.
 
-For background on how Swiss entities are structured from the ground up, see our pages on [GmbH formation in Switzerland](/blog/gmbh-formation-switzerland/) and [AG formation in Switzerland](/blog/ag-formation-switzerland/).
+For background on how Swiss entities are structured from the ground up, see our pages on [GmbH formation in Switzerland](/company-formation/gmbh-formation-switzerland/) and [AG formation in Switzerland](/company-formation/ag-formation-switzerland/).
 
 ---
 
@@ -70,7 +70,7 @@ If a counterparty requires a Swiss-registered legal entity to execute a contract
 
 **2. You need an existing banking relationship.**
 
-Opening a corporate bank account in Switzerland is the longest single step in the [company formation process](/blog/company-formation-switzerland/) — routinely 4-8 weeks at major Swiss banks, and sometimes longer. A shelf company that already holds an active bank account eliminates that delay. Not all shelf companies carry an active account, so this must be confirmed during due diligence, but when it is available, the time saving is substantial. See our guide to [corporate bank account opening in Switzerland](/blog/corporate-bank-account-switzerland/) for full context on the banking process.
+Opening a corporate bank account in Switzerland is the longest single step in the [company formation process](/company-formation/company-formation-switzerland/) — routinely 4-8 weeks at major Swiss banks, and sometimes longer. A shelf company that already holds an active bank account eliminates that delay. Not all shelf companies carry an active account, so this must be confirmed during due diligence, but when it is available, the time saving is substantial. See our guide to [corporate bank account opening in Switzerland](/banking/corporate-bank-account-switzerland/) for full context on the banking process.
 
 **3. You need a company with an older registration date.**
 
@@ -78,17 +78,17 @@ Some public tenders, procurement contracts, and institutional partnerships requi
 
 **4. You face an urgent regulatory filing.**
 
-Certain filings with Swiss regulatory bodies, FINMA included, require an applicant to be an existing Swiss legal entity. If that requirement arises faster than a fresh formation can be completed, a shelf company resolves the problem. For businesses that require [FINMA licensing](/blog/finma-licensing-switzerland/), having an operational entity ready to go is often essential.
+Certain filings with Swiss regulatory bodies, FINMA included, require an applicant to be an existing Swiss legal entity. If that requirement arises faster than a fresh formation can be completed, a shelf company resolves the problem. For businesses that require [FINMA licensing](/licensing/finma-licensing-switzerland/), having an operational entity ready to go is often essential.
 
 ---
 
 ## When a Fresh Formation Is the Better Choice
 
-For many clients, a fresh [company formation in Switzerland](/blog/company-formation-switzerland/) will be more appropriate than acquiring a shelf company. Here is when that is the case.
+For many clients, a fresh [company formation in Switzerland](/company-formation/company-formation-switzerland/) will be more appropriate than acquiring a shelf company. Here is when that is the case.
 
 **Custom share structure.** If you require a specific share class arrangement, preferred shares, or a non-standard capital structure, you will not find that in a shelf company's existing articles. Amending a shelf company's structure post-acquisition is possible but adds cost and notarial time, often negating the speed advantage.
 
-**Specific canton not in current inventory.** Lawsupport maintains shelf companies in Zug. If your business rationale requires incorporation in Geneva, Basel, or another canton, and no shelf inventory exists there, a fresh formation in your target canton is the practical path. See our dedicated page on [company formation in Zug](/blog/company-formation-zug/) if Zug is your preferred location.
+**Specific canton not in current inventory.** Lawsupport maintains shelf companies in Zug. If your business rationale requires incorporation in Geneva, Basel, or another canton, and no shelf inventory exists there, a fresh formation in your target canton is the practical path. See our dedicated page on [company formation in Zug](/company-formation/company-formation-zug/) if Zug is your preferred location.
 
 **Purpose clause significantly different from existing articles.** A shelf company's articles will state a general commercial purpose. If your intended business activity is highly regulated — financial intermediation, for example — the articles amendment process becomes more complex, and regulatory pre-approval may be required before the amendment can be filed.
 
@@ -119,7 +119,7 @@ Outgoing directors resign; your nominated directors or a Lawsupport-appointed di
 The amended deed is submitted to the Commercial Register of Zug. Processing time is typically 5-10 business days. Upon registration, the updated entry reflects the new directors, new articles, and any name change.
 
 **Step 7 — Bank account opening.**
-If the shelf company does not carry an existing bank account, a new corporate account is opened at this stage. This step runs in parallel with the Commercial Register filing where possible. Full timeline for bank account opening: 4-8 weeks depending on the bank and [due diligence requirements](/blog/due-diligence-switzerland/).
+If the shelf company does not carry an existing bank account, a new corporate account is opened at this stage. This step runs in parallel with the Commercial Register filing where possible. Full timeline for bank account opening: 4-8 weeks depending on the bank and [due diligence requirements](/corporate-transactions/due-diligence-switzerland/).
 
 ---
 
@@ -164,7 +164,7 @@ Whether you are acquiring a shelf company through Lawsupport or independently, t
 
 **Bank account status.** Confirm whether the company holds an active bank account and, if so, its current balance and transaction history. An account with any unexplained transaction history should be treated as a disqualifying factor.
 
-**AHV and social security registration.** Confirm that no employees have been registered under the company and that no [social security obligations](/blog/social-insurance-switzerland/) are outstanding.
+**AHV and social security registration.** Confirm that no employees have been registered under the company and that no [social security obligations](/tax-accounting/social-insurance-switzerland/) are outstanding.
 
 ---
 
@@ -199,15 +199,15 @@ In most cases, no — unless the original name happens to suit your business and
 
 **Do shelf companies have a bank account?**
 
-Some do; most do not. When a shelf company in Lawsupport's inventory holds an active, clean bank account, we will flag that explicitly — it is a significant value-add given Swiss corporate banking timelines. If no account exists, bank account opening proceeds in parallel with the Commercial Register update after acquisition. Full details on the Swiss corporate banking process are available on our [corporate bank account Switzerland](/blog/corporate-bank-account-switzerland/) page.
+Some do; most do not. When a shelf company in Lawsupport's inventory holds an active, clean bank account, we will flag that explicitly — it is a significant value-add given Swiss corporate banking timelines. If no account exists, bank account opening proceeds in parallel with the Commercial Register update after acquisition. Full details on the Swiss corporate banking process are available on our [corporate bank account Switzerland](/banking/corporate-bank-account-switzerland/) page.
 
 **What taxes apply when buying a shelf company?**
 
-The share transfer itself may attract [stamp duty](/blog/stamp-duty-switzerland/) (securities transfer stamp) depending on whether a Swiss securities dealer is involved. For direct private share transfers without bank intermediation, the stamp typically does not apply. The shelf company's prior tax position — confirmed clean through due diligence — means no inherited tax liabilities.
+The share transfer itself may attract [stamp duty](/tax-accounting/stamp-duty-switzerland/) (securities transfer stamp) depending on whether a Swiss securities dealer is involved. For direct private share transfers without bank intermediation, the stamp typically does not apply. The shelf company's prior tax position — confirmed clean through due diligence — means no inherited tax liabilities.
 
 **Can I buy a shelf company in any Swiss canton?**
 
-Lawsupport maintains its shelf company inventory in Zug. If you require a shelf company registered in another canton, availability depends on current stock. For cantons where no shelf company is available, a fresh [company formation](/blog/company-formation-switzerland/) is the practical alternative.
+Lawsupport maintains its shelf company inventory in Zug. If you require a shelf company registered in another canton, availability depends on current stock. For cantons where no shelf company is available, a fresh [company formation](/company-formation/company-formation-switzerland/) is the practical alternative.
 
 **How long does the full transfer process take?**
 
@@ -215,11 +215,11 @@ From signing the share purchase agreement to receiving the updated Commercial Re
 
 **Is a shelf company suitable for a holding structure?**
 
-Yes. A shelf company can be restructured as a [holding company](/blog/holding-company-switzerland/) by amending the purpose clause in the articles of association. This is a standard amendment handled during the acquisition process. The holding purpose must be reflected in the articles before the company begins operating as a holding entity.
+Yes. A shelf company can be restructured as a [holding company](/company-formation/holding-company-switzerland/) by amending the purpose clause in the articles of association. This is a standard amendment handled during the acquisition process. The holding purpose must be reflected in the articles before the company begins operating as a holding entity.
 
 **Do I need a Swiss resident director for the shelf company?**
 
-Under Swiss law, at least one person authorised to represent the company must be resident in Switzerland. This can be one of your own directors (if Swiss-resident) or a [nominee director](/blog/nominee-director-switzerland/) provided by Lawsupport. This requirement applies to both AG and GmbH entities.
+Under Swiss law, at least one person authorised to represent the company must be resident in Switzerland. This can be one of your own directors (if Swiss-resident) or a [nominee director](/corporate-services/nominee-director-switzerland/) provided by Lawsupport. This requirement applies to both AG and GmbH entities.
 
 **What happens to the shelf company's original directors after I buy it?**
 

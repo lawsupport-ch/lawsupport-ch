@@ -4,7 +4,7 @@ description: "How to form a Swiss Verein (association) under Art. 60 ZGB: requir
 date: "19.03.2026"
 publishDate: "2026-06-12"
 category: "Company Formation"
-categoryHref: "/services/company-formation/"
+categoryHref: "/company-formation/"
 readTime: "11 min read"
 tocItems:
   - id: "what-a-swiss-verein-is"
@@ -47,7 +47,7 @@ A Verein is an association of persons united by a common purpose. It is:
 - Purpose-based: the purpose is stated in the statutes; the Verein is operated for that purpose
 - Not-for-profit in the civil law sense: any surplus cannot be distributed to members as dividends — but it can pay employees, cover costs, and invest in purpose-related activities
 
-The Verein is distinct from a [Swiss foundation (Stiftung)](/blog/swiss-foundation/), which has no members and is governed by a foundation board rather than a general assembly. Choosing between these two structures depends on your governance preferences and purpose.
+The Verein is distinct from a [Swiss foundation (Stiftung)](/company-formation/swiss-foundation/), which has no members and is governed by a foundation board rather than a general assembly. Choosing between these two structures depends on your governance preferences and purpose.
 
 ---
 
@@ -61,7 +61,7 @@ Swiss associations are among the simplest legal entities to form:
 
 **No notary required.** No minimum capital. No Commercial Register filing required for non-commercially active associations.
 
-**For commercially active or larger Vereins:** Voluntary or mandatory [Commercial Register](/blog/commercial-register-switzerland/) filing applies. An association that pursues commercial activities (trading, providing services) must register in the Commercial Register of its domicile canton.
+**For commercially active or larger Vereins:** Voluntary or mandatory [Commercial Register](/company-formation/commercial-register-switzerland/) filing applies. An association that pursues commercial activities (trading, providing services) must register in the Commercial Register of its domicile canton.
 
 **What the statutes must contain (Art. 60 ZGB):**
 - Name of the association
@@ -94,7 +94,7 @@ Additional bodies (optional): President, Secretary-General, Auditors.
 
 **NGOs and charities:** Non-profit charitable organisations — relief organisations, environmental groups, cultural associations.
 
-**Crypto / blockchain projects:** The Ethereum Foundation is a Swiss Stiftung, but many comparable projects use a Verein structure. The Swiss Verein offers decentralised membership governance and is used by open-source blockchain projects that issue tokens or manage protocol treasuries. See our guide to [crypto licensing in Switzerland](/blog/crypto-license-switzerland/) for regulatory considerations.
+**Crypto / blockchain projects:** The Ethereum Foundation is a Swiss Stiftung, but many comparable projects use a Verein structure. The Swiss Verein offers decentralised membership governance and is used by open-source blockchain projects that issue tokens or manage protocol treasuries. See our guide to [crypto licensing in Switzerland](/licensing/crypto-license-switzerland/) for regulatory considerations.
 
 **International organisation holding structures:** "Swiss Verein" is also used in professional services partnerships (e.g., the Big 4 accounting firms use a Swiss Verein as the international umbrella entity — legally, each national firm is independent but affiliated through the Verein).
 
@@ -102,13 +102,13 @@ Additional bodies (optional): President, Secretary-General, Auditors.
 
 ## Tax Treatment
 
-A Swiss Verein is a legal entity and is subject to cantonal and federal [corporate income tax](/blog/corporate-tax-switzerland/), unless it qualifies for tax exemption.
+A Swiss Verein is a legal entity and is subject to cantonal and federal [corporate income tax](/tax-accounting/corporate-tax-switzerland/), unless it qualifies for tax exemption.
 
 **Tax exemption:** Associations pursuing genuinely public benefit or charitable purposes can apply to the cantonal tax authority for tax exemption. Requirements: the purpose must be exclusively non-profit and charitable; no private enrichment of members.
 
 **Commercially active Verein:** Pays ordinary corporate income tax on commercial profits. Non-commercial surplus (membership fees applied to purpose) is generally not taxed.
 
-**VAT:** An association whose turnover from taxable activities exceeds CHF 100'000/year must [register for VAT](/blog/vat-registration-switzerland/). Membership fees may be exempt from VAT depending on the nature of the services provided.
+**VAT:** An association whose turnover from taxable activities exceeds CHF 100'000/year must [register for VAT](/tax-accounting/vat-registration-switzerland/). Membership fees may be exempt from VAT depending on the nature of the services provided.
 
 ---
 
@@ -130,7 +130,7 @@ For crypto token projects: both Verein and Stiftung are used, depending on gover
 
 ## Verein vs GmbH: When to Choose Which
 
-If your goal is commercial activity with profit distribution, a [GmbH](/blog/gmbh-formation-switzerland/) or [AG](/blog/ag-formation-switzerland/) is the correct structure. The Verein cannot distribute profits to members. However, a Verein that operates commercially can own subsidiaries (including a GmbH) and channel revenues through the corporate subsidiary while maintaining the non-profit Verein as the parent governance entity. This hybrid structure is common in sports, media, and the crypto sector.
+If your goal is commercial activity with profit distribution, a [GmbH](/company-formation/gmbh-formation-switzerland/) or [AG](/company-formation/ag-formation-switzerland/) is the correct structure. The Verein cannot distribute profits to members. However, a Verein that operates commercially can own subsidiaries (including a GmbH) and channel revenues through the corporate subsidiary while maintaining the non-profit Verein as the parent governance entity. This hybrid structure is common in sports, media, and the crypto sector.
 
 ---
 
@@ -162,7 +162,7 @@ Only if it conducts commercial activities or voluntarily chooses to register. No
 
 **What are the annual obligations of a Swiss Verein?**
 
-At minimum: hold an annual general assembly, present annual accounts to members, and elect or confirm the committee. Tax-exempt Vereins must file an annual tax declaration confirming their exempt status. Commercially active Vereins must file corporate tax returns and, if applicable, [VAT returns](/blog/vat-switzerland/).
+At minimum: hold an annual general assembly, present annual accounts to members, and elect or confirm the committee. Tax-exempt Vereins must file an annual tax declaration confirming their exempt status. Commercially active Vereins must file corporate tax returns and, if applicable, [VAT returns](/tax-accounting/vat-switzerland/).
 
 **Can a Verein employ staff?**
 

@@ -3,7 +3,7 @@ title: "Statutory Audit Switzerland: Thresholds & Opt-Out"
 description: "Swiss statutory audit: ordinary vs limited revision, opting-out thresholds, FAOA licensing, and costs for AG and GmbH. Get a free assessment."
 date: "19.03.2026"
 category: "Tax & Accounting"
-categoryHref: "/blog/"
+categoryHref: "/tax-accounting/"
 readTime: "9 min read"
 faqItems:
   - question: "Does every Swiss GmbH need a statutory auditor?"
@@ -70,7 +70,7 @@ Statutory audit requirements in Switzerland are set out in the **Swiss Code of O
 
 The oversight of auditors themselves falls to the **Financial Audit Oversight Authority (FAOA)** — in German, the *Eidgenössische Revisionsaufsichtsbehörde (RAB)* — a federal body responsible for licensing and supervising auditors performing statutory revisions in Switzerland. You can verify any auditor's registration on the <a href="https://www.rab-asr.ch/en/register" target="_blank" rel="nofollow noopener">RAB public register</a>.
 
-For a broader view of the accounting and tax obligations that sit alongside your audit requirements, see our overview of [accounting services in Switzerland](/blog/accounting-switzerland/).
+For a broader view of the accounting and tax obligations that sit alongside your audit requirements, see our overview of [accounting services in Switzerland](/tax-accounting/accounting-switzerland/).
 
 ---
 
@@ -190,7 +190,7 @@ The limited audit generates costs — typically **CHF 2,000 to CHF 6,000 per yea
 
 If none of these conditions apply, document the opt-out resolution in your AGM minutes each year and keep your annual accounts in good order. Your statutory obligations are then satisfied.
 
-For more on tax filings that accompany your annual accounts, see our guide to the [corporate tax return in Switzerland](/blog/corporate-tax-return-switzerland/).
+For more on tax filings that accompany your annual accounts, see our guide to the [corporate tax return in Switzerland](/tax-accounting/corporate-tax-return-switzerland/).
 
 ---
 
@@ -233,7 +233,7 @@ Key points for international groups:
 
 Lawsupport assists clients in coordinating these arrangements, identifying a suitable Swiss-licensed auditor familiar with IFRS reporting environments, and ensuring the statutory filing timeline aligns with the group's consolidation calendar.
 
-If you are setting up the Swiss entity, see our guides on [company formation in Switzerland](/blog/company-formation-switzerland/) and [AG formation in Switzerland](/blog/ag-formation-switzerland/).
+If you are setting up the Swiss entity, see our guides on [company formation in Switzerland](/company-formation/company-formation-switzerland/) and [AG formation in Switzerland](/company-formation/ag-formation-switzerland/).
 
 ---
 
@@ -249,7 +249,7 @@ Lawsupport does not itself perform statutory audits — audit work must be condu
 
 We have been advising foreign founders and international companies on Swiss corporate compliance for over 18 years, across more than 1,000 company formations for clients from more than 40 countries. We know which auditors operate efficiently for simple foreign-owned structures and which firms are equipped for more complex mandates.
 
-For guidance on internal controls and risk-based reviews separate from the statutory requirement, see our overview of [internal audit in Switzerland](/blog/internal-audit-switzerland/).
+For guidance on internal controls and risk-based reviews separate from the statutory requirement, see our overview of [internal audit in Switzerland](/corporate-services/internal-audit-switzerland/).
 
 ---
 

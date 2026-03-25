@@ -3,7 +3,7 @@ title: "Branch Office Switzerland: Registration & Requirements"
 description: "Register a branch office (Zweigniederlassung) in Switzerland: requirements, costs, timelines, tax rules, and when a subsidiary is better. Free assessment."
 date: "19.03.2026"
 category: "Company Formation"
-categoryHref: "/services/company-formation/"
+categoryHref: "/company-formation/"
 readTime: "11 min read"
 tocItems:
   - id: "what-a-branch-office-is"
@@ -35,11 +35,11 @@ A Swiss branch office is a legally registered business unit of a foreign company
 
 - Has a fixed place of business in Switzerland
 - Conducts business activity under the foreign company's name, with the designation "Zweigniederlassung" appended
-- Is entered in the <a href="/blog/commercial-register-switzerland/">Swiss Commercial Register (Handelsregister)</a>
+- Is entered in the <a href="/company-formation/commercial-register-switzerland/">Swiss Commercial Register (Handelsregister)</a>
 
 The branch is not a separate legal entity. The foreign company (the head office) is the contracting party, bears the branch's liabilities, and is taxed on the branch's attributable Swiss profit.
 
-This is the key distinction from a subsidiary: a Swiss [GmbH](/blog/gmbh-formation-switzerland/) or [AG](/blog/ag-formation-switzerland/) is a separate legal entity with its own share capital and limited liability. A branch has no separate legal personality — the head office's assets are at risk for branch liabilities.
+This is the key distinction from a subsidiary: a Swiss [GmbH](/company-formation/gmbh-formation-switzerland/) or [AG](/company-formation/ag-formation-switzerland/) is a separate legal entity with its own share capital and limited liability. A branch has no separate legal personality — the head office's assets are at risk for branch liabilities.
 
 ---
 
@@ -52,7 +52,7 @@ A branch structure is typically appropriate for:
 - **Companies that need to keep Swiss activity within the parent entity's legal structure** for internal accounting, financing, or group policy reasons
 - **Construction or project businesses** with short-term Swiss activities — though for projects below a certain scope, a branch may not be required at all
 
-For most businesses with a long-term Swiss strategy, a [Swiss company formation](/blog/company-formation-switzerland/) via a GmbH or AG is preferable. The branch is a lighter, faster entry point — but it comes with unlimited parental liability and more limited structural flexibility.
+For most businesses with a long-term Swiss strategy, a [Swiss company formation](/company-formation/company-formation-switzerland/) via a GmbH or AG is preferable. The branch is a lighter, faster entry point — but it comes with unlimited parental liability and more limited structural flexibility.
 
 ---
 
@@ -76,7 +76,7 @@ A board resolution or equivalent decision authorising the establishment of the S
 Switzerland requires every branch to have at least one authorised representative (Zeichnungsberechtigter) domiciled in Switzerland with individual signatory authority. This person must be named in the register and their appointment is publicly visible. Lawsupport provides Swiss-resident representative services for branch offices where clients do not have a suitable local person.
 
 **6. Branch purpose and Swiss address**
-The branch must have a [registered Swiss address](/blog/registered-address-switzerland/) and a defined business purpose consistent with — or a subset of — the parent company's activities.
+The branch must have a [registered Swiss address](/corporate-services/registered-address-switzerland/) and a defined business purpose consistent with — or a subset of — the parent company's activities.
 
 ---
 
@@ -126,7 +126,7 @@ Key tax points:
 | Accounting obligations | Tax return only; no separate statutory accounts | Full Swiss statutory accounts required |
 | Best suited for | Short-term presence, market testing | Long-term operations, liability protection |
 
-For most international businesses with a long-term Swiss strategy, a [GmbH](/blog/gmbh-formation-switzerland/) or [AG](/blog/ag-formation-switzerland/) is preferable for liability protection, a cleaner tax structure, and operational flexibility. See our [doing business in Switzerland](/blog/doing-business-in-switzerland/) guide for a broader comparison of entry structures.
+For most international businesses with a long-term Swiss strategy, a [GmbH](/company-formation/gmbh-formation-switzerland/) or [AG](/company-formation/ag-formation-switzerland/) is preferable for liability protection, a cleaner tax structure, and operational flexibility. See our [doing business in Switzerland](/company-formation/doing-business-in-switzerland/) guide for a broader comparison of entry structures.
 
 ---
 
@@ -165,13 +165,13 @@ Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, 6300 Zug | +41 44 51 52 
 
 **What is the difference between a branch office and a subsidiary in Switzerland?**
 
-A branch office (Zweigniederlassung) is not a separate legal entity — it is an extension of the foreign parent company, and the parent bears full liability for all branch obligations. A subsidiary ([GmbH](/blog/gmbh-formation-switzerland/) or [AG](/blog/ag-formation-switzerland/)) is a distinct Swiss legal entity with its own share capital and limited liability. The parent's assets are shielded from subsidiary debts. For most long-term operations, a subsidiary offers stronger liability protection and more structural flexibility.
+A branch office (Zweigniederlassung) is not a separate legal entity — it is an extension of the foreign parent company, and the parent bears full liability for all branch obligations. A subsidiary ([GmbH](/company-formation/gmbh-formation-switzerland/) or [AG](/company-formation/ag-formation-switzerland/)) is a distinct Swiss legal entity with its own share capital and limited liability. The parent's assets are shielded from subsidiary debts. For most long-term operations, a subsidiary offers stronger liability protection and more structural flexibility.
 
 ---
 
 **What are the registration requirements for a Swiss branch office?**
 
-You need: (1) an apostilled extract from the foreign company's home register, (2) a notarised translation if documents are not in German, French, or Italian, (3) the parent company's articles of association, (4) a board resolution authorising the branch, (5) a Swiss-resident authorised signatory, and (6) a Swiss registered address. The branch is entered in the [cantonal Commercial Register](/blog/commercial-register-switzerland/) under Article 935 CO.
+You need: (1) an apostilled extract from the foreign company's home register, (2) a notarised translation if documents are not in German, French, or Italian, (3) the parent company's articles of association, (4) a board resolution authorising the branch, (5) a Swiss-resident authorised signatory, and (6) a Swiss registered address. The branch is entered in the [cantonal Commercial Register](/company-formation/commercial-register-switzerland/) under Article 935 CO.
 
 ---
 
@@ -183,7 +183,7 @@ Yes. Under Article 935 CO, every Swiss branch must have at least one authorised 
 
 **How is a branch office entered in the Swiss Commercial Register?**
 
-The branch is registered with the [cantonal Commercial Register](/blog/commercial-register-switzerland/) where it conducts business. No Swiss notarial deed is required — the notarial requirements relate to apostilling the foreign parent's home documents. Registration takes 15–25 business days from complete filing. Once registered, the branch appears in <a href="https://www.zefix.ch" target="_blank" rel="nofollow noopener">zefix.ch</a>, the federal register index.
+The branch is registered with the [cantonal Commercial Register](/company-formation/commercial-register-switzerland/) where it conducts business. No Swiss notarial deed is required — the notarial requirements relate to apostilling the foreign parent's home documents. Registration takes 15–25 business days from complete filing. Once registered, the branch appears in <a href="https://www.zefix.ch" target="_blank" rel="nofollow noopener">zefix.ch</a>, the federal register index.
 
 ---
 

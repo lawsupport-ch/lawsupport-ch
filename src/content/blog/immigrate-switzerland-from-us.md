@@ -4,7 +4,7 @@ description: "How Americans can move to Switzerland: work permits, retirement vi
 date: "19.03.2026"
 publishDate: "2026-04-13"
 category: "Immigration"
-categoryHref: "/blog/"
+categoryHref: "/immigration/"
 readTime: "8 min read"
 faqItems:
   - question: "Can Americans retire in Switzerland?"
@@ -59,7 +59,7 @@ For most Americans, the realistic path to Switzerland runs through a job offer f
 
 **How it works:**
 
-A Swiss employer identifies you as the candidate they want to hire. Because you are a non-EU national, the employer must first conduct a priority check — demonstrating that no suitable Swiss resident or EU/EFTA national was available for the role. If that check is passed, the employer applies for a [work permit in Switzerland](/blog/work-permit-switzerland/) on your behalf.
+A Swiss employer identifies you as the candidate they want to hire. Because you are a non-EU national, the employer must first conduct a priority check — demonstrating that no suitable Swiss resident or EU/EFTA national was available for the role. If that check is passed, the employer applies for a [work permit in Switzerland](/immigration/work-permit-switzerland/) on your behalf.
 
 **Key requirements:**
 
@@ -70,7 +70,7 @@ A Swiss employer identifies you as the candidate they want to hire. Because you 
 
 **Quota system:** Switzerland allocates a fixed annual quota of work permits for non-EU nationals. Demand regularly exceeds supply in certain cantons. Applications submitted early in the calendar year have better prospects. Quotas reset annually on 1 January.
 
-**Permit issued:** B permit (renewable annual residence permit). See our detailed guide on the [B permit in Switzerland](/blog/b-permit-switzerland/).
+**Permit issued:** B permit (renewable annual residence permit). See our detailed guide on the [B permit in Switzerland](/immigration/b-permit-switzerland/).
 
 **Realistic timeline:** 8 to 16 weeks from application submission to permit approval. Add 2 to 4 weeks for the D visa from the Swiss consulate in the US before you travel.
 
@@ -93,7 +93,7 @@ For a non-EU national to obtain a self-employment permit, cantonal authorities e
 
 There is no guaranteed process. Applications are evaluated individually. Approval rates for non-EU self-employment permits are lower than for employment-based permits, and processing times vary widely. Plan for six months minimum before any certainty.
 
-If self-employment is your goal, cantonal choice matters significantly. Entrepreneurs often pair the permit application with [company formation in Switzerland](/blog/company-formation-switzerland/) — having an established legal entity strengthens the case.
+If self-employment is your goal, cantonal choice matters significantly. Entrepreneurs often pair the permit application with [company formation in Switzerland](/company-formation/company-formation-switzerland/) — having an established legal entity strengthens the case.
 
 ---
 
@@ -101,7 +101,7 @@ If self-employment is your goal, cantonal choice matters significantly. Entrepre
 
 Switzerland offers a specific residence pathway for wealthy foreign nationals who do not intend to work in Switzerland: the lump-sum taxation regime (Pauschalbesteuerung). For Americans with substantial assets, this is a legitimate and well-established route.
 
-**What it is:** Instead of being taxed on actual worldwide income, you are taxed on a negotiated figure based on your Swiss living expenses — typically five to seven times your annual Swiss rental costs, with cantonal minimums. This can represent a significant reduction in Swiss tax liability compared to standard cantonal income tax. For the full mechanics, see our guide on [lump-sum taxation in Switzerland](/blog/lump-sum-taxation-switzerland/).
+**What it is:** Instead of being taxed on actual worldwide income, you are taxed on a negotiated figure based on your Swiss living expenses — typically five to seven times your annual Swiss rental costs, with cantonal minimums. This can represent a significant reduction in Swiss tax liability compared to standard cantonal income tax. For the full mechanics, see our guide on [lump-sum taxation in Switzerland](/tax-accounting/lump-sum-taxation-switzerland/).
 
 **Eligibility requirements:**
 
@@ -120,7 +120,7 @@ Switzerland offers a specific residence pathway for wealthy foreign nationals wh
 
 If you are married to a Swiss citizen, or to an EU/EFTA national who holds a Swiss permit, you have a family reunification pathway.
 
-- **Spouse of a Swiss citizen:** You are entitled to a B permit, which converts to a [C permit (permanent residence)](/blog/c-permit-switzerland/) after five years. You may apply for facilitated naturalisation after three years of marriage.
+- **Spouse of a Swiss citizen:** You are entitled to a B permit, which converts to a [C permit (permanent residence)](/immigration/c-permit-switzerland/) after five years. You may apply for facilitated naturalisation after three years of marriage.
 - **Spouse of an EU/EFTA permit holder:** Your rights track your partner's permit type. If your partner holds a B permit, you apply for a B permit.
 
 Family reunification is more straightforward than employment-based immigration but is not automatic. Documentation requirements are substantial. Both partners must demonstrate cohabitation and genuine family life.
@@ -142,7 +142,7 @@ The US Foreign Account Tax Compliance Act (FATCA) requires Swiss financial insti
 
 Plan for this before you arrive. Arriving in Switzerland without a clear banking solution creates immediate practical difficulties — landlords, employers, and government offices require Swiss bank accounts for payment and direct debit arrangements.
 
-For a current list of banks accepting US clients, see our guide on [Swiss bank accounts](/blog/swiss-bank-account/).
+For a current list of banks accepting US clients, see our guide on [Swiss bank accounts](/banking/swiss-bank-account/).
 
 ---
 
@@ -154,7 +154,7 @@ This is the most important thing Americans underestimate before moving to Switze
 
 **Key mechanisms:**
 
-**US-Switzerland Double Tax Agreement (DTA):** The treaty provides foreign tax credits, allowing you to offset Swiss taxes paid against your US tax liability. This reduces but rarely eliminates double taxation entirely, and the interaction is complex enough to require specialist advice. For a broader view of treaty benefits, see our guide on [double tax treaties in Switzerland](/blog/double-tax-treaties-switzerland/).
+**US-Switzerland Double Tax Agreement (DTA):** The treaty provides foreign tax credits, allowing you to offset Swiss taxes paid against your US tax liability. This reduces but rarely eliminates double taxation entirely, and the interaction is complex enough to require specialist advice. For a broader view of treaty benefits, see our guide on [double tax treaties in Switzerland](/tax-accounting/double-tax-treaties-switzerland/).
 
 **Foreign Earned Income Exclusion (FEIE):** In 2026, Americans who meet the bona fide residence test — meaning they have established genuine Swiss residence for a full tax year — can exclude approximately USD 120,000 of foreign-earned income from US taxable income. This reduces your US tax bill. It does not zero it out, and it does not apply to investment income.
 
@@ -252,9 +252,9 @@ info@lawsupport.ch
 
 ## Related Guides
 
-- [Immigrate to Switzerland](/blog/immigrate-to-switzerland/)
-- [B Permit Switzerland](/blog/b-permit-switzerland/)
-- [Work Permit Switzerland](/blog/work-permit-switzerland/)
-- [Swiss Citizenship](/blog/swiss-citizenship/)
+- [Immigrate to Switzerland](/immigration/immigrate-to-switzerland/)
+- [B Permit Switzerland](/immigration/b-permit-switzerland/)
+- [Work Permit Switzerland](/immigration/work-permit-switzerland/)
+- [Swiss Citizenship](/immigration/swiss-citizenship/)
 
 *Sources: <a href="https://www.sem.admin.ch/sem/en/home/themen/arbeit.html" target="_blank" rel="nofollow noopener">State Secretariat for Migration (SEM) — Work</a> | <a href="https://www.irs.gov/individuals/international-taxpayers/us-citizens-and-residents-abroad-filing-requirements" target="_blank" rel="nofollow noopener">IRS Filing Requirements for US Citizens Abroad</a> | <a href="https://www.fedlex.admin.ch/eli/cc/2007/758/en" target="_blank" rel="nofollow noopener">Swiss Foreign Nationals and Integration Act (Fedlex)</a>*

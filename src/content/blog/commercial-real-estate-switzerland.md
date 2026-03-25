@@ -3,7 +3,7 @@ title: "Commercial Real Estate Switzerland: Office Space Guide"
 description: "Leasing office space in Switzerland: Zug, Zurich, Geneva prices, lease terms, Lex Koller rules for commercial property. Free assessment."
 date: "19.03.2026"
 category: "Company Formation"
-categoryHref: "/services/company-formation/"
+categoryHref: "/company-formation/"
 readTime: "8 min read"
 tocItems:
   - id: "the-market-in-2026-what-you-need-to-know-first"
@@ -55,7 +55,7 @@ Prime rents in Switzerland reflect the country's wage levels and the scarcity of
 
 **Zurich CBD** follows closely. The financial district around Paradeplatz and Bahnhofstrasse commands top-of-range pricing. Secondary Zurich locations — Oerlikon, Altstetten, Schlieren — offer materially lower rents with good public transport connections.
 
-**Zug** warrants particular attention for foreign companies establishing Swiss holding or operating structures. The canton's tax regime (effective corporate tax rates in the 11–12% range) is a primary driver of demand. Rents are competitive relative to Zurich, and the commuter corridor to Zurich means talent access is not significantly compromised. Lawsupport's own offices are in Zug at Grafenauweg 4, and we advise most clients setting up [Swiss companies](/blog/company-formation-switzerland/) to consider the canton seriously.
+**Zug** warrants particular attention for foreign companies establishing Swiss holding or operating structures. The canton's tax regime (effective corporate tax rates in the 11–12% range) is a primary driver of demand. Rents are competitive relative to Zurich, and the commuter corridor to Zurich means talent access is not significantly compromised. Lawsupport's own offices are in Zug at Grafenauweg 4, and we advise most clients setting up [Swiss companies](/company-formation/company-formation-switzerland/) to consider the canton seriously.
 
 **Basel** appeals to life sciences, pharmaceuticals, and logistics operators. Space supply is more balanced and rents are accordingly lower than Zurich or Geneva, while infrastructure quality is high.
 
@@ -95,11 +95,11 @@ Pricing ranges from approximately CHF 300/month for a hot desk membership to CHF
 
 This distinction matters for compliance and cost planning.
 
-A **registered address** (domicile service) satisfies the [Commercial Register](/blog/commercial-register-switzerland/) requirement that every Swiss company maintain a registered office address in Switzerland. It does not require you to occupy physical space. For a holding company or a newly incorporated entity that has not yet deployed staff or clients in Switzerland, a domicile service is sufficient and cost-effective. See our [registered address Switzerland](/blog/registered-address-switzerland/) and [virtual office Switzerland](/blog/virtual-office-switzerland/) guides for options.
+A **registered address** (domicile service) satisfies the [Commercial Register](/company-formation/commercial-register-switzerland/) requirement that every Swiss company maintain a registered office address in Switzerland. It does not require you to occupy physical space. For a holding company or a newly incorporated entity that has not yet deployed staff or clients in Switzerland, a domicile service is sufficient and cost-effective. See our [registered address Switzerland](/corporate-services/registered-address-switzerland/) and [virtual office Switzerland](/corporate-services/virtual-office-switzerland/) guides for options.
 
 An **operational office** is necessary when the company conducts actual business from Switzerland — employing Swiss-resident staff, receiving clients, holding inventory, or exercising management functions on Swiss soil. At this point, a proper lease or serviced office arrangement is required, both for legal substance and for tax residency arguments to hold up under scrutiny.
 
-If your Swiss entity is intended to qualify as a genuine operating company — for tax treaty access, for substance requirements under transfer pricing rules, or for SECO work permit quotas — the quality and permanence of your premises matter. A virtual address is not sufficient. See our [company formation guide](/blog/company-formation-switzerland/) for more on substance requirements.
+If your Swiss entity is intended to qualify as a genuine operating company — for tax treaty access, for substance requirements under transfer pricing rules, or for SECO work permit quotas — the quality and permanence of your premises matter. A virtual address is not sufficient. See our [company formation guide](/company-formation/company-formation-switzerland/) for more on substance requirements.
 
 ---
 
@@ -107,7 +107,7 @@ If your Swiss entity is intended to qualify as a genuine operating company — f
 
 By default, leasing commercial property is exempt from Swiss VAT. However, landlords of commercial properties can elect to charge VAT (Optierung) at the standard rate of 8.1% on lease payments. Most institutional landlords do elect into VAT treatment on commercial leases — it allows them to recover input VAT on building costs and maintenance.
 
-If your company is VAT-registered in Switzerland, the VAT charged by the landlord is fully recoverable as input tax. The cost is cash-flow neutral. If your company is not VAT-registered — for example, if Swiss turnover is below the CHF 100,000 registration threshold, or if your Swiss activities are exempt from VAT — then the VAT charged becomes an irrecoverable cost. Confirm the landlord's VAT election status at lease inception and factor it into your occupancy cost model. Our [VAT in Switzerland guide](/blog/vat-switzerland/) covers registration thresholds and the input tax recovery rules in detail.
+If your company is VAT-registered in Switzerland, the VAT charged by the landlord is fully recoverable as input tax. The cost is cash-flow neutral. If your company is not VAT-registered — for example, if Swiss turnover is below the CHF 100,000 registration threshold, or if your Swiss activities are exempt from VAT — then the VAT charged becomes an irrecoverable cost. Confirm the landlord's VAT election status at lease inception and factor it into your occupancy cost model. Our [VAT in Switzerland guide](/tax-accounting/vat-switzerland/) covers registration thresholds and the input tax recovery rules in detail.
 
 Further guidance on VAT treatment of property transactions is available from the <a href="https://www.estv.admin.ch/" target="_blank" rel="nofollow noopener">Federal Tax Administration (ESTV)</a>. The <a href="https://www.admin.ch/gov/en/start/documentation/media-releases.msg-id-58346.html" target="_blank" rel="nofollow noopener">Swiss Code of Obligations (SR 220)</a> governs the underlying lease structure, with full text available via <a href="https://www.fedlex.admin.ch/" target="_blank" rel="nofollow noopener">Fedlex</a>.
 
@@ -187,15 +187,15 @@ Most Swiss leases require the tenant to reinstate the premises to their original
 
 **Is Zug a practical location for a foreign company's Swiss office?**
 
-Zug is particularly attractive for foreign companies establishing Swiss holding or operating structures. The effective corporate tax rate of approximately 11.8% is among the lowest in Switzerland, and rents are competitive relative to Zurich. See our [company formation in Zug](/blog/company-formation-zug/) guide for more detail on the canton's advantages.
+Zug is particularly attractive for foreign companies establishing Swiss holding or operating structures. The effective corporate tax rate of approximately 11.8% is among the lowest in Switzerland, and rents are competitive relative to Zurich. See our [company formation in Zug](/company-formation/company-formation-zug/) guide for more detail on the canton's advantages.
 
 ---
 
 ## How Lawsupport Can Help
 
-We advise foreign companies and entrepreneurs on every aspect of establishing and running a Swiss business — from entity selection and [company formation](/blog/company-formation-switzerland/) through to lease review, [VAT registration](/blog/vat-registration-switzerland/), and ongoing compliance. Our office is in Zug, and we work with clients across all major Swiss cantons.
+We advise foreign companies and entrepreneurs on every aspect of establishing and running a Swiss business — from entity selection and [company formation](/company-formation/company-formation-switzerland/) through to lease review, [VAT registration](/tax-accounting/vat-registration-switzerland/), and ongoing compliance. Our office is in Zug, and we work with clients across all major Swiss cantons.
 
-If you need a lease reviewed, a [registered address](/blog/registered-address-switzerland/) while you get started, or guidance on the right location for your Swiss operations, contact us directly.
+If you need a lease reviewed, a [registered address](/corporate-services/registered-address-switzerland/) while you get started, or guidance on the right location for your Swiss operations, contact us directly.
 
 [**Request a Free Assessment**](/contacts/)
 

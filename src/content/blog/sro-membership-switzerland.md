@@ -4,7 +4,7 @@ description: "SRO membership in Switzerland under AMLA: who must join, which SRO
 date: "19.03.2026"
 publishDate: "2026-06-04"
 category: "Licensing & Permits"
-categoryHref: "/services/financial-licensing/"
+categoryHref: "/licensing/"
 readTime: "14 min read"
 tocItems:
   - id: "the-legal-basis-amla-and-the-sro-system"
@@ -87,7 +87,7 @@ FINMA-licensed entities are already directly supervised and do not require SRO m
 
 The critical distinction introduced by the **FinSA/FinIA reforms (effective 1 January 2020)** is that independent asset managers managing third-party assets must now obtain a **FINMA licence under FinIA** rather than relying on SRO membership alone. SRO membership was the prior standard for independent asset managers; since 2020 it is no longer sufficient. Asset managers with existing SRO membership had until 31 December 2022 to obtain FinIA authorisation. An asset manager operating in Switzerland with only SRO membership and no FinIA licence is non-compliant.
 
-This means: **para-banking financial intermediaries** (forex dealers, payment processors, crypto businesses, leasing companies, distributors, factoring) require SRO membership. **Independent asset managers managing third-party portfolios** require a FinIA licence from a FINMA-recognised supervisory organisation. See our guide on [asset management licensing in Switzerland](/blog/asset-management-license-switzerland/) for the FinIA pathway.
+This means: **para-banking financial intermediaries** (forex dealers, payment processors, crypto businesses, leasing companies, distributors, factoring) require SRO membership. **Independent asset managers managing third-party portfolios** require a FinIA licence from a FINMA-recognised supervisory organisation. See our guide on [asset management licensing in Switzerland](/licensing/asset-management-license-switzerland/) for the FinIA pathway.
 
 ---
 
@@ -159,7 +159,7 @@ A compliant programme addresses:
 - Record-keeping procedures: what is retained, for how long (minimum 10 years under AMLA)
 - Staff AML training programme: content, frequency, and documentation
 
-For crypto businesses, the programme must additionally address blockchain analytics, wallet screening, travel rule compliance (FATF Recommendation 16), and the handling of unhosted wallets. For details on the broader [crypto licensing](/blog/crypto-license-switzerland/) requirements, see our dedicated page.
+For crypto businesses, the programme must additionally address blockchain analytics, wallet screening, travel rule compliance (FATF Recommendation 16), and the handling of unhosted wallets. For details on the broader [crypto licensing](/licensing/crypto-license-switzerland/) requirements, see our dedicated page.
 
 ---
 
@@ -252,13 +252,13 @@ Lawsupport (Morgan Hartley Consulting) manages the full SRO membership process f
 
 Our service covers:
 
-- **Business model analysis** to determine whether SRO membership or a [FINMA licence](/blog/finma-licensing-switzerland/) (or both) is required, and which SRO is the right fit
+- **Business model analysis** to determine whether SRO membership or a [FINMA licence](/licensing/finma-licensing-switzerland/) (or both) is required, and which SRO is the right fit
 - **AML compliance programme design**: drafting a bespoke, SRO-ready policy, KYC procedures, transaction monitoring framework, and MROS reporting workflow
 - **Dossier preparation and submission**: compiling and submitting the complete application, managing the SRO committee correspondence, and responding to follow-up questions
 - **AML officer services**: Lawsupport provides external AML officer services for intermediaries that do not have a qualified in-house candidate — a formally accepted structure under AMLA
 - **Ongoing annual reporting**: preparing the annual SRO compliance report and maintaining the AML programme as the business evolves
 
-For businesses that also need to [form a Swiss company](/blog/company-formation-switzerland/) before applying, or that require a [corporate bank account](/blog/corporate-bank-account-switzerland/) alongside SRO membership, we handle the full sequence.
+For businesses that also need to [form a Swiss company](/company-formation/company-formation-switzerland/) before applying, or that require a [corporate bank account](/banking/corporate-bank-account-switzerland/) alongside SRO membership, we handle the full sequence.
 
 ---
 
@@ -290,7 +290,7 @@ No. The AMLA obligation applies before commencing financial intermediary activit
 
 **What is the difference between SRO membership and a FINMA licence?**
 
-SRO membership covers para-banking financial intermediaries under AMLA — the SRO supervises compliance with AML obligations. A [FINMA licence](/blog/finma-licensing-switzerland/) is a direct authorisation from the Swiss financial regulator for activities that fall under specific financial market laws (Banking Act, FinIA, CISA, Insurance Supervision Act). Some businesses need both: SRO membership for AML compliance and a FINMA licence for their specific regulated activity.
+SRO membership covers para-banking financial intermediaries under AMLA — the SRO supervises compliance with AML obligations. A [FINMA licence](/licensing/finma-licensing-switzerland/) is a direct authorisation from the Swiss financial regulator for activities that fall under specific financial market laws (Banking Act, FinIA, CISA, Insurance Supervision Act). Some businesses need both: SRO membership for AML compliance and a FINMA licence for their specific regulated activity.
 
 **Do trustees and fiduciaries need SRO membership?**
 

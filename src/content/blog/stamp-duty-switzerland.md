@@ -4,7 +4,7 @@ description: "Swiss stamp duties explained: 1% issuance tax on share capital, 0.
 date: "19.03.2026"
 publishDate: "2026-06-06"
 category: "Tax & Accounting"
-categoryHref: "/blog/"
+categoryHref: "/tax-accounting/"
 readTime: "11 min read"
 tocItems:
   - id: "1-issuance-stamp-tax-emissionsabgabe"
@@ -42,7 +42,7 @@ The issuance stamp tax applies to the creation and increase of equity capital in
 ### Who It Affects
 
 Swiss AG, GmbH, and certain cooperative entities issuing new shares or increasing their share capital. It applies to:
-- Initial share capital on [company formation](/blog/company-formation-switzerland/)
+- Initial share capital on [company formation](/company-formation/company-formation-switzerland/)
 - Capital increases (rights issues, new share subscriptions)
 - Conversion of loans or reserves into share capital
 - Premium contributions (Agio) received above nominal value
@@ -51,7 +51,7 @@ Swiss AG, GmbH, and certain cooperative entities issuing new shares or increasin
 
 The most important practical exemption: **the first CHF 1 million of paid-in capital is exempt from issuance stamp tax**. This means:
 - A Swiss AG formed with CHF 100'000 share capital: zero issuance stamp tax
-- A Swiss [GmbH formed](/blog/gmbh-formation-switzerland/) with CHF 20'000 share capital: zero issuance stamp tax
+- A Swiss [GmbH formed](/company-formation/gmbh-formation-switzerland/) with CHF 20'000 share capital: zero issuance stamp tax
 - A capital increase from CHF 100'000 to CHF 800'000: zero issuance stamp tax (still within CHF 1 million total)
 - A capital increase that takes total paid-in capital above CHF 1 million: 1% on the excess above CHF 1 million
 
@@ -105,7 +105,7 @@ The securities transfer stamp is relevant for:
 - Companies buying or selling significant blocks of shares involving a Swiss dealer
 - M&A transactions where shares change hands via a Swiss dealer
 
-For private company share transfers (sale of GmbH quota or non-listed AG shares) between private parties without bank intermediation, the stamp typically does not apply. This distinction is relevant when acquiring a [shelf company](/blog/shelf-company-switzerland/) or completing a private share sale.
+For private company share transfers (sale of GmbH quota or non-listed AG shares) between private parties without bank intermediation, the stamp typically does not apply. This distinction is relevant when acquiring a [shelf company](/company-formation/shelf-company-switzerland/) or completing a private share sale.
 
 ---
 
@@ -117,13 +117,13 @@ A 5% stamp tax applies to non-life insurance premiums for risks located in Switz
 
 ## Planning Points
 
-**Issuance stamp and [holding structures](/blog/holding-company-switzerland/):** When a Swiss holding company contributes equity to a Swiss subsidiary, the subsidiary's share capital increase triggers issuance stamp on amounts above CHF 1 million. For large capitalisation scenarios, this is a material cost to plan around — inter-company loan structures may be more efficient above threshold.
+**Issuance stamp and [holding structures](/company-formation/holding-company-switzerland/):** When a Swiss holding company contributes equity to a Swiss subsidiary, the subsidiary's share capital increase triggers issuance stamp on amounts above CHF 1 million. For large capitalisation scenarios, this is a material cost to plan around — inter-company loan structures may be more efficient above threshold.
 
 **Securities transfer and share sales:** In M&A transactions involving private Swiss companies, structuring the transaction to avoid Swiss securities dealer involvement (direct buyer-seller transfer without bank intermediary) can eliminate the securities transfer stamp. Legal and tax advice is needed to confirm applicability in each transaction.
 
 **Group exemption:** Swiss corporate groups can access an intragroup exemption from securities transfer stamp for qualifying share transfers within the group. Requires formal application to ESTV.
 
-**[Withholding tax](/blog/withholding-tax-switzerland/) interaction:** Stamp duties are separate from Swiss withholding tax on dividends (35%). Both may apply in different stages of a corporate restructuring — capital increase (stamp duty) followed by dividend distribution (withholding tax). Coordinated planning is essential for larger transactions.
+**[Withholding tax](/tax-accounting/withholding-tax-switzerland/) interaction:** Stamp duties are separate from Swiss withholding tax on dividends (35%). Both may apply in different stages of a corporate restructuring — capital increase (stamp duty) followed by dividend distribution (withholding tax). Coordinated planning is essential for larger transactions.
 
 ---
 
@@ -149,7 +149,7 @@ The company issuing the shares is liable for the issuance stamp. It must file a 
 
 Yes. When a shareholder loan is converted into share capital, the conversion amount is treated as a capital contribution and subject to issuance stamp tax on amounts above the CHF 1 million exemption threshold. The same applies to the capitalisation of reserves.
 
-**Are there stamp duty implications for [capital deposit accounts](/blog/capital-deposit-account-switzerland/)?**
+**Are there stamp duty implications for [capital deposit accounts](/banking/capital-deposit-account-switzerland/)?**
 
 The capital deposit account itself does not trigger stamp duty. The stamp duty event is the formal capital increase registered with the Commercial Register. The deposit account is simply the mechanism for holding funds until the formation or capital increase is completed.
 
@@ -157,13 +157,13 @@ The capital deposit account itself does not trigger stamp duty. The stamp duty e
 
 The CHF 1 million exemption applies per company. Each Swiss legal entity has its own exemption threshold. A group with multiple Swiss subsidiaries benefits from a separate CHF 1 million exemption for each entity.
 
-**Do stamp duties apply to [cooperative](/blog/cooperative-switzerland/) formations?**
+**Do stamp duties apply to [cooperative](/company-formation/cooperative-switzerland/) formations?**
 
 Cooperatives (Genossenschaften) are subject to issuance stamp on the issuance of cooperative shares (Genossenschaftsanteile) under the same rules as AG and GmbH capital contributions. The CHF 1 million exemption applies equally.
 
 **Can stamp duty be reclaimed or offset?**
 
-Swiss stamp duties are final federal taxes. They cannot be reclaimed, offset against other taxes, or credited against [corporate tax](/blog/corporate-tax-switzerland/) obligations. They are, however, deductible as a business expense for corporate income tax purposes.
+Swiss stamp duties are final federal taxes. They cannot be reclaimed, offset against other taxes, or credited against [corporate tax](/tax-accounting/corporate-tax-switzerland/) obligations. They are, however, deductible as a business expense for corporate income tax purposes.
 
 **What stamp duty applies when restructuring a Swiss group?**
 

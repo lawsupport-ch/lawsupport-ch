@@ -3,7 +3,7 @@ title: "Accounting Services Switzerland: Tax & Audit Guide"
 description: "Swiss accounting for AG and GmbH: bookkeeping rules, annual accounts, audit thresholds, VAT reporting and corporate tax. Free assessment from Lawsupport, Zug."
 date: "19.03.2026"
 category: "Swiss Corporate Law"
-categoryHref: "/blog/"
+categoryHref: "/tax-accounting/"
 readTime: "13 min read"
 tocItems:
   - id: "swiss-accounting-obligations-the-legal-foundation"
@@ -96,7 +96,7 @@ The annual accounts must be prepared in Swiss francs (CHF) and in one of Switzer
 
 Annual accounts must be **approved by the shareholders** within six months of the end of the financial year (Art. 699 CO for AG; Art. 805 CO for GmbH). For a GmbH, this means a shareholders' meeting or written resolution. For an AG, the annual general meeting (AGM) formally approves the accounts.
 
-For guidance on preparing and filing the annual [corporate tax return in Switzerland](/blog/corporate-tax-return-switzerland/), see our dedicated article.
+For guidance on preparing and filing the annual [corporate tax return in Switzerland](/tax-accounting/corporate-tax-return-switzerland/), see our dedicated article.
 
 ---
 
@@ -144,7 +144,7 @@ Common adjustments include:
 
 Switzerland uses a **one-layer system** for corporate tax — there is no separate tax balance sheet in most cantons. The commercial accounts are the starting point, and adjustments are made on the tax return. This is simpler than systems like the German HGB/tax-balance-sheet split, but it still requires your accountant to know both the commercial and tax rules.
 
-For more detail on Swiss corporate income tax rates and the cantonal comparison, see our article on [corporate tax in Switzerland](/blog/corporate-tax-switzerland/) and the [cantonal tax comparison](/blog/cantonal-tax-comparison-switzerland/).
+For more detail on Swiss corporate income tax rates and the cantonal comparison, see our article on [corporate tax in Switzerland](/tax-accounting/corporate-tax-switzerland/) and the [cantonal tax comparison](/tax-accounting/cantonal-tax-comparison-switzerland/).
 
 The Federal Tax Administration (ESTV) publishes the official corporate tax rates and guidance at <a href="https://www.estv.admin.ch" target="_blank" rel="nofollow noopener">estv.admin.ch</a>.
 
@@ -164,7 +164,7 @@ If your group fiscal year ends June 30 and your Swiss company has a December 31 
 
 ### 3. Intercompany Transactions
 
-Switzerland has strict rules on related-party transactions. Management fees, royalties, and intragroup loans must be priced at arm's length. The Swiss tax authorities (Eidgenössische Steuerverwaltung, ESTV / AFC) actively scrutinise thin capitalisation and will impute interest income if a Swiss entity lends to its parent at below-market rates. For specialist guidance on this area, see our article on [tax advisory in Switzerland](/blog/tax-advisory-switzerland/).
+Switzerland has strict rules on related-party transactions. Management fees, royalties, and intragroup loans must be priced at arm's length. The Swiss tax authorities (Eidgenössische Steuerverwaltung, ESTV / AFC) actively scrutinise thin capitalisation and will impute interest income if a Swiss entity lends to its parent at below-market rates. For specialist guidance on this area, see our article on [tax advisory in Switzerland](/tax-accounting/tax-advisory-switzerland/).
 
 ### 4. Thin Capitalisation Rules
 
@@ -205,7 +205,7 @@ VAT accounting involves tracking input tax (Vorsteuer) and output tax (Umsatzste
 - Incorrect treatment of import VAT on goods
 - Missing the partial-taxation rules for companies with mixed taxable and exempt activities
 
-For a detailed explanation of Swiss VAT registration and reporting, see our dedicated article on [VAT in Switzerland](/blog/vat-switzerland/).
+For a detailed explanation of Swiss VAT registration and reporting, see our dedicated article on [VAT in Switzerland](/tax-accounting/vat-switzerland/).
 
 ---
 
@@ -282,12 +282,12 @@ The lesson: Swiss accounting is not complicated, but it requires consistent atte
 Whether you are setting up a new Swiss company, taking over accounting from a previous provider, or dealing with a backlog, Lawsupport can help. We work with foreign-owned Swiss companies across all industries and have been doing so for over 18 years, with more than 1,000 company formations completed for clients from 40+ countries.
 
 **Related services:**
-- [Company formation in Switzerland](/blog/company-formation-switzerland/)
-- [GmbH formation in Switzerland](/blog/gmbh-formation-switzerland/)
-- [Corporate tax in Switzerland](/blog/corporate-tax-switzerland/)
-- [VAT in Switzerland](/blog/vat-switzerland/)
-- [Cantonal tax comparison](/blog/cantonal-tax-comparison-switzerland/)
-- [Tax advisory in Switzerland](/blog/tax-advisory-switzerland/)
+- [Company formation in Switzerland](/company-formation/company-formation-switzerland/)
+- [GmbH formation in Switzerland](/company-formation/gmbh-formation-switzerland/)
+- [Corporate tax in Switzerland](/tax-accounting/corporate-tax-switzerland/)
+- [VAT in Switzerland](/tax-accounting/vat-switzerland/)
+- [Cantonal tax comparison](/tax-accounting/cantonal-tax-comparison-switzerland/)
+- [Tax advisory in Switzerland](/tax-accounting/tax-advisory-switzerland/)
 
 ---
 
@@ -331,7 +331,7 @@ Missing the deadline to prepare and approve annual accounts (six months after fi
 
 ### What is the corporate income tax rate in Switzerland?
 
-Switzerland's effective corporate income tax rate varies by canton. At the federal level, the rate is a flat **8.5%** on profit after tax (effective rate: approximately 7.83%). Combined with cantonal and communal taxes, the effective combined rate ranges from approximately **11.9% in Zug** to around **20–21% in Geneva**. Most cantons hover between 12% and 17%. For a full breakdown, see our [cantonal tax comparison](/blog/cantonal-tax-comparison-switzerland/).
+Switzerland's effective corporate income tax rate varies by canton. At the federal level, the rate is a flat **8.5%** on profit after tax (effective rate: approximately 7.83%). Combined with cantonal and communal taxes, the effective combined rate ranges from approximately **11.9% in Zug** to around **20–21% in Geneva**. Most cantons hover between 12% and 17%. For a full breakdown, see our [cantonal tax comparison](/tax-accounting/cantonal-tax-comparison-switzerland/).
 
 ### What is the VAT registration threshold in Switzerland?
 

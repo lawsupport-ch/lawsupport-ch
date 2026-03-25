@@ -3,7 +3,7 @@ title: "Swiss FinSA (FIDLEG): Obligations for 2026"
 description: "Swiss FinSA (FIDLEG) obligations: client classification, suitability rules, prospectus requirements, and advisor registration for 2026."
 date: "19.03.2026"
 category: "Licensing & Permits"
-categoryHref: "/services/financial-licensing/"
+categoryHref: "/licensing/"
 readTime: "8 min read"
 tocItems:
   - id: "what-finsa-regulates"
@@ -51,7 +51,7 @@ FinSA governs the conduct of **financial service providers** (*Finanzdienstleist
 
 Banks, securities firms, independent asset managers, investment advisors, insurance intermediaries distributing financial products, and platforms offering structured products or funds all fall within scope. FinSA applies regardless of where the provider is domiciled — the trigger is the Swiss client or the Swiss market.
 
-FinSA does not operate in isolation. Independent asset managers and trustees require authorisation under FinIA and must affiliate with a FINMA-supervised supervisory organisation (SO). Firms seeking FINMA authorisation should also review [FINMA licensing in Switzerland](/blog/finma-licensing-switzerland/) and, for fintech-specific pathways, the [fintech licence framework](/blog/fintech-license-switzerland/). Any entity seeking deposit-taking authority requires a full banking licence under the Banking Act.
+FinSA does not operate in isolation. Independent asset managers and trustees require authorisation under FinIA and must affiliate with a FINMA-supervised supervisory organisation (SO). Firms seeking FINMA authorisation should also review [FINMA licensing in Switzerland](/licensing/finma-licensing-switzerland/) and, for fintech-specific pathways, the [fintech licence framework](/licensing/fintech-license-switzerland/). Any entity seeking deposit-taking authority requires a full banking licence under the Banking Act.
 
 The <a href="https://www.fedlex.admin.ch/eli/cc/2019/758/en" target="_blank" rel="nofollow noopener">full text of FinSA is published on Fedlex</a>, Switzerland's official federal law portal.
 
@@ -156,7 +156,7 @@ The critical operational point: **FinSA compliance does not provide access to EU
 
 Guidance on FinSA implementation is available from the <a href="https://www.finma.ch/en/regulation/finsa-finia/" target="_blank" rel="nofollow noopener">FINMA FinSA/FinIA page</a>, which includes published circulars and FAQs.
 
-For questions around corporate structure in the context of FinSA compliance, see our guides on [company formation in Switzerland](/blog/company-formation-switzerland/) and [GmbH formation](/blog/gmbh-formation-switzerland/). Companies holding assets on behalf of clients should also review our [Swiss bank account guide](/blog/swiss-bank-account/) and [corporate bank account options](/blog/corporate-bank-account-switzerland/).
+For questions around corporate structure in the context of FinSA compliance, see our guides on [company formation in Switzerland](/company-formation/company-formation-switzerland/) and [GmbH formation](/company-formation/gmbh-formation-switzerland/). Companies holding assets on behalf of clients should also review our [Swiss bank account guide](/banking/swiss-bank-account/) and [corporate bank account options](/banking/corporate-bank-account-switzerland/).
 
 ---
 

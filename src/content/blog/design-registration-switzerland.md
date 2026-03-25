@@ -1,9 +1,9 @@
 ---
-title: "Design Registration Switzerland: Process, Costs & Protection (2026)"
+title: "Design Registration Switzerland: Process & Costs"
 description: "Register a design in Switzerland: IPI process, fees from CHF 300, protection up to 25 years. Learn design vs copyright vs trademark. Contact Lawsupport."
 date: "19.03.2026"
 category: "IP & Commercial Law"
-categoryHref: "/blog/"
+categoryHref: "/intellectual-property/"
 readTime: "6 min read"
 tocItems:
   - id: "legal-basis-the-swiss-design-act"
@@ -56,7 +56,7 @@ faqItems:
 
 Registered design rights are one of the most overlooked tools in Swiss intellectual property law. If your business invests in the visual appearance of its products — whether you work in fashion, furniture, packaging, consumer electronics, jewellery, or industrial design — failing to register your designs leaves commercial value unprotected. This guide explains exactly how design registration in Switzerland works, what it costs, and where it sits relative to other IP rights.
 
-For a complete picture of [IP protection in Switzerland](/blog/ip-protection-switzerland/), design registration works alongside trademark and patent rights — each covering a different dimension of your intellectual property.
+For a complete picture of [IP protection in Switzerland](/intellectual-property/ip-protection-switzerland/), design registration works alongside trademark and patent rights — each covering a different dimension of your intellectual property.
 
 ---
 
@@ -182,13 +182,13 @@ The key differences:
 
 The two rights can co-exist for the same product. A registered design gives you a clear, dated, enforceable right that is straightforward to assert in licensing negotiations or court proceedings. Copyright for applied art is frequently contested in Swiss litigation — it is a supplement, not a substitute.
 
-For broader [IP protection in Switzerland](/blog/ip-protection-switzerland/), the combination of registered rights and copyright provides the most robust position.
+For broader [IP protection in Switzerland](/intellectual-property/ip-protection-switzerland/), the combination of registered rights and copyright provides the most robust position.
 
 ---
 
 ## Design Rights vs Trademark
 
-A [trademark registration in Switzerland](/blog/trademark-registration-switzerland/) protects a sign that distinguishes the goods or services of one business from those of another — a name, logo, or slogan. A design right protects the appearance of the product itself.
+A [trademark registration in Switzerland](/intellectual-property/trademark-registration-switzerland/) protects a sign that distinguishes the goods or services of one business from those of another — a name, logo, or slogan. A design right protects the appearance of the product itself.
 
 Where a product shape is so distinctive that it functions as a brand identifier, both rights can apply simultaneously. The threshold for registering a three-dimensional shape as a trademark is higher (it must be inherently distinctive as a brand indicator), whereas design registration has no such requirement. Companies with iconic product forms — a particular bottle shape, a distinctive device housing — should consider both routes.
 
@@ -205,7 +205,7 @@ Registered design rights are enforced through **civil proceedings before the can
 
 The absence of a registration makes enforcement substantially harder. An unregistered design may attract some protection under unfair competition law, but a registered right provides a clear starting point for any enforcement action. Contact <a href="https://www.bazg.admin.ch/bazg/en/home.html" target="_blank" rel="nofollow noopener">Swiss Customs</a> for border measure procedures.
 
-See also our guides on [trademark registration in Switzerland](/blog/trademark-registration-switzerland/) for the full picture of registered IP rights available to Swiss businesses.
+See also our guides on [trademark registration in Switzerland](/intellectual-property/trademark-registration-switzerland/) for the full picture of registered IP rights available to Swiss businesses.
 
 ---
 

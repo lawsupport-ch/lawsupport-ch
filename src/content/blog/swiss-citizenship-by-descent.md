@@ -4,7 +4,7 @@ description: "Switzerland transmits citizenship by blood, not birthplace. Find o
 date: "19.03.2026"
 publishDate: "2026-07-02"
 category: "Immigration"
-categoryHref: "/blog/"
+categoryHref: "/immigration/"
 readTime: "15 min read"
 faqItems:
   - question: "I was born in Australia to a Swiss father. Am I Swiss?"
@@ -118,7 +118,7 @@ This cutoff is unforgiving. A person who was born abroad in 1985 to a Swiss pare
 
 The implications extend to subsequent generations. If a person's Swiss parent was themselves born abroad and failed to register or lost their citizenship through this rule, the second generation cannot inherit what the first generation no longer held.
 
-This is why the question "does my Swiss grandparent give me [Swiss citizenship](/blog/swiss-citizenship/)?" almost never has a simple answer.
+This is why the question "does my Swiss grandparent give me [Swiss citizenship](/immigration/swiss-citizenship/)?" almost never has a simple answer.
 
 ---
 
@@ -188,7 +188,7 @@ The process involves submitting documentary evidence: the Swiss parent's citizen
 
 A specific legal mechanism exists for people who were born before 1 July 1978 to a Swiss mother and a foreign father — and who therefore did not automatically inherit Swiss citizenship under the law as it stood at the time.
 
-Article 58 BüG provides a facilitated registration procedure for these individuals. It is not full [naturalisation](/blog/swiss-naturalization/); it is a simplified route that acknowledges the historical injustice of the male-line-only transmission rule.
+Article 58 BüG provides a facilitated registration procedure for these individuals. It is not full [naturalisation](/immigration/swiss-naturalization/); it is a simplified route that acknowledges the historical injustice of the male-line-only transmission rule.
 
 Eligibility conditions apply, including requirements around ties to Switzerland, good character, and integration. If you fall into this category — born before 1978 to a Swiss mother — this is a viable route worth assessing with a specialist.
 
@@ -200,7 +200,7 @@ Some people previously held Swiss citizenship and lost it. The most common histo
 
 These individuals — and in some cases their descendants — may be eligible for **reintegration** (Wiedereinbürgerung) under Article 51 BüG. Reintegration is a substantially simpler and faster procedure than ordinary naturalisation. It is available to former Swiss citizens and, under certain conditions, their children.
 
-If this applies to your situation, or to a parent's situation, reintegration should be considered before pursuing any naturalisation route. For more on general [Swiss citizenship](/blog/swiss-citizenship/) and [Swiss citizenship by marriage](/blog/swiss-citizenship-by-marriage/), see the relevant pages on this site.
+If this applies to your situation, or to a parent's situation, reintegration should be considered before pursuing any naturalisation route. For more on general [Swiss citizenship](/immigration/swiss-citizenship/) and [Swiss citizenship by marriage](/immigration/swiss-citizenship-by-marriage/), see the relevant pages on this site.
 
 ---
 
@@ -232,7 +232,7 @@ At Lawsupport, we:
 - Identify whether a valid citizenship claim exists, has lapsed, or may be resurrected through a facilitated route
 - Coordinate with Swiss consulates and civil registries (Zivilstandsämter) to verify citizenship records and ancestral commune registrations
 - Manage the documentation and submission process for birth registrations, facilitated registrations under Art. 58 BüG, and reintegration applications under Art. 51 BüG
-- Advise on downstream steps once citizenship is confirmed, including obtaining a [Swiss passport](/blog/swiss-passport/) and planning for [residence in Switzerland](/blog/work-permit-switzerland/)
+- Advise on downstream steps once citizenship is confirmed, including obtaining a [Swiss passport](/immigration/swiss-passport/) and planning for [residence in Switzerland](/immigration/work-permit-switzerland/)
 
 We work with Swiss and international clients who have Swiss ancestry, and we handle the entire process in coordination with the relevant Swiss authorities.
 
@@ -270,7 +270,7 @@ Swiss citizenship does not skip generations automatically. It transmits one gene
 
 **Does Swiss citizenship by descent require living in Switzerland?**
 
-No. Citizenship by descent has no residence requirement. A person born abroad to a Swiss parent may hold Swiss citizenship without ever having lived in Switzerland, provided the registration requirements were met. Once citizenship is confirmed, the person can apply for a [Swiss passport](/blog/swiss-passport/) from any Swiss consulate worldwide.
+No. Citizenship by descent has no residence requirement. A person born abroad to a Swiss parent may hold Swiss citizenship without ever having lived in Switzerland, provided the registration requirements were met. Once citizenship is confirmed, the person can apply for a [Swiss passport](/immigration/swiss-passport/) from any Swiss consulate worldwide.
 
 **What documents do I need to prove Swiss citizenship by descent?**
 

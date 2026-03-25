@@ -4,7 +4,7 @@ description: "Major Swiss banks by category: UBS, cantonal banks, private banks,
 date: "19.03.2026"
 publishDate: "2026-06-26"
 category: "Banking & Finance"
-categoryHref: "/blog/"
+categoryHref: "/banking/"
 readTime: "9 min read"
 faqItems:
   - question: "Which Swiss bank is safest for deposits?"
@@ -12,7 +12,7 @@ faqItems:
   - question: "How many banks are in Switzerland?"
     answer: "Approximately 240 banks hold FINMA banking licences in Switzerland as of 2026. This is down from a peak of over 600 in the 1990s, reflecting decades of consolidation."
   - question: "Which Swiss banks accept non-residents?"
-    answer: "Non-residents can open accounts at several cantonal banks, private banks (with sufficient assets), and specialist international banks. Our [Swiss bank account for non-residents guide](/blog/swiss-bank-account-non-residents/) covers this in detail."
+    answer: "Non-residents can open accounts at several cantonal banks, private banks (with sufficient assets), and specialist international banks. Our [Swiss bank account for non-residents guide](/banking/swiss-bank-account-non-residents/) covers this in detail."
   - question: "What is the largest bank in Switzerland?"
     answer: "UBS is the largest bank in Switzerland and one of the largest in the world, with approximately USD 3.5 trillion in invested assets. It became significantly larger after absorbing Credit Suisse in 2023."
   - question: "Are cantonal banks safer than UBS?"
@@ -39,7 +39,7 @@ tocItems:
 
 Switzerland has approximately 240 banks operating under <a href="https://www.finma.ch/en/" target="_blank" rel="nofollow noopener">FINMA</a> licences. This list covers the most significant institutions by category — from the systemically important UBS through the 24 cantonal banks, the major private banks, and the specialist fintech and crypto banks. All institutions listed are FINMA-regulated banks unless otherwise noted.
 
-For an explanation of how these institutions fit together, see our guide to the [Swiss banking system](/blog/swiss-banking-system/).
+For an explanation of how these institutions fit together, see our guide to the [Swiss banking system](/banking/swiss-banking-system/).
 
 ---
 
@@ -113,7 +113,7 @@ Swiss private banks serve high-net-worth (HNW) and ultra-high-net-worth (UHNW) c
 
 **Note on partnerships:** Geneva-based private banks (Pictet, Lombard Odier, Mirabaud, Bordier) operate as unlimited partnerships (Societe en commandite) — partners carry unlimited personal liability. This structure signals long-term alignment with client interests.
 
-For details on accessing [private banking in Switzerland](/blog/private-banking-switzerland/) as a non-resident, see our dedicated guide.
+For details on accessing [private banking in Switzerland](/banking/private-banking-switzerland/) as a non-resident, see our dedicated guide.
 
 ---
 
@@ -153,7 +153,7 @@ Switzerland has licenced the world's first regulated crypto-asset banks under th
 | **SEBA Bank (now AMINA Bank)** | Zug | Crypto asset banking, institutional |
 | **Sygnum Bank** | Zurich | Crypto banking, tokenisation, regulated exchange |
 
-Both AMINA and Sygnum hold full FINMA banking licences and offer institutional custody, trading, and banking services for digital assets alongside fiat banking. For businesses in the digital asset space, see our guide to [crypto licensing in Switzerland](/blog/crypto-license-switzerland/).
+Both AMINA and Sygnum hold full FINMA banking licences and offer institutional custody, trading, and banking services for digital assets alongside fiat banking. For businesses in the digital asset space, see our guide to [crypto licensing in Switzerland](/licensing/crypto-license-switzerland/).
 
 ---
 
@@ -179,7 +179,7 @@ Approximately 240 banks hold FINMA banking licences in Switzerland as of 2026. T
 
 **Which Swiss banks accept non-residents?**
 
-Non-residents can open accounts at several cantonal banks, private banks (with sufficient assets), and specialist international banks. Our [Swiss bank account for non-residents guide](/blog/swiss-bank-account-non-residents/) covers this in detail.
+Non-residents can open accounts at several cantonal banks, private banks (with sufficient assets), and specialist international banks. Our [Swiss bank account for non-residents guide](/banking/swiss-bank-account-non-residents/) covers this in detail.
 
 **What is the largest bank in Switzerland?**
 
@@ -191,7 +191,7 @@ Cantonal banks with a state guarantee (Staatsgarantie) offer an additional layer
 
 **Which Swiss banks offer corporate accounts for foreign-owned companies?**
 
-Most cantonal banks in internationally oriented cantons (Zug, Zurich, Geneva) accept [corporate accounts](/blog/corporate-bank-account-switzerland/) for foreign-owned Swiss companies. The specific bank selection depends on the business type, ownership structure, and countries involved. Lawsupport matches each client to the most suitable institution.
+Most cantonal banks in internationally oriented cantons (Zug, Zurich, Geneva) accept [corporate accounts](/banking/corporate-bank-account-switzerland/) for foreign-owned Swiss companies. The specific bank selection depends on the business type, ownership structure, and countries involved. Lawsupport matches each client to the most suitable institution.
 
 **Do Swiss private banks accept new clients?**
 

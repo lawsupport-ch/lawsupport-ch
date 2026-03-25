@@ -4,7 +4,7 @@ description: "Swiss visa types explained for 2026: Schengen C visa for short sta
 date: "19.03.2026"
 publishDate: "2026-07-22"
 category: "Immigration"
-categoryHref: "/blog/"
+categoryHref: "/immigration/"
 readTime: "13 min read"
 faqItems:
   - question: "Can I work in Switzerland on a Schengen tourist visa?"
@@ -35,7 +35,7 @@ tocItems:
 ---
 
 
-A Swiss visa is required for citizens of countries outside the Schengen visa-free list who wish to enter Switzerland. Switzerland is a Schengen Area member, which means its short-stay visa requirements align with Schengen rules. For stays beyond 90 days — including employment, study, or [family reunification](/blog/family-reunification-switzerland/) — a national D visa is required, leading to a Swiss residence permit. This guide explains the different Swiss visa types, who needs one, and how to apply in 2026.
+A Swiss visa is required for citizens of countries outside the Schengen visa-free list who wish to enter Switzerland. Switzerland is a Schengen Area member, which means its short-stay visa requirements align with Schengen rules. For stays beyond 90 days — including employment, study, or [family reunification](/immigration/family-reunification-switzerland/) — a national D visa is required, leading to a Swiss residence permit. This guide explains the different Swiss visa types, who needs one, and how to apply in 2026.
 
 ---
 
@@ -45,7 +45,7 @@ Citizens of the following categories can enter Switzerland visa-free:
 
 **Visa-free for up to 90 days:** Citizens of approximately 60 countries, including all EU/EFTA member states, USA, Canada, Australia, UK, Japan, South Korea, Singapore, and many others. A full list is published by the <a href="https://www.sem.admin.ch/sem/en/home.html" target="_blank" rel="nofollow noopener">State Secretariat for Migration (SEM)</a>.
 
-**EU/EFTA citizens:** Can enter Switzerland freely and reside without a visa under the Agreement on the Free Movement of Persons. No visa is required for stays of any duration — they receive a permit upon registering. For details on working in Switzerland as an EU citizen, see our guide on [EU national work permits](/blog/swiss-work-permit-eu-nationals/).
+**EU/EFTA citizens:** Can enter Switzerland freely and reside without a visa under the Agreement on the Free Movement of Persons. No visa is required for stays of any duration — they receive a permit upon registering. For details on working in Switzerland as an EU citizen, see our guide on [EU national work permits](/immigration/swiss-work-permit-eu-nationals/).
 
 ---
 
@@ -86,12 +86,12 @@ For stays beyond 90 days or for purposes requiring a residence permit (employmen
 **Issued for:** The duration of the intended permit or purpose, typically 3–12 months.
 
 **How it works:** The D visa is issued by the Swiss embassy after the cantonal migration authority in Switzerland has pre-approved the underlying residence permit. The sequence is:
-1. Employer or cantonal authority approves the [work permit](/blog/work-permit-switzerland/) or residence permit
+1. Employer or cantonal authority approves the [work permit](/immigration/work-permit-switzerland/) or residence permit
 2. Swiss embassy issues the D visa based on the cantonal approval
 3. Applicant enters Switzerland
 4. Applicant registers and collects the actual permit card
 
-The D visa itself is not the residence permit — it allows entry to Switzerland to collect the permit. Once in Switzerland, the individual registers with the Einwohnerkontrolle and receives the residence permit card, typically a [B permit](/blog/b-permit-switzerland/) or L permit.
+The D visa itself is not the residence permit — it allows entry to Switzerland to collect the permit. Once in Switzerland, the individual registers with the Einwohnerkontrolle and receives the residence permit card, typically a [B permit](/immigration/b-permit-switzerland/) or L permit.
 
 ---
 
@@ -111,8 +111,8 @@ Switzerland is NOT a member of the European Union, despite being in Schengen. Th
 Business visitors on a Schengen C visa can attend meetings, conferences, trade fairs, and negotiate contracts, but cannot perform gainful employment. If your business activities in Switzerland will extend beyond occasional visits, consider the following paths:
 
 - **Short-term business assignments (up to 90 days):** The employer must submit an online notification to the cantonal migration authority
-- **Longer-term business presence:** A D visa and [work permit](/blog/work-permit-switzerland/) are required
-- **Establishing a company:** [Company formation in Switzerland](/blog/company-formation-switzerland/) does not automatically grant a visa — separate immigration arrangements are needed
+- **Longer-term business presence:** A D visa and [work permit](/immigration/work-permit-switzerland/) are required
+- **Establishing a company:** [Company formation in Switzerland](/company-formation/company-formation-switzerland/) does not automatically grant a visa — separate immigration arrangements are needed
 
 <!-- VIDEO: Swiss visa types compared — when to use a C visa, D visa, or work permit notification -->
 
@@ -123,9 +123,9 @@ Business visitors on a Schengen C visa can attend meetings, conferences, trade f
 For those planning a long-term stay in Switzerland, the Swiss visa is the first step in a longer journey:
 
 1. **D visa:** Entry for stays over 90 days
-2. **B permit:** Initial residence permit (see [B permit guide](/blog/b-permit-switzerland/))
-3. **C permit:** Settlement permit after 5 years (EU/EFTA) or 10 years (non-EU/EFTA) — see [C permit guide](/blog/c-permit-switzerland/)
-4. **Swiss citizenship:** After 10 years of residence through [naturalization](/blog/swiss-naturalization/)
+2. **B permit:** Initial residence permit (see [B permit guide](/immigration/b-permit-switzerland/))
+3. **C permit:** Settlement permit after 5 years (EU/EFTA) or 10 years (non-EU/EFTA) — see [C permit guide](/immigration/c-permit-switzerland/)
+4. **Swiss citizenship:** After 10 years of residence through [naturalization](/immigration/swiss-naturalization/)
 
 Each step builds on the previous one. Planning the full pathway from the outset ensures no missteps that could delay later stages.
 
@@ -135,7 +135,7 @@ Each step builds on the previous one. Planning the full pathway from the outset 
 
 **Can I work in Switzerland on a Schengen tourist visa?**
 
-No. A Schengen C visa is for tourism, visits, and business meetings only — not employment. Working in Switzerland requires a [work permit](/blog/work-permit-switzerland/) (and corresponding D visa for non-EU/EFTA nationals, or EU free movement rights for EU/EFTA nationals).
+No. A Schengen C visa is for tourism, visits, and business meetings only — not employment. Working in Switzerland requires a [work permit](/immigration/work-permit-switzerland/) (and corresponding D visa for non-EU/EFTA nationals, or EU free movement rights for EU/EFTA nationals).
 
 **How long can I stay in Switzerland as a tourist from the US?**
 

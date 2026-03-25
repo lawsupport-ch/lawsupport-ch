@@ -4,7 +4,7 @@ description: "How non-EU nationals get Swiss work permits in 2026: federal quota
 date: "19.03.2026"
 publishDate: "2026-08-25"
 category: "Immigration"
-categoryHref: "/blog/"
+categoryHref: "/immigration/"
 readTime: "13 min read"
 faqItems:
   - question: "Can a non-EU national apply for a Swiss work permit without a job offer?"
@@ -57,20 +57,20 @@ For third-country nationals, Swiss immigration law applies in full. The governin
 
 Two instruments control access: a strict qualification threshold that limits eligible workers to highly skilled professionals, and an annual federal quota that caps the total number of permits issued regardless of demand.
 
-See also: [Swiss Work Permits — General Overview](/blog/work-permit-switzerland/)
+See also: [Swiss Work Permits — General Overview](/immigration/work-permit-switzerland/)
 
 ---
 
 ## The Federal Quota System
 
-Switzerland sets annual national quotas for non-EU/EFTA [work permits](/blog/work-permit-switzerland/). These are fixed by the Federal Council each year and distributed to cantons, which then allocate them to employers on a case-by-case basis.
+Switzerland sets annual national quotas for non-EU/EFTA [work permits](/immigration/work-permit-switzerland/). These are fixed by the Federal Council each year and distributed to cantons, which then allocate them to employers on a case-by-case basis.
 
 **Approximate 2026 annual quotas for non-EU/EFTA nationals:**
 
 | Permit Type | Purpose | Annual National Quota |
 |---|---|---|
-| [B permit](/blog/b-permit-switzerland/) | Initial residence, 5-year validity | ~8'500 |
-| [L permit](/blog/l-permit-switzerland/) | Short-term residence, up to 12 months | ~5'200 |
+| [B permit](/immigration/b-permit-switzerland/) | Initial residence, 5-year validity | ~8'500 |
+| [L permit](/immigration/l-permit-switzerland/) | Short-term residence, up to 12 months | ~5'200 |
 
 Once a canton's quota allocation is exhausted, no further permits can be issued for that quota year — regardless of how strong the application is. Cantons with higher concentrations of international business (Zurich, Zug, Geneva, Basel) typically consume their allocations faster than others.
 
@@ -112,7 +112,7 @@ This is not a formality. Cantonal authorities scrutinise recruitment documentati
 
 The permit application is employer-led. The Swiss employer applies on behalf of the foreign national. The employer must be registered in Switzerland and must demonstrate four things:
 
-1. **The position is genuine.** The role must correspond to a real operational need, with a written [employment contract](/blog/employment-contract-switzerland/).
+1. **The position is genuine.** The role must correspond to a real operational need, with a written [employment contract](/employment-law/employment-contract-switzerland/).
 2. **The salary meets Swiss market standards.** Cantonal authorities conduct a salary equivalence check (Lohnkontrolle). The offered salary must match or exceed what a Swiss employee in an equivalent role would earn. Undercutting local salary levels to hire cheaper foreign labour is grounds for refusal.
 3. **The candidate has the necessary qualifications.** Degrees, professional certifications, and employment history must substantiate the claimed expertise.
 4. **The priority check has been properly completed.** See above.
@@ -127,7 +127,7 @@ Multinational groups transferring senior managers or specialists from a foreign 
 
 The transfer must be genuine — the individual must have worked for the group for a minimum period (typically at least 12 months) before the Swiss assignment, and the Swiss entity must be a real operating entity rather than a shell.
 
-See also: [Company Formation in Switzerland](/blog/company-formation-switzerland/)
+See also: [Company Formation in Switzerland](/company-formation/company-formation-switzerland/)
 
 ---
 
@@ -141,8 +141,8 @@ The application follows a two-stage approval path:
 **Typical timeline: 6 to 16 weeks** from submission of a complete application to permit issuance. The range reflects genuine variation — Zug and Zurich tend to be faster for well-prepared applications; cantons with less experience handling international cases can run toward the upper end. Incomplete applications restart the clock.
 
 The permit issued will be either:
-- An **[L permit](/blog/l-permit-switzerland/)** (short-term residence, up to 12 months) for fixed-term contracts or trial arrangements
-- A **[B permit](/blog/b-permit-switzerland/)** (initial residence, 5-year validity) for open-ended or longer-term employment contracts
+- An **[L permit](/immigration/l-permit-switzerland/)** (short-term residence, up to 12 months) for fixed-term contracts or trial arrangements
+- A **[B permit](/immigration/b-permit-switzerland/)** (initial residence, 5-year validity) for open-ended or longer-term employment contracts
 
 ---
 
@@ -156,8 +156,8 @@ The permit issued will be either:
 | Qualification requirement | None — any employment type | Managers, specialists, executives only |
 | Employer application required | No (individual can apply directly) | Yes — employer-led process |
 | Processing time | Days to a few weeks | 6–16 weeks |
-| [Family reunification](/blog/family-reunification-switzerland/) | Immediate right for qualifying family members | B permit holders must wait 3 years |
-| Path to [C permit](/blog/c-permit-switzerland/) (permanent residence) | 5 years continuous residence | 10 years continuous residence |
+| [Family reunification](/immigration/family-reunification-switzerland/) | Immediate right for qualifying family members | B permit holders must wait 3 years |
+| Path to [C permit](/immigration/c-permit-switzerland/) (permanent residence) | 5 years continuous residence | 10 years continuous residence |
 
 <!-- VIDEO: Overview — How the Swiss non-EU work permit process works from application to approval -->
 
@@ -165,7 +165,7 @@ The permit issued will be either:
 
 ## Family Reunification
 
-Non-EU/EFTA nationals holding a B permit face a waiting period before they can bring family members to Switzerland. The rule: [family reunification](/blog/family-reunification-switzerland/) is only possible after 3 years of continuous legal residence in Switzerland.
+Non-EU/EFTA nationals holding a B permit face a waiting period before they can bring family members to Switzerland. The rule: [family reunification](/immigration/family-reunification-switzerland/) is only possible after 3 years of continuous legal residence in Switzerland.
 
 Additional requirements apply at that point:
 - Adequate income to support the family without reliance on social assistance
@@ -178,11 +178,11 @@ This is a significant constraint for individuals relocating with families. It sh
 
 ## Path to Permanent Residence (C Permit)
 
-Non-EU/EFTA nationals who maintain continuous legal residence in Switzerland become eligible for a [C permit](/blog/c-permit-switzerland/) (settlement permit / permanent residence) after **10 years**. This compares with 5 years for EU/EFTA nationals.
+Non-EU/EFTA nationals who maintain continuous legal residence in Switzerland become eligible for a [C permit](/immigration/c-permit-switzerland/) (settlement permit / permanent residence) after **10 years**. This compares with 5 years for EU/EFTA nationals.
 
 The 10-year clock runs from the date of first legal residence in Switzerland. Interruptions — periods spent outside Switzerland exceeding permitted thresholds — can reset or pause the count. Language integration requirements and civic conduct are also assessed.
 
-The C permit, once granted, removes the need to renew and provides significantly stronger residence security. For those considering the path beyond permanent residence, see our guide to [Swiss citizenship](/blog/swiss-citizenship/).
+The C permit, once granted, removes the need to renew and provides significantly stronger residence security. For those considering the path beyond permanent residence, see our guide to [Swiss citizenship](/immigration/swiss-citizenship/).
 
 ---
 

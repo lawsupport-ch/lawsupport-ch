@@ -4,7 +4,7 @@ description: "How to get Swiss citizenship in 2026. Ordinary and facilitated nat
 date: "19.03.2026"
 publishDate: "2026-06-30"
 category: "Immigration"
-categoryHref: "/blog/"
+categoryHref: "/immigration/"
 readTime: "17 min read"
 faqItems:
   - question: "How long does Swiss naturalisation take?"
@@ -57,7 +57,7 @@ This is the standard route for the majority of foreign nationals living in Switz
 
 ### 2. Facilitated Naturalisation (Erleichterte Einbürgerung)
 
-Available to foreign spouses of Swiss citizens and, in certain circumstances, to foreign children of Swiss parents. The residence requirements are significantly shorter than for ordinary naturalisation, and the procedural path runs through the federal level only, bypassing cantonal and communal votes. This route moves substantially faster for qualifying applicants. See our detailed guide to [Swiss citizenship by marriage](/blog/swiss-citizenship-by-marriage/).
+Available to foreign spouses of Swiss citizens and, in certain circumstances, to foreign children of Swiss parents. The residence requirements are significantly shorter than for ordinary naturalisation, and the procedural path runs through the federal level only, bypassing cantonal and communal votes. This route moves substantially faster for qualifying applicants. See our detailed guide to [Swiss citizenship by marriage](/immigration/swiss-citizenship-by-marriage/).
 
 ### 3. Reintegration (Wiedereinbürgerung)
 
@@ -65,7 +65,7 @@ Available to individuals who previously held Swiss citizenship and lost it — f
 
 ### 4. Citizenship by Descent (Ius Sanguinis)
 
-Switzerland does not apply the principle of ius soli (citizenship by place of birth). Citizenship passes through parentage. A child born to at least one Swiss parent — whether in Switzerland or abroad — acquires Swiss citizenship at birth, subject to registration requirements when born outside Switzerland. There is no residence requirement for [citizenship by descent](/blog/swiss-citizenship-by-descent/).
+Switzerland does not apply the principle of ius soli (citizenship by place of birth). Citizenship passes through parentage. A child born to at least one Swiss parent — whether in Switzerland or abroad — acquires Swiss citizenship at birth, subject to registration requirements when born outside Switzerland. There is no residence requirement for [citizenship by descent](/immigration/swiss-citizenship-by-descent/).
 
 ---
 
@@ -81,7 +81,7 @@ Of those ten total years, the **most recent three years must be continuous and u
 
 ### Permit Requirement
 
-Ordinary naturalisation requires a **[C permit](/blog/c-permit-switzerland/) (Niederlassungsbewilligung — settlement permit)**. You cannot apply without one. A C permit is generally available to EU/EFTA nationals after five years of legal residence and to non-EU/EFTA nationals after ten years, though the exact threshold varies by nationality and bilateral agreements. Lawsupport regularly advises clients on the pathway from [B permit](/blog/b-permit-switzerland/) to C permit as part of long-term residency planning.
+Ordinary naturalisation requires a **[C permit](/immigration/c-permit-switzerland/) (Niederlassungsbewilligung — settlement permit)**. You cannot apply without one. A C permit is generally available to EU/EFTA nationals after five years of legal residence and to non-EU/EFTA nationals after ten years, though the exact threshold varies by nationality and bilateral agreements. Lawsupport regularly advises clients on the pathway from [B permit](/immigration/b-permit-switzerland/) to C permit as part of long-term residency planning.
 
 ### Language Requirements
 
@@ -133,7 +133,7 @@ The combined federal, cantonal, and communal process, once all eligibility requi
 
 ## Facilitated Naturalisation for Spouses of Swiss Citizens
 
-Foreign nationals married to Swiss citizens benefit from a significantly shortened pathway under Art. 21 BüG. For the full details, see our dedicated guide to [Swiss citizenship by marriage](/blog/swiss-citizenship-by-marriage/).
+Foreign nationals married to Swiss citizens benefit from a significantly shortened pathway under Art. 21 BüG. For the full details, see our dedicated guide to [Swiss citizenship by marriage](/immigration/swiss-citizenship-by-marriage/).
 
 ### Eligibility Requirements
 
@@ -142,7 +142,7 @@ To qualify for facilitated naturalisation as a spouse:
 - You must have been **married to a Swiss citizen for at least three years**
 - You must have **lived in Switzerland for at least five years** in total (of which the current residence period must be ongoing), **or** have lived abroad with your Swiss spouse for at least **three years**
 - The marriage must be **genuine and ongoing** — the SEM actively investigates whether the marriage constitutes a real life partnership (eheliche Gemeinschaft). Sham marriages result in criminal liability, not citizenship
-- A [B permit](/blog/b-permit-switzerland/) is sufficient; a C permit is **not required**
+- A [B permit](/immigration/b-permit-switzerland/) is sufficient; a C permit is **not required**
 
 Language and integration requirements still apply, though they are assessed through the federal process rather than at cantonal and communal level.
 
@@ -154,7 +154,7 @@ Facilitated naturalisation runs exclusively through the federal SEM. Processing 
 
 ## Dual Citizenship: What Switzerland Permits
 
-Switzerland has permitted [dual and multiple citizenship](/blog/swiss-dual-citizenship/) since **1992**, following a constitutional amendment to the BüG. Under Art. 30 BüG as amended, Swiss nationals who acquire a foreign citizenship no longer automatically lose their Swiss citizenship, and foreign nationals who naturalise in Switzerland are not required by Swiss law to renounce their original citizenship.
+Switzerland has permitted [dual and multiple citizenship](/immigration/swiss-dual-citizenship/) since **1992**, following a constitutional amendment to the BüG. Under Art. 30 BüG as amended, Swiss nationals who acquire a foreign citizenship no longer automatically lose their Swiss citizenship, and foreign nationals who naturalise in Switzerland are not required by Swiss law to renounce their original citizenship.
 
 However, whether you can hold dual citizenship depends critically on **your other country's laws**, not solely on Swiss law. Switzerland's permission is only half the equation.
 
@@ -169,22 +169,22 @@ This is a legal question that requires country-specific advice. Lawsupport works
 
 ## The Zug Path to Citizenship
 
-Canton Zug holds a particular significance for internationally mobile professionals and entrepreneurs. Its combination of low cantonal and communal [tax rates](/blog/corporate-tax-switzerland/), a highly developed financial and corporate infrastructure, and proximity to Zurich has made it Switzerland's premier address for international business. It is also home to Lawsupport's offices at Grafenauweg 4.
+Canton Zug holds a particular significance for internationally mobile professionals and entrepreneurs. Its combination of low cantonal and communal [tax rates](/tax-accounting/corporate-tax-switzerland/), a highly developed financial and corporate infrastructure, and proximity to Zurich has made it Switzerland's premier address for international business. It is also home to Lawsupport's offices at Grafenauweg 4.
 
 From a naturalisation perspective, Zug is regarded as one of Switzerland's more efficient and predictable cantons. The cantonal integration requirements are clearly communicated. The communal naturalisation process in municipalities such as Zug city, Baar, and Steinhausen is structured and administratively competent. For applicants who have been resident in Zug throughout their qualifying period, the communal stage — while still requiring genuine integration — is not characterised by unpredictable discretion.
 
-Many of Lawsupport's clients begin their Swiss journey in Zug by [forming a company](/blog/company-formation-switzerland/) and establishing residence. For those with naturalisation as a long-term goal, establishing residence from day one — registering at the Einwohneramt immediately upon arrival, maintaining uninterrupted residence, and building genuine ties to the local community — is the only reliable strategy. The ten-year clock starts on the date of first registered legal residence in Switzerland, not on the date you first think about citizenship.
+Many of Lawsupport's clients begin their Swiss journey in Zug by [forming a company](/company-formation/company-formation-switzerland/) and establishing residence. For those with naturalisation as a long-term goal, establishing residence from day one — registering at the Einwohneramt immediately upon arrival, maintaining uninterrupted residence, and building genuine ties to the local community — is the only reliable strategy. The ten-year clock starts on the date of first registered legal residence in Switzerland, not on the date you first think about citizenship.
 
 ---
 
 ## Swiss Passport Benefits in 2026
 
-The [Swiss passport](/blog/swiss-passport/) consistently ranks among the top five in the world on the Henley Passport Index. In 2026, it provides:
+The [Swiss passport](/immigration/swiss-passport/) consistently ranks among the top five in the world on the Henley Passport Index. In 2026, it provides:
 
 - **Visa-free or visa-on-arrival access to 193 destinations** — one of the highest totals of any passport globally
 - **Full Schengen Area mobility** — live, work, and travel freely across 27 European countries
 - **EU business mobility** — bilateral agreements between Switzerland and the EU provide substantive business access across the single market, including for financial services professionals
-- **Institutional banking access** — a Swiss passport, combined with Swiss residence and a Swiss corporate structure, is a significant facilitator for [banking relationships](/blog/swiss-bank-account/) in Switzerland and internationally
+- **Institutional banking access** — a Swiss passport, combined with Swiss residence and a Swiss corporate structure, is a significant facilitator for [banking relationships](/banking/swiss-bank-account/) in Switzerland and internationally
 - **Political participation** — Swiss citizens vote on federal, cantonal, and communal matters multiple times per year through Switzerland's direct democratic system. This is not merely symbolic; Swiss voters directly determine tax policy, social legislation, and constitutional amendments
 
 ---
@@ -193,7 +193,7 @@ The [Swiss passport](/blog/swiss-passport/) consistently ranks among the top fiv
 
 ### The Zug Entrepreneur: Ten Years from Arrival to Passport
 
-A US technology entrepreneur relocated to Zug in March 2016. His first act on arrival was registering his residence at the Einwohnerkontrolle in Zug and incorporating his company through Lawsupport — see our [company formation Switzerland](/blog/company-formation-switzerland/) service. He held a B permit initially, transitioning to a C permit after five years of residence. He attended German language courses, joined a local sports association, and participated consistently in local political life. He submitted his naturalisation application in early 2025, one year before the ten-year threshold, to begin the administrative queue. In March 2026, following successful communal, cantonal, and federal approval, he received his Swiss citizenship. Total elapsed time from first residence registration: ten years and nine days.
+A US technology entrepreneur relocated to Zug in March 2016. His first act on arrival was registering his residence at the Einwohnerkontrolle in Zug and incorporating his company through Lawsupport — see our [company formation Switzerland](/company-formation/company-formation-switzerland/) service. He held a B permit initially, transitioning to a C permit after five years of residence. He attended German language courses, joined a local sports association, and participated consistently in local political life. He submitted his naturalisation application in early 2025, one year before the ten-year threshold, to begin the administrative queue. In March 2026, following successful communal, cantonal, and federal approval, he received his Swiss citizenship. Total elapsed time from first residence registration: ten years and nine days.
 
 ### The EU National Spouse: Facilitated Naturalisation in Eighteen Months
 
@@ -201,7 +201,7 @@ A French national living in Zug married her Swiss husband in 2021. She had been 
 
 ### Citizenship by Descent: Born Abroad to a Swiss Mother
 
-A person born in Canada in 1988 to a Swiss mother and Canadian father discovered their Swiss citizenship entitlement only in 2024, through consultation with Lawsupport. Their mother had been Swiss at the time of their birth — a fact sufficient under ius sanguinis to convey Swiss citizenship at birth. The process required registration of the birth with the Swiss consulate and submission of documentary evidence of the mother's citizenship status at the time of birth. No residence in Switzerland was required. Within fourteen months of initiating the registration process, the applicant held a Swiss passport — having lived their entire life outside Switzerland. For more, see [Swiss citizenship by descent](/blog/swiss-citizenship-by-descent/).
+A person born in Canada in 1988 to a Swiss mother and Canadian father discovered their Swiss citizenship entitlement only in 2024, through consultation with Lawsupport. Their mother had been Swiss at the time of their birth — a fact sufficient under ius sanguinis to convey Swiss citizenship at birth. The process required registration of the birth with the Swiss consulate and submission of documentary evidence of the mother's citizenship status at the time of birth. No residence in Switzerland was required. Within fourteen months of initiating the registration process, the applicant held a Swiss passport — having lived their entire life outside Switzerland. For more, see [Swiss citizenship by descent](/immigration/swiss-citizenship-by-descent/).
 
 ---
 
@@ -211,7 +211,7 @@ Naturalisation cannot be rushed, but it can be prepared for with precision. The 
 
 **1. Establish legal residence and register immediately.** The ten-year clock runs from the date of first registration. Do not delay residence registration for any administrative convenience. Every month of unregistered presence is a month that does not count.
 
-**2. Plan the permit pathway.** B permit holders cannot apply for ordinary naturalisation. Map your route from B to C permit in advance and monitor renewal cycles carefully. If you are a non-EU/EFTA national, this requires particular attention given the longer permit timelines. See our guides on the [B permit](/blog/b-permit-switzerland/) and [C permit](/blog/c-permit-switzerland/).
+**2. Plan the permit pathway.** B permit holders cannot apply for ordinary naturalisation. Map your route from B to C permit in advance and monitor renewal cycles carefully. If you are a non-EU/EFTA national, this requires particular attention given the longer permit timelines. See our guides on the [B permit](/immigration/b-permit-switzerland/) and [C permit](/immigration/c-permit-switzerland/).
 
 **3. Begin language training early.** Reaching B1 spoken / A2 written in German, French, or Italian is achievable with sustained effort over twelve to twenty-four months, but leaving it until the final year before application creates unnecessary risk. Language certification takes time to obtain and retake if failed.
 

@@ -3,7 +3,7 @@ title: "Capital Deposit Account Switzerland: How It Works"
 description: "Swiss Kapitaleinzahlungskonto (capital deposit account): required for AG and GmbH formation, which banks open them, documents needed, and typical timeline."
 date: "19.03.2026"
 category: "Banking & Finance"
-categoryHref: "/blog/"
+categoryHref: "/banking/"
 readTime: "7 min read"
 faqItems:
   - question: "What is a Kapitaleinzahlungskonto?"
@@ -67,7 +67,7 @@ Swiss law requires that share capital actually exist before incorporation — me
 
 These thresholds derive from Articles 621 and 774 of the Swiss Code of Obligations. The AG allows a two-tranche structure — CHF 50,000 at formation, remainder callable later — whereas the GmbH requires full payment upfront.
 
-For founders planning a [GmbH formation](/blog/gmbh-formation-switzerland/) or [AG formation](/blog/ag-formation-switzerland/), securing a bank willing to open the Kapitaleinzahlungskonto is often the first critical step in the timeline.
+For founders planning a [GmbH formation](/company-formation/gmbh-formation-switzerland/) or [AG formation](/company-formation/ag-formation-switzerland/), securing a bank willing to open the Kapitaleinzahlungskonto is often the first critical step in the timeline.
 
 ---
 
@@ -87,7 +87,7 @@ Not every Swiss bank offers capital deposit accounts, particularly for foreign-o
 
 The key variable for foreign founders is the bank's appetite for international KYC. Applications with complex ownership chains or founders from certain jurisdictions will receive more scrutiny. Swiss banks reject approximately 20–30% of foreign company account applications overall; having a formation lawyer prepare the documentation package reduces that rate significantly.
 
-For an overview of ongoing business banking after formation, see the [corporate bank account Switzerland](/blog/corporate-bank-account-switzerland/) guide, or the broader [Swiss bank account](/blog/swiss-bank-account/) overview.
+For an overview of ongoing business banking after formation, see the [corporate bank account Switzerland](/banking/corporate-bank-account-switzerland/) guide, or the broader [Swiss bank account](/banking/swiss-bank-account/) overview.
 
 ---
 
@@ -151,7 +151,7 @@ The Kapitaleinzahlungskonto ceases to function as a special account once the fun
 
 The released CHF 20,000 or CHF 100,000 is the company's working capital — fully available for rent, payroll, and operating costs. Share capital is accounting equity, not a permanent cash reserve.
 
-Many founders choose to open the capital deposit account at whatever bank is most accessible, then move the released funds to their preferred corporate bank once the company is registered. This is entirely permissible and straightforward. See our [company formation Switzerland](/blog/company-formation-switzerland/) guide for the full lifecycle from formation to operation.
+Many founders choose to open the capital deposit account at whatever bank is most accessible, then move the released funds to their preferred corporate bank once the company is registered. This is entirely permissible and straightforward. See our [company formation Switzerland](/company-formation/company-formation-switzerland/) guide for the full lifecycle from formation to operation.
 
 ---
 
@@ -197,7 +197,7 @@ Yes, if the articles of association specify a foreign currency denomination. The
 
 **What is the difference in minimum capital between an AG and a GmbH?**
 
-The AG requires CHF 100,000 in authorised share capital, with at least CHF 50,000 (50%) paid up at formation. The GmbH requires CHF 20,000, which must be 100% paid up at formation. These thresholds are set by Articles 621 and 774 CO. For founders choosing between the two structures, see our comparison of [AG formation](/blog/ag-formation-switzerland/) and [GmbH formation](/blog/gmbh-formation-switzerland/).
+The AG requires CHF 100,000 in authorised share capital, with at least CHF 50,000 (50%) paid up at formation. The GmbH requires CHF 20,000, which must be 100% paid up at formation. These thresholds are set by Articles 621 and 774 CO. For founders choosing between the two structures, see our comparison of [AG formation](/company-formation/ag-formation-switzerland/) and [GmbH formation](/company-formation/gmbh-formation-switzerland/).
 
 **What happens if company formation fails after the capital is deposited?**
 
@@ -205,7 +205,7 @@ If incorporation does not proceed — because the Commercial Register rejects th
 
 **Are there alternatives to depositing cash in a Kapitaleinzahlungskonto?**
 
-Yes. Swiss law permits contribution in kind (Sacheinlage) — contributing assets such as real property, machinery, software licences, or receivables in lieu of cash. Contributions in kind require an independent auditor's valuation report and additional disclosure in the articles of association, making the process more complex. A third alternative is acquiring a [shelf company](/blog/company-formation-switzerland/) (Mantelgesellschaft), which already has registered share capital, bypassing the deposit account requirement entirely.
+Yes. Swiss law permits contribution in kind (Sacheinlage) — contributing assets such as real property, machinery, software licences, or receivables in lieu of cash. Contributions in kind require an independent auditor's valuation report and additional disclosure in the articles of association, making the process more complex. A third alternative is acquiring a [shelf company](/company-formation/company-formation-switzerland/) (Mantelgesellschaft), which already has registered share capital, bypassing the deposit account requirement entirely.
 
 **Does Lawsupport assist with the Kapitaleinzahlungskonto?**
 
@@ -225,11 +225,11 @@ Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, Zug, Switzerland | [+41 
 
 **Related guides:**
 
-- [Swiss Bank Account — Complete Guide](/blog/swiss-bank-account/)
-- [Corporate Bank Account Switzerland](/blog/corporate-bank-account-switzerland/)
-- [GmbH Formation Switzerland](/blog/gmbh-formation-switzerland/)
-- [AG Formation Switzerland](/blog/ag-formation-switzerland/)
-- [Company Formation Switzerland](/blog/company-formation-switzerland/)
+- [Swiss Bank Account — Complete Guide](/banking/swiss-bank-account/)
+- [Corporate Bank Account Switzerland](/banking/corporate-bank-account-switzerland/)
+- [GmbH Formation Switzerland](/company-formation/gmbh-formation-switzerland/)
+- [AG Formation Switzerland](/company-formation/ag-formation-switzerland/)
+- [Company Formation Switzerland](/company-formation/company-formation-switzerland/)
 
 ---
 

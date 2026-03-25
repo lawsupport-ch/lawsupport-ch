@@ -3,7 +3,7 @@ title: "Accounting Recovery Switzerland: Fix Missing Accounts"
 description: "Missing Swiss company accounts? How to reconstruct records, file overdue tax returns, and obtain tax clearance for liquidation. Free assessment available."
 date: "19.03.2026"
 category: "Tax & Accounting"
-categoryHref: "/blog/"
+categoryHref: "/tax-accounting/"
 readTime: "10 min read"
 tocItems:
   - id: "the-problem-years-of-missing-accounts"
@@ -73,15 +73,15 @@ Accounting recovery is not a creative exercise. It is a methodical reconstructio
 
 **Step 3 — Prepare year-end financial statements.** For each missing year, a full balance sheet and profit and loss statement must be prepared in accordance with Swiss accounting standards. These are the accounts that will be presented to the tax authority and, where required, to the bank.
 
-**Step 4 — File overdue corporate tax returns.** Once the accounts exist, corporate tax returns can be prepared and submitted for each open year. In most Swiss cantons this means both cantonal and communal tax and direct federal tax. The <a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">Federal Tax Administration (ESTV)</a> treats voluntary proactive filing materially differently from non-compliance discovered by the authority. For a full overview of what is owed, see our guide to [corporate tax returns in Switzerland](/blog/corporate-tax-return-switzerland/).
+**Step 4 — File overdue corporate tax returns.** Once the accounts exist, corporate tax returns can be prepared and submitted for each open year. In most Swiss cantons this means both cantonal and communal tax and direct federal tax. The <a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">Federal Tax Administration (ESTV)</a> treats voluntary proactive filing materially differently from non-compliance discovered by the authority. For a full overview of what is owed, see our guide to [corporate tax returns in Switzerland](/tax-accounting/corporate-tax-return-switzerland/).
 
 **Step 5 — Settle outstanding tax and obtain clearance.** The tax authority assesses the returns and issues demands for outstanding tax with accrued interest. Once settled, the cantonal authority issues the tax clearance certificate needed for liquidation or continued operation without open liability.
 
 **Step 6 — AHV and social insurance.** If the company had employees or paid salaries to directors, AHV contributions must be reconciled and any shortfalls settled. The AHV compensation office charges interest at 5% per annum on late contributions. The employer bears both the employer and employee shares where contributions were not properly withheld at the time — a cost that compounds the longer the situation is left unaddressed.
 
-**Step 7 — VAT.** If the company was registered for VAT, any missing VAT returns must be filed and outstanding VAT settled with the Federal Tax Administration (ESTV). VAT obligations run on a quarterly or semi-annual cycle, so multi-year gaps can mean a significant number of overdue filings. See our guide on [VAT in Switzerland](/blog/vat-switzerland/) for the registration thresholds and filing rules.
+**Step 7 — VAT.** If the company was registered for VAT, any missing VAT returns must be filed and outstanding VAT settled with the Federal Tax Administration (ESTV). VAT obligations run on a quarterly or semi-annual cycle, so multi-year gaps can mean a significant number of overdue filings. See our guide on [VAT in Switzerland](/tax-accounting/vat-switzerland/) for the registration thresholds and filing rules.
 
-For the underlying compliance framework, see our guides on [accounting requirements in Switzerland](/blog/accounting-switzerland/) and [corporate tax in Switzerland](/blog/corporate-tax-switzerland/).
+For the underlying compliance framework, see our guides on [accounting requirements in Switzerland](/tax-accounting/accounting-switzerland/) and [corporate tax in Switzerland](/tax-accounting/corporate-tax-switzerland/).
 
 <!-- VIDEO PLACEHOLDER: "Swiss VAT catch-up filings explained" -->
 
@@ -107,13 +107,13 @@ That cost needs to be weighed against the alternative: accumulating tax interest
 
 If a Swiss bank has restricted or closed the company's account due to missing accounts, the path to resolution runs through accounting recovery. Banks that receive reconstructed annual accounts showing the company's current financial position will in most cases restore access — or, if the account was closed, allow the company to open an account elsewhere. There is no shortcut. The bank needs the accounts, and the accounts must be properly prepared.
 
-Correctly maintained [bookkeeping in Switzerland](/blog/bookkeeping-switzerland/) going forward also ensures this situation does not recur once the recovery is complete.
+Correctly maintained [bookkeeping in Switzerland](/tax-accounting/bookkeeping-switzerland/) going forward also ensures this situation does not recur once the recovery is complete.
 
 ---
 
 ## The Liquidation Path
 
-The most common reason clients come to us for accounting recovery is straightforward: they want to close the company and cannot. The [company liquidation process in Switzerland](/blog/company-liquidation-switzerland/) requires a tax clearance certificate from the cantonal authority. Tax clearance requires filed accounts and settled tax. Without accounting recovery, the company remains registered, accumulates liability, and stays the director's legal responsibility indefinitely.
+The most common reason clients come to us for accounting recovery is straightforward: they want to close the company and cannot. The [company liquidation process in Switzerland](/company-formation/company-liquidation-switzerland/) requires a tax clearance certificate from the cantonal authority. Tax clearance requires filed accounts and settled tax. Without accounting recovery, the company remains registered, accumulates liability, and stays the director's legal responsibility indefinitely.
 
 Accounting recovery followed by voluntary liquidation is a clean, definitive resolution. It takes time and costs money. But it ends the exposure and closes the matter.
 

@@ -3,7 +3,7 @@ title: "Cost of Living Switzerland: Realistic Numbers for 2026"
 description: "Cost of living Switzerland 2026: rent, health insurance, groceries, tax in Zug, Zurich, Geneva. Real CHF figures. Plan your move with Lawsupport."
 date: "19.03.2026"
 category: "Immigration"
-categoryHref: "/blog/"
+categoryHref: "/immigration/"
 readTime: "7 min read"
 tocItems:
   - id: "monthly-budget-overview"
@@ -65,7 +65,7 @@ A realistic monthly budget for a professional couple with one child in Switzerla
 | Childcare / nursery | CHF 1,500–2,500 | CHF 2,000–3,000 | CHF 1,800–2,800 |
 | **Subtotal before tax** | **CHF 8,000–11,500** | **CHF 9,000–14,000** | **CHF 9,000–14,000** |
 
-These figures do not include income tax, which varies substantially by canton and income level (see below). For the full picture of how Switzerland compares to other countries as a base for internationally mobile professionals, see our guide on [immigrating to Switzerland](/blog/immigrate-to-switzerland/).
+These figures do not include income tax, which varies substantially by canton and income level (see below). For the full picture of how Switzerland compares to other countries as a base for internationally mobile professionals, see our guide on [immigrating to Switzerland](/immigration/immigrate-to-switzerland/).
 
 ---
 
@@ -147,7 +147,7 @@ Tax is a significant but location-dependent cost.
 
 For high earners, the difference between Zug and Zurich represents CHF 15,000–30,000 per year in additional tax on the same income. This is a primary driver of the concentration of high-net-worth individuals in Zug and Schwyz. The Swiss Federal Statistics Office publishes annual income tax comparisons at <a href="https://www.bfs.admin.ch" target="_blank" rel="nofollow noopener">bfs.admin.ch</a>.
 
-For the [B permit](/blog/b-permit-switzerland/) or [C permit](/blog/c-permit-switzerland/) required to work in Switzerland as a foreign national, see our immigration guides. Those planning to relocate with significant assets may also benefit from reading about the [lump-sum taxation](/blog/immigrate-to-switzerland/) regime available to high-net-worth foreign residents.
+For the [B permit](/immigration/b-permit-switzerland/) or [C permit](/immigration/c-permit-switzerland/) required to work in Switzerland as a foreign national, see our immigration guides. Those planning to relocate with significant assets may also benefit from reading about the [lump-sum taxation](/immigration/immigrate-to-switzerland/) regime available to high-net-worth foreign residents.
 
 ---
 
@@ -225,7 +225,7 @@ Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 
 [Request a Free Assessment →](/contacts/)
 
-Related guides: [Immigrate to Switzerland →](/blog/immigrate-to-switzerland/) | [B Permit Switzerland →](/blog/b-permit-switzerland/) | [C Permit Switzerland →](/blog/c-permit-switzerland/) | [Swiss Citizenship →](/blog/swiss-citizenship/)
+Related guides: [Immigrate to Switzerland →](/immigration/immigrate-to-switzerland/) | [B Permit Switzerland →](/immigration/b-permit-switzerland/) | [C Permit Switzerland →](/immigration/c-permit-switzerland/) | [Swiss Citizenship →](/immigration/swiss-citizenship/)
 
 ---
 

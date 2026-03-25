@@ -3,7 +3,7 @@ title: "Company Liquidation Switzerland: Process & Costs (2026)"
 description: "How to liquidate a Swiss GmbH or AG. Voluntary dissolution, tax clearance, timeline, and costs explained. Request a free assessment from Lawsupport."
 date: "19.03.2026"
 category: "Company Formation"
-categoryHref: "/services/company-formation/"
+categoryHref: "/company-formation/"
 readTime: "8 min read"
 tocItems:
   - id: "when-liquidation-is-used"
@@ -123,7 +123,7 @@ Complex liquidations — companies with multiple creditors, outstanding litigati
 
 A company cannot be liquidated if its accounting records are not in order. The Commercial Register will not process a deletion if outstanding tax returns have not been filed and the tax authority has not issued a clearance. If your company has missing accounts, these must be completed before the liquidation process begins.
 
-For more on ongoing accounting obligations, see our guide to [accounting in Switzerland](/blog/accounting-switzerland/).
+For more on ongoing accounting obligations, see our guide to [accounting in Switzerland](/tax-accounting/accounting-switzerland/).
 
 ---
 
@@ -147,7 +147,7 @@ We manage the complete liquidation process for Zug-based companies: dissolution 
 
 We also advise on the optimal approach before the process begins — including whether liquidation is preferable to a sale, merger, or dormancy arrangement. If you formed your company through us, we already hold the corporate records, which significantly accelerates the process.
 
-See our overview of the full lifecycle of a Swiss company: from [company formation in Switzerland](/blog/company-formation-switzerland/) through to dissolution.
+See our overview of the full lifecycle of a Swiss company: from [company formation in Switzerland](/company-formation/company-formation-switzerland/) through to dissolution.
 
 [Request a Free Assessment](/contacts/)
 

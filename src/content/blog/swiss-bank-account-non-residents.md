@@ -4,7 +4,7 @@ description: "Can you open a Swiss bank account as a non-resident? We explain th
 date: "19.03.2026"
 publishDate: "2026-06-18"
 category: "Banking & Finance"
-categoryHref: "/blog/"
+categoryHref: "/banking/"
 readTime: "12 min read"
 faqItems:
   - question: "Can I open a Swiss bank account online as a non-resident without forming a company?"
@@ -37,7 +37,7 @@ tocItems:
 
 If you have been searching for information on opening a Swiss bank account as a non-resident, you have almost certainly encountered two types of content online: breathless articles claiming it is simple and straightforward, and others that dismiss it as entirely impossible. Neither is accurate. The truth in 2026 is more nuanced — and understanding it clearly will save you considerable time, money, and frustration.
 
-This guide is written by practitioners. We have helped clients from over 40 countries with Swiss banking and [company formation](/blog/company-formation-switzerland/) for more than 18 years. We will not tell you what you want to hear. We will tell you what is actually achievable, what the realistic paths look like, and where the dead ends are.
+This guide is written by practitioners. We have helped clients from over 40 countries with Swiss banking and [company formation](/company-formation/company-formation-switzerland/) for more than 18 years. We will not tell you what you want to hear. We will tell you what is actually achievable, what the realistic paths look like, and where the dead ends are.
 
 ---
 
@@ -59,13 +59,13 @@ This is not cause for despair. There are genuine, practical paths forward. But t
 
 ### Option A: Form a Swiss Company — The Primary Realistic Path
 
-For the overwhelming majority of non-residents who have a legitimate reason to want a Swiss bank account — business operations, investment holding, trading, consulting, e-commerce — the most reliable and legally sound path is to incorporate a Swiss company and open a [corporate bank account](/blog/corporate-bank-account-switzerland/) in the company's name.
+For the overwhelming majority of non-residents who have a legitimate reason to want a Swiss bank account — business operations, investment holding, trading, consulting, e-commerce — the most reliable and legally sound path is to incorporate a Swiss company and open a [corporate bank account](/banking/corporate-bank-account-switzerland/) in the company's name.
 
 Swiss banks do open corporate accounts for companies with non-resident shareholders and directors, provided the company has genuine Swiss substance. This means a registered Swiss address, at minimum one Swiss-resident director on the board, and a credible business rationale for why the company operates in Switzerland.
 
-[Forming a Swiss GmbH or AG](/blog/company-formation-switzerland/) creates the legal foundation that unlocks corporate banking. Once the company exists, the bank relationship is with a Swiss legal entity — not with a foreign individual. The compliance calculus is entirely different.
+[Forming a Swiss GmbH or AG](/company-formation/company-formation-switzerland/) creates the legal foundation that unlocks corporate banking. Once the company exists, the bank relationship is with a Swiss legal entity — not with a foreign individual. The compliance calculus is entirely different.
 
-This is the path we facilitate regularly at Lawsupport. We provide the registered address in Zug, the Swiss-resident director service through our [nominee director arrangements](/blog/nominee-director-switzerland/), and the company formation itself — simultaneously coordinating the bank account opening process so that both happen in a structured, efficient sequence.
+This is the path we facilitate regularly at Lawsupport. We provide the registered address in Zug, the Swiss-resident director service through our [nominee director arrangements](/corporate-services/nominee-director-switzerland/), and the company formation itself — simultaneously coordinating the bank account opening process so that both happen in a structured, efficient sequence.
 
 Non-resident shareholders and directors are accepted at Swiss banks for corporate accounts, but the KYC requirements are extensive. Expect to provide:
 
@@ -77,11 +77,11 @@ Non-resident shareholders and directors are accepted at Swiss banks for corporat
 
 The process typically takes four to ten weeks from incorporation to an active account, depending on the bank and the complexity of the ownership structure.
 
-One specific consideration: before a Swiss GmbH or AG can be registered in the commercial register, the share capital must be deposited into a **Kapitaleinzahlungskonto** ([capital deposit account](/blog/capital-deposit-account-switzerland/)). This is a temporary holding account opened at a Swiss bank specifically for this purpose. It typically takes two to six weeks to establish, and it is a prerequisite — not a parallel step — to the company registration itself. We coordinate this as part of the formation process.
+One specific consideration: before a Swiss GmbH or AG can be registered in the commercial register, the share capital must be deposited into a **Kapitaleinzahlungskonto** ([capital deposit account](/banking/capital-deposit-account-switzerland/)). This is a temporary holding account opened at a Swiss bank specifically for this purpose. It typically takes two to six weeks to establish, and it is a prerequisite — not a parallel step — to the company registration itself. We coordinate this as part of the formation process.
 
 ### Option B: Swiss Private Banking for High-Net-Worth Individuals
 
-There is a second legitimate path, though it applies to a narrow segment: [private banking and wealth management](/blog/private-banking-switzerland/) at Swiss private banks.
+There is a second legitimate path, though it applies to a narrow segment: [private banking and wealth management](/banking/private-banking-switzerland/) at Swiss private banks.
 
 Institutions such as Pictet, Julius Baer, EFG International, Lombard Odier, and Mirabaud operate on an entirely different model to retail banking. They are not offering current accounts for everyday transactions. They are offering discretionary and advisory asset management, structured products, estate planning, and multi-currency investment portfolios.
 
@@ -119,7 +119,7 @@ Understanding the regulatory environment helps set realistic expectations and al
 
 **FATF Risk Classification**: Banks assess client risk partly based on the FATF status of the client's country of residence. Residents of jurisdictions with identified AML/CFT deficiencies face the most restrictive approach.
 
-**Post-Credit Suisse Regulatory Environment**: The collapse of Credit Suisse in 2023 accelerated FINMA's emphasis on risk management and compliance culture across the [Swiss banking sector](/blog/swiss-banking-system/). Banks that might once have accepted marginal client relationships with adequate compliance documentation have tightened their criteria further.
+**Post-Credit Suisse Regulatory Environment**: The collapse of Credit Suisse in 2023 accelerated FINMA's emphasis on risk management and compliance culture across the [Swiss banking sector](/banking/swiss-banking-system/). Banks that might once have accepted marginal client relationships with adequate compliance documentation have tightened their criteria further.
 
 ---
 
@@ -155,7 +155,7 @@ Consider a common profile: a Singapore-based entrepreneur who runs an internatio
 
 **What about Wise or Revolut?** She likely already has access to these. They will give her CHF functionality but not a Swiss IBAN or a Swiss bank relationship.
 
-**The realistic path for her situation:** Incorporate a Swiss GmbH through Lawsupport. The GmbH is registered in Zug with a Lawsupport address and a Swiss-resident director provided through our [nominee director service](/blog/nominee-director-switzerland/). The company has a legitimate business purpose — her consulting work can genuinely be structured through a Swiss entity. We simultaneously open a corporate bank account for the GmbH. She is the 100% shareholder and beneficial owner. The account is opened at a Swiss bank, with a Swiss IBAN, capable of receiving and sending EUR and CHF payments.
+**The realistic path for her situation:** Incorporate a Swiss GmbH through Lawsupport. The GmbH is registered in Zug with a Lawsupport address and a Swiss-resident director provided through our [nominee director service](/corporate-services/nominee-director-switzerland/). The company has a legitimate business purpose — her consulting work can genuinely be structured through a Swiss entity. We simultaneously open a corporate bank account for the GmbH. She is the 100% shareholder and beneficial owner. The account is opened at a Swiss bank, with a Swiss IBAN, capable of receiving and sending EUR and CHF payments.
 
 This is not a workaround. It is the correct legal and commercial structure for what she is trying to achieve. The account is fully compliant, the company is genuine, and she has a functional Swiss banking relationship within approximately two to three months.
 
@@ -165,7 +165,7 @@ This is not a workaround. It is the correct legal and commercial structure for w
 
 If you have concluded that the corporate route is the right one for your situation, here is what the process looks like when we manage it:
 
-1. **Initial consultation** — We assess your business needs, ownership structure, and jurisdiction to identify the appropriate Swiss company type ([GmbH](/blog/gmbh-formation-switzerland/) or [AG](/blog/ag-formation-switzerland/)) and target bank.
+1. **Initial consultation** — We assess your business needs, ownership structure, and jurisdiction to identify the appropriate Swiss company type ([GmbH](/company-formation/gmbh-formation-switzerland/) or [AG](/company-formation/ag-formation-switzerland/)) and target bank.
 2. **Company formation preparation** — Drafting articles of association, arranging the registered address and nominee director, preparing notarial documentation.
 3. **Capital deposit account** — Opening the Kapitaleinzahlungskonto at a target bank and depositing the share capital (minimum CHF 20'000 for GmbH).
 4. **Commercial register filing** — The company is registered once the capital deposit is confirmed.

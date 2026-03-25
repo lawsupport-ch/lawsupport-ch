@@ -4,7 +4,7 @@ description: "Every Swiss AG and GmbH needs a registered domicile. Professional 
 date: "19.03.2026"
 publishDate: "2026-05-23"
 category: "Company Administration"
-categoryHref: "/blog/"
+categoryHref: "/corporate-services/"
 readTime: "13 min read"
 faqItems:
   - question: "Can a Swiss company use a service provider's office as registered address?"
@@ -43,7 +43,7 @@ tocItems:
 
 Every company incorporated in Switzerland — whether an AG (Aktiengesellschaft) or a GmbH (Gesellschaft mit beschraenkter Haftung) — must have a registered domicile (Sitz) located in Switzerland. This is not optional. It is a statutory requirement embedded in the Swiss Code of Obligations and governed by Art. 2 of the Handelsregisterverordnung (HRegV). The registered address is the address that appears in the Commercial Register (Handelsregister), on official correspondence, and in the company's articles of association.
 
-If you are incorporating a Swiss company from abroad, or if your existing company does not have a physical office in Switzerland, a professional registered address service is the standard and legally compliant solution. Lawsupport has provided registered address and domicile services from its Zug office at Grafenauweg 4 for over 18 years, supporting more than 1,000 [company formations](/blog/company-formation-switzerland/).
+If you are incorporating a Swiss company from abroad, or if your existing company does not have a physical office in Switzerland, a professional registered address service is the standard and legally compliant solution. Lawsupport has provided registered address and domicile services from its Zug office at Grafenauweg 4 for over 18 years, supporting more than 1,000 [company formations](/company-formation/company-formation-switzerland/).
 
 ---
 
@@ -53,7 +53,7 @@ Under Swiss law, a company's Sitz — its statutory seat — determines which ca
 
 - Be physically located in Switzerland
 - Be verifiable and contactable (i.e., mail sent to that address must actually reach the company or a designated representative)
-- Appear correctly in the [Commercial Register](/blog/commercial-register-switzerland/) entry and the articles of association
+- Appear correctly in the [Commercial Register](/company-formation/commercial-register-switzerland/) entry and the articles of association
 
 There is no requirement that the company carry out its day-to-day operations from the registered address. A company can be domiciled in Zug and operated entirely from London, Dubai, Singapore, or anywhere else. What matters is that the Swiss address is genuine — meaning that official correspondence sent there will be received and dealt with. A professional registered address service, with mail forwarding, satisfies this requirement.
 
@@ -77,7 +77,7 @@ This service is everything your company needs to satisfy the Swiss domicile requ
 
 Zug is Switzerland's most prominent business canton and the address of choice for internationally oriented Swiss companies. The reasons are well established:
 
-**Tax efficiency.** Zug has among the lowest effective corporate tax rates in Switzerland — typically in the range of 11–12% combined (federal plus cantonal/communal), compared with 20–24% in higher-tax cantons. For [holding companies](/blog/holding-company-switzerland/), finance companies, and IP structures, the difference is material. See our [cantonal tax comparison](/blog/cantonal-tax-comparison-switzerland/) for detailed figures.
+**Tax efficiency.** Zug has among the lowest effective corporate tax rates in Switzerland — typically in the range of 11–12% combined (federal plus cantonal/communal), compared with 20–24% in higher-tax cantons. For [holding companies](/company-formation/holding-company-switzerland/), finance companies, and IP structures, the difference is material. See our [cantonal tax comparison](/tax-accounting/cantonal-tax-comparison-switzerland/) for detailed figures.
 
 **Reputation.** Zug is recognised globally as a serious, well-regulated business address. For counterparties, investors, and banks, a Zug address carries weight. It signals that your company is registered in a jurisdiction with rule of law, strong banking infrastructure, and stable regulation.
 
@@ -97,9 +97,9 @@ Your **registered address** is a legal requirement. It is where the company offi
 
 Your **operational office** is where you actually carry out business activities — where your employees sit, where client meetings happen, where servers are located, where substance is generated. This can be anywhere in the world.
 
-A foreign-owned Swiss AG, with no employees in Switzerland and all operations managed from abroad, can be perfectly legitimate. The company is registered in Zug (at Lawsupport's address), has a [nominee director in Switzerland](/blog/nominee-director-switzerland/) to satisfy the statutory residency requirement, and conducts its commercial activities from whatever jurisdiction its principals are based in. This structure is common, legal, and entirely transparent under Swiss law.
+A foreign-owned Swiss AG, with no employees in Switzerland and all operations managed from abroad, can be perfectly legitimate. The company is registered in Zug (at Lawsupport's address), has a [nominee director in Switzerland](/corporate-services/nominee-director-switzerland/) to satisfy the statutory residency requirement, and conducts its commercial activities from whatever jurisdiction its principals are based in. This structure is common, legal, and entirely transparent under Swiss law.
 
-The important caveat: regulated entities are a different matter. If your company requires a [FINMA licence](/blog/finma-licensing-switzerland/) (banking, asset management, payment services, certain crypto activities), a mere registered address is not sufficient. FINMA imposes substance requirements — Swiss-resident management, genuine decision-making in Switzerland, physical infrastructure. For regulated entities, please contact us directly to discuss the appropriate structure.
+The important caveat: regulated entities are a different matter. If your company requires a [FINMA licence](/licensing/finma-licensing-switzerland/) (banking, asset management, payment services, certain crypto activities), a mere registered address is not sufficient. FINMA imposes substance requirements — Swiss-resident management, genuine decision-making in Switzerland, physical infrastructure. For regulated entities, please contact us directly to discuss the appropriate structure.
 
 ---
 
@@ -127,7 +127,7 @@ To be direct: a registered address service is the legal domicile only. It does n
 - Secretarial or administrative staff
 - A postal address for marketing purposes or parcel delivery
 
-If you need any of these services — a Swiss phone number, meeting room access, or secretarial support in Zug — Lawsupport can arrange these through its Zug office network as an upgrade to the basic registered address service. These are billed separately. See our [virtual office Switzerland](/blog/virtual-office-switzerland/) page for details.
+If you need any of these services — a Swiss phone number, meeting room access, or secretarial support in Zug — Lawsupport can arrange these through its Zug office network as an upgrade to the basic registered address service. These are billed separately. See our [virtual office Switzerland](/corporate-services/virtual-office-switzerland/) page for details.
 
 ---
 
@@ -135,7 +135,7 @@ If you need any of these services — a Swiss phone number, meeting room access,
 
 A professional registered address service in Zug typically costs between CHF 500 and CHF 1,200 per year, depending on the provider, the level of mail handling included, and any additional services. Lawsupport's fees are transparent and fixed annually, with no hidden charges for routine mail forwarding.
 
-The registered address fee is separate from company formation fees and, if applicable, from [nominee director fees](/blog/nominee-director-switzerland/). Most foreign-owned companies use both services together — see below.
+The registered address fee is separate from company formation fees and, if applicable, from [nominee director fees](/corporate-services/nominee-director-switzerland/). Most foreign-owned companies use both services together — see below.
 
 ---
 
@@ -148,13 +148,13 @@ For a foreign-owned Swiss company, the typical compliance structure is:
 | Requirement | Service |
 |---|---|
 | Swiss registered domicile (Art. 2 HRegV) | Registered address — Grafenauweg 4, Zug |
-| Swiss-resident director (OR Art. 718 / Art. 814) | [Nominee director in Switzerland](/blog/nominee-director-switzerland/) |
+| Swiss-resident director (OR Art. 718 / Art. 814) | [Nominee director in Switzerland](/corporate-services/nominee-director-switzerland/) |
 
 Together, these two services give a foreign-owned Swiss company full statutory compliance — a Swiss address in the Commercial Register and a Swiss-resident director on the board. Neither service alone is sufficient; both are required.
 
-If you are in the process of forming a company, both services are set up simultaneously at incorporation. The registered address is included in the articles of association and the Commercial Register application from day one. See our guides on [company formation in Zug](/blog/company-formation-zug/) and [company formation in Switzerland](/blog/company-formation-switzerland/) for the full formation process.
+If you are in the process of forming a company, both services are set up simultaneously at incorporation. The registered address is included in the articles of association and the Commercial Register application from day one. See our guides on [company formation in Zug](/company-formation/company-formation-zug/) and [company formation in Switzerland](/company-formation/company-formation-switzerland/) for the full formation process.
 
-For an overview of all nominee and administrative services, see our [nominee shareholder services](/blog/nominee-shareholder-switzerland/) page.
+For an overview of all nominee and administrative services, see our [nominee shareholder services](/company-formation/nominee-shareholder-switzerland/) page.
 
 ---
 
@@ -217,11 +217,11 @@ Yes. A change of registered domicile requires an amendment to the articles of as
 
 **What happens to my registered address if I liquidate the company?**
 
-The registered address remains in effect throughout the [liquidation process](/blog/company-liquidation-switzerland/). During liquidation, official correspondence — including creditor notices and tax authority communications — continues to be delivered to the registered address. Lawsupport maintains the domicile service until the company is formally struck off the Commercial Register.
+The registered address remains in effect throughout the [liquidation process](/company-formation/company-liquidation-switzerland/). During liquidation, official correspondence — including creditor notices and tax authority communications — continues to be delivered to the registered address. Lawsupport maintains the domicile service until the company is formally struck off the Commercial Register.
 
 **Is a registered address in Zug suitable for a GmbH and an AG equally?**
 
-Yes. Both the AG and the GmbH have identical requirements for a Swiss registered domicile under the Code of Obligations. There is no distinction in how the registered address functions for either entity type. See our guides on [AG formation](/blog/ag-formation-switzerland/) and [GmbH formation](/blog/gmbh-formation-switzerland/) for entity-specific details.
+Yes. Both the AG and the GmbH have identical requirements for a Swiss registered domicile under the Code of Obligations. There is no distinction in how the registered address functions for either entity type. See our guides on [AG formation](/company-formation/ag-formation-switzerland/) and [GmbH formation](/company-formation/gmbh-formation-switzerland/) for entity-specific details.
 
 **Can multiple companies share the same registered address?**
 

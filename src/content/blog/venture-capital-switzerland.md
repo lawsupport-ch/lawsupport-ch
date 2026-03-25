@@ -4,7 +4,7 @@ description: "Venture capital in Switzerland: leading VC firms, startup financin
 date: "19.03.2026"
 publishDate: "2026-08-19"
 category: "Corporate Transactions"
-categoryHref: "/blog/"
+categoryHref: "/corporate-transactions/"
 readTime: "13 min read"
 faqItems:
   - question: "What is the difference between a SAFE note and a Swiss convertible loan?"
@@ -45,7 +45,7 @@ Switzerland's VC ecosystem is geographically concentrated, with each hub carryin
 
 **Zurich** is the dominant hub — home to fintech (Neon, Yapeal, Numbrs), biotech, and deeptech companies. Proximity to ETH Zurich and the University of Zurich creates a consistent pipeline of deep science spinouts. ETH Zurich alone has generated over 500 spinoff companies since 1990, many of which have attracted institutional VC.
 
-**Zug / Crypto Valley** is Switzerland's most internationally recognised startup brand. The canton's low [corporate tax rates](/blog/corporate-tax-switzerland/) (effective rate around 11.9% at the cantonal and municipal level), pragmatic financial regulator (FINMA), and concentration of blockchain and DeFi infrastructure firms make it the default domicile for crypto-native companies seeking European legitimacy. The Crypto Valley Association counts more than 1,000 member organisations.
+**Zug / Crypto Valley** is Switzerland's most internationally recognised startup brand. The canton's low [corporate tax rates](/tax-accounting/corporate-tax-switzerland/) (effective rate around 11.9% at the cantonal and municipal level), pragmatic financial regulator (FINMA), and concentration of blockchain and DeFi infrastructure firms make it the default domicile for crypto-native companies seeking European legitimacy. The Crypto Valley Association counts more than 1,000 member organisations.
 
 **Geneva** serves the international and impact investing segment — UN proximity, multi-lateral institutions, and a deep pool of family office capital make it the natural home for healthcare investment, impact funds, and cross-border M&A vehicles.
 
@@ -103,17 +103,17 @@ Before a priced round, Swiss founders typically use two instruments:
 The Swiss Aktiengesellschaft (AG) is the vehicle of choice for any startup planning to raise institutional venture capital in Switzerland. The structural advantages are concrete:
 
 - **Multiple share classes**: An AG can issue ordinary shares and preferred shares with differentiated economic and governance rights — essential for VC liquidation preferences and anti-dilution provisions
-- **ESOP compatibility**: Option pools and restricted share plans work cleanly under AG mechanics; [GmbH](/blog/gmbh-formation-switzerland/) option plans require workarounds that create legal uncertainty
+- **ESOP compatibility**: Option pools and restricted share plans work cleanly under AG mechanics; [GmbH](/company-formation/gmbh-formation-switzerland/) option plans require workarounds that create legal uncertainty
 - **No public shareholder register**: Unlike the GmbH (which files shareholder identity with the Commercial Register), an AG does not publicly disclose its shareholder list — relevant for founders and early investors who prefer confidentiality
 - **International recognition**: International investors, particularly US and UK funds, are familiar with the AG structure; GmbH is less understood and occasionally triggers LP-level concerns in international fund documents
 
-See our guide to [AG formation in Switzerland](/blog/ag-formation-switzerland/) for incorporation mechanics and timelines.
+See our guide to [AG formation in Switzerland](/company-formation/ag-formation-switzerland/) for incorporation mechanics and timelines.
 
 ### Zug Domicile: The Practical Case
 
-A Zug-domiciled AG combined with a Swiss [corporate bank account](/blog/corporate-bank-account-switzerland/) (PostFinance, UBS, or a neo-bank such as Neon Business or Yapeal Business) is the standard configuration for European and crypto startups seeking international investors. Zug's cantonal tax rate, administrative efficiency, and the density of VC and legal service providers in the canton make it functionally superior to Zurich for [holding structures](/blog/holding-company-switzerland/) and IP-heavy companies.
+A Zug-domiciled AG combined with a Swiss [corporate bank account](/banking/corporate-bank-account-switzerland/) (PostFinance, UBS, or a neo-bank such as Neon Business or Yapeal Business) is the standard configuration for European and crypto startups seeking international investors. Zug's cantonal tax rate, administrative efficiency, and the density of VC and legal service providers in the canton make it functionally superior to Zurich for [holding structures](/company-formation/holding-company-switzerland/) and IP-heavy companies.
 
-For a full walkthrough of incorporating an entity from scratch, see [company formation in Switzerland](/blog/company-formation-switzerland/).
+For a full walkthrough of incorporating an entity from scratch, see [company formation in Switzerland](/company-formation/company-formation-switzerland/).
 
 ---
 
@@ -127,7 +127,7 @@ Swiss practice has developed two primary responses:
 
 2. **Option Plans (ESOP/VSOP)**: More common at later stages. Tax is deferred to exercise. VSOP (Virtual Stock Option Plans) are phantom equity instruments that avoid share issuance entirely and pay out a cash equivalent on exit — useful for companies that want to incentivise employees without share register complexity.
 
-In all cases: obtain a **cantonal tax ruling on your ESOP structure before you launch it**. The ruling locks in the tax treatment agreed with the cantonal authority, preventing retrospective reclassification. Companies operating under [Swiss tax incentive programmes](/blog/swiss-tax-incentives/) should coordinate ESOP structuring with their broader tax planning. This is standard practice among Swiss VC-backed companies and costs a fraction of the tax exposure it eliminates.
+In all cases: obtain a **cantonal tax ruling on your ESOP structure before you launch it**. The ruling locks in the tax treatment agreed with the cantonal authority, preventing retrospective reclassification. Companies operating under [Swiss tax incentive programmes](/tax-accounting/swiss-tax-incentives/) should coordinate ESOP structuring with their broader tax planning. This is standard practice among Swiss VC-backed companies and costs a fraction of the tax exposure it eliminates.
 
 ---
 
@@ -141,7 +141,7 @@ A complete Swiss VC equity round involves four core documents executed in sequen
 
 3. **Share Purchase Agreement (SPA)**: Records the actual share transfer, representations and warranties from the company and founders, and conditions precedent to closing. In Swiss law, transfer of AG shares requires a written assignment agreement; the SPA serves this function.
 
-4. **Amended Articles of Association**: The articles must be amended at the [Commercial Register](/blog/commercial-register-switzerland/) to create the new preferred share class with the rights agreed in the SHA. This is a public document and must be consistent with the SHA; any conflict between the two is resolved in favour of the articles for third-party purposes.
+4. **Amended Articles of Association**: The articles must be amended at the [Commercial Register](/company-formation/commercial-register-switzerland/) to create the new preferred share class with the rights agreed in the SHA. This is a public document and must be consistent with the SHA; any conflict between the two is resolved in favour of the articles for third-party purposes.
 
 Founders should not sign a term sheet without legal review. The economics agreed at term sheet stage — particularly the liquidation preference structure and anti-dilution formula — determine founder outcomes at exit far more than the headline valuation.
 

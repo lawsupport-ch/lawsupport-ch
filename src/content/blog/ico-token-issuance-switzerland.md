@@ -4,7 +4,7 @@ description: "Issuing tokens in Switzerland requires FINMA token classification 
 date: "19.03.2026"
 publishDate: "2026-04-09"
 category: "Licensing & Permits"
-categoryHref: "/services/financial-licensing/"
+categoryHref: "/licensing/"
 readTime: "8 min read"
 faqItems:
   - question: "Does every token sale in Switzerland require FINMA approval?"
@@ -102,11 +102,11 @@ Where a prospectus is required, it must be approved before publication. BX Swiss
 
 The choice of issuing entity is as important as token classification. Swiss crypto projects predominantly use one of two structures.
 
-**Swiss Foundation (Stiftung)**: A foundation has no shareholders. It holds assets for a defined purpose — typically the development and maintenance of an open-source protocol or ecosystem. The Ethereum Foundation is a Zug-based Stiftung. Foundations are well suited for decentralised protocol fundraising because they structurally separate the issuing entity from any operating company, and they cannot distribute profits to founders. That separation reduces the risk of the token being characterised as a collective investment scheme. Read more about setting up a [Swiss foundation](/blog/swiss-foundation/) for your project.
+**Swiss Foundation (Stiftung)**: A foundation has no shareholders. It holds assets for a defined purpose — typically the development and maintenance of an open-source protocol or ecosystem. The Ethereum Foundation is a Zug-based Stiftung. Foundations are well suited for decentralised protocol fundraising because they structurally separate the issuing entity from any operating company, and they cannot distribute profits to founders. That separation reduces the risk of the token being characterised as a collective investment scheme. Read more about setting up a [Swiss foundation](/company-formation/swiss-foundation/) for your project.
 
-**Swiss Association (Verein)**: Lower formality and cost than a foundation. Used for smaller projects. The association is member-governed, which introduces governance complexity for decentralised projects. See our guide on the [Swiss association (Verein)](/blog/swiss-association-verein/) structure.
+**Swiss Association (Verein)**: Lower formality and cost than a foundation. Used for smaller projects. The association is member-governed, which introduces governance complexity for decentralised projects. See our guide on the [Swiss association (Verein)](/company-formation/swiss-association-verein/) structure.
 
-**Operating Company Separation**: In most well-structured Swiss token issuances, a foundation or association issues the tokens while a separate Swiss AG or GmbH provides development services under contract. The operating company has shareholders; the issuing entity does not. This protects founders' equity structures from the regulatory analysis applied to the token issuance. For those establishing the operating entity, our guide to [company formation in Switzerland](/blog/company-formation-switzerland/) covers the process step by step.
+**Operating Company Separation**: In most well-structured Swiss token issuances, a foundation or association issues the tokens while a separate Swiss AG or GmbH provides development services under contract. The operating company has shareholders; the issuing entity does not. This protects founders' equity structures from the regulatory analysis applied to the token issuance. For those establishing the operating entity, our guide to [company formation in Switzerland](/company-formation/company-formation-switzerland/) covers the process step by step.
 
 Zug remains the preferred canton for both foundations and operating companies due to its cryptocurrency-friendly administration, established legal service ecosystem, and the fact that cantonal authorities have processed hundreds of crypto-related incorporations.
 
@@ -116,7 +116,7 @@ Zug remains the preferred canton for both foundations and operating companies du
 
 Token issuers who engage in financial intermediation — accepting fiat or crypto, maintaining customer accounts, processing transfers — must affiliate with a FINMA-approved SRO or hold a FINMA payment institution licence. The leading SROs for crypto businesses in Switzerland include the VQF (Verein zur Qualitaetssicherung von Finanzdienstleistungen) and Polyreg.
 
-SRO membership requires documented AML policies, a compliance officer, transaction monitoring, and an annual compliance review. Onboarding timelines are typically 3 to 6 months. For more complex business models — exchanges, custodians, stablecoin issuers — direct FINMA licensing under the Banking Act or FinIA may be required. See our guide to [SRO membership in Switzerland](/blog/sro-membership-switzerland/) for detailed requirements and our overview of [FINMA licensing](/blog/finma-licensing-switzerland/) for regulated activities.
+SRO membership requires documented AML policies, a compliance officer, transaction monitoring, and an annual compliance review. Onboarding timelines are typically 3 to 6 months. For more complex business models — exchanges, custodians, stablecoin issuers — direct FINMA licensing under the Banking Act or FinIA may be required. See our guide to [SRO membership in Switzerland](/licensing/sro-membership-switzerland/) for detailed requirements and our overview of [FINMA licensing](/licensing/finma-licensing-switzerland/) for regulated activities.
 
 ---
 
@@ -130,7 +130,7 @@ This is not a workaround — it is statutory recognition. A tokenised share, bon
 
 ## Tax Treatment of Tokens in Switzerland
 
-Switzerland taxes tokens based on their nature and the taxpayer's status. For further detail, see our guide on [corporate tax in Switzerland](/blog/corporate-tax-switzerland/).
+Switzerland taxes tokens based on their nature and the taxpayer's status. For further detail, see our guide on [corporate tax in Switzerland](/tax-accounting/corporate-tax-switzerland/).
 
 **Payment and utility tokens held as private assets**: Subject to Swiss wealth tax at the market value on 31 December each year. The Swiss Federal Tax Administration (FTA) publishes year-end reference rates for major cryptocurrencies.
 
@@ -162,7 +162,7 @@ For a utility token issuance using an existing foundation or operating through p
 
 **Can a Swiss company issue tokens without opening a Swiss bank account?**
 
-Technically yes — token proceeds can be received in cryptocurrency and held in self-custodied wallets. In practice, most serious token projects require CHF or EUR banking for operational expenses. Several Swiss cantonal banks and fintech-licensed banks now offer accounts to token issuers with documented FINMA compliance status or SRO membership. Account onboarding for crypto issuers typically requires 4 to 12 weeks and a full compliance documentation package. For more on banking options, see our guide to [corporate bank accounts in Switzerland](/blog/corporate-bank-account-switzerland/).
+Technically yes — token proceeds can be received in cryptocurrency and held in self-custodied wallets. In practice, most serious token projects require CHF or EUR banking for operational expenses. Several Swiss cantonal banks and fintech-licensed banks now offer accounts to token issuers with documented FINMA compliance status or SRO membership. Account onboarding for crypto issuers typically requires 4 to 12 weeks and a full compliance documentation package. For more on banking options, see our guide to [corporate bank accounts in Switzerland](/banking/corporate-bank-account-switzerland/).
 
 **What is the difference between a payment token and an asset token?**
 
@@ -209,6 +209,6 @@ info@lawsupport.ch
 
 </div>
 
-Relevant services: [Crypto Licence Switzerland](/blog/crypto-license-switzerland/) | [FINMA Licensing Switzerland](/blog/finma-licensing-switzerland/) | [SRO Membership Switzerland](/blog/sro-membership-switzerland/) | [Company Formation Switzerland](/blog/company-formation-switzerland/)
+Relevant services: [Crypto Licence Switzerland](/licensing/crypto-license-switzerland/) | [FINMA Licensing Switzerland](/licensing/finma-licensing-switzerland/) | [SRO Membership Switzerland](/licensing/sro-membership-switzerland/) | [Company Formation Switzerland](/company-formation/company-formation-switzerland/)
 
 *Sources: <a href="https://www.finma.ch/en/documentation/finma-guidance/guidelines/ico-guidelines/" target="_blank" rel="nofollow noopener">FINMA ICO Guidelines (2018)</a> | <a href="https://www.fedlex.admin.ch/eli/oc/2021/33/de" target="_blank" rel="nofollow noopener">Federal DLT Act (Fedlex)</a> | <a href="https://www.admin.ch/gov/en/start/documentation/media-releases.msg-id-82058.html" target="_blank" rel="nofollow noopener">Swiss Federal Council DLT Act announcement</a>*

@@ -1,9 +1,9 @@
 ---
-title: "DLT Trading Facility Switzerland: Licence, Requirements & Process (2026)"
+title: "DLT Trading Facility Switzerland: Licence Guide"
 description: "Switzerland's DLT Trading Facility licence under the DLT Act 2021: who needs it, FINMA requirements, capital, and how it differs from a traditional exchange."
 date: "19.03.2026"
 category: "Licensing & Permits"
-categoryHref: "/services/financial-licensing/"
+categoryHref: "/licensing/"
 readTime: "8 min read"
 tocItems:
   - id: "legal-basis-the-dlt-act-and-the-fmia"
@@ -118,7 +118,7 @@ Operating without a licence is a criminal offence under Art. 44 FINMASA, with pe
 | FINMA authorisation required | Yes | Yes | Yes |
 | Operating rules approval | Yes — FINMA must approve | Yes | No equivalent |
 
-A **securities firm licence** authorises dealing in securities as principal or agent on behalf of clients. It does not authorise the operation of a trading venue. A securities firm that wanted to run a DLT platform would need a separate DLT Trading Facility licence for the venue itself. See our guide on [Crypto Licence Switzerland](/blog/crypto-license-switzerland/) for the broader licensing map.
+A **securities firm licence** authorises dealing in securities as principal or agent on behalf of clients. It does not authorise the operation of a trading venue. A securities firm that wanted to run a DLT platform would need a separate DLT Trading Facility licence for the venue itself. See our guide on [Crypto Licence Switzerland](/licensing/crypto-license-switzerland/) for the broader licensing map.
 
 ---
 
@@ -200,11 +200,11 @@ The pipeline of applicants includes operators targeting tokenised bonds, real es
 
 Operators in the digital asset space often ask how the DLT Trading Facility relates to adjacent licence categories:
 
-- **FinTech licence (Art. 1b BA)**: Permits deposit-taking up to CHF 100 million and limited financial services. Does not authorise operating a trading venue for securities. See our [FINMA licensing Switzerland](/blog/finma-licensing-switzerland/) guide.
+- **FinTech licence (Art. 1b BA)**: Permits deposit-taking up to CHF 100 million and limited financial services. Does not authorise operating a trading venue for securities. See our [FINMA licensing Switzerland](/licensing/finma-licensing-switzerland/) guide.
 - **Banking licence**: Required for deposit-taking above FinTech thresholds. SEBA Bank (now AMINA) and Sygnum Bank hold full banking licences covering crypto asset services — but as banks, not as DLT Trading Facilities. The trading venue function requires a separate authorisation.
 - **VASP registration**: Switzerland requires registration as a Virtual Asset Service Provider under AMLA for certain crypto activities. Registration is an AML compliance measure, not a licence to operate a trading venue for securities.
-- **ICO / token issuance**: Issuing tokenised securities requires analysis of whether the tokens qualify as securities under FinSA and whether the ledger-based securities framework applies. See our [crypto licence Switzerland](/blog/crypto-license-switzerland/) guide for the full licensing map.
-- **[Company formation Switzerland](/blog/company-formation-switzerland/)**: Any DLT Trading Facility must be incorporated as a Swiss entity — the licence cannot be held by a foreign company operating in Switzerland without a local entity.
+- **ICO / token issuance**: Issuing tokenised securities requires analysis of whether the tokens qualify as securities under FinSA and whether the ledger-based securities framework applies. See our [crypto licence Switzerland](/licensing/crypto-license-switzerland/) guide for the full licensing map.
+- **[Company formation Switzerland](/company-formation/company-formation-switzerland/)**: Any DLT Trading Facility must be incorporated as a Swiss entity — the licence cannot be held by a foreign company operating in Switzerland without a local entity.
 
 ---
 

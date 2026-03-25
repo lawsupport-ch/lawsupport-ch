@@ -3,7 +3,7 @@ title: "Domain Dispute Switzerland: .ch & WIPO (2026)"
 description: "Resolve a .ch domain dispute in Switzerland: SWITCH-DRP, WIPO arbitration, cybersquatting recovery, and court proceedings. Expert guide from Lawsupport, Zug."
 date: "19.03.2026"
 category: "IP & Commercial Law"
-categoryHref: "/blog/"
+categoryHref: "/intellectual-property/"
 readTime: "7 min read"
 tocItems:
   - id: "ch-domain-registration-switch"
@@ -97,7 +97,7 @@ Panel issues a written decision. If the complainant succeeds: domain transfer or
 
 For generic TLDs (.com, .net, .org), the **WIPO UDRP (Uniform Domain Name Dispute Resolution Policy)** applies rather than SWITCH-DRP. The criteria are similar but the procedure and fees differ.
 
-For international domain disputes involving multiple TLDs, a coordinated WIPO strategy covering both SWITCH-DRP (.ch) and UDRP (.com, etc.) is advisable. This commonly arises alongside [trademark registration in Switzerland](/blog/trademark-registration-switzerland/) where brand protection spans multiple registries.
+For international domain disputes involving multiple TLDs, a coordinated WIPO strategy covering both SWITCH-DRP (.ch) and UDRP (.com, etc.) is advisable. This commonly arises alongside [trademark registration in Switzerland](/intellectual-property/trademark-registration-switzerland/) where brand protection spans multiple registries.
 
 ---
 
@@ -130,7 +130,7 @@ The Swiss Federal Act against Unfair Competition and trademark law provisions ar
 The most cost-effective approach to domain disputes is prevention:
 
 **Register defensively:**
-- Register .ch, .com, .net, and country-code variants of your brand at [company formation](/blog/company-formation-switzerland/)
+- Register .ch, .com, .net, and country-code variants of your brand at [company formation](/company-formation/company-formation-switzerland/)
 - Register common misspellings (typosquatting variants)
 - Register with and without hyphens
 
@@ -140,7 +140,7 @@ The most cost-effective approach to domain disputes is prevention:
 
 **Cost:** Registering .ch, .com, and 5–10 defensive variants costs approximately CHF 300–800/year in total.
 
-Proactive [IP protection in Switzerland](/blog/ip-protection-switzerland/) is significantly cheaper than recovering a domain through SWITCH-DRP or court proceedings.
+Proactive [IP protection in Switzerland](/intellectual-property/ip-protection-switzerland/) is significantly cheaper than recovering a domain through SWITCH-DRP or court proceedings.
 
 ---
 
@@ -202,7 +202,7 @@ info@lawsupport.ch
 
 ---
 
-[Trademark registration Switzerland](/blog/trademark-registration-switzerland/) | [IP protection Switzerland](/blog/ip-protection-switzerland/) | [Commercial Register Switzerland](/blog/commercial-register-switzerland/)
+[Trademark registration Switzerland](/intellectual-property/trademark-registration-switzerland/) | [IP protection Switzerland](/intellectual-property/ip-protection-switzerland/) | [Commercial Register Switzerland](/company-formation/commercial-register-switzerland/)
 
 ---
 

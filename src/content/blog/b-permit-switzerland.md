@@ -3,7 +3,7 @@ title: "B Permit Switzerland: Requirements & How to Apply (2026)"
 description: "Swiss B permit (Aufenthaltsbewilligung): requirements for EU and non-EU nationals, duration, renewal, and the path to a C permit. Free assessment."
 date: "19.03.2026"
 category: "Immigration"
-categoryHref: "/blog/"
+categoryHref: "/immigration/"
 readTime: "13 min read"
 tocItems:
   - id: "what-is-the-swiss-b-permit"
@@ -35,7 +35,7 @@ tocItems:
 
 The Swiss B permit — formally the **Aufenthaltsbewilligung** — is the standard first long-term residence permit for foreign nationals living and working in Switzerland. If you are relocating to Switzerland for employment, establishing a business, or working as a self-employed professional, the B permit is almost certainly the permit you need to obtain first. EU/EFTA nationals qualify relatively easily under the free movement agreement; non-EU nationals face quotas and a more detailed assessment.
 
-This guide explains exactly who qualifies, what the application process looks like, what it costs in time and documentation, and how the B permit fits into the longer road toward a [C permit](/blog/c-permit-switzerland/) and, ultimately, Swiss citizenship.
+This guide explains exactly who qualifies, what the application process looks like, what it costs in time and documentation, and how the B permit fits into the longer road toward a [C permit](/immigration/c-permit-switzerland/) and, ultimately, Swiss citizenship.
 
 ---
 
@@ -126,7 +126,7 @@ The cantonal migration authority — in coordination with the relevant federal o
 
 The cantons differ in how they assess these applications. Zug, for example, has well-established processes for business owners and is familiar with internationally mobile entrepreneurs. The canton's migration office is accustomed to cases involving holding structures, international clients, and non-Swiss revenue streams. This is part of why many of our clients base their Swiss company in Zug and simultaneously apply for their B permit through the Zug Migrationsamt.
 
-For more on this topic, see our dedicated guide on the [residence permit for business owners in Switzerland](/blog/residence-permit-business-owner-switzerland/).
+For more on this topic, see our dedicated guide on the [residence permit for business owners in Switzerland](/immigration/residence-permit-business-owner-switzerland/).
 
 **Practical note for EU/EFTA nationals forming a Swiss company:** If you are an EU/EFTA citizen, you need only demonstrate evidence of your self-employed activity in Switzerland — a business registration, a client contract, an invoice history. The economic interest assessment that applies to non-EU nationals does not apply to you. The process is considerably faster and simpler.
 
@@ -154,7 +154,7 @@ The B permit is renewable. As long as the qualifying conditions are maintained �
 - **EU/EFTA nationals**: eligible to apply for the C permit after **5 years of uninterrupted, lawful residence in Switzerland** on a B permit. The C permit is permanent, is not tied to a canton in the same way, and does not require renewal linked to employment.
 - **Non-EU/EFTA nationals**: eligible to apply for the C permit after **10 years of uninterrupted, lawful residence**. Some nationalities may qualify after 5 years based on bilateral treaties (US and Canadian nationals, for example, benefit from specific provisions), but the standard rule is 10 years.
 
-The C permit pathway is covered in more detail on our dedicated [C permit Switzerland](/blog/c-permit-switzerland/) page.
+The C permit pathway is covered in more detail on our dedicated [C permit Switzerland](/immigration/c-permit-switzerland/) page.
 
 ---
 
@@ -213,7 +213,7 @@ Switzerland has 26 cantons, and migration administration is decentralised. While
 
 Other cantons commonly used by business owners include **Schwyz** and **Nidwalden**, though Zug's infrastructure, transport links, and established international business community make it the most popular base for our clients.
 
-If you are planning to [immigrate to Switzerland](/blog/immigrate-to-switzerland/) as a business owner, your choice of canton is a decision worth making deliberately and early.
+If you are planning to [immigrate to Switzerland](/immigration/immigrate-to-switzerland/) as a business owner, your choice of canton is a decision worth making deliberately and early.
 
 ---
 
@@ -242,16 +242,16 @@ No. Owning shares — whether 10% or 100% — does not in itself entitle you to 
 For EU/EFTA nationals, a period of involuntary unemployment does not automatically terminate the B permit, and you retain the right to remain to seek new employment. For non-EU/EFTA nationals, loss of the qualifying employment is a material change that must be reported to the cantonal migration office; continued residence depends on whether a new qualifying basis can be established promptly.
 
 **Does my B permit allow family members to join me in Switzerland?**
-In many cases, yes. [Family reunification](/blog/family-reunification-switzerland/) (Familiennachzug) is possible for B permit holders, though the conditions and processing differ for EU/EFTA versus non-EU/EFTA holders. EU/EFTA nationals can generally bring their spouse and dependent children under the AFMP. Non-EU/EFTA nationals must apply separately under family reunification rules, subject to additional requirements including accommodation standards and financial thresholds. The right to family reunification for third-country nationals is governed by Art. 44 AIG (FNIA).
+In many cases, yes. [Family reunification](/immigration/family-reunification-switzerland/) (Familiennachzug) is possible for B permit holders, though the conditions and processing differ for EU/EFTA versus non-EU/EFTA holders. EU/EFTA nationals can generally bring their spouse and dependent children under the AFMP. Non-EU/EFTA nationals must apply separately under family reunification rules, subject to additional requirements including accommodation standards and financial thresholds. The right to family reunification for third-country nationals is governed by Art. 44 AIG (FNIA).
 
 **How do I renew my B permit?**
 Renewal applications are filed with the same cantonal migration office that issued your permit, typically 2–3 months before the expiry date. You must demonstrate that the qualifying basis still exists — ongoing employment contract, continued self-employment activity, or continued financial self-sufficiency. For most applicants whose circumstances have not changed, renewal is straightforward. A significant gap in employment or dependence on social assistance can jeopardise renewal under Art. 62 AIG.
 
 **How do I convert a B permit to a C permit?**
-EU/EFTA nationals may apply for the [C permit](/blog/c-permit-switzerland/) after 5 years of uninterrupted lawful residence. Non-EU/EFTA nationals must generally wait 10 years, though some nationalities qualify after 5 years under bilateral treaties. The C permit (Niederlassungsbewilligung) is permanent, does not require renewal linked to employment, and is not restricted to a single canton. Applications are filed with the cantonal Migrationsamt and must demonstrate uninterrupted residence, no dependence on social assistance, and a sufficient level of integration.
+EU/EFTA nationals may apply for the [C permit](/immigration/c-permit-switzerland/) after 5 years of uninterrupted lawful residence. Non-EU/EFTA nationals must generally wait 10 years, though some nationalities qualify after 5 years under bilateral treaties. The C permit (Niederlassungsbewilligung) is permanent, does not require renewal linked to employment, and is not restricted to a single canton. Applications are filed with the cantonal Migrationsamt and must demonstrate uninterrupted residence, no dependence on social assistance, and a sufficient level of integration.
 
 **Can I be self-employed on a B permit as a non-EU national?**
-Yes, but the bar is higher than for employed applicants. You must submit a business plan, demonstrate that your activity is in Switzerland's economic interest (job creation, tax contributions, or a genuine market need), show personal financial sustainability, and prove you will actively manage the business from Swiss territory. See our dedicated page on the [residence permit for business owners in Switzerland](/blog/residence-permit-business-owner-switzerland/) for the full requirements.
+Yes, but the bar is higher than for employed applicants. You must submit a business plan, demonstrate that your activity is in Switzerland's economic interest (job creation, tax contributions, or a genuine market need), show personal financial sustainability, and prove you will actively manage the business from Swiss territory. See our dedicated page on the [residence permit for business owners in Switzerland](/immigration/residence-permit-business-owner-switzerland/) for the full requirements.
 
 **Can I change cantons while on a B permit?**
 Yes, but you must notify both the canton you are leaving and the canton you are moving to. The new cantonal migration office will re-register your permit. For non-EU/EFTA nationals, a canton change is not automatic — the new canton must confirm the permit transfer, which normally proceeds without difficulty if the qualifying basis (employment or self-employment) remains valid in the new canton.
@@ -263,7 +263,7 @@ B permit holders are subject to Swiss tax on their worldwide income if they are 
 Your B permit can be refused renewal or revoked under Art. 62 and 63 AIG (FNIA) if you: (a) have provided false information in your application, (b) are dependent on social assistance without prospect of improvement, (c) have been convicted of a serious criminal offence, (d) represent a threat to public order or security, or (e) no longer meet the qualifying conditions and cannot establish a new basis. Enforcement is a cantonal competence and decisions can be challenged through cantonal administrative appeal procedures. The <a href="https://www.sem.admin.ch/sem/en/home/themen/aufenthalt.html" target="_blank" rel="nofollow noopener">SEM residence permits guidance</a> sets out the full grounds.
 
 **Does the L permit differ from the B permit?**
-Yes. The [L permit](/blog/l-permit-switzerland/) (Kurzaufenthaltsbewilligung) is a short-stay permit, typically valid for up to 12 months, issued for fixed-term employment or specific projects. It does not lead to the C permit in the same way the B permit does, and it does not accumulate toward naturalisation. The B permit is the correct choice for anyone intending to establish medium- or long-term residence in Switzerland.
+Yes. The [L permit](/immigration/l-permit-switzerland/) (Kurzaufenthaltsbewilligung) is a short-stay permit, typically valid for up to 12 months, issued for fixed-term employment or specific projects. It does not lead to the C permit in the same way the B permit does, and it does not accumulate toward naturalisation. The B permit is the correct choice for anyone intending to establish medium- or long-term residence in Switzerland.
 
 ---
 
@@ -277,8 +277,8 @@ At Lawsupport (Morgan Hartley Consulting), we have assisted clients from more th
 - B permit applications for employed and self-employed foreign nationals
 - Self-employment dossier preparation for non-EU/EFTA entrepreneurs
 - Swiss company formation coordinated with the permit application
-- [Family reunification applications](/blog/family-reunification-switzerland/)
-- Long-term planning toward the [C permit](/blog/c-permit-switzerland/)
+- [Family reunification applications](/immigration/family-reunification-switzerland/)
+- Long-term planning toward the [C permit](/immigration/c-permit-switzerland/)
 
 **[Request a Free Assessment](/contacts/)** — we will review your specific nationality, employment or business situation, and canton preference, and outline the steps required.
 

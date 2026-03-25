@@ -4,7 +4,7 @@ description: "How to search Swissreg for Swiss trademarks: step-by-step guide to
 date: "19.03.2026"
 publishDate: "2026-07-28"
 category: "IP & Commercial Law"
-categoryHref: "/blog/"
+categoryHref: "/intellectual-property/"
 readTime: "12 min read"
 faqItems:
   - question: "Is Swissreg free to use?"
@@ -46,7 +46,7 @@ Swissreg is the authoritative register for all Swiss intellectual property filed
 - **Designs:** Registered industrial designs and design applications
 - **Geographic indications:** Registered Swiss geographic indications and appellations of origin
 
-All records in Swissreg are public. Owner names, addresses, filing dates, goods and services covered, status, and scanned documents are accessible. For broader [IP protection in Switzerland](/blog/ip-protection-switzerland/), Swissreg is the starting point for any clearance search.
+All records in Swissreg are public. Owner names, addresses, filing dates, goods and services covered, status, and scanned documents are accessible. For broader [IP protection in Switzerland](/intellectual-property/ip-protection-switzerland/), Swissreg is the starting point for any clearance search.
 
 ---
 
@@ -163,7 +163,7 @@ For industrial designs, Swissreg allows:
 ## What to Do After Your Swissreg Search
 
 **If no conflicts found:**
-Proceed to file your [trademark registration in Switzerland](/blog/trademark-registration-switzerland/) with IGE/IPI. A clean Swissreg search does not guarantee registration — IGE/IPI may raise objections during examination, or a third party may oppose during the 3-month publication period.
+Proceed to file your [trademark registration in Switzerland](/intellectual-property/trademark-registration-switzerland/) with IGE/IPI. A clean Swissreg search does not guarantee registration — IGE/IPI may raise objections during examination, or a third party may oppose during the 3-month publication period.
 
 **If identical or similar marks found:**
 - Assess whether the goods and services overlap significantly with your intended classes
@@ -171,7 +171,7 @@ Proceed to file your [trademark registration in Switzerland](/blog/trademark-reg
 - If overlap is minimal (different classes, unrelated goods and services): filing may still be viable
 
 **Professional trademark clearance searches:**
-Swissreg keyword searches are not a substitute for a professional clearance opinion. An IP attorney will conduct broader searches (including company names on the [commercial register](/blog/commercial-register-switzerland/), domain names, unregistered rights) and assess similarity risk.
+Swissreg keyword searches are not a substitute for a professional clearance opinion. An IP attorney will conduct broader searches (including company names on the [commercial register](/company-formation/commercial-register-switzerland/), domain names, unregistered rights) and assess similarity risk.
 
 <!-- VIDEO: How to conduct a professional trademark clearance search using Swissreg and complementary databases -->
 
@@ -185,7 +185,7 @@ Swissreg has an English language interface, but the trademark register entries t
 
 **Does Swissreg show company names that conflict with trademarks?**
 
-No — Swissreg only shows trademark registrations. Company names in the [Commercial Register](/blog/commercial-register-switzerland/) are separate. Conflicts between company names and trademarks are a distinct area of Swiss law (Firmenrecht).
+No — Swissreg only shows trademark registrations. Company names in the [Commercial Register](/company-formation/commercial-register-switzerland/) are separate. Conflicts between company names and trademarks are a distinct area of Swiss law (Firmenrecht).
 
 **How current is the Swissreg database?**
 
@@ -225,7 +225,7 @@ Yes. Even if you are registering a company name rather than a trademark, a Swiss
 
 Whether you are preparing a trademark filing, monitoring competitor registrations, or assessing infringement risk, a professional search goes beyond what Swissreg alone provides.
 
-Lawsupport advises on [trademark registration in Switzerland](/blog/trademark-registration-switzerland/), clearance searches, opposition proceedings, and broader [IP protection strategies](/blog/ip-protection-switzerland/). We work with IGE/IPI regularly and can assess your position before you file.
+Lawsupport advises on [trademark registration in Switzerland](/intellectual-property/trademark-registration-switzerland/), clearance searches, opposition proceedings, and broader [IP protection strategies](/intellectual-property/ip-protection-switzerland/). We work with IGE/IPI regularly and can assess your position before you file.
 
 For a direct conversation about your trademark situation, [request a free assessment](/contacts/).
 

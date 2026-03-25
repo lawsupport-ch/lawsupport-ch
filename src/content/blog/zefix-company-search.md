@@ -4,7 +4,7 @@ description: "How to use ZEFIX to search Swiss companies for free. Find register
 date: "19.03.2026"
 publishDate: "2026-08-31"
 category: "Company Formation"
-categoryHref: "/services/company-formation/"
+categoryHref: "/company-formation/"
 readTime: "10 min read"
 faqItems:
   - question: "Is ZEFIX free to use?"
@@ -41,7 +41,7 @@ tocItems:
 ---
 
 
-ZEFIX (Zentraler Firmenindex) is Switzerland's central company register search tool, and it is the first place to look when verifying any Swiss company. It aggregates data from all 26 cantonal [Commercial Registers](/blog/commercial-register-switzerland/) and allows anyone to search for any registered Swiss company, access basic registration information, and download official register extracts — all free of charge. Whether you are conducting [due diligence](/blog/due-diligence-switzerland/) on a counterparty, verifying a director's signatory authority, or checking whether a company exists at all, ZEFIX is the starting point.
+ZEFIX (Zentraler Firmenindex) is Switzerland's central company register search tool, and it is the first place to look when verifying any Swiss company. It aggregates data from all 26 cantonal [Commercial Registers](/company-formation/commercial-register-switzerland/) and allows anyone to search for any registered Swiss company, access basic registration information, and download official register extracts — all free of charge. Whether you are conducting [due diligence](/corporate-transactions/due-diligence-switzerland/) on a counterparty, verifying a director's signatory authority, or checking whether a company exists at all, ZEFIX is the starting point.
 
 This guide explains exactly how to use ZEFIX effectively.
 
@@ -64,7 +64,7 @@ ZEFIX allows search by:
 - **Company name** (Firma): full name or partial name. ZEFIX supports wildcard search — searching "Lawsupport" will return "Lawsupport AG", "Lawsupport GmbH", etc.
 - **UID number** (Unternehmens-Identifikationsnummer): the unique Swiss business identification number in format CHE-XXX.XXX.XXX
 - **Canton**: filter results by the 26 Swiss cantons
-- **Legal form**: [AG](/blog/ag-formation-switzerland/), [GmbH](/blog/gmbh-formation-switzerland/), Einzelfirma, Genossenschaft, Stiftung, etc.
+- **Legal form**: [AG](/company-formation/ag-formation-switzerland/), [GmbH](/company-formation/gmbh-formation-switzerland/), Einzelfirma, Genossenschaft, Stiftung, etc.
 - **Deleted entities**: ZEFIX includes both active and deleted (geloeschte) entities — useful for historical due diligence
 
 ---
@@ -93,13 +93,13 @@ For each registered entity, ZEFIX displays:
 
 From any ZEFIX company page, you can download the **Handelsregisterauszug** (commercial register extract) as a free PDF. This document is the official extract of the company's current register entry.
 
-**Important:** The free ZEFIX PDF is suitable for information purposes but may not be accepted for official use (banking KYC, notarial transactions, regulatory applications) where a **certified** extract is required. A certified extract must be ordered directly from the cantonal register office and costs approximately CHF 30–50. The certified extract carries the cantonal register's official signature and is the document used for formal legal purposes, including [bank account](/blog/swiss-bank-account/) opening and [FINMA licensing](/blog/finma-licensing-switzerland/) applications.
+**Important:** The free ZEFIX PDF is suitable for information purposes but may not be accepted for official use (banking KYC, notarial transactions, regulatory applications) where a **certified** extract is required. A certified extract must be ordered directly from the cantonal register office and costs approximately CHF 30–50. The certified extract carries the cantonal register's official signature and is the document used for formal legal purposes, including [bank account](/banking/swiss-bank-account/) opening and [FINMA licensing](/licensing/finma-licensing-switzerland/) applications.
 
 ---
 
 ## Using ZEFIX for Due Diligence
 
-ZEFIX is the first step in any Swiss company [due diligence](/blog/due-diligence-switzerland/). Before signing a contract with a Swiss counterparty or acquiring a Swiss entity, check ZEFIX for:
+ZEFIX is the first step in any Swiss company [due diligence](/corporate-transactions/due-diligence-switzerland/). Before signing a contract with a Swiss counterparty or acquiring a Swiss entity, check ZEFIX for:
 
 **1. Verify the company exists**
 A company claiming to be a registered Swiss AG or GmbH should appear in ZEFIX. If it does not, it is not registered — do not rely on unverified documents.
@@ -140,7 +140,7 @@ For time-sensitive due diligence or official documentation, always check the can
 
 ## UID Numbers
 
-Every registered Swiss company has a UID (Unternehmens-Identifikationsnummer) in the format **CHE-XXX.XXX.XXX**. The UID is assigned at [Commercial Register](/blog/commercial-register-switzerland/) entry and is the company's permanent identifier across all Swiss authorities — tax, [VAT](/blog/vat-switzerland/), social insurance, customs.
+Every registered Swiss company has a UID (Unternehmens-Identifikationsnummer) in the format **CHE-XXX.XXX.XXX**. The UID is assigned at [Commercial Register](/company-formation/commercial-register-switzerland/) entry and is the company's permanent identifier across all Swiss authorities — tax, [VAT](/tax-accounting/vat-switzerland/), social insurance, customs.
 
 The UID is also used as the VAT number for companies registered for MWST (Swiss VAT), with the suffix "MWST" appended: CHE-XXX.XXX.XXX MWST.
 
@@ -158,11 +158,11 @@ You can verify a UID directly in ZEFIX or via the UID register at <a href="https
 
 ## How ZEFIX Supports Company Formation
 
-When [forming a Swiss company](/blog/company-formation-switzerland/), ZEFIX plays a role at several stages:
+When [forming a Swiss company](/company-formation/company-formation-switzerland/), ZEFIX plays a role at several stages:
 
 - **Name availability check:** Before registering a new company, search ZEFIX to confirm the proposed company name is not already taken. The Commercial Register will reject a name that is confusingly similar to an existing registered company in the same canton.
 - **Post-registration verification:** After your company is registered, its entry should appear on ZEFIX within 1–5 business days. This confirms the registration is complete and publicly visible.
-- **[Trademark](/blog/trademark-registration-switzerland/) coordination:** A company name registered in the Commercial Register does not automatically confer trademark protection. ZEFIX confirms the corporate registration; trademark protection requires a separate application to the Swiss Federal Institute of Intellectual Property (IPI).
+- **[Trademark](/intellectual-property/trademark-registration-switzerland/) coordination:** A company name registered in the Commercial Register does not automatically confer trademark protection. ZEFIX confirms the corporate registration; trademark protection requires a separate application to the Swiss Federal Institute of Intellectual Property (IPI).
 
 <!-- VIDEO: How to check company name availability on ZEFIX before forming a Swiss company -->
 
@@ -214,7 +214,7 @@ Swiss companies designate individual or collective signatory authority for their
 
 ## Request a Free Assessment
 
-Whether you are conducting due diligence on a Swiss counterparty, verifying a company's registration status, or planning to [form your own Swiss company](/blog/company-formation-switzerland/), our team can assist with the process.
+Whether you are conducting due diligence on a Swiss counterparty, verifying a company's registration status, or planning to [form your own Swiss company](/company-formation/company-formation-switzerland/), our team can assist with the process.
 
 **Morgan Hartley — Senior Corporate Lawyer & Partner**
 Lawsupport (Morgan Hartley Consulting)

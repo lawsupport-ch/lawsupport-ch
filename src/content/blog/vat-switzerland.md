@@ -4,7 +4,7 @@ description: "Swiss VAT rates for 2026: standard 8.1%, reduced 2.6%, accommodati
 date: "19.03.2026"
 publishDate: "2026-08-17"
 category: "Tax & Accounting"
-categoryHref: "/blog/"
+categoryHref: "/tax-accounting/"
 readTime: "14 min read"
 faqItems:
   - question: "What is the Swiss VAT standard rate in 2026?"
@@ -79,7 +79,7 @@ The distinction between zero-rated and fully exempt matters enormously. A zero-r
 
 Registration is compulsory when **annual taxable turnover from Switzerland exceeds CHF 100,000**. The threshold applies to worldwide taxable supplies for foreign businesses. There is no grace period: once you cross CHF 100,000, you must register before making further taxable supplies.
 
-Foreign businesses without a Swiss establishment face the same threshold. If a German logistics company invoices Swiss customers more than CHF 100,000 per year for services that are taxable in Switzerland, it must register with the ESTV. For a detailed guide on the registration process, see our [VAT registration guide for foreign companies](/blog/vat-registration-switzerland/).
+Foreign businesses without a Swiss establishment face the same threshold. If a German logistics company invoices Swiss customers more than CHF 100,000 per year for services that are taxable in Switzerland, it must register with the ESTV. For a detailed guide on the registration process, see our [VAT registration guide for foreign companies](/tax-accounting/vat-registration-switzerland/).
 
 ### Voluntary Registration
 
@@ -103,7 +103,7 @@ Registration is completed online via the <a href="https://www.estv.admin.ch" tar
 
 VAT due must be paid by the return filing deadline. ESTV does not automatically debit accounts; businesses must initiate payment. Where the return shows a net credit (input VAT exceeds output VAT), ESTV refunds the balance — typically within 60 days, faster for businesses with a strong compliance record.
 
-Coordinating VAT filings with your [accounting obligations](/blog/accounting-switzerland/) ensures consistent reporting and reduces audit risk.
+Coordinating VAT filings with your [accounting obligations](/tax-accounting/accounting-switzerland/) ensures consistent reporting and reduces audit risk.
 
 ---
 
@@ -130,7 +130,7 @@ When a Swiss-registered business receives services from a foreign supplier — s
 
 The Swiss recipient declares the VAT due on its own return. If the service is used for taxable purposes, the same VAT is simultaneously deductible as input VAT, producing a net zero cash effect. Where the service partly supports exempt activities, only partial recovery applies.
 
-Failure to declare reverse-charge VAT is a recurring issue in ESTV audits, particularly for businesses that source SaaS tools, management services, or IP rights from foreign group companies. Companies with significant intercompany service flows should review their [transfer pricing documentation](/blog/transfer-pricing-switzerland/) in parallel with reverse charge compliance.
+Failure to declare reverse-charge VAT is a recurring issue in ESTV audits, particularly for businesses that source SaaS tools, management services, or IP rights from foreign group companies. Companies with significant intercompany service flows should review their [transfer pricing documentation](/tax-accounting/transfer-pricing-switzerland/) in parallel with reverse charge compliance.
 
 <!-- VIDEO: How the Swiss VAT reverse charge mechanism works for imported services -->
 
@@ -160,7 +160,7 @@ New construction and substantial renovation carried out by a VAT-registered cont
 
 Swiss law permits closely related legal entities — typically companies under common ownership — to register as a **VAT group (MWST-Gruppe)**. The group files a single combined return and is treated as one taxable person. Intra-group supplies between members are not subject to VAT.
 
-This is a genuine planning opportunity for [holding structures](/blog/holding-company-switzerland/), property groups, and multinationals with multiple Swiss entities. It eliminates VAT friction on intercompany transactions and simplifies administration. There are anti-avoidance provisions, and all group members are jointly and severally liable for the group's VAT obligations.
+This is a genuine planning opportunity for [holding structures](/company-formation/holding-company-switzerland/), property groups, and multinationals with multiple Swiss entities. It eliminates VAT friction on intercompany transactions and simplifies administration. There are anti-avoidance provisions, and all group members are jointly and severally liable for the group's VAT obligations.
 
 ---
 
@@ -168,7 +168,7 @@ This is a genuine planning opportunity for [holding structures](/blog/holding-co
 
 At year-end, businesses should reconcile VAT accounts against financial statements — checking that output VAT declared matches revenue, and that input VAT claimed matches purchase records. Discrepancies found before an ESTV audit can be corrected voluntarily by filing an amended return.
 
-The **limitation period for correction is five years**. Both underpayments (VAT owed to ESTV) and overclaims (input VAT recovered in excess) can be adjusted within this window. Voluntary disclosure generally results in interest charges only, without the penalty multipliers that apply to assessed evasion. Companies should coordinate year-end VAT reconciliation with their [corporate tax return](/blog/corporate-tax-return-switzerland/) preparation.
+The **limitation period for correction is five years**. Both underpayments (VAT owed to ESTV) and overclaims (input VAT recovered in excess) can be adjusted within this window. Voluntary disclosure generally results in interest charges only, without the penalty multipliers that apply to assessed evasion. Companies should coordinate year-end VAT reconciliation with their [corporate tax return](/tax-accounting/corporate-tax-return-switzerland/) preparation.
 
 ---
 
@@ -225,7 +225,7 @@ Late filing attracts fines of CHF 200-800 per return. Late payment incurs defaul
 
 **10. Can related Swiss companies form a VAT group?**
 
-Yes. Closely related entities under common ownership can register as a VAT group (MWST-Gruppe), filing a single return. Intra-group supplies are not subject to VAT. This is particularly valuable for [holding structures](/blog/holding-company-switzerland/) and multinationals with multiple Swiss entities. All group members bear joint and several liability.
+Yes. Closely related entities under common ownership can register as a VAT group (MWST-Gruppe), filing a single return. Intra-group supplies are not subject to VAT. This is particularly valuable for [holding structures](/company-formation/holding-company-switzerland/) and multinationals with multiple Swiss entities. All group members bear joint and several liability.
 
 ---
 

@@ -3,7 +3,7 @@ title: "Company Formation Zug: Tax-Efficient Canton (2026)"
 description: "Form a company in Zug at 11.8% tax rate. AG, GmbH and foundation formation. 1,000+ incorporations. Request a free assessment."
 date: "19.03.2026"
 category: "Company Formation"
-categoryHref: "/services/company-formation/"
+categoryHref: "/company-formation/"
 readTime: "10 min read"
 tocItems:
   - id: "why-zug-the-numbers"
@@ -72,7 +72,7 @@ For a holding company generating CHF 1,000,000 in taxable profit annually, the d
 
 ### Capital Gains: Near Zero on Qualifying Participations
 
-Switzerland's participation exemption (Beteiligungsabzug) eliminates or near-eliminates tax on dividends and capital gains from qualifying shareholdings. To qualify, a Swiss company must hold at least 10% of the share capital of a subsidiary, or shares with a fair market value of at least CHF 1,000,000. This makes Zug an ideal location for international holding structures. [Learn more about Swiss holding companies](/blog/holding-company-switzerland/)
+Switzerland's participation exemption (Beteiligungsabzug) eliminates or near-eliminates tax on dividends and capital gains from qualifying shareholdings. To qualify, a Swiss company must hold at least 10% of the share capital of a subsidiary, or shares with a fair market value of at least CHF 1,000,000. This makes Zug an ideal location for international holding structures. [Learn more about Swiss holding companies](/company-formation/holding-company-switzerland/)
 
 ### IP Box: Up to 90% Reduction
 
@@ -98,7 +98,7 @@ The AG is Switzerland's equivalent of a public limited company or corporation. I
 
 Minimum share capital: **CHF 100,000**, of which at least 50% (CHF 50,000) must be paid in at formation. In practice, we recommend full payment at incorporation for clean structure and bank account opening.
 
-[Full guide to AG formation in Switzerland](/blog/ag-formation-switzerland/)
+[Full guide to AG formation in Switzerland](/company-formation/ag-formation-switzerland/)
 
 ### GmbH (Gesellschaft mit beschränkter Haftung) — Swiss Limited Liability Company
 
@@ -108,7 +108,7 @@ Minimum share capital: **CHF 20,000**, fully paid in at formation.
 
 The GmbH is the right structure for most operating businesses, professional service firms, and smaller international subsidiaries. Its shareholder register is public, which some founders see as a disadvantage relative to the AG.
 
-[Full guide to GmbH formation in Switzerland](/blog/gmbh-formation-switzerland/)
+[Full guide to GmbH formation in Switzerland](/company-formation/gmbh-formation-switzerland/)
 
 ### Foundation (Stiftung)
 
@@ -158,7 +158,7 @@ For any non-standard structure — a holding company with complex group intercom
 
 Zug's tax authority has developed specific competency in crypto-related tax questions: token issuances, DeFi treasury structures, staking income, and foundation taxation. This institutional knowledge is one of Zug's underappreciated advantages relative to other Swiss cantons.
 
-[Full guide to Swiss corporate tax](/blog/corporate-tax-switzerland/)
+[Full guide to Swiss corporate tax](/tax-accounting/corporate-tax-switzerland/)
 
 ---
 
@@ -194,7 +194,7 @@ Today, Zug is home to or the founding location of:
 
 For founders building a crypto project, the combination of Zug's regulatory clarity, institutional competency, peer ecosystem, and tax efficiency makes it the global benchmark. We have formed foundations and AGs for crypto projects from Asia, the Middle East, the United States, and Eastern Europe — all of whom identified Zug not just as compliant but as strategically optimal.
 
-More on Swiss financial regulation: [FINMA licensing in Switzerland](/blog/finma-licensing-switzerland/)
+More on Swiss financial regulation: [FINMA licensing in Switzerland](/licensing/finma-licensing-switzerland/)
 
 ---
 
@@ -225,7 +225,7 @@ Here is the practical sequence for a standard GmbH or AG formation with Lawsuppo
 1. **Initial consultation:** We confirm the optimal structure (AG, GmbH, or Foundation), share capital, governance, and tax considerations. We provide a fixed-fee engagement letter.
 2. **KYC/AML:** We collect identification documents, proof of address, and source of funds documentation for all founders, directors, and beneficial owners. This is a regulatory requirement under Swiss law.
 3. **Power of attorney:** We draft the PoA and provide authentication instructions for your jurisdiction. The PoA authorises us to execute the formation steps on your behalf.
-4. **Share capital deposit:** You transfer the share capital (CHF 20,000 for GmbH, CHF 100,000 for AG minimum) to a Swiss bank's escrow/formation account. We can introduce you to banking relationships. [Guide to Swiss bank account opening](/blog/swiss-bank-account/)
+4. **Share capital deposit:** You transfer the share capital (CHF 20,000 for GmbH, CHF 100,000 for AG minimum) to a Swiss bank's escrow/formation account. We can introduce you to banking relationships. [Guide to Swiss bank account opening](/banking/swiss-bank-account/)
 5. **Notarisation:** We coordinate with a Zug notary to execute the articles of association and formation deed. No founder attendance required if PoA is in order.
 6. **Commercial Register filing:** We submit the complete formation dossier to the Handelsregisteramt Zug. Company searches can be verified at <a href="https://www.zefix.ch" target="_blank" rel="nofollow noopener">zefix.ch</a>.
 7. **Registration:** The Register issues the Handelsregisterauszug (extract) confirming the company's existence. This is the official incorporation document.
@@ -233,7 +233,7 @@ Here is the practical sequence for a standard GmbH or AG formation with Lawsuppo
 
 Total elapsed time from instruction to registered company: typically **3–5 weeks** for a clean formation with no complications.
 
-Also see our guide to [registered address and virtual office services](/blog/virtual-office-switzerland/) if you need a Zug presence without a physical office.
+Also see our guide to [registered address and virtual office services](/corporate-services/virtual-office-switzerland/) if you need a Zug presence without a physical office.
 
 ---
 
@@ -251,7 +251,7 @@ A significant number of our formation clients subsequently relocate to Zug. If y
 
 **Quality of life:** Zug is consistently ranked among the highest quality-of-life locations in Switzerland. The lake, the mountains within reach, the infrastructure, the safety, and the scale of the city — approximately 30,000 residents — combine to make it genuinely liveable rather than merely efficient.
 
-For relocation assistance, see our [work permit and immigration guides](/blog/immigrate-to-switzerland/).
+For relocation assistance, see our [work permit and immigration guides](/immigration/immigrate-to-switzerland/).
 
 ---
 
@@ -259,7 +259,7 @@ For relocation assistance, see our [work permit and immigration guides](/blog/im
 
 Lawsupport (Morgan Hartley Consulting) has been forming companies in Zug since 2007. We have completed more than 1,000 formations for clients from over 40 countries. Our office is at Grafenauweg 4, Zug — a five-minute walk from the Zug Commercial Register.
 
-We advise on the full lifecycle of a Zug company: formation, structuring, tax ruling, banking, directorship, registered agent services, and eventual restructuring or dissolution. If a dissolution is needed, see our guide to [company liquidation in Switzerland](/blog/company-liquidation-switzerland/).
+We advise on the full lifecycle of a Zug company: formation, structuring, tax ruling, banking, directorship, registered agent services, and eventual restructuring or dissolution. If a dissolution is needed, see our guide to [company liquidation in Switzerland](/company-formation/company-liquidation-switzerland/).
 
 If you are considering company formation in Zug, contact us for a direct conversation. We will tell you what the structure costs, how long it takes, and whether Zug is genuinely the right canton for your specific situation. If it is not, we will tell you that too.
 
@@ -269,7 +269,7 @@ If you are considering company formation in Zug, contact us for a direct convers
 **Email:** info@lawsupport.ch
 **Address:** Grafenauweg 4, Zug, Switzerland
 
-[Full guide to company formation in Switzerland](/blog/company-formation-switzerland/)
+[Full guide to company formation in Switzerland](/company-formation/company-formation-switzerland/)
 
 ---
 
@@ -317,11 +317,11 @@ Both are separate legal entities with limited liability, but they differ in capi
 
 **Can a non-Swiss citizen be the sole director of a Zug company?**
 
-Swiss law requires that at least one person authorised to represent the company is resident in Switzerland. That person may be a Swiss national or a foreign national with Swiss residency. If no director is resident in Switzerland, a nominee director service is required. Lawsupport provides Swiss-resident nominee director services. [Learn more about nominee director services](/blog/nominee-director-switzerland/).
+Swiss law requires that at least one person authorised to represent the company is resident in Switzerland. That person may be a Swiss national or a foreign national with Swiss residency. If no director is resident in Switzerland, a nominee director service is required. Lawsupport provides Swiss-resident nominee director services. [Learn more about nominee director services](/corporate-services/nominee-director-switzerland/).
 
 **What happens after my Zug company is registered?**
 
-After registration, the company's bank account is activated, VAT registration should be considered if projected annual turnover exceeds CHF 100,000, and the company is registered with the Steuerverwaltung Zug for corporate tax. If the company employs staff, AHV/ALV social insurance registration is required. See our [cantonal tax comparison](/blog/cantonal-tax-comparison-switzerland/) for more context.
+After registration, the company's bank account is activated, VAT registration should be considered if projected annual turnover exceeds CHF 100,000, and the company is registered with the Steuerverwaltung Zug for corporate tax. If the company employs staff, AHV/ALV social insurance registration is required. See our [cantonal tax comparison](/tax-accounting/cantonal-tax-comparison-switzerland/) for more context.
 
 ---
 

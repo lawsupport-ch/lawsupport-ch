@@ -4,7 +4,7 @@ description: "Switzerland's lump-sum taxation for wealthy foreign residents: eli
 date: "19.03.2026"
 publishDate: "2026-05-01"
 category: "Tax & Accounting"
-categoryHref: "/blog/"
+categoryHref: "/tax-accounting/"
 readTime: "14 min read"
 faqItems:
   - question: "Is lump-sum taxation available in Zug?"
@@ -102,7 +102,7 @@ Lump-sum taxation is available at the federal level and in most cantons. Key exc
 | Basel-Stadt | Abolished | No longer available |
 | Appenzell Ausserrhoden | Available | Cantonal minimum of CHF 400'000 |
 
-Approximately 18 of 26 cantons still offer the regime. Cantons that abolished it generally did so following popular votes. For a breakdown of how cantonal tax rates compare, see our [cantonal tax comparison](/blog/cantonal-tax-comparison-switzerland/).
+Approximately 18 of 26 cantons still offer the regime. Cantons that abolished it generally did so following popular votes. For a breakdown of how cantonal tax rates compare, see our [cantonal tax comparison](/tax-accounting/cantonal-tax-comparison-switzerland/).
 
 ---
 
@@ -123,7 +123,7 @@ Global income from foreign sources does not need to be disclosed -- it is irrele
 
 ## Treaty Access: The Key Benefit
 
-Lump-sum taxpayers need to access Switzerland's network of [double tax treaties](/blog/double-tax-treaties-switzerland/) to claim reduced withholding tax rates at source (on foreign dividends, interest, royalties). Under Swiss law, lump-sum taxpayers are entitled to treaty benefits only on income actually subject to Swiss tax -- the control calculation effectively extends treaty access to income from treaty countries if that income is included in the control calculation.
+Lump-sum taxpayers need to access Switzerland's network of [double tax treaties](/tax-accounting/double-tax-treaties-switzerland/) to claim reduced withholding tax rates at source (on foreign dividends, interest, royalties). Under Swiss law, lump-sum taxpayers are entitled to treaty benefits only on income actually subject to Swiss tax -- the control calculation effectively extends treaty access to income from treaty countries if that income is included in the control calculation.
 
 This is a complex area. The interaction between lump-sum taxation and treaty access requires careful structuring. We strongly recommend obtaining an advance tax ruling from the cantonal tax authority to confirm treaty access and control calculation treatment before relying on it.
 
@@ -146,7 +146,7 @@ For an individual with a comfortable but not ultra-wealthy profile -- perhaps CH
 ## Steps to Establish Lump-Sum Taxation
 
 1. **Choose a qualifying canton** and confirm the cantonal regime is currently available.
-2. **Establish Swiss residence** -- register at the Einwohnerkontrolle and obtain a residence permit. See our guide to [immigrating to Switzerland](/blog/immigrate-to-switzerland/) for permit options.
+2. **Establish Swiss residence** -- register at the Einwohnerkontrolle and obtain a residence permit. See our guide to [immigrating to Switzerland](/immigration/immigrate-to-switzerland/) for permit options.
 3. **Submit a lump-sum taxation application** to the cantonal tax authority, accompanied by:
    - Description of planned living arrangements in Switzerland
    - Estimated annual Swiss living expenses
@@ -161,7 +161,7 @@ Timing: the application should be submitted before establishing Swiss residence,
 
 ## Lawsupport's Service
 
-We advise on lump-sum taxation in connection with our immigration and corporate services. For international clients establishing Swiss residence -- often in the context of a Swiss company, a [Zug holding structure](/blog/holding-company-switzerland/), or family wealth management -- we assess whether the regime is advantageous, model the expected tax liability, coordinate the ruling application, and manage the annual declaration.
+We advise on lump-sum taxation in connection with our immigration and corporate services. For international clients establishing Swiss residence -- often in the context of a Swiss company, a [Zug holding structure](/company-formation/holding-company-switzerland/), or family wealth management -- we assess whether the regime is advantageous, model the expected tax liability, coordinate the ruling application, and manage the annual declaration.
 
 ---
 
@@ -185,7 +185,7 @@ Gainful employment in Switzerland terminates eligibility for lump-sum taxation f
 
 **Can I combine lump-sum taxation with a holding company structure?**
 
-Yes, and this is a common arrangement. A foreign national residing in Switzerland under lump-sum taxation may own shares in a Swiss [holding company](/blog/holding-company-switzerland/) that receives dividends from operating subsidiaries. Provided the individual does not actively manage the holding company from Switzerland, the passive shareholding is compatible with the lump-sum regime. The holding company itself is taxed under ordinary corporate tax rules, while the individual's personal tax remains on the lump-sum basis.
+Yes, and this is a common arrangement. A foreign national residing in Switzerland under lump-sum taxation may own shares in a Swiss [holding company](/company-formation/holding-company-switzerland/) that receives dividends from operating subsidiaries. Provided the individual does not actively manage the holding company from Switzerland, the passive shareholding is compatible with the lump-sum regime. The holding company itself is taxed under ordinary corporate tax rules, while the individual's personal tax remains on the lump-sum basis.
 
 **Is lump-sum taxation renewable, or is it granted for a fixed period?**
 
@@ -201,7 +201,7 @@ Yes. Lump-sum taxpayers may own residential property in Switzerland. The imputed
 
 **What professional advice is needed before applying?**
 
-Before applying for lump-sum taxation, you should obtain advice on: the choice of canton (different minimums and rates), the interaction with your home country's tax system, [double tax treaty](/blog/double-tax-treaties-switzerland/) access for foreign income, the structure of your Swiss and foreign assets, and any [residency permit](/blog/work-permit-switzerland/) requirements. A miscalculation at the outset can result in either a rejected application or an unnecessarily high tax base.
+Before applying for lump-sum taxation, you should obtain advice on: the choice of canton (different minimums and rates), the interaction with your home country's tax system, [double tax treaty](/tax-accounting/double-tax-treaties-switzerland/) access for foreign income, the structure of your Swiss and foreign assets, and any [residency permit](/immigration/work-permit-switzerland/) requirements. A miscalculation at the outset can result in either a rejected application or an unnecessarily high tax base.
 
 **Can family members benefit from the same lump-sum arrangement?**
 

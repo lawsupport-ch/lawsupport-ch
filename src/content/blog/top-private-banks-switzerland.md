@@ -4,7 +4,7 @@ description: "Top Swiss private banks for wealth management in 2026: Pictet, Lom
 date: "19.03.2026"
 publishDate: "2026-08-07"
 category: "Banking & Finance"
-categoryHref: "/blog/"
+categoryHref: "/banking/"
 readTime: "14 min read"
 faqItems:
   - question: "Do Swiss private banks still offer bank secrecy?"
@@ -48,7 +48,7 @@ Swiss private banks are specialist wealth management institutions that serve hig
 - **High minimums:** Typically CHF 500,000-5,000,000 or more in investable assets
 - **Discretionary or advisory mandates:** The bank either manages assets on your behalf (discretionary) or advises with client approval (advisory)
 
-All Swiss private banks are regulated by <a href="https://www.finma.ch" target="_blank" rel="nofollow noopener">FINMA</a> and must hold a banking licence. For more on [FINMA licensing requirements](/blog/finma-licensing-switzerland/), see our detailed guide.
+All Swiss private banks are regulated by <a href="https://www.finma.ch" target="_blank" rel="nofollow noopener">FINMA</a> and must hold a banking licence. For more on [FINMA licensing requirements](/licensing/finma-licensing-switzerland/), see our detailed guide.
 
 ---
 
@@ -146,7 +146,7 @@ The Swiss-based branch of the Rothschild family banking operations. Independent 
 
 **Partnership vs. listed:** Partnership banks (Pictet, Lombard Odier, Mirabaud) have partners with unlimited liability — a strong alignment of interest. Listed banks face quarterly earnings pressure but provide greater transparency and regulatory oversight.
 
-When opening a [Swiss bank account](/blog/swiss-bank-account/), the choice of institution matters as much as the jurisdiction. For [corporate banking needs](/blog/corporate-bank-account-switzerland/), the requirements differ from personal wealth management.
+When opening a [Swiss bank account](/banking/swiss-bank-account/), the choice of institution matters as much as the jurisdiction. For [corporate banking needs](/banking/corporate-bank-account-switzerland/), the requirements differ from personal wealth management.
 
 ---
 
@@ -164,9 +164,9 @@ Total cost of a CHF 2,000,000 discretionary mandate: approximately CHF 15,000-25
 
 ## Tax Considerations for Private Banking Clients
 
-Individuals relocating to Switzerland who intend to use Swiss private banking services should consider the interaction between their banking arrangements and their [tax residency](/blog/tax-residency-switzerland/) status. Swiss tax residents are subject to wealth tax on worldwide assets — including assets held in Swiss private bank accounts. The applicable [cantonal tax rates](/blog/swiss-tax-rates-by-canton/) vary significantly, and the choice of canton affects the overall cost of holding wealth in Switzerland.
+Individuals relocating to Switzerland who intend to use Swiss private banking services should consider the interaction between their banking arrangements and their [tax residency](/tax-accounting/tax-residency-switzerland/) status. Swiss tax residents are subject to wealth tax on worldwide assets — including assets held in Swiss private bank accounts. The applicable [cantonal tax rates](/tax-accounting/swiss-tax-rates-by-canton/) vary significantly, and the choice of canton affects the overall cost of holding wealth in Switzerland.
 
-For UHNW individuals, [lump-sum taxation](/blog/lump-sum-taxation-switzerland/) may provide an alternative to ordinary taxation. [Tax advisory](/blog/tax-advisory-switzerland/) should be engaged before establishing banking relationships to ensure the overall structure is tax-efficient.
+For UHNW individuals, [lump-sum taxation](/tax-accounting/lump-sum-taxation-switzerland/) may provide an alternative to ordinary taxation. [Tax advisory](/tax-accounting/tax-advisory-switzerland/) should be engaged before establishing banking relationships to ensure the overall structure is tax-efficient.
 
 <!-- VIDEO: How to evaluate and select a Swiss private bank for your wealth management needs -->
 
@@ -180,7 +180,7 @@ Domestic bank secrecy remains under Art. 47 Banking Act, but automatic exchange 
 
 **Can non-residents open Swiss private bank accounts?**
 
-Yes. Swiss private banks actively serve international clients. Non-residents must comply with CRS reporting to their home tax authority and pass KYC/AML [due diligence](/blog/due-diligence-switzerland/).
+Yes. Swiss private banks actively serve international clients. Non-residents must comply with CRS reporting to their home tax authority and pass KYC/AML [due diligence](/corporate-transactions/due-diligence-switzerland/).
 
 **Which private banks are headquartered in Zug?**
 
@@ -208,7 +208,7 @@ Partnership banks such as Pictet, Lombard Odier, and Mirabaud have managing part
 
 **Can I open a corporate bank account at a Swiss private bank?**
 
-Yes, but private banks primarily serve individual wealth management. For [corporate banking](/blog/corporate-bank-account-switzerland/) — capital deposit accounts, operating accounts, trade finance — a commercial bank is typically more appropriate. Some private banks offer corporate accounts for holding companies and family investment vehicles.
+Yes, but private banks primarily serve individual wealth management. For [corporate banking](/banking/corporate-bank-account-switzerland/) — capital deposit accounts, operating accounts, trade finance — a commercial bank is typically more appropriate. Some private banks offer corporate accounts for holding companies and family investment vehicles.
 
 **How do I transfer my portfolio to a Swiss private bank?**
 

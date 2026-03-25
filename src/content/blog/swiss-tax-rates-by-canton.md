@@ -4,7 +4,7 @@ description: "Swiss tax rates by canton in 2026 compared across all 26 cantons. 
 date: "19.03.2026"
 publishDate: "2026-07-20"
 category: "Tax & Accounting"
-categoryHref: "/blog/"
+categoryHref: "/tax-accounting/"
 readTime: "18 min read"
 faqItems:
   - question: "What is the lowest corporate tax canton in Switzerland in 2026?"
@@ -47,7 +47,7 @@ tocItems:
 ---
 
 
-Swiss tax rates by canton vary dramatically in 2026. The difference between the lowest-tax canton (Zug, at approximately 11.8% effective [corporate tax](/blog/corporate-tax-switzerland/)) and the most expensive major canton (Bern, at approximately 20.7%) is nearly nine full percentage points. On CHF 1,000,000 of taxable profit, that gap translates to roughly CHF 89,000 per year. Over ten years, that is CHF 890,000 — a material business decision, not a rounding error. This article provides a complete, data-driven reference for Swiss tax rates by canton covering corporate tax, individual income tax, wealth tax, and the key incentives that affect your effective rate.
+Swiss tax rates by canton vary dramatically in 2026. The difference between the lowest-tax canton (Zug, at approximately 11.8% effective [corporate tax](/tax-accounting/corporate-tax-switzerland/)) and the most expensive major canton (Bern, at approximately 20.7%) is nearly nine full percentage points. On CHF 1,000,000 of taxable profit, that gap translates to roughly CHF 89,000 per year. Over ten years, that is CHF 890,000 — a material business decision, not a rounding error. This article provides a complete, data-driven reference for Swiss tax rates by canton covering corporate tax, individual income tax, wealth tax, and the key incentives that affect your effective rate.
 
 ---
 
@@ -102,7 +102,7 @@ When this article refers to "effective corporate tax rate," it means the **combi
 
 ## Why Zug Has the Lowest Corporate Tax Rate in Switzerland
 
-Zug's tax advantage is not accidental. The canton has deliberately cultivated a low-tax, business-friendly environment for decades, building a cluster of international companies, commodity traders, crypto and fintech firms, asset managers, and [holding companies](/blog/holding-company-switzerland/).
+Zug's tax advantage is not accidental. The canton has deliberately cultivated a low-tax, business-friendly environment for decades, building a cluster of international companies, commodity traders, crypto and fintech firms, asset managers, and [holding companies](/company-formation/holding-company-switzerland/).
 
 **Cantonal tax rate:** Zug sets one of Switzerland's lowest cantonal rates on corporate income.
 
@@ -112,7 +112,7 @@ Zug's tax advantage is not accidental. The canton has deliberately cultivated a 
 
 The result: a company in the city of Zug pays roughly **11.8% combined**. The same company in Zurich pays approximately **19.7%** — and in Bern, approximately **20.7%**.
 
-For practical guidance on forming a company in Zug, see [company formation in Switzerland](/blog/company-formation-switzerland/).
+For practical guidance on forming a company in Zug, see [company formation in Switzerland](/company-formation/company-formation-switzerland/).
 
 ---
 
@@ -129,7 +129,7 @@ For founders, executives, and high-net-worth individuals relocating to Switzerla
 | Bern | ~41.5% | CHF 500,000+ | Among the highest in Switzerland |
 | Geneva | ~44.8% | CHF 1,000,000+ | Highest major canton |
 
-A founder resident in Zug with CHF 500,000 of personal taxable income pays approximately CHF 110,000 in income tax. The same individual in Geneva would pay approximately CHF 200,000 or more. For individuals considering [tax residency in Switzerland](/blog/tax-residency-switzerland/), the canton of residence is a decision worth careful analysis.
+A founder resident in Zug with CHF 500,000 of personal taxable income pays approximately CHF 110,000 in income tax. The same individual in Geneva would pay approximately CHF 200,000 or more. For individuals considering [tax residency in Switzerland](/tax-accounting/tax-residency-switzerland/), the canton of residence is a decision worth careful analysis.
 
 ---
 
@@ -142,7 +142,7 @@ Switzerland is one of the very few countries that levies an annual **wealth tax*
 - **Zurich, Bern, Geneva:** Materially higher wealth tax rates, adding thousands to tens of thousands of CHF annually for high-net-worth individuals
 - **Schwyz, Nidwalden, Obwalden:** Very competitive wealth tax rates
 
-For business owners holding significant shareholdings, the wealth tax on the imputed value of those shares can be material. Structuring through a [holding company in Switzerland](/blog/holding-company-switzerland/) and selecting the right canton for personal residence is an integrated planning exercise.
+For business owners holding significant shareholdings, the wealth tax on the imputed value of those shares can be material. Structuring through a [holding company in Switzerland](/company-formation/holding-company-switzerland/) and selecting the right canton for personal residence is an integrated planning exercise.
 
 ---
 
@@ -156,7 +156,7 @@ For business owners holding significant shareholdings, the wealth tax on the imp
 
 ## IP Box / Patent Box: Up to 90% Relief on Qualifying IP Income
 
-Following the 2020 STAF reform, **all 26 cantons offer a Patent Box regime** for qualifying intellectual property income. The canton-level Patent Box provides a tax reduction of up to **90% on net income from qualifying IP**. For a detailed breakdown of the Swiss Patent Box and [Swiss tax incentives](/blog/swiss-tax-incentives/), see our dedicated guide.
+Following the 2020 STAF reform, **all 26 cantons offer a Patent Box regime** for qualifying intellectual property income. The canton-level Patent Box provides a tax reduction of up to **90% on net income from qualifying IP**. For a detailed breakdown of the Swiss Patent Box and [Swiss tax incentives](/tax-accounting/swiss-tax-incentives/), see our dedicated guide.
 
 ---
 
@@ -271,7 +271,7 @@ Companies must have genuine economic substance in their registered canton. Opera
 
 ## Ready to Establish Your Swiss Company in the Right Canton?
 
-Lawsupport (Morgan Hartley Consulting) has assisted clients from over 40 countries with company formations in Switzerland. We advise on canton selection, legal structure, substance requirements, tax rulings, and ongoing compliance — integrating legal, tax, and [accounting](/blog/accounting-switzerland/) expertise in a single practice.
+Lawsupport (Morgan Hartley Consulting) has assisted clients from over 40 countries with company formations in Switzerland. We advise on canton selection, legal structure, substance requirements, tax rulings, and ongoing compliance — integrating legal, tax, and [accounting](/tax-accounting/accounting-switzerland/) expertise in a single practice.
 
 **[Request a Free Assessment](/contacts/)**
 

@@ -3,7 +3,7 @@ title: "Buying Property in Switzerland as a Foreigner (2026)"
 description: "Can foreigners buy property in Switzerland? Lex Koller rules, permit exemptions, commercial exceptions, transfer taxes & mortgage rules explained."
 date: "19.03.2026"
 category: "Immigration"
-categoryHref: "/blog/"
+categoryHref: "/immigration/"
 readTime: "12 min read"
 faqItems:
   - question: "Can a US or UK citizen buy a house in Switzerland without living there?"
@@ -72,7 +72,7 @@ The full text of the BewG is publicly available on <a href="https://www.fedlex.a
 - **BewG Article 7** — Statutory exemptions, including commercial property and property for the buyer's own permanent residence where a permit entitles this
 - **BewG Article 8** — Federal quota system for holiday apartments in tourist zones
 
-In practice, authorisations for residential property outside the holiday apartment quota are extremely rare. The law exists to protect Swiss housing stock from foreign speculative acquisition — a political objective with consistent cross-party support over more than four decades. For a detailed treatment of the statutory regime, see our dedicated guide to <a href="/blog/lex-koller-switzerland/">Lex Koller Switzerland</a>.
+In practice, authorisations for residential property outside the holiday apartment quota are extremely rare. The law exists to protect Swiss housing stock from foreign speculative acquisition — a political objective with consistent cross-party support over more than four decades. For a detailed treatment of the statutory regime, see our dedicated guide to <a href="/immigration/lex-koller-switzerland/">Lex Koller Switzerland</a>.
 
 ---
 
@@ -97,7 +97,7 @@ The exemptions are tied primarily to Swiss residence status:
 
 The practical consequence: if you are a non-EU national who has been resident in Switzerland for five or more years on a B permit and have upgraded to a C permit, property acquisition becomes straightforward. If you are still on a B permit, you may buy — but only your primary home, and only in your canton of residence. If you are not resident in Switzerland at all, you are almost certainly subject to Lex Koller.
 
-For those on the path to Swiss residency, our guides on the [B permit](/blog/b-permit-switzerland/) and [how to immigrate to Switzerland](/blog/immigrate-to-switzerland/) set out the permit progression in full.
+For those on the path to Swiss residency, our guides on the [B permit](/immigration/b-permit-switzerland/) and [how to immigrate to Switzerland](/immigration/immigrate-to-switzerland/) set out the permit progression in full.
 
 ---
 
@@ -135,7 +135,7 @@ The most viable and consistently available route for foreign buyers is **commerc
 
 A non-resident foreign national or a foreign-owned Swiss company can acquire commercial property for business use without triggering Lex Koller. The key qualifier is genuine business use: the acquisition must be tied to actual commercial activity in Switzerland, not structured as a disguised investment in residential-adjacent real estate.
 
-This is the primary planning route for international investors and business owners seeking a Swiss property foothold. Establishing a Swiss operating company — a GmbH or AG — that then acquires the commercial premises is a well-established structure. For a detailed treatment of [company formation in Switzerland](/blog/company-formation-switzerland/) and the acquisition of [commercial real estate in Switzerland](/blog/commercial-real-estate-switzerland/), see our dedicated guides.
+This is the primary planning route for international investors and business owners seeking a Swiss property foothold. Establishing a Swiss operating company — a GmbH or AG — that then acquires the commercial premises is a well-established structure. For a detailed treatment of [company formation in Switzerland](/company-formation/company-formation-switzerland/) and the acquisition of [commercial real estate in Switzerland](/company-formation/commercial-real-estate-switzerland/), see our dedicated guides.
 
 ---
 
@@ -250,7 +250,7 @@ Lex Koller (BewG) prohibits "persons abroad" from acquiring Swiss residential re
 Yes. EU/EFTA nationals holding a Swiss B permit may purchase their primary residence in their canton of registration without Lex Koller authorisation (BewG Article 7(1)(a)). Non-EU nationals on a B permit do not automatically receive this right. EU/EFTA nationals without any Swiss permit are subject to the same Lex Koller restrictions as all other non-residents.
 
 **Can a foreigner buy commercial property in Switzerland?**
-Yes. BewG Article 7(1)(b) explicitly exempts commercial and industrial property acquired for genuine business use in Switzerland. This is the principal route available for foreign buyers seeking Swiss real estate exposure and is commonly structured through a [Swiss operating entity](/blog/company-formation-switzerland/).
+Yes. BewG Article 7(1)(b) explicitly exempts commercial and industrial property acquired for genuine business use in Switzerland. This is the principal route available for foreign buyers seeking Swiss real estate exposure and is commonly structured through a [Swiss operating entity](/company-formation/company-formation-switzerland/).
 
 **Does buying through a Swiss company allow a foreigner to purchase Swiss residential property?**
 No. Under BewG Article 5, a Swiss GmbH or AG majority-owned by non-resident foreign nationals is treated as a "person abroad". Lex Koller looks through the corporate structure to the beneficial owners. A Swiss corporate wrapper does not create an exemption for residential property.
@@ -262,7 +262,7 @@ Buyers subject to Lex Koller under BewG Article 2 must apply to the cantonal *Be
 It is possible but more difficult than for Swiss residents. Swiss FINMA/SBA guidelines require at least 20% equity for a primary residence (10% from personal liquid assets). Non-resident buyers without Swiss income history face additional scrutiny. Private banks and some cantonal banks offer solutions for high-net-worth clients, typically requiring substantial assets under management or ancillary deposits. A written mortgage commitment should be secured before executing the purchase deed.
 
 **What is the property transfer tax in Switzerland, and how does it vary by canton?**
-Property transfer tax (*Handänderungssteuer*) is levied at cantonal level on the purchase price. Zug levies 0%; Zurich approximately 1% (via notarial and registration fees); Valais around 1%; Ticino around 2%; Vaud around 2.2%; Geneva 3.0–3.3%. Total buyer costs including notarial fees and Grundbuch registration typically run 3–5% of the purchase price. See our guide to [commercial real estate in Switzerland](/blog/commercial-real-estate-switzerland/) for canton-by-canton cost comparisons.
+Property transfer tax (*Handänderungssteuer*) is levied at cantonal level on the purchase price. Zug levies 0%; Zurich approximately 1% (via notarial and registration fees); Valais around 1%; Ticino around 2%; Vaud around 2.2%; Geneva 3.0–3.3%. Total buyer costs including notarial fees and Grundbuch registration typically run 3–5% of the purchase price. See our guide to [commercial real estate in Switzerland](/company-formation/commercial-real-estate-switzerland/) for canton-by-canton cost comparisons.
 
 **What are notary costs for a property purchase in Switzerland?**
 All Swiss property transfers require a notarial deed (*öffentliche Beurkundung*). Notarial fees are typically 0.1–0.5% of the transaction value, varying by canton and complexity. Grundbuch registration fees are a further 0.1–0.3% of the purchase price. Both are ordinarily paid by the buyer. The notary is also responsible for verifying Lex Koller compliance and submitting the Grundbuch application.

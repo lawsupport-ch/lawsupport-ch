@@ -4,7 +4,7 @@ description: "Internal audit requirements for Swiss companies: ordinary vs limit
 date: "19.03.2026"
 publishDate: "2026-04-17"
 category: "Company Administration"
-categoryHref: "/blog/"
+categoryHref: "/corporate-services/"
 readTime: "6 min read"
 faqItems:
   - question: "Can the company's own accountant conduct the statutory audit?"
@@ -110,7 +110,7 @@ Auditors who are not registered with RAB cannot conduct statutory audits of Swis
 
 **Swiss law does not mandate internal audit** for most companies. However:
 
-**For banks and financial institutions:** FINMA requires banks to have an independent internal audit function that reports directly to the board of directors. This is a FINMA circular requirement (FINMA Circular 2017/1). For more on FINMA regulatory requirements, see our guide to [FINMA licensing in Switzerland](/blog/finma-licensing-switzerland/).
+**For banks and financial institutions:** FINMA requires banks to have an independent internal audit function that reports directly to the board of directors. This is a FINMA circular requirement (FINMA Circular 2017/1). For more on FINMA regulatory requirements, see our guide to [FINMA licensing in Switzerland](/licensing/finma-licensing-switzerland/).
 
 **For listed companies:** The SIX Swiss Exchange Corporate Governance Directive recommends internal audit as a best practice, though it is not legally mandatory.
 
@@ -144,7 +144,7 @@ Auditors who are not registered with RAB cannot conduct statutory audits of Swis
 | Association (Verein) | No mandatory audit unless commercially active at scale |
 | Foundation (Stiftung) | Ordinary audit for larger foundations; internal audit recommended |
 
-For details on forming these entity types, see our guides on [AG formation in Switzerland](/blog/ag-formation-switzerland/) and [GmbH formation in Switzerland](/blog/gmbh-formation-switzerland/).
+For details on forming these entity types, see our guides on [AG formation in Switzerland](/company-formation/ag-formation-switzerland/) and [GmbH formation in Switzerland](/company-formation/gmbh-formation-switzerland/).
 
 ---
 
@@ -174,7 +174,7 @@ With banks and sophisticated counterparties, opting out of audit can raise quest
 
 **How do I register an auditor with the Commercial Register?**
 
-When forming or updating a Swiss company, the appointed auditor must be registered in the Commercial Register alongside the company's other organs. The auditor must provide proof of RAB registration. If the company opts out of audit, a declaration of opting-out is filed with the Commercial Register instead. For the registration process, see our guide on the [commercial register in Switzerland](/blog/commercial-register-switzerland/).
+When forming or updating a Swiss company, the appointed auditor must be registered in the Commercial Register alongside the company's other organs. The auditor must provide proof of RAB registration. If the company opts out of audit, a declaration of opting-out is filed with the Commercial Register instead. For the registration process, see our guide on the [commercial register in Switzerland](/company-formation/commercial-register-switzerland/).
 
 **Can a foreign audit firm conduct a Swiss statutory audit?**
 
@@ -217,6 +217,6 @@ info@lawsupport.ch
 
 </div>
 
-Related guides: [Company Formation Switzerland](/blog/company-formation-switzerland/) | [Accounting in Switzerland](/blog/accounting-switzerland/) | [Start a Business in Switzerland](/blog/start-business-switzerland/) | [Doing Business in Switzerland](/blog/doing-business-in-switzerland/)
+Related guides: [Company Formation Switzerland](/company-formation/company-formation-switzerland/) | [Accounting in Switzerland](/tax-accounting/accounting-switzerland/) | [Start a Business in Switzerland](/company-formation/start-business-switzerland/) | [Doing Business in Switzerland](/company-formation/doing-business-in-switzerland/)
 
 *Sources: <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en" target="_blank" rel="nofollow noopener">Swiss Code of Obligations (OR) Art. 727-731 on Fedlex</a> | <a href="https://www.rab-asr.ch/en" target="_blank" rel="nofollow noopener">RAB Swiss Federal Audit Oversight Authority</a> | <a href="https://www.finma.ch/en/supervision/banks-and-securities-firms/cross-topic/audit/" target="_blank" rel="nofollow noopener">FINMA Audit Requirements</a>*

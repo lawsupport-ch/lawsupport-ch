@@ -3,7 +3,7 @@ title: "Family Reunification Switzerland: Permits (2026)"
 description: "Bringing family to Switzerland: spouse, partner, and children reunification rules, income thresholds, permit types, and application process for 2026."
 date: "19.03.2026"
 category: "Immigration"
-categoryHref: "/blog/"
+categoryHref: "/immigration/"
 readTime: "8 min read"
 tocItems:
   - id: "what-is-family-reunification-in-switzerland"
@@ -47,7 +47,7 @@ Children from a previous relationship may also qualify, provided the Swiss citiz
 
 C permit holders enjoy rights equivalent to Swiss citizens for family reunification purposes. There is no mandatory waiting period and no income threshold specifically tied to the permit category itself (ordinary means-testing rules apply, but the bar is lower than for B permit holders). Family members typically receive a B permit initially, upgrading to C once they meet the standard settlement criteria.
 
-For more on what the C permit entails, see our guide to the [C permit Switzerland](/blog/c-permit-switzerland/).
+For more on what the C permit entails, see our guide to the [C permit Switzerland](/immigration/c-permit-switzerland/).
 
 ### B Permit Holders — EU/EFTA Nationals
 
@@ -55,7 +55,7 @@ EU and EFTA nationals holding a B permit benefit from the Agreement on the Free 
 
 The conditions are straightforward: the sponsor must have adequate housing suitable for the family, and neither the sponsor nor the joining family members should become dependent on social welfare in a way that would trigger abuse of rights. In practice, the bar is lower than for non-EU nationals because the AFMP takes precedence over the stricter domestic AIG provisions.
 
-Further details on the B permit itself are covered in our [B permit Switzerland](/blog/b-permit-switzerland/) overview.
+Further details on the B permit itself are covered in our [B permit Switzerland](/immigration/b-permit-switzerland/) overview.
 
 ### B Permit Holders — Non-EU/EFTA Nationals
 
@@ -114,7 +114,7 @@ The family member's permit is dependent on the sponsor's. If the sponsor's permi
 
 ### Right to Work
 
-Spouses and registered partners joining under family reunification can generally work in Switzerland without a separate work authorisation. The B permit they receive includes employment rights. This applies to both EU/EFTA and non-EU/EFTA family members. For more on the intersection of permits and employment, see our [work permit Switzerland](/blog/work-permit-switzerland/) guide.
+Spouses and registered partners joining under family reunification can generally work in Switzerland without a separate work authorisation. The B permit they receive includes employment rights. This applies to both EU/EFTA and non-EU/EFTA family members. For more on the intersection of permits and employment, see our [work permit Switzerland](/immigration/work-permit-switzerland/) guide.
 
 ---
 
@@ -215,7 +215,7 @@ A refusal is not always the end. Appeals are possible. But a well-prepared initi
 
 ---
 
-Related guides: [Immigrate to Switzerland](/blog/immigrate-to-switzerland/) | [B permit Switzerland](/blog/b-permit-switzerland/) | [C permit Switzerland](/blog/c-permit-switzerland/) | [Work permit Switzerland](/blog/work-permit-switzerland/) | [Swiss citizenship](/blog/swiss-citizenship/)
+Related guides: [Immigrate to Switzerland](/immigration/immigrate-to-switzerland/) | [B permit Switzerland](/immigration/b-permit-switzerland/) | [C permit Switzerland](/immigration/c-permit-switzerland/) | [Work permit Switzerland](/immigration/work-permit-switzerland/) | [Swiss citizenship](/immigration/swiss-citizenship/)
 
 ---
 
