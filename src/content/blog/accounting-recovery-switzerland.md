@@ -6,6 +6,10 @@ category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"
 readTime: "10 min read"
 tocItems:
+  - id: "prevention-vs-recovery-the-cost-comparison"
+    title: "Prevention vs Recovery: The Cost Comparison"
+  - id: "the-friction-points-that-create-recovery-situations"
+    title: "The Friction Points That Create Recovery Situations"
   - id: "the-problem-years-of-missing-accounts"
     title: "The Problem: Years of Missing Accounts"
   - id: "legal-consequences-you-cannot-ignore"
@@ -45,7 +49,7 @@ In practice, missing accounts arise from predictable situations:
 
 Whatever the cause, the result is the same: the tax authority cannot assess the company, the tax years remain open, and interest accrues on the unpaid liability. Year after year.
 
-> **From practice:** A South African holding company incorporated a Zurich AG in 1986 and left it dormant for years after plans changed. When the company was eventually needed for a new infrastructure venture, three years of missing accounts had to be reconstructed before any bank would open an account. The owner assumed dormancy meant no obligations — it does not. A Romanian entrepreneur faced a similar situation: he wanted to use an AG he had bought as a shelf company, but the previous owner had not filed tax returns for the final years of ownership. The commercial register would not process the board changes until the accounting backlog was resolved. Timeline to clear: four months and approximately CHF 12,000 in reconstruction and filing costs.
+> **From practice:** A South African holding company incorporated a Zurich AG in 1986 and left it dormant for years after plans changed. When the company was eventually needed for a new infrastructure venture, three years of missing accounts had to be reconstructed before any bank would open an account. The owner assumed dormancy meant no obligations — it does not. A Romanian entrepreneur faced a similar situation: he wanted to use an AG he had bought as a shelf company, but the previous owner had not filed tax returns for the final years of ownership. The commercial register would not process the board changes until the accounting backlog was resolved. Timeline to clear: four months and approximately CHF 12'000 in reconstruction and filing costs.
 
 ---
 
@@ -99,9 +103,9 @@ Engaging early is material. The longer the situation runs, the more interest acc
 
 ## What It Costs
 
-For a small company with one to three years of missing accounts and reasonably complete bank records, total costs for reconstruction, account preparation, and tax filing typically fall in the range of CHF 3,000 to CHF 10,000. More complex situations — multiple years, multiple entities, foreign shareholders, VAT complications, AHV shortfalls — will cost more and need to be scoped individually.
+For a small company with one to three years of missing accounts and reasonably complete bank records, total costs for reconstruction, account preparation, and tax filing typically fall in the range of CHF 3'000 to CHF 10'000. More complex situations — multiple years, multiple entities, foreign shareholders, VAT complications, AHV shortfalls — will cost more and need to be scoped individually.
 
-To put this in context: a dormant company with zero turnover costs approximately CHF 1,400 per year to maintain properly (annual statements plus tax filing). An active company with up to 100 transactions per year runs about CHF 3,800 per year under a standard package. The reconstruction cost for a single missed year frequently exceeds what three years of proper maintenance would have cost. Hourly rates for accounting recovery work typically sit between CHF 150 and CHF 180 per hour (excluding VAT), and complex reconstructions involving foreign currency positions or intercompany flows push toward the higher end.
+To put this in context: a dormant company with zero turnover costs approximately CHF 1'400 per year to maintain properly (annual statements plus tax filing). An active company with up to 100 transactions per year runs about CHF 3'800 per year under a standard package. The reconstruction cost for a single missed year frequently exceeds what three years of proper maintenance would have cost. Hourly rates for accounting recovery work typically sit between CHF 150 and CHF 180 per hour (excluding VAT), and complex reconstructions involving foreign currency positions or intercompany flows push toward the higher end.
 
 That cost needs to be weighed against the alternative: accumulating tax interest at 3% per annum, AHV interest at 5% per annum, potential director liability, and the ongoing drag of maintaining a company that cannot be wound up and cannot access its own bank account.
 
@@ -123,6 +127,33 @@ Accounting recovery followed by voluntary liquidation is a clean, definitive res
 
 ---
 
+## Prevention vs Recovery: The Cost Comparison
+
+| Situation | Annual Cost of Proper Maintenance | Cost of Recovery (Per Year of Backlog) |
+|---|---|---|
+| Dormant company, zero transactions | CHF 1'400/year | CHF 2'500-4'000 per missed year |
+| Active company, up to 100 transactions | CHF 3'800/year | CHF 4'000-8'000 per missed year |
+| Complex company, multi-currency | CHF 10'000-20'000/year | CHF 8'000-15'000 per missed year |
+
+The pattern is consistent: recovery costs two to four times more than proper maintenance. And that calculation excludes tax interest (3% per annum), AHV interest (5% per annum), and the opportunity cost of a company that cannot operate, borrow, or be wound up.
+
+**Bexio** (CHF 35-83/month) is the standard software for Swiss SME bookkeeping. Had the companies in the case studies above been set up on Bexio from day one with a fiduciary maintaining monthly records at CHF 150/hour, none of the recovery work would have been necessary.
+
+---
+
+## The Friction Points That Create Recovery Situations
+
+### Foreign-Owned Dormant Companies
+The most common recovery clients. A foreign entrepreneur incorporates a Swiss AG or GmbH, uses it for a specific purpose (or plans to), then neglects the ongoing obligations when plans change. The company sits in the Commercial Register, accumulating unfiled years and accruing tax interest. The owner only discovers the problem when they want to liquidate, sell, or use the company for something new.
+
+### The Bank Account Deadlock
+Banks require current annual accounts to maintain or open accounts. A company with missing accounts cannot produce statements. Without a bank account, the company cannot demonstrate operational independence. The deadlock can only be broken by first reconstructing the accounts.
+
+### VAT Catch-Up Compounding
+If the company was VAT-registered, missing VAT returns accumulate at quarterly intervals. Three years of missing accounts means twelve missing VAT returns, each of which must be individually reconstructed and filed. The ESTV charges interest on each period independently.
+
+---
+
 ## Frequently Asked Questions
 
 **Can the tax authority refuse to accept reconstructed accounts?**
@@ -139,7 +170,7 @@ No. Under Swiss law, the cantonal tax authority must issue a tax clearance certi
 
 **How much does accounting recovery cost in Switzerland?**
 
-For a small company with one to three years of missing accounts and reasonably complete bank records, total costs typically fall between CHF 3,000 and CHF 10,000. More complex situations — multiple years, foreign shareholders, VAT complications, AHV shortfalls — need to be scoped individually and will cost more. The cost must be weighed against the ongoing accumulation of tax interest at 3% per annum and AHV interest at 5% per annum.
+For a small company with one to three years of missing accounts and reasonably complete bank records, total costs typically fall between CHF 3'000 and CHF 10'000. More complex situations — multiple years, foreign shareholders, VAT complications, AHV shortfalls — need to be scoped individually and will cost more. The cost must be weighed against the ongoing accumulation of tax interest at 3% per annum and AHV interest at 5% per annum.
 
 **How long does accounting recovery take in Switzerland?**
 
@@ -155,7 +186,7 @@ Yes. There is no nationality requirement for initiating accounting recovery. How
 
 **What happens if the company was dormant for years?**
 
-Dormancy does not suspend the obligation to maintain accounts or file tax returns under Art. 957 CO. A dormant company with no turnover can file nil returns, but those returns must still be filed for each open tax year. Each unfiled year accumulates interest and leaves director liability exposure unresolved. Accounting recovery is required even where the dormant company had no economic activity. The annual cost to maintain a properly filed dormant company is approximately CHF 1,400 — covering annual statements and tax filing. Skipping this for five years and then attempting to catch up will cost substantially more, both in professional fees and in accumulated tax interest.
+Dormancy does not suspend the obligation to maintain accounts or file tax returns under Art. 957 CO. A dormant company with no turnover can file nil returns, but those returns must still be filed for each open tax year. Each unfiled year accumulates interest and leaves director liability exposure unresolved. Accounting recovery is required even where the dormant company had no economic activity. The annual cost to maintain a properly filed dormant company is approximately CHF 1'400 — covering annual statements and tax filing. Skipping this for five years and then attempting to catch up will cost substantially more, both in professional fees and in accumulated tax interest.
 
 **Does accounting recovery affect director liability?**
 

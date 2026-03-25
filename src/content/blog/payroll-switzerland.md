@@ -14,10 +14,14 @@ faqItems:
   - question: "Do all employees pay source tax (Quellensteuer)?"
     answer: "No. Quellensteuer applies only to foreign nationals without a C permit and not married to a Swiss citizen or C-permit holder. Swiss nationals and C-permit holders pay income tax via ordinary annual tax return."
   - question: "Can an employer skip the 2nd pillar pension (BVG)?"
-    answer: "No. BVG coverage is mandatory for employees earning above CHF 22,050 per year (2026). The employer must affiliate with a BVG pension fund before hiring. Failure creates direct personal liability for any pension shortfall."
+    answer: "No. BVG coverage is mandatory for employees earning above CHF 22'050 per year (2026). The employer must affiliate with a BVG pension fund before hiring. Failure creates direct personal liability for any pension shortfall."
   - question: "Do foreign companies without a Swiss entity need to run Swiss payroll?"
     answer: "If staff physically work in Switzerland, Swiss social insurance and tax withholding obligations apply. The foreign employer must register with the AHV compensation office, establish a Swiss entity or branch, or use a professional employer organisation."
 tocItems:
+  - id: "the-payroll-friction-points-foreign-employers-miss"
+    title: "The Payroll Friction Points Foreign Employers Miss"
+  - id: "in-house-payroll-vs-outsourced-cost-comparison"
+    title: "In-House Payroll vs Outsourced: Cost Comparison"
   - id: "1-employer-registration-before-you-hire-anyone"
     title: "1. Employer Registration: Before You Hire Anyone"
   - id: "2-social-insurance-contributions-the-full-breakdown"
@@ -79,16 +83,16 @@ There is **no salary ceiling** for AHV/IV/EO. The 10.6% applies to every franc o
 
 Unemployment insurance contributions are salary-capped.
 
-- Rate: **2.2% of gross salary up to CHF 148,200 per year** — employer pays 1.1%, employee pays 1.1%
-- Above CHF 148,200: a **1.0% solidarity contribution** applies (no employer/employee split — it is simply withheld from the employee's pay with no employer match)
+- Rate: **2.2% of gross salary up to CHF 148'200 per year** — employer pays 1.1%, employee pays 1.1%
+- Above CHF 148'200: a **1.0% solidarity contribution** applies (no employer/employee split — it is simply withheld from the employee's pay with no employer match)
 
-The CHF 148,200 threshold is the 2026 ALV coordination ceiling and is adjusted periodically by the Federal Council.
+The CHF 148'200 threshold is the 2026 ALV coordination ceiling and is adjusted periodically by the Federal Council.
 
 ### 2.3 BVG — Occupational Pension (2nd Pillar)
 
 The BVG (Berufliche Vorsorge / Loi sur la prevoyance professionnelle) is Switzerland's mandatory occupational pension scheme. Contributions depend on the employee's age and coordinated salary.
 
-The **BVG coordination deduction** for 2026 is **CHF 26,460** per year. The **insured salary** is gross annual salary minus this deduction (minimum insured salary: CHF 3,675; maximum: CHF 62,475 under mandatory coverage).
+The **BVG coordination deduction** for 2026 is **CHF 26'460** per year. The **insured salary** is gross annual salary minus this deduction (minimum insured salary: CHF 3'675; maximum: CHF 62'475 under mandatory coverage).
 
 Minimum legal contribution rates by age group (applied to the insured/coordinated salary):
 
@@ -131,11 +135,11 @@ In Zug, the current FAK employer contribution is **1.6%** of gross salary (no ce
 | Insurance | Employer | Employee | Salary Ceiling (2026) |
 |-----------|----------|----------|-----------------------|
 | AHV/IV/EO | 5.30% | 5.30% | None |
-| ALV (main rate) | 1.10% | 1.10% | CHF 148,200/year |
-| ALV (solidarity surcharge) | — | 1.00% | Above CHF 148,200 |
-| BVG (age-dependent savings) | Min. 50% of total | Balance | CHF 62,475 insured salary |
-| UVG — occupational accident (BU) | 100% | — | CHF 148,200/year |
-| UVG — non-occupational accident (NBU) | — | ~1.0–2.5% | CHF 148,200/year |
+| ALV (main rate) | 1.10% | 1.10% | CHF 148'200/year |
+| ALV (solidarity surcharge) | — | 1.00% | Above CHF 148'200 |
+| BVG (age-dependent savings) | Min. 50% of total | Balance | CHF 62'475 insured salary |
+| UVG — occupational accident (BU) | 100% | — | CHF 148'200/year |
+| UVG — non-occupational accident (NBU) | — | ~1.0–2.5% | CHF 148'200/year |
 | Krankentaggeld (market standard) | ~50% of premium | ~50% of premium | Plan-dependent |
 | FAK (Zug example) | 1.60% | — | None |
 
@@ -159,7 +163,7 @@ Accounting software (Bexio, the most common choice for Swiss SMEs) costs CHF 35-
 
 ---
 
-## Real Cost: A Worked Example
+
 
 To make the overhead concrete: consider a small company in Zug employing three staff at CHF 100'000 gross annual salary each (CHF 300'000 total gross payroll).
 
@@ -194,9 +198,9 @@ The Quellensteuer rate depends on:
 - **Civil status** (single, married, married with a working spouse)
 - **Number of dependent children**
 
-Each canton publishes its own tariff tables. As an illustration, in Zurich canton a single employee without children earning CHF 7,000 gross per month would face an effective source tax rate in the range of 11–14% depending on their tariff code. In Zug, which has lower cantonal and communal rates, the equivalent rate would be materially lower.
+Each canton publishes its own tariff tables. As an illustration, in Zurich canton a single employee without children earning CHF 7'000 gross per month would face an effective source tax rate in the range of 11–14% depending on their tariff code. In Zug, which has lower cantonal and communal rates, the equivalent rate would be materially lower.
 
-Since January 2021, employees subject to Quellensteuer with a Swiss-sourced income above CHF 120,000 per year must file a subsequent ordinary assessment (nachtraegliche ordentliche Veranlagung, NOV) regardless of permit status, which corrects the final tax position.
+Since January 2021, employees subject to Quellensteuer with a Swiss-sourced income above CHF 120'000 per year must file a subsequent ordinary assessment (nachtraegliche ordentliche Veranlagung, NOV) regardless of permit status, which corrects the final tax position.
 
 **Swiss nationals and C-permit holders** are not subject to Quellensteuer. Their income tax is settled via the ordinary annual tax return. The employer withholds only social insurance contributions from their salaries.
 
@@ -261,6 +265,36 @@ The employer remits social insurance contributions to the AHV compensation offic
 
 ---
 
+## The Payroll Friction Points Foreign Employers Miss
+
+### The Total Cost Surprise
+Foreign founders consistently underestimate Swiss payroll costs by 30-40%. The gap between gross salary and total employer cost runs 15-20% above gross. For a three-person company at CHF 100'000 per employee, that is approximately CHF 46'200/year in additional costs before the 13th month salary obligation.
+
+### The BVG Registration Deadline
+BVG pension fund affiliation must be completed before the first employee starts work. There is no grace period. Failure to register creates direct personal liability for any pension shortfall, and the compensation office charges 5% annual interest on late contributions.
+
+### Quellensteuer: The Employer's Liability
+If a foreign employee's source tax is withheld at the wrong rate or not at all, the employer bears full liability. The cantonal tax authority cannot transfer the obligation to the employee after the fact. Using the wrong canton's tariff table (employer's canton instead of employee's canton of residence) is a common and expensive error.
+
+### The AHV Retroactive Assessment
+The AHV compensation office audits employers and goes back. Directors can be held personally liable under Art. 52 AHVG for contributions not properly deducted and remitted. Interest rate on late AHV contributions: 5% per annum.
+
+> **Case study:** A startup with three employees budgeted CHF 300'000 for annual salaries. Actual total cost including all employer contributions, the 13th month salary, and payroll administration: approximately CHF 371'200. The founder had not accounted for CHF 46'200 in social insurance, CHF 25'000 in 13th month salary obligations, or the accounting costs at CHF 150/hour.
+
+---
+
+## In-House Payroll vs Outsourced: Cost Comparison
+
+| Company Size | In-House Payroll | Outsourced to Fiduciary |
+|---|---|---|
+| 1-3 employees | Part-time admin + Bexio (CHF 35-83/month) | Included in accounting package (from CHF 3'800/year) |
+| 3-10 employees | Part-time admin or payroll service | CHF 150/hour, typically 2-4 hours/month |
+| 10-50 employees | Dedicated payroll staff + Abacus/Sage | CHF 8'000-20'000/year |
+
+For companies under 10 employees, outsourcing payroll to the same fiduciary handling the books is almost always more efficient.
+
+---
+
 ## Frequently Asked Questions
 
 **Do all employees in Switzerland pay source tax (Quellensteuer)?**
@@ -285,11 +319,11 @@ The employer bears full liability. If the cantonal tax authority discovers that 
 
 **Can an employer choose not to provide a 2nd pillar pension (BVG)?**
 
-No. BVG coverage is mandatory for employees earning above the entry threshold (CHF 22,050 per year as of 2026). The employer must affiliate with a BVG pension fund or collective foundation before hiring. Failure to arrange BVG coverage exposes the employer to direct personal liability for any pension shortfall.
+No. BVG coverage is mandatory for employees earning above the entry threshold (CHF 22'050 per year as of 2026). The employer must affiliate with a BVG pension fund or collective foundation before hiring. Failure to arrange BVG coverage exposes the employer to direct personal liability for any pension shortfall.
 
 **Are there different payroll rules for part-time employees?**
 
-AHV/IV/EO contributions apply to all salaries without a minimum threshold. For BVG, the employee's total annual salary must exceed CHF 22,050 to trigger mandatory coverage. For UVG, employees working fewer than eight hours per week for the same employer are not covered for non-occupational accidents. Part-time employees are otherwise subject to the same contribution rates as full-time staff.
+AHV/IV/EO contributions apply to all salaries without a minimum threshold. For BVG, the employee's total annual salary must exceed CHF 22'050 to trigger mandatory coverage. For UVG, employees working fewer than eight hours per week for the same employer are not covered for non-occupational accidents. Part-time employees are otherwise subject to the same contribution rates as full-time staff.
 
 **How do I handle payroll for employees who live in a different canton from the company?**
 

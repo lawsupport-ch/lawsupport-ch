@@ -6,6 +6,12 @@ category: "Swiss Corporate Law"
 categoryHref: "/tax-accounting/"
 readTime: "13 min read"
 tocItems:
+  - id: "five-accounting-mistakes-that-cost-swiss-companies-money"
+    title: "Five Accounting Mistakes That Cost Swiss Companies Money"
+  - id: "in-house-vs-outsourced-the-real-cost-breakdown"
+    title: "In-House vs Outsourced: The Real Cost Breakdown"
+  - id: "the-friction-points-foreign-founders-miss"
+    title: "The Friction Points Foreign Founders Miss"
   - id: "swiss-accounting-obligations-the-legal-foundation"
     title: "Swiss Accounting Obligations: The Legal Foundation"
   - id: "the-financial-year-in-switzerland"
@@ -39,6 +45,24 @@ tocItems:
 
 Every Swiss company — whether an AG, a GmbH, or a branch — is legally required to maintain proper accounts under the Swiss Code of Obligations (Art. 957–958f CO). Accounting services in Switzerland cover monthly bookkeeping, annual accounts preparation, VAT reporting, and corporate tax return filing. This applies from the moment your company is incorporated, regardless of turnover or activity level.
 
+---
+
+## Five Accounting Mistakes That Cost Swiss Companies Money
+
+Based on Goldblum und Partner AG's experience managing accounts for 300+ Swiss companies, these are the errors that generate the most unnecessary expense:
+
+1. **Treating dormant as obligation-free.** A dormant GmbH registered in the Commercial Register still requires annual financial statements and a corporate tax return. Annual cost to maintain properly: CHF 1'400. Cost of catching up after three skipped years: CHF 8'000-12'000 in reconstruction fees, plus tax interest at 3% per annum.
+
+2. **Missing the VAT registration trigger.** The CHF 100'000 threshold applies to worldwide taxable turnover — not just Swiss revenue. A company billing EUR 70'000 to German clients and CHF 40'000 to one Swiss client is already over the line. Retroactive registration means owing VAT on all past taxable supplies, plus ESTV interest.
+
+3. **No company bank account.** Without a dedicated Swiss bank account, regulators question the company's operational independence. Banks require current annual accounts to open accounts — creating a deadlock that can only be broken by bringing the books up to date first.
+
+4. **Intercompany pricing without documentation.** Management fees and intragroup loans priced outside market rates are reclassified as hidden profit distributions. The consequence: 35% withholding tax on the reclassified amount, with no refund available if the structure fails the safe harbour test.
+
+5. **Accumulating an accounting backlog.** Each unfiled year makes the next harder. The opening balance for 2025 depends on the closing balance of 2024 — skip a year and the reconstruction cost compounds. Standard hourly rates for catch-up work: CHF 150/hour (routine) to CHF 180/hour (complex).
+
+> **From practice:** A dormant holding company's founder assumed zero-turnover meant zero filings. The cantonal tax office disagreed — CHF 2'000 in penalties plus CHF 1'200 in accrued interest. Total bill: CHF 7'400. Annual maintenance would have cost CHF 1'400 per year.
+
 This article explains what Swiss law requires, what the common pitfalls are for foreign-owned companies, how audits work, and what Lawsupport's accounting service covers. If you are running a Swiss company from abroad — or you have just incorporated one and are trying to understand your obligations — this is the practical reference you need.
 
 ---
@@ -60,11 +84,11 @@ The full text of the statutory provisions is available on <a href="https://www.f
 The type of accounting your company must maintain depends on its size:
 
 **Double-entry bookkeeping (doppelte Buchführung)** is mandatory for:
-- All companies with annual turnover exceeding **CHF 500,000**, regardless of legal form
+- All companies with annual turnover exceeding **CHF 500'000**, regardless of legal form
 - All legal entities (AG, GmbH) — by definition, regardless of turnover, because they are subject to the full annual accounts requirements under Art. 958 CO
 
 **Simplified cash accounting** (income and expenditure statement plus a statement of assets and liabilities) is permitted only for:
-- Sole proprietors and partnerships with annual turnover **below CHF 500,000** (Art. 957 para. 2 CO)
+- Sole proprietors and partnerships with annual turnover **below CHF 500'000** (Art. 957 para. 2 CO)
 
 In practice, if you have incorporated a GmbH or AG in Switzerland, you are on full double-entry bookkeeping from day one. There is no simplified option for incorporated entities.
 
@@ -117,8 +141,8 @@ Swiss law establishes three levels of audit obligation, governed by **Art. 727�
 | Threshold | Value |
 |---|---|
 | Employees (FTE) | > 250 |
-| Annual turnover | > CHF 40,000,000 |
-| Balance sheet total | > CHF 20,000,000 |
+| Annual turnover | > CHF 40'000'000 |
+| Balance sheet total | > CHF 20'000'000 |
 | Trigger rule | Meet **2 of 3** for two consecutive years |
 
 **Ordinary audit** is the most demanding: the auditors must issue an opinion confirming the accounts are true and fair and comply with Swiss law and the articles of association.
@@ -191,7 +215,7 @@ Lawsupport uses Abacus for client work. If a client already uses Bexio, we can w
 
 ## VAT Accounting and MWST Reporting
 
-Swiss VAT (Mehrwertsteuer, MWST / TVA) is accounted for separately from income tax. If your company is registered for VAT — mandatory above **CHF 100,000** annual turnover (Art. 10 MWSTG), optional below — you must file quarterly or semi-annual MWST returns with the Federal Tax Administration (ESTV).
+Swiss VAT (Mehrwertsteuer, MWST / TVA) is accounted for separately from income tax. If your company is registered for VAT — mandatory above **CHF 100'000** annual turnover (Art. 10 MWSTG), optional below — you must file quarterly or semi-annual MWST returns with the Federal Tax Administration (ESTV).
 
 The current Swiss VAT rates (as of 2024) are:
 - **Standard rate: 8.1%**
@@ -215,7 +239,7 @@ If your Swiss company employs staff — including directors domiciled in Switzer
 
 - Register as an employer with the cantonal AHV/AVS compensation office (Ausgleichskasse)
 - Withhold and remit AHV/IV/EO contributions (currently **10.6%** of gross salary, split equally between employer and employee)
-- Enrol employees in a BVG/LPP occupational pension fund (second pillar) if they earn above the entry threshold (~CHF 22,680 per year)
+- Enrol employees in a BVG/LPP occupational pension fund (second pillar) if they earn above the entry threshold (~CHF 22'680 per year)
 - Handle source tax (Quellensteuer) for foreign employees without a Swiss C permit
 - Submit annual salary statements (Lohnausweis) to the cantonal tax authority
 
@@ -249,17 +273,17 @@ We do not outsource bookkeeping work offshore. All work is done by qualified sta
 Accounting costs in Switzerland vary considerably by company size, transaction volume, and whether payroll is included. The following are indicative ranges for Lawsupport's services:
 
 **Dormant company** (zero turnover, no transactions):
-- Annual statements + tax filing: **approximately CHF 1,400 per year**. This is the irreducible minimum for maintaining a Swiss company in good standing.
+- Annual statements + tax filing: **approximately CHF 1'400 per year**. This is the irreducible minimum for maintaining a Swiss company in good standing.
 
 **Small Swiss company** (GmbH or AG, 0–2 employees, up to ~CHF 2M turnover, up to ~100 bank transactions/year):
-- Fixed package up to 100 transactions: **approximately CHF 3,800 per year** (overage billed hourly)
-- Monthly bookkeeping + quarterly VAT + annual accounts + tax return: **CHF 3,000–6,000 per year** for more active companies
+- Fixed package up to 100 transactions: **approximately CHF 3'800 per year** (overage billed hourly)
+- Monthly bookkeeping + quarterly VAT + annual accounts + tax return: **CHF 3'000–6,000 per year** for more active companies
 
 **Medium Swiss company** (up to 10 employees, CHF 2M–15M turnover, 150–500 bank transactions/month):
-- Full-service accounting including payroll: **CHF 8,000–20,000 per year**
+- Full-service accounting including payroll: **CHF 8'000–20,000 per year**
 
 **Catch-up / back-year accounting** (where prior years have not been done):
-- Quoted separately based on the volume of work; typically CHF 1,500–4,000 per year requiring catch-up
+- Quoted separately based on the volume of work; typically CHF 1'500–4,000 per year requiring catch-up
 
 Standard hourly rates for Swiss accounting firms: **CHF 150/hour** for routine bookkeeping work, **CHF 180/hour** for complex matters (multi-currency, intercompany, restructuring). These rates exclude VAT. All fees are quoted in Swiss francs and are subject to VAT at the standard rate of 8.1%.
 
@@ -277,9 +301,39 @@ In Zug, where the company was registered, corporate tax runs at approximately 11
 - An expired VAT registration, creating a retroactive registration obligation
 - Intercompany invoices that had not been recorded correctly
 
-We addressed this over a four-month engagement: reconstructed the books from bank statements and invoices, prepared three years of annual accounts, filed the outstanding tax returns, and re-registered for VAT. The total cost was approximately CHF 14,000 — significantly more than it would have cost to maintain proper accounts from the start.
+We addressed this over a four-month engagement: reconstructed the books from bank statements and invoices, prepared three years of annual accounts, filed the outstanding tax returns, and re-registered for VAT. The total cost was approximately CHF 14'000 — significantly more than it would have cost to maintain proper accounts from the start.
 
 The lesson: Swiss accounting is not complicated, but it requires consistent attention. Deferred maintenance is expensive.
+
+---
+
+## In-House vs Outsourced: The Real Cost Breakdown
+
+| Scenario | In-House Cost (Annual) | Outsourced to Fiduciary |
+|---|---|---|
+| Dormant company, zero transactions | Not practical | CHF 1'400/year |
+| Dormant company in formation package | Not practical | From CHF 1'800/year |
+| Active company, up to 100 transactions/year | Part-time bookkeeper ~CHF 25'000 + Bexio CHF 420-996 | CHF 3'800/year (package) |
+| Active company, 100-300 transactions/year | Part-time bookkeeper ~CHF 35'000 + software | CHF 5'000-8'000/year |
+| Active company, 300-1'000 transactions/year | Full-time ~CHF 80'000-100'000 + software | CHF 10'000-20'000/year |
+| Complex multi-currency, intercompany | Specialist ~CHF 100'000-130'000 | CHF 180/hour on actuals |
+
+**Break-even point:** roughly 500-800 transactions per year. Below that, outsourcing is cheaper. Above that, in-house starts making sense — provided you can find and retain qualified Swiss accounting staff in a market with 2% unemployment.
+
+**What outsourcing includes that in-house does not:** year-end accounts preparation, tax return filing, VAT returns, and all correspondence with the cantonal tax authority. An in-house bookkeeper records transactions; the compliance layer still requires either a qualified accountant or a fiduciary.
+
+---
+
+## The Friction Points Foreign Founders Miss
+
+### The VAT Threshold Trap
+The CHF 100'000 registration threshold captures worldwide taxable turnover, not just Swiss revenue. A UK consultancy billing GBP 70'000 to London clients and CHF 40'000 to one Swiss client already exceeds the threshold. Registration must happen before the threshold is crossed — not after.
+
+### Filing Deadlines That Compound
+Corporate tax returns are due within six months of financial year-end. Extensions are routinely granted with professional representation. But missing the deadline without an extension triggers an estimated assessment — almost always unfavourable — plus interest from the original due date.
+
+### The Bank Account Requirement
+A Swiss company without its own bank account is viewed with suspicion. Banks require current annual accounts to open or maintain accounts. Without a bank account, the company cannot demonstrate operational independence — which feeds into cantonal tax authority assessments of substance and residency.
 
 ---
 
@@ -315,55 +369,41 @@ Speak with Morgan Hartley and the Lawsupport team about your Swiss accounting ob
 
 ## Frequently Asked Questions
 
-### Do I need an accountant for my Swiss GmbH if I have no activity?
+**"We have a dormant company — do we really need to pay for accounting?"**
 
-Yes. Even a dormant Swiss GmbH must prepare annual accounts under Art. 958 CO, file a corporate tax return, and hold a shareholders' meeting (or written resolution) to approve the accounts. The minimum annual cost for a dormant company with no transactions is typically CHF 1,500–2,500 per year. If the company remains inactive for an extended period, voluntary liquidation is worth considering.
+Yes. Art. 957 OR does not exempt dormant companies. A company registered in the Commercial Register must prepare annual financial statements and file a corporate tax return every year, even with zero revenue. The minimum cost is approximately CHF 1'400/year. Skip it, and the cantonal authority issues estimated assessments with 3% annual interest. The company cannot be liquidated until every open year is filed and settled.
 
-### Can I do the bookkeeping myself and only hire Lawsupport for the tax return?
+**"Can we do the bookkeeping ourselves?"**
 
-In principle, yes — Swiss law does not require you to use a fiduciary for bookkeeping. However, the tax return is only as good as the underlying accounts. In practice, we find that self-prepared bookkeeping almost always requires significant correction before a tax return can be filed, which means the cost savings are often illusory. We recommend a professional review of the books at least quarterly.
+Swiss law does not require a fiduciary. But self-prepared books almost always require significant correction before a tax return can be filed. The cost of reviewing and correcting DIY bookkeeping frequently exceeds the cost of professional maintenance. If you do handle it yourself, use Bexio (CHF 35-83/month) and ensure VAT coding is correct.
 
-### What is the deadline for filing the Swiss corporate tax return?
+**"How much does outsourced accounting actually cost?"**
 
-Deadlines vary by canton. In Zug — the most common canton for foreign-owned companies — the tax return is due **within six months of the end of the financial year**. Extensions can be requested and are routinely granted for companies represented by a fiduciary, often to 31 December of the following year. Filing late without an approved extension triggers penalty interest and, eventually, a discretionary assessment.
+Dormant company: CHF 1'400/year. Dormant company in formation package: from CHF 1'800/year. Active company up to 100 transactions: CHF 3'800/year. Standard hourly rate: CHF 150/hour. Complex work: CHF 180/hour. All rates exclude VAT at 8.1%.
 
-### My Swiss company has shareholders and directors in multiple countries. Does that affect the accounting?
+**"What happens if we ignore the accounting obligations?"**
 
-Structurally, no — Swiss accounting obligations under Art. 957 CO apply regardless of where the shareholders or directors are resident. Practically, yes: intercompany transactions, management fees, and loan arrangements between the Swiss company and its foreign shareholders or parent will be scrutinised by the Swiss tax authority. Transfer pricing documentation is advisable for any significant related-party flows.
+The cantonal tax authority issues estimated assessments — typically 200-400% above actual liability — with interest at approximately 3% per annum. The company cannot be liquidated, cannot obtain bank financing, and cannot demonstrate substance. Directors face personal liability under Art. 725 OR.
 
-### What happens if I miss the annual accounts deadline?
+**"We crossed CHF 100'000 revenue but did not register for VAT — what now?"**
 
-Missing the deadline to prepare and approve annual accounts (six months after financial year-end) does not trigger an automatic penalty under Swiss company law, but it creates downstream problems: you cannot make formal distributions, you cannot apply for bank financing, and you may trigger concerns if you are audited or change directors. Persistent non-compliance can — in extreme cases — lead to the company being struck from the Commercial Register.
+Register immediately. The ESTV can impose retroactive VAT liability from the date the threshold was exceeded. Voluntary late registration is treated more favourably than discovery during an audit.
 
-### What is the corporate income tax rate in Switzerland?
+**"Our company has no Swiss bank account. Is that a problem?"**
 
-Switzerland's effective corporate income tax rate varies by canton. At the federal level, the rate is a flat **8.5%** on profit after tax (effective rate: approximately 7.83%). Combined with cantonal and communal taxes, the effective combined rate ranges from approximately **11.85% in Zug** to around **20% in Zurich**. Basel-Stadt sits at approximately 13%, Basel-Land at 17%, and most cantons hover between 12% and 17%. Geneva, despite its reputation as an expensive canton, has cut its corporate rate to approximately 14%. For a full breakdown, see our [cantonal tax comparison](/tax-accounting/cantonal-tax-comparison-switzerland/).
+Significant problem. Without a dedicated company bank account, cantonal tax authorities may question substance and residency. Banks require current annual accounts to open accounts. If payments route through a personal account or foreign parent, regulators view operations as questionable.
 
-### What is the VAT registration threshold in Switzerland?
+**"What is the corporate income tax rate in Switzerland?"**
 
-A Swiss company must register for VAT (MWST) when its worldwide taxable turnover exceeds **CHF 100,000 per year** (Art. 10 para. 1 MWSTG). Voluntary registration is possible below this threshold, which allows the company to reclaim input tax on its expenses. Companies providing only VAT-exempt services (e.g. certain financial services, medical services) are not required to register regardless of turnover.
+The effective combined rate varies by canton: approximately 11.85% in Zug, 14% in Geneva, 13% in Basel-Stadt, up to approximately 20% in Zurich. The federal component is a flat 8.5% on profit after tax.
 
-### Are there different VAT rates in Switzerland?
+**"What is withholding tax and does it affect my company?"**
 
-Yes. Switzerland has three VAT rates: the standard rate of **8.1%** applies to most goods and services. A reduced rate of **2.6%** applies to basic necessities including food, non-alcoholic drinks, books, newspapers, and medicines. A special rate of **3.8%** applies to accommodation services (hotels, short-term lets). These rates have been in place since 1 January 2024 following a voter-approved AHV reform.
+Swiss withholding tax (Verrechnungssteuer) is 35% on dividends and certain interest payments. For Swiss-resident shareholders, it is fully refundable. For foreign shareholders, the rate may be reduced under a double tax treaty. This is critical for foreign-owned holding structures.
 
-### What is withholding tax in Switzerland and does it affect my company?
+**"Can Swiss companies carry forward tax losses?"**
 
-Swiss withholding tax (Verrechnungssteuer) is levied at **35%** on dividends paid by Swiss companies and on certain interest payments (Art. 4 VStG). For shareholders resident in Switzerland, the withholding tax is fully refundable via their personal or corporate tax return. For foreign shareholders, the rate may be reduced under a double tax treaty — Switzerland has over 100 DTTs in force. The net withholding tax after treaty reduction varies from 0% to 35% depending on the treaty country and the shareholding percentage. This is a critical consideration for foreign-owned Swiss holding structures.
-
-### What are the transfer pricing rules for Swiss companies?
-
-Switzerland does not have a specific transfer pricing statute, but the arm's length principle applies through the general prohibition on hidden profit distributions (verdeckte Gewinnausschüttungen) under Art. 58 DBG and via the ESTV's administrative practice. The Swiss tax authority benchmarks intercompany transactions — including management fees, royalties, loans, and service agreements — against market prices. If a Swiss company pays above-market prices to a related party, the excess is treated as a non-deductible hidden distribution and may attract withholding tax. Swiss companies in international groups are expected to maintain transfer pricing documentation aligned with OECD guidelines, particularly where transactions exceed CHF 1–2M annually.
-
-### Can a Swiss company carry forward tax losses?
-
-Yes. Under Art. 67 DBG, Swiss companies can carry forward tax losses for **up to seven years**. There is no carry-back of losses to prior years. Losses may only be deducted in the order in which they arose (oldest losses first). Loss carry-forwards are taken into account before applying the participation exemption or other deductions. Cantonal rules broadly mirror the federal position, though a few cantons have historically applied stricter limits.
-
-### What accounting standard applies to Swiss companies — IFRS or Swiss GAAP?
-
-Most Swiss SMEs prepare their statutory accounts under the Swiss Code of Obligations (CO) accounting rules, which are the default standard for all Swiss legal entities. These are relatively flexible — they allow significant hidden reserves and do not require fair value accounting or full deferred tax recognition. Swiss GAAP FER is an optional, more structured standard used mainly by non-listed companies that want recognised accounting principles without the full burden of IFRS. IFRS is required for companies listed on the SIX Swiss Exchange and optional for others. For statutory purposes, foreign subsidiaries operating in Switzerland must still file CO-compliant accounts regardless of what standard the parent uses.
-
----
+Yes. Under Art. 67 DBG, losses can be carried forward for up to seven years. There is no carry-back. Losses are deducted in the order they arose (oldest first).
 
 <div class="author-block">
 

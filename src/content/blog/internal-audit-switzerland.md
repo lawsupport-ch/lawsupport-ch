@@ -18,6 +18,8 @@ faqItems:
   - question: "When must a company switch from limited to ordinary audit?"
     answer: "When it exceeds two of three thresholds (CHF 20 million assets, CHF 40 million revenue, 250 employees) in two consecutive financial years."
 tocItems:
+  - id: "the-audit-cost-reality-for-swiss-smes"
+    title: "The Audit Cost Reality for Swiss SMEs"
   - id: "external-audit-swiss-law-requirements"
     title: "External Audit: Swiss Law Requirements"
   - id: "rab-the-swiss-audit-oversight-authority"
@@ -34,6 +36,25 @@ tocItems:
 
 
 Swiss law distinguishes between the **statutory external audit** (required by the Code of Obligations for most companies) and **internal audit** (an optional but recommended governance function for larger organisations). This guide covers both: who must have an external audit in Switzerland, when internal audit becomes important, and how Swiss audit requirements scale with company size.
+
+---
+
+## The Audit Cost Reality for Swiss SMEs
+
+Most foreign-owned Swiss GmbH and AG do not need an internal audit function. The question is whether you need the external statutory audit, and at what cost.
+
+### Practical Cost Breakdown
+
+| Company Type | Statutory Audit | Internal Audit | Annual Accounting | Total Compliance Cost |
+|---|---|---|---|---|
+| Dormant GmbH, opted out | CHF 0 | Not needed | CHF 1'400 | CHF 1'400 |
+| Active GmbH, <10 FTE, opted out | CHF 0 | Not needed | CHF 3'800-8'000 | CHF 3'800-8'000 |
+| Active AG, 10-50 FTE | CHF 3'000-15'000 | Optional | CHF 8'000-20'000 | CHF 11'000-35'000 |
+| SRO-licensed financial intermediary | CHF 8'000-12'000 | Recommended | CHF 10'000-20'000 | CHF 18'000-32'000 |
+
+**The SRO audit trap:** Self-regulatory organisations conduct an audit within three months of granting membership. If the director or AML compliance officer demonstrates incompetence at that audit, the SRO can revoke the licence on the spot. Total advisory costs for SRO applications can reach CHF 25'000-38'000 including supplementary requests. The three-month window is an examination, not a grace period.
+
+> **From practice:** A company applied for VQF membership with a CHF 10'000 fixed retainer for application assistance. VQF raised supplementary requests, the business model required revision, and total costs reached CHF 38'000 before the licence was granted. The three-month post-licence audit then required additional compliance documentation at CHF 180/hour.
 
 ---
 

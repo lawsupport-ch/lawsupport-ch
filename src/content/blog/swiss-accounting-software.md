@@ -7,6 +7,10 @@ category: "Company Administration"
 categoryHref: "/corporate-services/"
 readTime: "11 min read"
 tocItems:
+  - id: "the-software-mistakes-that-create-accounting-problems"
+    title: "The Software Mistakes That Create Accounting Problems"
+  - id: "the-real-cost-of-accounting-software-fiduciary-service"
+    title: "The Real Cost of Accounting Software + Fiduciary Service"
   - id: "swiss-accounting-compliance-requirements"
     title: "Swiss Accounting Compliance Requirements"
   - id: "swiss-specific-accounting-software"
@@ -29,11 +33,42 @@ faqItems:
   - question: "Do I need Swissdec-certified software for payroll?"
     answer: "Strongly recommended. It automates electronic salary data exchange with tax authorities and social insurance."
   - question: "How much does Swiss accounting software cost per year?"
-    answer: "From free (Banana) to CHF 50,000+ (Abacus enterprise). A typical SME pays CHF 350-2,400/year for cloud options."
+    answer: "From free (Banana) to CHF 50'000+ (Abacus enterprise). A typical SME pays CHF 350-2,400/year for cloud options."
 ---
 
 
 Swiss companies must maintain accounts in accordance with the <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en" target="_blank" rel="nofollow noopener">Swiss Code of Obligations (OR Art. 957–963b)</a> and comply with Swiss VAT reporting, payroll, and tax requirements. Swiss-specific accounting software handles the local requirements — Swiss VAT rates (8.1% standard, 3.8% hotel, 2.6% reduced), Swiss franc presentation, canton-specific payroll deductions (AHV, IV, EO, ALV), and the Swiss chart of accounts (Kontenrahmen KMU). This guide compares the main Swiss accounting software options for 2026.
+
+---
+
+## The Software Mistakes That Create Accounting Problems
+
+### Mistake 1: Using Non-Swiss Software for Swiss Statutory Accounts
+QuickBooks and Xero work for management reporting but are not fully adapted to Swiss VAT rates, cantonal payroll deductions, or the Kontenrahmen KMU chart of accounts. Companies using international software still need a Swiss fiduciary to handle the compliance elements separately, adding cost rather than saving it.
+
+### Mistake 2: Choosing the Wrong Bexio Plan
+Bexio Starter (CHF 35/month) does not include multi-currency support. A company invoicing in EUR or USD needs the Professional plan (CHF 83/month) at minimum. Starting on the wrong plan and migrating mid-year creates reconciliation work at CHF 150-180/hour.
+
+### Mistake 3: Not Connecting to Swiss Bank Feeds
+Manual bank reconciliation is the single largest source of bookkeeping errors. Bexio and Abacus both offer direct Swiss bank connections. Setting this up at company formation eliminates the most common category of posting errors.
+
+### Mistake 4: Skipping Software Entirely
+Some founders attempt to maintain accounts in spreadsheets. Art. 958f(3) CO requires that electronic records maintain authenticity, integrity, and an audit trail. A spreadsheet does not qualify. If the cantonal tax authority audits and finds accounts maintained in Excel without proper controls, the records may be rejected.
+
+> **From practice:** A startup used the Bexio Starter plan for 18 months while invoicing in three currencies. When the fiduciary took over year-end accounts, 200+ transactions required manual currency reposting at CHF 150/hour. Migration to the Professional plan and proper multi-currency setup would have cost CHF 48/month more, saving approximately CHF 4'000 in correction work.
+
+---
+
+## The Real Cost of Accounting Software + Fiduciary Service
+
+| Company Stage | Software Cost | Fiduciary Cost | Total Annual Cost |
+|---|---|---|---|
+| Dormant, zero transactions | None needed (fiduciary handles) | CHF 1'400/year | CHF 1'400/year |
+| Startup, <100 transactions | Bexio Starter CHF 420/year | CHF 3'800/year (package) | CHF 4'220/year |
+| Active SME, 100-500 transactions | Bexio Professional CHF 996/year | CHF 5'000-15'000/year | CHF 6'000-16'000/year |
+| Mid-size, 500+ transactions | Abacus CHF 3'000-10'000/year | CHF 15'000-30'000/year or in-house | CHF 18'000-40'000/year |
+
+Bexio is the standard recommendation for newly formed companies. The break-even for moving to Abacus is roughly 500 transactions per year or the point where payroll, multi-entity, or project accounting requirements exceed what Bexio handles.
 
 ---
 

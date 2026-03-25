@@ -4,8 +4,10 @@ description: "Swiss accounting obligations for AG and GmbH: Code of Obligations 
 date: "19.03.2026"
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"
-readTime: "12 min read"
+readTime: "14 min read"
 tocItems:
+  - id: "five-accounting-mistakes-that-trigger-swiss-tax-audits"
+    title: "Five Accounting Mistakes That Trigger Swiss Tax Audits"
   - id: "legal-basis-articles-957963b-or"
     title: "Legal Basis: Articles 957–963b OR"
   - id: "who-must-keep-accounts"
@@ -30,12 +32,34 @@ tocItems:
     title: "Tax Accounting and the Massgeblichkeitsprinzip"
   - id: "vat-and-accounting-interaction"
     title: "VAT and Accounting Interaction"
+  - id: "in-house-vs-outsourced-accounting"
+    title: "In-House vs Outsourced Accounting"
+  - id: "the-friction-points-most-founders-miss"
+    title: "The Friction Points Most Founders Miss"
   - id: "how-lawsupport-can-help"
     title: "How Lawsupport Can Help"
 ---
 
 
 Swiss accounting requirements are set out in Articles 957 to 963b of the Code of Obligations (Obligationenrecht, OR). Every company incorporated in Switzerland — AG, GmbH, cooperative, or branch — must comply with these minimum standards. The applicable standard, audit tier, and record-keeping burden then depend on size and structure. This guide explains what applies to whom, where the thresholds sit, and what the consequences are for getting it wrong.
+
+---
+
+## Five Accounting Mistakes That Trigger Swiss Tax Audits
+
+Before getting into the legal framework, here are the five errors we see most frequently at Goldblum und Partner AG across 300+ client companies — and each one can trigger a cantonal tax authority review:
+
+1. **Skipping annual filings for dormant companies.** A dormant holding company with zero turnover still needs annual financial statements and a corporate tax return. Skip two years and the cantonal authority issues estimated assessments — typically overstated — plus 3% annual interest. Annual maintenance cost: approximately CHF 1'400. Catch-up cost after three missed years: CHF 8'000-12'000.
+
+2. **Crossing the CHF 100'000 VAT threshold without registering.** The threshold captures worldwide taxable turnover, not just Swiss revenue. A company generating EUR 80'000 in Germany and CHF 30'000 in Switzerland is already over the line. The ESTV can impose retroactive VAT liability with interest and penalties.
+
+3. **Running the company without its own bank account.** If the company has no dedicated Swiss bank account and routes payments through a shareholder's personal account or a foreign parent's account, Swiss regulators view the operations as questionable. Banks will also refuse to open accounts for companies that cannot produce current annual statements.
+
+4. **Ignoring intercompany pricing.** Management fees, royalties, and intragroup loans that deviate from market rates are treated as hidden profit distributions — subject to 35% withholding tax. The ESTV does not need to prove intent; deviation from arm's length is sufficient.
+
+5. **Letting the accounting backlog grow.** The single most common compliance failure. Each unfiled year makes the next year harder and more expensive to reconstruct. Year one of catch-up: CHF 3'000-4'000. Year three of catch-up: CHF 10'000+ and rising, because sequential reconstruction means you cannot fix 2025 without first closing 2024.
+
+> **From practice:** A dormant holding company's founder assumed zero-turnover meant zero filings. The cantonal tax office disagreed — CHF 2'000 in penalties, plus CHF 1'200 in accrued interest, plus the cost of reconstructing three years of nil accounts. Total bill: CHF 7'400. The annual cost of proper maintenance would have been CHF 1'400 per year — CHF 4'200 over the same three years.
 
 ---
 
@@ -57,9 +81,9 @@ The duty to maintain accounting records applies to all companies registered in S
 - **Gesellschaft mit beschränkter Haftung (GmbH)** — limited liability companies
 - **Cooperatives (Genossenschaft)**
 - **Swiss branches of foreign companies**
-- **Sole traders and partnerships with annual revenue above CHF 500,000**
+- **Sole traders and partnerships with annual revenue above CHF 500'000**
 
-The trigger for sole traders and partnerships (Kollektivgesellschaft, Kommanditgesellschaft) is a rolling revenue threshold of CHF 500,000 per year. Below that figure, a simplified form of record-keeping applies under Art. 957 para. 2 OR. Above it, the full double-entry obligation kicks in.
+The trigger for sole traders and partnerships (Kollektivgesellschaft, Kommanditgesellschaft) is a rolling revenue threshold of CHF 500'000 per year. Below that figure, a simplified form of record-keeping applies under Art. 957 para. 2 OR. Above it, the full double-entry obligation kicks in.
 
 For an overview of the main Swiss company structures and their obligations, see our guide on [company formation in Switzerland](/company-formation/company-formation-switzerland/).
 
@@ -69,7 +93,7 @@ For an overview of the main Swiss company structures and their obligations, see 
 
 ### Simplified Bookkeeping (Vereinfachte Buchführung)
 
-Sole traders and partnerships whose annual revenue falls below CHF 500,000 are not required to maintain double-entry accounts under Art. 957 para. 2 OR. They must instead keep:
+Sole traders and partnerships whose annual revenue falls below CHF 500'000 are not required to maintain double-entry accounts under Art. 957 para. 2 OR. They must instead keep:
 
 - An **income and expenditure account** (Einnahmen- und Ausgabenrechnung)
 - A **record of assets and liabilities** (Vermögensrechnung)
@@ -82,7 +106,7 @@ Required under Art. 957 para. 1 OR for:
 
 - All **AG and GmbH**, regardless of size
 - All **cooperatives**
-- Sole traders and partnerships with revenue above CHF 500,000
+- Sole traders and partnerships with revenue above CHF 500'000
 
 Double-entry bookkeeping under the OR requires, at minimum, a **balance sheet** and an **income statement (profit and loss account)**. Notes to the accounts are also required where they are necessary to give a true picture of the company's financial position (Art. 959c OR). For practical support setting up compliant accounts, see our [bookkeeping Switzerland](/tax-accounting/bookkeeping-switzerland/) service.
 
@@ -132,7 +156,7 @@ On the liability and equity side:
 - **Long-term liabilities**: long-term debt, deferred taxes, provisions
 - **Equity**: share capital (Aktienkapital / Stammkapital), statutory capital reserve, statutory retained earnings, other reserves, retained earnings or accumulated losses
 
-The minimum share capital for an AG is CHF 100,000 (at least CHF 50,000 must be paid in). For a GmbH, the minimum is CHF 20,000, fully paid in. These figures appear as fixed line items in the equity section and are not subject to reclassification.
+The minimum share capital for an AG is CHF 100'000 (at least CHF 50'000 must be paid in). For a GmbH, the minimum is CHF 20'000, fully paid in. These figures appear as fixed line items in the equity section and are not subject to reclassification.
 
 ---
 
@@ -184,8 +208,6 @@ This means a Swiss company's financial position is entirely private unless the c
 
 For the broader tax implications of your accounting results, see our guide on [corporate tax Switzerland](/tax-accounting/corporate-tax-switzerland/).
 
-<!-- VIDEO: Explainer — Swiss accounting filing obligations vs UK/Germany. Duration approx 3 min. -->
-
 ---
 
 ## Tax Accounting and the Massgeblichkeitsprinzip
@@ -196,57 +218,96 @@ This connection between commercial and tax accounting means that accounting poli
 
 If your accounting records are incomplete or in disarray, see how we handle [accounting recovery Switzerland](/tax-accounting/accounting-recovery-switzerland/).
 
-> **From practice:** A common misconception among foreign founders is that a dormant Swiss company needs no accounting at all. It does. Even a shelf company sitting in the commercial register with zero revenue requires annual financial statements and a corporate tax return. The minimum annual cost for this — from a licensed Swiss fiduciary — is approximately CHF 1,400. Skip it for two or three years, and the catch-up cost multiplies: the tax authority issues estimated assessments, interest accrues at roughly 3% per annum, and the company cannot be liquidated until every open year is filed and settled. We see this pattern repeatedly with companies that were incorporated as part of a broader plan that never materialised.
-
-<!-- VIDEO: Explainer — Massgeblichkeitsprinzip: how Swiss commercial accounts drive the tax calculation. Duration approx 4 min. -->
-
 ---
 
 ## VAT and Accounting Interaction
 
-Swiss VAT obligations interact directly with accounting records. Companies with annual turnover above CHF 100,000 — a threshold that includes worldwide taxable turnover, not just Swiss revenue — are required to register for VAT with the <a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">ESTV</a> and submit periodic returns. The VAT method chosen — effective method or flat-rate method — affects how the income statement is presented and how input tax is tracked. Failure to reconcile VAT accounts with the general ledger is a common source of errors in Swiss tax audits. For registration requirements, see our [VAT registration Switzerland](/tax-accounting/vat-registration-switzerland/) guide.
+Swiss VAT obligations interact directly with accounting records. Companies with annual turnover above CHF 100'000 — a threshold that includes worldwide taxable turnover, not just Swiss revenue — are required to register for VAT with the <a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">ESTV</a> and submit periodic returns. The VAT method chosen — effective method or flat-rate method — affects how the income statement is presented and how input tax is tracked. Failure to reconcile VAT accounts with the general ledger is a common source of errors in Swiss tax audits. For registration requirements, see our [VAT registration Switzerland](/tax-accounting/vat-registration-switzerland/) guide.
+
+---
+
+## In-House vs Outsourced Accounting
+
+The cost question comes up in every first meeting. Here is how it breaks down in practice, based on Goldblum und Partner AG's experience with 300+ Swiss companies:
+
+### Cost Comparison by Transaction Volume
+
+| Scenario | In-House (Salary + Software + Overhead) | Outsourced (Fiduciary) |
+|---|---|---|
+| Dormant company, zero transactions | Not practical — no workload to justify a hire | CHF 1'400/year |
+| Dormant company in formation package | Not practical | From CHF 1'800/year |
+| Active company, up to 100 transactions/year | Part-time bookkeeper: ~CHF 25'000/year + Bexio CHF 420-996/year | CHF 3'800/year (package) |
+| Active company, 100-300 transactions/year | Part-time bookkeeper: ~CHF 35'000/year + software | CHF 5'000-8'000/year (hourly) |
+| Active company, 300-1'000 transactions/year | Full-time: CHF 80'000-100'000/year + software + training | CHF 10'000-20'000/year |
+| Complex multi-currency, intercompany | Full-time specialist: CHF 100'000-130'000/year | CHF 180/hour, billed on actuals |
+
+**The break-even point** is roughly 500-800 transactions per year. Below that, outsourcing is cheaper. Above that, in-house starts to make sense — but only if you can find and retain qualified Swiss accounting staff, which is a separate challenge in a market with 2% unemployment.
+
+**What outsourcing includes that in-house does not:** A fiduciary handles annual accounts, tax returns, VAT filings, and correspondence with the cantonal tax authority. An in-house bookkeeper records transactions. The year-end work — tax return preparation, audit coordination, tax authority correspondence — still needs either a qualified accountant or a fiduciary on top.
+
+**Hourly rates:** CHF 150/hour standard, CHF 180/hour for complex matters (multi-currency, intercompany reconciliation, restructuring). These rates exclude VAT at 8.1%.
+
+---
+
+## The Friction Points Most Founders Miss
+
+### The VAT Threshold Trap
+
+The CHF 100'000 registration threshold captures **worldwide taxable turnover**, not just Swiss revenue. A UK consultancy billing GBP 70'000 to London clients and CHF 40'000 to one Swiss client is already over the threshold. Registration must happen before the threshold is exceeded — not after. Retroactive assessments include interest and penalties.
+
+### Filing Deadlines That Compound
+
+Corporate tax returns are due within six months of financial year-end (30 June for calendar-year companies). Extensions to 31 December are routinely granted with professional representation. But the underlying obligation to prepare annual accounts within a "reasonable time" after year-end is not waivable. Miss the tax return deadline without an extension, and the authority issues an estimated assessment — almost always unfavourable — that then requires formal objection, reconstruction, and filing to correct. Interest accrues from the original due date regardless.
+
+### The Bank Account Requirement
+
+A Swiss company without its own bank account is viewed with suspicion by both regulators and counterparties. Banks require current annual accounts to open or maintain accounts. If the company cannot produce statements, the bank will not open an account. Without a bank account, the company cannot demonstrate operational independence, which feeds into cantonal tax authority assessments of substance and residency. Foreign-owned dormant companies are particularly affected: they need accounts to get a bank account, and they need a bank account to demonstrate that the company is a real operating entity.
+
+### Accounting Backlog: The Compounding Problem
+
+The most common reason companies contact us is not a specific compliance issue — it is that the books have not been maintained for two or three years and the owner now needs to do something (liquidate, sell, obtain financing, or simply bring the company into compliance). Each missed year makes the next year harder to reconstruct. The cost curve is not linear — it is exponential, because each year's opening balance depends on the prior year's closing balance.
 
 ---
 
 ## Frequently Asked Questions
 
-**What are the basic accounting requirements for a Swiss AG or GmbH?**
+**"We have a dormant company with no activity — do we really need to pay CHF 1'400 per year for accounting?"**
 
-Under Art. 957 para. 1 OR, every AG and GmbH must maintain double-entry accounts regardless of size. This means a balance sheet, an income statement, and notes where required (Art. 959c OR). The accounts must give a true and fair view of the company's financial position (Art. 958 OR). There is no revenue threshold — the obligation applies from the first year of operation.
+Yes. Art. 957 OR does not exempt dormant companies. A company registered in the Commercial Register must prepare annual financial statements and file a corporate tax return every year, even with zero revenue. The CHF 1'400 covers annual statements and tax filing — the absolute minimum to keep a Swiss company in good standing. Skip it, and the cantonal authority issues estimated assessments with 3% annual interest, and the company cannot be liquidated until every open year is filed and settled. We see this pattern repeatedly with companies incorporated as part of a broader plan that never materialised.
 
-**Which articles of the Swiss Code of Obligations govern accounting?**
+**"Can we do the bookkeeping ourselves and just have you file the tax return?"**
 
-The core accounting provisions are Arts. 957 to 963b OR. Art. 957 sets the general bookkeeping duty. Art. 958 requires a true and fair view. Art. 959a specifies balance sheet content. Art. 959b covers income statement requirements. Art. 958f fixes the 10-year retention period. Arts. 727–731 OR govern audit obligations separately.
+In theory, yes. In practice, self-prepared books almost always require significant correction before a tax return can be filed. The cost of reviewing and correcting DIY bookkeeping frequently exceeds the cost of having a fiduciary maintain the books from the start. If you do maintain your own books, use Bexio (CHF 35-83/month) and ensure your VAT coding is correct — this is where most self-prepared accounts fail.
 
-**What is the audit threshold for an ordinary audit in Switzerland?**
+**"What happens if we just ignore the accounting obligations for a few years?"**
 
-Under Art. 727 OR, a company must undergo an ordinary audit (ordentliche Revision) if it exceeds two of three thresholds in two consecutive financial years: annual revenue above CHF 40 million, balance sheet total above CHF 20 million, or more than 250 full-time employees. The audit must be conducted by a licensed audit firm registered with the Federal Audit Oversight Authority (RAB).
+The cantonal tax authority issues estimated assessments (Ermessensveranlagung) — typically 200-400% above actual liability — on which interest accrues at approximately 3% per annum. The company cannot be liquidated, cannot obtain bank financing, and cannot demonstrate substance for regulatory or banking purposes. Directors face personal liability under Art. 725 OR. Each unfiled year also blocks the filing of subsequent years, because the opening balance for year N depends on the closing balance of year N-1.
 
-**Can a Swiss company opt out of the statutory audit entirely?**
+**"Is Swiss GAAP FER mandatory for our company?"**
 
-Yes. Under Art. 727a para. 2 OR, an AG or GmbH with fewer than 10 full-time employees may waive the limited audit requirement if all shareholders consent in writing (Verzicht auf eingeschränkte Revision). This opting-out must be registered with the Commercial Register. It does not affect the obligation to maintain proper accounts — bookkeeping obligations remain unchanged.
+Unlikely, unless you have listed bonds, are a large foundation, or your bank requires it. Most private AG and GmbH structures operate under the OR minimum. Swiss GAAP FER is recommended when you need financial statements that external parties (lenders, investors, acquirers) will find credible and comparable. The cost difference between OR-minimum and Swiss GAAP FER accounts is modest for simple structures.
 
-**Does a newly formed Swiss GmbH need an auditor from day one?**
+**"How much does it actually cost to maintain a Swiss company?"**
 
-Not necessarily. A GmbH with fewer than 10 full-time employees can opt out of the limited audit requirement entirely, provided all shareholders consent in writing at the time of formation or at a subsequent shareholders' meeting. The opting-out is then registered with the Commercial Register. Many small GmbH operate without any audit from inception.
+For a dormant company: CHF 1'400/year (annual statements + tax filing). For a dormant company within a formation package: from CHF 1'800/year. For an active company with up to 100 transactions: CHF 3'800/year (package, overage billed hourly at CHF 150/hour). These figures exclude VAT at 8.1% and do not include any software subscription (Bexio at CHF 35-83/month is standard). There are no fixed annual packages for startups — transaction volumes are too unpredictable in the first one to two years.
 
-**Can a Swiss company use IFRS instead of OR accounting?**
+**"We crossed the CHF 100'000 revenue threshold last year but did not register for VAT — what now?"**
 
-Yes. IFRS is permitted for any Swiss company and satisfies all OR requirements. In practice, non-listed companies rarely adopt IFRS because the compliance costs are disproportionate for most private structures. Swiss GAAP FER offers a more practical alternative for companies that need standards above the OR minimum but do not require full IFRS compliance.
+Register immediately. The ESTV can impose retroactive VAT liability from the date the threshold was exceeded. You will owe VAT on all taxable supplies made since that date, plus interest. Voluntary late registration is treated more favourably than discovery by the ESTV during an audit. The practical first step is to file for registration and simultaneously prepare the outstanding VAT returns.
 
-**What happens if accounting records are lost or incomplete?**
+**"Our company has no Swiss bank account. Is that a problem?"**
 
-The 10-year retention obligation under Art. 958f OR is strict. Missing records create serious exposure during tax audits — the cantonal tax authority can estimate taxable income, typically to the company's disadvantage. Directors can be held personally liable for failures in record-keeping under Art. 127 of the Swiss Criminal Code (StGB). Where records are incomplete for prior years, remediation must be approached carefully and, where possible, supported by documentation reconstruction. See our [accounting recovery Switzerland](/tax-accounting/accounting-recovery-switzerland/) service for options.
+It is a significant problem. Without a dedicated company bank account, the company cannot demonstrate operational independence. Cantonal tax authorities may question the company's substance and residency. Banks require current annual accounts to open accounts — creating a circular dependency that can only be broken by first bringing the accounting up to date. If your company routes payments through a shareholder's personal account or a foreign parent's account, regulators view the operations as questionable.
 
-**What are the penalties for non-compliance with Swiss accounting obligations?**
+**"What are the penalties for non-compliance with Swiss accounting obligations?"**
 
-Failure to keep proper accounts, or destruction of records before the 10-year period, can constitute a criminal offence under the Swiss Criminal Code. Directors face personal liability for any resulting tax shortfalls. In practice, the cantonal tax authority's power to make discretionary assessments — with figures set conservatively against the company — represents the most immediate financial consequence. Fines for VAT-related bookkeeping failures can reach CHF 20,000 per infringement.
+Failure to keep proper accounts can constitute a criminal offence under the Swiss Criminal Code. Directors face personal liability for any resulting tax shortfalls. In practice, the cantonal tax authority's power to make discretionary assessments — with figures set conservatively against the company — represents the most immediate financial consequence. Fines for VAT-related bookkeeping failures can reach CHF 20'000 per infringement.
 
-**Does Switzerland require consolidated financial statements for groups?**
+**"Does Switzerland require consolidated financial statements for groups?"**
 
 Under Arts. 962–963b OR, a group must prepare consolidated financial statements if it exceeds two of three thresholds: annual revenue CHF 40 million, balance sheet total CHF 20 million, or 250 full-time employees. Smaller groups may be exempt. Consolidated statements must be prepared in accordance with a recognised standard — Swiss GAAP FER, IFRS, or US GAAP — and audited by a licensed firm.
 
-**How does the Massgeblichkeitsprinzip affect tax planning for Swiss companies?**
+**"How does the Massgeblichkeitsprinzip affect tax planning for Swiss companies?"**
 
 The Massgeblichkeitsprinzip means commercial accounting choices feed directly into taxable income. A company that books a generous provision under the OR will reduce taxable profit in the same period — but the provision must be commercially justifiable to survive a tax audit. Conversely, aggressive capitalisation of costs inflates taxable profit. Swiss tax planning therefore begins with the chart of accounts and depreciation policy, not with year-end adjustments. For a detailed review, see our [corporate tax Switzerland](/tax-accounting/corporate-tax-switzerland/) guide.
 

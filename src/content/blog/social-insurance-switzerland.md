@@ -7,6 +7,8 @@ category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"
 readTime: "11 min read"
 tocItems:
+  - id: "the-social-insurance-traps-that-catch-foreign-employers"
+    title: "The Social Insurance Traps That Catch Foreign Employers"
   - id: "the-three-pillar-structure"
     title: "The Three-Pillar Structure"
   - id: "1st-pillar-ahviveo-contributions"
@@ -27,13 +29,13 @@ faqItems:
   - question: "Are employer social insurance contributions tax-deductible?"
     answer: "Yes. Employer contributions are fully deductible operating costs for Swiss corporate income tax."
   - question: "What is the maximum AHV retirement pension in 2026?"
-    answer: "CHF 29,400/year for an individual or CHF 44,100/year for a couple, indexed to wages and prices."
+    answer: "CHF 29'400/year for an individual or CHF 44'100/year for a couple, indexed to wages and prices."
   - question: "Are company directors subject to AHV contributions?"
     answer: "A director receiving a salary pays AHV on that salary. Dividends are not subject to AHV contributions."
   - question: "Do foreign employees in Switzerland pay AHV?"
     answer: "Yes. Any employee working in Switzerland pays AHV from day one, regardless of nationality."
   - question: "What is the BVG coordination deduction?"
-    answer: "CHF 26,460 in 2026, subtracted from gross salary to determine the portion insured under mandatory occupational pension."
+    answer: "CHF 26'460 in 2026, subtracted from gross salary to determine the portion insured under mandatory occupational pension."
 ---
 
 
@@ -172,6 +174,24 @@ The payroll overhead — the gap between what the employee sees on their payslip
 For founders planning their first Swiss hires, this calculation should be done before signing employment contracts, not after. We regularly see companies — particularly those founded by entrepreneurs accustomed to jurisdictions with lower social charges — encounter cash flow pressure in the first twelve months because payroll overhead was underestimated by 30-40%.
 
 Understanding these costs is essential when planning your [company formation in Switzerland](/company-formation/company-formation-switzerland/) and budgeting for your first employees.
+
+---
+
+## The Social Insurance Traps That Catch Foreign Employers
+
+### Trap 1: Director Salary vs Dividend
+A director receiving only dividends (no salary) is not an AHV-contributing employee. But if the director personally provides significant services, the AHV compensation office can reclassify the relationship and assess contributions retroactively with 5% annual interest.
+
+### Trap 2: The BVG Entry Threshold
+BVG coverage becomes mandatory once an employee earns above CHF 22'050 per year. Part-time employees working for multiple employers may fall below the threshold at each employer but above it in aggregate. Each employer assesses independently.
+
+### Trap 3: Self-Employed AHV
+Self-employed individuals bear the full AHV/IV/EO contribution (approximately 10%, no employer share). Many sole proprietors underestimate this cost on top of income tax.
+
+### Trap 4: The Retrospective Audit
+The AHV compensation office audits employers and goes back. Under Art. 52 AHVG, directors can be held personally liable for unpaid contributions even in a limited liability company. The liability extends to both employer and employee shares.
+
+> **From practice:** A company with three employees at CHF 100'000 each owes approximately CHF 46'200 per year in combined employer social insurance contributions. A founder who budgets only gross salary is short by 15.4% before the 13th month salary adds another CHF 25'000.
 
 ---
 

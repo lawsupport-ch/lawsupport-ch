@@ -14,10 +14,14 @@ faqItems:
   - question: "Can a foreign company operate in Switzerland without a Swiss entity?"
     answer: "In many sectors, yes — cross-border services can be provided to Swiss clients from a foreign entity, subject to applicable rules on marketing and solicitation. However, regulated activities (banking, insurance, fund management, medical practice) require Swiss authorisation or a recognised equivalence arrangement. Establishing a Swiss [branch office](/company-formation/branch-office-switzerland/) or subsidiary is often required in practice, particularly where physical presence, local compliance officers, or Swiss-domiciled directors are mandatory."
   - question: "What is the most expensive Swiss business licence to obtain?"
-    answer: "A full banking licence under the Banking Act (BankG) is the most costly. Minimum paid-in capital is CHF 10 million, with Basel III requirements substantially higher in practice. The application process alone — including legal, compliance, and consultancy fees — typically costs CHF 500,000 to CHF 2 million before FINMA approves operations."
+    answer: "A full banking licence under the Banking Act (BankG) is the most costly. Minimum paid-in capital is CHF 10 million, with Basel III requirements substantially higher in practice. The application process alone — including legal, compliance, and consultancy fees — typically costs CHF 500'000 to CHF 2 million before FINMA approves operations."
   - question: "Do Swiss cantons charge different fees for business licences?"
     answer: "Yes. Cantonal and communal licence fees vary meaningfully. A restaurant licence (Gastgewerbebewilligung) in Zug follows different procedures and fee schedules than one in Geneva. Building permit fees are set at the communal level and depend on project value. Always confirm current fees with the relevant cantonal authority."
 tocItems:
+  - id: "the-licensing-mistakes-that-cost-swiss-companies"
+    title: "The Licensing Mistakes That Cost Swiss Companies"
+  - id: "the-cost-of-swiss-business-licensing"
+    title: "The Cost of Swiss Business Licensing"
   - id: "the-two-tier-licensing-system-in-switzerland"
     title: "The Two-Tier Licensing System in Switzerland"
   - id: "activities-that-require-no-specific-licence"
@@ -49,6 +53,37 @@ That said, specific industries face rigorous federal or cantonal licensing regim
 
 ---
 
+## The Licensing Mistakes That Cost Swiss Companies
+
+### Mistake 1: Assuming No Licence Means No Obligations
+Most commercial activities need only Commercial Register registration and VAT enrolment. But crossing into a regulated sector without the proper licence is a criminal offence in some cases (banking without FINMA authorisation, for example). The distinction between regulated and unregulated is not always intuitive: a technology company providing analytics to banks is not a bank, but one accepting client funds may trigger FINMA requirements regardless of how it describes itself.
+
+### Mistake 2: The Staff Leasing Myth
+A persistent myth claims that companies with fewer than ten staffing contracts do not need a SECO staff leasing licence. This is false. The licence is required regardless of the number of contracts. Fines: up to CHF 100'000 for the provider, up to CHF 40'000 for the client. A Master Service Agreement from a US parent does not cover a Swiss subsidiary.
+
+### Mistake 3: Not Budgeting for SRO Compliance
+SRO membership costs extend well beyond the application fee. Total advisory costs for SRO applications can reach CHF 25'000-38'000. The three-month post-licence audit is an examination, not a formality. If the director or AML compliance officer demonstrates incompetence, the licence is revoked on the spot.
+
+> **Case study:** A fintech company assumed that operating below the CHF 1 million threshold for money transmission meant no regulatory obligation. It did not: SRO membership was still required. The application process took six months, cost CHF 28'000 in advisory fees, and the initial three-month audit required an additional CHF 8'000 in compliance documentation preparation. Had the founders budgeted for this from the start, they would not have launched operations before the licence was in place.
+
+---
+
+## The Cost of Swiss Business Licensing
+
+| Licence Type | Application Cost | Minimum Capital | Annual Compliance |
+|---|---|---|---|
+| Most commercial activities | CHF 0 (CR registration only) | Per entity type (CHF 20'000 GmbH, CHF 100'000 AG) | CHF 1'400-3'800/year (accounting) |
+| SECO staff leasing | CHF 1'000-3'000 | N/A | Annual renewal + compliance |
+| SRO membership (financial intermediary) | CHF 10'000-38'000 (total advisory) | CHF 100'000+ | CHF 4'000/quarter compliance retainer |
+| FINMA fintech licence | CHF 30'000-80'000 (advisory) | CHF 300'000 | Ongoing supervision fees |
+| FINMA asset manager licence | CHF 50'000-130'000 (advisory) | CHF 100'000-1.5M | Annual FINMA fees + audit |
+| Full banking licence | CHF 500'000-2'000'000 (advisory) | CHF 10'000'000+ | Extensive ongoing supervision |
+| Cantonal restaurant licence | CHF 100-500 | N/A | Annual renewal |
+
+The accounting costs in the right column reflect the minimum annual compliance overhead for maintaining the company itself (annual statements + tax filing), separate from any licence-specific fees.
+
+---
+
 ## The Two-Tier Licensing System in Switzerland
 
 Swiss business regulation operates on two levels.
@@ -63,7 +98,7 @@ The practical implication: before you incorporate or before you launch a new pro
 
 ## Activities That Require No Specific Licence
 
-Most ordinary commercial activity in Switzerland falls into this category. You register your [GmbH](/company-formation/gmbh-formation-switzerland/) or [AG](/company-formation/ag-formation-switzerland/) in the Commercial Register, obtain a UID (business identification number) automatically, register for [VAT](/tax-accounting/vat-switzerland/) once turnover exceeds CHF 100,000 per year, and you are operational.
+Most ordinary commercial activity in Switzerland falls into this category. You register your [GmbH](/company-formation/gmbh-formation-switzerland/) or [AG](/company-formation/ag-formation-switzerland/) in the Commercial Register, obtain a UID (business identification number) automatically, register for [VAT](/tax-accounting/vat-switzerland/) once turnover exceeds CHF 100'000 per year, and you are operational.
 
 Activities that require no industry-specific licence beyond Commercial Register registration and VAT include:
 
@@ -88,13 +123,13 @@ Financial services is where Swiss licensing law is most demanding and most conse
 
 **Banking licence (BankG — Banking Act):** Required for any entity that accepts deposits from the public on a professional basis. Minimum paid-in capital is CHF 10 million (CHF 20'000'000 in practice for new entrants); total capital requirements under Basel III are substantially higher. Obtaining a full banking licence typically takes 12-24 months from application submission. A turnkey licensed financial intermediary — an existing entity with a licence already in place — can cost CHF 480'000 or more to acquire. Building a licence from scratch, including company formation and the licensing process itself, runs to CHF 80'000–130'000 over three to six months. For more detail, see our guide to [FINMA licensing in Switzerland](/licensing/finma-licensing-switzerland/).
 
-**Asset manager / securities firm licence (FinIA — Financial Institutions Act):** Any person or entity managing assets on behalf of clients on a professional basis must be authorised by FINMA as an asset manager (Vermogensverwalter) or securities firm. Minimum capital for an independent asset manager is CHF 100,000 (fully paid in); for securities firms, CHF 1.5 million or higher depending on activities. Ongoing requirements include affiliation with an Ombudsman, compliance with the FinSA (Financial Services Act) conduct rules, and annual FINMA reporting.
+**Asset manager / securities firm licence (FinIA — Financial Institutions Act):** Any person or entity managing assets on behalf of clients on a professional basis must be authorised by FINMA as an asset manager (Vermogensverwalter) or securities firm. Minimum capital for an independent asset manager is CHF 100'000 (fully paid in); for securities firms, CHF 1.5 million or higher depending on activities. Ongoing requirements include affiliation with an Ombudsman, compliance with the FinSA (Financial Services Act) conduct rules, and annual FINMA reporting.
 
 **Insurance licence:** Insurers operating in Switzerland require FINMA authorisation under the Insurance Supervision Act (VAG). This covers life insurance, non-life insurance, and reinsurance activities.
 
 **Collective investment schemes / fund management:** Managing or distributing collective investment schemes requires FINMA authorisation under CISA (Collective Investment Schemes Act). Fund management companies face capital requirements of at least CHF 1 million.
 
-**Fintech licence and SRO membership:** Entities accepting public deposits up to CHF 100 million but not investing or paying interest can operate under FINMA's fintech licence — a lighter regime introduced in 2019 with a minimum capital of CHF 300,000. Below the CHF 1 million threshold for money transmission, operators must join a FINMA-recognised Self-Regulatory Organisation (SRO).
+**Fintech licence and SRO membership:** Entities accepting public deposits up to CHF 100 million but not investing or paying interest can operate under FINMA's fintech licence — a lighter regime introduced in 2019 with a minimum capital of CHF 300'000. Below the CHF 1 million threshold for money transmission, operators must join a FINMA-recognised Self-Regulatory Organisation (SRO).
 
 SRO membership is not a formality. Application assistance alone typically costs CHF 10'000 as a fixed retainer, with total legal costs reaching CHF 25'000 or more if the SRO raises additional requests during the review process. VQF (Verein zur Qualitaetssicherung von Finanzdienstleistungen), one of the largest SROs, can raise unpredictable supplementary requirements. Critically, an audit is conducted three months after licence grant — if the appointed director or AML compliance officer is found to be incompetent at that stage, the licence can be revoked.
 
@@ -181,7 +216,7 @@ Healthcare licensing in Switzerland operates on both levels simultaneously.
 
 ## A Note on Data Protection
 
-Switzerland's revised Federal Act on Data Protection (nDSG) entered into force on 1 September 2023. There is no licence or registration requirement — but compliance is mandatory for any company processing personal data of Swiss residents. The nDSG largely aligns with EU GDPR in substance while maintaining Swiss procedural specifics. Non-compliance carries fines of up to CHF 250,000 imposed on responsible individuals.
+Switzerland's revised Federal Act on Data Protection (nDSG) entered into force on 1 September 2023. There is no licence or registration requirement — but compliance is mandatory for any company processing personal data of Swiss residents. The nDSG largely aligns with EU GDPR in substance while maintaining Swiss procedural specifics. Non-compliance carries fines of up to CHF 250'000 imposed on responsible individuals.
 
 ---
 
@@ -201,7 +236,7 @@ In many sectors, yes — cross-border services can be provided to Swiss clients 
 
 **What is the most expensive Swiss business licence to obtain?**
 
-A full banking licence under the Banking Act (BankG) is the most costly. Minimum paid-in capital is CHF 10 million, with Basel III requirements substantially higher in practice. The application process alone — including legal, compliance, and consultancy fees — typically costs CHF 500,000 to CHF 2 million before FINMA approves operations.
+A full banking licence under the Banking Act (BankG) is the most costly. Minimum paid-in capital is CHF 10 million, with Basel III requirements substantially higher in practice. The application process alone — including legal, compliance, and consultancy fees — typically costs CHF 500'000 to CHF 2 million before FINMA approves operations.
 
 **Do Swiss cantons charge different fees for business licences?**
 
@@ -209,11 +244,11 @@ Yes. Cantonal and communal licence fees vary meaningfully. A restaurant licence 
 
 **Is a data protection registration required in Switzerland?**
 
-No. Switzerland's revised Federal Act on Data Protection (nDSG), in force since 1 September 2023, imposes no licence or registration requirement. However, compliance is mandatory for any company processing personal data of Swiss residents, with fines of up to CHF 250,000 for non-compliance.
+No. Switzerland's revised Federal Act on Data Protection (nDSG), in force since 1 September 2023, imposes no licence or registration requirement. However, compliance is mandatory for any company processing personal data of Swiss residents, with fines of up to CHF 250'000 for non-compliance.
 
 **What licence does a fintech company need in Switzerland?**
 
-Fintech companies accepting public deposits up to CHF 100 million without investing or paying interest can operate under FINMA's fintech licence, introduced in 2019, with minimum capital of CHF 300,000. Below the CHF 1 million threshold for money transmission, operators must join a FINMA-recognised Self-Regulatory Organisation (SRO).
+Fintech companies accepting public deposits up to CHF 100 million without investing or paying interest can operate under FINMA's fintech licence, introduced in 2019, with minimum capital of CHF 300'000. Below the CHF 1 million threshold for money transmission, operators must join a FINMA-recognised Self-Regulatory Organisation (SRO).
 
 **Do I need a licence to sell alcohol in Switzerland?**
 
@@ -221,7 +256,7 @@ Yes. Retail sale of spirits requires a separate cantonal alcohol permit in most 
 
 **Can I start a consulting business in Switzerland without a licence?**
 
-Yes. Management consulting, IT services, software development, marketing agencies, and most advisory services require no industry-specific licence. You register your company in the Commercial Register, obtain a UID automatically, register for VAT once turnover exceeds CHF 100,000, and you are operational.
+Yes. Management consulting, IT services, software development, marketing agencies, and most advisory services require no industry-specific licence. You register your company in the Commercial Register, obtain a UID automatically, register for VAT once turnover exceeds CHF 100'000' and you are operational.
 
 **What happens if I operate without a required Swiss licence?**
 
