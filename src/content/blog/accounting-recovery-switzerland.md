@@ -26,6 +26,27 @@ tocItems:
     title: "The Liquidation Path"
   - id: "request-a-free-assessment"
     title: "Request a Free Assessment"
+faqItems:
+  - question: "How much does accounting recovery cost for a dormant company?"
+    answer: "For a dormant company with 1-3 years of missing accounts and clean bank records, total costs run CHF 3'000 to CHF 10'000. Each missed year costs CHF 2'500-4'000 to reconstruct — roughly three times the CHF 1'400 annual maintenance cost."
+  - question: "Can the tax authority reject my reconstructed accounts?"
+    answer: "Properly prepared reconstructions using bank statements as the primary source are generally accepted. The authority's alternative — arbitrary estimated assessments — creates more work for both sides. Well-documented submissions resolve open years without penalties beyond accrued interest."
+  - question: "What if I have lost all company records?"
+    answer: "Bank statements are recoverable from most Swiss banks going back 5-10 years. Counterparties can supply invoice copies. Prior-year tax correspondence may be on file with the cantonal authority. A complete absence of source data is extremely rare."
+  - question: "Can I liquidate the company without filing back taxes?"
+    answer: "No. The cantonal tax authority must issue a tax clearance certificate before the Commercial Register will deregister your company. That clearance requires filed accounts and settled tax for every open year. There is no procedural workaround."
+  - question: "How long does the entire recovery process take?"
+    answer: "Allow 1-3 months per year of missing accounts. A company with clean bank records and modest transaction volume reconstructs faster. Engaging early reduces accumulated interest at 3% per annum on outstanding tax."
+  - question: "What happens to unpaid AHV contributions during recovery?"
+    answer: "The AHV compensation office charges 5% annual interest on late contributions. The employer bears both employer and employee shares where contributions were not withheld. Directors can face personal liability for unpaid AHV under social insurance law."
+  - question: "What if the bank has already blocked our company account?"
+    answer: "Banks that receive reconstructed annual accounts showing the company's current financial position will in most cases restore access. There is no shortcut — the bank needs properly prepared accounts before it will act."
+  - question: "Is the recovery process different for VAT-registered companies?"
+    answer: "Yes. VAT-registered companies must reconstruct quarterly or semi-annual returns for each missing period. Three years of gaps means up to 12 missing VAT returns, each filed individually with the ESTV. Outstanding VAT must be settled before the account is current."
+  - question: "Can I do the accounting recovery myself without a fiduciary?"
+    answer: "There is no legal requirement to use a professional. In practice, multi-year reconstruction involving Swiss GAAP standards, coordinated tax filings, and AHV reconciliation is complex work. Inconsistent balance sheets will be rejected by the tax authority and require rework."
+  - question: "What are the tax penalties for years of missing accounts?"
+    answer: "Swiss cantons do not impose fixed fines for late filing, but they issue estimated assessments — typically 200-400% above actual liability — with interest accruing at approximately 3% per annum. Voluntary filing before the authority raises the matter is treated more favourably."
 ---
 
 

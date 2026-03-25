@@ -19,6 +19,27 @@ tocItems:
     title: "Typical Timelines"
   - id: "request-a-free-assessment"
     title: "Request a Free Assessment"
+faqItems:
+  - question: "How much does due diligence cost for a Swiss SME acquisition?"
+    answer: "Legal and financial due diligence for a Swiss SME typically costs CHF 25'000-80'000, depending on the target's complexity. Specialist advisory rates are CHF 350-550 per hour. A standard retainer for a mid-market transaction ranges from CHF 10'000 to CHF 25'000. Tax due diligence adds CHF 10'000-30'000 if there are open assessments or cross-border issues."
+  - question: "How long does due diligence take for a Swiss company acquisition?"
+    answer: "A standard SME due diligence takes 4-8 weeks from data room access to final report. Regulated targets (financial services, pharma) or targets with cross-border operations take 8-12 weeks. The timeline depends heavily on how quickly the seller populates the data room — incomplete data rooms are the single most common cause of delay."
+  - question: "What are the most common red flags in Swiss due diligence?"
+    answer: "Unpaid AHV social insurance contributions (retroactive claims go back five years), undisclosed Betreibung entries in the debt enforcement register, open cantonal tax assessments, misclassified independent contractors, and lease agreements with unfavourable change-of-control clauses. BVG pension fund underfunding is another recurring issue, particularly in older industrial targets."
+  - question: "Can I skip due diligence on a small Swiss company purchase?"
+    answer: "Technically yes, but Swiss courts apply a modified caveat emptor principle: risks that were discoverable during reasonable due diligence reduce warranty recovery later. If you skip due diligence and discover undisclosed AHV liabilities or tax assessments post-closing, your warranty claims under the SPA will be weakened or denied entirely."
+  - question: "What is a Betreibungsregister search and why is it critical?"
+    answer: "A Betreibungsregister (debt enforcement register) extract reveals all debt collection proceedings initiated against the company or its directors. A pattern of Betreibungen signals cash flow problems or contractual disputes. The search costs CHF 17-22 per extract and takes 1-3 business days. It is one of the cheapest and most informative due diligence steps available."
+  - question: "How do I handle Swiss data protection rules during due diligence?"
+    answer: "Employee personal data, customer data, and health records require careful handling under the revised Swiss Federal Act on Data Protection (nDSG). Use a controlled data room with access logging. Redact personal identifiers where possible. The seller should obtain consent or rely on legitimate interest justifications before disclosing employee data. Non-compliance carries fines up to CHF 250'000 for individuals."
+  - question: "What tax risks are specific to Swiss targets?"
+    answer: "Open tax assessments (Veranlagungen) from the last 3-5 years, unresolved transfer pricing adjustments, hidden dividend distributions (verdeckte Gewinnausschüttungen) triggering 35% withholding tax, and incorrectly claimed tax loss carry-forwards (limited to seven years in Switzerland). VAT errors in input tax recovery and cross-border service treatment are also common."
+  - question: "Should I conduct due diligence on the seller as well as the target company?"
+    answer: "Yes. In share deals, the seller's authority to sell, any pledges on the shares, shareholder agreements with pre-emption rights, and the seller's own tax position (capital gains treatment) all affect deal execution. A seller who is a company in financial difficulty may not be able to honour warranty claims post-closing."
+  - question: "What is a vendor due diligence report and should I trust it?"
+    answer: "A vendor due diligence (VDD) report is commissioned by the seller to accelerate the sales process. It covers the same topics but from the seller's perspective. You should review it critically — VDD reports tend to present findings favourably. Buyers typically commission their own confirmatory due diligence, which costs less (CHF 10'000-20'000) if a VDD report is available."
+  - question: "How do I check if a Swiss company has undisclosed pension liabilities?"
+    answer: "Request the latest BVG pension fund annual report and actuarial valuation. Check the funding ratio — anything below 100% indicates underfunding that the employer may need to cover through restructuring contributions. Swiss BVG funds have legal mechanisms to impose supplementary contributions on affiliated employers. This is a balance sheet item sellers routinely understate."
 ---
 
 

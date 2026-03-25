@@ -38,6 +38,27 @@ tocItems:
     title: "FAQ: Employment Law Switzerland"
   - id: "how-lawsupport-can-help"
     title: "How Lawsupport Can Help"
+faqItems:
+  - question: "What are the statutory notice periods for terminating an employee in Switzerland?"
+    answer: "During probation (first 1-3 months): 7 days' notice with no end-of-month requirement. After probation: 1 month in year 1, 2 months in years 2-9, and 3 months from year 10 onwards (Art. 335c OR). Notice must be given for the end of a calendar month. Longer periods can be agreed contractually."
+  - question: "What constitutes wrongful dismissal under Swiss law?"
+    answer: "Swiss law permits termination without cause, but dismissal is 'abusive' (missbräuchlich) under Art. 336 OR if motivated by discrimination, retaliation for exercising legal rights, union membership, or to prevent vesting of benefits. Compensation for abusive dismissal is capped at 6 months' salary — but the employee remains dismissed. Reinstatement is not available."
+  - question: "How much does it cost an employer to dismiss an employee in Switzerland?"
+    answer: "There is no statutory severance in Switzerland. Costs are limited to salary during the notice period (1-3 months) plus any accrued but untaken holiday. If dismissal is found abusive, compensation of up to 6 months' salary may be awarded. Employees aged 50+ with 20+ years of service may be entitled to a departure allowance under Art. 339d OR."
+  - question: "What social insurance contributions must a Swiss employer pay?"
+    answer: "AHV/IV/EO: 5.3% of gross salary. ALV: 1.1% up to CHF 148'200. FAK: 1.5-3.5% (cantonal). Accident insurance (UVG): 0.5-1.5% for occupational coverage. BVG pension: 3.5-9% (age-dependent). Total employer burden is approximately 15-20% above gross salary. These are non-negotiable statutory obligations."
+  - question: "Can I terminate an employee during illness in Switzerland?"
+    answer: "You can give notice, but the notice period is suspended during protected periods: 30 days in year 1 of employment, 90 days in years 2-5, and 180 days from year 6 onwards (Art. 336c OR). The notice period resumes only after the protected period expires. Termination given during a protected period is void and must be re-issued."
+  - question: "What are the maximum working hours under Swiss law?"
+    answer: "45 hours per week for industrial, office, technical, and retail employees. 50 hours per week for all other employees (Art. 9 ArG). Overtime above these limits must be compensated at 125% of the normal hourly rate or with equivalent time off. Annual overtime is capped at 170 hours (45-hour employees) or 140 hours (50-hour employees)."
+  - question: "Do collective labour agreements (GAV) override my employment contracts?"
+    answer: "Yes, if the GAV is declared generally binding (allgemeinverbindlich) for your industry. A binding GAV sets minimum standards for wages, working hours, holiday, and other conditions that cannot be undercut by individual employment contracts. Non-compliance triggers back-payment obligations and union audit rights. Check the SECO register for applicable GAVs."
+  - question: "What work permit do I need for a foreign employee in Switzerland?"
+    answer: "EU/EFTA nationals: B permit (employed, 5-year validity) issued within 2-4 weeks. Non-EU/EFTA nationals: require a labour market test proving no suitable Swiss or EU candidate is available, followed by cantonal and federal approval — taking 2-4 months. The employer must demonstrate the position requires specialist skills not available locally."
+  - question: "Is there a minimum wage in Switzerland?"
+    answer: "There is no federal minimum wage. Some cantons have introduced cantonal minimum wages: Geneva (CHF 24.32/hour), Neuchatel (CHF 21.09/hour), Jura (CHF 21.00/hour), Basel-Stadt (CHF 21.00/hour), and Ticino (variable). Some GAVs also set industry-specific minimum wages. In cantons without a minimum wage, the market sets rates."
+  - question: "What happens if I misclassify a contractor as self-employed?"
+    answer: "AHV compensation offices can reclassify the relationship as employment and demand retroactive employer contributions for up to five years, plus 5% interest per annum. The reclassified 'employee' gains entitlement to holiday pay, notice periods, accident insurance, and BVG pension contributions. Total retroactive exposure for a single misclassified contractor earning CHF 150'000 can reach CHF 60'000-80'000."
 ---
 
 

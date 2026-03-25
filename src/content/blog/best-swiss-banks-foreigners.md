@@ -20,6 +20,27 @@ tocItems:
     title: "Warning Signs That an Application Will Be Rejected"
   - id: "how-lawsupport-approaches-bank-selection"
     title: "How Lawsupport Approaches Bank Selection"
+faqItems:
+  - question: "What if the bank rejects our company's account application?"
+    answer: "Rejection is common, especially at PostFinance and UBS without a prior relationship. Apply to at least two banks simultaneously. A Swiss-resident signatory with existing Swiss banking history and a real office address (not c/o) significantly improves approval rates."
+  - question: "Does UBS really require CHF 500'000 minimum to open a corporate account?"
+    answer: "For new non-resident clients without an existing relationship, UBS typically expects CHF 500'000+ in assets under management. Timeline: 8-12 weeks. For smaller companies, cantonal banks like Zuger Kantonalbank are more accessible with lower thresholds."
+  - question: "Can a foreign-owned company open a Swiss bank account remotely?"
+    answer: "Most Swiss banks require at least one in-person meeting for KYC verification. Relio AG offers same-day digital onboarding at CHF 249/month but does not accept US-nexus clients. Traditional banks typically require physical presence of all beneficial owners."
+  - question: "How long does the bank account opening process take?"
+    answer: "Cantonal banks: 4-6 weeks. UBS: 8-12 weeks. Relio: same day. PostFinance: 3-4 weeks but high rejection rate. The bank account is consistently the longest step in company formation — longer than the Commercial Register itself."
+  - question: "Will Swiss banks accept clients from high-risk countries?"
+    answer: "It depends on the bank and the specific country. Most cantonal banks and UBS conduct enhanced due diligence for non-EU/EFTA ownership. US persons face particular difficulty as most cantonal banks lack FATCA infrastructure. Expect longer timelines and additional documentation."
+  - question: "What documents do Swiss banks require for a corporate account?"
+    answer: "Standard requirements: Commercial Register extract, articles of association, Form A (beneficial owner declaration), passports for all UBOs, source of funds documentation, and a business description. Some banks also require business plans and director CVs."
+  - question: "Is PostFinance a good option for a new Swiss company?"
+    answer: "PostFinance has a very high rejection rate for foreign-controlled structures. It requires full business plans, CVs, employment contracts, and detailed transaction descriptions. Companies with brand-sensitive names or unusual business models are routinely declined."
+  - question: "What is the cheapest Swiss bank account for a startup?"
+    answer: "Relio AG at CHF 249/month is the fastest and most accessible digital option. Cantonal banks charge lower monthly fees but require more documentation. For a dormant holding company, Zuger Kantonalbank offers straightforward onboarding without UBS-level minimum thresholds."
+  - question: "Can we use a personal bank account for company transactions?"
+    answer: "Strongly discouraged. Routing payments through a shareholder's personal account raises red flags with regulators and the cantonal tax authority. Banks and tax offices view companies without dedicated accounts as lacking operational independence and substance."
+  - question: "What happens if our capital deposit account bank refuses to convert to a permanent account?"
+    answer: "Approximately 80% of capital deposit account relationships convert to permanent corporate accounts. If the bank refuses, you must open at a different bank. The capital is released once the Commercial Register confirms incorporation, regardless of the ongoing banking relationship."
 ---
 
 <!-- schema:Article

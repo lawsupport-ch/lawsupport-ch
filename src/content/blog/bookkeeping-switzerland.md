@@ -40,6 +40,27 @@ tocItems:
     title: "Outsourcing Bookkeeping in Switzerland: What It Costs"
   - id: "lawsupports-bookkeeping-service"
     title: "Lawsupport's Bookkeeping Service"
+faqItems:
+  - question: "Do I need double-entry bookkeeping for a GmbH with minimal activity?"
+    answer: "Yes. All AG and GmbH must use double-entry bookkeeping under Art. 957 OR, regardless of size or activity level. Only sole traders and partnerships below CHF 500'000 annual revenue qualify for simplified bookkeeping."
+  - question: "How long must we retain bookkeeping records in Switzerland?"
+    answer: "10 years from the end of the financial year under Art. 958f OR. This applies to paper and electronic records equally. The ESTV can demand production at any time within this window. Gaps in records are typically resolved in the authority's favour."
+  - question: "Is Bexio sufficient for Swiss bookkeeping compliance?"
+    answer: "Bexio (CHF 35-83/month) is the standard software for Swiss SME bookkeeping and meets all legal requirements. Ensure your VAT coding is correct — this is where most self-prepared accounts fail. Year-end work still needs a qualified accountant or fiduciary."
+  - question: "What chart of accounts should a Swiss company use?"
+    answer: "The Swiss standard is the Kontenrahmen KMU, which structures accounts into assets, liabilities, equity, revenue, and expenses using a standardised numbering system. Most Swiss accounting software including Bexio uses this framework by default."
+  - question: "Can we keep our books in English instead of German?"
+    answer: "Yes. Swiss law does not mandate a specific language for bookkeeping. However, the tax return and correspondence with cantonal authorities must be in the official language of the canton (German, French, or Italian). Books can be in any language."
+  - question: "What are the five most common bookkeeping errors that trigger tax reviews?"
+    answer: "Skipping filings for dormant companies, crossing the CHF 100'000 VAT threshold without registering, running without a dedicated bank account, ignoring intercompany pricing (triggers 35% withholding tax), and letting the accounting backlog grow beyond one year."
+  - question: "At what point should we switch from outsourced to in-house bookkeeping?"
+    answer: "The break-even is roughly 500-800 transactions per year. Below that, outsourcing at CHF 3'800/year (up to 100 transactions) is cheaper. Above that, a part-time bookkeeper at CHF 25'000-35'000/year plus software may be more cost-effective."
+  - question: "What penalties apply for non-compliant bookkeeping in Switzerland?"
+    answer: "Failure to maintain proper books can constitute a criminal offence. Directors face personal liability for resulting tax shortfalls. Cantonal authorities issue estimated assessments with 3% annual interest. VAT-related bookkeeping failures carry fines up to CHF 20'000 per infringement."
+  - question: "Can we use foreign accounting software for a Swiss company?"
+    answer: "Yes, provided it supports double-entry bookkeeping and can produce a balance sheet and income statement meeting Art. 959a OR requirements. However, Swiss VAT coding, the KMU chart of accounts, and local payroll reporting are easier with Swiss-specific software like Bexio."
+  - question: "What is the difference between tax accounts and commercial accounts in Switzerland?"
+    answer: "Under the Massgeblichkeitsprinzip, the commercial profit is the starting point for tax. There are no separate tax accounts. The commercial result is adjusted for specific tax add-backs and deductions — accelerated depreciation, non-deductible provisions, participation exemptions — to arrive at taxable income."
 ---
 
 <!-- SCHEMA: Article -->

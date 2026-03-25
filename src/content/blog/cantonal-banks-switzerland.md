@@ -16,6 +16,27 @@ tocItems:
     title: "Opening a Corporate Account at a Cantonal Bank"
   - id: "cantonal-banks-vs-private-banks"
     title: "Cantonal Banks vs. Private Banks"
+faqItems:
+  - question: "Which cantonal bank is best for a foreign-owned company in Zug?"
+    answer: "Zuger Kantonalbank is the natural first choice. Unlike UBS (CHF 500'000+ minimum), Zuger Kantonalbank operates with lower thresholds and processes international corporate applications in 4-6 weeks. It has extensive experience with foreign shareholders and holding structures."
+  - question: "Do cantonal banks accept companies with US beneficial owners?"
+    answer: "Rarely. Nearly all cantonal banks lack FATCA infrastructure and will decline companies with US beneficial owners. UBS accepts US persons but with longer timelines and higher asset requirements. This is a genuine structural limitation of the cantonal banking system."
+  - question: "What is the state guarantee and how safe is it?"
+    answer: "The Staatsgarantie means the cantonal government covers all depositor losses if the bank fails. Most of the 24 cantonal banks carry this unlimited guarantee, making them among the safest deposit institutions globally. ZKB and BCGE have explicit guarantees."
+  - question: "How does PostFinance compare to cantonal banks for business accounts?"
+    answer: "PostFinance has a very high rejection rate for foreign-controlled structures and demands business plans, CVs, and detailed transaction descriptions. Cantonal banks have more structured, predictable onboarding. If PostFinance rejects you, a cantonal bank is the logical next step."
+  - question: "Can I open a capital deposit account at a cantonal bank for company formation?"
+    answer: "Yes. Most cantonal banks offer a Kapitaleinzahlungskonto for depositing share capital during formation. Approximately 80% of these relationships convert to permanent corporate accounts after the Commercial Register confirms incorporation."
+  - question: "How long does corporate account opening take at a cantonal bank?"
+    answer: "4-6 weeks for a well-prepared application with clean documentation. UBS takes 8-12 weeks for comparison. Banks run all directors and UBOs through AML screening databases — a flag, even a false positive, triggers enhanced due diligence and extends the timeline."
+  - question: "Does the quality of our registered address affect banking outcomes?"
+    answer: "Yes. Companies using a c/o address rather than a direct registered address face higher scrutiny. Banks notice the difference and it affects compliance risk scoring. A real office address genuinely improves approval rates at cantonal banks."
+  - question: "Are cantonal bank deposits protected beyond the state guarantee?"
+    answer: "Yes. Beyond the cantonal Staatsgarantie, all cantonal banks participate in esisuisse, the Swiss depositor protection scheme covering up to CHF 100'000 per depositor. The double layer of protection makes cantonal banks exceptionally secure."
+  - question: "Which cantonal bank handles international structures best outside of Zug?"
+    answer: "ZKB (Zurich) for the German-speaking region and BCGE (Geneva) for the French-speaking region. Both have dedicated international client desks and experience with foreign shareholders. ZKB is the largest cantonal bank overall with wealth management capabilities."
+  - question: "Can a foreign company open an account at a cantonal bank without a Swiss entity?"
+    answer: "Generally no. Cantonal banks serve companies registered in Switzerland. A foreign company without a Swiss branch or subsidiary registration would need to first establish a Swiss legal presence — either a branch (Zweigniederlassung) or a GmbH/AG subsidiary."
 ---
 
 

@@ -32,6 +32,27 @@ tocItems:
     title: "Request a Free Assessment"
   - id: "related-pages"
     title: "Related Pages"
+faqItems:
+  - question: "How much tax would I actually save by registering in Zug instead of Zurich?"
+    answer: "On CHF 1'000'000 annual profit: approximately CHF 80'000-90'000 per year. Zug's effective rate is 11.85% versus Zurich at approximately 20%. Over ten years, the cumulative saving exceeds CHF 800'000 — on identical income, in the same country."
+  - question: "Can I register my company in Zug but operate from Zurich?"
+    answer: "Technically yes, but risky. The cantonal tax authority can challenge substance if all management and operations are in Zurich. Losing Zug's rate costs CHF 80'000+ per year on CHF 1M profit. Genuine Zug substance (office, board meetings, local decisions) costs approximately CHF 9'700/year."
+  - question: "What are the hidden costs of a low-tax canton like Zug?"
+    answer: "Registered address: CHF 2'400/year. Nominee director (if needed): CHF 5'900/year. Dormant accounting: CHF 1'400/year. Total fixed costs: approximately CHF 9'700/year. At CHF 100'000 profit the tax saving is CHF 8'000 — marginal. At CHF 500'000 profit the saving is CHF 40'000 — significant."
+  - question: "Does the commune within a canton really matter for tax?"
+    answer: "Yes, significantly. In Schwyz canton, Wollerau applies a communal multiplier roughly half that of Schwyz town, producing effective rates several percentage points lower. Commune selection is the second optimisation step after cantonal selection and is frequently overlooked."
+  - question: "What happens to my tax bill if I relocate the company between cantons?"
+    answer: "Accrued hidden reserves in the old canton may be subject to a departure tax. A company with CHF 5M in hidden reserves relocating from Zurich to Zug may face a one-time assessment. Model the costs and obtain advance tax rulings in both cantons before moving."
+  - question: "Which canton is best for a holding company with large equity?"
+    answer: "Zug. Capital tax is approximately 0.075% of equity versus 0.172% in Zurich. On CHF 10'000'000 in equity, Zug's capital tax is CHF 7'500/year versus CHF 17'200 in Zurich. Combined with the 11.85% CIT rate and participation exemption, Zug is consistently optimal for holdings."
+  - question: "Are there special tax regimes for IP-heavy or R&D companies?"
+    answer: "Yes. Patent box: up to 90% reduction on qualifying IP income. R&D super-deduction: 150% on qualifying research costs. Notional interest deduction in Zurich and Berne. Step-up relief for companies relocating to Switzerland. All OECD-compliant under the 2020 STAF reforms."
+  - question: "How does individual income tax vary between cantons?"
+    answer: "Top marginal rates range from approximately 22% in Schwyz (Wollerau) and Zug to 44% in Geneva. For a company owner living and working in Switzerland, the combined corporate + personal extraction cost across both layers should be modelled, not just the corporate rate."
+  - question: "Is wealth tax significant in Switzerland?"
+    answer: "On CHF 5M net worth: Geneva charges approximately CHF 25'000/year versus CHF 7'500-10'000 in Zug or Schwyz. Over ten years, that gap exceeds CHF 150'000 from wealth tax alone. There is no federal wealth tax — it is entirely cantonal."
+  - question: "Which canton eliminated inheritance tax entirely?"
+    answer: "Schwyz has no inheritance or gift tax on any person — complete exemption. Lucerne abolished inheritance tax in 2005. Most cantons exempt direct descendants (children) and spouses. Rates for unrelated persons range from 5-50% depending on the canton and relationship."
 ---
 
 

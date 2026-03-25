@@ -30,6 +30,27 @@ tocItems:
     title: "Coordinating Company Formation and B Permit"
   - id: "request-a-free-assessment"
     title: "Request a Free Assessment"
+faqItems:
+  - question: "How long does the B permit application process actually take?"
+    answer: "EU/EFTA nationals: 2-4 weeks from complete filing with the cantonal migration office. Non-EU nationals: 2-4 months due to federal quota approval via SEM. Zug and Zurich process faster than rural cantons. Summer filings tend to process more quickly."
+  - question: "Can I start working before the B permit is issued?"
+    answer: "EU/EFTA nationals may begin work upon filing the application if the employer has confirmed the position. Non-EU nationals generally cannot work until the permit is issued. Working without a valid permit exposes both employer and employee to fines."
+  - question: "What if my B permit application is rejected?"
+    answer: "Rejections can be appealed to the cantonal administrative court within 30 days. Common rejection reasons for non-EU applicants: insufficient proof of economic benefit, salary below cantonal benchmarks, or failure to demonstrate that no Swiss or EU candidate was available."
+  - question: "Can I change employers while on a B permit?"
+    answer: "EU/EFTA nationals can change employers freely — the B permit is not tied to a specific employer. Non-EU nationals must apply for a new work permit with the new employer, and the cantonal authority must approve the change before starting work."
+  - question: "How much does the B permit process cost all-in?"
+    answer: "Cantonal fees: CHF 100-300. Federal fee: CHF 90 for non-EU. Professional legal support (retainer): from CHF 3'500. Hourly rates: CHF 150-450 depending on complexity. Total all-in with professional assistance: CHF 4'000-8'000 for a straightforward case."
+  - question: "Can I bring my family on a B permit?"
+    answer: "Yes. B permit holders can apply for family reunification for spouse and children under 18. EU/EFTA family members receive their own B permits. Non-EU family members require separate applications and may face additional documentation requirements."
+  - question: "What happens if I lose my job while holding a B permit?"
+    answer: "EU/EFTA nationals retain the B permit for 6 months after involuntary job loss and can seek new employment. Non-EU nationals have a shorter window — typically 3 months — and the cantonal authority may revoke the permit if no new employment is found."
+  - question: "How long until I can apply for a C permit (permanent residence)?"
+    answer: "EU/EFTA nationals: after 5 years of continuous residence (reduced to 3 years for some nationalities with bilateral agreements). Non-EU nationals: after 10 years, reduced to 5 years for nationals of certain countries. Good integration and language skills are required."
+  - question: "Does the B permit restrict which canton I can live in?"
+    answer: "Yes. The B permit is issued by one canton and you must reside in that canton. Moving to a different canton requires notifying both cantonal migration offices and re-registering. The new canton issues a fresh B permit."
+  - question: "Can I be self-employed on a B permit?"
+    answer: "EU/EFTA nationals can obtain a B permit for self-employment if they demonstrate a viable business plan and sufficient financial means. Non-EU nationals face stricter requirements: the self-employment must create economic benefit for Switzerland and typically requires a detailed business plan with financial projections."
 ---
 
 

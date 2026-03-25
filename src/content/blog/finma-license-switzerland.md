@@ -26,6 +26,27 @@ tocItems:
     title: "Application Process"
   - id: "get-expert-advice-on-your-finma-licence-application"
     title: "Get Expert Advice on Your FINMA Licence Application"
+faqItems:
+  - question: "How much does a FINMA banking licence actually cost to obtain?"
+    answer: "FINMA application fees range from CHF 10'000 to CHF 100'000 depending on complexity. Legal and advisory costs for the application process typically run CHF 500'000-2'000'000. Minimum capital is CHF 10 million by statute, but FINMA expects at least CHF 20 million for a niche bank. Total upfront investment including staff hiring is CHF 25-35 million."
+  - question: "How long does the FINMA licensing process take?"
+    answer: "A full banking licence takes 12-24 months. Securities firm licences under FinIA take 6-12 months. Asset manager registration under FinIA takes 3-6 months. SRO membership for AML compliance takes 2-5 months. The timeline depends heavily on the completeness of the application — FINMA returns incomplete submissions without review."
+  - question: "Can I operate a crypto exchange in Switzerland without a FINMA licence?"
+    answer: "It depends on the activity. Crypto-to-crypto exchanges may operate under SRO membership for AML compliance (CHF 10'000 annual fee) without a full FINMA licence. Crypto-to-fiat exchanges handling client deposits may require a FinTech licence or banking licence. FINMA classifies based on economic function, not technology. Get a regulatory assessment before launch."
+  - question: "What is the difference between SRO membership and a full FINMA licence?"
+    answer: "SRO membership covers Anti-Money Laundering (AML) compliance only and costs approximately CHF 10'000 per year. It does not authorise deposit-taking, lending, or asset management. A full FINMA licence authorises regulated financial activities but requires CHF 80'000-130'000 in application and advisory costs, plus substantial minimum capital. Most crypto and fintech startups begin with SRO membership."
+  - question: "Do I need Swiss-resident directors for a FINMA-regulated entity?"
+    answer: "Yes. FINMA requires at least two directors domiciled in Switzerland or accessible to FINMA. For banking licences, senior management (CEO, CFO, CRO, Head of Compliance) must generally be Swiss-resident. FINMA conducts personal interviews and fit-and-proper assessments for all key persons. Non-resident governance structures will be rejected."
+  - question: "What minimum capital is required for an asset manager licence under FinIA?"
+    answer: "Asset managers of individual portfolios need CHF 100'000 minimum capital. Asset managers of collective investment schemes need CHF 200'000, increasing to CHF 500'000 for larger operations. The capital must be maintained at all times — falling below the threshold triggers FINMA reporting obligations and potential licence suspension."
+  - question: "Can a foreign company obtain a FINMA licence without incorporating in Switzerland?"
+    answer: "No. FINMA licences are issued only to entities with a registered Swiss domicile. A foreign company must either incorporate a Swiss subsidiary (typically an AG) or establish a Swiss branch that meets all organisational requirements. The Swiss entity must have genuine substance — office space, staff, and decision-making authority in Switzerland."
+  - question: "What is the FinTech licence and when is it appropriate?"
+    answer: "The FinTech licence under Art. 1b BankG allows acceptance of public deposits up to CHF 100 million, provided the deposits are not invested or interest-bearing. It requires CHF 300'000 minimum capital — far less than a full banking licence. It suits payment service providers, crowdfunding platforms, and fintech businesses that handle client funds without traditional banking activities."
+  - question: "How does FINMA classify crypto tokens for licensing purposes?"
+    answer: "FINMA uses three categories: payment tokens (cryptocurrencies — subject to AML rules), utility tokens (access to a service — may not require licensing if no investment element), and asset tokens (securities — subject to securities regulation). Hybrid tokens are classified based on their predominant function. FINMA published its ICO guidelines in 2018, updated for DLT in 2021."
+  - question: "What ongoing compliance costs should I budget for after obtaining a FINMA licence?"
+    answer: "Annual FINMA supervisory fees range from CHF 5'000 (SRO members) to CHF 500'000+ (banks). Mandatory external audit costs CHF 30'000-200'000 per year depending on licence type. Compliance staff (Head of Compliance, AML officer) cost CHF 150'000-250'000 each in salary. Total annual compliance overhead for a small licensed entity is CHF 300'000-600'000."
 ---
 
 

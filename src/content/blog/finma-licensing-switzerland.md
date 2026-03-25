@@ -26,6 +26,27 @@ tocItems:
     title: "Crypto Valley and Switzerland's Competitive Advantage"
   - id: "work-with-lawsupport-on-your-finma-application"
     title: "Work With Lawsupport on Your FINMA Application"
+faqItems:
+  - question: "What is the fastest FINMA licensing pathway for a crypto startup?"
+    answer: "SRO membership for AML compliance is the fastest route — typically 2-5 months. Annual fees are approximately CHF 10'000. This covers crypto-to-crypto trading, wallet services, and token issuance where no deposit-taking or securities dealing occurs. If your business model requires holding client fiat funds, you need a FinTech licence (3-6 months, CHF 300'000 capital)."
+  - question: "How much capital do I need for a Swiss banking licence?"
+    answer: "The statutory minimum is CHF 10 million, but FINMA expects CHF 20 million or more for a niche bank. Systemically important institutions need significantly more. You must also hire compliance officers, risk managers, IT staff, and front-office personnel before FINMA grants authorisation — adding CHF 1-3 million in pre-launch staffing costs."
+  - question: "Can I start operating while my FINMA application is being processed?"
+    answer: "No. Operating regulated financial services without FINMA authorisation is a criminal offence under Swiss law. You cannot accept deposits, manage assets, or deal in securities until the licence is formally granted. The only exception is certain AML-regulated activities where SRO membership is sufficient and has been obtained."
+  - question: "What happens if FINMA rejects my licence application?"
+    answer: "FINMA issues a formal refusal decision that can be appealed to the Federal Administrative Court within 30 days. Common rejection reasons include insufficient capital, inadequate governance, failed fit-and-proper assessments of key persons, or an unviable business plan. Reapplication is possible after addressing the deficiencies, but the process restarts from the beginning."
+  - question: "How does the FinIA asset manager licence differ from FINMA's previous regime?"
+    answer: "Before FinIA (effective 1 January 2020), independent asset managers were regulated only under AML rules through SRO membership. FinIA introduced mandatory FINMA licensing for all asset managers, with a transition period that ended on 31 December 2022. Asset managers now need CHF 100'000 minimum capital, must affiliate with a supervisory organisation (SO), and are subject to prudential supervision."
+  - question: "What is the cost breakdown for a securities firm licence under FinIA?"
+    answer: "FINMA application fees: CHF 20'000-50'000. Legal and advisory fees for the application: CHF 80'000-130'000. Minimum capital: CHF 1.5 million for a securities firm conducting proprietary trading. Annual FINMA supervisory fees: CHF 20'000-100'000. Annual audit costs: CHF 50'000-150'000. Total first-year cost including capital: approximately CHF 1.8-2.0 million."
+  - question: "Does Switzerland's crypto-friendly reputation actually translate to easier licensing?"
+    answer: "Switzerland offers regulatory clarity, not regulatory leniency. FINMA's technology-neutral approach means crypto businesses are assessed on their economic function — a crypto exchange handling fiat operates like a bank and needs equivalent licensing. The advantage is predictability: FINMA publishes clear guidelines, and Zug's Crypto Valley ecosystem provides experienced legal and compliance advisors."
+  - question: "What is the role of a supervisory organisation (SO) under FinIA?"
+    answer: "Supervisory organisations are FINMA-authorised bodies that supervise asset managers and trustees on FINMA's behalf. Asset managers must affiliate with an SO as a condition of their FinIA licence. The SO conducts periodic audits, monitors compliance, and reports to FINMA. Annual SO fees are CHF 3'000-15'000 depending on the SO and the firm's size."
+  - question: "Can I transfer an existing FINMA licence to a new legal entity?"
+    answer: "FINMA licences are entity-specific and cannot be transferred. If you restructure (merger, demerger, or conversion), the surviving or new entity must apply for a new licence or seek FINMA approval for the structural change. This process takes 3-6 months and FINMA may impose conditions. Plan regulatory approvals into any corporate restructuring timeline."
+  - question: "What personal requirements must directors of FINMA-licensed entities meet?"
+    answer: "Directors must pass FINMA's fit-and-proper assessment: no criminal convictions related to financial crimes, demonstrated professional competence in financial services, personal integrity, and adequate time to exercise their functions. FINMA conducts personal interviews and may request references. A director serving on too many boards may be rejected for insufficient time commitment."
 ---
 
 

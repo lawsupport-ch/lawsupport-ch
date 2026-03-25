@@ -30,6 +30,27 @@ tocItems:
     title: "Request a Free Assessment"
   - id: "faq"
     title: "FAQ"
+faqItems:
+  - question: "How much does it actually cost to buy a Swiss shelf company?"
+    answer: "A clean shelf GmbH costs from CHF 1'900 for the formation transfer. An AG starts at CHF 2'500. With a nominee director, add CHF 5'900/year. Total first-year cost for a ready-made GmbH with nominee and registered address: approximately CHF 10'000-12'000."
+  - question: "What hidden liabilities should I worry about when buying a Swiss company?"
+    answer: "Unpaid tax (cantonal and federal), outstanding AHV/social insurance contributions, pending Betreibungen, undisclosed employee claims, and environmental liabilities. Due diligence must cover tax clearance, Betreibungsregister extract, and a full review of all open obligations."
+  - question: "Can a foreigner buy a Swiss company without restrictions?"
+    answer: "Share deals in operating companies have no Lex Koller restriction. However, if the target holds Swiss real estate, the acquisition requires cantonal authorisation under Lex Koller. Lex Friedrich restrictions on foreign control were abolished in 1999."
+  - question: "How long does the acquisition process take from LOI to closing?"
+    answer: "A straightforward share purchase of a small company: 6-10 weeks. This includes LOI negotiation (1-2 weeks), due diligence (2-4 weeks), SPA drafting and negotiation (2-3 weeks), and Commercial Register filing (1-2 weeks). Complex deals with regulatory approvals take 3-6 months."
+  - question: "What stamp duty applies when transferring Swiss company shares?"
+    answer: "Federal securities transfer stamp duty of 0.15% applies on the purchase price for Swiss securities. This is paid by the securities dealer involved in the transaction. If no dealer is involved (direct private sale), no stamp duty applies. The threshold for registration as a securities dealer is CHF 10 million in securities."
+  - question: "Do I need a Swiss notary for the share purchase agreement?"
+    answer: "For GmbH shares, yes — the transfer must be notarised under Art. 785 OR. For AG shares, no notarisation is required if the shares are bearer shares or if the transfer is endorsed on registered share certificates. The notary fee for a GmbH transfer runs CHF 800-1'500."
+  - question: "What due diligence is essential before buying a Swiss company?"
+    answer: "At minimum: Betreibungsregister extract, tax clearance from the cantonal authority, AHV reconciliation, review of all contracts and employment relationships, Commercial Register history, and bank account status. For operating companies, add a full financial audit of the last 3-5 years."
+  - question: "Can I finance the acquisition with a Swiss bank loan?"
+    answer: "Swiss banks will consider acquisition financing for companies with a strong trading history and stable cash flows. Typical LTV: 50-70% of the enterprise value. The bank will require personal guarantees, a detailed business plan, and the target's audited accounts. Expect 4-8 weeks for credit approval."
+  - question: "What happens to the company's contracts and employees after acquisition?"
+    answer: "In a share deal, all contracts and employment relationships continue unchanged — the company is the same legal entity. Employment contracts transfer automatically under Art. 333 OR. Customer and supplier contracts remain in force unless they contain change-of-control clauses."
+  - question: "Is it better to buy an existing company or form a new one?"
+    answer: "Buy if you need an existing VAT number, bank account, trading history, or contracts. Form new if you want a clean structure with no historical liabilities. A new GmbH costs CHF 1'900 all-in and takes 2-3 weeks. An acquisition takes 6-10 weeks and requires due diligence costing CHF 3'000-8'000."
 ---
 
 <!--

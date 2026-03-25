@@ -40,6 +40,27 @@ tocItems:
     title: "Get Your Swiss Accounting in Order"
   - id: "request-a-free-assessment"
     title: "Request a Free Assessment"
+faqItems:
+  - question: "What is the actual corporate tax rate for a small company in Zug?"
+    answer: "The effective combined rate in Zug is approximately 11.85% (federal + cantonal + communal). On CHF 500'000 profit, that is roughly CHF 59'250 in total tax. Zurich by contrast charges approximately 20%, costing CHF 100'000 on the same profit."
+  - question: "Can I reduce my tax bill by choosing a different commune within the canton?"
+    answer: "Yes. The communal multiplier (Steuerfuss) varies significantly within each canton. In Schwyz, Wollerau applies a multiplier roughly half that of Schwyz town, producing effective rates several percentage points lower."
+  - question: "What happens if we miss the corporate tax return deadline?"
+    answer: "Corporate tax returns are due within 6 months of financial year-end. Extensions to 31 December are routinely granted. Miss the deadline without an extension and the authority issues an estimated assessment — almost always unfavourable — with interest from the original due date."
+  - question: "Do dormant companies still need to file tax returns?"
+    answer: "Yes. A dormant company with zero turnover must still file annual accounts and a corporate tax return every year. Annual cost for proper maintenance: CHF 1'400. Skip it and face estimated assessments plus 3% annual interest."
+  - question: "How does the Massgeblichkeitsprinzip affect our accounting choices?"
+    answer: "Commercial accounting choices feed directly into taxable income. A provision booked under the OR reduces taxable profit in the same period — but it must be commercially justifiable. Depreciation rates and valuation methods are not presentational; they directly affect the tax charge."
+  - question: "Is our company required to have an audit?"
+    answer: "Companies under 10 FTE can opt out of audit entirely if all shareholders consent in writing. Otherwise, a limited audit applies unless you exceed two of three thresholds: CHF 40M revenue, CHF 20M balance sheet, or 250 employees."
+  - question: "What tax advantages does Switzerland offer for IP-heavy companies?"
+    answer: "The patent box regime allows up to 90% reduction on qualifying IP income. R&D super-deduction permits 150% deduction on qualifying research costs. Both are OECD-compliant and available in most cantons including Zug."
+  - question: "How long must we keep accounting records in Switzerland?"
+    answer: "All accounting records must be retained for 10 years from the end of the financial year to which they relate, under Art. 958f OR. This applies equally to paper and electronic records. The ESTV can demand production at any time within that window."
+  - question: "What withholding tax applies to dividends from a Swiss company?"
+    answer: "Swiss withholding tax on dividends is 35%. For qualifying participations (10%+ shareholding), the participation exemption substantially reduces or eliminates this at the corporate level. Treaty rates for foreign shareholders typically range from 5-15%."
+  - question: "Can we keep our accounts in a foreign currency?"
+    answer: "Yes, if the company's primary operations are in a foreign currency. However, a Swiss franc balance sheet must be presented for statutory and tax filing purposes. Translation uses year-end rates for balance sheet items and average rates for the income statement."
 ---
 
 

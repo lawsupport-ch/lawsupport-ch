@@ -28,6 +28,27 @@ tocItems:
     title: "Decision Tree: Which Dispute Route?"
   - id: "friction-block-what-actually-goes-wrong"
     title: "Friction Block: What Actually Goes Wrong"
+faqItems:
+  - question: "How long does a SWITCH-DRP domain dispute actually take to resolve?"
+    answer: "A SWITCH-DRP proceeding administered by WIPO typically takes 2-3 months from filing to decision. If the panel orders transfer, the domain is transferred within 30 days unless the registrant files a court action. Court proceedings in Switzerland take 6-18 months and cost significantly more."
+  - question: "How much does it cost to recover a .ch domain through SWITCH-DRP?"
+    answer: "WIPO filing fees for a single-member SWITCH-DRP panel start at CHF 1'500. Including legal fees for preparing the complaint, total costs typically range from CHF 5'000 to CHF 15'000. A three-member panel costs more. Compare this to CHF 15-30 for registering the domain proactively before a dispute arises."
+  - question: "Can I recover a .com domain through the Swiss SWITCH-DRP procedure?"
+    answer: "No. SWITCH-DRP applies only to .ch and .li domains. For .com, .net, .org, and other generic TLDs, you must file a UDRP complaint through WIPO or another ICANN-approved provider. WIPO UDRP fees start at USD 1'500 for a single panellist. The process takes approximately 2-3 months."
+  - question: "What evidence do I need to prove cybersquatting in Switzerland?"
+    answer: "You must establish three elements: the domain is identical or confusingly similar to your trademark or company name; the registrant has no rights or legitimate interests in the domain; and the domain was registered or used in bad faith. Swiss trademark registrations, Commercial Register entries, and evidence of the registrant's intent to sell are the strongest proof."
+  - question: "Should I pay a cybersquatter instead of filing a dispute?"
+    answer: "Rarely. Cybersquatters typically demand CHF 5'000-50'000 for domains worth CHF 15-30 to register. A SWITCH-DRP filing costs CHF 5'000-15'000 total and takes 2-3 months. Paying the squatter also encourages repeat behaviour and does not protect you from future disputes on related domains."
+  - question: "Can domain registration bots really steal my company name from SHAB?"
+    answer: "Yes. Automated bots monitor the Swiss Official Gazette of Commerce (SHAB) for newly registered company names and register matching .ch domains within hours of publication. We have seen this happen repeatedly with clients who did not secure their domain before filing with the Commercial Register. The fix costs CHF 5'000-15'000 and takes 60-90 days."
+  - question: "What if the domain registrant is located outside Switzerland?"
+    answer: "SWITCH-DRP proceedings apply regardless of where the registrant is located — they are mandatory for all .ch domain holders. If you pursue court proceedings instead, Swiss courts have jurisdiction over .ch domains as a matter of principle, but enforcing a judgment against a foreign party adds time and cost."
+  - question: "Can I get damages in a domain dispute, or just the domain transfer?"
+    answer: "SWITCH-DRP only provides for domain transfer or cancellation — not monetary damages. If you want compensation for lost business or reputational harm, you must pursue separate court proceedings under Swiss unfair competition law (UWG) or trademark law (MSchG). Court costs start at CHF 10'000-20'000."
+  - question: "How do I protect my brand from domain disputes proactively?"
+    answer: "Register your exact-match .ch, .com, and relevant country-code domains before company formation or SHAB publication. Budget CHF 200-500 for a defensive portfolio. Monitor domain registrations matching your brand using automated watch services. This costs far less than the CHF 5'000-15'000 needed to recover a domain after the fact."
+  - question: "What is the success rate for SWITCH-DRP complaints?"
+    answer: "Complainants succeed in approximately 85% of SWITCH-DRP cases where all three required elements are properly evidenced. The most common reason for failure is insufficient proof of bad faith. Cases involving generic dictionary words used as domain names are significantly harder to win than cases involving distinctive trademarks."
 ---
 
 

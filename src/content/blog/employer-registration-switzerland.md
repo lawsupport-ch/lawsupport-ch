@@ -24,6 +24,27 @@ tocItems:
     title: "Ongoing Employer Obligations"
   - id: "request-a-free-assessment"
     title: "Request a Free Assessment"
+faqItems:
+  - question: "How long does employer registration take in Switzerland from start to finish?"
+    answer: "Allow 4-6 weeks to complete all mandatory registrations: AHV compensation office (1-2 weeks), accident insurance (1 week), BVG pension fund (2-4 weeks), and VAT if applicable (2-3 weeks). Foreign-owned companies may face additional documentation requests that extend the AHV registration to 3-4 weeks."
+  - question: "What is the total employer cost above gross salary in Switzerland?"
+    answer: "The all-in employer cost above gross salary is approximately 15-20% of payroll. This includes AHV/IV/EO at 5.3%, ALV at 1.1%, FAK at 1.5-3.5% (cantonal), accident insurance at 0.5-1.5%, and BVG pension at 3.5-9% (age-dependent). For an employee earning CHF 120'000, the employer pays CHF 18'000-24'000 per year on top of gross salary."
+  - question: "What happens if I hire an employee before completing AHV registration?"
+    answer: "You become liable for retroactive AHV contributions from the first day of employment, plus 5% annual interest on late payments. The compensation office can also impose penalty surcharges. In cases of gross negligence, personal liability for directors may apply. Register before the first employee starts — not after."
+  - question: "Do I need a BVG pension fund for a single employee?"
+    answer: "Yes, if the employee earns above the BVG entry threshold of CHF 22'680 per year (2026). You must affiliate with an approved pension fund before the employee starts. There is no exemption for small companies. Collective pension funds (Sammelstiftungen) offered by insurance companies accept even single-employee affiliations."
+  - question: "Is daily sickness benefit insurance (Krankentaggeld) legally mandatory?"
+    answer: "Strictly speaking, no — Swiss federal law does not mandate KTG insurance. However, without it, the employer must continue paying salary during illness for 3-8 weeks depending on years of service (Bern, Basel, Zurich scales). KTG insurance replaces this obligation with coverage for up to 720 days at 80% of salary. Most Swiss employers carry KTG policies as standard practice."
+  - question: "When must I register for VAT in Switzerland?"
+    answer: "VAT registration is mandatory once your company's worldwide revenue exceeds CHF 100'000 per year. You must register within 30 days of exceeding the threshold. Voluntary registration below the threshold is possible and sometimes advantageous for input tax recovery. The ESTV processes VAT registrations in 2-3 weeks."
+  - question: "Do I need source tax registration for all foreign employees?"
+    answer: "Source tax (Quellensteuer) registration is required for employees who hold B permits, L permits, or cross-border commuter permits (G permits) and do not have C permits or Swiss citizenship. You must register with the cantonal tax authority and deduct source tax monthly from their gross salary according to published tariff tables."
+  - question: "What is the AHV contribution rate for 2026?"
+    answer: "The total AHV/IV/EO contribution rate is 10.6% of gross salary, split equally between employer (5.3%) and employee (5.3%). ALV adds 2.2% up to CHF 148'200 annual salary (split equally). Above CHF 148'200, a 1% solidarity surcharge applies. Family allowances (FAK) are employer-paid and vary by canton from 1.5% to 3.5%."
+  - question: "Can I use a PEO or employer of record instead of registering myself?"
+    answer: "Yes. A Professional Employer Organisation (PEO) or Employer of Record (EOR) handles all registrations and compliance on your behalf. This costs CHF 300-800 per employee per month but eliminates the administrative burden. It is a practical solution for companies with 1-3 employees in Switzerland who do not yet justify a full local HR setup."
+  - question: "What ongoing reporting obligations do I have after registration?"
+    answer: "Monthly or quarterly AHV salary declarations to the compensation office, monthly source tax deductions for qualifying employees, annual salary certificate (Lohnausweis) for each employee by 31 January, annual BVG pension fund reporting, and quarterly VAT returns if registered. Failure to file AHV declarations on time triggers automatic penalty interest at 5%."
 ---
 
 

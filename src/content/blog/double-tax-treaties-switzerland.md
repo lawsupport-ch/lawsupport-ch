@@ -24,6 +24,27 @@ tocItems:
     title: "Tiebreaker Rules for Dual Residents"
   - id: "how-lawsupport-advises-on-swiss-dta-planning"
     title: "How Lawsupport Advises on Swiss DTA Planning"
+faqItems:
+  - question: "What happens if I distribute a dividend without applying for treaty relief first?"
+    answer: "The Swiss company withholds the full 35% and remits it to the ESTV. You can reclaim the excess (the difference between 35% and the treaty rate) through a formal refund application, but processing takes 6-18 months. On a CHF 1 million dividend to a German shareholder, that is CHF 200'000 locked up as dead capital for over a year."
+  - question: "How long does a Swiss withholding tax refund actually take?"
+    answer: "The ESTV typically processes refund applications in 6-18 months. Complex cases involving treaty shopping scrutiny or incomplete documentation can take longer. During this period, the excess withholding tax is unavailable to the taxpayer. Relief at source, arranged before the distribution, avoids this delay entirely."
+  - question: "What is the treaty withholding rate on dividends from Switzerland to Germany?"
+    answer: "The Switzerland-Germany DTA reduces withholding tax on dividends to 15% for individual shareholders and 0% for corporate shareholders holding at least 10% of the Swiss company. The domestic statutory rate is 35%. Without the treaty, a German individual receiving CHF 500'000 in dividends loses CHF 175'000 to withholding instead of CHF 75'000."
+  - question: "Can I use a holding company in a treaty-favourable jurisdiction to reduce Swiss withholding tax?"
+    answer: "In principle, yes — but Switzerland's treaties increasingly include Limitation on Benefits (LOB) clauses and Principal Purpose Tests (PPT). If the holding company exists primarily to access treaty benefits and has no genuine economic activity, FINMA and the ESTV will deny treaty relief. Shell structures without substance, employees, or genuine decision-making are routinely challenged."
+  - question: "Does Switzerland have a double tax treaty with the UAE or Dubai?"
+    answer: "Yes. The Switzerland-UAE DTA entered into force in 2013. It reduces withholding tax on dividends to 0% for corporate shareholders holding 10% or more, and 15% for others. However, the treaty includes anti-abuse provisions, and the UAE has introduced its own corporate tax from June 2023, which affects the treaty's practical application."
+  - question: "What is the Limitation on Benefits clause and how does it affect my structure?"
+    answer: "LOB clauses restrict treaty benefits to entities that meet specific ownership, activity, or listing tests. A holding company owned by residents of a third country that has no treaty with Switzerland may be denied treaty benefits even if the holding company itself is resident in a treaty partner state. The Switzerland-US DTA has one of the most restrictive LOB clauses."
+  - question: "How do I apply for relief at source instead of claiming a refund?"
+    answer: "The paying Swiss company or its agent submits a declaration to the ESTV confirming the recipient's treaty eligibility before the distribution. The ESTV issues an authorisation to withhold at the reduced treaty rate. This requires a valid certificate of tax residence from the recipient's home country and completed ESTV forms. Processing takes 2-6 weeks."
+  - question: "Do Swiss double tax treaties cover capital gains on share sales?"
+    answer: "Most Swiss DTAs allocate capital gains on shares to the seller's state of residence — meaning Switzerland generally cannot tax a foreign seller on gains from selling shares in a Swiss company. The main exception is shares deriving their value primarily from Swiss immovable property, which Switzerland retains the right to tax under most treaties."
+  - question: "What withholding tax rate applies to interest payments from Switzerland?"
+    answer: "Swiss domestic withholding tax on interest from Swiss bonds and bank deposits is 35%. Most DTAs reduce this to 0-10% for qualifying recipients. Interest on commercial loans between unrelated parties is typically not subject to Swiss withholding tax at all under domestic law, making the treaty rate less relevant for corporate lending."
+  - question: "Can a Swiss company reclaim foreign withholding tax paid on inbound dividends?"
+    answer: "Yes. If a Swiss company receives dividends from a foreign subsidiary and the source country withholds tax in excess of the treaty rate, the Swiss company can either claim a refund from the source country or apply for a Swiss tax credit against its own Swiss tax liability. The credit method is more common and avoids the delay of foreign refund procedures."
 ---
 
 

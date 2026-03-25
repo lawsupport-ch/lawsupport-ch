@@ -32,6 +32,27 @@ tocItems:
     title: "Collective Labour Agreements (GAV)"
   - id: "get-expert-advice-on-your-swiss-employment-contracts"
     title: "Get Expert Advice on Your Swiss Employment Contracts"
+faqItems:
+  - question: "Is a verbal employment contract legally valid in Switzerland?"
+    answer: "Yes — Swiss law does not require a written employment contract. A verbal agreement is fully binding. However, without a written contract, the employee's stated version of the terms is generally presumed correct in disputes. Non-compete clauses, fixed-term arrangements, and IP assignments must be in writing to be enforceable."
+  - question: "What is the maximum probation period allowed under Swiss law?"
+    answer: "The statutory maximum is 3 months under Art. 335b OR. By agreement or collective labour agreement (GAV), probation can be extended to a maximum of 6 months. During probation, either party can terminate with 7 days' notice without giving reasons and without waiting until the end of the month."
+  - question: "What notice periods apply after probation in Switzerland?"
+    answer: "Statutory minimums are: 1 month during the first year of employment, 2 months from years 2-9, and 3 months from year 10 onwards (Art. 335c OR). Notice must be given for the end of a calendar month. Longer periods can be agreed in the contract, but shorter periods are void unless set by a binding GAV."
+  - question: "Are non-compete clauses enforceable in Swiss employment contracts?"
+    answer: "Only if they meet strict requirements under Art. 340 OR: they must be in writing, limited in scope (geography, duration, and activity), and the employee must have had access to client relationships or trade secrets. Maximum duration is generally 3 years. Courts routinely reduce or void overbroad non-compete clauses. Compensation during the restriction period is not legally required but strengthens enforceability."
+  - question: "What happens if I do not include a probation clause in the contract?"
+    answer: "Swiss law automatically applies a 1-month probation period unless the contract expressly excludes or modifies it. If you want longer probation (up to 3 months, or 6 months with a GAV), you must state this explicitly in writing. If you want no probation period at all, that must also be expressly agreed."
+  - question: "Can I use an English-language employment contract for Swiss employees?"
+    answer: "Yes, but if the contract goes to court, the Swiss court will require a certified translation into the local official language (German, French, or Italian depending on canton). Ambiguities in translation are typically resolved against the party that drafted the contract — usually the employer. Bilingual contracts with a governing language clause are the safest approach."
+  - question: "What minimum holiday entitlement applies in Switzerland?"
+    answer: "The statutory minimum is 4 weeks (20 working days) per year for employees over 20 years old, and 5 weeks (25 working days) for employees under 20 (Art. 329a OR). Many collective agreements and individual contracts provide 5 weeks as standard. Unused holiday cannot be compensated financially during the employment relationship — it must be taken as time off."
+  - question: "Must I specify salary in CHF in a Swiss employment contract?"
+    answer: "There is no legal requirement to denominate salary in CHF, but it is strongly recommended. If salary is stated in a foreign currency, exchange rate fluctuations create uncertainty and potential disputes. Swiss social insurance contributions (AHV, BVG) are calculated on the CHF equivalent, which can lead to monthly variations. Most GAVs require CHF denomination."
+  - question: "What intellectual property clauses should I include?"
+    answer: "Under Art. 332 OR, inventions and designs created by the employee in the course of their duties automatically belong to the employer. However, copyright works (software code, written content, designs) require explicit contractual assignment to transfer ownership fully. Include a clause assigning all IP created during employment to the company, covering inventions, copyright, and know-how."
+  - question: "Can I include an overtime waiver in a Swiss employment contract?"
+    answer: "Partial overtime waivers are permissible for management-level employees and certain specialists, but they must be explicitly agreed in writing. For ordinary employees, overtime above the statutory maximum working hours (45 or 50 hours per week depending on industry) must be compensated at 125% or with equivalent time off. Blanket overtime waivers for all staff are not enforceable."
 ---
 
 

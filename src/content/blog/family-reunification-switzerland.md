@@ -20,6 +20,27 @@ tocItems:
     title: "Integration Requirements"
   - id: "get-expert-advice-before-you-file"
     title: "Get Expert Advice Before You File"
+faqItems:
+  - question: "How long does family reunification take in Switzerland?"
+    answer: "For EU/EFTA nationals with B permits: 4-8 weeks from application to permit issuance, but the sponsor's primary permit must be accepted first (add 1-2 months). For non-EU/EFTA B permit holders: 3-6 months after meeting the mandatory 3-year residency requirement. Swiss citizens and C permit holders: 4-8 weeks with no waiting period."
+  - question: "What income do I need to sponsor family reunification as a non-EU B permit holder?"
+    answer: "There is no single federal figure — cantons set their own thresholds. Practical benchmarks: CHF 40'000-45'000 net annual income for a couple without children, CHF 50'000-55'000 for a couple with one child, and CHF 60'000 or more for larger families. High-cost cantons (Zurich, Geneva, Zug) apply higher benchmarks. Income must be stable and from regular employment."
+  - question: "Can I bring my parents to Switzerland through family reunification?"
+    answer: "Generally no. Family reunification under the AIG is limited to spouses, registered partners, and dependent children. Parents of adult Swiss residents or permit holders do not qualify under standard family reunification rules. In exceptional hardship cases, a cantonal residence permit may be granted, but approval rates are very low."
+  - question: "Do I have to wait 3 years before bringing my family if I hold a B permit?"
+    answer: "Only if you are a non-EU/EFTA national. EU/EFTA nationals with B permits can apply for family reunification immediately under the Agreement on Free Movement of Persons (AFMP). Non-EU/EFTA B permit holders must have resided continuously in Switzerland for at least 3 years before applying, and must meet income and housing requirements."
+  - question: "What permit does my spouse receive through family reunification?"
+    answer: "Your spouse typically receives the same permit type as you. If you hold a B permit, your spouse gets a B permit. If you hold a C permit, your spouse generally receives a B permit initially, upgrading to C once they meet standard settlement criteria (typically 5-10 years of continuous residence and integration requirements)."
+  - question: "Can my application be refused due to insufficient housing?"
+    answer: "Yes. The sponsor must demonstrate adequate housing suitable for the family size. Cantonal migration offices assess apartment size against the number of family members. A one-bedroom apartment for a family of four will be refused. Provide the rental contract and apartment floor plan with your application. Housing costs must also be within your demonstrated income."
+  - question: "What happens if my family reunification application is refused?"
+    answer: "You can appeal the decision within 30 days to the cantonal administrative court. Common grounds for refusal — insufficient income, inadequate housing, or expired documentation — can often be remedied and the application resubmitted. Legal representation for an appeal costs CHF 3'000-8'000. Success rates on appeal vary by canton but are reasonable if the deficiency is correctable."
+  - question: "Can my spouse work in Switzerland after family reunification?"
+    answer: "Yes. Family members admitted through family reunification receive work authorisation automatically. EU/EFTA spouses can work without restrictions. Non-EU/EFTA spouses holding a B permit through family reunification can work, but a separate work permit application by the employer is typically required — processed faster than initial applications since the residence permit already exists."
+  - question: "What integration requirements apply to family members joining in Switzerland?"
+    answer: "Depending on the canton and permit type, joining family members may need to demonstrate basic language skills in the local official language (A1-B1 level depending on canton). Some cantons require an integration agreement (Integrationsvereinbarung) specifying language course attendance and civic knowledge milestones. Non-compliance can affect permit renewal."
+  - question: "Is there a deadline for filing the family reunification application?"
+    answer: "For non-EU/EFTA nationals: family reunification for spouses must be applied for within 5 years of the sponsor obtaining their permit, and for children under 12 within 1 year. Missing these deadlines does not make reunification impossible but shifts the burden — late applications are assessed under stricter 'important personal reasons' criteria and approval rates drop significantly."
 ---
 
 

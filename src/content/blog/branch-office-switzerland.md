@@ -22,6 +22,27 @@ tocItems:
     title: "Costs"
   - id: "register-your-swiss-branch-office"
     title: "Register Your Swiss Branch Office"
+faqItems:
+  - question: "Is a branch office cheaper than forming a GmbH subsidiary?"
+    answer: "In year one, yes: CHF 3'000-5'000 all-in versus CHF 9'000-12'000 for a GmbH. But ongoing costs (resident representative CHF 1'500-2'500/year, PE documentation) make the branch more expensive from year two onwards. For engagements over 18 months, the GmbH is typically cheaper."
+  - question: "Does the foreign parent bear unlimited liability for branch obligations?"
+    answer: "Yes. A branch has no separate legal personality — it is an extension of the foreign parent. The parent's worldwide assets are at risk for all branch liabilities. This is the key structural difference from a GmbH or AG subsidiary, where liability is limited to the subsidiary's own assets."
+  - question: "Can we register a branch in Zug if our operations are in Zurich?"
+    answer: "No. Unlike a subsidiary, a branch must be registered in the canton where it actually conducts business. The cantonal register may request evidence of genuine business presence. You cannot register in a low-tax canton purely for tax purposes."
+  - question: "What if the bank rejects our branch's account application?"
+    answer: "This happens frequently. PostFinance rejects most branch applications outright. UBS requires the branch to be registered for at least 30 days before accepting an application. Apply to at least two banks simultaneously — cantonal banks like Zuger Kantonalbank are sometimes faster."
+  - question: "Do we need a Swiss-resident representative for the branch?"
+    answer: "Yes. Under Art. 935 CO, every branch must have at least one authorised representative domiciled in Switzerland with individual signatory authority. This person is named in the Commercial Register and publicly visible. Lawsupport provides this service from CHF 1'500/year."
+  - question: "How is a branch taxed differently from a subsidiary?"
+    answer: "The branch pays Swiss tax on attributable Swiss profit only. Key advantage: profit remittances to the parent are not subject to Swiss withholding tax (35%), unlike dividends from a subsidiary. The branch must file a Swiss corporate tax return for every year of activity."
+  - question: "How long does branch registration actually take?"
+    answer: "15-25 business days from complete filing for the register itself. But total realistic timeline is 6-12 weeks including document apostille (1-3 weeks), translations (3-5 days), register processing, and bank account opening (2-6 weeks — the real bottleneck)."
+  - question: "What is the permanent establishment tax trap with a branch?"
+    answer: "A registered branch automatically creates a Swiss permanent establishment. If the profit allocation between head office and branch is not properly documented, the home country may refuse to exempt Swiss income. Result: effective tax rate exceeding 40% on disputed portions."
+  - question: "Can we convert a branch into a GmbH subsidiary later?"
+    answer: "Yes, but conversion involves additional costs. Based on actual client cases, the branch-then-convert path costs approximately CHF 8'000 more than direct GmbH formation would have. If your Swiss engagement will last longer than 18 months, form a GmbH from the start."
+  - question: "Does a branch need to register for Swiss VAT?"
+    answer: "Yes, if the branch's Swiss-sourced turnover exceeds CHF 100'000 per year. Registration is in the name of the foreign company with the branch as the liable unit. The standard VAT rate is 8.1%."
 ---
 
 

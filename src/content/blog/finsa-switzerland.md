@@ -26,6 +26,27 @@ tocItems:
     title: "Get a Direct Assessment of Your FinSA Obligations"
   - id: "faq"
     title: "FAQ"
+faqItems:
+  - question: "Does FinSA apply to my firm if I only advise clients outside Switzerland?"
+    answer: "FinSA applies to financial service providers in Switzerland regardless of client location. If your firm is domiciled or has a branch in Switzerland and provides investment advice, portfolio management, or securities dealing, FinSA obligations apply to all clients — Swiss and foreign. The trigger is the provider's Swiss presence, not the client's location."
+  - question: "What is the difference between retail and professional clients under FinSA?"
+    answer: "Retail clients receive the highest level of protection: full suitability and appropriateness assessments, key information documents (KIDs), and all disclosure requirements. Professional clients (regulated entities, listed companies, wealthy individuals with CHF 500'000+ in assets) receive reduced protections. Institutional clients (FINMA-supervised entities) are largely exempt from conduct obligations."
+  - question: "Must I register in the Swiss financial advisor register?"
+    answer: "Client advisors of financial service providers without FINMA prudential supervision must register in the advisor register (Beraterregister). This includes independent financial advisors, insurance intermediaries distributing investment products, and advisors at non-regulated entities. Registration requires proof of qualifications, professional indemnity insurance, and SRO or ombudsman affiliation."
+  - question: "What are the suitability and appropriateness requirements under FinSA?"
+    answer: "For portfolio management and investment advice with recommendations: full suitability assessment of the client's financial situation, investment objectives, knowledge, and experience. For execution-only services: appropriateness assessment of the client's knowledge and experience only. Providers must document the assessment and retain records. Non-compliance exposes the firm to civil liability claims."
+  - question: "How does FinSA compare to the EU's MiFID II?"
+    answer: "FinSA was modelled on MiFID II but is less prescriptive. Key differences: FinSA allows a higher professional client threshold (CHF 500'000 vs EUR 500'000 with different criteria), does not require transaction reporting to a regulator, and applies a principles-based approach to best execution rather than MiFID II's detailed venue-by-venue rules. Swiss firms serving EU clients may still need MiFID II compliance."
+  - question: "What is a Key Information Document (KID) and when must I provide one?"
+    answer: "A KID is a standardised document that describes a financial instrument's key features, risks, and costs in a format understandable to retail clients. Financial service providers must provide a KID before recommending or selling a financial instrument to retail clients. KIDs are required for structured products, funds, and other complex financial instruments. Equities and bonds have prospectus requirements instead."
+  - question: "Must I affiliate with an ombudsman under FinSA?"
+    answer: "Yes. All financial service providers must affiliate with a FINMA-recognised ombudsman body (Ombudsstelle). The ombudsman provides free dispute resolution for retail clients as an alternative to court proceedings. Annual affiliation fees are CHF 500-5'000 depending on the ombudsman body and your firm's size. Non-affiliation is a FinSA compliance breach."
+  - question: "What are the penalties for FinSA non-compliance?"
+    answer: "FinSA breaches can result in FINMA enforcement proceedings including licence conditions, activity bans, or licence revocation for supervised entities. For non-supervised entities, cantonal authorities enforce compliance. Civil liability for unsuitable advice or missing disclosure can result in damages claims from clients. Criminal penalties apply for wilful violations of prospectus and registration requirements."
+  - question: "Can a client opt out of FinSA protections?"
+    answer: "Retail clients meeting the professional client criteria (CHF 500'000+ in investable assets plus financial expertise) can request reclassification as professional clients, which reduces the provider's conduct obligations. The request must be in writing and the provider must document the basis for reclassification. Institutional clients can opt out of most conduct obligations entirely."
+  - question: "What prospectus requirements does FinSA introduce?"
+    answer: "Issuers of securities offered to the public in Switzerland must prepare a prospectus reviewed by a FINMA-approved review body. Exemptions exist for offers to fewer than 500 persons, offers exclusively to professional clients, and offers with a minimum denomination of CHF 100'000. The prospectus must be published before the public offering and remains valid for 12 months."
 ---
 
 

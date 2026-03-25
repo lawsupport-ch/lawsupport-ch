@@ -38,6 +38,27 @@ tocItems:
     title: "The Friction Points Most Founders Miss"
   - id: "how-lawsupport-can-help"
     title: "How Lawsupport Can Help"
+faqItems:
+  - question: "Do we really need to pay CHF 1'400 per year for a dormant company with zero activity?"
+    answer: "Yes. Art. 957 OR does not exempt dormant companies. Annual statements and a corporate tax return are required every year. Skip it and the cantonal authority issues estimated assessments with 3% annual interest, and the company cannot be liquidated."
+  - question: "Can we do the bookkeeping ourselves and just have you file the tax return?"
+    answer: "In theory, yes. In practice, self-prepared books almost always require significant correction. The cost of reviewing and correcting DIY bookkeeping frequently exceeds the cost of having a fiduciary maintain the books from the start."
+  - question: "What happens if we ignore accounting obligations for a few years?"
+    answer: "The cantonal tax authority issues estimated assessments — typically 200-400% above actual liability — with interest at approximately 3% per annum. The company cannot be liquidated, cannot obtain bank financing, and directors face personal liability under Art. 725 OR."
+  - question: "Is Swiss GAAP FER mandatory for our private company?"
+    answer: "Unlikely, unless you have listed bonds, are a large foundation, or your bank requires it. Most private AG and GmbH structures operate under the OR minimum. Swiss GAAP FER is recommended when external parties need credible, comparable financial statements."
+  - question: "How much does it cost to maintain a Swiss company each year?"
+    answer: "Dormant company: CHF 1'400/year. Active company with up to 100 transactions: CHF 3'800/year package. Hourly rate for complex matters: CHF 180/hour. All figures exclude VAT at 8.1%."
+  - question: "We crossed CHF 100'000 revenue but did not register for VAT — what now?"
+    answer: "Register immediately. The ESTV can impose retroactive VAT liability from the date the threshold was exceeded. Voluntary late registration is treated more favourably than discovery during an audit. File registration and prepare outstanding returns simultaneously."
+  - question: "Our company has no Swiss bank account — is that a problem?"
+    answer: "Significant problem. Without a dedicated company bank account, cantonal tax authorities may question substance and residency. Banks require current annual accounts to open accounts — creating a circular dependency broken only by bringing accounting up to date."
+  - question: "At what point does in-house accounting make more sense than outsourcing?"
+    answer: "The break-even point is roughly 500-800 transactions per year. Below that, outsourcing is cheaper. Above that, in-house starts to make sense — but the year-end work still needs either a qualified accountant or a fiduciary."
+  - question: "What are the penalties for non-compliance with Swiss accounting obligations?"
+    answer: "Failure to keep proper accounts can constitute a criminal offence under the Swiss Criminal Code. Directors face personal liability for resulting tax shortfalls. Fines for VAT-related bookkeeping failures can reach CHF 20'000 per infringement."
+  - question: "Does Switzerland require consolidated financial statements for groups?"
+    answer: "Under Arts. 962-963b OR, groups must consolidate if they exceed two of three thresholds: CHF 40 million revenue, CHF 20 million balance sheet, or 250 full-time employees. Consolidated statements must follow Swiss GAAP FER, IFRS, or US GAAP."
 ---
 
 

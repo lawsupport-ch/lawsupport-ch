@@ -26,6 +26,27 @@ tocItems:
     title: "Request a Free Assessment"
   - id: "further-reading"
     title: "Further Reading"
+faqItems:
+  - question: "Why should I care about capital tax if my AG only has CHF 100'000 in share capital?"
+    answer: "At CHF 100'000 equity, your capital tax in Zug is roughly CHF 75 per year — negligible. But if you retain profits or inject shareholder loans reclassified as equity, your taxable capital grows. A company with CHF 5 million in retained earnings in Zurich pays approximately CHF 8'600 annually in capital tax alone."
+  - question: "How much can I actually save by moving my holding company to a low-tax canton?"
+    answer: "A holding company with CHF 50 million in equity pays CHF 37'500 per year in Zug (0.075%) versus CHF 175'000 in Vaud (0.35%). Over ten years, that is CHF 1.37 million in savings. A domicile change takes 4-6 weeks and costs CHF 5'000-15'000 in advisory fees."
+  - question: "Is capital tax deductible against profit tax?"
+    answer: "Yes. Capital tax paid is a deductible business expense for cantonal and federal profit tax purposes. This reduces the effective burden but does not eliminate it. For companies with high equity and low profits, capital tax can exceed profit tax in absolute terms."
+  - question: "What happens if I overcapitalise my company at formation?"
+    answer: "Excess share capital above CHF 1 million triggers 1% federal issuance stamp duty on the excess. It also creates a permanent capital tax base. A founder contributing CHF 3 million as share capital instead of CHF 100'000 plus a shareholder loan pays roughly CHF 2'175 more per year in capital tax in Zug, plus CHF 19'000 in unnecessary stamp duty at formation."
+  - question: "Does the participation reduction apply automatically to holding companies?"
+    answer: "No. You must claim it in the tax return and demonstrate that qualifying participations represent a substantial portion of assets. Most cantons require participations to exceed 10% of a subsidiary or have a fair market value above CHF 1 million. Missing the claim means paying the full rate every year until someone corrects the filing."
+  - question: "Can I reduce capital tax by distributing retained earnings as dividends?"
+    answer: "Yes, but the dividend triggers 35% withholding tax (refundable to Swiss residents) and is taxed as income for the shareholder. For a CHF 10 million distribution, the capital tax saving in Zug is CHF 7'500 per year, but the withholding tax is CHF 3.5 million upfront. The trade-off rarely favours distribution solely for capital tax reasons."
+  - question: "How does Zug's capital tax compare to Zurich's in real numbers?"
+    answer: "Zug charges approximately 0.0825 per mille (effective), while Zurich charges approximately 0.75 per mille. On CHF 20 million equity, Zug costs roughly CHF 16'500 versus Zurich at approximately CHF 15'000. The difference widens dramatically at higher equity levels — at CHF 50 million, Zug saves CHF 33'375 per year."
+  - question: "When is capital tax due and can I pay in instalments?"
+    answer: "Capital tax is assessed annually with the corporate income tax return, typically due within 30 days of the assessment notice. Most cantons allow provisional payments during the tax year. Late payment triggers interest at 3-5% depending on the canton. In Zug, the standard late-payment interest rate is 4%."
+  - question: "Does capital tax apply to branches of foreign companies in Switzerland?"
+    answer: "Yes. A Swiss branch of a foreign company is subject to capital tax on the capital attributable to the branch. The taxable capital is the proportion of the head office's equity allocated to Swiss operations, based on the branch's share of total assets, revenue, or payroll — depending on cantonal practice."
+  - question: "What is the capital tax impact of converting a GmbH to an AG?"
+    answer: "The conversion itself does not change the taxable equity — it remains the same balance sheet figure. However, an AG requires CHF 100'000 minimum share capital versus CHF 20'000 for a GmbH. If the conversion requires a capital increase, the additional CHF 80'000 in equity costs roughly CHF 60 per year in extra capital tax at Zug rates."
 ---
 
 

@@ -26,6 +26,27 @@ tocItems:
     title: "CTA Block"
   - id: "related-guides"
     title: "Related Guides"
+faqItems:
+  - question: "How much does it cost to file a Betreibung against a debtor?"
+    answer: "Filing fees depend on the claim amount. For claims up to CHF 10'000, the fee is approximately CHF 40-100. For larger claims, fees scale proportionally under the SchKG fee schedule. The debtor ultimately bears the costs if the claim succeeds."
+  - question: "How long does a debt enforcement procedure take from start to finish?"
+    answer: "A standard Betreibung takes 2-4 months if uncontested. The debtor has 10 days to file a Rechtsvorschlag (objection) after receiving the Zahlungsbefehl. If objected, the creditor must obtain a court order to lift the objection, adding 2-6 months."
+  - question: "Can I file a Betreibung against a company that has moved cantons?"
+    answer: "The Betreibung must be filed at the Betreibungsamt of the debtor's current registered domicile. If a company has relocated, check the current address on zefix.ch. Filing at the wrong office will be rejected and you must refile at the correct cantonal office."
+  - question: "What is a Betreibungsregisterauszug and when do I need one?"
+    answer: "It is an official extract showing all debt enforcement proceedings against a person or company. Banks require it for loan applications, landlords for tenancy agreements, and it is standard in corporate due diligence. Request it from the Betreibungsamt where the subject is domiciled."
+  - question: "Can a foreigner file a Betreibung in Switzerland?"
+    answer: "Yes. Any creditor — Swiss or foreign — can file a Betreibung if the debtor is domiciled in Switzerland. Foreign creditors may need to provide a security deposit (Sicherheitsleistung) if the debtor requests one, typically 10-30% of the claim."
+  - question: "What happens if the debtor objects to the Zahlungsbefehl?"
+    answer: "The debtor has 10 days to file a Rechtsvorschlag (objection), which halts the procedure. The creditor must then obtain a definitive or provisional Rechtsoeffentung from the court. With a signed acknowledgement of debt, provisional lifting takes 2-4 weeks."
+  - question: "How do I request a Betreibungsregisterauszug online?"
+    answer: "Most cantonal Betreibungsaemter accept online requests via their cantonal websites. Processing takes 1-3 business days. Some cantons (Zurich, Zug) offer same-day electronic delivery. Fees range from CHF 17-25 per extract depending on the canton."
+  - question: "Does a Betreibung entry affect a company's ability to open bank accounts?"
+    answer: "Yes. Swiss banks check the Betreibungsregister during onboarding. Active or recent entries raise red flags and can result in account rejection. Settled entries remain visible for 5 years but carry less weight. Clean registers significantly improve banking outcomes."
+  - question: "Can I challenge a wrongful Betreibung filed against my company?"
+    answer: "Yes. File a Rechtsvorschlag within 10 days of receiving the Zahlungsbefehl — this halts the procedure at no cost. If the claim is baseless, the creditor must go to court to lift the objection. You can also seek deletion of unjustified entries after the matter is resolved."
+  - question: "What is the difference between Betreibung auf Pfaendung and Betreibung auf Konkurs?"
+    answer: "Pfaendung (seizure) applies to individuals and sole proprietors — specific assets are seized. Konkurs (bankruptcy) applies to companies registered in the Commercial Register (AG, GmbH). The procedure leads to full bankruptcy proceedings if the debt remains unpaid."
 ---
 
 <!--
