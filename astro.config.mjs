@@ -50,6 +50,9 @@ export default defineConfig({
             return false;
           }
         }
+        // Exclude thank-you page from sitemap
+        if (page.includes("/thank-you/")) return false;
+        if (page.includes("/thank-you/")) return false;
         return true;
       },
     }),

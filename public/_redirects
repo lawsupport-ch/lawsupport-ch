@@ -3,6 +3,12 @@
 /en/blog/how-to-open-a-swiss-bank-account/ /banking/swiss-bank-account/ 301
 /de/values/firmenmaentel-schweiz/ /company-formation/shelf-company-switzerland/ 301
 
+# Old site specific page redirects (with backlinks)
+/en/business-in-switzerland/ /company-formation/doing-business-in-switzerland/ 301
+/en/migration-to-switzerland/ /immigration/immigrate-to-switzerland/ 301
+/firma-v-shvejcarii/ /company-formation/company-formation-switzerland/ 301
+/tseny-v-shweizarii/ / 301
+
 # Old /en/ and /de/ prefix catch-all redirects
 /en/blog/* /blog/:splat 301
 /en/values/* /company-formation/ 301
@@ -10,6 +16,7 @@
 /de/values/* /company-formation/ 301
 /en/* / 301
 /de/* / 301
+/ru/* / 301
 
 # Blog to cocoon URL redirects (301 permanent)
 /blog/ige-ipi-switzerland/ /intellectual-property/ige-ipi-switzerland/ 301

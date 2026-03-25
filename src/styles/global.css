@@ -135,17 +135,12 @@ h4 { font-size: 1.25rem; }
   content: '-';
 }
 .faq-answer {
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.3s ease;
+  max-height: none;
 }
 .faq-answer-inner {
   padding: 0 0 20px;
   color: var(--gray-text);
   line-height: 1.7;
-}
-.faq-item.active .faq-answer {
-  max-height: 500px;
 }
 
 /* ===== Form ===== */

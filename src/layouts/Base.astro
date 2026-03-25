@@ -8,6 +8,7 @@ interface Props {
   description?: string;
   schema?: object[];
   ogImage?: string;
+  ogType?: string;
   robots?: string;
 }
 
@@ -16,6 +17,7 @@ const {
   description = "Professional corporate services and legal support for businesses in Switzerland.",
   schema = [],
   ogImage = "https://lawsupport.ch/images/lawsupport.webp",
+  ogType = "website",
   robots,
 } = Astro.props;
 const canonicalURL = new URL(Astro.url.pathname, "https://lawsupport.ch");
@@ -112,7 +114,7 @@ const graphSchema = {
   <meta property="og:title" content={title} />
   <meta property="og:description" content={description} />
   <meta property="og:url" content={canonicalURL} />
-  <meta property="og:type" content="website" />
+  <meta property="og:type" content={ogType} />
   <meta property="og:image" content={ogImage} />
   <meta property="og:site_name" content="Lawsupport" />
 

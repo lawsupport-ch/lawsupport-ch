@@ -231,8 +231,8 @@ const schema = [
   }
   .faq-question::after { content: "+"; font-size: 1.4rem; font-weight: 300; transition: transform 0.2s; }
   .faq-item.active .faq-question::after { content: "\2212"; }
-  .faq-answer { max-height: 0; overflow: hidden; transition: max-height 0.3s ease; }
-  .faq-item.active .faq-answer { max-height: 300px; }
+  .faq-answer { max-height: none; }
+  
   .faq-answer-inner { padding: 0 0 20px; color: var(--gray-text); font-size: 0.95rem; line-height: 1.7; }
 
   @media (min-width: 768px) {

@@ -14,3 +14,6 @@ User-agent: Applebot
 Allow: /
 
 Sitemap: https://lawsupport.ch/sitemap-index.xml
+
+User-agent: GPTBot
+Allow: /
