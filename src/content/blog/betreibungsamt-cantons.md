@@ -293,6 +293,25 @@ The <a href="https://www.admin.ch/gov/en/start/documentation/media-releases.msg-
 
 ---
 
+## Processing Speed by Canton: Practical Comparison
+
+Based on our experience filing Betreibungen and requesting extracts across multiple cantons:
+
+| Canton | Zahlungsbefehl issuance | Extract processing | Online filing available? |
+|---|---|---|---|
+| Zug | 2-3 business days | 1-2 business days | Partial |
+| Zurich | 5-7 business days | 3-5 business days | Yes (betreibungen.zh.ch) |
+| Geneva | 5-7 business days | 3-5 business days | Yes |
+| Berne | 4-6 business days | 2-4 business days | Partial |
+| Lucerne | 3-5 business days | 2-3 business days | Partial |
+| Basel-Stadt | 4-6 business days | 2-4 business days | Limited |
+
+These figures assume complete, correctly filed applications. Incomplete filings -- a missing debtor address, an unsigned form, a wrong Betreibungskreis -- add 1-2 weeks as the office returns the filing for correction.
+
+**Summer holiday effect:** Processing slows noticeably in July and August across all cantons. A Betreibung filed in mid-July in Zurich may not produce a Zahlungsbefehl until early August. Plan enforcement actions around this if timing matters.
+
+---
+
 ## Cantonal Variations Under the SchKG
 
 While the SchKG is federal law applying uniformly, cantons have limited areas of discretion:

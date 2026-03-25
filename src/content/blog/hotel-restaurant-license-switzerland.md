@@ -199,6 +199,18 @@ If you are also setting up a company to operate the business, [company formation
 
 ---
 
+## Case Study: Japanese Restaurateur in Zurich
+
+A Japanese chef with 15 years of experience in Tokyo wished to open a ramen restaurant in Zurich. He held a valid B permit (employment-based, later converted to self-employment). His professional qualifications from Japan were not automatically recognised by the Zurich cantonal authority.
+
+**The path:** He completed the cantonal gastronomy course (5 days, CHF 650) to satisfy the Betriebsleiter qualification requirement. His premises -- a 45-seat restaurant in Zurich Kreis 4 -- required a building use change from retail to gastronomy (Nutzungsanderung), which added 8 weeks to the timeline while the Stadtrat processed the zoning variance. The HACCP documentation was prepared by a food safety consultant (CHF 1'200). Total time from first application to Wirtepatent issuance: 14 weeks.
+
+**What caught him off-guard:** The L-GAV minimum wages were substantially higher than he had budgeted. His financial model was based on Tokyo staffing costs. A Zurich kitchen assistant under the L-GAV earns a minimum of approximately CHF 3'800/month (gross) -- roughly three times the equivalent Tokyo wage. After adjusting his staffing model, he opened with three staff instead of the planned five, running a smaller menu to manage labour costs within his revenue projections.
+
+**The takeaway for foreign operators:** The Wirtepatent process itself is manageable. The L-GAV labour cost reality is the variable that foreign restaurateurs most consistently underestimate.
+
+---
+
 ## VAT Considerations
 
 Restaurant and hotel turnover is subject to Swiss VAT. The reduced VAT rate applies to food and non-alcoholic beverages for take-away; the standard rate applies to on-premises food service, alcohol, and accommodation (with some nuances for breakfast). If your annual turnover is expected to exceed CHF 100,000, VAT registration is mandatory before you open. See our [VAT Switzerland guide](/tax-accounting/vat-switzerland/) for the registration process and our [VAT registration guide](/tax-accounting/vat-registration-switzerland/) for step-by-step instructions.

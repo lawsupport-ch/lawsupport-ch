@@ -39,6 +39,23 @@ A nominee shareholder is a person or company that holds shares on behalf of the 
 
 ---
 
+## AG vs GmbH: Privacy Comparison
+
+Before considering a nominee shareholder, understand what privacy each entity type already provides:
+
+| Feature | AG (Aktiengesellschaft) | GmbH (Gesellschaft mit beschrankter Haftung) |
+|---|---|---|
+| Shareholders visible in Commercial Register? | **No** -- only directors are public | **Yes** -- all quota holders are publicly listed |
+| Internal share register? | Yes -- maintained by company | Yes -- but also public via register |
+| Beneficial owner disclosure to authorities? | Yes -- Art. 697j-697l CO | Yes -- Art. 697j-697l CO |
+| Beneficial owner disclosure to bank? | Yes -- Form A | Yes -- Form A |
+| Nominee shareholder useful for public privacy? | Limited -- AG shares already private | Yes -- keeps name out of public register |
+| Share capital requirement | CHF 100'000 (min CHF 50'000 paid in) | CHF 20'000 (fully paid in) |
+
+**Bottom line:** For an AG, a nominee shareholder adds no public privacy benefit -- AG shareholders are already not visible in the Commercial Register. The nominee arrangement serves other purposes (asset protection, estate planning) but not anonymity. For a GmbH, a nominee shareholder keeps the beneficial owner's name out of the publicly searchable Commercial Register -- but the beneficial owner is still fully identified in internal registers and bank KYC documentation.
+
+---
+
 ## Swiss Shareholder Transparency: The Current Position
 
 ### Public Register Transparency

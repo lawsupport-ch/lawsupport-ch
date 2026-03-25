@@ -146,6 +146,18 @@ For an overview of the formal [company liquidation Switzerland](/company-formati
 
 ---
 
+## What Directors Get Wrong: The Three Most Common Mistakes
+
+Based on our experience advising AG and GmbH directors facing insolvency, three errors recur:
+
+**1. Delaying court notification hoping the situation will improve.** This is the single most expensive mistake. From the moment the board has "reasonable grounds to suspect" overindebtedness, every day of delay creates personal liability exposure. We have seen directors wait three, four, even six months after receiving an auditor's warning letter -- continuing to sign supplier contracts, take on new employees, and approve lease renewals. Every obligation incurred during that delay period becomes potential personal liability under Art. 725b CO. The fix is straightforward: notify the court early. If the situation does improve, the notification can be withdrawn. If it does not, early notification limits the liability window.
+
+**2. Resigning from the board to avoid liability.** Resignation does not extinguish liability for the period of directorship. A director who was aware of overindebtedness and resigned without following the Art. 725b CO notification procedure remains personally liable for the losses arising from that inaction. The bankruptcy administrator will pursue former directors just as readily as current ones.
+
+**3. Making selective payments to preferred creditors.** Paying a friendly supplier or a personal guarantor ahead of other creditors once insolvency is apparent creates voidable preferential payments (paulianische Anfechtung, Art. 285-292 SchKG). The bankruptcy administrator can claw these payments back, and the directors who authorised them face personal claims. The correct approach once insolvency is suspected: treat all creditors equally and seek professional advice immediately.
+
+---
+
 ## What Happens to Directors After Bankruptcy
 
 Directors of a bankrupt Swiss company are not automatically disqualified from future directorships. However:

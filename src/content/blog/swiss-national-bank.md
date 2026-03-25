@@ -160,6 +160,18 @@ The SNB monitors systemic risks and publishes an annual Financial Stability Repo
 
 ---
 
+## What the SNB Rate Means for Your Swiss Company
+
+For businesses forming or operating a Swiss entity, the SNB policy rate affects three practical areas:
+
+**1. Borrowing costs.** The SNB rate feeds into SARON, which underpins variable-rate CHF lending. At 0.0-0.25% (2026), CHF borrowing is historically cheap. A Swiss AG with a CHF 2 million credit facility pays a spread of approximately 1.5-3.0% above SARON, depending on creditworthiness -- resulting in effective borrowing costs of 1.5-3.25%. Compare this to USD borrowing at 5-6% or GBP at 4-5%. For capital-intensive businesses, the CHF funding advantage is material.
+
+**2. Deposit returns.** The flip side: CHF deposits at Swiss banks earn minimal or zero interest at current rates. A holding company parking CHF 5 million in a Zug current account earns effectively nothing. This changes the calculus for treasury management -- idle CHF balances have an opportunity cost that must be weighed against currency risk if funds are moved into higher-yielding currencies.
+
+**3. Currency exposure.** The SNB's commitment to preventing excessive CHF appreciation provides a degree of predictability, but the January 2015 EUR/CHF floor removal demonstrated that SNB policy can change abruptly. Companies with revenue in EUR or USD and costs in CHF face ongoing currency risk that the SNB's policy rate alone does not eliminate. Hedging is a business decision, not a central bank guarantee.
+
+---
+
 ## Get Expert Guidance on Swiss Banking and Corporate Matters
 
 Understanding the SNB's role is one part of operating successfully within the Swiss financial system. Whether you are opening a corporate bank account, forming a company, or structuring your Swiss operations, Morgan Hartley and the Lawsupport team provide practical guidance grounded in years of Swiss corporate and banking experience.

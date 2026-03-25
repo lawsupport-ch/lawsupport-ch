@@ -136,6 +136,20 @@ The <a href="https://www.fedlex.admin.ch/eli/cc/11/529_488_529/en" target="_blan
 
 ---
 
+## Cantonal Variation: Why the Same Debt Takes Different Paths
+
+The SchKG is federal law, but its execution varies dramatically by canton. Three examples from recent practice:
+
+**Zug:** The Betreibungsamt processes a Zahlungsbefehl within 3 business days of filing. Rechtsoffnung at the Zug district court typically completes in 4-6 weeks for provisional proceedings. The system is efficient because the volume is manageable and the court is experienced with commercial disputes.
+
+**Zurich:** The city Betreibungsamt handles vastly higher volumes. Zahlungsbefehl issuance takes 5-7 business days. Provisional Rechtsoffnung at the Bezirksgericht Zurich can take 8-14 weeks due to case backlog. For creditors pursuing claims against Zurich-domiciled debtors, the timeline is consistently longer.
+
+**Geneva:** The Office des poursuites operates in French and handles both domestic and substantial international enforcement cases. Processing times for Zahlungsbefehle are similar to Zurich (5-7 days), but Rechtsoffnung proceedings at the Tribunal de premiere instance can extend to 12-20 weeks for contested matters. Language adds friction for German-speaking creditors -- all filings must be in French.
+
+**Practical takeaway:** A creditor pursuing an uncontested CHF 50'000 claim can expect resolution in 8-12 weeks in Zug, 12-18 weeks in Zurich, and 14-22 weeks in Geneva. The law is the same; the operational reality is not.
+
+---
+
 ## Betreibungsregisterauszug: The Swiss Credit Record
 
 Every Betreibung filed against a person or company is recorded in the Betreibungsregister (debt enforcement register). Anyone — including potential creditors, employers, and banks — can request a Betreibungsregisterauszug (extract) for a named person.

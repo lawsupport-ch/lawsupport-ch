@@ -241,6 +241,16 @@ A change of canton requires deregistration from the current cantonal register an
 
 ---
 
+## Shell Company Transfers: The 2025 Rule Change
+
+Since 2025, the Commercial Register applies stricter scrutiny to Mantelgesellschaft (shell company) transfers. Previously, a buyer could acquire a dormant company, change the name, board, and business activity in a single filing. The register now requires changes in **two stages** -- first name and board, then business activity. Single-stage filings are rejected.
+
+More significantly, the register can now **void transfers** it considers lacking genuine commercial substance. A company that was dormant for three years, sold for CHF 5'000, and immediately reactivated with a completely different business raises red flags. The register will request evidence that the transfer serves a legitimate commercial purpose.
+
+**Practical consequence:** Buying a shelf company is still possible and sometimes faster than forming a new entity (avoiding the capital deposit and notarisation steps). But the cost advantage has narrowed, and the regulatory scrutiny has increased. For most clients, a new formation in Zug -- with a 10-15 business day timeline -- is now preferable to a shell company purchase unless the shell carries a specific UID, VAT registration, or contractual position that the buyer needs.
+
+---
+
 ## How Lawsupport Can Help
 
 Whether you need a [commercial register Switzerland](/company-formation/commercial-register-switzerland/) filing, certified extracts for banking or legal transactions, or guidance on registering a new Swiss entity, Lawsupport handles the full process across all major cantons. We work with the Zug, Zurich, Geneva, and other cantonal offices regularly and understand the practical requirements at each step.

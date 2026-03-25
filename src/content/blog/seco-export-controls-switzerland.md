@@ -151,6 +151,18 @@ Operating without a SECO staff leasing licence carries fines of up to **CHF 100'
 
 A master service agreement (MSA) issued by a foreign parent entity — say, a US company — does not cover the Swiss subsidiary's placement activities. The Swiss entity must hold its own SECO licence and issue its own contracts. Payments for Swiss-based services must flow directly to the authorised Swiss provider, not to a foreign parent that lacks Swiss authorisation.
 
+## Case Study: The Semiconductor Exporter That Did Not Check
+
+A Zurich-based electronics distributor sold precision semiconductor components to customers across Europe and Asia. The components fell within the Wassenaar Arrangement control list (Category 3 -- Electronics). For EU customers, the company relied on a General Export Authorisation. For a new customer in a Gulf state, the sales team processed the order without consulting the compliance officer -- or checking the control list classification against the destination country.
+
+SECO's enforcement division discovered the export during a routine audit of the company's export records. The components required an individual export permit, which had never been applied for. The company's internal records showed no evidence of a classification check, no end-user certificate, and no compliance review of the transaction.
+
+**Outcome:** SECO imposed an administrative penalty, confiscated the remaining inventory of the same component, and placed the company under enhanced monitoring for three years. The company's CEO was personally warned that repeat violations would result in criminal prosecution under Art. 14 GKG (up to three years' imprisonment). The total cost -- legal fees, penalty, lost inventory, and business disruption -- exceeded CHF 200'000.
+
+**The lesson:** Export control compliance is not optional, and it is not something the sales team can self-assess. A single unchecked export of a listed component to a non-exempt destination can trigger enforcement action that affects the entire business.
+
+---
+
 ## Internal Compliance Programmes (ICP)
 
 Swiss companies that regularly export controlled goods should establish an Internal Compliance Programme (ICP). While not legally mandatory for all exporters, SECO strongly recommends ICPs, and having one can streamline the permit process. An effective ICP includes:

@@ -7,16 +7,16 @@ category: "Company Administration"
 categoryHref: "/corporate-services/"
 readTime: "15 min read"
 faqItems:
-  - question: "Is a nominee director legal in Switzerland?"
-    answer: "Yes. Using a professional Swiss-resident director to satisfy the Art. 718 CO residency requirement is entirely legal and standard practice. The arrangement must be documented through a mandate agreement, and the beneficial owner must be disclosed under Swiss anti-money laundering law."
-  - question: "Does the nominee director control my company?"
-    answer: "No. The nominee director's authority is limited to the mandate agreement. The shareholder retains full control through shareholder rights, including the right to appoint and remove directors at any time."
+  - question: "What is the nominee director actually liable for?"
+    answer: "Everything. Under CO 754, a nominee director bears personal liability for damages caused by intentional or negligent breach of duties -- the same as any other director. This includes failure to notify the court of overindebtedness, approving misleading accounts, and failing to maintain proper books."
+  - question: "Can a nominee sign banking documents?"
+    answer: "Yes, but it is not included in the annual fee. Signing banking documents, attending bank meetings, and executing powers of attorney are billed at CHF 350 per hour. Budget CHF 2'000-4'000 in additional charges in the first year on top of the CHF 5'900 base."
+  - question: "Is a nominee director just a rubber stamp?"
+    answer: "No. A nominee must exercise independent judgment under CO 717 duty of care. They must understand the company business. Lawsupport conducts KYC before accepting engagements and refuses companies whose activities cannot be verified."
   - question: "Can I replace the nominee director later?"
-    answer: "Yes. The nominee director can be replaced at any time by shareholder resolution. The outgoing director's name is removed from the Commercial Register and the incoming director's name is added."
-  - question: "Does the nominee director need to be a Swiss citizen?"
-    answer: "No. The requirement is Swiss residency, not citizenship. A foreign national with a valid Swiss residence permit (B or C permit) who is domiciled in Switzerland satisfies Art. 718 CO."
-  - question: "Can a legal entity serve as nominee director?"
-    answer: "No. Swiss law requires board members (AG) and managers (GmbH) to be natural persons. A corporation or foundation cannot serve as director of a Swiss company."
+    answer: "Yes, at any time by shareholder resolution. Common when founders obtain Swiss residency and take over the directorship. The transition takes one to three weeks in Zug."
+  - question: "What happens if the company gets into financial difficulty?"
+    answer: "The nominee director bears the Art. 725b CO obligation to notify the court if the company is overindebted. Failure to act exposes them to personal liability for losses incurred during the delay period."
 tocItems:
   - id: "the-swiss-legal-requirement-art-718-co"
     title: "The Swiss Legal Requirement: Art. 718 CO"
@@ -30,8 +30,8 @@ tocItems:
     title: "Corporate Governance: You Retain Control"
   - id: "liability-understanding-the-risk"
     title: "Liability: Understanding the Risk"
-  - id: "who-needs-a-nominee-director"
-    title: "Who Needs a Nominee Director?"
+  - id: "do-you-need-a-nominee-director-decision-tree"
+    title: "Do You Need a Nominee Director? Decision Tree"
   - id: "cost-of-swiss-nominee-director-services"
     title: "Cost of Swiss Nominee Director Services"
   - id: "the-alternative-establish-swiss-residency-yourself"
@@ -74,9 +74,9 @@ A nominee director is a Swiss-resident professional who is formally appointed to
 
 The nominee director's name appears in the Commercial Register. They hold the individual signatory authority required by law. They are a real, identifiable individual -- not a legal fiction.
 
-What the nominee director is not is an operational decision-maker. The beneficial owner and founder of the company retains full control through shareholder rights: the right to convene and vote at the general meeting, to declare dividends, to appoint and remove directors, and to direct the company's business through agreed governance structures. The nominee director operates within a carefully defined scope, documented in a formal mandate agreement.
+What a nominee director is *not*: a rubber stamp. Under CO 754, every director -- including a nominee -- bears personal liability for damages caused by intentional or negligent breach of duties. A nominee director who blindly signs documents without understanding the company's business is not protecting you; they are exposing both themselves and you to legal risk. This is why reputable providers conduct KYC before accepting any engagement and refuse clients whose activities cannot be verified.
 
-This arrangement is entirely standard in Swiss corporate practice. It is used by the majority of Lawsupport's international clients who form a Swiss AG or GmbH from outside Switzerland.
+The beneficial owner retains full control through shareholder rights: convening and voting at the general meeting, declaring dividends, appointing and removing directors. The nominee operates within a carefully defined scope, documented in a formal mandate agreement. This arrangement is standard in Swiss corporate practice.
 
 ---
 
@@ -155,18 +155,30 @@ This is not bureaucracy. It is the responsible practice that protects both the n
 
 ---
 
-## Who Needs a Nominee Director?
+## Do You Need a Nominee Director? Decision Tree
 
-The nominee director service is relevant for any foreign national who is forming a Swiss company but does not personally hold Swiss residency.
+Not every foreign founder needs a nominee. Use this decision tree:
 
-This describes the majority of Lawsupport's international client base. Common profiles include:
+**1. Are you personally resident in Switzerland (B or C permit, domiciled here)?**
+- Yes -- You can serve as director yourself. No nominee needed.
+- No -- Continue to question 2.
 
-- **Entrepreneurs based in Asia, the Middle East, or North America** who want a Swiss AG or GmbH as a European holding or operating company
-- **Founders of fintech, trading, or consulting businesses** who have chosen Switzerland for its legal environment, reputation, and commercial access
-- **Existing companies in other jurisdictions** establishing a Swiss subsidiary without relocating personnel to Switzerland
-- **High-net-worth individuals** forming Swiss [holding structures](/company-formation/holding-company-switzerland/) for asset management purposes
+**2. Do you plan to relocate to Switzerland within 6 months?**
+- Yes -- Consider a 6-month interim nominee arrangement (CHF 4'500). You take over the directorship once your residence permit is issued.
+- No -- Continue to question 3.
 
-If you are forming a [Swiss AG](/company-formation/ag-formation-switzerland/) or [Swiss GmbH](/company-formation/gmbh-formation-switzerland/) and are not personally resident in Switzerland, you will need this service or an equivalent arrangement. There is no way around Art. 718 CO.
+**3. Do you have a Swiss-resident business partner or employee who can serve as director?**
+- Yes -- Appoint them. Ensure they understand their CO 754 liability obligations. A family friend who "lends their name" creates the same liability exposure as a professional nominee, without the protective mandate agreement.
+- No -- **You need a professional nominee director.**
+
+**Common profiles that require this service:**
+
+- **Entrepreneurs based in Asia, the Middle East, or North America** forming a Swiss AG or GmbH as a European holding or operating company
+- **Fintech and consulting founders** who have chosen Switzerland for its legal environment and commercial access
+- **Existing companies** establishing a Swiss subsidiary without relocating personnel
+- **High-net-worth individuals** forming Swiss [holding structures](/company-formation/holding-company-switzerland/)
+
+If you are forming a [Swiss AG](/company-formation/ag-formation-switzerland/) or [Swiss GmbH](/company-formation/gmbh-formation-switzerland/) and cannot satisfy Art. 718 CO personally, a nominee director is not optional -- it is a legal prerequisite for registration.
 
 ---
 
@@ -236,23 +248,39 @@ The Singapore-based founder is the sole shareholder. She holds all shareholder r
 
 What this example does not show is the friction that precedes smooth operation. The KYC verification process for the nominee engagement -- identity verification, source of funds documentation, business model review -- typically takes two or more weeks. In one recent case involving a fintech client, the verification process extended past three weeks because the payment processor's compliance team required additional documentation from the nominee's side before approving the corporate account. Founders expecting same-week nominee appointments should adjust their timelines accordingly.
 
-The company operates normally once the structure is in place. The founder manages it remotely. The Swiss legal requirement is satisfied. This is the standard operating model for the majority of Lawsupport's international clients.
+The company operates normally once the structure is in place. The founder manages it remotely. The Swiss legal requirement is satisfied.
+
+---
+
+## Case Study: German Tech Founder (Interim Nominee)
+
+A German tech entrepreneur planned to relocate to Switzerland within six months to run his Zurich-based SaaS company. He engaged a nominee director on the 6-month interim arrangement (CHF 4'500) while his B permit application was processed.
+
+What he was told upfront: expect the timeline to run longer than five to six months. Swiss immigration processing is unpredictable. His B permit was issued after eight months, not five. The interim nominee arrangement was extended -- at a prorated cost -- for the additional period.
+
+During those eight months, the nominee director signed the company's employment contracts, attended two bank meetings (billed separately at CHF 350/hour each), and executed a power of attorney for the company's cloud hosting agreement. The total cost of the nominee arrangement for the eight-month period: approximately CHF 8'200 -- the CHF 4'500 base plus CHF 3'700 in additional billable hours.
+
+The lesson: the "interim" arrangement works well, but the timeline is outside anyone's control. Budget for extension. And budget for the hourly work that any active company will generate beyond the base fee.
 
 ---
 
 ## Frequently Asked Questions
 
-**Is a nominee director legal in Switzerland?**
+**What is the nominee director actually liable for?**
 
-Yes. The use of a professional Swiss-resident director to satisfy the Art. 718 CO residency requirement is entirely legal and is standard practice in Swiss corporate services. The arrangement must be properly documented through a mandate agreement, and the beneficial owner must be disclosed in accordance with Swiss anti-money laundering law. There is nothing irregular about the structure.
+Everything. Under CO 754, a nominee director bears personal liability for damages caused by intentional or negligent breach of duties -- the same liability as any other director. This includes failure to notify the court of overindebtedness (Art. 725b CO), approving misleading financial statements, and failing to maintain proper books. In one case we advised on, a nominee director faced personal liability claims for CHF 180'000 in losses incurred during a four-month delay between the auditor flagging a capital deficit and the board notifying the court.
 
-**Does the nominee director control my company?**
+**Can a nominee director sign banking documents?**
 
-No. The nominee director's authority is limited to what is defined in the mandate agreement. The shareholder -- who is typically the beneficial owner and founder -- retains full control through shareholder rights, including the right to appoint and remove directors at any time. The nominee director cannot make operational decisions, enter commercial contracts, or access bank accounts unless explicitly authorised to do so.
+Yes, but it is not included in the annual fee. Signing banking documents, attending bank meetings, and executing powers of attorney are billed separately at CHF 350 per hour. An active company that opens a bank account, hires staff, and signs a lease should budget CHF 2'000-4'000 in additional nominee charges in the first year on top of the CHF 5'900 base fee. This is disclosed upfront, but founders who budget only the headline fee are routinely surprised.
+
+**Is a nominee director just a rubber stamp?**
+
+No -- and any provider offering a pure rubber-stamp service is creating legal risk for both parties. A nominee director must exercise independent judgment under CO 717 (duty of care). They must understand the company's business well enough to identify red flags. Lawsupport conducts thorough KYC before accepting any engagement and refuses companies whose activities cannot be verified. We have declined approximately 15% of nominee enquiries over the past three years on compliance grounds.
 
 **Can I replace the nominee director later?**
 
-Yes. The nominee director can be replaced at any time by shareholder resolution. This is the case whether you are appointing a new professional nominee director, appointing yourself (once you have Swiss residency), or restructuring the board in any other way. The outgoing director's name is removed from the Commercial Register and the incoming director's name is added, with the change taking effect upon registration.
+Yes. The nominee director can be replaced at any time by shareholder resolution. This is common when founders obtain Swiss residency and take over the directorship themselves. The outgoing director's name is removed from the Commercial Register and the incoming director's name is added. In Zug, this typically takes one to three weeks.
 
 **What happens if the company gets into financial difficulty?**
 

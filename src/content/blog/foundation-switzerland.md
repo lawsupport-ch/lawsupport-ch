@@ -113,6 +113,16 @@ There are no shareholders or members to whom the board is accountable — the su
 
 ---
 
+## The Irrevocability Trap: What Founders Must Understand
+
+The single most important feature of a Swiss foundation -- and the one most frequently underestimated by founders -- is its **irrevocability**. Once assets are dedicated to a foundation and the charter is registered, the founder cannot retrieve them. This is not a contractual restriction that can be renegotiated; it is a structural feature of Swiss foundation law.
+
+In one case, a founder established a charitable foundation in Zug with an initial endowment of CHF 500'000, intending it as a long-term philanthropic vehicle. Two years later, facing personal financial difficulties, he sought to recover the endowment. The supervisory authority refused. The Zug district court confirmed: the assets belonged to the foundation, not to the founder. The founder's only remaining connection was his seat on the foundation board -- which entitled him to reasonable compensation for his service, not access to the foundation's capital.
+
+**Before forming a foundation, ask yourself:** Am I genuinely prepared to lose permanent control of these assets? If the answer involves any qualification -- "unless my circumstances change," "unless the foundation fails," "unless I need the money back" -- a foundation is the wrong vehicle. Consider a [holding company](/company-formation/holding-company-switzerland/) or an AG, both of which allow full shareholder control over distributions and exit.
+
+---
+
 ## Tax-Exempt Status
 
 

@@ -263,6 +263,26 @@ No. US tax obligations follow US citizenship regardless of other nationalities h
 
 ---
 
+## The Timeline Reality: What US Founders Should Expect
+
+Based on our experience with US-person-owned company formations and bank account openings over the past three years:
+
+| Step | Realistic Timeline |
+|---|---|
+| Swiss GmbH/AG formation (including notary and register) | 3-5 weeks |
+| Bank selection and KYC preparation | 1-2 weeks (parallel with formation) |
+| Bank compliance review (US-person-controlled entity) | 3-8 weeks |
+| FATCA certification and W-9 processing | Included in bank review |
+| **Total: formation to operational bank account** | **6-12 weeks** |
+
+The single biggest variable is the bank's internal compliance review. Non-US-person-controlled entities typically clear in 2-3 weeks. US-person-controlled entities take 3-8 weeks because the FATCA compliance team reviews the structure separately from the standard KYC team.
+
+**What accelerates the process:** A complete, error-free KYC package submitted on day one. Every missing document -- a proof of address older than three months, a W-9 with a signature mismatch, an articles of association without an apostille -- adds a round-trip of 1-2 weeks.
+
+**What delays it irrecoverably:** Discovering mid-process that the chosen bank does not accept US-person-controlled entities. This forces a restart with a different institution. We pre-screen bank acceptance before beginning the KYC preparation process to avoid this scenario.
+
+---
+
 ## How Lawsupport Can Help
 
 Lawsupport (Morgan Hartley Consulting) works with US entrepreneurs and business owners setting up Swiss company formation and Swiss banking. We handle the GmbH or AG formation process from incorporation through Handelsregister registration, advise on FATCA-compatible bank selection based on your specific business profile, and coordinate the KYC preparation process to reduce back-and-forth with banks.

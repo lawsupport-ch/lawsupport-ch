@@ -253,6 +253,25 @@ A crypto or blockchain protocol foundation in Zug typically has the following st
 
 ---
 
+## Foundation vs Holding Company: When Each Structure Serves Better
+
+Founders sometimes confuse the two structures. They are fundamentally different tools for different objectives.
+
+| Objective | Foundation (Stiftung) | Holding Company (AG) |
+|---|---|---|
+| Return on investment to founder | **Not possible** -- assets permanently dedicated | Yes -- dividends, capital gains, share buyback |
+| Control over asset deployment | Board decides within charter purpose | Shareholders decide freely |
+| Tax-exempt status available? | Yes (if charitable) | No (but participation exemption reduces rate to 0-3%) |
+| Supervisory oversight | Mandatory (Stiftungsaufsicht) | None (beyond standard corporate law) |
+| Exit / sale | Not possible -- foundation cannot be sold | Yes -- shares can be transferred |
+| Suitable for commercial ventures? | No | Yes |
+| Suitable for philanthropy? | Yes | No |
+| Suitable for protocol governance (crypto)? | Yes -- the standard vehicle | Possible but less appropriate |
+
+**If your primary goal is profit generation, investment returns, or eventual exit, choose an AG.** The foundation is for permanent asset dedication to a defined purpose. Choosing the wrong structure is expensive to correct -- and in the case of a foundation, may be impossible to correct at all.
+
+---
+
 ## Swiss Foundation vs. Trust
 
 Switzerland does not have domestic trust law. It ratified the Hague Convention on the Law Applicable to Trusts and on their Recognition in 2007, meaning Switzerland recognises foreign trusts — but you cannot form a trust under Swiss law itself.

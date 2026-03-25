@@ -2,6 +2,7 @@
 title: "Due Diligence Switzerland: Process & Risks (2026)"
 description: "Swiss due diligence for M&A: legal, financial, tax, regulatory, and IP streams. Red flags, timelines, and Swiss-specific risks. Lawsupport, Zug."
 date: "19.03.2026"
+publishDate: "2026-04-15"
 category: "Corporate Transactions"
 categoryHref: "/corporate-transactions/"
 readTime: "9 min read"

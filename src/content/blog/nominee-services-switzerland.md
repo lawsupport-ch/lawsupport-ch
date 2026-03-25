@@ -17,6 +17,8 @@ faqItems:
     answer: "A nominee director sits on the board and holds signatory authority. A nominee shareholder holds shares on behalf of the true owner. These are separate arrangements with different legal implications."
   - question: "Do I need a nominee director for a branch office?"
     answer: "Swiss branch offices of foreign companies must appoint a person domiciled in Switzerland who is authorised to represent the branch. This person serves a similar function and must be entered in the Commercial Register."
+  - question: "What is the nominee director actually liable for under Swiss law?"
+    answer: "Everything a regular director is liable for. Under CO 754, personal liability applies for intentional or negligent breach of duties, including failure to act on overindebtedness, signing misleading accounts, and allowing insolvent trading."
 tocItems:
   - id: "the-swiss-resident-director-requirement"
     title: "The Swiss-Resident Director Requirement"
@@ -96,6 +98,39 @@ Nominee shareholder (Treuhandaktionaer/Treuhaender) arrangements exist -- a Swis
 - Anonymity from FINMA-supervised banks (Form A requires beneficial owner identification)
 - A substitute for genuine Swiss substance if the company's tax residency is at issue
 - A route to avoid Swiss tax reporting obligations of the beneficial owner
+
+---
+
+## The Real Cost: What First-Year Clients Actually Pay
+
+The headline nominee director fee -- CHF 5'900 per year -- covers the directorship itself. Here is what a typical first-year active company actually spends:
+
+| Item | Cost (CHF) |
+|---|---|
+| Standard nominee director (annual) | 5'900 |
+| Bank account opening meeting (2 hours) | 700 |
+| Work permit signing (1 hour) | 350 |
+| Power of attorney execution (1 hour) | 350 |
+| Board resolution signing (2 instances) | 700 |
+| **Realistic first-year total** | **8'000-9'000** |
+
+For the premium tier (CHF 7'400/year), which includes higher involvement in regulatory coordination, the realistic first-year total rises to CHF 10'000-12'000 with additional hours.
+
+This is not a hidden cost -- it is disclosed before the engagement begins. But founders who budget only the headline fee consistently underestimate their actual outlay. A dormant holding company with no bank account, no employees, and no transactions will pay the base fee and nothing more. An active trading company will not.
+
+---
+
+## Nominee Director Liability: CO 754 in Practice
+
+A question every beneficial owner should ask before engaging a nominee: what personal risk is my nominee director accepting?
+
+Under **Art. 754 CO**, directors -- including nominees -- are personally liable for damages caused by intentional or negligent breach of their duties. This is not theoretical. In Swiss court practice, nominee directors have been held liable for:
+
+- Failure to notify the court of overindebtedness within the Art. 725b CO timeframe
+- Signing financial statements that did not reflect the company's true position
+- Allowing the company to continue trading while technically insolvent
+
+The practical consequence: any reputable nominee provider conducts KYC before accepting an engagement, monitors the company's annual accounts, and reserves the right to resign if the company's activities deviate from what was disclosed. A provider who accepts any client without verification is exposing their own directors to unlimited personal liability -- which tells you something about the quality of the service.
 
 ---
 

@@ -157,6 +157,22 @@ Non-Swiss manufacturers placing devices on the Swiss market must appoint a **Swi
 
 ---
 
+## The Clock-Stop Problem: Why Timelines Slip
+
+The most common cause of Swissmedic timeline overruns is not the agency's processing speed -- it is the applicant's dossier quality.
+
+When Swissmedic identifies a deficiency in a marketing authorisation dossier, it issues a "list of questions" (Mangelliste). The review clock stops entirely until the applicant provides a complete response. Each round of questions adds the response preparation time plus the time for Swissmedic to resume review. In practice:
+
+- **One round of questions:** adds 3-6 months to the timeline
+- **Two rounds:** adds 8-14 months
+- **Three or more rounds:** the dossier may be refused and the applicant invited to withdraw and resubmit
+
+For novel biologicals, two rounds of questions is the norm rather than the exception. A standard procedure that Swissmedic quotes at 12-18 months can realistically extend to 24-30 months if the dossier is incomplete or the clinical data package has gaps.
+
+**The practical fix:** Engage regulatory affairs specialists who have submitted to Swissmedic before. A pre-submission meeting with Swissmedic (available for novel active substances and complex biologicals) allows the agency to flag potential issues before the clock starts. This meeting costs nothing beyond the preparation time, but it can prevent six months of delay.
+
+---
+
 ## The Swiss-EU Mutual Recognition Agreement
 
 The Swiss-EU MRA on conformity assessment covers GMP inspections, batch release, and a number of conformity assessment procedures. In practical terms, this means:
