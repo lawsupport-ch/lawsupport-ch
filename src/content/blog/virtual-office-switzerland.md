@@ -80,7 +80,7 @@ The registered domicile of your Swiss company determines which cantonal tax auth
 - **Zug Commercial Register** — among Switzerland's most reliable for processing speed
 - A Zug address carries the credibility of Switzerland's most internationally recognised business canton
 
-The difference between registering at Grafenauweg 4, Zug versus a comparable address in Zurich is approximately 8 percentage points in corporate tax — CHF 79'000 per year on CHF 1 million in taxable profit.
+The difference between a Zug address (effective corporate tax rate approximately 11.85%) and a Zurich address (approximately 20%) is roughly 8 percentage points — CHF 79'000 per year on CHF 1 million in taxable profit. For a company earning CHF 200,000, that is still CHF 15,800 saved annually, enough to cover the address cost several times over.
 
 ---
 
@@ -99,12 +99,21 @@ To be clear about limitations:
 
 | Service | Annual Fee (CHF) |
 |---|---|
-| Registered address (Grafenauweg 4, Zug) | 600–900 |
+| Registered address — Zug (Baarerstrasse 25 or Grafenauweg 4) | **2,400** |
+| Registered address — Zurich (Stockerstrasse 45) | **3,000** |
 | Mail handling and digital forwarding | Included |
 | Add-on: telephone reception | 500–800 |
 | Add-on: meeting room (per day) | 300–500 |
 
 All prices exclusive of Swiss [VAT](/tax-accounting/vat-switzerland/) (MWST). Fee quoted at the outset of engagement and fixed for the annual period.
+
+### Direct Address vs. c/o Address: Why It Matters for Banking
+
+A registered address can appear in the Commercial Register in two ways: as a **direct address** (the company name appears at the address without any intermediary notation) or as a **c/o address** (the company is listed "care of" another entity at the address).
+
+The distinction seems administrative. It is not. Swiss banks — particularly PostFinance — are measurably more likely to reject account opening applications from companies registered at c/o addresses. The c/o notation signals to bank compliance teams that the company may lack genuine substance at the registered location. PostFinance, which already applies restrictive onboarding criteria (rejecting companies for brand-sensitive names, insufficient business documentation, and high-risk jurisdictions), treats a c/o address as an additional red flag during KYC review.
+
+Our registered address service uses direct address registration — your company name appears at the address without c/o notation. This is a deliberate choice that reduces friction at the bank account opening stage.
 
 ---
 

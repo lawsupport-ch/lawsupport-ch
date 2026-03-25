@@ -139,7 +139,7 @@ For more on how nominee services fit into the broader corporate structure, see o
 
 ## Liability: Understanding the Risk
 
-Nominee directors under Swiss law bear personal liability for company obligations in certain circumstances. This is a real consideration, not a hypothetical one, and it is the reason Lawsupport takes its onboarding process seriously.
+Nominee directors under Swiss law bear personal liability for company obligations in certain circumstances. Under **Art. 754 CO**, directors -- including nominees -- are personally liable for damages caused by intentional or negligent breach of their duties. This is a real consideration, not a hypothetical one, and it is the reason Lawsupport takes its onboarding process seriously.
 
 Under Swiss law, directors can be held personally liable for:
 
@@ -172,18 +172,13 @@ If you are forming a [Swiss AG](/company-formation/ag-formation-switzerland/) or
 
 ## Cost of Swiss Nominee Director Services
 
-The annual fee for Lawsupport's nominee director service is **CHF 1'500 to CHF 3'000 per year**, depending on the complexity of the mandate and the nature of the company's activities.
+The standard annual fee for a professional nominee director in Switzerland is **CHF 5'900 per year**. For mandates requiring higher involvement -- regular document signing, board participation, or coordination with regulators -- the premium rate is **CHF 7'400 per year**. A six-month interim arrangement (common for founders who expect to relocate to Switzerland within a year) costs **CHF 4'500**.
 
-This fee covers:
+This fee covers the core directorship function: Commercial Register listing, individual signatory authority, execution of standard corporate documents (annual accounts approval, routine board resolutions), and ongoing communication with the beneficial owner.
 
-- Registration as director in the Commercial Register
-- Execution of required corporate documents within the mandate scope
-- Annual compliance review
-- Ongoing communication and instruction handling
+**What is not included -- and this catches many first-time clients:** signing work permits, preparing or filing corporate documents with cantonal authorities, attending board meetings beyond the annual minimum, signing banking documentation, and coordinating with auditors or regulatory bodies. These tasks are billed separately at **CHF 350 per hour**. In practice, a company that is actively trading, hiring staff, or opening bank accounts should expect several hours of additional billable work per quarter on top of the annual nominee fee.
 
-The nominee director fee is **included in certain Lawsupport formation packages**. When forming a company through Lawsupport, ask us whether your package includes this service or whether it is billed separately.
-
-There are no hidden costs. Any document outside the standard scope -- for example, execution of a notarised deed or attendance at a specific proceeding -- is quoted separately in advance.
+A founder who budgets only CHF 5'900 for the first year and then needs the nominee to sign a work permit application, attend two bank meetings, and execute a power of attorney will find the actual cost closer to CHF 8'000-9'000. This is not a hidden cost -- it is disclosed upfront -- but it is a cost that founders routinely underestimate.
 
 ---
 
@@ -239,7 +234,9 @@ At formation, Lawsupport appoints one of its qualified Swiss professionals as no
 
 The Singapore-based founder is the sole shareholder. She holds all shareholder rights, receives dividends, and directs the company's commercial activity. She signs commercial contracts in her capacity as authorised signatory under a power of attorney granted by the company. The nominee director signs internal corporate documents as required and is available for Swiss-law compliance obligations.
 
-The company operates normally. The founder manages it remotely. The Swiss legal requirement is satisfied. This is the standard operating model for the majority of Lawsupport's international clients.
+What this example does not show is the friction that precedes smooth operation. The KYC verification process for the nominee engagement -- identity verification, source of funds documentation, business model review -- typically takes two or more weeks. In one recent case involving a fintech client, the verification process extended past three weeks because the payment processor's compliance team required additional documentation from the nominee's side before approving the corporate account. Founders expecting same-week nominee appointments should adjust their timelines accordingly.
+
+The company operates normally once the structure is in place. The founder manages it remotely. The Swiss legal requirement is satisfied. This is the standard operating model for the majority of Lawsupport's international clients.
 
 ---
 

@@ -93,6 +93,10 @@ For a non-EU national to obtain a self-employment permit, cantonal authorities e
 
 There is no guaranteed process. Applications are evaluated individually. Approval rates for non-EU self-employment permits are lower than for employment-based permits, and processing times vary widely. Plan for six months minimum before any certainty.
 
+**The company formation workaround — and its limits:** Many American entrepreneurs attempt to bypass the self-employment permit by forming a Swiss GmbH or AG and then applying for a work permit as a director of their own company. This can work, but the cantonal labour authorities are aware of the pattern. They will assess whether the company has genuine economic substance in Switzerland — not just whether it exists on paper. A freshly formed GmbH with no clients, no revenue, and a single American director who is also the sole shareholder will face questions. Companies with existing Swiss clients, local contracts, or a plausible Swiss market need are treated more favourably.
+
+Formation costs for a GmbH: CHF 1,900 (registration including notary). Full package with registered address, nominee director, and accounting: approximately CHF 12,000 in the first year excluding share capital.
+
 If self-employment is your goal, cantonal choice matters significantly. Entrepreneurs often pair the permit application with [company formation in Switzerland](/company-formation/company-formation-switzerland/) — having an established legal entity strengthens the case.
 
 ---
@@ -127,18 +131,27 @@ Family reunification is more straightforward than employment-based immigration b
 
 ---
 
-## FATCA and Swiss Bank Accounts: A Practical Obstacle
+## FATCA and Swiss Bank Accounts: The Hardest Part of Moving
 
-Immigration approval does not solve the banking problem. US citizens face significant difficulty opening Swiss bank accounts, and this is not widely discussed before people arrive.
+Immigration approval does not solve the banking problem. In fact, banking is consistently the single biggest practical obstacle Americans face when moving to Switzerland — harder than the permit, harder than finding housing, harder than the tax planning.
 
 The US Foreign Account Tax Compliance Act (FATCA) requires Swiss financial institutions to report account information for US clients directly to the IRS. Rather than absorb the compliance burden, many Swiss banks have chosen a simpler solution: they decline US clients entirely.
 
-**Current situation:**
+**The reality in 2026 — based on actual client outcomes:**
 
-- Many private and cantonal banks refuse US clients outright
-- UBS accepts US clients but generally requires high minimum assets (private banking threshold)
-- Some cantonal banks accept US residents on a case-by-case basis
-- PostFinance (the Swiss Post's financial arm) offers basic account access and is more accessible for everyday banking
+- **Most private banks and cantonal banks refuse US clients outright.** This is not a soft preference — it is policy.
+- **UBS** accepts US clients but generally requires CHF 500,000 or more under management. This is private banking, not everyday banking.
+- **PostFinance** is theoretically more accessible, but rejects a meaningful share of applications from US-connected individuals and companies. Processing takes three to four weeks, and rejection arrives without detailed explanation.
+- **Relio AG** (Zurich-based fintech, CHF 249/month) is fast and modern — but has an **explicit exclusion for US nexus**. Their stated policy: "unable to onboard companies with US nexus at UBO/shareholders level." If you are a US citizen setting up a Swiss company, Relio will not open the account.
+
+**A real case that illustrates the problem:** A US-owned company (an employer of record with three staff in Switzerland) was rejected by Relio due to the American ownership. The company was forced to route Swiss operations through a UK parent company's Ebury payment account — which is not a proper bank account but a payment service. This created serious compliance problems: Swiss regulators view companies operating without their own bank account as questionable, and the arrangement made VAT registration and payroll processing unnecessarily complex.
+
+**Practical advice:**
+
+1. Start the banking search **before** you move, not after
+2. If a bank approves your initial account opening, there is roughly an 80% chance the relationship will continue — banks rarely close accounts they have voluntarily opened
+3. If you have an existing relationship with a global bank (HSBC, Citi) in the US, explore whether their Swiss entity will onboard you based on the existing relationship
+4. Consider whether you can restructure ownership to remove the US nexus — for example, a non-US spouse as the primary account holder or UBO
 
 Plan for this before you arrive. Arriving in Switzerland without a clear banking solution creates immediate practical difficulties — landlords, employers, and government offices require Swiss bank accounts for payment and direct debit arrangements.
 
@@ -186,6 +199,8 @@ For the most common scenario — an American accepting a Swiss job offer:
 6. Travel to Switzerland
 7. Register with Einwohnerkontrolle within 14 days of arrival
 8. B permit card issued by cantonal migration office
+
+**A detail that catches people after arrival:** work permit renewals must be **physically signed** — blue pen on paper. Digital signatures are not accepted. This is not an anachronism that is about to change; it is current Swiss administrative practice. If you travel frequently, plan your renewal timing around your physical presence in Switzerland.
 
 Total: approximately four to five months from job offer to residence permit in hand.
 

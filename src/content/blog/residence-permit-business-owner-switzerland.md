@@ -89,11 +89,29 @@ Switzerland issues work/residence permits to non-EU/EFTA nationals based on empl
 - **Economic benefit to Switzerland**: does the company create Swiss jobs? Does it generate economic activity that benefits the Swiss economy — not just the owner?
 - **Your qualifications**: Swiss law requires that non-EU/EFTA employees demonstrate advanced qualifications and specialised expertise. Generic management roles rarely qualify.
 - **Cantonal quota**: non-EU/EFTA B work permits are subject to annual federal and cantonal quotas. Supply is limited.
-- **Priority check**: authorities formally check whether the role could be filled by a Swiss or EU/EFTA national. For a business owner self-sponsoring, this is assessed with some pragmatism, but it is not waived.
+- **Priority check (B2 requirement)**: authorities formally check whether the role could be filled by a Swiss or EU/EFTA national. This is not a formality — the company must submit an explanation letter setting out precisely why no Swiss or EU/EFTA candidate is suitable. For a business owner self-sponsoring, this is assessed with some pragmatism, but it is never waived. The explanation must be specific and credible; generic statements about the founder's unique vision are routinely rejected.
 
 The result: an [L permit](/immigration/l-permit-switzerland/) (short-term, up to 12 months) or a B work permit (renewable), obtained through your Swiss company as sponsor. The criteria are genuinely demanding, and outcomes are not guaranteed. Cantonal authorities have significant discretion.
 
 This route works most reliably when the company has substance — Swiss employees, Swiss clients, Swiss economic footprint — and the applicant has demonstrable expertise that cannot readily be sourced domestically.
+
+### What the Process Actually Looks Like
+
+In practice, for a non-EU/EFTA founder applying through their own Swiss company in canton Zug, the sequence runs roughly as follows:
+
+1. **Company formation**: commercial register entry takes approximately one month
+2. **Permit application**: the company files a B2 work permit application with the cantonal migration office, including the explanation letter, employment contract, and supporting documentation
+3. **Relocation essentials**: securing accommodation, health insurance, and communal registration adds roughly one further month
+
+Total elapsed time from company formation instruction to the founder physically residing in Switzerland with a valid permit: approximately **two months** in a straightforward case. This assumes no complications with banking, no additional documentation requests from migration authorities, and no delays in the Commercial Register.
+
+**One detail that catches people off guard:** work permit renewal documents must be physically signed in blue pen and posted. Digital signatures are not accepted. This is a minor point until you miss a renewal deadline because you assumed an electronic signature would suffice.
+
+### The Nominee Director Bridge
+
+During the period between company formation and the founder's own permit approval, the Swiss-resident director requirement must still be satisfied. A [nominee director](/corporate-services/nominee-director-switzerland/) fills this gap — typically for an interim period of four to six months, though founders should plan for longer. Six months is often tight; allow for at least two months of processing plus buffer.
+
+**Cost of immigration support:** Professional legal support for the residence permit application typically requires a retainer of **CHF 3'500**, with hourly rates of CHF 150-450 for ongoing work depending on complexity. The retainer covers the initial assessment, document preparation, and filing. Additional hours are billed separately for matters such as follow-up correspondence with migration authorities or complications arising from the applicant's specific profile.
 
 ---
 

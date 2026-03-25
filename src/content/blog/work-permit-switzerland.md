@@ -149,6 +149,20 @@ Work permit applications in Switzerland are handled by **cantonal migration auth
 
 **Step 5: Permit issuance and registration.** Once approved, the permit is issued and the employee must register with the municipal Einwohnerkontrolle within **14 days** of arrival. Biometric registration is completed at this stage and the physical permit card is issued shortly after.
 
+### The Wet-Ink Signature Requirement
+
+Work permit renewals require a **physically signed application** — specifically, a wet-ink signature in **blue pen**. Digital signatures, electronic signatures, and scanned copies are **not accepted** by cantonal migration authorities. This catches non-EU permit holders who manage their Swiss affairs remotely. If you are outside Switzerland when your renewal is due, you must ensure the physical document is signed and submitted in time. A nominee director or representative cannot sign the permit renewal on your behalf — it requires the permit holder's personal signature. Companies with non-EU directors who travel frequently should calendar renewal deadlines well in advance and ensure the director will be available for physical signing.
+
+### The SECO Staff Leasing Myth
+
+A persistent misconception in the Swiss market is that companies with fewer than 10 staff leasing contracts do not need a SECO licence. This is false. The <a href="https://www.seco.admin.ch/seco/en/home.html" target="_blank" rel="nofollow noopener">SECO</a> staff leasing licence (Personalverleihbewilligung) is required regardless of the number of contracts. Even a single staff leasing arrangement triggers the licensing obligation. Fines for operating without authorisation reach up to CHF 100,000 for the provider and CHF 40,000 for the client (if the client knew or should have known the provider lacked authorisation).
+
+This is directly relevant to work permit planning because companies that structure employment through a group entity — where one Swiss company employs staff who work primarily for another group company — may inadvertently create a staff leasing arrangement. A master service agreement (MSA) issued by a US parent entity does not cover Swiss operations: the MSA must be issued by the Swiss entity that holds the SECO licence. Payments for Swiss services must go directly to the authorised provider.
+
+### Nominee Director Signing Complications
+
+Companies using a [nominee director](/corporate-services/nominee-director-switzerland/) service face a practical friction point with work permits. The nominee director's standard retainer (typically CHF 5,900/year) does not include signing work permits, corporate filings, board meeting attendance, or banking documents. These activities are billed separately at CHF 350/hour. When a non-EU employee's work permit requires the employer's signature — and the only Swiss-resident director is a nominee — coordinating the signing adds both time and cost to the process. Companies should discuss permit-related signing requirements with their nominee director provider before the first permit application, not when the deadline is approaching.
+
 **Timeline summary:**
 - EU/EFTA nationals: **5–20 working days**
 - Non-EU ICT and specialist/manager applications: **4–12 weeks** (cantonal-only cases); **8–16 weeks** where federal referral is required

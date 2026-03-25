@@ -68,11 +68,17 @@ The official framework governing cross-border commuters is described on the <a h
 
 Four conditions must all be met:
 
-**1. EU/EFTA nationality.** The AFMP covers nationals of EU and EFTA member states. Third-country nationals (including non-EU spouses of EU nationals) follow a separate, more restricted process. See our guide on [work permits in Switzerland](/immigration/work-permit-switzerland/) for the full framework.
+**1. EU/EFTA nationality.** The AFMP covers nationals of EU and EFTA member states. The entire G permit framework rests on the bilateral Agreement on the Free Movement of Persons between Switzerland and the EU/EFTA, which entered into force on 1 June 2002. This is not Swiss domestic immigration law — it is a treaty obligation. Switzerland cannot unilaterally restrict G permit issuance for EU/EFTA nationals without renegotiating the bilateral agreement.
+
+This matters practically: unlike work permits for third-country nationals (where annual quotas, priority checks, and cantonal discretion apply), G permit applications for EU/EFTA citizens involve **no quota, no priority check, and no skills threshold**. The employer does not need to prove that no Swiss candidate was available. The right to cross-border employment is a treaty right, not a discretionary grant.
+
+Third-country nationals (including non-EU spouses of EU nationals) follow a separate, more restricted process. See our guide on [work permits in Switzerland](/immigration/work-permit-switzerland/) for the full framework.
 
 **2. Residence in the border zone of a neighbouring country.** The applicant must live in a recognised border zone adjacent to Switzerland. In practice, this covers most of the populated areas of Baden-Württemberg and Bavaria bordering Switzerland, the Alsace and Rhône-Alpes regions of France, the Italian border regions (Lombardy, Piedmont, Aosta Valley, Liguria), and Austria's Vorarlberg. The residence address must be genuine — a principal residence, not a secondary address.
 
 **3. Regular return to the home country.** The defining feature of G permit status is weekly return. The permit holder must return to their home address at least once per week. Extended stays in Switzerland do not satisfy this condition and can trigger a challenge to G permit status.
+
+This requirement has teeth. Cantonal migration offices cross-reference G permit holders against residential registrations, and Swiss landlords are required to report tenants. A G permit holder who rents a Swiss flat — even as a "convenience" arrangement — risks reclassification. The tax consequences of involuntary reclassification from G permit to B permit status are significant: your tax residency shifts from your home country to Switzerland, potentially mid-year, creating a split-year filing problem in both jurisdictions.
 
 **4. A genuine employment relationship with a Swiss employer.** A standard employment contract — with a Swiss company, on a Swiss payroll — is the baseline.
 
@@ -145,7 +151,11 @@ Healthcare and other social benefits are generally maintained in the home countr
 
 ## Banking and Financial Services
 
-G permit holders are not Swiss residents, but they do have a legal Swiss status. Most Swiss cantonal banks and major banks accept G permit holders for standard current accounts. Swiss salary accounts are routinely opened for G permit holders by their employers' banking partners. For an overview of banking options, see our guide on [Swiss bank accounts](/banking/swiss-bank-account/).
+G permit holders are not Swiss residents, but they do have a legal Swiss status. Most Swiss cantonal banks and major banks accept G permit holders for standard current accounts. Swiss salary accounts are routinely opened for G permit holders by their employers' banking partners.
+
+One practical advantage G permit holders have over newly formed companies: banks are far more willing to open salary accounts for employed individuals than corporate accounts for startups. The employment contract serves as proof of income and Swiss economic connection. If your employer's payroll bank is a cantonal bank, the account opening is typically handled as part of the onboarding process with minimal friction.
+
+For an overview of banking options, see our guide on [Swiss bank accounts](/banking/swiss-bank-account/).
 
 ---
 

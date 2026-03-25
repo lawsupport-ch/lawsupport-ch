@@ -87,13 +87,13 @@ Public takeovers are regulated by <a href="https://www.finma.ch/en/" target="_bl
 
 ### Mergers Under the Swiss Merger Act (FusG)
 
-The FusG governs formal mergers (absorptions and combinations), demergers (spin-offs), and transformations (conversion of legal form). These are court-supervised processes requiring notarial involvement, auditor reports, creditor protection periods, and Commercial Register filings. A straightforward merger between two private companies typically takes three to six months from start to finish. Demergers require careful attention to asset allocation, liability apportionment, and employee consultation.
+The FusG governs formal mergers (absorptions and combinations), demergers (spin-offs), and transformations (conversion of legal form). These are court-supervised processes requiring notarial involvement, auditor reports, creditor protection periods, and Commercial Register filings. A straightforward merger between two private companies typically takes three to six months from start to finish. Share transfers and trade register updates for smaller restructurings -- such as a founder exit with share buyout -- typically require three to four weeks for the Commercial Register to process the changes, though this assumes all documentation (notarised agreements, board resolutions, updated articles) is filed without deficiencies. In one recent matter involving a healthcare startup in Zug, a share buyout between two non-resident founders required a Swiss-resident managing director with joint signature authority, and the entire restructuring from engagement to register entry took just under four weeks. Demergers require careful attention to asset allocation, liability apportionment, and employee consultation.
 
 ---
 
 ## Due Diligence: What Gets Examined
 
-Due diligence in a Swiss M&A transaction is not a formality. It is the primary mechanism by which the buyer identifies risks, calibrates price, and scopes the representations and warranties it will require from the seller. For a detailed overview, see our [due diligence guide](/corporate-transactions/due-diligence-switzerland/).
+Due diligence in a Swiss M&A transaction is not a formality. It is the primary mechanism by which the buyer identifies risks, calibrates price, and scopes the representations and warranties it will require from the seller. Legal advisory time for M&A due diligence is billed at CHF 350 per hour, and a mid-market deal routinely generates 30 to 80 hours of legal review alone -- before accounting for financial and tax workstreams. Founders who assume due diligence is a quick checklist tend to discover the real cost after signing a fixed retainer that proves insufficient. For a detailed overview, see our [due diligence guide](/corporate-transactions/due-diligence-switzerland/).
 
 Standard due diligence workstreams:
 
@@ -194,7 +194,7 @@ It depends on the structure. GmbH quota transfers require a publicly authenticat
 
 **How long does a typical Swiss private M&A transaction take?**
 
-From mandate to closing, a straightforward private share deal (AG, no regulatory approvals required) takes six to twelve weeks. GmbH deals add notarial scheduling time. Transactions requiring FINMA or COMCO approval add two to four months depending on the regulatory process. Formal mergers under the FusG take a minimum of three months due to mandatory creditor protection periods.
+From mandate to closing, a straightforward private share deal (AG, no regulatory approvals required) takes six to twelve weeks. GmbH deals add notarial scheduling time. Transactions requiring FINMA or COMCO approval add two to four months depending on the regulatory process. These timelines assume clean documentation and responsive counterparties -- in practice, incomplete KYC on the buyer side or disputes over warranty scope routinely push straightforward deals past the twelve-week mark. Formal mergers under the FusG take a minimum of three months due to mandatory creditor protection periods.
 
 **What is the biggest legal risk for a buyer in a Swiss M&A transaction?**
 

@@ -65,7 +65,7 @@ Swiss applicants must follow a defined sequence.
 You must own either a registered Swiss trademark or a pending application at the IPI. This is called the "basic mark." You cannot file internationally under the Madrid Protocol without it. If you have not yet filed in Switzerland, that is the starting point -- see our guide to [trademark registration in Switzerland](/intellectual-property/trademark-registration-switzerland/).
 
 **Step 2: File the international application through the IPI.**
-The international application is submitted to the IPI, which acts as the office of origin. The IPI verifies that the international application matches the basic mark (same owner, same mark, goods/services cannot exceed those in the basic mark) and certifies the application before forwarding it to WIPO.
+The international application is submitted to the IPI (Institut fuer Geistiges Eigentum, also known as IGE in German), which acts as the office of origin. The IPI conducts a formal examination only — it verifies that the international application matches the basic mark (same owner, same mark, goods/services cannot exceed those in the basic mark) and certifies the application before forwarding it to WIPO. The IPI does not conduct a substantive examination of the mark's distinctiveness or potential conflicts at this stage. That is left to the national offices in each designated country. The IPI certification stage typically takes a few weeks.
 
 **Step 3: WIPO formal examination.**
 WIPO reviews the application for formal compliance -- it does not assess whether the mark is distinctive or conflicting with earlier rights. If the application passes, WIPO registers the mark in the International Register and publishes it in the WIPO Gazette. The international registration date is typically the date WIPO received the application from the IPI.
@@ -104,7 +104,7 @@ Fees are paid in Swiss francs (CHF) to WIPO, with an additional IPI fee payable 
 | Australia | 237 |
 | South Korea | 185 |
 
-**Indicative total for five key markets (EU, USA, China, UK, Japan), black and white mark, one class:** approximately CHF 2'750--3'200 excluding professional fees, plus IPI fee of CHF 200. Multi-class applications increase costs proportionally via per-class designation fees.
+**Indicative total for five key markets (EU, USA, China, UK, Japan), black and white mark, one class:** approximately CHF 2'750-3'200 in official fees, plus the IPI office of origin fee of CHF 200. Professional fees — for a trademark attorney to prepare the application, draft goods/services specifications, and handle correspondence — typically add CHF 2'000-5'000 depending on complexity and the number of classes. Multi-class applications increase costs proportionally via per-class designation fees in each designated country.
 
 These figures are based on current <a href="https://www.wipo.int/madrid/en/fees/calculator.jsp" target="_blank" rel="nofollow noopener">WIPO fee schedules</a>. Fees for individual country designations are subject to change and should be confirmed against the WIPO Fee Calculator before filing.
 
@@ -173,6 +173,14 @@ You can designate the EU as a single territory in your Madrid application. This 
 **What are the risks of not using the Madrid Protocol for international protection?**
 
 Without the Madrid Protocol, you must file separate national trademark applications in each target country, each with its own filing fees, local agent costs, examination timelines, and renewal schedules. This is significantly more expensive and administratively complex. There is also a risk of losing priority if a third party files a similar mark in a target country before you complete your national filing. The Madrid Protocol's single filing date across all designations mitigates this priority risk.
+
+---
+
+## Batch Filing Strategy
+
+For companies with multiple brands or product lines, the IPI allows batch preparation of Madrid applications — filing several international applications in sequence, each based on a corresponding Swiss basic mark. The cost efficiency of batch filing is significant: a single engagement with a Swiss trademark attorney to prepare five international applications costs materially less than five separate engagements. The key constraint is that each international application must be based on its own Swiss basic mark — you cannot file one Madrid application for multiple unrelated trademarks.
+
+For companies entering multiple markets simultaneously, the optimal approach is to file all Swiss basic marks first (IPI examination takes 6-8 months for straightforward applications), then submit the international applications as a batch once the Swiss marks are registered or at least pending. This minimises the central attack risk (because each basic mark has time to clear the opposition period) and reduces total professional fees through economies of scale.
 
 ---
 

@@ -76,6 +76,8 @@ Every licensed establishment must designate a qualified responsible manager who 
 
 The manager listed on the Wirtepatent must not be a front. Authorities check physical presence. In Zurich and Geneva in particular, inspectors conduct unannounced visits during trading hours.
 
+**The hidden cost of manager turnover:** If your responsible manager leaves, you cannot operate legally until a replacement is licensed. There is no grace period in most cantons. This means either closing the establishment temporarily or having a second qualified person on staff at all times. For small operations — a single cafe or wine bar — this is the most underestimated operational risk in Swiss hospitality. The cantonal gastronomy course (three to five days, CHF 300 to CHF 800) takes weeks to schedule, and the licence transfer process adds another four to eight weeks. Budget for this contingency before it becomes an emergency.
+
 ### 2. Suitable Premises
 
 Before the licence is issued, the premises undergo a cantonal inspection covering:

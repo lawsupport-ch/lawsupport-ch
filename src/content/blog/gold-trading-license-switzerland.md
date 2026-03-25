@@ -79,9 +79,20 @@ The most important compliance requirement for gold traders is the <a href="https
 - **Suspicious activity reporting:** Report suspicious transactions to MROS (Money Reporting Office Switzerland)
 - **Record keeping:** Maintain records of all transactions for 10 years
 
+### FINMA Boundary Cases That Catch Gold Dealers
+
+The line between "SRO-only" and "FINMA-regulated" is thinner than it appears. Three scenarios where gold dealers unexpectedly trigger FINMA oversight:
+
+1. **Allocated gold accounts with redemption features.** If clients can deposit cash, receive allocated gold, and later redeem for cash — this starts to resemble deposit-taking in economic substance, regardless of how the contract is labelled.
+2. **Gold-backed token issuance.** Issuing tokens representing fractional gold ownership makes you a securities issuer under FINMA's token classification framework. The gold is irrelevant to the regulatory analysis; the token is what matters.
+3. **Managed gold portfolios.** If you buy and sell gold on behalf of clients based on your own discretion (rather than executing client orders), you are conducting asset management and need a FinIA licence.
+
 **SRO options for gold dealers:**
-- **VQF (Verein zur Qualitätssicherung von Finanzdienstleistungen):** Most commonly used; broad membership
-- **OAR-G:** SRO specifically for the gem and precious metals sector
+
+- **VQF (Verein zur Qualitaetssicherung von Finanzdienstleistungen):** Most commonly used; broad membership base, accepts precious metals dealers. Application assistance typically costs CHF 10,000 in legal fees, with total costs (including regulatory retainer) running to CHF 25,000+ for complex business models.
+- **OAR-G:** SRO specifically for the gem and precious metals sector. Smaller, more specialised, potentially faster onboarding for straightforward physical trading businesses.
+
+A critical post-approval obligation: **three months after SRO membership is granted, a mandatory audit takes place**. If the appointed AML compliance officer or responsible director cannot demonstrate competence, the SRO can revoke the membership. This is not a formality — revocations happen. Budget for a qualified AML officer before applying.
 
 ---
 
@@ -179,7 +190,13 @@ Establishing a gold storage operation in a Swiss freeport requires:
 
 To operate legally as a gold trader in Switzerland, you need a properly formed Swiss entity before applying for SRO membership. The typical structure is an AG or GmbH registered in a low-tax canton such as Zug. See our guides on [company formation in Switzerland](/company-formation/company-formation-switzerland/) and [FINMA licensing Switzerland](/licensing/finma-licensing-switzerland/) for the full process.
 
-Once incorporated, you apply to your chosen SRO (VQF or OAR-G), submit your AML compliance programme, appoint a compliance officer, and undergo an initial review. SRO membership typically completes within 4–8 weeks of a complete application.
+Once incorporated, you apply to your chosen SRO (VQF or OAR-G), submit your AML compliance programme, appoint a compliance officer, and undergo an initial review. SRO membership typically completes within 4 to 8 weeks of a complete application.
+
+### The Banking Problem for Gold and Crypto Combined
+
+If your gold trading business also touches cryptocurrency — accepting crypto payments for gold, tokenising gold, or combining precious metals with digital assets — expect enhanced KYC scrutiny from every Swiss bank. A recent client operating a crypto mining operation (mining privacy coins) paired with physical gold trading needed an all-in formation package (CHF 9,000 to CHF 11,000) but spent an additional three months developing a banking strategy specifically because the privacy coin element triggered every AML red flag. The company formation was straightforward; the bank account was not.
+
+Standard all-in formation cost for a gold trading entity: registration CHF 1,900 to CHF 2,500 + registered address CHF 2,400 + nominee director CHF 5,900 + accounting CHF 1,800 = approximately CHF 12,000 in the first year, excluding share capital.
 
 If your gold business involves managing client assets or trading derivatives, a [FINMA licence or crypto licence](/licensing/crypto-license-switzerland/) may also be required.
 

@@ -94,7 +94,7 @@ The SEM looks at:
 - The consistency of answers given independently by each spouse during any SEM interview
 - Whether the marriage followed an unusual timeline relative to the permit application
 
-Genuine couples have nothing to fear from this investigation. But they should be prepared. The SEM may request supplementary documents months after the initial application — bank statements, lease agreements, utility bills, photographs, travel records. Having this documentation organised in advance, rather than scrambling to gather it under time pressure, materially reduces delays.
+Genuine couples have nothing to fear from this investigation. But they should be prepared. In practice, the SEM does not simply tick boxes — investigators may contact landlords, check social media, or compare the couple's travel records against claims of shared holidays. One rejected case involved a couple who could not independently name the same three restaurants they supposedly visited together. The SEM may request supplementary documents months after the initial application — bank statements, lease agreements, utility bills, photographs, travel records. Having this documentation organised in advance, rather than scrambling to gather it under time pressure, materially reduces delays.
 
 Marriages of convenience (Scheinehen) are a criminal matter under Art. 118 of the Foreign Nationals and Integration Act (AIG), not merely a civil or administrative one. Applicants who misrepresent the character of a marriage face criminal prosecution, not just rejection.
 
@@ -124,7 +124,7 @@ Facilitated naturalisation applications are filed with the **State Secretariat f
 
 ## Timeline
 
-From submission of a complete application, the SEM typically decides facilitated naturalisation cases within **twelve to twenty-four months**. The variability reflects:
+From submission of a complete application, the SEM typically decides facilitated naturalisation cases within **twelve to twenty-four months**. In practice, processing speed varies by canton of residence. Applications from Zurich and Geneva — where SEM caseloads are heaviest — tend to sit closer to the 24-month mark, whilst applications from smaller cantons such as Zug or Schwyz sometimes clear in under 12 months. The variability reflects:
 
 - The SEM's current caseload (backlogs fluctuate)
 - Whether an interview is required and how quickly it can be scheduled
@@ -138,7 +138,7 @@ Applications that arrive incomplete, or where the marriage investigation is comp
 ## Costs
 
 - **Federal fee:** CHF 400 (fixed fee payable to the SEM upon application)
-- **Cantonal and communal fees:** Vary by canton and commune of the Swiss spouse's Heimatort. Typically CHF 100-500. These are registration fees, not decision fees.
+- **Cantonal and communal fees:** Vary by canton and commune of the Swiss spouse's Heimatort. Typically CHF 100-500. In Zug, communal registration fees are at the lower end of this range; Geneva and Zurich communes charge closer to the upper limit. These are registration fees, not decision fees.
 - **Language certification:** CHF 150-350 depending on the test centre and format
 - **Professional fees:** If you engage a legal adviser to prepare and manage the application, allow CHF 2,000-6,000 depending on the complexity of the case and the scope of representation
 

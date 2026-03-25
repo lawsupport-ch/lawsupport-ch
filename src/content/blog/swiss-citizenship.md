@@ -129,6 +129,8 @@ Integration at the communal level is therefore not merely an administrative form
 
 The combined federal, cantonal, and communal process, once all eligibility requirements are met, typically takes **one to three years**. The variance is significant and depends on the backlog at each level, the responsiveness of the applicant in providing documentation, and whether communal or cantonal interviews are required.
 
+Cantonal differences are material. Zug processes applications with relative predictability and a structured interview format. Geneva and Zurich have longer backlogs. Some smaller communes in rural cantons still submit naturalisation decisions to a vote of registered residents — a constitutionally protected process that introduces an element of community discretion that cannot be controlled through documentation alone.
+
 ---
 
 ## Facilitated Naturalisation for Spouses of Swiss Citizens
@@ -193,7 +195,7 @@ The [Swiss passport](/immigration/swiss-passport/) consistently ranks among the 
 
 ### The Zug Entrepreneur: Ten Years from Arrival to Passport
 
-A US technology entrepreneur relocated to Zug in March 2016. His first act on arrival was registering his residence at the Einwohnerkontrolle in Zug and incorporating his company through Lawsupport — see our [company formation Switzerland](/company-formation/company-formation-switzerland/) service. He held a B permit initially, transitioning to a C permit after five years of residence. He attended German language courses, joined a local sports association, and participated consistently in local political life. He submitted his naturalisation application in early 2025, one year before the ten-year threshold, to begin the administrative queue. In March 2026, following successful communal, cantonal, and federal approval, he received his Swiss citizenship. Total elapsed time from first residence registration: ten years and nine days.
+A US technology entrepreneur relocated to Zug in March 2016. His first act on arrival was registering his residence at the Einwohnerkontrolle in Zug — on the same day — and incorporating his company through Lawsupport — see our [company formation Switzerland](/company-formation/company-formation-switzerland/) service. He held a B permit initially, transitioning to a C permit after five years of residence. He attended German language courses, joined a local sports association, and participated consistently in local political life. He submitted his naturalisation application in early 2025, one year before the ten-year threshold, to begin the administrative queue. In March 2026, following successful communal, cantonal, and federal approval, he received his Swiss citizenship. Total elapsed time from first residence registration: ten years and nine days.
 
 ### The EU National Spouse: Facilitated Naturalisation in Eighteen Months
 
@@ -217,11 +219,15 @@ Naturalisation cannot be rushed, but it can be prepared for with precision. The 
 
 **4. Maintain financial independence.** Social welfare receipt in the years before application will be disclosed and assessed. Financial planning — including adequate income through employment or a well-structured Swiss company — is essential throughout the residence period.
 
-**5. Integrate at the communal level.** Join local associations. Participate in communal political consultations. Know your commune. This is not a bureaucratic checkbox — it is genuinely assessed at the communal stage.
+**5. Understand the permit pathway for your nationality.** EU and EFTA citizens benefit from a straightforward bilateral regime — the path from B to C permit is well-defined and typically takes five years. Non-EU nationals face a materially different reality: the B2 work permit requires justification for why no Swiss or EU candidate is available for the role, and the C permit timeline is ten years rather than five. For non-EU entrepreneurs, structuring the initial permit through a Swiss company with genuine business activity is often the most reliable approach.
 
-**6. Keep thorough records.** Maintain records of all residence registrations, permit renewals, tax filings, language certificates, and integration activities. Gaps in documentation extend the process and invite additional scrutiny.
+**6. Integrate at the communal level.** Join local associations. Participate in communal political consultations. Know your commune. This is not a bureaucratic checkbox — it is genuinely assessed at the communal stage.
 
-**7. Take legal advice early.** Naturalisation is the end of a long legal journey that begins with residency structure and permit strategy. Engaging specialist advice from the point of first arrival is the most cost-effective approach. Retrospective corrections to a poorly structured residency history are often impossible.
+**7. Keep thorough records.** Maintain records of all residence registrations, permit renewals, tax filings, language certificates, and integration activities. Gaps in documentation extend the process and invite additional scrutiny.
+
+One procedural detail that catches people off guard: work permit renewals must be physically signed — with a blue pen, on paper. Digital signatures are not accepted by most cantonal migration offices. Missing a renewal because you assumed electronic submission was sufficient can create a gap in your continuous residence record.
+
+**8. Take legal advice early.** Naturalisation is the end of a long legal journey that begins with residency structure and permit strategy. Engaging specialist advice from the point of first arrival is the most cost-effective approach. Retrospective corrections to a poorly structured residency history are often impossible.
 
 ---
 

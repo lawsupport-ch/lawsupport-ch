@@ -37,7 +37,7 @@ tocItems:
 
 If you have been searching for information on opening a Swiss bank account as a non-resident, you have almost certainly encountered two types of content online: breathless articles claiming it is simple and straightforward, and others that dismiss it as entirely impossible. Neither is accurate. The truth in 2026 is more nuanced — and understanding it clearly will save you considerable time, money, and frustration.
 
-This guide is written by practitioners. We have helped clients from over 40 countries with Swiss banking and [company formation](/company-formation/company-formation-switzerland/) for more than 18 years. We will not tell you what you want to hear. We will tell you what is actually achievable, what the realistic paths look like, and where the dead ends are.
+This guide is written by practitioners. Approximately 80 percent of our company formation clients are foreign nationals — non-residents who need Swiss banking without having Swiss residency. We have helped clients from over 40 countries with Swiss banking and [company formation](/company-formation/company-formation-switzerland/) for more than 18 years. We will not tell you what you want to hear. We will tell you what is actually achievable, what the realistic paths look like, and where the dead ends are.
 
 ---
 
@@ -48,6 +48,8 @@ Let us be direct: if you are a foreign national with no connection to Switzerlan
 UBS, Credit Suisse's successor operations, ZKB (Zuercher Kantonalbank), and the network of cantonal banks across Switzerland all require Swiss residency as a baseline condition for retail and personal current accounts. This is not a rumour or a technicality that can be worked around with the right application. It is a compliance and regulatory position that has hardened substantially over the past decade.
 
 The reasons are structural. Switzerland implemented the OECD Common Reporting Standard (CRS) and Automatic Exchange of Information (AEOI) framework, under which Swiss banks now automatically transmit account data to the tax authorities of over 100 countries. The romanticised notion of Swiss bank secrecy for foreign nationals is legally and operationally dead. What replaced it is a compliance infrastructure that makes non-resident personal accounts a high-cost, high-risk proposition for banks — and most have simply stopped offering them.
+
+Banks reject applications for reasons that can seem arbitrary from the outside. PostFinance rejected one company because the word "Tesla" appeared in its registered name — the bank demanded justification for the name choice, and the resulting compliance back-and-forth ended in refusal. Another company in the health sector was rejected without clear explanation. A third, operating in pharmaceuticals, hit the same wall. These are not companies with sanctioned shareholders or opaque structures; they are ordinary businesses that triggered internal risk-scoring thresholds the applicant never saw.
 
 The post-Credit Suisse regulatory environment has intensified this further. Swiss financial regulators at <a href="https://www.finma.ch/en/" target="_blank" rel="nofollow noopener">FINMA</a> have raised the bar for anti-money laundering (AML) compliance, Know Your Customer (KYC) documentation, and source of funds verification. For a retail bank, a non-resident with no Swiss anchor is simply not worth the compliance overhead.
 
@@ -67,7 +69,9 @@ Swiss banks do open corporate accounts for companies with non-resident sharehold
 
 This is the path we facilitate regularly at Lawsupport. We provide the registered address in Zug, the Swiss-resident director service through our [nominee director arrangements](/corporate-services/nominee-director-switzerland/), and the company formation itself — simultaneously coordinating the bank account opening process so that both happen in a structured, efficient sequence.
 
-Non-resident shareholders and directors are accepted at Swiss banks for corporate accounts, but the KYC requirements are extensive. Expect to provide:
+Non-resident shareholders and directors are accepted at Swiss banks for corporate accounts, but the KYC requirements are extensive — and certain profiles are categorically excluded. Companies with US nexus at the UBO or shareholder level face near-universal rejection. Relio AG, a Zurich-based digital banking provider that is otherwise one of the most accessible options for foreign-owned companies, states explicitly that it is unable to onboard companies with US nexus. In one case, a US-owned Swiss company (an employer of record with three Swiss employees) was rejected by Relio and forced to operate through its UK parent company's Ebury account — creating compliance problems because Swiss regulators view operations through another entity's bank account as questionable.
+
+For companies without US nexus, expect to provide:
 
 - **Form A and Form K** (beneficial ownership declarations under Swiss banking law)
 - **Proof of source of funds** for capital contributions
@@ -103,7 +107,11 @@ For many practical purposes — receiving payments in CHF, holding CHF balances,
 
 **Yapeal** is a Swiss fintech bank with a more flexible onboarding approach than cantonal banks, and has shown greater openness to non-resident business clients in some circumstances.
 
+**Relio AG** (Zurich) is a digital banking provider charging CHF 249/month. It offers fast onboarding — accounts can be opened the same day after video verification through Intrum. For non-resident company founders who need a Swiss account quickly, Relio is one of the fastest options available. The critical limitation: Relio rejects all companies with US nexus at the UBO or shareholder level.
+
 For businesses operating in the crypto or digital asset space, **SEBA Bank** (now AMINA Bank) and **Sygnum Bank** are Swiss-licensed banks specifically serving digital asset clients. They have more international client bases by design and may be relevant depending on your business type.
+
+**Payset** (UK-regulated EMI) offers multi-currency accounts with video verification through iDenfy. Some holding structures use Payset as an interim solution while Swiss banking relationships are being established.
 
 None of these replace a full Swiss corporate bank account at a tier-one institution, but they can serve specific functional needs, and being clear-eyed about what you actually need is more useful than insisting on a product that the market has made unavailable.
 
@@ -114,6 +122,8 @@ None of these replace a full Swiss corporate bank account at a tier-one institut
 Understanding the regulatory environment helps set realistic expectations and also helps you position a legitimate application correctly.
 
 **CRS and AEOI**: Switzerland is a participating jurisdiction under the <a href="https://www.sif.admin.ch/sif/en/home/multilateral/exchanges-of-information/automatic-exchange-of-information.html" target="_blank" rel="nofollow noopener">OECD Common Reporting Standard</a>. Swiss banks report account information — balances, interest, dividends — automatically to the tax authorities of account holders' countries of residence. Over 100 countries participate. This has fundamentally changed the value proposition of a Swiss account for anyone seeking confidentiality from their home tax authority. The information will be shared. This is also why structuring through a company does not provide any tax evasion benefit — the company's beneficial owners are still identified and reportable.
+
+**AML Screening and WorldCheck**: Before any Swiss bank opens an account, all directors and beneficial owners are screened through compliance databases — most commonly Refinitiv WorldCheck. Flags on WorldCheck — including historical legal proceedings, sanctions exposure, adverse media, or connections to politically exposed persons — can result in immediate rejection regardless of the quality of your other documentation. Banks do not disclose WorldCheck results to applicants.
 
 **AMLA Compliance**: Switzerland's <a href="https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/en" target="_blank" rel="nofollow noopener">Anti-Money Laundering Act</a> requires Swiss financial intermediaries to conduct thorough due diligence on client identity and source of funds. Non-resident clients — particularly those from jurisdictions on FATF grey lists or with complex ownership structures — represent elevated compliance risk. Banks manage this risk, in part, by restricting which non-resident clients they accept.
 

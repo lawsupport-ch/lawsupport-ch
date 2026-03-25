@@ -165,7 +165,7 @@ For crypto businesses, the programme must additionally address blockchain analyt
 
 ## Costs: What to Budget
 
-SRO membership involves two categories of cost: the SRO's own fees, and the professional cost of preparing the application.
+SRO membership involves two categories of cost: the SRO's own fees, and the professional cost of preparing the application. The numbers below are drawn from actual client engagements, not estimates.
 
 **SRO fees — VQF**
 - One-time admission fee: **CHF 500-1'500** (depending on the category of membership applied for)
@@ -173,20 +173,35 @@ SRO membership involves two categories of cost: the SRO's own fees, and the prof
 - Smaller intermediaries with revenues below CHF 1 million typically pay CHF 1'000-2'500 annually; mid-sized businesses CHF 3'000-5'000; larger intermediaries approach the upper end
 
 **SRO fees — PolyReg**
-- Broadly similar to VQF; admission and annual fees in the same range, scaled by business size and activity category
+- Broadly similar to VQF; admission and annual fees in the same range, scaled by business size and activity category. One practical difference: PolyReg requires a bilaterally signed contract with counterparties for certain business models (e.g. payment processors working with exchanges), whereas VQF may accept standard terms/AGB as a functional equivalent. This distinction has caused delays in real cases.
 
 **AML compliance programme and application preparation**
-- For a straightforward business model (single-activity forex dealer, simple payment processor): **CHF 8'000-15'000** in legal and consulting fees to design and document a compliant AML programme and prepare the full dossier
-- For a crypto business with multiple asset classes, cross-border clients, and complex KYC workflows: **CHF 15'000-35'000**
-- These figures assume the business has no prior AML documentation; where a partial framework exists and requires refinement rather than construction from scratch, costs are lower
+- Initial retainer for application assistance: **CHF 10'000** (fixed)
+- Additional regulatory work (programme design, committee responses, revisions): **CHF 25'000+**
+- Total professional costs for a crypto or complex fintech business: routinely **CHF 25'000-40'000**
 
-**AML officer**
+These are not theoretical ranges. In a recent engagement for a crypto payment company, total professional fees reached **CHF 38'000** (including VAT) over 36+ hours of work — and the client ultimately abandoned the process after changing their business model mid-application. The initial CHF 10'000 retainer proved insufficient within the first month. This is a representative experience, not an outlier.
+
+The lesson: budget for the full CHF 25'000+ from the outset. Clients who budget only the initial retainer and expect the process to complete within that amount are setting themselves up for a difficult conversation partway through.
+
+**AML officer — the hidden bottleneck**
 - If an internal person is appointed, there is no incremental external cost, though training and qualification costs apply
+- Finding a qualified AML officer is genuinely difficult. The person must have demonstrable AML/CFT experience, understand the specific business model, and be prepared to bear personal regulatory responsibility. For crypto businesses in particular, the pool of qualified candidates willing to take on this role is small.
 - An external AML officer — including Lawsupport's external AML officer service — is a recognised and accepted structure for early-stage or smaller intermediaries. External AML officer engagement typically costs **CHF 3'000-8'000 annually** depending on the scope of ongoing responsibilities
 
 **Total first-year budget estimate**
-- Simple business model, internal AML officer: **CHF 12'000-20'000** (professional fees + SRO admission and first-year fee)
-- Crypto or multi-activity business, external AML officer: **CHF 25'000-50'000** in year one, with ongoing annual costs of **CHF 8'000-18'000**
+- Simple business model, internal AML officer: **CHF 15'000-25'000** (professional fees + SRO admission and first-year fee)
+- Crypto or multi-activity business, external AML officer: **CHF 35'000-55'000** in year one, with ongoing annual costs of **CHF 8'000-18'000**
+
+### The Three-Month Audit Trap
+
+One cost that founders consistently fail to budget for: the mandatory SRO audit that occurs approximately **three months after licence grant**. If the director or AML officer cannot demonstrate competence during this audit — cannot explain the AML programme, cannot walk through the KYC procedures, cannot describe the transaction monitoring methodology — the licence is revoked. Not suspended. Revoked.
+
+This means the company must be operationally ready from day one of membership, with trained personnel, functioning systems, and documented procedures. Companies that treat SRO membership as a box to tick and plan to "sort out compliance later" lose their membership within the first quarter.
+
+### A Case That Worked: Coinbridge AG
+
+For comparison, a crypto company (Coinbridge AG) obtained VQF membership through our firm, built a compliant AML/CFT framework, and went on to establish a strategic partnership with Binance Pay. The company later put itself up for sale as a going concern — with the VQF membership and compliance infrastructure as a core part of the sale value. The difference between success and the earlier failure case was not budget but preparation: Coinbridge had a stable business model from the start and did not alter it during the application process.
 
 ---
 

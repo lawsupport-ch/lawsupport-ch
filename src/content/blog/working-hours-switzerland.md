@@ -63,6 +63,24 @@ These are legal maximums — not norms. Most Swiss employment contracts specify 
 
 The distinction matters. An employee on a 40-hour contract who works 47 hours in a week has 5 hours of OR overtime (40–45) and 2 hours of ArG overtime (45–47). The OR overtime can potentially be compensated with time off only; the ArG overtime must carry the mandatory 25% premium.
 
+### The Annual Overtime Cap
+
+ArG overtime is not unlimited. The Labour Act caps statutory overtime at **170 hours per calendar year** for employees subject to the 45-hour maximum and **140 hours per year** for those subject to the 50-hour maximum. This is a hard ceiling. Employers who consistently push employees beyond these limits expose themselves to enforcement action by the cantonal labour inspectorate (Arbeitsinspektorat) — and to civil claims from employees for health-related damages under the employer's duty of care (Art. 328 OR).
+
+### What "Waiving the Premium" Actually Means
+
+Many Swiss employment contracts include a clause waiving the 25% premium for OR overtime. This is legally permissible for OR overtime (the hours between the contractual and statutory maximums) — but only if the waiver is explicit and the employee's salary is above approximately CHF 120,000 per year. Courts have overturned overtime waivers where the employee's salary was not sufficiently above the market rate to absorb the waiver.
+
+Critically, the ArG 25% premium cannot be waived under any circumstances. An employment contract that purports to waive the statutory overtime premium is void on that point. Employees who discover this after years of uncompensated statutory overtime can — and do — claim back the unpaid premiums with interest. The limitation period is five years.
+
+### Practical Compliance for Foreign Employers
+
+Foreign companies establishing Swiss operations often import employment practices from their home jurisdiction. The most common friction points:
+
+- **US-style "exempt" categories do not exist in Swiss law.** An employee's job title does not determine overtime eligibility. Only genuine senior management (Art. 3 ArG) — persons with real decision-making authority over hiring, firing, and strategy — are partially exempt.
+- **"Unlimited PTO" policies** do not override the minimum 4 weeks (20 days) statutory annual leave for employees over 20, or 5 weeks (25 days) for employees under 20.
+- **On-call arrangements** must be structured carefully. Time spent on-call at the employer's premises counts as working time. Time on-call at home does not, unless the employee is called in — in which case travel time to the workplace counts as working time.
+
 ---
 
 ## Rest Periods

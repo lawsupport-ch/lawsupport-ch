@@ -105,6 +105,17 @@ VAT due must be paid by the return filing deadline. ESTV does not automatically 
 
 Coordinating VAT filings with your [accounting obligations](/tax-accounting/accounting-switzerland/) ensures consistent reporting and reduces audit risk.
 
+### What VAT Compliance Actually Costs
+
+New registrants often budget for the VAT itself but not for the compliance infrastructure. Realistic annual costs for a small to mid-sized company:
+
+- **Accounting software** (Bexio or equivalent): CHF 35-83 per month (CHF 420-996/year)
+- **Quarterly return preparation** by an external accountant: included in accounting packages starting from CHF 3,800/year for up to 100 transactions, with overage billed at CHF 150/hour
+- **Dormant company** (zero turnover, annual statements and tax filing only): from CHF 1,400/year
+- **Complex transactions** (multi-currency, cross-border, mixed exempt/taxable): CHF 180/hour for specialised accounting work
+
+These are operating costs, not one-time fees. Companies that try to manage Swiss VAT compliance without dedicated accounting support invariably accumulate errors that surface during ESTV audits — and the correction process is more expensive than getting it right from the start.
+
 ---
 
 ## Input VAT Recovery
@@ -143,6 +154,8 @@ Foreign businesses supplying **digital services** to Swiss private consumers (B2
 Digital services in scope include streaming platforms, app stores, cloud services, online marketplaces, and downloadable software. The place of supply is Switzerland if the customer is resident in Switzerland. Registration and filing are done directly with ESTV — there is no equivalent of the EU OSS scheme for Switzerland.
 
 Marketplaces facilitating third-party sales to Swiss customers may carry deemed-supplier obligations. If you operate a platform model, the liability analysis needs specific attention.
+
+A recurring pattern we see: foreign e-commerce companies that have been selling into Switzerland for years without VAT registration, assuming the threshold applies only to Swiss-sourced revenue. It does not — the CHF 100,000 threshold captures worldwide turnover from taxable supplies. A company generating EUR 5 million in Germany and CHF 80,000 in Switzerland is well above the threshold. The ESTV can and does impose retroactive assessments with interest and penalties going back to the date the obligation first arose.
 
 ---
 

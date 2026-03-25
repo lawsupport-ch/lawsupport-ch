@@ -72,7 +72,11 @@ This applies to:
 - Crypto custody services that do not cross the deposit-taking threshold
 - Crowdfunding platforms (donation/reward-based, not lending or securities)
 
-SRO membership is mandatory under AMLA. The process is faster and less capital-intensive than a FINMA license. Switzerland has over a dozen FINMA-recognised SROs — the appropriate body depends on your business model.
+SRO membership is mandatory under AMLA. The process is faster and less capital-intensive than a FINMA license, but it is not cheap. Expect a fixed retainer of around CHF 10,000 for the application assistance alone. If the business model is complex — crypto payments, stablecoin settlement, cross-border remittance — full regulatory advisory work runs to CHF 25,000 or more before SRO fees are counted.
+
+Switzerland has over a dozen FINMA-recognised SROs, and choosing between them is not purely administrative. **VQF** (Verein zur Qualitaetssicherung von Finanzdienstleistungen) is the largest and most commonly used for fintech and crypto businesses. **PolyReg** is smaller and sometimes faster to onboard, but has specific contractual requirements that can create friction. In one recent case, a payment company using PolyReg encountered a problem: PolyReg required a bilateral signed contract with a major exchange partner, but the exchange only offered standard Terms of Service (AGB). The argument that AGB constitutes a functional equivalent of a bilateral contract is still being resolved. If your business model depends on partnerships with platforms that do not sign bespoke contracts, VQF may be the safer choice.
+
+SRO membership also comes with a critical post-approval risk that most guides omit: **three months after your SRO membership is granted, you face a mandatory audit**. If your appointed AML officer or responsible director cannot demonstrate competence during that audit, the SRO can revoke the membership. Finding qualified AML officers willing to serve fintech startups is genuinely difficult — budget for this search before you apply, not after.
 
 ### 2. The Sandbox Exemption — Testing Without a License
 
@@ -86,6 +90,17 @@ Key sandbox rules:
 - The exemption is a permanent low-threshold category, not a pilot regime
 
 The sandbox is useful for early-stage payment startups, tokenisation pilots, and proof-of-concept crowdlending platforms that need to handle real money before scaling. Once you approach the CHF 1 million ceiling, you must either restructure or apply for a FinTech-Bewilligung.
+
+### Choosing Your Pathway: A Decision Framework
+
+FINMA Guidance 01/2026 refined the criteria for distinguishing between these pathways. The practical decision tree works as follows:
+
+1. **Do you hold client funds at all?** If no — SRO membership under AMLA is sufficient.
+2. **Do you hold client funds but total deposits stay below CHF 1 million?** Sandbox exemption applies. No FINMA licence, no SRO membership required for the deposit-taking itself (though AML obligations may still apply separately).
+3. **Will deposits exceed CHF 1 million but remain below CHF 100 million, with no lending or investment of deposits?** FinTech-Bewilligung is the correct pathway.
+4. **Does your model involve lending, investing deposits, or accepting more than CHF 100 million?** Full banking licence required.
+
+The mistake founders make most often: assuming they fit neatly into one box. A payment company that initially plans pure passthrough (SRO only) but later adds a settlement float that exceeds CHF 1 million has crossed into FinTech-Bewilligung territory without realising it. Model your worst-case deposit volume, not your launch-day volume.
 
 ### 3. The FinTech License (FinTech-Bewilligung) — Art. 1b BankG
 
@@ -132,6 +147,22 @@ Applications are submitted directly to FINMA. FINMA has published a detailed app
 - Ongoing annual supervision fees: variable, based on balance sheet size, typically CHF 20,000–50,000 for small operations
 
 A poorly prepared application adds months. Engaging regulatory counsel before submission — not after the first rejection — is the economically rational approach.
+
+**What it actually costs — based on recent client engagements:**
+
+The CHF 5,000 application fee is the smallest line item. A realistic budget for obtaining a FinTech-Bewilligung from scratch:
+
+| Component | Typical Cost (CHF) |
+|---|---|
+| Company formation (AG in Zug) | 2,500 |
+| SRO membership application assistance | 10,000 |
+| Regulatory advisory retainer (full legal work) | 25,000+ |
+| FINMA application fee | 5,000 |
+| Compliance documentation (AML concept, IT security) | 15,000–30,000 |
+| Ongoing FINMA supervision (annual) | 20,000–50,000 |
+| **Total first-year cost (excluding capital)** | **80,000–130,000** |
+
+If you want to skip the build entirely and acquire a licensed entity, turnkey licensed financial intermediaries with existing SRO membership have traded for approximately CHF 480,000 in recent transactions. Whether that represents value depends entirely on your timeline and risk tolerance.
 
 ### 4. Full Banking License (BankG)
 

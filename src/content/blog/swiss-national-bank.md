@@ -57,7 +57,7 @@ Despite partial private ownership, the SNB operates in the public interest under
 
 **Foreign exchange reserves management:** The SNB holds the world's largest foreign exchange reserves relative to GDP. As of early 2026, reserves total approximately CHF 680–720 billion — accumulated through decades of foreign exchange market interventions to prevent excessive CHF appreciation. The reserves are invested in foreign currencies, primarily EUR (40%), USD (35%), JPY, and others.
 
-**Lender of last resort:** The SNB provides emergency liquidity assistance (ELA) to systemically important Swiss banks in extreme situations. This function is coordinated with <a href="https://www.finma.ch/en/" target="_blank" rel="nofollow noopener">FINMA</a>, which handles direct banking supervision.
+**Lender of last resort:** The SNB provides emergency liquidity assistance (ELA) to systemically important Swiss banks in extreme situations. This function is coordinated with <a href="https://www.finma.ch/en/" target="_blank" rel="nofollow noopener">FINMA</a>, which handles direct banking supervision. The division of responsibilities is important for businesses: FINMA grants and revokes banking licences (minimum capital CHF 20 million for a full banking licence), supervises individual institutions, and enforces anti-money laundering rules. The SNB monitors systemic risk across the entire financial system but does not approve or reject individual bank account applications. When a company struggles to open a Swiss bank account — a common friction point — the obstacle is the commercial bank's own compliance department, not the SNB or FINMA.
 
 **Financial stability oversight:** The SNB monitors systemic risks to the Swiss financial system and publishes an annual Financial Stability Report. It can recommend activation of the countercyclical capital buffer for Swiss banks.
 
@@ -108,7 +108,7 @@ The distribution mechanism means that [cantonal tax rates](/tax-accounting/swiss
 
 The SNB's policy decisions ripple through the entire Swiss economy. For businesses considering Switzerland as a base of operations, several SNB functions are directly relevant:
 
-**Interest rate environment:** The current low-rate environment (0.0–0.25% as of 2026) reduces borrowing costs for Swiss businesses and affects returns on CHF-denominated deposits. Companies opening a [Swiss bank account](/banking/swiss-bank-account/) should factor in the prevailing rate environment.
+**Interest rate environment:** The current low-rate environment (0.0–0.25% as of 2026) reduces borrowing costs for Swiss businesses and affects returns on CHF-denominated deposits. For newly formed companies, the practical challenge is not the interest rate but account opening itself. Swiss banks — including UBS, which now requires CHF 500,000 or more under management for new non-resident clients — have tightened onboarding significantly since 2020. Fintech alternatives such as Relio AG (Zurich, from CHF 249/month) offer faster onboarding with same-day video verification, though they reject companies with US-connected beneficial owners. Companies opening a [Swiss bank account](/banking/swiss-bank-account/) should factor in the prevailing rate environment.
 
 **Currency stability:** The SNB's commitment to preventing excessive CHF appreciation provides a degree of predictability for international businesses operating in Switzerland, particularly those involved in cross-border trade.
 

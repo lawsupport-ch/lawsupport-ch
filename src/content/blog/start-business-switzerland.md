@@ -234,33 +234,46 @@ Registration with the Commercial Register creates the legal entity. Running a bu
 
 ## Costs: What to Budget
 
-The following ranges reflect all-in costs including notary fees, Commercial Register fees, and Lawsupport's professional fees. Share capital is additional.
+The following figures are current Lawsupport pricing for 2026, not estimates.
 
-| Item | GmbH | AG |
-|---|---|---|
-| Professional fees (Lawsupport) | Included in all-in | Included in all-in |
-| Notary fees | Included | Included |
-| Commercial Register fees | Included | Included |
-| **All-in (excl. share capital)** | **CHF 3'000–5'000** | **CHF 4'000–7'000** |
-| Share capital (additional) | CHF 20'000 | CHF 50'000–100'000 |
+**GmbH registration (including notary):** CHF 1’900
+**AG registration (including notary):** CHF 2’500
 
-These ranges are honest. The spread reflects complexity: a single-founder GmbH with straightforward articles costs less than an AG with multiple shareholders in different jurisdictions, bespoke articles, and complex PoA arrangements. We provide a fixed-fee quote after an initial review of your specific situation.
+That is the formation cost alone. Most international founders need more than just a registered entity — they need the full operational package:
 
+| Item | Annual Cost (CHF) |
+|---|---|
+| Registration (GmbH, one-time) | 1’900 |
+| Registered address (Zug) | 2’400 |
+| Nominee director (standard) | 5’900 |
+| Accounting (dormant/startup) | 1’800 |
+| **Full package (year 1)** | **~12’000 + share capital** |
+
+Share capital is additional: CHF 20’000 for a GmbH (fully paid up), CHF 50’000 minimum paid-in for an AG (out of CHF 100’000 authorised).
+
+**What this means in real terms:** An international founder establishing a GmbH in Zug with the full package — registration, address, nominee director, and accounting — should budget approximately **CHF 9’000–11’000 for the all-in package** in the first year, plus CHF 20’000 in share capital. The share capital is not a cost — it remains in the company as working capital.
+
+Roughly 80% of the companies we form are for foreign founders, and we have completed over 300 formations. The single most common source of budget overrun is not the formation itself but the banking timeline — which is why we address that separately below.
 ---
 
 ## Timeline: Instruction to Operational Company
 
 | Phase | Duration |
 |---|---|
-| Initial KYC and document preparation | 1–2 weeks |
-| Bank capital account opening | 2–6 weeks (run in parallel) |
-| PoA notarisation and apostille (home country) | 1–2 weeks (run in parallel) |
-| Notarisation in Switzerland | 1 day |
+| Document preparation | Several days |
+| Bank pre-check + blocked account opening | ~1 week |
+| Capital transfer + bank certificate | ~1 week (depends on client) |
+| Signing/notarisation + filing | 1–2 days |
 | Commercial Register processing | 2–4 weeks |
 | **Total: instruction to registered company** | **4–6 weeks typical** |
 
+**A timing advantage most guides omit:** the company can begin operating from the moment of notarial signing. There is no legal requirement to wait for the ZEFIX publication or Commercial Register extract — the company exists as a legal entity from the notarial deed, operating under the suffix “in Gründung” (in formation). Contracts signed during this period are valid.
+
+Before 2022, it was possible to pay a 60% premium for expedited Commercial Register publication. That option no longer exists. The register processes at its own pace — faster in summer, slower before Christmas.
+
 The capital deposit account is the most common source of delay. Starting it early — on day one of the process — is the single most effective way to compress the overall timeline.
 
+**Shelf company alternative:** If the timeline cannot accommodate four to six weeks, a [shelf company](/company-formation/shelf-company-switzerland/) can be transferred in 3–10 business days. The trade-off is cost: shelf companies start at CHF 15’000 for the entity alone, before the operational package.
 ---
 
 ## Permits and Licensing
@@ -279,18 +292,21 @@ If your business falls into a regulated category, licensing timelines can be sig
 
 ## Swiss Corporate Bank Account
 
-Opening a [corporate bank account](/banking/corporate-bank-account-switzerland/) for a foreign-owned Swiss company is not automatic. Swiss banks — including cantonal banks, major banks (UBS, Credit Suisse/UBS post-merger, Julius Baer), and neo-banks — apply KYC and AML procedures that are rigorous by global standards.
+Opening a [corporate bank account](/banking/corporate-bank-account-switzerland/) for a foreign-owned Swiss company is the step that derails more formation timelines than any other.
 
-Key facts:
+Key facts from actual experience:
 
-- **Timeline:** 4–8 weeks from application to active account, for a standard operational account
-- **Rejection rate:** approximately 20–30% of foreign-owned companies without professional preparation are declined at major Swiss banks
-- **Success factors:** clean beneficial ownership structure, credible business plan with Swiss nexus, proper KYC documentation, professional introduction
+- **Timeline:** from one month at the fastest, routinely longer
+- **PostFinance:** 3–4 weeks to a decision — and that decision is frequently a rejection. Companies with brand-sensitive names (one client using “Tesla” in their company name was immediately flagged), insufficient documentation of revenue sources, or founders from higher-risk jurisdictions are declined without detailed explanation.
+- **Relio AG (Zurich fintech):** Can open accounts the same day after video verification. CHF 249/month. Fast, reliable — but explicitly rejects companies with US nexus at the UBO or shareholder level.
+- **UBS:** Requires CHF 500’000+ under management for new non-resident clients. Blocked accounts for capital deposit are available on more standard terms.
+- **Success indicator:** If a bank approves the blocked capital deposit account, there is roughly an 80% probability of obtaining the permanent operational account with the same institution.
 
-Lawsupport manages banking introductions as part of our formation service. We work with banks that understand the profile of internationally owned Swiss companies and can present your application in the format they require.
+**US persons:** Swiss banks almost universally reject US-owned companies. Relio’s policy is explicit: “unable to onboard companies with US nexus at UBO/shareholders level.” The exception is narrow: a US person who holds a Swiss residence permit, physically lives in Switzerland, and can demonstrate tax compliance in both jurisdictions may find a willing bank. For everyone else, the options are limited to UK-based EMIs or the parent company’s existing banking relationships — both of which create downstream compliance complications.
+
+Lawsupport manages banking introductions as part of our formation service. We work with banks that understand the profile of internationally owned Swiss companies and present your application in the format they require. The difference between a professional introduction and a cold application is measurable: rejection rates drop from 30%+ to under 10%.
 
 [Corporate bank account opening in Switzerland](/banking/corporate-bank-account-switzerland/)
-
 ---
 
 ## What Lawsupport Does

@@ -31,7 +31,7 @@ tocItems:
 ---
 
 
-The Swiss limited partnership (Kommanditgesellschaft -- KG) is a partnership form under Articles 594--619 of the Code of Obligations (OR). It combines an active general partner (Komplementar) with one or more passive limited partners (Kommanditare) whose liability is capped at their capital contribution. The Swiss KG is used primarily for investment fund structures and certain family business arrangements.
+The Swiss limited partnership (Kommanditgesellschaft -- KG) is a partnership form under Articles 594-619 of the Code of Obligations (OR). It combines an active general partner (Komplementar) with one or more passive limited partners (Kommanditare) whose liability is capped at their capital contribution. The Swiss KG is used primarily for investment fund structures and certain family business arrangements — and almost never for ordinary commercial operations. In a market where roughly 80% of company formations involve foreign nationals choosing between a GmbH and an AG, the KG is a genuinely niche structure. If your adviser is recommending a KG for a standard operating business, that recommendation deserves scrutiny.
 
 ---
 
@@ -97,11 +97,16 @@ The KGK was reformed in 2024 to be more competitive with Luxembourg (SCSp) and D
 | Feature | KG (Limited Partnership) | GmbH | AG |
 |---|---|---|---|
 | Minimum partners/shareholders | 2 (1 GP + 1 LP) | 1 | 1 |
-| Minimum capital | None | CHF 20'000 | CHF 100'000 |
+| Minimum capital | None (but GP GmbH needs CHF 20'000) | CHF 20'000 | CHF 100'000 (CHF 50'000 paid in) |
+| Formation cost (incl. notary) | CHF 600-800 (register) + GP formation | CHF 1'900 | CHF 2'500 |
+| Registered address (Zug) | CHF 2'400/year | CHF 2'400/year | CHF 2'400/year |
+| Nominee director (if needed) | CHF 5'900/year | CHF 5'900/year | CHF 5'900/year |
 | Tax treatment | Transparent (partners taxed) | Corporate income tax | Corporate income tax |
 | General partner liability | Unlimited | N/A | N/A |
 | Commercial Register | Required | Required | Required |
-| Common use | Investment funds | Operating companies | Holding/operating |
+| Common use | Investment funds, family offices | Operating companies | Holding/operating |
+
+The cost arithmetic matters here. A KG requires a general partner — typically a GmbH — which means you are forming two entities: the GmbH (CHF 1'900 formation cost plus CHF 20'000 share capital) and the KG itself (CHF 600-800 in Commercial Register fees plus legal drafting of the partnership agreement). The total setup cost for a KG with a GmbH as general partner typically runs CHF 5'000-8'000 in professional fees plus the GmbH share capital. By contrast, a standalone GmbH costs CHF 1'900 to form and CHF 20'000 in share capital. An AG costs CHF 2'500 to form with CHF 50'000 minimum paid-in capital. The KG only justifies its additional structural complexity when tax transparency is the primary objective — which is the case for investment funds but rarely for operating businesses.
 
 For a full comparison of Swiss entity types and which structure best fits your needs, see our [company formation guide](/company-formation/company-formation-switzerland/).
 

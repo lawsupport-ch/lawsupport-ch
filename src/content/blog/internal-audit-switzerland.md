@@ -112,6 +112,8 @@ Auditors who are not registered with RAB cannot conduct statutory audits of Swis
 
 **For banks and financial institutions:** FINMA requires banks to have an independent internal audit function that reports directly to the board of directors. This is a FINMA circular requirement (FINMA Circular 2017/1). For more on FINMA regulatory requirements, see our guide to [FINMA licensing in Switzerland](/licensing/finma-licensing-switzerland/).
 
+**For SRO-licensed financial intermediaries:** This is a trap that catches unprepared companies. Self-regulatory organisations such as VQF conduct an audit within three months of granting membership. If the director or AML compliance officer demonstrates incompetence at that audit — inadequate documentation, failure to understand client due diligence requirements, missing risk assessments — the SRO can revoke the licence on the spot. The three-month window is not a grace period; it is an examination. Finding qualified AML officers and directors before the audit is one of the hardest practical challenges in obtaining and keeping an SRO licence. We have seen total advisory costs for SRO applications reach CHF 25'000-38'000 including the additional work triggered by VQF raising supplementary requests mid-process.
+
 **For listed companies:** The SIX Swiss Exchange Corporate Governance Directive recommends internal audit as a best practice, though it is not legally mandatory.
 
 **For large corporations:** Companies with complex operations, multiple subsidiaries, or significant regulatory exposure typically establish internal audit functions following international standards (IIA — Institute of Internal Auditors standards).
@@ -150,11 +152,13 @@ For details on forming these entity types, see our guides on [AG formation in Sw
 
 ## Cost of Swiss Statutory Audit
 
-**Limited audit (SME):** CHF 3,000-15,000/year depending on company size and complexity
+**Limited audit (SME):** CHF 3'000-15'000 per year depending on company size and complexity. For a dormant company or a holding with minimal transactions, expect the lower end. For an operating company with 50-100 transactions per year, CHF 8'000-12'000 is typical. Accounting preparation for the audit itself — ensuring the books are audit-ready — adds further cost: standard accounting hourly rates run CHF 150-180 per hour excluding VAT.
 
-**Ordinary audit (mid-size company):** CHF 20,000-100,000+/year
+**Ordinary audit (mid-size company):** CHF 20'000-100'000+ per year. The range is wide because ordinary audits scale with transaction volume, number of subsidiaries, and complexity of revenue recognition.
 
-**Big 4 audit (listed company or bank):** CHF 500,000-5,000,000+/year
+**Big 4 audit (listed company or bank):** CHF 500'000-5'000'000+ per year.
+
+**SRO-related compliance audits:** These are not statutory audits in the traditional sense, but SRO members must budget for the initial three-month audit and ongoing annual compliance reviews. The cost of failing the initial audit is not measured in fees — it is measured in the loss of the licence itself.
 
 ---
 

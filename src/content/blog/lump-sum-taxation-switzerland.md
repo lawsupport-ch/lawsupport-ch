@@ -67,7 +67,9 @@ To qualify for Swiss lump-sum taxation (<a href="https://www.fedlex.admin.ch/eli
 
 **2. First-time Swiss residency (or return after 10 years abroad)** -- The individual must either be establishing Swiss residence for the first time, or must have been abroad for at least 10 years after any prior Swiss residence.
 
-**3. Not gainfully employed in Switzerland** -- The individual must not carry out any professional or commercial activity in Switzerland for income. Passive income (dividends, interest, rental income from foreign property, royalties) is acceptable. Active employment or self-employment income earned in Switzerland disqualifies the individual from the regime (though passive income sources are fine).
+**3. Not gainfully employed in Switzerland** -- The individual must not carry out any professional or commercial activity in Switzerland for income. Passive income (dividends, interest, rental income from foreign property, royalties) is acceptable. Active employment or self-employment income earned in Switzerland disqualifies the individual from the regime.
+
+**Who qualifies in practice:** The regime suits investors living off portfolio income, retirees with foreign pensions and investments, beneficiaries of family wealth, and individuals who have structured their income-generating activities in entities outside Switzerland. A Swiss company owner receiving only passive dividends — without sitting on the board or participating in management — can qualify. But the boundary between passive shareholding and active management is fact-dependent and should be confirmed by a ruling from the cantonal tax authority before the individual commits to the regime. Swiss nationals are categorically excluded, regardless of how long they have lived abroad.
 
 ---
 
@@ -78,9 +80,11 @@ The lump-sum tax base is the individual's annual living expenses (Lebensaufwand)
 **Federal minimum:** The living expenses base must be at least 7x the annual rental value of the individual's Swiss residence (or, if renting, 7x the actual annual rent). This ensures the base is not artificially minimised.
 
 **Cantonal minimums:** Many cantons add their own minimum base:
-- Some cantons require a minimum taxable living expenses base of CHF 400'000--600'000 per year
-- Some cantons require the base to reflect actual global income if that would be higher
-- The regime was abolished in the canton of Zurich in 2009 -- it is NOT available there
+- Several cantons (Vaud, Appenzell Ausserrhoden, and others) require a minimum taxable living expenses base of CHF 400'000-600'000 per year — regardless of actual spending or the 7x rental value calculation
+- Some cantons require the base to reflect actual global income if that would be higher under the control calculation
+- Zug applies no additional cantonal minimum beyond the federal 7x rule, making it one of the most accessible cantons for applicants with moderate Swiss accommodation costs
+- The regime was abolished in the canton of Zurich in 2009 — it is NOT available there
+- Basel-Stadt and Bern have also abolished the regime
 
 **Control calculation:** There is a check calculation (Kontrollrechnung) to ensure that the lump-sum tax is at least as high as the tax that would result if Swiss-source income and assets were taxed under ordinary rules. This prevents the regime from producing absurdly low results relative to Swiss income.
 
@@ -92,17 +96,18 @@ Lump-sum taxation is available at the federal level and in most cantons. Key exc
 
 | Canton | Status | Notes |
 |---|---|---|
-| **Zurich** | **Abolished 2009** | Not available -- residents taxed ordinarily |
-| Zug | Available | Efficient administration; Swiss minimum applies |
-| Geneva | Available | Popular for international clients |
-| Vaud | Available | Home of many lump-sum taxpayers |
-| Valais | Available | Competitive living expenses floors |
-| Graubunden | Available | Resort areas popular with wealthy residents |
+| **Zurich** | **Abolished 2009** | Not available — residents taxed ordinarily at ~20% corporate / top marginal personal rates |
+| Zug | Available | 11.85% corporate rate; efficient administration; no cantonal minimum beyond the federal 7x rule. The cantonal tax authority processes lump-sum applications with experience and pragmatism |
+| Geneva | Available | Popular for international clients; higher cantonal rates (~13.99% corporate) but strong francophone infrastructure |
+| Vaud | Available | Home of many lump-sum taxpayers; minimum living expenses base typically CHF 400'000-600'000 |
+| Valais | Available | Lower cost of living produces lower 7x rental value floors; attractive for clients who prefer mountain locations |
+| Schwyz | Available | Very low cantonal tax rates; popular with German-speaking HNW clients |
+| Graubunden | Available | Resort areas (St. Moritz, Davos) popular with wealthy residents; higher property costs push up the 7x floor |
 | Bern | Abolished 2016 | No longer available |
-| Basel-Stadt | Abolished | No longer available |
+| Basel-Stadt | Abolished | No longer available; corporate rate 13% for ordinary taxpayers |
 | Appenzell Ausserrhoden | Available | Cantonal minimum of CHF 400'000 |
 
-Approximately 18 of 26 cantons still offer the regime. Cantons that abolished it generally did so following popular votes. For a breakdown of how cantonal tax rates compare, see our [cantonal tax comparison](/tax-accounting/cantonal-tax-comparison-switzerland/).
+Approximately 18 of 26 cantons still offer the regime. Cantons that abolished it generally did so following popular votes — Zurich in 2009, Bern in 2016. The political pressure to abolish lump-sum taxation is real but has not gained majority support in the cantons where it generates the most revenue. For a breakdown of how cantonal tax rates compare, see our [cantonal tax comparison](/tax-accounting/cantonal-tax-comparison-switzerland/).
 
 ---
 

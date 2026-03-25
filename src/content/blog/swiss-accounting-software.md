@@ -195,7 +195,18 @@ The right choice depends on your company size, structure, and whether you handle
 - **Fiduciary managing multiple clients:** Topal or Abacus
 - **Enterprise / multinational subsidiary:** SAP or Microsoft Dynamics 365
 
-If your company is newly formed and you are still [setting up your Swiss GmbH](/company-formation/gmbh-formation-switzerland/), most fiduciaries will recommend Bexio or Abacus depending on expected transaction volume. Starting with a simpler platform and migrating later is common and straightforward.
+If your company is newly formed and you are still [setting up your Swiss GmbH](/company-formation/gmbh-formation-switzerland/), most fiduciaries will recommend Bexio depending on expected transaction volume. Starting with Bexio and migrating to Abacus later as the company grows is common and straightforward.
+
+### What About Fixed Accounting Packages?
+
+Many founders ask about fixed annual accounting packages. In practice, Swiss fiduciaries do not typically offer fixed annual rates for active companies — the work varies too much by transaction volume. What you will find:
+
+- **Dormant company accounting:** approximately CHF 1'400-1'800/year (annual statements + tax filing, zero or near-zero transactions)
+- **Active company, up to 100 transactions:** approximately CHF 3'800/year, with overage billed hourly
+- **Hourly rates:** CHF 150/hour (standard) to CHF 180/hour (complex work), excluding VAT
+- **Bexio subscription:** CHF 35-83/month on top of fiduciary fees
+
+There are no shortcut packages that bundle everything into a single predictable annual fee for startups with meaningful transaction volumes. Budget for the software subscription plus fiduciary hours, and plan for the first year to be more expensive than subsequent years as the chart of accounts and reporting templates are set up.
 
 ---
 

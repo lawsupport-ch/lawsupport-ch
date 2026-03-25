@@ -48,6 +48,8 @@ A Swiss passport holder can:
 
 For internationally mobile professionals, entrepreneurs, and families based in Switzerland, the Swiss passport is the logical endpoint of a long-term residency strategy — not an afterthought.
 
+The business advantages extend beyond travel convenience. Swiss passport holders face materially fewer obstacles when opening corporate bank accounts in Switzerland: banks treat Swiss citizens as lower-risk from a compliance perspective, which shortens onboarding timelines from months to weeks. The bilateral agreements with the EU grant Swiss citizens the right to establish businesses and provide services across EU member states without separate work authorisation — a significant advantage for consulting, trading, and professional services firms. For founders who have spent years operating through nominee directors and third-party signatories, Swiss citizenship removes a layer of structural friction that costs both money and time.
+
 ---
 
 ## The Only Path: Swiss Citizenship

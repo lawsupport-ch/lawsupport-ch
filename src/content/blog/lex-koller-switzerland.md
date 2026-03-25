@@ -55,7 +55,7 @@ Lex Koller restricts foreigners (Personen im Ausland) from acquiring Swiss resid
 
 **Non-EU/EFTA nationals with C permit:** Can purchase their primary residence without Lex Koller authorisation.
 
-**Non-EU/EFTA nationals with B permit:** Can purchase primary residence in their canton of residence only — same as EU/EFTA B permit holders.
+**Non-EU/EFTA nationals with B permit:** Can purchase primary residence in their canton of residence only — same as EU/EFTA B permit holders. The restriction is tighter than it sounds: "primary residence" means one property, in the permit canton, used as the main dwelling. Investment properties, second homes, buy-to-let flats, and properties in other cantons are all prohibited under this exemption. Non-EU B permit holders who wish to build a Swiss property portfolio must wait for a C permit — which typically requires 10 years of uninterrupted residence.
 
 **Anyone — commercial/industrial property for business use:** Lex Koller does not apply to commercial or industrial property acquired for genuine business purposes. A foreign-owned Swiss company buying office space or a factory faces no Lex Koller restriction.
 
@@ -89,6 +89,8 @@ In practice, the holiday apartment quota is largely exhausted in popular destina
 A Swiss company whose majority beneficial owner is a non-resident foreigner is generally treated as a "foreign person" for Lex Koller purposes when acquiring residential real estate. The company structure does not bypass the restriction.
 
 The exception: if the Swiss company is genuinely commercial and the real estate is for its business operations, Lex Koller does not apply. For more on structuring a Swiss entity, see our [company formation guide](/company-formation/company-formation-switzerland/).
+
+**Why some foreign entrepreneurs choose the AG.** A practical pattern we see regularly: non-EU entrepreneurs — particularly from Romania, Eastern Europe, and the Middle East — choose the AG (Aktiengesellschaft) over the GmbH partly for Lex Koller-adjacent reasons, but more fundamentally for privacy. In a GmbH, shareholder names are published in the Commercial Register. In an AG, shareholders are anonymous — only the board of directors is publicly visible. For a Romanian entrepreneur establishing a Zug AG with a Swiss-resident board member provided by the advisory firm, the AG structure offers a high degree of privacy while the entrepreneur builds a Swiss presence. The AG costs more to form (CHF 2'500 vs CHF 1'900 for a GmbH, plus CHF 100'000 minimum share capital with at least CHF 50'000 paid in), but for clients where ownership privacy is a priority, the premium is justified. This privacy advantage has nothing to do with Lex Koller avoidance — Lex Koller looks through corporate structures to the beneficial owner — but it does matter for commercial confidentiality and personal security.
 
 ---
 

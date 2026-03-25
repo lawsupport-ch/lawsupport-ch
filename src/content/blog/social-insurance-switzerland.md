@@ -161,7 +161,17 @@ For a mid-career employee earning CHF 120'000/year in Zug:
 | Krankentaggeld (50% of premium) | ~CHF 500 |
 | **Total employer social costs** | **~CHF 13'880** |
 
-This represents approximately 11.6% of gross salary in additional employer costs beyond the base salary, before VAT or other compliance costs. Understanding these costs is essential when planning your [company formation in Switzerland](/company-formation/company-formation-switzerland/) and budgeting for your first employees.
+This represents approximately 11.6% of gross salary in additional employer costs beyond the base salary, before VAT or other compliance costs.
+
+### What This Means in Practice
+
+The payroll overhead — the gap between what the employee sees on their payslip and what the company actually pays — runs **15-20%** of gross salary once all contributions are factored in, including the employer's share of AHV/IV/EO, ALV, FAK, BVG, and accident insurance. Many founders underestimate this when budgeting.
+
+**A concrete example:** A company with three employees, each earning CHF 100'000 gross, will spend approximately **CHF 46'200 per year** in combined employer social insurance contributions alone — before any consideration of office costs, accounting, or other overheads. That is CHF 15'400 per employee on top of the gross salary, and it is not optional. These are statutory obligations, not benefits the employer can choose to offer or withhold.
+
+For founders planning their first Swiss hires, this calculation should be done before signing employment contracts, not after. We regularly see companies — particularly those founded by entrepreneurs accustomed to jurisdictions with lower social charges — encounter cash flow pressure in the first twelve months because payroll overhead was underestimated by 30-40%.
+
+Understanding these costs is essential when planning your [company formation in Switzerland](/company-formation/company-formation-switzerland/) and budgeting for your first employees.
 
 ---
 

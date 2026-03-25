@@ -74,6 +74,8 @@ Activities that require no industry-specific licence beyond Commercial Register 
 - Wholesale and retail trading in most goods
 - E-commerce (including cross-border, subject to customs and product safety rules)
 - Real estate brokerage — note that several cantons apply a Real Estate Agents Act (BGBB-related cantonal rules), but there is no federal operating licence requirement for the agency itself
+
+**Staff leasing — a common and costly misconception:** There is a persistent myth that companies with fewer than ten staffing contracts do not need a SECO staff leasing licence. This is false. The licence is required regardless of the number of contracts. Operating without authorisation exposes the provider to fines of up to CHF 100'000, and the client company faces fines of up to CHF 40'000 if it knew or should have known that the provider lacked authorisation. Additionally, a Master Service Agreement issued by a US parent entity does not cover a Swiss subsidiary — the Swiss company must issue its own contracts and hold its own licence. Payments for Swiss staffing services must go directly to the authorised Swiss provider, not to a foreign parent
 - Manufacturing of most consumer goods not subject to product-specific regulation
 
 This breadth is a genuine competitive advantage for Switzerland. A management consulting firm, a software company, or an import-export trading house can be incorporated and fully operational within days.
@@ -84,7 +86,7 @@ This breadth is a genuine competitive advantage for Switzerland. A management co
 
 Financial services is where Swiss licensing law is most demanding and most consequential. FINMA — the Swiss Financial Market Supervisory Authority — oversees the entire sector under a framework of interconnected federal statutes. Operating without the required authorisation is a criminal offence.
 
-**Banking licence (BankG — Banking Act):** Required for any entity that accepts deposits from the public on a professional basis. Minimum paid-in capital is CHF 10 million; total capital requirements under Basel III are substantially higher in practice. Obtaining a full banking licence typically takes 12-24 months from application submission. For more detail, see our guide to [FINMA licensing in Switzerland](/licensing/finma-licensing-switzerland/).
+**Banking licence (BankG — Banking Act):** Required for any entity that accepts deposits from the public on a professional basis. Minimum paid-in capital is CHF 10 million (CHF 20'000'000 in practice for new entrants); total capital requirements under Basel III are substantially higher. Obtaining a full banking licence typically takes 12-24 months from application submission. A turnkey licensed financial intermediary — an existing entity with a licence already in place — can cost CHF 480'000 or more to acquire. Building a licence from scratch, including company formation and the licensing process itself, runs to CHF 80'000–130'000 over three to six months. For more detail, see our guide to [FINMA licensing in Switzerland](/licensing/finma-licensing-switzerland/).
 
 **Asset manager / securities firm licence (FinIA — Financial Institutions Act):** Any person or entity managing assets on behalf of clients on a professional basis must be authorised by FINMA as an asset manager (Vermogensverwalter) or securities firm. Minimum capital for an independent asset manager is CHF 100,000 (fully paid in); for securities firms, CHF 1.5 million or higher depending on activities. Ongoing requirements include affiliation with an Ombudsman, compliance with the FinSA (Financial Services Act) conduct rules, and annual FINMA reporting.
 
@@ -93,6 +95,10 @@ Financial services is where Swiss licensing law is most demanding and most conse
 **Collective investment schemes / fund management:** Managing or distributing collective investment schemes requires FINMA authorisation under CISA (Collective Investment Schemes Act). Fund management companies face capital requirements of at least CHF 1 million.
 
 **Fintech licence and SRO membership:** Entities accepting public deposits up to CHF 100 million but not investing or paying interest can operate under FINMA's fintech licence — a lighter regime introduced in 2019 with a minimum capital of CHF 300,000. Below the CHF 1 million threshold for money transmission, operators must join a FINMA-recognised Self-Regulatory Organisation (SRO).
+
+SRO membership is not a formality. Application assistance alone typically costs CHF 10'000 as a fixed retainer, with total legal costs reaching CHF 25'000 or more if the SRO raises additional requests during the review process. VQF (Verein zur Qualitaetssicherung von Finanzdienstleistungen), one of the largest SROs, can raise unpredictable supplementary requirements. Critically, an audit is conducted three months after licence grant — if the appointed director or AML compliance officer is found to be incompetent at that stage, the licence can be revoked.
+
+**Fiduciary services quarterly retainer:** For companies operating under a financial intermediary licence, ongoing quarterly compliance support runs to approximately CHF 4'000 per quarter — covering regulatory reporting, AML updates, and compliance monitoring.
 
 **Crypto and VASP licensing:** Virtual asset service providers (VASPs) operating in Switzerland must either join an SRO or obtain direct FINMA authorisation, depending on the scope of their activities. Switzerland applies the FATF Travel Rule, and crypto exchanges, custodians, and issuers all have specific obligations.
 
@@ -134,6 +140,8 @@ Healthcare licensing in Switzerland operates on both levels simultaneously.
 
 ## Transport and Security
 
+**Staff leasing (Personalverleih):** Operating a staff leasing or temporary staffing business in Switzerland requires a federal licence from <a href="https://www.seco.admin.ch" target="_blank" rel="nofollow noopener">SECO</a>. The application requires: a certified Commercial Register extract (no older than six months), a lease agreement for business premises with floor plan, general terms and conditions (AGBs), written confirmation that no placement fees are charged to jobseekers, and a responsible person who is a Swiss resident with relevant qualifications and clean criminal and debt records. SECO enforces this actively — the "fewer than ten contracts" exemption that circulates online does not exist in the legislation.
+
 **Commercial road transport:** Operating a road haulage business (trucks above 3.5 tons) requires a federal licence from ASTRA/BAZG. Requirements include professional competence, financial capacity, and good repute — mirroring EU requirements under the Road Transport Regulation.
 
 **Taxi and rideshare:** Entirely cantonal. Some cantons (Zurich, Geneva) impose quantity restrictions and quality requirements; others have liberalised significantly. A company launching a ride-hailing service in Switzerland must assess each target canton separately.
@@ -154,6 +162,7 @@ Healthcare licensing in Switzerland operates on both levels simultaneously.
 | Insurance | Insurance authorisation (VAG) | FINMA |
 | Fund management | CISA authorisation | FINMA |
 | Payment services / fintech | Fintech licence or SRO membership | FINMA / SRO |
+| Staff leasing / temp staffing | SECO staff leasing licence | SECO |
 | Crypto / VASP | SRO membership or FINMA authorisation | FINMA / SRO |
 | Medical practice | Berufsausübungsbewilligung | Cantonal health authority |
 | Pharmacy | Practice permit + premises licence | Cantonal health authority |

@@ -10,7 +10,7 @@ faqItems:
   - question: "Do I need a job offer before coming to Switzerland as an EU national?"
     answer: "You can enter Switzerland as an EU/EEA national without a job offer and search for work for up to 3 months. After 3 months without employment, you must demonstrate sufficient own resources or leave. If you find employment within 3 months, you apply for the appropriate B or L permit."
   - question: "Can my EU/EEA national family members join me in Switzerland?"
-    answer: "Yes. Spouses and dependent children of EU/EEA permit holders have derived rights to join and reside in Switzerland, regardless of their own nationality. This includes non-EU/EEA family members under the family reunification provisions of the AFMP."
+    answer: "Yes, but the timing matters. Spouses and dependent children of EU/EEA permit holders have derived rights to join and reside in Switzerland, regardless of their own nationality. However, the family reunification file is only processed after the primary applicant's own permit has been accepted by the cantonal authority. Families should treat the primary permit as step one and family reunification as step two."
   - question: "Does Brexit affect UK nationals working in Switzerland?"
     answer: "The UK left the EU and the AFMP no longer applies to UK nationals. UK nationals are now subject to the same third-country national rules (quota-based, employer sponsorship required). An Agreement on Citizens' Rights protects UK nationals who were already in Switzerland with valid status before 1 January 2021."
   - question: "How long does it take to get a Swiss work permit as an EU national?"
@@ -41,7 +41,9 @@ tocItems:
 ---
 
 
-EU and EEA nationals enjoy a fundamentally different — and significantly easier — pathway to working in Switzerland compared to third-country nationals. The Swiss work permit process for EU nationals operates through a straightforward registration and notification system rather than a quota-based application. Under the Agreement on the Free Movement of Persons (AFMP / FZA) between Switzerland and the EU, EU/EEA citizens have the right to work in Switzerland with virtually automatic permit issuance upon proof of employment. This guide explains the practical steps, permit types, and registration requirements.
+EU and EEA nationals enjoy a fundamentally different — and significantly easier — pathway to working in Switzerland compared to third-country nationals. The Swiss work permit process for EU nationals operates through a bilateral regime of mutual recognition rather than a quota-based application. Under the Agreement on the Free Movement of Persons (AFMP / FZA) between Switzerland and the EU, EU/EEA citizens have the right to work in Switzerland with virtually automatic permit issuance upon proof of employment. This guide explains the practical steps, permit types, and registration requirements.
+
+One procedural point that catches many families off guard: family reunification applications are processed only after the primary applicant's own permit file has been accepted. A spouse or dependent child cannot be added to a file that has not yet cleared the cantonal migration authority. Plan the primary application first, then file for dependants once the cantonal authority confirms acceptance.
 
 ---
 
@@ -55,7 +57,7 @@ The **AFMP (Freizuegigkeitsabkommen / Accord sur la libre circulation des person
 
 The AFMP does not apply to third-country nationals (non-EU/EEA). For non-EU/EEA nationals, see our guide on [work permits for non-EU nationals](/immigration/work-permit-non-eu-switzerland/).
 
-**EU/EEA nationals covered:** Citizens of all 27 EU member states plus Iceland, Liechtenstein, and Norway (EEA). Switzerland is not an EU member but applies the AFMP through bilateral agreements.
+**EU/EEA nationals covered:** Citizens of all 27 EU member states plus Iceland, Liechtenstein, and Norway (EEA). Switzerland is not an EU member but applies the AFMP through a set of bilateral agreements negotiated in two packages (Bilaterale I in 1999, Bilaterale II in 2004). The AFMP sits within Bilaterale I and is linked to six other agreements — if one falls, the others follow under the "guillotine clause." This political linkage is why the free movement regime has survived multiple popular votes challenging it.
 
 ---
 
@@ -200,6 +202,7 @@ EU/EEA nationals working in Switzerland are subject to Swiss [employment law](/e
 - **Notice period:** 1 month in the first year, 2 months in years 2–9, 3 months from year 10
 - **Working hours:** Standard 42–45 hours per week depending on industry
 - **Social insurance:** Both employee and employer contribute to AHV/IV, ALV, and occupational pension (BVG)
+- **Work permit renewal:** The renewal application must be physically signed with a wet ink (blue pen) signature. Digital or electronic signatures are not accepted by cantonal migration authorities for permit renewals. This catches many employers by surprise, particularly those accustomed to DocuSign or similar platforms for HR paperwork
 
 ---
 
@@ -211,7 +214,9 @@ You can enter Switzerland as an EU/EEA national without a job offer and search f
 
 **Can my EU/EEA national family members join me in Switzerland?**
 
-Yes. Spouses and dependent children of EU/EEA permit holders have derived rights to join and reside in Switzerland, regardless of their own nationality. This includes non-EU/EEA family members under the [family reunification](/immigration/family-reunification-switzerland/) provisions of the AFMP.
+Yes, but the timing matters. Spouses and dependent children of EU/EEA permit holders have derived rights to join and reside in Switzerland, regardless of their own nationality. This includes non-EU/EEA family members under the [family reunification](/immigration/family-reunification-switzerland/) provisions of the AFMP.
+
+However, the family reunification file is only processed after the primary applicant's own permit has been accepted by the cantonal authority. In one case we handled — a German tech founder relocating from London with his Swedish wife and three children — the family assumed they could file everything simultaneously. They could not. The primary permit had to clear first, and because the founder also needed an interim nominee director arrangement for his Swiss company during the transition, the entire relocation timeline stretched well beyond the 2-3 months they had budgeted. Families relocating should treat the primary permit as step one and family reunification as step two, not a parallel process.
 
 **Does Brexit affect UK nationals working in Switzerland?**
 

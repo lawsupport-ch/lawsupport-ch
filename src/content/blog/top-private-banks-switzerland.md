@@ -67,7 +67,7 @@ All Swiss private banks are regulated by <a href="https://www.finma.ch" target="
 | 9 | **Mirabaud** | ~CHF 35 billion | Geneva | Partnership |
 | 10 | **Banque Syz** | ~CHF 30 billion | Geneva | Private |
 
-*Note: UBS includes the former Credit Suisse wealth management book acquired in 2023.*
+*Note: UBS includes the former Credit Suisse wealth management book acquired in 2023. UBS requires CHF 500,000 or more in assets under management for new non-resident wealth management clients. Below that threshold, non-residents are generally directed to UBS's digital or retail channels rather than private banking.*
 
 ---
 
@@ -77,7 +77,7 @@ All Swiss private banks are regulated by <a href="https://www.finma.ch" target="
 
 Pictet is consistently ranked among the world's top private banks. Founded in 1805, it remains a private partnership — the 8 managing partners bear unlimited personal liability, aligning their interests completely with clients. Pictet manages approximately CHF 700 billion across private banking, asset management, and alternative investments.
 
-**Minimum assets:** CHF 2,000,000-5,000,000 for private banking relationships
+**Minimum assets:** Officially CHF 2,000,000, but in practice a genuinely attentive relationship — dedicated senior RM, bespoke portfolio, access to co-investment opportunities — begins at CHF 4,000,000-6,000,000. Below that threshold, clients are typically served by junior RMs with standardised portfolio models. Pictet does not advertise this distinction, but it is well understood in the market.
 **Strengths:** Long-term wealth preservation, estate planning, institutional-quality investment management
 **Ownership:** Private partnership — not publicly traded
 
@@ -85,7 +85,7 @@ Pictet is consistently ranked among the world's top private banks. Founded in 18
 
 Founded in 1796, Lombard Odier is one of Geneva's oldest private banks. Like Pictet, it operates as a partnership. Known for its sustainable investment approach and technology platform (used by other banks). Manages approximately CHF 300 billion.
 
-**Minimum assets:** CHF 1,000,000-2,000,000
+**Minimum assets:** CHF 1,000,000-2,000,000 for account opening; for a genuinely dedicated private banking relationship comparable to Pictet, expect CHF 4,000,000-6,000,000 in practice. Below CHF 2,000,000, service is competent but not bespoke.
 **Strengths:** Sustainable/ESG investing, digital banking infrastructure, multi-generational family wealth
 **Ownership:** Private partnership
 
@@ -93,7 +93,7 @@ Founded in 1796, Lombard Odier is one of Geneva's oldest private banks. Like Pic
 
 Julius Baer is Switzerland's largest listed pure-play private bank. Founded in 1890, it manages approximately CHF 400 billion across 60+ markets. Julius Baer is publicly traded (BAER.SW on SIX), providing transparency but also quarterly performance pressure. It acquired Merrill Lynch's international wealth management business in 2012-2015.
 
-**Minimum assets:** CHF 500,000-1,000,000 (varies by market)
+**Minimum assets:** CHF 500,000-1,000,000 (varies by market). Julius Baer is more accessible than Pictet or Lombard Odier at the entry level, which makes it a common starting point for entrepreneurs and business owners who are building wealth rather than preserving inherited assets.
 **Strengths:** Global reach, international clients, entrepreneurs, business owners
 **Ownership:** Listed on SIX Swiss Exchange
 
@@ -180,7 +180,7 @@ Domestic bank secrecy remains under Art. 47 Banking Act, but automatic exchange 
 
 **Can non-residents open Swiss private bank accounts?**
 
-Yes. Swiss private banks actively serve international clients. Non-residents must comply with CRS reporting to their home tax authority and pass KYC/AML [due diligence](/corporate-transactions/due-diligence-switzerland/).
+Yes, with one significant exception: US persons. Swiss private banks actively serve international clients, and non-residents must comply with CRS reporting to their home tax authority and pass KYC/AML [due diligence](/corporate-transactions/due-diligence-switzerland/). However, US citizens, US green card holders, and companies with US beneficial owners face systematic rejection across Swiss private banking. The FATCA compliance burden has made US-nexus clients commercially unattractive to most Swiss institutions. Even fintech-oriented banks such as Relio AG explicitly decline companies with US nexus at the UBO or shareholder level. US persons who do maintain Swiss accounts typically require Swiss residence permits, demonstrated tax compliance in both jurisdictions, and a pre-existing banking relationship.
 
 **Which private banks are headquartered in Zug?**
 
@@ -200,7 +200,7 @@ Under a discretionary mandate, the bank manages your portfolio independently wit
 
 **Are Swiss private banks regulated by FINMA?**
 
-Yes. All Swiss banks are supervised by <a href="https://www.finma.ch" target="_blank" rel="nofollow noopener">FINMA</a>. Private banks must hold a banking licence, comply with Basel III capital adequacy requirements, maintain anti-money laundering programmes, and submit to regular audits.
+Yes. All Swiss banks are supervised by <a href="https://www.finma.ch" target="_blank" rel="nofollow noopener">FINMA</a>. Private banks must hold a banking licence, comply with Basel III capital adequacy requirements, maintain anti-money laundering programmes, and submit to regular audits. During onboarding, every prospective client is screened against WorldCheck, Dow Jones, and similar AML databases. A hit — even a false positive or a match against a politically exposed person (PEP) in the same family — can delay account opening by months or result in outright rejection. Banks also conduct reputational due diligence beyond database checks: adverse media screening, source-of-wealth verification, and in some cases, requests for references from existing banking relationships.
 
 **What is the advantage of a partnership-structured private bank?**
 

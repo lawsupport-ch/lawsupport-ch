@@ -54,7 +54,8 @@ The simplest form: the parties enter into a JV agreement without creating a new 
 The parties form a new Swiss company (GmbH or AG) to carry out the JV business. The JV company is a separate legal entity — it can own assets, enter contracts, employ staff, and its liabilities are limited to its own assets.
 
 **GmbH as JV vehicle:**
-- Minimum capital: CHF 20'000
+- Minimum capital: CHF 20'000 (fully paid in at incorporation)
+- Total formation cost including notary: approximately CHF 1'900 for the registration itself. With a registered address in Zug (CHF 2'400/year), nominee director if needed (CHF 5'900/year), and basic accounting (from CHF 1'800/year), the all-in first-year operating cost before share capital runs approximately CHF 12'000
 - Shareholders' agreement governs the parties' relationship as shareholders
 - GmbH statutes typically include reserved matters (Zustimmungsvorbehalte) — decisions requiring unanimous or supermajority approval
 - Common in 50/50 JVs where both parties want veto rights over key decisions
@@ -63,7 +64,8 @@ The parties form a new Swiss company (GmbH or AG) to carry out the JV business. 
 For more on the GmbH structure, see our [GmbH formation guide](/company-formation/gmbh-formation-switzerland/).
 
 **AG as JV vehicle:**
-- Minimum capital: CHF 100'000
+- Minimum capital: CHF 100'000 (at least CHF 50'000 paid in at incorporation)
+- Total formation cost including notary: approximately CHF 2'500. The AG is more expensive to form and maintain, but offers genuine advantages for JVs with unequal participation
 - More flexible capital structure; multiple share classes possible (giving different economic and voting rights to each party)
 - Better for JVs with unequal economic participation or where future capital rounds are anticipated
 - Board of directors governance with each party having board representation
@@ -92,6 +94,16 @@ For AG-specific requirements, see our [AG formation guide](/company-formation/ag
 **Contractual JV (einfache Gesellschaft):** Tax-transparent — profits taxed at partner level, not JV level. More tax-efficient for many international structures.
 
 **Stamp duty:** Formation of a JV GmbH or AG with capital above CHF 1 million triggers 1% issuance [stamp duty](/tax-accounting/stamp-duty-switzerland/) on the excess.
+
+---
+
+## JV vs Subsidiary: When Each Structure Fits
+
+The decision between a joint venture and a wholly owned subsidiary is not always straightforward. A JV is appropriate when both parties bring something the other lacks — capital from one side, local market access or expertise from the other. It is also the standard choice when neither party is willing to cede control to the other, or when the project has a defined lifespan.
+
+A wholly owned subsidiary is simpler to govern (no deadlock provisions, no ROFR mechanics, no Russian roulette clauses) and avoids the friction of joint decision-making. Where the foreign party has the resources and expertise to operate independently in Switzerland, a subsidiary formed as a GmbH (CHF 1'900 registration cost) or AG (CHF 2'500) is usually the more efficient path.
+
+The hybrid approach — a contractual JV (einfache Gesellschaft) during the exploratory phase, converting to a company JV once the commercial model is proven — avoids locking both parties into a formal structure before the business case is validated.
 
 ---
 
@@ -128,7 +140,7 @@ An AG requires minimum share capital of CHF 100'000, with at least 50% paid in a
 
 **Can foreign companies participate in a Swiss JV without a Swiss presence?**
 
-Yes. Foreign companies can hold shares in a Swiss JV GmbH or AG without having their own Swiss establishment. However, at least one person authorised to represent the JV company must be resident in Switzerland (a managing director for a GmbH, or a board member for an AG). A [nominee director](/corporate-services/nominee-director-switzerland/) arrangement can satisfy this requirement.
+Yes. Foreign companies can hold shares in a Swiss JV GmbH or AG without having their own Swiss establishment. However, at least one person authorised to represent the JV company must be resident in Switzerland — a managing director for a GmbH, or a board member for an AG. Where neither JV partner has a Swiss-resident representative, a [nominee director](/corporate-services/nominee-director-switzerland/) arrangement satisfies this requirement. Standard nominee director fees run CHF 5'900 per year; premium arrangements with higher involvement cost CHF 7'400 per year. The nominee director fee does not include signing work permits, corporate filings, board meetings, or banking documentation — those services are billed separately at CHF 350 per hour.
 
 **How are profits distributed in a Swiss JV company?**
 

@@ -14,7 +14,7 @@ faqItems:
   - question: "How does Pillar Two affect small and medium-sized groups?"
     answer: "Pillar Two applies only to multinational groups with consolidated revenue of EUR 750 million or more. Smaller groups are unaffected and keep the full Swiss rate advantage."
   - question: "Is Zug always the best canton for tax structures?"
-    answer: "Zug offers the lowest headline rate (11.82%) but Geneva suits commodity trading better, and cantons like Nidwalden, Lucerne, and Schwyz offer competitive rates with different advantages."
+    answer: "Zug offers the lowest headline rate (11.85%) but Geneva suits commodity trading better, and cantons like Nidwalden, Lucerne, and Schwyz offer competitive rates with different advantages."
 tocItems:
   - id: "why-switzerland-for-international-tax-structures"
     title: "Why Switzerland for International Tax Structures"
@@ -35,7 +35,7 @@ tocItems:
 ---
 
 
-Switzerland remains one of the most effective jurisdictions for international tax structuring. Stable politics, an independent rule-of-law tradition, a network of over 100 double tax agreements (DTAs), and effective corporate tax rates starting at 11.82% in Zug combine to make Swiss entities a practical choice for holding companies, IP vehicles, trading principals, and treasury centres. This article covers the four main structure types, their current legal basis, the post-STAF (Tax Reform and AHV Financing) rules, and what BEPS compliance requires in 2026.
+Switzerland remains one of the most effective jurisdictions for international tax structuring. Stable politics, an independent rule-of-law tradition, a network of over 100 double tax agreements (DTAs), and effective corporate tax rates starting at 11.85% in Zug combine to make Swiss entities a practical choice for holding companies, IP vehicles, trading principals, and treasury centres. This article covers the four main structure types, their current legal basis, the post-STAF (Tax Reform and AHV Financing) rules, and what BEPS compliance requires in 2026.
 
 ---
 
@@ -45,17 +45,19 @@ The case for Switzerland is structural, not promotional.
 
 **Political and legal stability.** Switzerland has not experienced a fundamental overhaul of its corporate tax framework through a change of government since the 1950s. When reform does occur — as with STAF in 2020 — it is legislated transparently with transition rules. For structures designed to operate over a 10–20 year horizon, that predictability has real economic value.
 
-**DTA network.** Switzerland has concluded more than 100 income tax treaties. Key provisions relevant to international structures include: reduced or zero withholding on dividends, interest, and royalties paid to Swiss recipients; exemption or credit for Swiss-source income in the hands of foreign shareholders; and access to treaty dispute resolution. The bilateral agreement with the EU reduces withholding on dividends to 0% where a qualifying EU parent or subsidiary holds at least 25%.
+**DTA network.** Switzerland has concluded more than 100 income tax treaties — one of the most extensive treaty networks globally. Key provisions relevant to international structures include: reduced or zero withholding on dividends, interest, and royalties paid to Swiss recipients; exemption or credit for Swiss-source income in the hands of foreign shareholders; and access to treaty dispute resolution. The bilateral agreement with the EU reduces withholding on dividends to 0% where a qualifying EU parent or subsidiary holds at least 25%.
 
 **Competitive rates.** Effective combined federal and cantonal corporate tax rates in 2026:
 
 | Canton | Effective Rate (approx.) |
 |---|---|
-| Zug | 11.82% |
+| Zug | 11.85% |
 | Nidwalden | 11.97% |
 | Lucerne | 12.18% |
+| Basel-Stadt | 13.0% |
 | Geneva | 13.99% |
-| Zurich | 19.70% |
+| Basel-Land | 17.0% |
+| Zurich | ~20% |
 
 The federal rate is fixed at 8.5% on after-tax profit (approximately 7.83% on pre-tax profit). Cantonal rates vary significantly; Zug is the benchmark for holding and trading structures. For a full cantonal comparison, see our guide on [Swiss tax rates by canton](/tax-accounting/swiss-tax-rates-by-canton/).
 
@@ -82,8 +84,8 @@ The federal rate is fixed at 8.5% on after-tax profit (approximately 7.83% on pr
 |---|---|---|---|---|
 | Swiss Holding | AG or GmbH | Intermediate holding; dividend consolidation | ~0% on qualifying dividends | Participation exemption |
 | IP Box | AG or GmbH | Patents; royalty income | ~2–3% on qualifying patent income | Cantonal IP box (90% deduction) |
-| Trading Principal | AG or GmbH | Buy/sell commodities or goods as group principal | ~11.82% on trading profit | Low headline rate; no profit remittance WHT |
-| Treasury / Finance | AG or GmbH | Intergroup lending; cash pooling | ~11.82% on net interest income | Notional interest deduction; DTA network |
+| Trading Principal | AG or GmbH | Buy/sell commodities or goods as group principal | ~11.85% on trading profit | Low headline rate; no profit remittance WHT |
+| Treasury / Finance | AG or GmbH | Intergroup lending; cash pooling | ~11.85% on net interest income | Notional interest deduction; DTA network |
 
 ---
 
@@ -98,11 +100,15 @@ A Swiss holding AG or GmbH in Zug, holding shares in subsidiaries across multipl
 
 Where these conditions are met, net dividend income is effectively excluded from Swiss taxable income through a proportional reduction in tax. Qualifying dividends flow through the Swiss holding company at close to 0% Swiss corporate tax. Capital gains on qualifying participations are treated equivalently.
 
+The participation exemption is the single most important relief in Swiss international tax structuring. Without it, a holding company in Zug would pay 11.85% on dividend income from subsidiaries — still competitive by European standards, but not the near-zero outcome that makes Switzerland the preferred intermediate holding jurisdiction. With it, the holding layer adds almost no tax friction to the group structure.
+
 **Capital tax.** Cantons impose a net worth (capital) tax on equity. In Zug the rate is 0.075% per annum — 0.001% for equity attributable to qualifying participations under the holding privilege. For a holding with CHF 100 million in equity, annual capital tax in Zug is in the order of CHF 75'000–100'000: negligible relative to the dividends flowing through. Read more about [capital tax in Switzerland](/tax-accounting/capital-tax-switzerland/).
 
 **Post-STAF clarification.** The cantonal holding company privilege — which previously exempted Swiss holding companies from cantonal corporate income tax entirely — was abolished on 1 January 2020. Swiss holding companies are now taxed at ordinary cantonal rates but benefit from the participation exemption on qualifying dividend and capital gain income. For a well-structured pure holding, the practical outcome is nearly identical to the pre-2020 position. The change removed the formal privilege that invited BEPS challenge.
 
 **Swiss withholding tax.** Switzerland levies 35% Verrechnungssteuer on dividends paid by Swiss companies to shareholders. International holding structures must therefore be owned by a foreign parent in a DTA jurisdiction, or by qualifying EU entities under the bilateral agreement, to reduce or eliminate Swiss WHT on upward dividend flows. See [withholding tax in Switzerland](/tax-accounting/withholding-tax-switzerland/) for treaty rates and refund procedures.
+
+**Practical example.** A South African infrastructure group needed an intermediate holding in Switzerland to consolidate energy and real estate subsidiaries across multiple African jurisdictions. The group formed an AG in Zug, appointed a Swiss-resident director from the advisory firm, and structured dividend flows from operating entities through the Swiss holding. Expected transaction volume: 4-5 payments per month in the range of USD 25-500 million. The participation exemption reduced the effective Swiss tax on qualifying dividends to near zero. The group initially registered the company in Zurich (where a suitable shelf company was available) with the intention of re-domiciling to Zug once turnover was established — a pragmatic sequencing that is common in practice.
 
 For formation and governance detail, see [holding company formation in Switzerland](/company-formation/holding-company-switzerland/).
 
@@ -134,9 +140,9 @@ Geneva and Zug host hundreds of commodity and goods trading companies operating 
 
 Geneva's dominance in commodity trading is well-documented: approximately 50% of global crude oil and 30% of agricultural commodities are traded by Geneva-based companies. Zug is the established alternative, particularly for technology goods and diversified commodity trading.
 
-**Tax mechanics.** The trading company is taxed at ordinary Swiss rates on its actual trading profit — 11.82% in Zug. There is no withholding tax on profit retained in the company. When profit is eventually distributed as a dividend, Swiss WHT of 35% applies, managed through the holding structure or DTA refund procedures.
+**Tax mechanics.** The trading company is taxed at ordinary Swiss rates on its actual trading profit — 11.85% in Zug. There is no withholding tax on profit retained in the company. When profit is eventually distributed as a dividend, Swiss WHT of 35% applies, managed through the holding structure or DTA refund procedures.
 
-**Post-STAF.** The mixed company and principal company regimes that previously taxed only the Swiss-sourced portion of trading income were abolished in 2020. Trading companies are now taxed on worldwide trading income at ordinary cantonal rates. At 11.82% in Zug, Switzerland remains competitive against most European alternatives (UK: 25%; Germany: ~30%; France: ~25%) and significantly below the US federal rate of 21%.
+**Post-STAF.** The mixed company and principal company regimes that previously taxed only the Swiss-sourced portion of trading income were abolished in 2020. Trading companies are now taxed on worldwide trading income at ordinary cantonal rates. At 11.85% in Zug, Switzerland remains competitive against most European alternatives (UK: 25%; Germany: ~30%; France: ~25%) and significantly below the US federal rate of 21%.
 
 **Substance requirements.** Contract procurement, risk management, and pricing decisions must be demonstrably taken in Switzerland. The OECD's principal purpose test (PPT) — incorporated into most Swiss treaties through the Multilateral Instrument (MLI) — means that a Swiss company operating as a conduit with no genuine trading function will not receive treaty benefits and may face challenge in counterparty jurisdictions.
 
@@ -164,7 +170,7 @@ See [double tax treaties Switzerland](/tax-accounting/double-tax-treaties-switze
 
 **Country-by-Country Reporting (CbCR).** Swiss ultimate parent entities of multinational groups with consolidated revenue above CHF 900 million must file CbCR with the ESTV, which exchanges it with treaty partners under automatic exchange frameworks. Below that threshold, CbCR obligations in subsidiary jurisdictions may still apply.
 
-**Pillar Two (global minimum tax).** Switzerland enacted OECD Pillar Two rules with effect from 1 January 2024. For groups with global consolidated revenue above EUR 750 million, a top-up tax ensures a minimum effective rate of 15% at the jurisdictional level, collected as a domestic Qualified Minimum Top-Up Tax (QDMTT). At 11.82% in Zug, the top-up exposure is approximately 3.18 percentage points — modest compared with jurisdictions at 0–5%. For groups below the EUR 750 million Pillar Two threshold, Swiss rate advantages are fully preserved.
+**Pillar Two (global minimum tax).** Switzerland enacted OECD Pillar Two rules with effect from 1 January 2024. For groups with global consolidated revenue above EUR 750 million, a top-up tax ensures a minimum effective rate of 15% at the jurisdictional level, collected as a domestic Qualified Minimum Top-Up Tax (QDMTT). At 11.85% in Zug, the top-up exposure is approximately 3.18 percentage points — modest compared with jurisdictions at 0–5%. For groups below the EUR 750 million Pillar Two threshold, Swiss rate advantages are fully preserved.
 
 For a full rate mechanics analysis, see [corporate tax in Switzerland](/tax-accounting/corporate-tax-switzerland/).
 
@@ -194,7 +200,7 @@ Switzerland does not levy withholding tax on interest payments made by Swiss com
 
 **How does Pillar Two affect small and medium-sized groups using Swiss structures?**
 
-Pillar Two applies only to multinational groups with consolidated annual revenue of EUR 750 million or more. Groups below that threshold are entirely unaffected and continue to benefit from the full Swiss rate advantage. For groups above the threshold, the top-up from Zug's 11.82% to the 15% minimum is modest at approximately 3.18 percentage points.
+Pillar Two applies only to multinational groups with consolidated annual revenue of EUR 750 million or more. Groups below that threshold are entirely unaffected and continue to benefit from the full Swiss rate advantage. For groups above the threshold, the top-up from Zug's 11.85% to the 15% minimum is modest at approximately 3.18 percentage points.
 
 **Can a Swiss trading company operate without physical offices or staff in Switzerland?**
 
@@ -206,7 +212,7 @@ The primary risks are: denial of participation exemption if holding period or th
 
 **Is Zug always the best canton for international tax structures?**
 
-Zug offers the lowest headline rate (11.82%) and is the default choice for many holding and trading structures. However, Geneva has stronger infrastructure for commodity trading, and other cantons (Nidwalden, Lucerne, Schwyz) offer competitive rates with different local advantages. The choice depends on the structure type, the industry, and where the required substance — staff, management, operations — can realistically be located.
+Zug offers the lowest headline rate (11.85%) and is the default choice for many holding and trading structures. However, Geneva has stronger infrastructure for commodity trading, and other cantons (Nidwalden, Lucerne, Schwyz) offer competitive rates with different local advantages. The choice depends on the structure type, the industry, and where the required substance — staff, management, operations — can realistically be located.
 
 **What ongoing compliance obligations apply to Swiss international structures?**
 

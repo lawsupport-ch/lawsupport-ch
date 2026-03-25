@@ -49,6 +49,8 @@ A Steuerruling is not a negotiation — it is a formal request for the tax autho
 
 **Not a tax reduction deal:** A Swiss ruling confirms the legally correct tax treatment — it does not grant special tax rates or reductions that are not available under law. What makes Swiss rulings valuable is the predictability they provide, not hidden concessions.
 
+**The process is iterative, not transactional.** In practice, the cantonal inspector may come back with clarifying questions or request additional documentation before issuing the ruling. This is normal and should be expected. The exchange is professional and constructive — the inspector is trying to understand the facts well enough to commit the authority's position to paper. An incomplete or vague submission invites questions; a detailed, well-documented submission with the applicant's own legal analysis tends to produce a faster, cleaner ruling.
+
 ---
 
 ## What Swiss Tax Rulings Cover
@@ -89,19 +91,20 @@ No official form exists for most cantonal rulings. The request is a letter to th
 4. The applicant's own legal analysis and proposed treatment
 5. Supporting documents: draft contracts, structure charts, financial projections
 
-**Pre-submission meeting:** For complex matters, an informal discussion with the cantonal tax inspector before filing is productive. Zug's Steuerverwaltung is accessible and willing to engage pre-filing. Lawsupport regularly prepares and submits ruling requests to the Steuerverwaltung Zug and can manage the entire process.
+**Pre-submission meeting:** For complex matters, an informal discussion with the cantonal tax inspector before filing is productive. Zug's Steuerverwaltung is accessible and willing to engage pre-filing — typically a 30-60 minute call or meeting at no cost from the authority's side. This step is not mandatory but is strongly recommended for novel structures (crypto treasury management, complex IP migrations, multi-jurisdictional restructurings). It allows the applicant to test the authority's appetite for the proposed treatment before committing the structure to a formal written submission. Lawsupport regularly prepares and submits ruling requests to the Steuerverwaltung Zug and can manage the entire process.
 
 ---
 
 ## Timeline
 
-| Canton | Typical Timeline |
-|---|---|
-| Zug | 4-8 weeks |
-| Zurich | 6-12 weeks |
-| Geneva | 8-16 weeks |
+| Canton | Typical Timeline | Notes |
+|---|---|---|
+| Zug | 4-8 weeks | Most experienced with international structures, crypto, IP Box |
+| Zurich | 6-12 weeks | Larger volume, more formal process |
+| Geneva | 8-16 weeks | Bilingual submissions accepted (FR/EN), longer queue |
+| Basel-Stadt | 6-10 weeks | Corporate tax rate 13%, growing interest from pharma/biotech |
 
-Complex or novel questions take longer. Straightforward holding or IP Box confirmations in Zug: 4-6 weeks. For companies forming in a specific canton, the ruling timeline should be factored into the overall [company formation](/company-formation/company-formation-switzerland/) planning.
+Complex or novel questions take longer. Straightforward holding or IP Box confirmations in Zug: 4-6 weeks. The cantonal differences are not just about speed — each Steuerverwaltung has developed its own areas of expertise. Zug handles more crypto and international structuring rulings than any other canton. Zurich sees more volume from large corporates. Geneva handles more individual lump-sum taxation rulings. Choosing the right canton for the ruling is partly a function of which authority has the most relevant experience with your specific structure. For companies forming in a specific canton, the ruling timeline should be factored into the overall [company formation](/company-formation/company-formation-switzerland/) planning.
 
 ---
 
@@ -165,7 +168,9 @@ Yes, under OECD BEPS Action 5. Switzerland exchanges certain categories of rulin
 
 **What happens if I implement a structure without requesting a ruling first?**
 
-You bear the full risk that the tax authority may assess the transaction differently from your assumption. Without a ruling, you have no binding commitment from the authority. If the authority disagrees during a later assessment, you may face back taxes, interest charges (typically 3-5% per annum), and in cases of negligence or intent, tax penalties.
+You bear the full risk that the tax authority may assess the transaction differently from your assumption. Without a ruling, you have no binding commitment from the authority. If the authority disagrees during a later assessment, you face back taxes, interest charges (currently approximately 3-5% per annum depending on the canton), and in cases of negligence or intent, tax penalties (Steuerbussen) of 1x the evaded amount for negligence up to 3x for intentional underreporting.
+
+The practical consequence is worse than the financial penalty suggests. A retrospective transfer pricing adjustment, for example, can trigger a 35% withholding tax reassessment on the reclassified amount — a cost that often exceeds the underlying tax saving the structure was designed to achieve. The ruling would have cost CHF 5,000-15,000 to obtain. The reassessment can cost hundreds of thousands.
 
 ---
 

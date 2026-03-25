@@ -16,7 +16,7 @@ faqItems:
   - question: "Does an employee get anything if made redundant after 5 years?"
     answer: "There is no general Swiss statutory severance entitlement at 5 years. The Art. 339b entitlement only applies at age 50 or older with 20 or more years of service. Redundant employees at 5 years receive only their salary during the notice period unless the contract provides for more."
   - question: "What is the maximum compensation for abusive dismissal?"
-    answer: "Up to 6 months' salary under Art. 336a OR. The dismissal itself remains valid — the employee is not reinstated. The claim must be raised in writing within the notice period and pursued within 180 days of the employment relationship ending."
+    answer: "Up to 6 months' salary under Art. 336a OR. The dismissal itself remains valid — the employee is not reinstated. The claim must be raised in writing during the notice period (a formal written objection to the dismissal), and the court action must be filed within 180 days of the employment relationship ending. Missing either deadline extinguishes the claim entirely. Many employees miss the first step — the written objection during the notice period — because they do not realise it is a prerequisite for the subsequent court claim."
 tocItems:
   - id: "swiss-employment-law-the-basic-framework"
     title: "Swiss Employment Law: The Basic Framework"
@@ -121,7 +121,7 @@ Dismissal is abusive (but not null — still valid) when the reason or manner of
 - Terminating for characteristics such as pregnancy, origin, or religion (while not a separate protected category, discrimination-motivated termination is abusive)
 - Terminating in a humiliating manner
 
-**Remedy for abusive dismissal:** The employee can claim compensation of up to **6 months' salary** (Art. 336a OR). The dismissal itself remains valid — the employee is not reinstated. The claim must be raised within 60 days of termination.
+**Remedy for abusive dismissal:** The employee can claim compensation of up to **6 months' salary** (Art. 336a OR). The dismissal itself remains valid — the employee is not reinstated. The employee must object in writing during the notice period (Art. 336b OR), then file the court action within 180 days of the employment relationship ending. Missing either deadline extinguishes the claim.
 
 ---
 
@@ -152,9 +152,13 @@ Employers planning significant workforce reductions should also consider the [wo
 
 ## Practical Considerations for Employers
 
+**A typical termination in practice.** Consider an employee with 4 years of service. The statutory notice period is 2 months, effective at the end of a calendar month. If notice is given on 15 March, the employment ends on 31 May. During those 2 months, untaken vacation days must be either used or paid out — Swiss law strongly favours actual usage during the notice period, but if operational needs prevent it, a cash payout at the daily salary rate is required. At the end, the employer presents a Saldoerklaerung (final settlement declaration) confirming that all claims are settled. Employees are not obliged to sign it, and many advisers recommend they do not sign without review. The Saldoerklaerung is a release — once signed, it is very difficult to challenge later.
+
 **Documentation:** While Swiss law does not require a written reason for termination, maintaining clear records of performance issues, warnings, and the decision-making process protects against abusive dismissal claims. Written warnings with specific improvement targets and deadlines are particularly valuable.
 
 **Timing:** Before issuing notice, verify that the employee is not in a protected period. If the employee reports sick on the day notice is given, the notice may be rendered ineffective. Some employers request a medical certificate before proceeding.
+
+**Signature requirements.** The termination letter must bear a wet ink signature — blue pen is standard practice. Digital signatures (DocuSign, Adobe Sign, qualified electronic signatures) are not accepted by Swiss labour courts for employment termination notices. This catches multinational employers by surprise: a company headquartered in the US or UK that terminates Swiss employees via its standard electronic HR workflow will find the termination is formally defective. The same applies to work permit renewal applications, settlement declarations, and other employment documents that Swiss authorities treat as requiring physical signatures. Use blue ink, sign by hand, deliver in person or by registered post (Einschreiben).
 
 **Exit agreements (Aufhebungsvereinbarung):** Employers and employees can agree to terminate by mutual consent, typically with an agreed severance payment. Exit agreements bypass notice periods and protected period rules but must be genuinely voluntary — an employee who signs under duress can challenge the agreement.
 
@@ -182,7 +186,7 @@ There is no general Swiss statutory severance entitlement at 5 years. The Art. 3
 
 **What is the maximum compensation for abusive dismissal?**
 
-Up to 6 months' salary under Art. 336a OR. The dismissal itself remains valid — the employee is not reinstated. The claim must be raised in writing within the notice period and pursued within 180 days of the employment relationship ending.
+Up to 6 months' salary under Art. 336a OR. The dismissal itself remains valid — the employee is not reinstated. The claim must be raised in writing during the notice period (a formal written objection to the dismissal), and the court action must be filed within 180 days of the employment relationship ending. Missing either deadline extinguishes the claim entirely. Many employees miss the first step — the written objection during the notice period — because they do not realise it is a prerequisite for the subsequent court claim.
 
 **What are the protected periods during illness?**
 

@@ -62,7 +62,7 @@ Even without an intent to remain permanently, Swiss tax residency arises automat
 - **30 days or more**, if you are engaged in gainful activity (employment or self-employment), or
 - **90 days or more**, if you are not engaged in gainful activity (for example, a retiree or a person managing investments passively).
 
-Brief absences — a weekend abroad, a short business trip — do not reset the clock. Once you cross the threshold, Swiss tax residency is established from the first day of that stay. Failing to formally register is not a defence against Swiss tax liability.
+Note that Switzerland does **not** apply the 183-day rule used by most other jurisdictions and many double taxation agreements. The Swiss thresholds are considerably lower — 30 days with work, 90 days without. Individuals accustomed to the 183-day standard in their home country are frequently caught by this difference. Brief absences — a weekend abroad, a short business trip — do not reset the clock. Once you cross the threshold, Swiss tax residency is established from the first day of that stay. Failing to formally register is not a defence against Swiss tax liability.
 
 ---
 
@@ -105,7 +105,9 @@ The OECD-standard tie-breaker sequence, which most Swiss DTAs follow, works thro
 
 In practice, the analysis almost always resolves at step 1 or step 2. If you retain a family home in your country of origin after relocating to Switzerland, and your family remains there, the DTA may conclude that your centre of vital interests stayed abroad — even if you are physically present in Switzerland for most of the year.
 
-This is a live risk for executives on assignment and for individuals who relocate without fully restructuring their personal circumstances. The tie-breaker analysis is fact-specific. Get professional [tax advisory](/tax-accounting/tax-advisory-switzerland/) before assuming which state has primary residence.
+This is a live risk for executives on assignment and for individuals who relocate without fully restructuring their personal circumstances. Dual residency complications are particularly acute for individuals relocating in stages — arriving in Switzerland personally while the family remains abroad for a school year, for example. During the overlap period, both jurisdictions will claim taxing rights, and the resolution depends entirely on which tie-breaker criterion the DTA places weight on. Without proper documentation of the transition (lease termination dates, family relocation dates, school enrolment records, utility account closures), the analysis becomes a fact-finding exercise that neither tax authority will resolve quickly or cheaply.
+
+The tie-breaker analysis is fact-specific. Get professional [tax advisory](/tax-accounting/tax-advisory-switzerland/) before assuming which state has primary residence.
 
 ---
 
@@ -132,8 +134,12 @@ Factors authorities examine when assessing whether residency has genuinely ended
 - Has the family home been sold or the lease terminated?
 - Has the spouse and family relocated?
 - Have Swiss [bank accounts](/banking/swiss-bank-account/) and custody accounts been closed or transferred?
+
+**US persons face additional complexity.** US citizens and green card holders are subject to worldwide taxation by the IRS regardless of where they live. Establishing Swiss tax residency does not terminate US tax obligations — it creates a dual reporting requirement under both Swiss domestic law and the US-Switzerland DTA. FATCA (Foreign Account Tax Compliance Act) requires Swiss banks to report accounts held by US persons to the IRS. In practice, many Swiss banks decline to open accounts for US persons altogether due to the compliance burden. Those who do maintain accounts face annual FBAR (FinCEN 114) filing obligations on top of Swiss wealth tax reporting. The interaction between Swiss wealth tax, US income tax, and foreign tax credits requires specialist cross-border advisory from day one of the relocation.
 - Is there a documented new domicile abroad with a genuine tenancy or property ownership?
 - Have Swiss club memberships, professional registrations, and social ties been transferred or closed?
+
+**Banking consequences of residency changes are immediate.** When you change your tax residency status, Swiss banks must update your CRS (Common Reporting Standard) profile. The bank will report your account to the tax authority of your new country of residence — often within the same calendar year. If you deregister from Switzerland in November, the bank may still report your account to the Swiss tax authority for that tax year and to the new jurisdiction's authority from the following year. Failure to notify your bank of a residency change is a compliance breach that can trigger both AML enquiries and a freeze on your accounts.
 
 One structural advantage Switzerland offers at exit: **Switzerland levies no departure tax on unrealised capital gains** for private individuals leaving. Unlike Germany (deemed disposal on shareholdings above 1%), France, or the United States, a Swiss resident who holds a large appreciated shareholding and relocates abroad pays no Swiss tax on those unrealised gains at the time of departure. The tax event occurs only when the asset is eventually sold — wherever the individual is then resident. This makes Switzerland a structurally attractive base for wealth accumulation in a way that many comparable jurisdictions are not.
 

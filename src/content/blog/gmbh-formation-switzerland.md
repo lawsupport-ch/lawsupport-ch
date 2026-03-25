@@ -117,7 +117,17 @@ Missing or incorrectly prepared Stampa Declarations cause the Commercial Registe
 
 Before the notarisation can take place, the share capital (CHF 20,000 minimum) must be deposited in a special [capital deposit account](/banking/capital-deposit-account-switzerland/) (Kapitaleinzahlungskonto) at a Swiss bank. This is not a regular business account. The bank will issue a blocking confirmation letter, which the notary requires.
 
-Opening this account has become more complex since 2022, as Swiss banks apply enhanced due diligence to newly forming entities. Our team coordinates directly with several banking partners to accelerate this step. For guidance on the broader banking picture, see our page on [corporate bank accounts in Switzerland](/banking/corporate-bank-account-switzerland/).
+Opening this account has become more complex since 2022, and the reality in 2026 is blunter than most formation guides acknowledge.
+
+**PostFinance** — often recommended as the "easy" option — rejects a significant share of applications from newly formed entities. The review process takes three to four weeks, and rejections arrive without much explanation. One recent client had their application declined because the company name contained a well-known brand term (the company had nothing to do with that brand). PostFinance asked pointed questions about the name choice, then declined. Brand-sensitive company names trigger additional compliance scrutiny at most Swiss banks.
+
+**Relio AG** (Zurich-based fintech bank, CHF 249/month) is faster — same-day account opening is possible after video verification through Intrum. But Relio has an explicit exclusion: **companies with US nexus at the UBO or shareholder level are rejected**. If any ultimate beneficial owner holds a US passport or US tax residency, Relio will not onboard the company. One US-owned company was forced to route operations through a UK parent company's payment account after Relio declined — creating serious compliance problems.
+
+**UBS** requires CHF 500,000 or more under management for new non-resident clients seeking corporate accounts.
+
+The practical rule: if a bank approves your blocked capital deposit account during formation, there is roughly an 80% chance it will convert that into a permanent operating account after registration. If you are rejected at the blocked account stage, start looking elsewhere immediately — do not wait weeks hoping for a reversal.
+
+For guidance on the broader banking picture, see our page on [corporate bank accounts in Switzerland](/banking/corporate-bank-account-switzerland/).
 
 ### Step 5: Notarisation
 
@@ -140,7 +150,19 @@ The Commercial Register fee is approximately CHF 600 for a standard GmbH. Regist
 
 Once the Commercial Register confirms the entry, the bank releases the blocked capital into the company's operating account. From this point the GmbH is fully operational.
 
-**Total timeline: 2 to 4 weeks** for a straightforward formation. Complex structures, contributions in kind, or slow banking responses can extend this.
+**Realistic timeline breakdown:**
+
+| Step | Duration |
+|---|---|
+| Document preparation (articles, Stampa, powers of attorney) | Several days |
+| Bank pre-check + blocked account opening | ~1 week |
+| Capital transfer + bank certificate issued | ~1 week (depends on client speed) |
+| Signing/notarisation + filing | 1-2 days |
+| Commercial Register processing | 2-4 weeks |
+
+Total: **2 to 4 weeks** is achievable for a straightforward formation — but only if every document is prepared correctly and the bank cooperates. Register processing is faster in summer and slower before Christmas. Complex structures, contributions in kind, or banking rejections can extend this to 6-8 weeks.
+
+One important detail most guides omit: **the company can start operating from the moment of notarial signing**. You do not need to wait for the ZEFIX publication. The company exists as a legal entity from the notarial deed — the register entry is declaratory, not constitutive. This matters when you have contracts to sign or deadlines to meet.
 
 ---
 
@@ -173,7 +195,25 @@ Here is a realistic cost breakdown for a standard GmbH with no contributions in 
 | Translation (if non-German documents) | varies |
 | Bank account setup (some banks charge) | 0 to 500 |
 
-The share capital is not a sunk cost. It belongs to the company and is available for operating expenses after the Register entry. The actual out-of-pocket formation expense, excluding capital, typically runs CHF 1,500 to 3,000 for a straightforward formation handled professionally.
+The share capital is not a sunk cost. It belongs to the company and is available for operating expenses after the Register entry.
+
+**What it actually costs — real 2026 pricing:**
+
+GmbH registration including notary fees: **CHF 1,900** for a standard formation. That is the baseline. Most international founders do not stop there.
+
+The full package for a foreign founder with no Swiss presence looks like this:
+
+| Component | Cost (CHF) |
+|---|---|
+| GmbH registration (incl. notary) | 1,900 |
+| Registered address in Zug (annual) | 2,400 |
+| Nominee director (annual) | 5,900 |
+| Basic accounting (annual) | 1,800 |
+| **Total first-year cost (excl. share capital)** | **~12,000** |
+
+Add CHF 20,000 share capital on top (which you get back as working capital). A Zurich address costs CHF 3,000/year instead of CHF 2,400 — meaningful if your business needs a Zurich postmark.
+
+The nominee director fee of CHF 5,900 covers the directorship itself. What it does **not** cover: signing work permits, preparing corporate filings, attending board meetings, or executing banking documents. Those are billed separately at CHF 350/hour. First-time founders routinely underestimate this — budget CHF 2,000 to CHF 4,000/year in additional director-related fees for an active company.
 
 ---
 
@@ -214,7 +254,17 @@ This is the single most common practical obstacle for foreign founders. Article 
 1. Appoint a Swiss-resident employee as managing director
 2. Engage a professional nominee director service
 
-A nominee director is a licensed professional who holds the directorship and Swiss signatory rights on behalf of the company under a clearly defined contractual arrangement. The beneficial owner retains full operational control. This is a standard, legally compliant practice widely used by international businesses establishing Swiss entities. Learn more on our [Swiss nominee director page](/corporate-services/nominee-director-switzerland/).
+A nominee director is a licensed professional who holds the directorship and Swiss signatory rights on behalf of the company under a clearly defined contractual arrangement. The beneficial owner retains full operational control. This is a standard, legally compliant practice widely used by international businesses establishing Swiss entities.
+
+**Current pricing for nominee director services:**
+
+- Standard nominee director: **CHF 5,900/year**
+- Premium nominee (higher involvement, e.g. banking meetings): **CHF 7,400/year**
+- Six-month interim arrangement: **CHF 4,500**
+
+A word of caution on timeline expectations: founders often assume a nominee can be in place within days and replaced within months. In practice, six months of nominee service usually extends to twelve or more. One German tech founder planned a five-to-six-month interim while relocating from London to Zurich — the firm warned him upfront to expect two months minimum just for the administrative handover, and the actual transition took over a year.
+
+Learn more on our [Swiss nominee director page](/corporate-services/nominee-director-switzerland/).
 
 ---
 

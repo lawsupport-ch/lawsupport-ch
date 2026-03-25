@@ -158,11 +158,37 @@ You can verify a UID directly in ZEFIX or via the UID register at <a href="https
 
 ## How ZEFIX Supports Company Formation
 
-When [forming a Swiss company](/company-formation/company-formation-switzerland/), ZEFIX plays a role at several stages:
+When [forming a Swiss company](/company-formation/company-formation-switzerland/), ZEFIX is the first tool you should use — before engaging a notary, before opening a bank account, before anything else.
 
-- **Name availability check:** Before registering a new company, search ZEFIX to confirm the proposed company name is not already taken. The Commercial Register will reject a name that is confusingly similar to an existing registered company in the same canton.
-- **Post-registration verification:** After your company is registered, its entry should appear on ZEFIX within 1–5 business days. This confirms the registration is complete and publicly visible.
-- **[Trademark](/intellectual-property/trademark-registration-switzerland/) coordination:** A company name registered in the Commercial Register does not automatically confer trademark protection. ZEFIX confirms the corporate registration; trademark protection requires a separate application to the Swiss Federal Institute of Intellectual Property (IPI).
+### Step One: The ZEFIX Name Check
+
+Before registering a new company, search ZEFIX to confirm the proposed company name is not already taken. The Commercial Register will reject a name that is confusingly similar to an existing registered company in the same canton. This check takes 30 seconds and prevents the most common cause of formation delay: arriving at the notary with a name that the register will not accept.
+
+The name check also reveals whether your preferred name is taken in other cantons. While Swiss corporate name protection is cantonal (not national), a company in Zurich with your exact name may still create brand confusion and trademark problems even if you register in Zug.
+
+### Post-Registration Verification
+
+After your company is registered, its entry should appear on ZEFIX within 1–5 business days. This confirms the registration is complete and publicly visible. The company can begin operating from the moment of notarial signing — it does not need to wait for the ZEFIX publication to commence business activity.
+
+### The Domain Squatting Warning
+
+Here is a pattern that catches founders repeatedly: the SHAB (Swiss Official Gazette of Commerce) publishes your new company name as part of the registration process. This publication is public and searchable. Domain squatters monitor SHAB publications and register domain names matching newly formed companies within hours of publication. If you have not already registered your domain before the SHAB publication date, you may find that yourcompanyname.ch (or .com) has been taken by a speculator by the time your register entry appears.
+
+**Register your domain before you file with the notary.** The cost of a .ch domain is CHF 10-15 per year. The cost of recovering a squatted domain — or choosing a different one — is materially higher.
+
+### 2025 Shell Company Transfer Rules
+
+Companies researching shelf (shell) companies on ZEFIX should be aware of the **2025 regulatory changes** that expanded the Commercial Register's powers over shell company transfers. The register can now:
+
+- **Request financial documentation** from shell companies that have been dormant and are suddenly showing ownership or board changes
+- **Void shell company sales** where the register determines that the transfer does not comply with updated requirements
+- **Require changes in two stages**: first the company name and board composition, then the business activity — rather than allowing all modifications in a single filing
+
+These changes mean that shell company acquisitions now require more careful sequencing. A buyer who attempts to change the name, directors, address, and business purpose simultaneously may have the filing rejected. The two-stage approach adds 2-4 weeks to the transfer timeline but is now the standard procedure.
+
+### Trademark Coordination
+
+A company name registered in the Commercial Register does not automatically confer trademark protection. ZEFIX confirms the corporate registration; trademark protection requires a separate application to the Swiss Federal Institute of Intellectual Property (IPI).
 
 <!-- VIDEO: How to check company name availability on ZEFIX before forming a Swiss company -->
 

@@ -92,6 +92,14 @@ Before a priced round, Swiss founders typically use two instruments:
 
 **Convertible loans (Wandeldarlehen)**: The Swiss market-standard bridge instrument. Unlike a US SAFE note, a Swiss convertible loan is structured as a genuine loan (with interest, maturity, and repayment provisions) that converts to equity on defined trigger events. SAFE notes in their standard Y Combinator form are not directly compatible with Swiss corporate law — they require adaptation to work within the Swiss Code of Obligations framework. Founders importing US-style documents without Swiss law review regularly create problems at Series A due diligence.
 
+### SAFT Structuring for Crypto Rounds
+
+Token-based startups in Zug and Zurich frequently use **SAFTs (Simple Agreements for Future Tokens)** as pre-sale instruments. Under Swiss law, SAFTs sit in a grey zone similar to SAFEs — they are neither clearly debt nor equity, and FINMA's token classification (payment, utility, or asset token) determines whether the SAFT itself triggers securities law obligations. A SAFT that promises future asset tokens may constitute a public offering requiring a prospectus. Companies structuring SAFT rounds should obtain a FINMA no-action letter or formal classification before distribution.
+
+### US Investor Complications: SEC and Reg S
+
+Swiss crypto startups actively court US investors, but the presence of a US person in the cap table creates regulatory friction that founders routinely underestimate. One Zug-based blockchain company sought investment from a US lead investor. The structuring conversation quickly revealed the problem: US securities law (Regulation S, Regulation D, and SEC registration requirements) applies to any offering that targets US persons, regardless of where the issuing company is domiciled. The founder was advised directly: "Reg S / SEC / IRS aspects must be handled with U.S. counsel" — Swiss lawyers cannot opine on US securities law, and getting this wrong exposes the company to SEC enforcement action. The practical outcome: US lead investors in Swiss crypto rounds require parallel US legal counsel, which adds CHF 30,000-80,000 in legal costs to the round and two to four months in timeline. Founders who discover this after signing a term sheet with a US lead investor face an uncomfortable choice between delay and risk.
+
 <!-- VIDEO: Structuring a convertible loan (Wandeldarlehen) for Swiss startups — key terms and common pitfalls -->
 
 ---
@@ -111,7 +119,7 @@ See our guide to [AG formation in Switzerland](/company-formation/ag-formation-s
 
 ### Zug Domicile: The Practical Case
 
-A Zug-domiciled AG combined with a Swiss [corporate bank account](/banking/corporate-bank-account-switzerland/) (PostFinance, UBS, or a neo-bank such as Neon Business or Yapeal Business) is the standard configuration for European and crypto startups seeking international investors. Zug's cantonal tax rate, administrative efficiency, and the density of VC and legal service providers in the canton make it functionally superior to Zurich for [holding structures](/company-formation/holding-company-switzerland/) and IP-heavy companies.
+A Zug-domiciled AG combined with a Swiss [corporate bank account](/banking/corporate-bank-account-switzerland/) (PostFinance, UBS, or a neo-bank such as Neon Business or Yapeal Business) is the standard configuration for European and crypto startups seeking international investors. Zug's cantonal tax rate (approximately 11.85% effective corporate income tax, versus approximately 20% in Zurich), administrative efficiency, and the density of VC and legal service providers in the canton make it functionally superior to Zurich for [holding structures](/company-formation/holding-company-switzerland/) and IP-heavy companies. On CHF 1 million in taxable profit, the Zug-versus-Zurich difference is roughly CHF 79,000 per year — material for a startup that has just raised a Series A and is watching burn rate carefully.
 
 For a full walkthrough of incorporating an entity from scratch, see [company formation in Switzerland](/company-formation/company-formation-switzerland/).
 

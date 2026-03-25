@@ -91,7 +91,7 @@ For stays beyond 90 days or for purposes requiring a residence permit (employmen
 3. Applicant enters Switzerland
 4. Applicant registers and collects the actual permit card
 
-The D visa itself is not the residence permit — it allows entry to Switzerland to collect the permit. Once in Switzerland, the individual registers with the Einwohnerkontrolle and receives the residence permit card, typically a [B permit](/immigration/b-permit-switzerland/) or L permit.
+The D visa itself is not the residence permit — it allows entry to Switzerland to collect the permit. This distinction trips up many applicants: the D visa is a single-entry travel document valid for a few months, not a right to reside. Until the actual permit card (Auslaenderausweis) is issued after communal registration, the individual's legal status remains provisional. Once in Switzerland, the individual registers with the Einwohnerkontrolle and receives the residence permit card, typically a [B permit](/immigration/b-permit-switzerland/) or L permit.
 
 ---
 
@@ -108,10 +108,10 @@ Switzerland is NOT a member of the European Union, despite being in Schengen. Th
 
 ## Swiss Visa for Business Purposes
 
-Business visitors on a Schengen C visa can attend meetings, conferences, trade fairs, and negotiate contracts, but cannot perform gainful employment. If your business activities in Switzerland will extend beyond occasional visits, consider the following paths:
+Business visitors on a Schengen C visa can attend meetings, conferences, trade fairs, and negotiate contracts, but cannot perform gainful employment. The boundary is narrower than most people assume. Signing a contract at a Zurich law office is permitted; spending two weeks at your Swiss subsidiary's office writing code or managing staff is not. Swiss immigration authorities draw the line at "productive activity" — if you are doing work that a locally hired employee would otherwise do, you need a permit, regardless of who pays your salary. If your business activities in Switzerland will extend beyond occasional visits, consider the following paths:
 
-- **Short-term business assignments (up to 90 days):** The employer must submit an online notification to the cantonal migration authority
-- **Longer-term business presence:** A D visa and [work permit](/immigration/work-permit-switzerland/) are required
+- **Short-term business assignments (up to 90 days/120 days per calendar year for EU/EFTA nationals):** The employer must submit an online notification to the cantonal migration authority at least 8 days before the assignment begins (the "8-day rule")
+- **Longer-term business presence:** A D visa and [work permit](/immigration/work-permit-switzerland/) are required. For non-EU nationals, the cantonal authority must justify why no Swiss or EU candidate is available for the role — a genuine labour market test, not a formality
 - **Establishing a company:** [Company formation in Switzerland](/company-formation/company-formation-switzerland/) does not automatically grant a visa — separate immigration arrangements are needed
 
 <!-- VIDEO: Swiss visa types compared — when to use a C visa, D visa, or work permit notification -->

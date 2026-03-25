@@ -16,7 +16,7 @@ faqItems:
   - question: "My mother was Swiss but lost her citizenship when she married my father in 1975. What are my options?"
     answer: "If your mother lost her Swiss citizenship through marriage before the rules changed in the early 1990s, she may be eligible for reintegration under Art. 51 BüG. Her own citizenship status at the time of your birth determines whether you could have inherited citizenship. If she had already lost Swiss citizenship before you were born, there was no citizenship to transmit. If reintegration is available to her, you would then need to assess whether your claim to citizenship can be asserted through her reinstated status. This is a fact-sensitive situation requiring legal advice."
   - question: "Is there a fee for registering Swiss citizenship acquired through descent?"
-    answer: "Consular registration fees apply and vary by consulate. Additional cantonal and communal fees may apply depending on the civil registry involved. The costs are generally modest compared to naturalisation fees, but they vary and should be confirmed with the relevant consulate or commune at the time of application."
+    answer: "Consular registration fees apply and vary by consulate — typically in the range of CHF 100 to 300 for birth registration, plus additional cantonal and communal fees depending on the civil registry involved. The costs are generally modest compared to naturalisation fees (which can reach CHF 1'500 to 4'000 at the cantonal and communal level for ordinary naturalisation). Processing times at consulates vary substantially: consulates in countries with large Swiss diaspora populations (Australia, Canada, the United States, Argentina, Brazil) tend to have established workflows, while consulates in countries with smaller Swiss communities may take longer."
 tocItems:
   - id: "the-governing-principle-ius-sanguinis-not-ius-soli"
     title: "The Governing Principle: Ius Sanguinis, Not Ius Soli"
@@ -180,6 +180,8 @@ Swiss consulates maintain records of Swiss nationals registered abroad and can h
 
 The process involves submitting documentary evidence: the Swiss parent's citizenship documents (Swiss passport, Heimatschein, or naturalisation certificate), the child's birth certificate, and where relevant, a marriage certificate and proof of paternity.
 
+In practice, the Heimatgemeinde search can be slow. Smaller communes may take weeks to respond to written enquiries. Records from the early twentieth century are sometimes incomplete or stored in archives that require physical visits. If your Swiss ancestor's commune has been merged into another municipality — which has happened repeatedly in cantons such as Glarus and Ticino — you may need to identify the successor commune before any records search can begin. Consulates can assist with this, but the process is not instantaneous.
+
 <!-- VIDEO: Step-by-step guide to verifying Swiss citizenship by descent through consular and civil registry channels -->
 
 ---
@@ -198,7 +200,7 @@ Eligibility conditions apply, including requirements around ties to Switzerland,
 
 Some people previously held Swiss citizenship and lost it. The most common historical example is Swiss women who automatically lost their citizenship upon marrying a foreign national — a rule that applied until the early 1990s under the old citizenship regime.
 
-These individuals — and in some cases their descendants — may be eligible for **reintegration** (Wiedereinbürgerung) under Article 51 BüG. Reintegration is a substantially simpler and faster procedure than ordinary naturalisation. It is available to former Swiss citizens and, under certain conditions, their children.
+These individuals — and in some cases their descendants — may be eligible for **reintegration** (Wiedereinbürgerung) under Article 51 BüG. Reintegration is a substantially simpler and faster procedure than ordinary naturalisation. It is available to former Swiss citizens and, under certain conditions, their children. The practical process typically takes six to eighteen months from application submission, depending on the complexity of the citizenship history and the responsiveness of the relevant cantonal and communal authorities.
 
 If this applies to your situation, or to a parent's situation, reintegration should be considered before pursuing any naturalisation route. For more on general [Swiss citizenship](/immigration/swiss-citizenship/) and [Swiss citizenship by marriage](/immigration/swiss-citizenship-by-marriage/), see the relevant pages on this site.
 
@@ -217,6 +219,8 @@ Here is the analysis:
 **Step 3 — Was Maria registered?** If Susanne registered Maria's birth at the Swiss consulate in Vancouver before Maria's 25th birthday (i.e., before October 2010), and submitted the relevant documentation, Maria is a Swiss citizen. If registration was not done before that deadline, Maria's citizenship has likely lapsed.
 
 **Step 4 — What if registration was missed?** If the deadline passed without registration, Maria no longer has an automatic citizenship claim by descent. There may be other routes — including assessing whether Susanne herself can confirm her citizenship status and whether any partial registration occurred — but these require a case-specific review.
+
+**What if the deadline has passed?** There is no automatic right to restoration. However, the situation is not necessarily terminal. Some applicants have successfully argued exceptional circumstances — lack of awareness, the parent's failure to inform them of their Swiss citizenship, or administrative errors in earlier registration attempts. These arguments are made on a case-by-case basis through the relevant consulate, and they do not always succeed. The earlier you act after discovering the issue, the stronger the position.
 
 **The lesson:** The 25-year deadline is not a technicality. It is the operative rule for an entire generation of people born abroad to Swiss parents in the 1980s and 1990s. Many of them are now in their late 30s or early 40s and have already passed the window without knowing it existed.
 
@@ -258,7 +262,7 @@ If your mother lost her Swiss citizenship through marriage before the rules chan
 
 **Is there a fee for registering Swiss citizenship acquired through descent?**
 
-Consular registration fees apply and vary by consulate. Additional cantonal and communal fees may apply depending on the civil registry involved. The costs are generally modest compared to naturalisation fees, but they vary and should be confirmed with the relevant consulate or commune at the time of application.
+Consular registration fees apply and vary by consulate — typically in the range of CHF 100 to 300 for birth registration, plus additional cantonal and communal fees depending on the civil registry involved. The costs are generally modest compared to naturalisation fees (which can reach CHF 1'500 to 4'000 at the cantonal and communal level for ordinary naturalisation). Processing times at consulates vary substantially: consulates in countries with large Swiss diaspora populations (Australia, Canada, the United States, Argentina, Brazil) tend to have established workflows, while consulates in countries with smaller Swiss communities may take longer.
 
 **What is the deadline for registering Swiss citizenship by descent?**
 

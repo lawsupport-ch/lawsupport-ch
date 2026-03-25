@@ -65,6 +65,8 @@ Key structural features:
 
 This combination of perpetual purpose, asset dedication, and public oversight makes the Swiss foundation structurally distinct from any company form. If you are evaluating legal structures for [company formation in Switzerland](/company-formation/company-formation-switzerland/), the foundation is not a general-purpose business vehicle — it is a purpose-first legal entity.
 
+The practical distinction matters at formation stage: a GmbH (CHF 20,000 share capital, registration from CHF 1,900) or AG (CHF 100,000 share capital, CHF 50,000 paid in, registration from CHF 2,500) gives founders full control over profit distribution and exit. A foundation permanently dedicates assets to a stated purpose — the founder cannot retrieve them. For commercial ventures, the AG or GmbH is almost always the correct choice. The foundation is appropriate when the objective is genuinely non-commercial: philanthropy, protocol governance, or employee benefit schemes.
+
 ---
 
 ## Types of Swiss Foundations
@@ -165,6 +167,8 @@ Switzerland operates a two-tier supervisory system:
 
 - **Federal supervision (EDI — Eidgenössisches Departement des Innern)**: applies to foundations that are **national or international** in scope. EDI is the supervisory authority for most major Swiss charitable foundations with cross-border activities.
 - **Cantonal supervision**: applies to foundations that operate primarily within a single canton. Each canton has its own supervisory authority. For Zug, the cantonal supervisory authority has developed substantial expertise in **crypto and blockchain foundations** — a direct consequence of the Crypto Valley ecosystem established over the past decade.
+
+A foundation that manages third-party assets — whether fiat or crypto — triggers FINMA supervision regardless of its charitable or commercial character. This catches more structures than founders expect: a protocol foundation that accepts external contributions to its treasury, or a charitable foundation that manages endowment assets on behalf of donor-advised sub-funds, may cross the threshold into regulated financial intermediary territory. The FINMA assessment must happen before formation, not after.
 
 For most international clients forming a foundation in Zug with a crypto or protocol purpose, cantonal Zug supervision applies. The Zug authority's familiarity with tokenomics, protocol governance structures, and FINMA's regulatory framework makes it the most practically competent authority in Switzerland for these cases.
 
@@ -272,7 +276,7 @@ For international clients seeking Swiss-law asset protection and succession stru
 
 Swiss foundation formation involves three principal cost categories:
 
-1. **Notary fees** — for the public notarial deed (Stiftungsurkunde). Fees vary by canton and notary, and are partially based on the value of the initial endowment. In Zug, expect CHF 1,500-3,500 for a standard foundation notarisation.
+1. **Notary fees** — for the public notarial deed (Stiftungsurkunde). Fees vary by canton and notary, and are partially based on the value of the initial endowment. In Zug, expect CHF 1,500-3,500 for a standard foundation notarisation. By comparison, a GmbH notarisation runs approximately CHF 800-1,200, and an AG notarisation CHF 1,200-2,000 — the foundation premium reflects the more detailed charter requirements.
 
 2. **Commercial Register fees** — filing fees for the Handelsregisteramt. Typically CHF 600-1,000 for initial registration in Zug.
 

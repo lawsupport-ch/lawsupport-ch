@@ -86,6 +86,8 @@ A Swiss foundation requires:
 
 **3. Initial assets:** There is no statutory minimum capital for a private foundation, but the supervisory authority expects sufficient assets to pursue the stated purpose. In practice, a minimum of CHF 50,000 is commonly expected; crypto foundations often establish with CHF 100,000 or more.
 
+**Formation costs:** Notarial fees for the founding deed typically run CHF 1,500 to CHF 3,000 depending on the canton and complexity. Commercial Register fees add approximately CHF 600. Legal drafting of the charter (Stiftungsurkunde) — the document that governs everything the foundation can and cannot do for its entire existence — costs CHF 3,000 to CHF 8,000 depending on scope. Total formation costs excluding the endowment: CHF 5,000 to CHF 12,000. This is not an area where saving CHF 2,000 on legal fees makes sense — an imprecise purpose clause locks you into constraints that only the supervisory authority can later modify, and purpose changes are refused where the original purpose remains achievable.
+
 **4. Commercial Register registration:** Charitable and other foundations must be registered in the Commercial Register of their domicile canton. Registration details are publicly searchable through <a href="https://www.zefix.ch" target="_blank" rel="nofollow noopener">Zefix, the central Swiss business name index</a>.
 
 **5. Supervisory authority notification:** The foundation is assigned to federal or cantonal supervision:
@@ -127,15 +129,22 @@ For companies considering whether a foundation or a corporate vehicle better ser
 
 ---
 
-## Foundation vs Association vs GmbH
+## Foundation vs Association vs GmbH vs Cooperative
 
-| Feature | Stiftung | Verein | GmbH |
-|---|---|---|---|
-| Owners/members | None | Members | Shareholders |
-| Purpose | Defined in charter | Defined in statutes | Commercial |
-| Formation | Notarial deed | Statutes adoption | Notarial deed |
-| Supervision | State supervisory authority | None (commercial register) | None |
-| Tax exemption | Available (charitable) | Available (charitable) | Generally no |
+When structuring a non-profit or purpose-driven entity, founders sometimes overlook the cooperative (Genossenschaft) as an alternative. The choice between a foundation and a cooperative is more consequential than most advisers acknowledge.
+
+A foundation is irrevocable — once the charter is registered, the founder loses control of the assets permanently. A cooperative retains member governance and can be dissolved by its members. For projects where the goal is community ownership rather than permanent endowment, a cooperative may serve better. For projects requiring absolute independence from any stakeholder — protocol foundations, endowments, charitable trusts — the foundation is the correct vehicle precisely because of its irrevocability.
+
+| Feature | Stiftung | Verein | GmbH | Genossenschaft |
+|---|---|---|---|---|
+| Owners/members | None | Members | Shareholders | Members |
+| Purpose | Defined in charter | Defined in statutes | Commercial | Mutual benefit |
+| Formation | Notarial deed | Statutes adoption | Notarial deed | Statutes adoption |
+| Supervision | State supervisory authority | None (commercial register) | None | None |
+| Tax exemption | Available (charitable) | Available (charitable) | Generally no | Available (if charitable) |
+| Governance | Foundation board (no members) | Member assembly | Shareholders' meeting | Member assembly (1 member = 1 vote) |
+| Dissolution | Only by supervisory authority | By members | By shareholders | By members |
+| Minimum capital | None (practical: CHF 50,000+) | None | CHF 20,000 | None |
 
 ---
 
@@ -148,6 +157,12 @@ Key considerations for a crypto protocol foundation:
 - Token issuance from a foundation remains subject to FINMA's token classification framework. Payment and asset tokens carry regulatory obligations regardless of the issuing entity's legal form.
 - Treasury management — holding and deploying ETH, BTC, or protocol-native tokens — is governed by the foundation charter and must serve the stated purpose.
 - Foundation boards are personally accountable to the supervisory authority. Board members of crypto foundations face the same personal liability exposure as any Swiss foundation board.
+
+### When a Foundation Triggers FINMA Supervision
+
+A detail that catches many founders off guard: if a foundation manages third-party assets — not just its own endowment — FINMA supervision may be triggered regardless of the foundation's stated charitable or protocol-development purpose. A foundation that accepts funds from external parties and deploys them (even into the protocol it supports) risks being classified as a collective investment scheme or a financial intermediary under AMLA.
+
+This is not theoretical. Several crypto foundations in Zug have had to restructure their treasury operations after FINMA raised questions about the boundary between "foundation assets deployed for the stated purpose" and "management of third-party assets." If your foundation will receive contributions from token holders, grant recipients, or ecosystem participants and deploy those funds actively, obtain a FINMA classification opinion before launch.
 
 For the full regulatory picture, see our guides on [FINMA licensing in Switzerland](/licensing/finma-licensing-switzerland/) and the [Swiss crypto license](/licensing/crypto-license-switzerland/).
 

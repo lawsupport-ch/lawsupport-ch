@@ -87,6 +87,10 @@ Zug is Switzerland's most prominent business canton and the address of choice fo
 
 Grafenauweg 4, 6300 Zug is a professional business address in a well-regarded location. It is recognisable to Swiss authorities and international counterparties alike as a legitimate registered office address.
 
+**A note on banking:** the format of your registered address can affect bank onboarding. A direct address ("Grafenauweg 4, 6300 Zug") is preferable to a c/o address ("c/o Service Provider AG, Grafenauweg 4, 6300 Zug"). Swiss banks review the Commercial Register entry during KYC, and a c/o address signals that the company has no independent physical presence -- which some compliance departments treat as a risk indicator. Where possible, a direct domicile listing improves the company's profile during account opening.
+
+**A note on banking:** the format of your registered address can affect bank onboarding. A direct address ("Grafenauweg 4, 6300 Zug") is preferable to a c/o address ("c/o Service Provider AG, Grafenauweg 4, 6300 Zug"). Swiss banks review the Commercial Register entry during KYC, and a c/o address signals that the company has no independent physical presence -- which some compliance departments treat as a risk indicator. Where possible, a direct domicile listing improves the company's profile during account opening.
+
 ---
 
 ## Registered Address vs. Operational Office: A Critical Distinction
@@ -133,7 +137,7 @@ If you need any of these services — a Swiss phone number, meeting room access,
 
 ## Cost of a Registered Address in Zug
 
-A professional registered address service in Zug typically costs between CHF 500 and CHF 1,200 per year, depending on the provider, the level of mail handling included, and any additional services. Lawsupport's fees are transparent and fixed annually, with no hidden charges for routine mail forwarding.
+A professional registered address in Zug costs **CHF 2'400 per year**. The equivalent service in Zurich costs **CHF 3'000 per year**. The price difference reflects Zurich's higher operational costs and is consistent across most providers in both cities. Lawsupport's fees are fixed annually with no hidden charges for routine mail scanning and digital forwarding.
 
 The registered address fee is separate from company formation fees and, if applicable, from [nominee director fees](/corporate-services/nominee-director-switzerland/). Most foreign-owned companies use both services together — see below.
 

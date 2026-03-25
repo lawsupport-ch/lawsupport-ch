@@ -95,6 +95,8 @@ Switzerland uses the **International Classification of Goods and Services (Nice 
 
 Class selection matters strategically and financially. Filing in more classes increases official fees and widens the scope of protection, but also expands the surface area for potential opposition from proprietors of marks in those classes. Practitioners typically advise filing in the classes that cover the applicant's current and reasonably foreseeable activities.
 
+**Batch filing strategy.** Companies registering multiple marks — for example, a house brand plus individual product marks — should coordinate filings as a batch. The IGE processes applications sequentially, and filing a portfolio in a single submission ensures consistent examination and avoids the risk of one mark being published (and potentially opposed) before related marks have been examined. Batch filing also simplifies the professional fee structure, as counsel can prepare specifications and clearance searches in parallel.
+
 ---
 
 ## Step-by-Step Application Process
@@ -120,11 +122,15 @@ The IGE checks that the application is formally complete: correct representation
 
 ### 4. Substantive Examination
 
-The IGE examines the mark on **absolute grounds** — distinctiveness, descriptiveness, deceptiveness, and prohibited symbols. It does not search for conflicting prior marks; that is left to opponents. If the IGE raises objections, the applicant may submit written arguments or amend the goods/services list. Marks may be accepted with a disclaimer (e.g., accepting that a descriptive element within a combined mark is not exclusively claimed).
+The IGE examines the mark on **absolute grounds only** — distinctiveness, descriptiveness, deceptiveness, and prohibited symbols. This is a critical distinction from many other jurisdictions: the IGE does **not** conduct a search for conflicting prior marks and does **not** refuse registration on relative grounds (likelihood of confusion with earlier marks). That burden falls entirely on third parties through the opposition procedure. A mark that is descriptive will be refused by the IGE; a mark that is identical to an existing registration in the same class will sail through examination unless the earlier rights holder actively opposes.
+
+This means the IGE examination is a formal filter, not a substantive clearance. Passing examination does not mean your mark is clear — it means no absolute ground bars registration. The risk from conflicting earlier marks only materialises during the opposition window or, if missed, through a later invalidity action. If the IGE raises objections on absolute grounds, the applicant may submit written arguments or amend the goods/services list. Marks may be accepted with a disclaimer (e.g., accepting that a descriptive element within a combined mark is not exclusively claimed).
 
 ### 5. Publication in the Swiss Official Gazette
 
 Marks that pass examination are published in the **Swiss Official Gazette of Commerce (SOGC)**. Publication opens the opposition window.
+
+**Register your domains before this step.** SHAB/SOGC publications are scraped by automated bots within hours of going live. Domain squatters register matching .ch, .com, and other TLDs and then demand transfer fees from the trademark applicant. This is not a theoretical risk — it happens routinely. The cost of registering domains pre-emptively (CHF 10-15 per domain per year) is negligible compared to the cost of recovering a squatted domain through WIPO dispute resolution (CHF 1,500 or more, plus months of delay). Secure your domains before filing the trademark application, not after.
 
 ### 6. Opposition Period
 

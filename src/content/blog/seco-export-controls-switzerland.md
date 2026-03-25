@@ -125,6 +125,32 @@ SECO maintains the Swiss sanctions list, searchable at seco.admin.ch. The list i
 
 ---
 
+## SECO Staff Leasing and Placement Licences
+
+SECO's regulatory authority extends beyond export controls into the labour market. Any company providing staff leasing (Personalverleih) or placement services in Switzerland requires a SECO licence under the Employment Services Act (Arbeitsvermittlungsgesetz, AVG).
+
+### A Common Misconception
+
+A persistent myth circulates among startups and foreign companies entering the Swiss market: that fewer than ten placement contracts per year exempts a company from the licensing requirement. This is false. The licence is required regardless of volume — a single placement contract triggers the obligation if staff leasing is conducted on a professional basis.
+
+### Licence Requirements
+
+The application must include:
+
+- Certified Commercial Register extract (not older than six months)
+- Lease agreement for business premises, including a floor plan
+- General terms and conditions (AGBs) for the placement/leasing service
+- Written confirmation that no placement fees are charged to jobseekers
+- Appointment of a responsible person who is Swiss-resident, holds relevant qualifications, and has clean criminal and debt records
+
+### Penalties
+
+Operating without a SECO staff leasing licence carries fines of up to **CHF 100'000** for the provider. The client company faces fines of up to **CHF 40'000** if it knowingly engages an unlicensed provider.
+
+### Cross-Border Structures
+
+A master service agreement (MSA) issued by a foreign parent entity — say, a US company — does not cover the Swiss subsidiary's placement activities. The Swiss entity must hold its own SECO licence and issue its own contracts. Payments for Swiss-based services must flow directly to the authorised Swiss provider, not to a foreign parent that lacks Swiss authorisation.
+
 ## Internal Compliance Programmes (ICP)
 
 Swiss companies that regularly export controlled goods should establish an Internal Compliance Programme (ICP). While not legally mandatory for all exporters, SECO strongly recommends ICPs, and having one can streamline the permit process. An effective ICP includes:

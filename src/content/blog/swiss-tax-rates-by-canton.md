@@ -67,30 +67,30 @@ When this article refers to "effective corporate tax rate," it means the **combi
 
 | Rank | Canton | Effective Corporate Tax Rate (approx.) | Notes |
 |------|--------|----------------------------------------|-------|
-| 1 | **Zug** | **~11.8%** | City of Zug commune; Baar also competitive |
+| 1 | **Zug** | **~11.85%** | City of Zug commune; Baar also competitive |
 | 2 | Nidwalden | ~12.0% | Stans commune |
 | 3 | Lucerne | ~12.3% | City of Lucerne |
 | 4 | Obwalden | ~12.7% | Sarnen commune |
-| 5 | Vaud | ~13.8% | Lausanne; post-reform lowered rate |
-| 6 | Schwyz | ~14.0% | Schwyz commune |
-| 7 | Uri | ~14.0% | Altdorf commune |
-| 8 | Appenzell Innerrhoden | ~14.0% | Appenzell commune |
-| 9 | Geneva | ~14.0% | Following post-2020 reform reduction |
-| 10 | Appenzell Ausserrhoden | ~14.5% | Herisau commune |
-| 11 | Ticino | ~15.0% | Lugano; attractive for Italian-market businesses |
-| 12 | Glarus | ~15.0% | Glarus commune |
-| 13 | Neuchatel | ~15.6% | Neuchatel city |
-| 14 | Schaffhausen | ~15.8% | Schaffhausen city |
-| 15 | Thurgau | ~16.0% | Frauenfeld commune |
-| 16 | Graubuenden | ~16.1% | Chur commune |
-| 17 | St. Gallen | ~17.0% | City of St. Gallen |
-| 18 | Jura | ~17.0% | Delemont commune |
-| 19 | Fribourg | ~17.8% | Fribourg city |
-| 20 | Solothurn | ~17.9% | Solothurn city |
-| 21 | Aargau | ~18.6% | Aarau commune |
-| 22 | Basel-Landschaft | ~18.8% | Liestal commune |
-| 23 | Valais | ~18.8% | Sion commune |
-| 24 | Basel-Stadt | ~19.1% | Basel city |
+| 5 | Basel-Stadt | **~13%** | Basel city; significantly reduced post-STAF reform |
+| 6 | Vaud | ~13.8% | Lausanne; post-reform lowered rate |
+| 7 | Schwyz | ~14.0% | Schwyz commune |
+| 8 | Uri | ~14.0% | Altdorf commune |
+| 9 | Appenzell Innerrhoden | ~14.0% | Appenzell commune |
+| 10 | Geneva | ~14.0% | Following post-2020 reform reduction |
+| 11 | Appenzell Ausserrhoden | ~14.5% | Herisau commune |
+| 12 | Ticino | ~15.0% | Lugano; attractive for Italian-market businesses |
+| 13 | Glarus | ~15.0% | Glarus commune |
+| 14 | Neuchatel | ~15.6% | Neuchatel city |
+| 15 | Schaffhausen | ~15.8% | Schaffhausen city |
+| 16 | Thurgau | ~16.0% | Frauenfeld commune |
+| 17 | Graubuenden | ~16.1% | Chur commune |
+| 18 | St. Gallen | ~17.0% | City of St. Gallen |
+| 19 | Basel-Landschaft | **~17%** | Liestal commune |
+| 20 | Jura | ~17.0% | Delemont commune |
+| 21 | Fribourg | ~17.8% | Fribourg city |
+| 22 | Solothurn | ~17.9% | Solothurn city |
+| 23 | Aargau | ~18.6% | Aarau commune |
+| 24 | Valais | ~18.8% | Sion commune |
 | 25 | Zurich | ~19.7% | City of Zurich |
 | 26 | Bern | ~20.7% | City of Bern |
 
@@ -183,9 +183,9 @@ Simply inserting a letterbox company in Zug while all management and operations 
 Consider a Swiss-resident company with **CHF 1,000,000 of annual taxable profit**:
 
 **Scenario A: Incorporated in Zug**
-- Effective combined tax rate: ~11.8%
-- Annual tax liability: **CHF 118,000**
-- 10-year cumulative: **CHF 1,180,000**
+- Effective combined tax rate: ~11.85%
+- Annual tax liability: **CHF 118,500**
+- 10-year cumulative: **CHF 1,185,000**
 
 **Scenario B: Incorporated in Zurich**
 - Effective combined tax rate: ~19.7%
@@ -193,6 +193,8 @@ Consider a Swiss-resident company with **CHF 1,000,000 of annual taxable profit*
 - 10-year cumulative: **CHF 1,970,000**
 
 **Annual saving (Zug vs. Zurich): CHF 79,000**
+
+However, the tax saving is not the full picture. A registered address in Zug costs CHF 2,400/year versus CHF 3,000/year in Zurich. Nominee director services run CHF 5,900/year regardless of canton. Accounting for a dormant company starts at CHF 1,400/year; an active company with up to 100 transactions costs approximately CHF 3,800/year. These operational costs narrow the effective saving somewhat, though for any company with material taxable profit, the cantonal rate difference still dominates.
 **10-year cumulative saving: CHF 790,000**
 
 For companies with **CHF 5,000,000+ in annual taxable profit**, the annual differential exceeds CHF 395,000.

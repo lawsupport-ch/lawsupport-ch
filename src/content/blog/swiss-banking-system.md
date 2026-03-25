@@ -41,7 +41,7 @@ tocItems:
 ---
 
 
-Switzerland has one of the most developed and internationally significant banking systems in the world. Despite having a population of only 8.9 million, Switzerland manages over CHF 7 trillion in assets — roughly ten times the country's GDP. The Swiss banking sector is structurally diverse, internationally oriented, and deeply integrated into the global financial system. This guide explains how the system is organised, who regulates it, and what each category of bank does.
+Switzerland has one of the most developed and internationally significant banking systems in the world. It is also one of the most heavily regulated — and that regulation has real consequences for anyone trying to enter the market, whether as a bank or as a client. Despite having a population of only 8.9 million, Switzerland manages over CHF 7 trillion in assets — roughly ten times the country's GDP. The Swiss banking sector is structurally diverse, internationally oriented, and deeply integrated into the global financial system. This guide explains how the system is organised, who regulates it, and what each category of bank does.
 
 ---
 
@@ -126,6 +126,9 @@ All Swiss banks are supervised by the <a href="https://www.finma.ch/en/" target=
 - Supervises AML/KYC compliance
 - Conducts on-site inspections (via approved audit firms, not directly)
 - Has resolution powers for failing banks
+- Can and does liquidate institutions — MBaer Merchant Bank, for example, entered FINMA-ordered liquidation, a reminder that Swiss banking licences are revocable and that FINMA's supervisory powers are not theoretical
+
+In practice, FINMA's oversight creates a compliance culture that directly affects account opening for foreign companies. Every Swiss bank screens directors and beneficial owners through AML databases — most commonly Refinitiv WorldCheck — before opening any account. Adverse media, historical legal proceedings, or connections to politically exposed persons can result in refusal regardless of how clean the company's documentation appears. Banks bear direct liability for onboarding clients they cannot adequately verify, which is why compliance departments have effective veto power over relationship managers.
 
 Switzerland implements Basel III capital standards through the <a href="https://www.fedlex.admin.ch/eli/cc/2012/629/en" target="_blank" rel="nofollow noopener">Capital Adequacy Ordinance (ERV/OFR)</a>.
 
@@ -164,6 +167,8 @@ Swiss banking secrecy under Art. 47 of the Banking Act remains a domestic legal 
 - US FATCA: Swiss banks report US persons' accounts to the IRS
 - Criminal asset investigations: Swiss prosecutors can override secrecy for criminal proceedings
 - Banking secrecy no longer shields offshore tax evasion — the era of Swiss bank secrecy for non-disclosure is over
+
+The compliance infrastructure supporting this secrecy regime — and its international reporting obligations — is substantial. Swiss banks collectively spend hundreds of millions of francs annually on AML compliance, sanctions screening, and AEOI reporting. This cost is passed through to clients in the form of account fees, documentation requirements, and, most notably, restricted access for non-resident applicants.
 
 For non-residents considering a Swiss account, our [guide to Swiss bank accounts for non-residents](/banking/swiss-bank-account-non-residents/) explains the practical implications.
 

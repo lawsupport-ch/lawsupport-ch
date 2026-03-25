@@ -61,8 +61,8 @@ The 24 cantonal banks are majority-owned by their respective cantons and carry a
 
 | Bank | Canton | Notable Feature |
 |---|---|---|
-| **ZKB (Zuercher Kantonalbank)** | Zurich | Largest cantonal bank; wealth management, full retail |
-| **Zuger Kantonalbank** | Zug | Specialists for international and corporate clients in Zug |
+| **ZKB (Zuercher Kantonalbank)** | Zurich | Largest cantonal bank; wealth management, full retail. Lower onboarding thresholds than UBS for corporate clients |
+| **Zuger Kantonalbank** | Zug | Specialists for international and corporate clients in Zug. Accepts newly formed companies with CHF 20'000 share capital and credible business plans |
 | **BCG (Banque Cantonale de Geneve)** | Geneva | Major retail and private banking in Geneva |
 | **BCV (Banque Cantonale Vaudoise)** | Vaud | Dominant bank in Vaud canton |
 | **Basellandschaftliche Kantonalbank (BLKB)** | Basel-Landschaft | Regional retail and SME |
@@ -115,6 +115,8 @@ Swiss private banks serve high-net-worth (HNW) and ultra-high-net-worth (UHNW) c
 
 For details on accessing [private banking in Switzerland](/banking/private-banking-switzerland/) as a non-resident, see our dedicated guide.
 
+**Which banks work for foreign founders?** Cantonal banks in internationally oriented cantons — Zuger Kantonalbank, ZKB, Luzerner Kantonalbank — have the most experience with non-resident corporate clients. Their effective onboarding thresholds are lower than UBS (which requires CHF 500'000+ under management for new non-resident relationships). For companies that need speed, Relio AG (Zurich) offers same-day onboarding at CHF 249/month after video verification — though it categorically rejects companies with US nexus at the UBO or shareholder level. PostFinance, despite its accessibility for retail clients, has a pattern of rejecting corporate applications on compliance grounds that can be difficult to predict.
+
 ---
 
 ## Retail / Consumer Banks (Non-Cantonal)
@@ -153,7 +155,9 @@ Switzerland has licenced the world's first regulated crypto-asset banks under th
 | **SEBA Bank (now AMINA Bank)** | Zug | Crypto asset banking, institutional |
 | **Sygnum Bank** | Zurich | Crypto banking, tokenisation, regulated exchange |
 
-Both AMINA and Sygnum hold full FINMA banking licences and offer institutional custody, trading, and banking services for digital assets alongside fiat banking. For businesses in the digital asset space, see our guide to [crypto licensing in Switzerland](/licensing/crypto-license-switzerland/).
+Both AMINA and Sygnum hold full FINMA banking licences and offer institutional custody, trading, and banking services for digital assets alongside fiat banking.
+
+**A note on bank failures:** Swiss banking licences are not permanent. MBaer Merchant Bank entered FINMA-ordered liquidation — a reminder that even licenced institutions can fail. Clients of failed banks are protected up to CHF 100'000 through esisuisse, but amounts above this threshold are at risk in liquidation proceedings. For businesses in the digital asset space, see our guide to [crypto licensing in Switzerland](/licensing/crypto-license-switzerland/).
 
 ---
 

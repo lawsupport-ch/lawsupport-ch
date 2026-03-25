@@ -65,6 +65,8 @@ Swiss naturalization operates through three sequential levels, each with its own
 
 The commune of residence conducts the first review. This is the most variable level — each commune has its own procedures, fees, and criteria for demonstrating local integration. Some communes conduct personal interviews. Some have waiting periods beyond the federal minimum.
 
+The variation between communes is substantial. In Zurich city, the backlog can push commune review to 18-24 months; in smaller Zug communes such as Baar or Cham, the same stage may take 6-9 months. Some communes in German-speaking Switzerland test applicants on local geography, cantonal history, and even the names of communal councillors. In French-speaking cantons, the process tends to be more document-driven and less personal.
+
 The commune assesses local integration: do you know your neighbours? Are you involved in local life? Do you know the commune's history, geography, and local institutions?
 
 **Commune approval is typically the longest and most personal stage.** Rejections at the communal level do happen, particularly when integration evidence is thin.
@@ -91,6 +93,10 @@ The <a href="https://www.sem.admin.ch/sem/en/home.html" target="_blank" rel="nof
 | Cantonal review | 2–6 months |
 | Federal review | 2–4 months |
 | **Total** | **12–36 months** |
+
+The commune phase dominates the timeline. Some urban communes (Zurich city, Geneva) have backlogs pushing review to 18–24 months; smaller communes in Zug or Schwyz may complete the same stage in 6–9 months. In German-speaking communes, applicants are sometimes tested on local geography, cantonal history, and the names of communal councillors. French-speaking cantons tend toward a more document-driven, less personal process.
+
+The total elapsed time from first arrival in Switzerland to passport in hand is rarely under 12 years for a non-EU adult: 10 years of residence, then 1–3 years of processing. EU/EFTA nationals who qualify for a C permit after 5 years still face the same 10-year federal residence requirement — the C permit and naturalisation clocks run in parallel, not sequentially.
 
 The commune phase dominates the timeline. Some urban communes (e.g., Zurich City) have long backlogs; smaller communes may be faster.
 

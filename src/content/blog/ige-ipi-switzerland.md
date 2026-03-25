@@ -82,21 +82,25 @@ Switzerland's patent system has a distinctive feature: **IGE/IPI does not conduc
 
 **Swiss patent options:**
 
-**Option 1 — Swiss national patent (no substantive examination):**
-- IGE/IPI checks formal requirements only
-- Patent granted without examination of novelty or inventive step
+**Option 1 — Swiss national patent (formal examination only):**
+- IGE/IPI checks formal requirements only — **there is no prior art search and no assessment of novelty or inventive step**
+- Patent granted based solely on formal compliance (correct documents, fees paid, claims properly formatted)
 - Faster and cheaper than EPO route
-- Weaker presumption of validity (can be invalidated more easily)
+- **Weaker presumption of validity** — can be invalidated relatively easily in court because it was never examined on substance
 - Official fee: CHF 200 (filing) + CHF 100/year maintenance from year 3
+
+This is the single most misunderstood aspect of the Swiss patent system. Foreign founders regularly assume that a "granted Swiss patent" has been examined and validated the way a USPTO or EPO patent would be. It has not. A Swiss national patent is essentially a registration — it confirms you filed correctly, not that your invention is novel or non-obvious. In litigation, the patent holder bears the burden of proving validity, which often means commissioning a prior art search retroactively at that point.
+
+**When the Swiss national patent makes sense despite this:** If you need to establish a filing date quickly and cheaply (CHF 200 vs EUR 4,000+), the Swiss national filing serves as a priority-establishing mechanism. You can then file a PCT or EPO application within 12 months claiming priority. This is the **batch filing strategy** — file Swiss nationals for multiple inventions at CHF 200 each to secure priority dates, then select the most commercially promising ones for full EPO examination.
 
 **Option 2 — European Patent (EPO) designating Switzerland:**
 - Filed at the European Patent Office (EPO) in Munich
-- Full substantive examination by EPO
+- Full substantive examination by EPO — novelty search, inventive step assessment, claims examination
 - Upon grant, validated in Switzerland (and other designated countries)
-- Stronger patent — survived examination
-- EPO filing fee: approximately EUR 4,000-8,000+
+- Stronger patent — survived rigorous examination
+- EPO filing fee: approximately EUR 4,000 to EUR 8,000+
 
-**For most commercial applicants:** EPO route is preferred for meaningful protection. The Swiss national patent without examination has limited commercial weight.
+**For most commercial applicants:** EPO route is preferred for meaningful protection. The Swiss national patent without examination has limited commercial weight in enforcement proceedings.
 
 **Patent term:** 20 years from filing date, subject to annual renewal fees.
 
@@ -194,6 +198,8 @@ The base filing fee for one class is CHF 550. Each additional Nice class costs C
 **What grounds can IGE/IPI refuse a trademark on?**
 
 IGE/IPI examines trademarks for absolute grounds of refusal: marks that are descriptive, generic, misleading, contrary to public order, or consist of official signs (flags, coats of arms). IGE/IPI does not examine relative grounds (conflicts with prior marks) — that is left to third-party opposition during the 3-month opposition window.
+
+This means IGE/IPI will happily register a trademark that is identical to an existing registration in the same class — as long as it passes the absolute grounds check. The burden of policing conflicts falls entirely on existing trademark holders through the opposition procedure. If you are registering a mark, conduct your own prior art search on Swissreg and TMview before filing. If you hold existing registrations, monitor the Swissgazette (SHAB) publication for conflicting applications during the three-month opposition window — IGE/IPI will not do this for you.
 
 **Is a Swiss trademark valid in Liechtenstein?**
 

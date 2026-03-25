@@ -12,7 +12,7 @@ faqItems:
   - question: "Can a non-resident open a Swiss private banking account?"
     answer: "Yes. Swiss private banks work extensively with non-resident clients -- international wealth management is their core business. Residency restrictions apply to some services like Swiss real estate mortgages, not portfolio management."
   - question: "What is the minimum deposit for Swiss private banking?"
-    answer: "Minimums vary widely. Large universal banks typically require CHF 1-5 million. Independent private banks may start at CHF 500,000 for simpler mandates. Ultra-high-net-worth divisions require CHF 10 million or more."
+    answer: "Minimums vary widely. UBS accepts non-resident private banking clients from approximately CHF 500,000 under management. The top independent private banks -- Pictet, Lombard Odier -- typically require CHF 4-6 million. Julius Baer and EFG start around CHF 1 million. Ultra-high-net-worth divisions require CHF 10 million or more."
   - question: "How are private banking fees structured?"
     answer: "Most charge an all-in fee of 0.5-1.5% per year on assets under management for discretionary mandates, covering custody, trading, and management. Advisory mandates charge lower custody fees (0.2-0.6%) plus per-transaction costs."
   - question: "Is my money protected if a Swiss bank fails?"
@@ -59,11 +59,11 @@ Swiss private banks do not publish precise minimums, but typical entry threshold
 
 | Bank | Typical Entry Minimum |
 |---|---|
-| UBS (private banking division) | CHF 1,000,000–2,000,000 |
+| UBS (private banking division) | CHF 500'000+ (non-resident); higher for full mandate |
 | Credit Suisse (now part of UBS) | — |
 | Julius Baer | CHF 1,000,000 |
-| Pictet | CHF 1,000,000–2,000,000 |
-| Lombard Odier | CHF 1,000,000–2,000,000 |
+| Pictet | CHF 4'000'000-6'000'000 |
+| Lombard Odier | CHF 4'000'000-6'000'000 |
 | Vontobel | CHF 500,000 |
 | EFG International | CHF 1,000,000 |
 | Mirabaud | CHF 1,000,000 |
@@ -103,7 +103,7 @@ The process involves:
 
 **5. Account agreement:** Signing of account opening documentation, mandate agreement, and investment policy statement.
 
-**Timeline:** 4–12 weeks for straightforward cases; longer for complex structures or high-risk jurisdictions.
+**Timeline:** 4-12 weeks for straightforward cases; longer for complex structures or high-risk jurisdictions. The compliance review is where most delays occur -- banks run all beneficial owners through WorldCheck and internal AML screening, and any flags (adverse media, PEP status, high-risk country of origin) trigger additional review rounds. One recent client experienced a three-week delay at the compliance stage because a common-name match in the WorldCheck database required manual resolution.
 
 ---
 
@@ -160,7 +160,7 @@ Under a discretionary mandate, the bank makes all investment decisions within ag
 
 **Do Swiss private banks accept clients from all countries?**
 
-Not all. Swiss banks apply risk-based onboarding and may decline clients from certain high-risk jurisdictions or where sanctions restrictions apply. US persons face additional requirements due to FATCA reporting obligations. Each bank sets its own risk appetite for country exposure.
+Not all. Swiss banks apply risk-based onboarding and may decline clients from certain high-risk jurisdictions or where sanctions restrictions apply. US persons face the most restrictive treatment -- most Swiss banks will not accept non-resident US persons for personal accounts due to FATCA compliance costs. Banks that do accept US persons typically require substantially higher minimum assets. All prospective clients undergo WorldCheck and AML screening; flags from sanctions lists, PEP databases, or adverse media will trigger enhanced due diligence or outright rejection. Each bank sets its own risk appetite for country and client exposure.
 
 **How are private banking fees structured?**
 

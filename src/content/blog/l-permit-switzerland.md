@@ -51,22 +51,22 @@ The permit is issued by the cantonal migration authority (Migrationsamt) of the 
 
 ## L Permit for EU/EFTA Nationals
 
-EU and EFTA nationals benefit from the Agreement on the Free Movement of Persons (AFMP) between Switzerland and the EU. Under this framework, the L permit is issued automatically when an EU/EFTA national holds an employment contract of between 3 and 12 months. No quota applies. No labour market test or priority check is required.
+EU and EFTA nationals benefit from the Agreement on the Free Movement of Persons (AFMP) between Switzerland and the EU. Under this framework, the L permit is issued automatically when an EU/EFTA national holds an employment contract of between 3 and 12 months. No quota applies. No labour market test or priority check is required. The contrast with the non-EU regime is stark — for EU/EFTA nationals, the L permit is essentially an administrative registration, not a discretionary approval.
 
 The procedure is employer-led but light: the employer notifies the cantonal authority, the permit is issued for the duration of the employment contract up to a maximum of one year. For assignments shorter than three months, a formal permit is not required at all — employer notification is sufficient.
 
-Key point for EU/EFTA holders: the L permit tracks the employment contract. If the contract is extended beyond 12 months in total, the permit converts to a B permit. You do not stay on rolling L permits indefinitely.
+Key point for EU/EFTA holders: the L permit tracks the employment contract. If the contract is extended beyond 12 months in total, the permit converts to a B permit. You do not stay on rolling L permits indefinitely. The conversion is handled by the cantonal Migrationsamt and is procedurally straightforward — unlike the non-EU path, where the B permit application is a separate, quota-constrained process.
 
 ---
 
 ## L Permit for Non-EU/EFTA Nationals
 
-For third-country nationals, the L permit operates under a substantially more restrictive regime. The national annual quota sits at approximately 5'200 L permits. Cantonal sub-quotas apply, and in high-demand cantons — Zurich, Geneva, Zug — quota exhaustion mid-year is not uncommon. Timing matters.
+For third-country nationals, the L permit operates under a substantially more restrictive regime. The national annual quota sits at approximately 5'200 L permits per year. Cantonal sub-quotas apply, and in high-demand cantons — Zurich, Geneva, Zug — quota exhaustion mid-year is not uncommon. Timing matters: applications submitted in Q1 have materially higher success rates than those submitted in Q3 or Q4 when quotas are running low. If your preferred canton's sub-quota is exhausted, the application is either refused outright or deferred to the next quota period — there is no waiting list in the conventional sense.
 
 Beyond quota, a non-EU/EFTA national seeking an L permit must satisfy the same criteria applied to a [B permit](/immigration/b-permit-switzerland/):
 
 - **Skilled worker status.** The candidate must hold qualifications relevant to the role.
-- **Priority check (Inlaendervorrang).** The employer must demonstrate the position cannot be filled by a Swiss national, an EU/EFTA national, or a person already holding a valid Swiss residence permit.
+- **Priority check (Inlaendervorrang).** The employer must demonstrate, with evidence, why no Swiss national, EU/EFTA national, or existing permit holder is available for the role. This is not a tick-box exercise — the cantonal authority expects documented recruitment efforts (job postings, rejection records, RAV notification) showing genuine attempts to fill the position locally before turning to a non-EU candidate.
 - **Employer sponsorship.** The employer submits the application; individuals cannot self-sponsor.
 - **Salary equivalence.** Remuneration must meet the customary local and sector salary for the role. Undercutting Swiss wage levels to reduce costs is not permissible and is a common ground for refusal.
 
@@ -155,6 +155,10 @@ A renewal that would push total employment in Switzerland beyond 12 months is no
 **Can I bring my family to Switzerland on an L permit?**
 
 For non-EU/EFTA nationals, family reunification is not available under the L permit category. Your spouse and children cannot obtain dependent permits based on your L permit. EU/EFTA nationals have broader rights under the AFMP, but these are limited for genuinely short-term stays. If family accompaniment is essential, the [B permit](/immigration/b-permit-switzerland/) is the appropriate route.
+
+**Are there any practical quirks with L permit paperwork?**
+
+One detail that trips up employers and applicants alike: permit renewal documents must be physically signed in blue pen. Digital signatures are not accepted by cantonal migration authorities. This applies to L permits, B permits, and all other permit categories. If you are managing the process remotely, ensure original signed documents are couriered — scanned copies with electronic signatures will be returned.
 
 **What happens if my employment contract ends before my L permit expires?**
 

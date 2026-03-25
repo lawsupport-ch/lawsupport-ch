@@ -57,7 +57,9 @@ Under Swiss law (<a href="https://www.fedlex.admin.ch/eli/cc/2007/686/en" target
 
 Below CHF 100'000, registration is **voluntary**. Many small freelancers and consultants operate below this threshold and never register. They still have a business — it simply is not registered.
 
-**Practical point:** Even without Commercial Register registration, a sole proprietor must register for tax (income tax is paid on the business profit as part of the individual's personal income tax return) and, if applicable, for MWST ([VAT](/tax-accounting/vat-registration-switzerland/)) once turnover exceeds CHF 100'000.
+**Practical point:** The CHF 100'000 threshold is a hard boundary that triggers two simultaneous obligations: Commercial Register registration and [VAT registration](/tax-accounting/vat-registration-switzerland/). Both kick in at the same revenue figure. Founders who cross this threshold mid-year often discover both requirements retroactively — and retroactive VAT registration means recalculating invoices already issued.
+
+Even without Commercial Register registration, a sole proprietor must register for tax (income tax is paid on the business profit as part of the individual's personal income tax return).
 
 **Voluntary registration:** A sole proprietor below the CHF 100'000 threshold can still choose to register. Benefits include a public Register entry, which some clients and banks prefer. The registration fee is the same as for mandatory registration.
 
@@ -91,6 +93,13 @@ A [GmbH](/company-formation/gmbh-formation-switzerland/) can generate substantia
 - Retained profit stays in the company at corporate tax rates rather than being taxed immediately at personal rates
 
 For income above approximately CHF 100'000-150'000, the GmbH typically becomes tax-advantageous compared to the Einzelfirma.
+
+**Cost comparison for the conversion decision:**
+- GmbH registration (including notary): **CHF 1'900**
+- Minimum share capital: **CHF 20'000** (remains in the company as working capital)
+- All-in package with registered address, nominee director, and accounting: approximately **CHF 12'000/year**
+
+Against this, a sole proprietor earning CHF 150'000 in Zug pays roughly CHF 15'000 in AHV/IV/EO alone (10% of net profit), plus personal income tax at marginal rates that can reach 25-30%. The GmbH's combined corporate tax and salary-based AHV on a portion of the income produces a measurably lower total tax burden once the numbers are run for the specific situation.
 
 ---
 

@@ -8,7 +8,7 @@ categoryHref: "/tax-accounting/"
 readTime: "13 min read"
 faqItems:
   - question: "Does Switzerland require a contemporaneous transfer pricing study?"
-    answer: "Not by statute. But audit practice has evolved — tax authorities increasingly expect documentation to exist at the time of filing, not prepared retroactively. Best practice is to prepare studies before year-end for significant related-party transactions."
+    answer: "Not by statute — Switzerland has no statutory contemporaneous documentation requirement comparable to Germany's AStG Section 90(3) or the UK's TIOPA. But audit practice has evolved materially. Swiss cantonal tax inspectors increasingly request transfer pricing documentation during routine assessments, and documentation prepared retroactively after the assessment has opened carries less evidentiary weight than documentation that existed at the time the tax return was filed. Best practice is to prepare or update transfer pricing studies before year-end for all significant related-party transactions. The cost of a well-prepared Local File (typically CHF 5,000-20,000 depending on the number of transaction types) is trivial compared to the cost of defending an undocumented position during an audit."
   - question: "What are the penalties for transfer pricing adjustments in Switzerland?"
     answer: "Tax adjustments are made with interest at 3% per annum. Penalties (Steuerbussen) apply for wilful or negligent underreporting — typically 1x the evaded tax for negligence, up to 3x for intentional evasion. Switzerland does not have specific transfer pricing-only penalty regimes — ordinary tax penalty provisions apply."
   - question: "What is the withholding tax risk on excessive intercompany payments from Switzerland?"
@@ -79,7 +79,9 @@ TNMM is the most frequently applied method in practice because it requires less 
 
 **Royalties and IP licensing:** A Swiss IP [holding company](/company-formation/holding-company-switzerland/) licensing IP to group subsidiaries must price the royalties at arm's length — typically supported by a royalty benchmarking study using comparable licensing agreements.
 
-**Intercompany loans:** Swiss-source interest on intercompany loans must be at arm's length. The ESTV (Federal Tax Administration) publishes annual safe harbour interest rates for shareholder loans — the Merkblatt S-02.123 rates (2026: approximately 1.5% for CHF loans, 3.0% for EUR, 4.5% for USD, adjusted annually). Staying within these rates provides a safe harbour for Swiss tax purposes.
+**Intercompany loans:** Swiss-source interest on intercompany loans must be at arm's length. The ESTV (Federal Tax Administration) publishes annual safe harbour interest rates for shareholder loans — the Merkblatt S-02.123 rates (2026: approximately 1.5% for CHF loans, 3.0% for EUR, 4.5% for USD, adjusted annually). Staying within these rates provides a safe harbour for Swiss federal and cantonal tax purposes — meaning the tax authority will not challenge the interest rate as non-arm's length if you stay within the published bands.
+
+Exceeding the safe harbour rate does not automatically trigger a reassessment, but it shifts the burden of proof to the taxpayer. The company must then demonstrate that the higher rate is arm's length by reference to comparable third-party lending arrangements — which is possible but adds compliance cost and audit risk. In practice, most Swiss subsidiaries of international groups set their intercompany loan rates at or just below the Merkblatt thresholds.
 
 **Distribution arrangements:** A Swiss distributor buying from a foreign manufacturing entity must pay a price that leaves it with an appropriate return for its distribution functions and risks.
 
@@ -111,7 +113,7 @@ The Zug and Zurich tax authorities are experienced with international tax struct
 
 ## Hidden Profit Distribution: The Withholding Tax Risk
 
-This is the most dangerous transfer pricing outcome in Switzerland. If:
+This is the most dangerous transfer pricing outcome in Switzerland — and the one that catches international groups most painfully. If:
 - A Swiss company pays excessive royalties, management fees, or interest to a foreign related party
 - The Swiss tax authority determines the excess is non-arm's length
 - The excess is recharacterised as a hidden dividend
@@ -120,6 +122,8 @@ Then:
 - 35% withholding tax is assessed on the hidden dividend amount
 - The Swiss company must pay the withholding tax even if it cannot recover it from the foreign recipient
 - The foreign recipient may not be entitled to a treaty refund if the Swiss authority determines the arrangement was structured to avoid withholding
+
+To put this in concrete terms: a Swiss subsidiary paying CHF 500,000 in annual management fees to its foreign parent, where the arm's length amount is CHF 200,000, faces a reclassification of CHF 300,000 as a hidden dividend. The withholding tax on that amount is CHF 105,000 — payable by the Swiss company, not the parent. The Swiss company cannot deduct this cost. The parent may not be able to claim it as a foreign tax credit in its home jurisdiction. And the original CHF 300,000 remains non-deductible for corporate income tax purposes. The total cost of the mispricing easily exceeds the amount of the excess payment itself.
 
 This is why royalty rates paid from Swiss companies to IP holding companies in low-tax jurisdictions are scrutinised carefully — both by the Swiss authorities and by the authorities of the foreign IP company's jurisdiction. The interaction with Switzerland's extensive network of [double tax treaties](/tax-accounting/double-tax-treaties-switzerland/) adds further complexity to the withholding tax analysis.
 
@@ -146,6 +150,7 @@ Swiss cantonal tax authorities and the ESTV focus on specific patterns during au
 - **Sudden changes in intercompany pricing** without corresponding changes in functions, assets, or risks
 - **Interest rates on intercompany loans** that exceed the ESTV safe harbour rates published in the Merkblatt
 - **Lack of written intercompany agreements** supporting the pricing applied
+- **Thin capitalisation breaches** — related-party debt exceeding the ESTV safe harbour debt-to-equity ratios (which vary by asset type: 85% for trade receivables, 70% for listed securities, 50% for intangible assets). Interest on debt exceeding these ratios is reclassified as a hidden dividend, triggering the same 35% withholding tax exposure described above
 
 Maintaining contemporaneous documentation and ensuring all intercompany agreements are executed before transactions commence is the most effective audit defence. Companies filing their [corporate tax return in Switzerland](/tax-accounting/corporate-tax-return-switzerland/) should reconcile intercompany positions annually.
 
@@ -155,7 +160,7 @@ Maintaining contemporaneous documentation and ensuring all intercompany agreemen
 
 **Does Switzerland require a contemporaneous transfer pricing study?**
 
-Not by statute. But audit practice has evolved — tax authorities increasingly expect documentation to exist at the time of filing, not prepared retroactively. Best practice is to prepare studies before year-end for significant related-party transactions.
+Not by statute — Switzerland has no statutory contemporaneous documentation requirement comparable to Germany's AStG Section 90(3) or the UK's TIOPA. But audit practice has evolved materially. Swiss cantonal tax inspectors increasingly request transfer pricing documentation during routine assessments, and documentation prepared retroactively after the assessment has opened carries less evidentiary weight than documentation that existed at the time the tax return was filed. Best practice is to prepare or update transfer pricing studies before year-end for all significant related-party transactions. The cost of a well-prepared Local File (typically CHF 5,000-20,000 depending on the number of transaction types) is trivial compared to the cost of defending an undocumented position during an audit.
 
 **What are the penalties for transfer pricing adjustments in Switzerland?**
 

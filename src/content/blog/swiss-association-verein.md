@@ -126,11 +126,28 @@ A Swiss Verein is a legal entity and is subject to cantonal and federal [corpora
 
 For crypto token projects: both Verein and Stiftung are used, depending on governance preferences. Stiftung provides clearer independence from member influence; Verein provides member-based democratic governance.
 
+### Tax Implications: The Critical Difference
+
+A Verein pursuing genuinely public-benefit or charitable purposes can apply for cantonal tax exemption — and if granted, that exemption also enables donors to deduct contributions from their taxable income. A [Swiss foundation](/company-formation/swiss-foundation/) can achieve the same, but the foundation is subject to ongoing supervision by the cantonal or federal supervisory authority, which scrutinises expenditure, governance, and adherence to the stated purpose. The Verein, by contrast, has no mandatory external supervision unless it is commercially active.
+
+This makes the Verein attractive for organisations that want tax-exempt status without the administrative overhead of foundation supervision. But the flexibility cuts both ways — without external oversight, tax authorities may scrutinise Verein tax exemption applications more closely, particularly where the stated charitable purpose appears secondary to the founders' commercial interests.
+
 ---
 
 ## Verein vs GmbH: When to Choose Which
 
 If your goal is commercial activity with profit distribution, a [GmbH](/company-formation/gmbh-formation-switzerland/) or [AG](/company-formation/ag-formation-switzerland/) is the correct structure. The Verein cannot distribute profits to members. However, a Verein that operates commercially can own subsidiaries (including a GmbH) and channel revenues through the corporate subsidiary while maintaining the non-profit Verein as the parent governance entity. This hybrid structure is common in sports, media, and the crypto sector.
+
+### When a Verein Is NOT Suitable for Business
+
+Founders occasionally attempt to use a Verein as a low-cost alternative to a GmbH for what is, in substance, a commercial enterprise. This fails for several reasons:
+
+- **No profit distribution.** If the founders expect to receive dividends or profit shares, the Verein structure prohibits this. Any surplus must be reinvested in the stated purpose. Workarounds — such as paying founders inflated salaries or management fees — attract scrutiny from both tax authorities and, if the Verein is tax-exempt, the cantonal supervisory body.
+- **VAT exposure.** A commercially active Verein with turnover exceeding CHF 100'000 must register for [VAT](/tax-accounting/vat-registration-switzerland/), the same as any GmbH. The Verein structure offers no VAT advantage.
+- **Banking friction.** Swiss banks are accustomed to opening accounts for GmbH and AG entities. A Verein seeking a corporate bank account for commercial operations may face additional questions about governance, fund flows, and the relationship between commercial activity and the stated non-profit purpose. This can delay account opening by weeks.
+- **Credibility with counterparties.** In B2B relationships, a Verein can signal informality. Corporate clients, institutional partners, and investors expect to deal with a GmbH or AG. The Verein's governance structure — member voting, general assemblies, committee elections — may also create friction in situations where fast decision-making is required.
+
+**The GmbH costs CHF 1'900 to register.** The perceived cost saving of a Verein (no registration fee, no minimum capital) evaporates when the Verein encounters any of the friction points above. For any activity that generates revenue, employs staff, or enters into contracts with commercial counterparties, the GmbH is the correct structure.
 
 ---
 

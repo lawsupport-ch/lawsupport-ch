@@ -39,6 +39,8 @@ A Swissmedic licence is the mandatory federal authorisation required to manufact
 
 This guide sets out what a Swissmedic licence in Switzerland actually requires, how long it takes, and what regulatory decisions you need to make before you submit anything.
 
+A common misconception among foreign entrants: Swissmedic does not operate a paper-only review. The agency conducts on-site inspections of manufacturing facilities, reviews batch release protocols, and verifies the qualifications of responsible persons before granting any manufacturing or import licence. Submitting a technically complete dossier is necessary but not sufficient — the operational reality must match what the documentation describes.
+
 ---
 
 ## What Is Swissmedic?
@@ -80,7 +82,7 @@ The procedure that applies to your application depends on the product type, the 
 | Simplified procedure | Well-established substances, homeopathic preparations | 6-12 months | 15,000-50,000 |
 | Generic procedure | Generics where reference product is already authorised by Swissmedic | 6-12 months | 15,000-50,000 |
 
-Fees are set by ordinance and depend on procedure type, complexity, and whether the application requires additional expert assessment. Budget for the full range — underprepared dossiers attract queries that stop the clock and extend the timeline materially.
+Fees are set by ordinance and depend on procedure type, complexity, and whether the application requires additional expert assessment. Budget for the full range — underprepared dossiers attract queries that stop the clock and extend the timeline materially. Clock-stops are not administrative formalities: each query from Swissmedic halts the review period entirely, and the clock only restarts when the applicant provides a complete response. In practice, a single round of deficiency questions can add 3-6 months. Two rounds — which is not unusual for novel biologicals — can push a standard procedure past 24 months.
 
 ### Post-Authorisation Obligations
 
@@ -151,7 +153,7 @@ Switzerland recognises EU-notified bodies for device certification purposes. A C
 
 ### Swiss Authorised Representative
 
-Non-Swiss manufacturers placing devices on the Swiss market must appoint a **Swiss Authorised Representative (CH-REP)**. The CH-REP is legally responsible for regulatory compliance in Switzerland, acts as the contact point for Swissmedic, and must be based in Switzerland. This requirement mirrors the EU Authorised Representative obligation and applies regardless of whether the manufacturer holds EU registration.
+Non-Swiss manufacturers placing devices on the Swiss market must appoint a **Swiss Authorised Representative (CH-REP)**. The CH-REP is legally responsible for regulatory compliance in Switzerland, acts as the contact point for Swissmedic, and must be based in Switzerland. This requirement mirrors the EU Authorised Representative obligation and applies regardless of whether the manufacturer holds EU registration. The CH-REP must maintain technical documentation on Swiss soil and be reachable by Swissmedic during Swiss business hours. In practice, many foreign manufacturers underestimate the CH-REP role: it is not a postal address arrangement. The CH-REP assumes regulatory liability and must have personnel competent to handle Swissmedic enquiries about the specific device. Appointing a CH-REP without adequate technical capability is a compliance failure waiting to surface during a market surveillance action.
 
 ---
 
@@ -185,7 +187,7 @@ No. Switzerland is not an EU member state. A European Medicines Agency (EMA) cen
 
 **Can a foreign pharmaceutical company apply to Swissmedic directly?**
 
-Yes, but the marketing authorisation holder must have a legal address in Switzerland (or the European Economic Area in certain circumstances). Foreign companies without a Swiss presence typically establish a Swiss subsidiary or appoint a local regulatory affairs representative before submitting. See our guide to [company formation in Switzerland](/company-formation/company-formation-switzerland/) for the structural options.
+Yes, but the marketing authorisation holder must have a legal address in Switzerland (or the European Economic Area in certain circumstances). Foreign companies without a Swiss presence typically establish a Swiss subsidiary or appoint a local regulatory affairs representative before submitting. The entity setup should be completed well before the Swissmedic submission — the agency requires a valid Swiss UID (Unternehmens-Identifikationsnummer) at the time of filing, and obtaining one requires a registered company in the commercial register. The formation-to-UID timeline is typically 3-5 weeks. See our guide to [company formation in Switzerland](/company-formation/company-formation-switzerland/) for the structural options.
 
 **How does Switzerland handle biosimilars?**
 

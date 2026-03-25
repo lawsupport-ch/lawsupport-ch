@@ -67,7 +67,7 @@ The IP box allows Swiss companies to tax qualifying intellectual property income
 
 ### How It Works
 
-The cantonal IP box reduces the taxable income attributable to qualifying IP by a fixed percentage — typically 90% reduction at the cantonal level. This means only 10% of the qualifying IP income is subject to cantonal income tax.
+The cantonal IP box reduces the taxable income attributable to qualifying IP by a percentage set by each canton — up to 90% reduction at the cantonal level. Most cantons, including Zug, apply the maximum 90% reduction, meaning only 10% of qualifying IP income is subject to cantonal income tax. A few cantons apply lower reductions, but the practical effect across major business cantons is similar.
 
 **Example (Zug):**
 - IP income: CHF 1,000,000
@@ -80,6 +80,8 @@ Without the IP box, the same CHF 1,000,000 would generate ~CHF 118,000 in canton
 ### The Nexus Requirement
 
 The OECD modified nexus approach requires that the tax benefit be proportionate to the R&D expenditure incurred by the taxpayer itself. IP income from IP developed entirely by in-house Swiss R&D qualifies fully. IP income from purchased IP or outsourced R&D is proportionally restricted. This prevents pure IP [holding structures](/company-formation/holding-company-switzerland/) from claiming the box without genuine Swiss R&D activity.
+
+For holding companies specifically, the participation exemption (Beteiligungsabzug) remains the primary tax advantage: dividends and capital gains from qualifying participations (10%+ ownership or CHF 1 million+ fair market value) are effectively tax-free at both federal and cantonal level. Combined with Zug's 11.85% headline rate and the IP box for any proprietary technology, a holding-plus-IP structure in Zug can achieve single-digit effective rates on blended income.
 
 ---
 
@@ -141,6 +143,8 @@ A Swiss biotech company in Zug with significant patent income and an active R&D 
 - NID: modest additional deduction on equity base
 
 Combined effective cantonal+federal rate for a high-IP, high-R&D business in Zug could fall to 5–8% — well below the headline 11.8%. Companies considering [formation in Switzerland](/company-formation/company-formation-switzerland/) with an IP-intensive business model should evaluate these incentives early in the structuring process.
+
+Beyond the statutory incentives, certain cantons offer informal support programmes for targeted industries. Zug has actively cultivated its fintech and blockchain cluster through responsive tax ruling processes, regulatory familiarity, and a concentrated professional ecosystem — advantages that do not appear in rate tables but materially reduce setup friction. Geneva and Vaud have similarly positioned themselves for commodity trading and life sciences respectively.
 
 <!-- VIDEO: Worked example — stacking Swiss tax incentives to achieve effective rates below 8% -->
 

@@ -79,7 +79,7 @@ Swiss citizenship is not permanently guaranteed. There are still circumstances w
 
 **Consular protection:** Switzerland can only provide consular protection in third countries — it cannot protect you in the country of your other nationality, as that country views you as its own national.
 
-**Tax:** Swiss citizenship does not itself create Swiss [tax residency](/tax-accounting/tax-residency-switzerland/). Tax residency is determined by where you live, not your passport. If you hold Swiss citizenship but live abroad, you are not subject to Swiss income tax (unlike the US, which taxes citizens globally regardless of residence). Switzerland has extensive <a href="https://www.estv.admin.ch" target="_blank" rel="nofollow noopener">double tax treaties</a> covering most major economies to mitigate potential double taxation situations. See our guide on [double tax treaties](/tax-accounting/double-tax-treaties-switzerland/) for more detail.
+**Tax:** Swiss citizenship does not itself create Swiss [tax residency](/tax-accounting/tax-residency-switzerland/). Tax residency is determined by where you live, not your passport. For business owners, this is a critical distinction: holding Swiss citizenship whilst residing in, say, Dubai does not trigger Swiss income tax. However, if your Swiss-registered company pays you a salary or dividends, withholding obligations arise regardless of your personal tax residence. If you hold Swiss citizenship but live abroad, you are not subject to Swiss income tax (unlike the US, which taxes citizens globally regardless of residence). Switzerland has over 100 <a href="https://www.estv.admin.ch" target="_blank" rel="nofollow noopener">double tax treaties</a> covering most major economies. In practice, dual citizens running a Swiss company from abroad face three recurring friction points: (1) determining where "effective management" sits for treaty purposes, (2) avoiding permanent establishment risk in the residence country, and (3) structuring director fees and dividends to minimise double taxation. These are solvable problems, but they require advance planning — not after-the-fact corrections. See our guide on [double tax treaties](/tax-accounting/double-tax-treaties-switzerland/) for more detail.
 
 ---
 
@@ -134,7 +134,7 @@ Under the old Swiss law, naturalising Swiss often required renunciation of prior
 
 **Can a Swiss company owner hold dual citizenship?**
 
-Yes. Dual citizenship has no bearing on your ability to own and operate a Swiss company. Swiss corporate law does not distinguish between shareholders or directors based on nationality. You can [form a company](/company-formation/company-formation-switzerland/) regardless of how many citizenships you hold.
+Yes. Dual citizenship has no bearing on your ability to own and operate a Swiss company. Swiss corporate law does not distinguish between shareholders or directors based on nationality. In practice, the more relevant question is banking: Swiss banks scrutinise the nationality and tax residence of ultimate beneficial owners (UBOs) during account opening. US persons, for instance, face near-automatic rejection from most Swiss banks due to FATCA reporting obligations — a constraint driven by banking policy, not corporate law. You can [form a company](/company-formation/company-formation-switzerland/) regardless of how many citizenships you hold.
 
 **Does dual citizenship affect Swiss military service obligations?**
 

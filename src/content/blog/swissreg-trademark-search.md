@@ -33,7 +33,7 @@ tocItems:
 ---
 
 
-A Swissreg trademark search is the essential first step before filing any trademark in Switzerland. <a href="https://www.swissreg.ch" target="_blank" rel="nofollow noopener">Swissreg</a> is the official online database of the Swiss Federal Institute of Intellectual Property (IGE/IPI), providing free public access to all Swiss trademark registrations, patent applications, and design registrations. Identical or confusingly similar prior registrations are a primary ground for opposition and invalidity — running a Swissreg search before filing saves time, fees, and potential legal disputes.
+A Swissreg trademark search is the essential first step before filing any trademark in Switzerland. <a href="https://www.swissreg.ch" target="_blank" rel="nofollow noopener">Swissreg</a> is the official online database of the Swiss Federal Institute of Intellectual Property (IGE/IPI), providing free public access to all Swiss trademark registrations, patent applications, and design registrations. Identical or confusingly similar prior registrations are a primary ground for opposition and invalidity — running a Swissreg search before filing saves time, fees, and potential legal disputes. Swissreg and <a href="https://www.zefix.ch" target="_blank" rel="nofollow noopener">ZEFIX</a> (the commercial register search) are complementary tools, not alternatives: Swissreg covers registered trademarks, while ZEFIX covers company names. A mark that clears Swissreg may still conflict with an existing company name on ZEFIX — and vice versa. Professional clearance requires checking both.
 
 ---
 
@@ -165,13 +165,15 @@ For industrial designs, Swissreg allows:
 **If no conflicts found:**
 Proceed to file your [trademark registration in Switzerland](/intellectual-property/trademark-registration-switzerland/) with IGE/IPI. A clean Swissreg search does not guarantee registration — IGE/IPI may raise objections during examination, or a third party may oppose during the 3-month publication period.
 
+**Register your domain before SHAB publication.** When a trademark or company name is published in the Swiss Official Gazette of Commerce (SHAB/SOGC), automated bots operated by domain squatters scrape new entries and register matching .ch, .com, and other TLDs within hours. We have seen this repeatedly — a client files a trademark, it passes examination and is published, and by the time the registration certificate arrives, the corresponding domain has been registered by a third party demanding a transfer fee. Secure your domain names before filing the trademark application, not after.
+
 **If identical or similar marks found:**
 - Assess whether the goods and services overlap significantly with your intended classes
 - If overlap is significant: consult an IP attorney on clearance options, co-existence agreements, or abandoning the mark
 - If overlap is minimal (different classes, unrelated goods and services): filing may still be viable
 
 **Professional trademark clearance searches:**
-Swissreg keyword searches are not a substitute for a professional clearance opinion. An IP attorney will conduct broader searches (including company names on the [commercial register](/company-formation/commercial-register-switzerland/), domain names, unregistered rights) and assess similarity risk.
+Swissreg keyword searches are not a substitute for a professional clearance opinion. An IP attorney will conduct broader searches — including company names on ZEFIX, domain name registrations across relevant TLDs, and unregistered rights established through prior use — and assess similarity risk across all three dimensions (visual, phonetic, conceptual). The cost of a professional clearance opinion (typically CHF 1,500-3,000) is a fraction of the cost of defending an opposition or rebranding after launch.
 
 <!-- VIDEO: How to conduct a professional trademark clearance search using Swissreg and complementary databases -->
 
@@ -185,7 +187,7 @@ Swissreg has an English language interface, but the trademark register entries t
 
 **Does Swissreg show company names that conflict with trademarks?**
 
-No — Swissreg only shows trademark registrations. Company names in the [Commercial Register](/company-formation/commercial-register-switzerland/) are separate. Conflicts between company names and trademarks are a distinct area of Swiss law (Firmenrecht).
+No — Swissreg only shows trademark registrations. Company names in the [Commercial Register](/company-formation/commercial-register-switzerland/) are searchable through <a href="https://www.zefix.ch" target="_blank" rel="nofollow noopener">ZEFIX</a>, not Swissreg. The two databases are complementary: a trademark clearance search should always include both. Conflicts between company names and trademarks are a distinct area of Swiss law (Firmenrecht), and a company name registered years before your trademark filing can block it even if it never appears in Swissreg.
 
 **How current is the Swissreg database?**
 

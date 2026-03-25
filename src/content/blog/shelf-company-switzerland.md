@@ -125,30 +125,52 @@ If the shelf company does not carry an existing bank account, a new corporate ac
 
 ## Cost of Acquiring a Swiss Shelf Company
 
-The following cost ranges apply to a standard shelf company acquisition in Zug in 2026.
+Shelf company pricing depends primarily on the age of the entity. All companies in our inventory are debt-free, come with balance sheets and share certificates, and have no trading history.
+
+**Pricing by company age (2026):**
+
+| Company Age | Price Range (CHF) |
+|---|---|
+| 15-17 years old | 15'000 - 17'000 |
+| 20-30 years old | 20'000 - 30'000 |
+| 40+ years old | 35'000+ |
+| Vintage (e.g. 1933, 93 years old) | 47'500 |
+
+On top of the company purchase price, the standard package adds:
 
 | Item | Cost (CHF) |
 |---|---|
-| Shelf company purchase price | 3'000 - 8'000 |
-| Articles amendment (notary fee) | 800 - 1'500 |
-| Commercial Register update fee | 300 - 600 |
-| Director change | Included in amendment |
-| Bank account opening | 0 - 500 (setup fees vary by bank) |
-| **Total** | **~5'000 - 12'000+** |
+| Registered address (Zug) | 2'400/year |
+| Nominee director | 5'900/year |
+| Accounting (dormant) | 1'800/year |
+| Notarial modification (name, purpose, board) | ~1'700 |
+| **Package total (year 1)** | **~11'800 + company price** |
 
-For comparison, a fresh GmbH or AG formation in Zug typically costs CHF 3'000-5'000 all-in, including notary, Commercial Register, and Lawsupport professional fees.
+For comparison, a fresh GmbH formation in Zug costs CHF 1'900 for registration alone, or approximately CHF 12'000 as a full package with address, nominee director, and accounting included — before share capital.
 
-The premium paid for a shelf company is a premium for two things: speed and the existing registration date. If neither of those factors is material to your situation, fresh formation is the more cost-efficient path.
+The premium paid for a shelf company is a premium for two things: speed and the existing registration date. A company incorporated in 1986, for example, carries ninety years of unbroken register history — a signal of stability that cannot be manufactured. Whether that signal is worth CHF 47'500 depends entirely on your counterparties and your market positioning.
+
+### 2025 Regulatory Changes
+
+Swiss authorities have tightened the rules around shell company transfers. From 2025:
+
+- The Commercial Register has expanded powers to **request financial documentation** and can **void shell company sales** where it suspects the transaction lacks commercial substance
+- Changes to a shelf company must now be executed in **two stages**: first the company name and board composition, then the business activity and purpose clause. Attempting to change everything simultaneously in a single filing may trigger additional scrutiny or rejection
+- These rules apply to all cantons, though enforcement intensity varies
+
+These changes do not make shelf company acquisitions illegal or impractical — they make sloppy ones riskier. A properly structured acquisition with clean documentation, legitimate commercial purpose, and experienced legal handling proceeds without difficulty.
 
 ---
 
 ## A Real-World Example
 
-In October 2024, a client operating in the commodities sector contacted Lawsupport on a Monday morning. They had a contract negotiation scheduled for the following Monday in which they were required to present a Swiss-registered entity as the signing counterparty. Five business days. A fresh formation was not possible.
+A South African infrastructure group with operations across Africa — energy and real estate projects in the DRC, Ghana, Kenya, and Congo — approached us for a Swiss holding company. They needed an AG in Zug under the name "Gulf Investments Holdings AG" to serve as the group's European holding vehicle. Expected transaction volumes: four to five per month, ranging from USD 25 million to USD 500 million.
 
-Lawsupport identified a suitable GmbH shelf company from its Zug inventory. Due diligence was completed the same day. The share purchase agreement was signed Tuesday. Notarial deed was executed Wednesday. The Commercial Register filing was submitted Thursday morning. The client had a confirmed Commercial Register entry number — and could present the company's existing Handelsregister entry — by Friday afternoon.
+The two directors (South African nationals, 50/50 ownership) wanted a company with history. A freshly formed entity would not carry the weight they needed for institutional counterparties and correspondent banking relationships. They selected a shelf company from our inventory — a Zurich-registered AG originally incorporated in 1986 — specifically for the prestige that a forty-year-old Swiss company carries in their market.
 
-The contract was signed on Monday as scheduled. The total elapsed time from first contact to operational entity: four business days.
+The acquisition was completed in under two weeks. Our recommendation was to leave the company domiciled in Zurich initially and transfer to Zug after demonstrating turnover — redomiciliation between cantons is straightforward once the company has an operating track record and banking relationship.
+
+This case illustrates the two scenarios where shelf companies justify their premium: when the registration date itself is a commercial asset, and when the timeline for a fresh formation cannot accommodate the client's deal calendar.
 
 ---
 
@@ -191,7 +213,7 @@ Yes. Acquiring a dormant Swiss company via a share transfer and amending its art
 
 **How old are the shelf companies you have available?**
 
-Lawsupport's current inventory includes shelf companies ranging from one to several years old. The specific available companies, their formation dates, and their entity types (AG or GmbH) change as inventory is acquired and sold. Contact us directly for a current inventory list.
+Lawsupport's current inventory includes shelf companies ranging from fifteen to over ninety years old. Prices range from CHF 15'000 for entities in the 15-17 year range up to CHF 47'500 for a 1933 vintage. All are debt-free with balance sheets and share certificates. The specific available companies, their formation dates, and their entity types (AG or GmbH) change as inventory is acquired and sold. Contact us directly for a current inventory list.
 
 **Can I keep the company's original name?**
 

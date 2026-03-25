@@ -119,6 +119,10 @@ A 5% stamp tax applies to non-life insurance premiums for risks located in Switz
 
 **Issuance stamp and [holding structures](/company-formation/holding-company-switzerland/):** When a Swiss holding company contributes equity to a Swiss subsidiary, the subsidiary's share capital increase triggers issuance stamp on amounts above CHF 1 million. For large capitalisation scenarios, this is a material cost to plan around — inter-company loan structures may be more efficient above threshold.
 
+**A practical illustration:** A Swiss holding AG capitalises a new operating subsidiary with CHF 3'000'000 in share capital. The first CHF 1'000'000 is exempt. The remaining CHF 2'000'000 attracts 1% issuance stamp: **CHF 20'000** payable to the ESTV within 30 days. For a multi-entity holding structure with three or four subsidiaries each capitalised above the threshold, the aggregate stamp liability can reach CHF 50'000-100'000 — a cost that is entirely avoidable through proper structuring (shareholder loans, agio management, or staged capital increases timed to coincide with actual capital needs).
+
+The CHF 1'000'000 exemption applies per entity, which means a holding group with four Swiss subsidiaries benefits from CHF 4'000'000 in aggregate exempt capital — provided each entity is properly structured. This is one of the few areas where having multiple Swiss entities produces a direct tax saving.
+
 **Securities transfer and share sales:** In M&A transactions involving private Swiss companies, structuring the transaction to avoid Swiss securities dealer involvement (direct buyer-seller transfer without bank intermediary) can eliminate the securities transfer stamp. Legal and tax advice is needed to confirm applicability in each transaction.
 
 **Group exemption:** Swiss corporate groups can access an intragroup exemption from securities transfer stamp for qualifying share transfers within the group. Requires formal application to ESTV.

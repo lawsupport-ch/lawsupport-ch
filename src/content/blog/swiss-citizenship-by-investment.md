@@ -53,7 +53,7 @@ There are three legitimate routes relevant to high-net-worth individuals. Only o
 
 This is the primary route wealthy foreign nationals use when they say they want "Swiss residency." It is a residence arrangement, not a citizenship pathway — but for many people, it is exactly what they are actually looking for.
 
-Under [lump-sum taxation](/tax-accounting/lump-sum-taxation-switzerland/), a foreign national establishes Swiss residence in a participating canton. Instead of being taxed on worldwide income and assets, they agree a tax base with the cantonal tax authority calculated on annual living expenses — typically five to seven times the annual rent of their Swiss residence. The resulting annual tax liability ranges from approximately CHF 200,000 to CHF 500,000 or more depending on the canton and the individual's lifestyle.
+Under [lump-sum taxation](/tax-accounting/lump-sum-taxation-switzerland/), a foreign national establishes Swiss residence in a participating canton. Instead of being taxed on worldwide income and assets, they agree a tax base with the cantonal tax authority calculated on annual living expenses — typically five to seven times the annual rent of their Swiss residence. The resulting annual tax liability ranges from approximately CHF 200,000 to CHF 500,000 or more depending on the canton and the individual's lifestyle. Cantonal minimum tax bases vary: Zug sets its minimum deemed living expenses at around CHF 600,000, whilst Geneva starts at approximately CHF 400,000. These figures are negotiated individually with the cantonal tax authority, not published as fixed schedules, and depend on actual housing costs and lifestyle indicators.
 
 Key eligibility conditions:
 
@@ -173,6 +173,8 @@ Malta offers citizenship for EUR 600,000-750,000 plus property and donations, ac
 ## Working With Qualified Advisers
 
 The legitimate routes available to wealthy foreign nationals in Switzerland — lump-sum taxation, business investor residence, eventual naturalisation — are well-defined but require careful structuring. Choosing the right canton, negotiating the tax base, meeting the SEM's requirements for business investor permits, and managing the naturalisation timeline all involve coordination between immigration lawyers, tax advisers, and cantonal authorities.
+
+The practical costs of establishing a Swiss corporate and residential presence are often underestimated. A GmbH registration starts at CHF 1,900 (notary included); an all-in first-year package with a registered address in Zug (CHF 2,400/year), nominee director (CHF 5,900/year), and basic dormant-company accounting (CHF 1,400/year) brings the first-year total to roughly CHF 12,000 before share capital. These are operational costs, separate from personal tax obligations under any lump-sum arrangement.
 
 If you are considering relocating to Switzerland as a high-net-worth individual, the starting point is a clear picture of what Swiss law actually allows — not what offshore advisers or citizenship-industry websites claim.
 

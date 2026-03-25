@@ -76,6 +76,8 @@ The SNB's policy rate directly influences what Swiss banks can offer on CHF depo
 
 **Note:** Swiss savings account rates are deliberately low — Swiss residents historically keep savings in real estate, pension (2nd and 3rd pillar) accounts, or investment funds rather than cash savings accounts.
 
+**Cantonal banks vs. big banks:** For company founders, the distinction matters beyond interest rates. Cantonal banks — particularly Zuger Kantonalbank and smaller regional institutions — tend to apply lower effective thresholds for corporate client onboarding than UBS. A cantonal bank may accept a newly formed GmbH with CHF 20'000 in share capital and a credible business plan, while UBS typically requires CHF 500'000+ under management for new non-resident relationships. The interest rate difference between them is negligible; the access difference is not.
+
 ---
 
 ## Fixed Deposits (Festgeld / Depots a terme)
@@ -111,6 +113,10 @@ Corporate current accounts in Switzerland typically pay:
 - **Corporate savings / treasury deposit:** 0.10–0.30% depending on amount and relationship
 
 Negative rates on corporate accounts (which were common in 2015–2022) have been eliminated as the SNB rate returned to positive territory. However, do not expect meaningful positive returns on CHF corporate cash.
+
+For newly formed companies, the practical reality is starker: your share capital sits in a blocked capital deposit account earning zero interest for the two to six weeks it takes to complete registration. Once released to the operating account, corporate current accounts at most banks pay 0.0%. Treasury management only becomes relevant once a company accumulates significant operating reserves — a milestone most startups do not reach in their first year.
+
+Digital banking providers like Relio AG charge CHF 249/month regardless of balance — meaning interest earnings on a typical GmbH operating balance of CHF 50'000 to 100'000 would not cover the monthly fee. At 0.10% on CHF 100'000, annual interest is CHF 100; annual Relio fees are CHF 2'988. The value proposition of digital banking is speed and accessibility, not yield.
 
 For more on corporate banking in Switzerland, see our guide to [corporate bank accounts](/banking/corporate-bank-account-switzerland/).
 

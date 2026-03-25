@@ -64,15 +64,15 @@ Swiss patent law is governed by the Patent Act (PatG). A Swiss patent grants the
 
 The Swiss Federal Institute of Intellectual Property (IGE/IPI) processes Swiss national patent applications.
 
-**Unique feature of Swiss national patents:** The IPI does not conduct a substantive examination of novelty and inventive step by default. Swiss patents can be granted without the IPI confirming the invention is actually novel and non-obvious. The validity of the patent can be challenged before the Federal Patent Court (Bundespatentgericht) after grant.
+**Unique feature of Swiss national patents:** The IPI (Institut fuer Geistiges Eigentum, also known as IGE in German) conducts **formal examination only** -- it checks that the application is complete, properly classified, and meets procedural requirements. It does not assess whether the invention is actually novel or involves an inventive step. A Swiss national patent can be granted for an invention that is already known in the prior art. The validity of the patent can only be challenged after grant, before the Federal Patent Court (Bundespatentgericht) in St. Gallen.
 
-This means Swiss national patents are granted faster and more cheaply than in countries with full examination, but carry greater uncertainty about their validity.
+This means Swiss national patents are granted faster and more cheaply than in countries with full examination, but carry greater uncertainty about their enforceability. A competitor who receives a cease-and-desist letter based on an unexamined Swiss patent may simply challenge it in court -- and if the patent turns out to lack novelty, the holder has spent money on a right that provides no real protection. For this reason, most patent attorneys recommend the EPO route for any invention with genuine commercial value.
 
 **Process:**
-1. File application with IPI (online or paper): description, claims, drawings
-2. Formal examination only (completeness, classification)
-3. Grant (typically 12-18 months)
-4. Annual fees to maintain the patent
+1. File the application with the IPI (online via the IGE/IPI portal, or by paper submission): technical description, patent claims, and drawings
+2. The IPI conducts formal examination only -- checking completeness, proper classification, and compliance with procedural requirements. No novelty search, no inventive step assessment
+3. If the formal requirements are met, the patent is granted (typically 12-18 months from filing)
+4. Annual maintenance fees must be paid to keep the patent in force -- failure to pay results in the patent lapsing
 
 **Official fees:**
 - Application fee: CHF 200 (online) / CHF 300 (paper)

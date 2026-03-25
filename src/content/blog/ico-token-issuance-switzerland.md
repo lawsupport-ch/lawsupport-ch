@@ -81,6 +81,10 @@ FINMA also examines whether an asset token issuance constitutes a collective inv
 
 Most tokens issued in practice are hybrid tokens. A token that provides platform access (utility) but also carries a revenue share or secondary market expectation (asset) is hybrid. FINMA applies a dominant-purpose test, but critically: if asset characteristics are present, the securities law obligations attach. You cannot engineer away the asset elements by adding utility features.
 
+### The Three-Month Audit Trap
+
+A risk that most token issuance guides never mention: **three months after your SRO membership is granted, you face a mandatory compliance audit**. If your appointed AML officer or responsible director cannot demonstrate competence during that audit — meaning they cannot explain the company's transaction monitoring procedures, risk assessment methodology, and suspicious activity reporting protocols — the SRO can revoke the membership. This has happened. Finding qualified AML compliance officers willing to serve crypto startups is genuinely difficult, and the pool of candidates who understand both traditional AML requirements and blockchain-specific risks is small. Budget for this hire before you apply for SRO membership, not after.
+
 ---
 
 ## Prospectus Requirements Under FinSA
@@ -116,7 +120,15 @@ Zug remains the preferred canton for both foundations and operating companies du
 
 Token issuers who engage in financial intermediation — accepting fiat or crypto, maintaining customer accounts, processing transfers — must affiliate with a FINMA-approved SRO or hold a FINMA payment institution licence. The leading SROs for crypto businesses in Switzerland include the VQF (Verein zur Qualitaetssicherung von Finanzdienstleistungen) and Polyreg.
 
-SRO membership requires documented AML policies, a compliance officer, transaction monitoring, and an annual compliance review. Onboarding timelines are typically 3 to 6 months. For more complex business models — exchanges, custodians, stablecoin issuers — direct FINMA licensing under the Banking Act or FinIA may be required. See our guide to [SRO membership in Switzerland](/licensing/sro-membership-switzerland/) for detailed requirements and our overview of [FINMA licensing](/licensing/finma-licensing-switzerland/) for regulated activities.
+SRO membership requires documented AML policies, a compliance officer, transaction monitoring, and an annual compliance review. Onboarding timelines are typically 3 to 6 months, but the process is not always predictable — VQF in particular can raise additional requests at any stage, resetting your timeline.
+
+**Costs:** SRO application assistance runs approximately CHF 10,000 (fixed retainer). For complex business models requiring full regulatory advisory, expect a total spend of CHF 25,000 or more. One recent client's SRO process consumed 36+ hours of legal work and over CHF 38,000 in fees before the client changed their business model mid-process and abandoned the application entirely.
+
+**Choosing between SROs matters more than you think.** VQF is the largest and most established, but PolyReg has a specific contractual requirement that creates friction for certain business models. PolyReg requires a bilateral signed contract with each major exchange or payment partner. If your business model depends on platforms like Binance that only offer standard Terms of Service (AGB) — not bespoke bilateral contracts — you will face a compliance argument about whether AGB constitutes a functional equivalent. This issue is currently being debated in at least one active case.
+
+**Success case:** One crypto company obtained VQF membership, built full AML/CFT compliance, and established a strategic partnership with Binance Pay. The company later put the licensed entity up for sale — demonstrating that a compliant Swiss crypto entity with SRO membership has tangible resale value.
+
+For more complex business models — exchanges, custodians, stablecoin issuers — direct FINMA licensing under the Banking Act or FinIA may be required. See our guide to [SRO membership in Switzerland](/licensing/sro-membership-switzerland/) for detailed requirements and our overview of [FINMA licensing](/licensing/finma-licensing-switzerland/) for regulated activities.
 
 ---
 
@@ -179,6 +191,8 @@ A FINMA no-action letter is not legally required. However, many professional tok
 **Can non-Swiss residents participate in a Swiss token sale?**
 
 Yes, subject to the issuer's own offering restrictions. Swiss law does not prohibit sales to foreign investors, but issuers must comply with the securities laws of each jurisdiction where tokens are offered. Most Swiss token issuances exclude US persons (due to SEC regulations) and certain other jurisdictions. Offering restrictions are documented in the token sale terms and conditions.
+
+**The US investor problem in practice:** A recent client structuring a blockchain token issuance from Canton Zug had a lead investor who was a US citizen. The firm declined to provide structuring advice without a full intake meeting (CHF 350/hour scoping call) and issued an explicit warning: "Reg S / SEC / IRS aspects must be handled with US counsel." Swiss lawyers cannot opine on SEC compliance, and any token issuance with US investor participation requires parallel US legal work — Regulation S exemption structuring, accredited investor verification, and IRS reporting. Founders who assume their Swiss legal opinion covers US investors are taking on enforcement risk that Swiss counsel has explicitly disclaimed.
 
 **What happens if FINMA classifies my token differently than expected?**
 

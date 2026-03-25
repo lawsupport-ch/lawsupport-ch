@@ -75,6 +75,17 @@ These accounts are entirely app-based and open via video verification:
 **Monthly fee:** CHF 0
 **Limitation:** Swiss residents only
 
+### Relio AG (Zurich)
+
+**Who:** Swiss-registered companies (including foreign-owned)
+**Open online:** Yes — video verification through Intrum, accounts can be operational the same day
+**Currency:** CHF, EUR
+**Features:** Corporate current account, IBAN, online banking
+**Monthly fee:** CHF 249
+**Limitation:** Explicitly rejects companies with US nexus at the UBO or shareholder level. Not available for personal accounts. No retail banking features.
+
+Relio occupies a specific niche: it is one of the fastest routes to a Swiss corporate bank account for newly formed companies. Where traditional banks take four to eight weeks for corporate onboarding, Relio can complete the process in a single day after video verification. The trade-off is the monthly fee — CHF 2'988 per year — which is substantially higher than traditional bank account maintenance fees.
+
 ### Revolut (Switzerland)
 
 **Who:** Swiss residents (and EU/EEA non-residents with Swiss address)
@@ -83,6 +94,17 @@ These accounts are entirely app-based and open via video verification:
 **Features:** Multi-currency account, stock trading, crypto, travel insurance
 **Monthly fee:** CHF 0 (standard) to CHF 23.99 (premium)
 **Limitation:** Not a Swiss bank — operates under a Lithuanian banking licence in Europe; <a href="https://www.finma.ch/en/" target="_blank" rel="nofollow noopener">FINMA</a>-registered payment service in Switzerland. Deposits not covered by esisuisse (Lithuanian DGS applies)
+
+### Payset (UK EMI)
+
+**Who:** Companies needing multi-currency accounts
+**Open online:** Yes — video verification through iDenfy
+**Currency:** Multiple currencies including CHF, EUR, USD, GBP
+**Features:** Multi-currency business account, international payments
+**Monthly fee:** Varies by plan
+**Limitation:** UK-regulated electronic money institution, not a Swiss bank. Deposits not covered by esisuisse.
+
+Some holding structures use Payset as an interim solution while Swiss banking relationships are being established. It is particularly used by companies that need operational banking before the Swiss corporate account application is approved.
 
 ### Wise (not a bank)
 
@@ -148,6 +170,8 @@ Online opening of Swiss [corporate bank accounts](/banking/corporate-bank-accoun
 - KYC documentation for all UBOs (ultimate beneficial owners)
 
 Some digital neobanks (e.g., Neon Business) have simplified this to a video call plus document upload, but only for simple single-director structures.
+
+Relio AG has gone further: corporate accounts can be opened the same day after video verification through Intrum. This makes Relio the fastest option for companies that need a Swiss IBAN urgently — for example, to receive the capital deposit confirmation required for Commercial Register filing. The practical limitation is cost (CHF 249/month) and the blanket exclusion of US-nexus companies.
 
 ---
 

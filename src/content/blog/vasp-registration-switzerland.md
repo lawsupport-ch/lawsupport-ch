@@ -135,6 +135,8 @@ The formal application to VQF includes: corporate documents, business model desc
 
 VQF's compliance committee reviews the application in full. They will typically raise questions on the KYC procedures, the transaction monitoring methodology, and the business model's risk profile. Directors and beneficial owners are subject to a background check and must meet the fit-and-proper standard.
 
+A practical warning: VQF can raise additional requests at any stage, and the timeline for these requests is unpredictable. There is no fixed number of review rounds. Applicants with novel or complex business models should expect multiple supplemental submissions and allow six to nine months rather than three to six.
+
 ### Step 5: Acceptance and Ongoing Obligations
 
 Upon acceptance, the VASP is a regulated financial intermediary under Swiss law. Ongoing obligations include:
@@ -168,6 +170,10 @@ Upon acceptance, the VASP is a regulated financial intermediary under Swiss law.
 ## Costs: What to Budget
 
 **VQF membership fees**: The first-year membership fee ranges from approximately **CHF 3,000 to CHF 15,000**, depending on the size and revenue of the business. Annual ongoing fees apply and are similarly scaled.
+
+**SRO application legal work**: The initial retainer for SRO application assistance is typically CHF 10,000 (fixed), covering document preparation and submission. However, this is rarely the full cost. Regulatory work — responding to VQF follow-up queries, building out compliance documentation, and managing the committee review — regularly pushes total costs to CHF 25,000 or more. One recent engagement totalled CHF 38,321 across 36+ hours of work before the client withdrew. Budget CHF 25,000-35,000 for a realistic total cost estimate, and treat the initial CHF 10,000 retainer as a starting point, not a ceiling.
+
+**Turnkey licensed financial intermediary**: For companies that want to skip the application process entirely, acquiring a pre-licensed entity with existing SRO membership is possible but expensive — current market pricing is approximately CHF 480,000 for a turnkey licensed financial intermediary.
 
 **AML compliance programme preparation**: For a first-time applicant without existing AML infrastructure, legal and consulting fees to design and document a compliant programme typically run **CHF 10,000 to CHF 30,000**. Complex business models — multi-asset platforms, cross-border services, institutional custody — sit at the upper end.
 
@@ -205,13 +211,23 @@ Switzerland's FATF-compliant VASP framework is well understood by correspondent 
 
 ---
 
-## Real-World Scenario
+## Real-World Scenarios
 
-A Zug-based startup launches a crypto brokerage allowing Swiss and EU clients to buy and sell Bitcoin and Ether for fiat via bank transfer. The founders incorporate a GmbH, hire a compliance officer, and engage legal counsel to design their AML compliance programme.
+### Successful VQF Registration: Coinbridge AG
 
-After an eight-week preparation phase, they submit a VQF application with a complete AML policy, KYC procedures covering identity verification at CHF 1,000 and enhanced due diligence at CHF 10,000, a transaction monitoring ruleset, and background documentation for both directors and the 100% beneficial owner.
+Coinbridge AG, a Zug-domiciled crypto brokerage, obtained VQF membership after a structured compliance build-out. The company subsequently established a strategic partnership with Binance Pay and operated as a regulated Swiss financial intermediary. The total process from initial retainer to VQF acceptance required sustained legal work — the initial fixed retainer of CHF 10,000 covered the application preparation, but additional regulatory work brought total costs above CHF 25,000 before membership was confirmed. Coinbridge later listed its regulated entity for sale, demonstrating that a VQF-registered Swiss crypto company carries material commercial value on the secondary market.
 
-VQF raises two follow-up questions: the escalation procedure for MROS reporting and the approach to PEP screening. Both are addressed in a supplemental submission. Four months after initial application, the GmbH is accepted as a VQF member and commences operations as a regulated Swiss VASP.
+### The PolyrReg Bilateral Contract Problem: PayDeal Solutions AG
+
+Not every SRO path runs smoothly. PayDeal Solutions AG chose PolyrReg as its SRO rather than VQF. The company intended to integrate Binance's payment infrastructure, but PolyrReg required a bilateral signed contract with Binance as a condition of compliance approval. Binance, however, operates exclusively through standard Terms of Service (AGB) and does not enter into bilateral contracts with individual partners. This created a deadlock: the SRO demanded documentation that the counterparty would not produce. The legal argument — that Binance's standard AGB constitutes a functional equivalent of a bilateral agreement — remains unresolved. The case illustrates a practical risk of choosing an SRO other than VQF: different SROs interpret compliance requirements differently, and a requirement that seems procedural can become a genuine blocker.
+
+### The Failed Application: PumpX Labs
+
+A crypto startup engaged legal counsel for VQF membership with an initial CHF 10,000 retainer. During the application process, the founders changed the business model mid-stream — pivoting from a simple exchange to a more complex DeFi-adjacent product. This forced a restart of the compliance analysis. Total billed work reached CHF 38,321 (including VAT) across 36+ hours of legal time. The client ultimately abandoned the application, receiving a CHF 5,000 partial refund. The lesson: VQF assesses the business model as presented. Changing the model during the process is not an iteration — it is a restart.
+
+### The Three-Month Audit Trap
+
+What most applicants do not anticipate is what happens after VQF acceptance. Three months after membership is granted, VQF conducts an initial audit. If the AML officer or a director demonstrates insufficient knowledge of the company's own compliance procedures during this audit, VQF can revoke the membership. This is not a theoretical risk — finding a qualified AML officer who genuinely understands both the regulatory framework and the specific business model is one of the hardest practical steps in the process. Companies that treat the AML officer appointment as a formality discover the consequences at the three-month mark.
 
 ---
 

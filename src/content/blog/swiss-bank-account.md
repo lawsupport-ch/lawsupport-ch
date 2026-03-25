@@ -10,11 +10,11 @@ faqItems:
   - question: "Can a non-resident open a Swiss bank account?"
     answer: "Yes, but with significant restrictions. Non-residents without Swiss residency or a Swiss company face limited options at traditional banks. The most accessible routes are: private banking (if you have CHF 250'000+ in investable assets), a fintech like Wise, or opening through a professional intermediary with an existing banking relationship. Lawsupport has opened accounts for non-residents from over 40 countries without requiring the client to travel to Switzerland."
   - question: "How long does it take to open a Swiss bank account?"
-    answer: "For corporate accounts with professional preparation, 4 to 8 weeks is the standard range. Simple personal accounts at neobanks can be operational within days. Capital deposit accounts for incorporation are typically opened within 1 to 2 weeks when introduced by a formation lawyer. The largest variable is the bank's compliance review period, which you cannot directly control."
+    answer: "For corporate accounts with professional preparation, expect a minimum of one month from application to active account — and that is the optimistic end. Banks that approved the blocked capital deposit account convert roughly 80% of those into permanent accounts, but the compliance review alone can stretch to six or eight weeks. Neobank accounts can be operational within days. Capital deposit accounts are typically opened within one to two weeks when introduced by a formation lawyer. The largest variable is the bank's compliance review period, which you cannot directly control."
   - question: "What is the minimum balance for a Swiss bank account?"
-    answer: "For retail accounts at PostFinance and cantonal banks: no minimum, but inactivity fees may apply. For business accounts: no formal minimum, though the share capital (CHF 20'000 for GmbH) functions as the opening deposit during incorporation. For private banking: CHF 250'000 to 500'000 as a practical minimum."
+    answer: "For retail accounts at PostFinance and cantonal banks: no minimum, but inactivity fees may apply. For business accounts: no formal minimum, though the share capital (CHF 20'000 for GmbH) functions as the opening deposit during incorporation. For private banking: CHF 500'000+ at UBS as a practical minimum for new non-resident clients, and CHF 4'000'000 to 6'000'000 at smaller private banks. For digital banking through a provider like Relio AG: CHF 249/month flat fee, no minimum deposit."
   - question: "Do Swiss banks accept US citizens?"
-    answer: "Some do, but the pool is limited due to FATCA reporting requirements. UBS Private Banking accepts US persons. Wise and Revolut accept US persons with lighter compliance friction. Most cantonal banks and retail banks decline US applicants. US persons must independently comply with FBAR and FATCA reporting regardless of which bank they use."
+    answer: "Practically always rejected. Swiss banks treat US nexus at the UBO or shareholder level as grounds for refusal. Relio AG, a Zurich-based fintech bank, states explicitly that it is unable to onboard companies with US nexus at the UBO or shareholder level. UBS Private Banking may accept US persons with CHF 500'000+ under management, but the compliance overhead is substantial. In one case handled by our office, a US-owned Swiss company rejected by Relio was forced to operate through a UK parent company's Ebury account — creating serious compliance problems because Swiss regulators view using bank accounts of other legal entities as questionable. US persons must independently comply with FBAR and FATCA reporting regardless of which bank they use."
   - question: "Why was my Swiss bank account application rejected?"
     answer: "Common reasons: incomplete KYC documentation, unclear source of funds, business activities in a high-risk sector (crypto, gambling), shareholder or director from a FATF grey-listed country, no discernible Swiss business nexus, or prior rejections at other Swiss banks. Rejection letters are often non-specific. A licenced Swiss lawyer can review your package, identify the likely failure point, and resubmit to a more appropriate institution."
 tocItems:
@@ -41,7 +41,7 @@ tocItems:
 ---
 
 
-Swiss banks reject 20 to 30 percent of foreign company account applications outright, often without explanation. For individual foreigners and non-residents, the rejection rate at major banks is similarly high. Yet Swiss bank accounts remain among the most sought-after financial assets in the world, for good reason: political stability, a hard currency, <a href="https://www.finma.ch/en/" target="_blank" rel="nofollow noopener">FINMA</a> oversight, and access to private banking services that most jurisdictions cannot replicate.
+Swiss banks reject roughly 20 to 30 percent of foreign company account applications outright, often without explanation. There is, however, a useful signal buried in the process: if a bank approves your blocked capital deposit account during formation, approximately 80 percent of those relationships convert into permanent corporate accounts. For individual foreigners and non-residents, the rejection rate at major banks is similarly high. Yet Swiss bank accounts remain among the most sought-after financial assets in the world, for good reason: political stability, a hard currency, <a href="https://www.finma.ch/en/" target="_blank" rel="nofollow noopener">FINMA</a> oversight, and access to private banking services that most jurisdictions cannot replicate.
 
 This guide explains exactly how to open a Swiss bank account as a foreigner, what documents you need, which banks are most accessible, how long the process takes, and where applications typically fail. Whether you need a personal account, a [corporate account](/banking/corporate-bank-account-switzerland/) for your Swiss GmbH, or a [capital deposit account](/banking/capital-deposit-account-switzerland/) for incorporation, every step is covered here.
 
@@ -88,7 +88,7 @@ The bank issues a capital deposit confirmation (Einzahlungsbestaetigung), which 
 
 ### Private Banking Accounts
 
-Switzerland's [private banking](/banking/private-banking-switzerland/) sector serves high-net-worth individuals with assets typically starting at CHF 250'000 to 500'000 (Julius Baer, Pictet, Lombard Odier) or CHF 1 million and above (Vontobel, Bank J. Safra Sarasin). These relationships offer asset management, estate planning, and currency services not available through retail banking. Non-residents are welcomed, compliance is rigorous but experienced, and relationship managers typically speak English, French, German, and often Mandarin or Arabic.
+Switzerland's [private banking](/banking/private-banking-switzerland/) sector serves high-net-worth individuals. UBS requires CHF 500'000+ under management as a practical minimum for new non-resident clients. Smaller private banks — Julius Baer, Pictet, Lombard Odier — operate at thresholds of CHF 4'000'000 to 6'000'000 in practice, though published minimums may be lower. These relationships offer asset management, estate planning, and currency services not available through retail banking. Non-residents are welcomed, compliance is rigorous but experienced, and relationship managers typically speak English, French, German, and often Mandarin or Arabic.
 
 ---
 
@@ -131,7 +131,7 @@ Corporate accounts for newly formed companies typically require the share capita
 
 ### Step 1: Determine your account type and bank
 
-Before submitting any documents, identify the right bank for your profile. The best Swiss banks for foreigners differ depending on whether you are an individual non-resident, a freshly formed GmbH, or a high-net-worth investor. The short version: for corporate accounts, Valiant, Luzerner Kantonalbank (LUKB), Graubuendner Kantonalbank (GKB), and neobanks (Neon Business, Swiss21) are more accessible to foreign-owned companies than UBS or ZKB, which require established Swiss business activity.
+Before submitting any documents, identify the right bank for your profile. The best Swiss banks for foreigners differ depending on whether you are an individual non-resident, a freshly formed GmbH, or a high-net-worth investor. The short version: for corporate accounts, cantonal banks like Luzerner Kantonalbank (LUKB) and Graubuendner Kantonalbank (GKB) are more accessible to foreign-owned companies than UBS or ZKB. Digital options like Relio AG (CHF 249/month) offer fast onboarding through video verification, while neobanks (Neon Business, Swiss21) work for simple structures. UBS and ZKB require established Swiss business activity.
 
 ### Step 2: Prepare your documentation package
 
@@ -147,7 +147,7 @@ The bank's compliance team reviews your documentation, runs AML checks, and may 
 
 ### Step 5: Account activation and IBAN issuance
 
-Once approved, the bank issues account credentials and a CH-prefix IBAN. Corporate accounts become operational within 1 to 3 business days of approval. The total timeline from initial application to operational account is typically 4 to 8 weeks.
+Once approved, the bank issues account credentials and a CH-prefix IBAN. Corporate accounts become operational within 1 to 3 business days of approval. The total timeline from initial application to operational account is typically four to eight weeks, though banks have approved accounts in as little as one month when documentation was complete and the structure was straightforward.
 
 ---
 
@@ -155,7 +155,11 @@ Once approved, the bank issues account credentials and a CH-prefix IBAN. Corpora
 
 Opening a [corporate bank account in Switzerland](/banking/corporate-bank-account-switzerland/) is consistently described by foreign founders as the most difficult step in the entire [formation process](/company-formation/company-formation-switzerland/). This is not an exaggeration. Major banks, particularly UBS and ZKB, have significantly tightened their onboarding criteria for foreign-owned companies since 2020. Requirements include demonstrated Swiss business activity, an existing client relationship, or referral from a recognised professional services firm.
 
-**Why banks reject foreign companies:**
+**Why banks reject foreign companies — and why they reject them unpredictably:**
+
+PostFinance has rejected applications for reasons that would surprise most applicants. One company was flagged because the word "Tesla" appeared in its registered name — the bank demanded an explanation for why the name was chosen, and the additional compliance scrutiny led to refusal. Another company in the health sector was rejected without clear grounds. These are not edge cases; they illustrate how bank-level compliance decisions operate on internal risk models that applicants cannot see or predict.
+
+The most common structural rejection reasons:
 
 1. **Opaque ownership structures**: UBOs in multiple jurisdictions with complex holding layers
 2. **High-risk business activities**: crypto, gambling, adult content, arms, certain fintech categories
@@ -179,6 +183,7 @@ Arjun S., a tech entrepreneur from Bangalore, formed a GmbH in Zug in early 2024
 - **Wise** (formerly TransferWise): CHF accounts with a CH IBAN, available to non-residents, no minimum balance, no in-person visit required. Not a FINMA-licenced bank but an e-money institution. Deposits not covered by esisuisse.
 - **Revolut Business**: EUR and CHF accounts available to Swiss-registered companies, fully online onboarding, though subject to the same KYC requirements.
 - **Neon Business** and **Swiss21**: FINMA-regulated, online-only Swiss business banking for registered Swiss companies. Ideal for newly formed GmbHs needing a low-cost operating account.
+- **Relio AG** (Zurich): a digital banking provider at CHF 249/month, offering same-day onboarding after video verification through Intrum. Useful for foreign-owned companies that need a Swiss account quickly — but note that Relio explicitly rejects companies with US nexus at the UBO or shareholder level.
 - **Yapeal**: Swiss neobank with a Swiss IBAN, available online, but requires Swiss residency for personal accounts.
 
 Traditional banks (UBS, cantonal banks, PostFinance) all require either in-person verification or VideoIdent for non-residents. VideoIdent is available but limited: it is used for identity verification, not for the full KYC process, which still requires physical document submission.
@@ -193,8 +198,8 @@ The summary below covers the most relevant options for foreign individuals and c
 
 | Bank | Type | Foreign individuals | Foreign companies | Min. balance | Online opening |
 |------|------|---------------------|-------------------|--------------|----------------|
-| UBS | Universal | Yes (private banking) | Possible (high bar) | CHF 500K (private) | No |
-| PostFinance | Retail | EU/EEA residents | Limited | None | Partial |
+| UBS | Universal | Yes (private banking) | Possible (high bar) | CHF 500'000+ AUM for non-residents | No |
+| PostFinance | Retail | EU/EEA residents | Limited — frequent rejections | None | Partial |
 | Valiant | Cantonal | With Swiss address | Yes, accessible | CHF 0 | No |
 | LUKB | Cantonal | With Swiss address | Yes, accessible | CHF 0 | No |
 | Julius Baer | Private | Yes (CHF 500K+) | Yes | CHF 500K | No |
@@ -258,15 +263,15 @@ Yes, but with significant restrictions. Non-residents without Swiss residency or
 
 **How long does it take to open a Swiss bank account?**
 
-For corporate accounts with professional preparation, 4 to 8 weeks is the standard range. Simple personal accounts at neobanks can be operational within days. Capital deposit accounts for incorporation are typically opened within 1 to 2 weeks when introduced by a formation lawyer. The largest variable is the bank's compliance review period, which you cannot directly control.
+For corporate accounts with professional preparation, expect a minimum of one month from application to active account — and that is the optimistic end. Banks that approved the blocked capital deposit account convert roughly 80% of those into permanent accounts, but the compliance review alone can stretch to six or eight weeks. Neobank accounts can be operational within days. Capital deposit accounts are typically opened within one to two weeks when introduced by a formation lawyer. The largest variable is the bank's compliance review period, which you cannot directly control.
 
 **What is the minimum balance for a Swiss bank account?**
 
-For retail accounts at PostFinance and cantonal banks: no minimum, but inactivity fees may apply. For business accounts: no formal minimum, though the share capital (CHF 20'000 for GmbH) functions as the opening deposit during incorporation. For private banking: CHF 250'000 to 500'000 as a practical minimum.
+For retail accounts at PostFinance and cantonal banks: no minimum, but inactivity fees may apply. For business accounts: no formal minimum, though the share capital (CHF 20'000 for GmbH) functions as the opening deposit during incorporation. For private banking: CHF 500'000+ at UBS as a practical minimum for new non-resident clients, and CHF 4'000'000 to 6'000'000 at smaller private banks. For digital banking through a provider like Relio AG: CHF 249/month flat fee, no minimum deposit.
 
 **Do Swiss banks accept US citizens?**
 
-Some do, but the pool is limited due to FATCA reporting requirements. UBS Private Banking accepts US persons. Wise and Revolut accept US persons with lighter compliance friction. Most cantonal banks and retail banks decline US applicants. US persons must independently comply with FBAR and FATCA reporting regardless of which bank they use.
+Practically always rejected. Swiss banks treat US nexus at the UBO or shareholder level as grounds for refusal. Relio AG, a Zurich-based fintech bank, states explicitly that it is unable to onboard companies with US nexus at the UBO or shareholder level. UBS Private Banking may accept US persons with CHF 500'000+ under management, but the compliance overhead is substantial. In one case handled by our office, a US-owned Swiss company rejected by Relio was forced to operate through a UK parent company's Ebury account — creating serious compliance problems because Swiss regulators view using bank accounts of other legal entities as questionable. US persons must independently comply with FBAR and FATCA reporting regardless of which bank they use.
 
 **Why was my Swiss bank account application rejected?**
 

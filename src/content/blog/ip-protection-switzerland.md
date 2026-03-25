@@ -58,8 +58,8 @@ Switzerland offers strong intellectual property protection through a mature lega
 Patents protect technical inventions — new, non-obvious solutions to technical problems. A Swiss or European patent grants exclusive rights to make, use, sell, and import the patented invention in Switzerland for up to 20 years.
 
 **Key points for Swiss patents:**
-- Swiss national patents (IPI) are granted without full substantive examination of novelty — faster but less certain in validity
-- European patents (EPO) undergo full examination and have stronger presumed validity
+- Swiss national patents (IPI) are granted without full substantive examination of novelty — the IPI conducts a formal examination only, checking that the application meets procedural requirements. It does not assess whether the invention is genuinely novel or non-obvious. This means a Swiss national patent is faster and cheaper to obtain, but its validity is untested until challenged. If a competitor disputes the patent in court, the patentee bears the burden of proving novelty and inventive step at that point
+- European patents (EPO) undergo full substantive examination — novelty search, inventive step analysis, clarity review — and have materially stronger presumed validity as a result
 - Switzerland's IP box tax regime provides preferential tax rates on patent income — creating a strong incentive to formally register patents held by Swiss companies
 
 [Patent registration Switzerland](/intellectual-property/patent-registration-switzerland/)
@@ -138,6 +138,8 @@ Trade secret protection is indefinite — as long as the information remains act
 
 **Civil courts:** The Federal Patent Court (Bundespatentgericht) has exclusive first-instance jurisdiction over Swiss patent disputes. General commercial courts (cantonal) handle trademark, copyright, and design disputes.
 
+**Realistic enforcement costs.** Before committing to enforcement, understand the numbers. A formal cease-and-desist letter (Abmahnung) drafted by a Swiss IP lawyer typically costs CHF 1'500-3'500 including the analysis of the infringement and the correspondence. If the infringer does not comply and interim injunctive relief is required, court proceedings in Switzerland cost CHF 10'000-25'000 in legal fees for the application alone — excluding the costs of a full trial if the matter proceeds. Full patent litigation at the Federal Patent Court routinely exceeds CHF 100'000 in combined legal and expert costs. These figures should inform the decision of whether to enforce aggressively, negotiate a licence, or accept limited infringement where the commercial impact is marginal.
+
 **Remedies:** Injunctions (interim and permanent), damages (actual loss or profits made by infringer), publication of judgment.
 
 **Criminal sanctions:** Wilful trademark infringement, copyright infringement, and trade secret theft are criminal offences in Switzerland — punishable by imprisonment up to 3 years (trademark) or fines.
@@ -174,7 +176,7 @@ An EU trademark (EUTM) registered at the EUIPO protects the brand in all EU memb
 
 **What is the first step if someone infringes my Swiss patent?**
 
-Send a formal cease-and-desist letter (Abmahnung/mise en demeure) before filing court proceedings. This is not legally required but is standard practice and can resolve infringement without litigation.
+Send a formal cease-and-desist letter (Abmahnung/mise en demeure) before filing court proceedings. This is not legally required but is standard practice and can resolve infringement without litigation. Budget CHF 1'500-3'500 for a properly drafted cease-and-desist letter, and CHF 10'000-25'000 if you need to seek an interim injunction. The cost of doing nothing is often higher — but the cost of full litigation (CHF 100'000+) means settlement and licensing should always be explored first.
 
 **How long does Swiss trademark registration take?**
 

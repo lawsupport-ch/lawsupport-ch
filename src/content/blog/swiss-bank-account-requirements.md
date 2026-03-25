@@ -59,6 +59,8 @@ A written declaration of where the company's initial capital and ongoing operati
 **6. Business plan and description of activities**
 A detailed description of what the company does, its business model, target clients/markets, revenue projections, and expected transaction profile. Generic business plans trigger additional questions or rejection.
 
+PostFinance, for example, requires a specific set of documents beyond the standard KYC package: a business plan describing the company's activities and revenue model, CVs of all directors, copies of employment contracts for any employees, detailed transaction descriptions (what payments will flow through the account, from whom, and in what currencies), and documentary proof of the source of funds for the initial deposit and ongoing operations. Other banks require similar documentation but may not itemise it as explicitly upfront — they request it piecemeal during the review process, which can extend the timeline by weeks.
+
 **7. Ownership structure chart**
 A certified diagram showing the complete ownership chain from the bank account company up to the natural person(s) who are the ultimate beneficial owners.
 
@@ -77,7 +79,7 @@ Swiss bank minimum balances vary significantly by bank type and account type:
 | Bank Type | Personal Account Minimum | Corporate Account Minimum |
 |---|---|---|
 | Cantonal banks (ZKB, BCG etc.) | CHF 0 – 500 | None typically, but healthy initial deposit preferred |
-| UBS | CHF 0 (basic) | Varies; relationship-based |
+| UBS | CHF 0 (basic) | CHF 500'000+ AUM for new non-resident clients |
 | Private banks (Pictet, Julius Baer) | CHF 500'000 – 1'000'000 AUM | N/A (wealth management focus) |
 | Crypto banks (SEBA/AMINA, Sygnum) | None specified | None specified |
 | Fintech (Neon, Revolut Business) | None | None |
@@ -92,15 +94,21 @@ For **[private banking](/banking/private-banking-switzerland/)** at prestigious 
 
 Swiss banks reject approximately 20–30% of corporate account applications from foreign-owned companies without professional preparation. Common rejection reasons:
 
+**80% conversion signal.** One piece of practical intelligence worth knowing: if a bank approves your blocked capital deposit account during formation, approximately 80 percent of those relationships convert into permanent corporate accounts. The capital deposit stage functions as a de facto pre-screening — banks that accept your money for the formation deposit have already passed your profile through their initial compliance filter.
+
 **Unclear business model.** Banks want to understand the business in one sentence. A company whose purpose is "to engage in international trading activities of any kind" without further specificity is a red flag.
 
 **High-risk counterparty countries.** Transactions involving FATF grey-listed or sanctioned jurisdictions trigger enhanced due diligence or outright rejection. Iran, North Korea, Myanmar, Russia, Belarus — these are automatic red flags.
 
 **Opaque ownership structure.** Multi-layer ownership through BVI/Cayman/Seychelles entities without clear beneficial ownership identification at the top is a common rejection trigger, even for entirely legitimate structures.
 
+**Brand-sensitive company names.** PostFinance rejected a company application because the word "Tesla" appeared in the company's registered name. The bank demanded an explanation for why the name was chosen — a question most founders would not anticipate. Companies with names that reference well-known brands, even coincidentally, should expect additional scrutiny or outright refusal at compliance-sensitive institutions.
+
 **Cash-intensive business.** Banks are cautious about businesses involving significant cash flows — retail, hospitality, certain service businesses. These require extra documentation.
 
 **Cryptocurrency activities without specialist bank.** Applying for a corporate account at a cantonal bank for a crypto business will almost certainly result in rejection. The appropriate institutions are SEBA/AMINA Bank or Sygnum. See our [corporate bank account guide](/banking/corporate-bank-account-switzerland/) for details.
+
+**AML and WorldCheck flags.** All directors and beneficial owners are screened through compliance databases — most commonly Refinitiv WorldCheck — before any account is opened. Adverse media, historical legal proceedings, sanctions exposure, or connections to politically exposed persons can trigger automatic rejection. Banks do not share WorldCheck results with applicants, and there is no appeal process for a compliance-driven refusal.
 
 **Incomplete documentation.** Submitting without all required documents results in delays at best and rejection at worst. Banks do not hold applications open indefinitely.
 

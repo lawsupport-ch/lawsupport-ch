@@ -167,6 +167,12 @@ The company engages Lawsupport as fiscal representative. The registration applic
 
 Failure to register would have exposed the company to retroactive VAT assessments, interest charges, and potential penalties — all payable in addition to the VAT that should have been collected from customers but was not.
 
+### The Worldwide Turnover Trap: Engage Anywhere Switzerland AG
+
+A US-based employer-of-record company set up Engage Anywhere Switzerland AG to employ three staff in Switzerland on behalf of US clients. The founders assumed the CHF 100,000 threshold applied only to Swiss revenue. It does not. The threshold captures **worldwide turnover from taxable supplies** — meaning the US parent's global revenue counted toward the Swiss registration trigger. With worldwide revenue well above CHF 100,000, VAT registration was mandatory from day one of Swiss operations.
+
+This case compounded quickly. The company had already been rejected by Relio (the Swiss fintech bank) due to US nexus at the UBO level, and was forced to route Swiss payments through the UK parent's Ebury account — which itself created serious compliance questions. Adding a missed VAT registration obligation on top of existing banking and SECO licensing problems created a regulatory situation that took months to untangle. The practical lesson: worldwide turnover means worldwide. A company generating CHF 2 million in New York and CHF 50,000 in Zurich still exceeds the threshold.
+
 ---
 
 ## VAT Return Filing: Frequency and Deadlines
@@ -179,7 +185,9 @@ Once registered, you must file VAT returns according to one of three periods:
 | **Semester** | Available on request; smaller operations | 60 days after half-year end |
 | **Annual** | Available for very small registrants; requires ESTV approval | 60 days after year end |
 
-Quarterly filing is the standard. Returns are submitted via the SuisseTax portal. Payment is due at the same time as the return. Late payment attracts default interest at the applicable ESTV rate.
+Quarterly filing is the standard and applies by default to most registrants. Returns are submitted via the SuisseTax portal. Payment is due at the same time as the return — 60 days after the quarter end. Late payment attracts default interest at 4.75% per annum (current ESTV rate).
+
+In practice, quarterly VAT filing is where many newly registered foreign companies first encounter real Swiss compliance friction. The return requires reconciliation of all output VAT charged and input VAT incurred during the quarter. Companies without Swiss-based accounting support often miss deadlines, triggering CHF 200-800 fines per late return. Coordinating VAT filing with your ongoing [accounting](/tax-accounting/accounting-switzerland/) from the outset — rather than treating it as a year-end exercise — prevents this entirely.
 
 The ESTV operates on a **self-assessment** basis: you calculate your own VAT liability, report it, and pay it. This places the compliance burden squarely on the registered entity — errors discovered by the ESTV during audits are treated as evasion, not honest mistakes, unless the company can demonstrate good-faith compliance efforts. Coordination with your [accounting provider](/tax-accounting/accounting-switzerland/) is essential for accurate quarterly filings.
 

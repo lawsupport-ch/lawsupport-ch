@@ -79,6 +79,17 @@ The AG is preferred for the following concrete reasons:
 
 The canton of Zug offers the lowest combined (federal + cantonal + municipal) ordinary corporate income tax rate in Switzerland: approximately **11.9%** on pre-exempt income as of 2026. More importantly for holding companies, the participation exemption reduces the effective rate on qualifying dividend and capital-gain income toward zero. Zug also offers fast Commercial Register processing, an established professional services ecosystem, and a stable business-oriented cantonal government with no history of punitive retroactive tax changes.
 
+**Verified cantonal corporate tax rates (2026):**
+
+| Canton | Combined CIT Rate |
+|---|---|
+| Zug | ~11.85% |
+| Basel-Stadt | 13% |
+| Basel-Land | 17% |
+| Zurich | ~20% |
+
+For a pure holding company, the cantonal rate matters less than you might expect — the participation exemption reduces the effective rate to near zero regardless of canton. Where the canton choice becomes material is for mixed holdings with operational income, treasury functions, or IP licensing, where the non-exempt portion is taxed at the ordinary cantonal rate. In those cases, the gap between Zug (11.85%) and Zurich (20%) is the difference between a competitive structure and an expensive one.
+
 For a deeper analysis of Zug as a formation jurisdiction, see our dedicated guide on [company formation in Zug](/company-formation/company-formation-zug/).
 
 ---
@@ -235,7 +246,22 @@ Forming a Swiss AG is a structured but efficient process. The key steps are:
 5. **Commercial register filing** — the notary submits the application to the cantonal [commercial register](/company-formation/commercial-register-switzerland/). In Zug, registration typically completes within **5–7 business days**.
 6. **Post-formation steps** — share register establishment, bank account conversion from capital deposit to operational account, tax registration, and statutory auditor appointment if required.
 
-**Total timeline from engagement to registered company: typically 3–6 weeks**, with bank account opening being the variable. For detailed steps and cost breakdown, see our full guide on [AG formation in Switzerland](/company-formation/ag-formation-switzerland/).
+**Total timeline from engagement to registered company: typically 3 to 6 weeks**, with bank account opening being the variable.
+
+**Real cost breakdown for a holding AG formation (2026):**
+
+| Component | Cost (CHF) |
+|---|---|
+| AG registration (incl. notary) | 2,500 |
+| Registered address in Zug (annual) | 2,400 |
+| Nominee director (annual) | 5,900 |
+| Accounting - dormant company (annual) | 1,400 |
+| Share capital (minimum paid-in) | 50,000 (out of 100,000 total) |
+| **First-year cost (excl. share capital)** | **~12,200** |
+
+For an active holding with transactions: accounting packages up to 100 transactions cost CHF 3,800/year (overage billed at CHF 150/hour). Legal advisory for structuring: CHF 350/hour.
+
+For detailed steps and cost breakdown, see our full guide on [AG formation in Switzerland](/company-formation/ag-formation-switzerland/).
 
 Regarding directors: Swiss law does not require Swiss-national directors, but at least one director must be authorised to represent the company and resident in Switzerland (Art. 718 CO). We can advise on compliant [nominee director arrangements](/corporate-services/nominee-director-switzerland/) where required.
 

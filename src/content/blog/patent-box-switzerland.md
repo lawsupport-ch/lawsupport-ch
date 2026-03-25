@@ -53,7 +53,7 @@ The Patent Box (also called the IP Box) is a preferential cantonal tax regime fo
 
 The legal basis at the federal level came into effect on 1 January 2020. All cantons have since implemented the regime, though implementation details vary by canton.
 
-The key principle: qualifying net IP income is taxed at a substantially reduced effective rate, rather than the standard [corporate income tax](/tax-accounting/corporate-tax-switzerland/) rate. In a canton like Zug, this can bring the effective tax rate on IP income well below 5%, compared to the ordinary effective rate of approximately 11.8%.
+The key principle: qualifying net IP income is taxed at a substantially reduced effective rate, rather than the standard [corporate income tax](/tax-accounting/corporate-tax-switzerland/) rate. In a canton like Zug, this can bring the effective tax rate on IP income well below 5%, compared to the ordinary effective rate of approximately 11.85%. For comparison, Zurich's ordinary rate sits around 20%, and Basel-Land at 17% -- the cantonal choice matters enormously for IP-intensive businesses.
 
 This is not a deferral mechanism. It is a permanent reduction in tax on qualifying IP income, every year, so long as your IP and expenditure structure meets the qualifying criteria.
 
@@ -119,7 +119,7 @@ Now apply the cantonal reduction:
 - Effective cantonal + communal rate in Zug: approx. 11.8%
 - Tax on qualifying income: approx. CHF 23,600 instead of CHF 236,000
 
-That is a saving of approximately **CHF 212,400 per year** on qualifying income of CHF 2,000,000 -- in Zug alone, and before considering the federal corporate tax (which does not benefit from the IP Box, but remains fixed at 8.5% on profit before tax).
+That is a saving of approximately **CHF 212,400 per year** on qualifying income of CHF 2,000,000 -- in Zug alone, and before considering the federal corporate tax (which does not benefit from the IP Box, but remains fixed at 8.5% on profit before tax). The same company domiciled in Zurich (ordinary rate ~20%) would save considerably more in absolute terms through the Patent Box, but would still pay more total tax than in Zug. Canton selection and Patent Box application are not independent decisions -- they must be planned together. The same company domiciled in Zurich (ordinary rate ~20%) would save considerably more in absolute terms through the Patent Box, but would still pay more total tax than in Zug. Canton selection and Patent Box application are not independent decisions -- they must be planned together.
 
 If the nexus ratio were lower -- say 60% because 40% of R&D was outsourced to a related parent -- then only CHF 1,200,000 would qualify, and the saving would be proportionately reduced.
 
@@ -131,11 +131,11 @@ All Swiss cantons implement the IP Box, but the ordinary corporate tax rates and
 
 | Canton | Ordinary Effective Rate (approx.) | Max IP Box Reduction | Effective Rate on Qualifying IP Income (approx.) |
 |---|---|---|---|
-| Zug | 11.8% | 90% | ~1.2%-2.5% |
+| Zug | ~11.85% | 90% | ~1.2%-2.5% |
 | Nidwalden | 12.0% | 90% | ~1.2%-2.6% |
 | Lucerne | 12.3% | 90% | ~1.2%-2.7% |
 | Schwyz | 12.5% | 90% | ~1.3%-2.8% |
-| Basel-City | 13.0% | 90% | ~1.3%-3.0% |
+| Basel-Stadt | 13% | 90% | ~1.3%-3.0% |
 | Zurich | 19.7% | 90% | ~2.0%-5.0% |
 | Geneva | 14.0% | 90% | ~1.4%-3.5% |
 | Vaud | 14.0% | 90% | ~1.4%-3.5% |

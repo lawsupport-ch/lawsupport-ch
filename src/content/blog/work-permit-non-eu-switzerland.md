@@ -194,6 +194,18 @@ The practical implication: non-EU work permit applications require serious prepa
 
 The candidates who succeed are genuinely highly qualified, in roles that are genuinely hard to fill locally, with employers who have done the documentation work properly. That is a real filter, and it is applied consistently.
 
+### What the B2 Permit Process Actually Looks Like
+
+The B2 permit (residence permit for gainful employment by non-EU nationals) requires more than filling out forms. The employer must prepare an **explanation letter** articulating specifically why no Swiss or EU candidate can fill the role. This letter is scrutinised by the cantonal migration office and must address the technical requirements of the position, the recruitment efforts already undertaken, and why the specific non-EU candidate possesses qualifications that are not available in the domestic or EU labour market.
+
+Legal support for the permit process typically starts with a **CHF 3,500 retainer** for residence permit support, covering preparation of the explanation letter, coordination with the cantonal authority, and management of follow-up queries. Hourly rates for permit-related legal work range from CHF 150 to CHF 450 depending on complexity.
+
+### When the Permit Succeeds but the Bank Does Not: Aquavit Pharmaceuticals
+
+Receiving a work permit does not resolve every administrative dependency. Aquavit Pharmaceuticals — a pharmaceutical company with a non-EU founder — obtained the necessary permits and registered with the Commercial Register. The next step was opening a corporate bank account at PostFinance. PostFinance rejected the application. The rejection had nothing to do with the founder's immigration status and everything to do with PostFinance's own compliance criteria: insufficient documentation of the business model's revenue source, the high-risk profile of the pharmaceutical sector from a banking compliance perspective, and concerns about the company's operational substance.
+
+This pattern repeats across our practice: the work permit, the company registration, and the bank account are three separate approval processes governed by three separate institutions with three separate risk appetites. Succeeding at one does not guarantee success at the next. Companies relocating non-EU founders to Switzerland should plan for the banking step as a distinct workstream with its own timeline and documentation requirements — not as a formality that follows the permit.
+
 ---
 
 ## Frequently Asked Questions

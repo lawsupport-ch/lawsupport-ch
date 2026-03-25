@@ -12,7 +12,7 @@ faqItems:
   - question: "Does the nominee director have personal liability?"
     answer: "Yes. A Swiss nominee director has director liability under Art. 754 OR (AG) and Art. 827 OR (GmbH). Proper nominee agreements include indemnification provisions and reputable nominees carry professional indemnity insurance."
   - question: "What does a nominee director cost in Switzerland?"
-    answer: "Annual fees typically range from CHF 3,000 to CHF 12,000, depending on complexity, transaction volume, and administrative involvement. Lawsupport provides a fixed annual fee based on initial assessment."
+    answer: "The standard fee is CHF 5,900 per year. Premium mandates cost CHF 7,400 per year. A six-month interim arrangement is CHF 4,500. Signing permits, banking documents, and filings are billed separately at CHF 350 per hour."
   - question: "What is the difference between a nominee director and a nominee shareholder?"
     answer: "A nominee director sits on the board and holds signatory authority. A nominee shareholder holds shares on behalf of the true owner. These are separate arrangements with different legal implications."
   - question: "Do I need a nominee director for a branch office?"
@@ -58,6 +58,8 @@ A nominee director is a Swiss-resident individual who:
 - Acts strictly under the instructions of the beneficial owner
 - Does not exercise independent management of the company
 
+The annual fee (typically CHF 5'900 standard, CHF 7'400 premium) covers the directorship itself. Work beyond the core mandate -- signing work permits, attending bank meetings, executing powers of attorney, coordinating with auditors -- is billed at CHF 350 per hour. A company with active operations should budget for these additional costs from the outset
+
 **The underlying arrangement:** The nominee director and the beneficial owner enter into a nominee director agreement specifying that the nominee acts only on instructions, that all company decisions remain with the owner, and that the nominee's duties are administrative rather than managerial.
 
 **Disclosure:** Swiss law (AMLA and the company's bank's KYC) requires that the **beneficial owner** (Wirtschaftlich Berechtigter) of the company be identified and documented. The existence of a nominee director does not make the owner anonymous -- the owner is fully identified in the internal records of the nominee and in the bank's KYC file (Form A). What the nominee arrangement does is keep the owner's name out of the public Commercial Register while meeting the Swiss legal requirement for a Swiss-resident signatory.
@@ -70,7 +72,7 @@ A nominee director is a Swiss-resident individual who:
 
 Every Swiss company must have a registered address (Domizil) in Switzerland -- a physical address in the canton of registration that appears in the Commercial Register. This does not need to be operational office space.
 
-Lawsupport provides registered address services at Grafenauweg 4, Zug -- the company's mail is received and forwarded; the Zug address appears in the Commercial Register.
+Lawsupport provides registered address services at Grafenauweg 4, Zug -- the company's mail is received and forwarded; the Zug address appears in the Commercial Register. The registered address in Zug is CHF 2'400 per year; a Zurich address costs CHF 3'000 per year. The registered address in Zug is CHF 2'400 per year; a Zurich address costs CHF 3'000 per year.
 
 **What a registered address is not:** A registered address is not an operational office. If the company employs staff, has client meetings, or stores inventory in Switzerland, it needs separate commercial premises. A registered address is only for the legal domicile requirement.
 
@@ -113,7 +115,7 @@ Yes -- if you are resident in Switzerland. The nominee arrangement is specifical
 
 **What does a nominee director cost in Switzerland?**
 
-Annual fees for a nominee director service typically range from CHF 3'000 to CHF 12'000, depending on the complexity of the company's operations, the number of transactions requiring director signature, and the level of ongoing administrative involvement. Lawsupport provides a fixed annual fee based on an initial assessment of the company's needs.
+The standard nominee director fee is **CHF 5'900 per year**. A premium tier (CHF 7'400/year) applies where the director is expected to handle more frequent signing, attend regulatory meetings, or coordinate with multiple service providers. A six-month interim arrangement costs CHF 4'500. These fees cover the core directorship -- Commercial Register listing, signatory authority, and routine corporate document execution. They do **not** include signing work permits, banking documentation, or filings with cantonal authorities, which are billed at CHF 350 per hour. Founders who assume the annual fee is all-inclusive regularly face billing surprises in the first year when bank onboarding, permit applications, and notarial matters generate additional hours.
 
 **Can the nominee director open a bank account for the company?**
 

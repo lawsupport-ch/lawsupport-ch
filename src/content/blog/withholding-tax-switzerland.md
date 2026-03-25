@@ -119,10 +119,20 @@ For Swiss-source bank interest received by Swiss residents, the bank withholds 3
 
 ## Practical Planning Points
 
+### The 35% Cash Flow Trap
+
+The most common planning failure we see is straightforward: a Swiss company distributes a dividend to a foreign shareholder, withholds 35%, and the shareholder assumes the treaty refund will arrive within a few weeks. It does not. The ESTV typically processes refund applications within **6 to 18 months**. For a CHF 500,000 dividend to a German corporate shareholder (entitled to 5% treaty rate), that means CHF 150,000 (the difference between 35% and 5%) is locked at the ESTV for 12 months or more. This is not interest-bearing capital — it is dead money.
+
+For companies making annual distributions, this cash flow drag is cumulative. The first year's refund arrives after the second year's withholding has already been paid. Planning the distribution calendar around this reality — rather than discovering it after the first payment — is a basic structuring discipline.
+
 **For newly formed Swiss holding structures:**
 - Ensure the treaty entitlement of the ultimate shareholder is established before the first dividend distribution
-- Apply for the reduced withholding rate in advance where the treaty allows a "relief at source" procedure (available under some treaties, avoiding the need to withhold and reclaim)
-- Document beneficial ownership — anti-treaty shopping rules require the actual recipient to be the beneficial owner
+- Apply for the reduced withholding rate in advance where the treaty allows a "relief at source" procedure (available under some treaties, avoiding the need to withhold and reclaim at 35%)
+- Document beneficial ownership meticulously — anti-treaty shopping rules require the actual recipient to be the beneficial owner, and the ESTV scrutinises claims from holding structures in low-tax jurisdictions
+
+### US Person Complications
+
+US persons (citizens, green card holders, and US tax residents) face a particularly hostile withholding tax environment in Switzerland. Swiss banks already reject most US-nexus clients at the account opening stage — Relio explicitly states it is "unable to onboard companies with US nexus at UBO/shareholders level." Even where a US person successfully receives Swiss dividends, the interaction between US worldwide taxation (including FATCA reporting obligations), the Switzerland-US treaty rate (5% for qualifying corporate holders, 15% for others), and the IRS foreign tax credit mechanics creates a compliance burden that requires parallel US tax counsel. The practical effect: US persons owning Swiss companies should budget for both Swiss and US tax advisory on every distribution, and should factor the 6-18 month ESTV refund timeline into their personal tax planning.
 
 **For crypto distributions:**
 - Token distributions that constitute income may be subject to withholding under certain interpretations depending on FINMA's token classification — this requires specific advice
@@ -139,7 +149,9 @@ Foreign shareholders claiming refunds under a double tax treaty use:
 - Filed with the ESTV in Bern (not the cantonal authority — withholding tax is federal)
 - Deadline: 3 years from the end of the calendar year in which the dividend was paid
 
-Required documentation: proof of shareholding at the time of dividend, proof of residence in the treaty country, confirmation of beneficial ownership, and the Swiss company's confirmation of the withholding deducted.
+Required documentation: proof of shareholding at the time of dividend, proof of residence in the treaty country, confirmation of beneficial ownership, and the Swiss company's confirmation of the withholding deducted (Form R-VS 010e or equivalent).
+
+**Practical reality:** The 3-year deadline sounds generous, but the ESTV's 6-18 month processing time means applications should be filed promptly after the dividend payment. Shareholders who wait until year two to file their year-one refund application may find themselves juggling two years of outstanding refunds simultaneously — with material capital tied up at the ESTV throughout. Companies with foreign shareholders should build a refund filing calendar into their annual compliance cycle, not treat it as an afterthought.
 
 ---
 
