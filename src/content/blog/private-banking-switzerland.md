@@ -42,6 +42,13 @@ tocItems:
     title: "Switzerland After the Credit Suisse Collapse"
   - id: "choosing-between-a-universal-bank-and-an-independent-private"
     title: "Choosing Between a Universal Bank and an Independent Private Bank"
+relatedArticles:
+  - title: "Top Private Banks in Switzerland (2026)"
+    href: "/banking/top-private-banks-switzerland/"
+  - title: "Best Swiss Banks for Foreigners: Business Guide"
+    href: "/banking/best-swiss-banks-foreigners/"
+  - title: "Swiss Bank Interest Rates: Savings & Deposits (2026)"
+    href: "/banking/swiss-bank-account-interest-rates/"
 ---
 
 

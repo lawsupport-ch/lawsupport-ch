@@ -55,6 +55,13 @@ tocItems:
     title: "Common Mistakes in AG Formation Switzerland"
   - id: "ready-to-form-your-swiss-ag"
     title: "Ready to Form Your Swiss AG?"
+relatedArticles:
+  - title: "GmbH Formation Switzerland: Complete Guide (2026)"
+    href: "/company-formation/gmbh-formation-switzerland/"
+  - title: "Company Formation Switzerland: Complete Guide (2026)"
+    href: "/company-formation/company-formation-switzerland/"
+  - title: "Swiss Holding Company: Tax Benefits & Setup"
+    href: "/company-formation/holding-company-switzerland/"
 ---
 
 

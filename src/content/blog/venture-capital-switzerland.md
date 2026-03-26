@@ -46,6 +46,13 @@ tocItems:
     title: "Legal Documents in a Swiss VC Round"
   - id: "structure-your-swiss-vc-round-correctly"
     title: "Structure Your Swiss VC Round Correctly"
+relatedArticles:
+  - title: "Due Diligence Switzerland: Process & Risks (2026)"
+    href: "/corporate-transactions/due-diligence-switzerland/"
+  - title: "Buy a Company in Switzerland: Process & Legal Guide"
+    href: "/corporate-transactions/buy-company-switzerland/"
+  - title: "M&A Switzerland: Legal Process & Key Steps (2026)"
+    href: "/corporate-transactions/mergers-acquisitions-switzerland/"
 ---
 
 

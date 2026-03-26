@@ -50,6 +50,13 @@ tocItems:
     title: "8. Record-Keeping Obligations"
   - id: "9-payroll-cycle"
     title: "9. Payroll Cycle"
+relatedArticles:
+  - title: "Swiss Social Insurance: AHV, IV, BVG Contributions"
+    href: "/tax-accounting/social-insurance-switzerland/"
+  - title: "Employer Registration Switzerland: AHV & VAT (2026)"
+    href: "/tax-accounting/employer-registration-switzerland/"
+  - title: "Bookkeeping Switzerland: Rules & Requirements (2026)"
+    href: "/tax-accounting/bookkeeping-switzerland/"
 ---
 
 

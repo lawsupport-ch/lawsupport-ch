@@ -48,6 +48,13 @@ tocItems:
     title: "How ZEFIX Supports Company Formation"
   - id: "request-a-free-assessment"
     title: "Request a Free Assessment"
+relatedArticles:
+  - title: "Swiss Commercial Register: What It Is & How to File"
+    href: "/company-formation/commercial-register-switzerland/"
+  - title: "Commercial Register Switzerland: Cantonal Offices (2026)"
+    href: "/company-formation/commercial-register-cantons/"
+  - title: "Company Formation Switzerland: Complete Guide (2026)"
+    href: "/company-formation/company-formation-switzerland/"
 ---
 
 

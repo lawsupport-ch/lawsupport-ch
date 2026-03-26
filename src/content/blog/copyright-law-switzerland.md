@@ -63,6 +63,13 @@ faqItems:
     answer: "Yes. Since the 2020 reform, all photographs are protected regardless of whether they have individual character. This reversed the previous requirement that only photographs with artistic originality qualified. Protection lasts 50 years from creation. This means even simple product photos and snapshots now attract copyright protection."
   - question: "What remedies are available for copyright infringement in Switzerland?"
     answer: "Civil remedies include injunctions (interim and permanent), damages (actual loss or disgorgement of profits), and destruction of infringing copies. Criminal sanctions apply for wilful infringement and can include fines up to CHF 100,000 or imprisonment. The copyright holder can pursue civil and criminal proceedings simultaneously."
+relatedArticles:
+  - title: "IP Protection Switzerland: Patents & Trademarks (2026)"
+    href: "/intellectual-property/ip-protection-switzerland/"
+  - title: "IGE / IPI Switzerland: IP Office Guide (2026)"
+    href: "/intellectual-property/ige-ipi-switzerland/"
+  - title: "Domain Dispute Switzerland: .ch & WIPO (2026)"
+    href: "/intellectual-property/domain-dispute-switzerland/"
 ---
 
 

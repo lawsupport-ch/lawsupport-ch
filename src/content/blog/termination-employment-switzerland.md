@@ -46,6 +46,13 @@ tocItems:
     title: "Practical Considerations for Employers"
   - id: "need-advice-on-employment-termination-request-a-free-assessm"
     title: "Need Advice on Employment Termination? Request a Free Assessment"
+relatedArticles:
+  - title: "Employment Law Switzerland: Employer's Complete Guide (2026)"
+    href: "/employment-law/employment-law-switzerland/"
+  - title: "Employment Contract Switzerland: Key Clauses (2026)"
+    href: "/employment-law/employment-contract-switzerland/"
+  - title: "Working Hours Switzerland: Limits & Overtime Rules"
+    href: "/employment-law/working-hours-switzerland/"
 ---
 
 

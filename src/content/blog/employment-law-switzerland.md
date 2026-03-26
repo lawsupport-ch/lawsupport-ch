@@ -59,6 +59,13 @@ faqItems:
     answer: "There is no federal minimum wage. Some cantons have introduced cantonal minimum wages: Geneva (CHF 24.32/hour), Neuchatel (CHF 21.09/hour), Jura (CHF 21.00/hour), Basel-Stadt (CHF 21.00/hour), and Ticino (variable). Some GAVs also set industry-specific minimum wages. In cantons without a minimum wage, the market sets rates."
   - question: "What happens if I misclassify a contractor as self-employed?"
     answer: "AHV compensation offices can reclassify the relationship as employment and demand retroactive employer contributions for up to five years, plus 5% interest per annum. The reclassified 'employee' gains entitlement to holiday pay, notice periods, accident insurance, and BVG pension contributions. Total retroactive exposure for a single misclassified contractor earning CHF 150'000 can reach CHF 60'000-80'000."
+relatedArticles:
+  - title: "Employment Contract Switzerland: Key Clauses (2026)"
+    href: "/employment-law/employment-contract-switzerland/"
+  - title: "Employment Termination Switzerland: Notice & Rights"
+    href: "/employment-law/termination-employment-switzerland/"
+  - title: "Working Hours Switzerland: Limits & Overtime Rules"
+    href: "/employment-law/working-hours-switzerland/"
 ---
 
 

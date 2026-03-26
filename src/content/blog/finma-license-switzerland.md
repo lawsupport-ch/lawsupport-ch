@@ -47,6 +47,13 @@ faqItems:
     answer: "FINMA uses three categories: payment tokens (cryptocurrencies — subject to AML rules), utility tokens (access to a service — may not require licensing if no investment element), and asset tokens (securities — subject to securities regulation). Hybrid tokens are classified based on their predominant function. FINMA published its ICO guidelines in 2018, updated for DLT in 2021."
   - question: "What ongoing compliance costs should I budget for after obtaining a FINMA licence?"
     answer: "Annual FINMA supervisory fees range from CHF 5'000 (SRO members) to CHF 500'000+ (banks). Mandatory external audit costs CHF 30'000-200'000 per year depending on licence type. Compliance staff (Head of Compliance, AML officer) cost CHF 150'000-250'000 each in salary. Total annual compliance overhead for a small licensed entity is CHF 300'000-600'000."
+relatedArticles:
+  - title: "FINMA Licensing Switzerland: Crypto & Banking (2026)"
+    href: "/licensing/finma-licensing-switzerland/"
+  - title: "Swiss Banking Licence: FINMA Requirements (2026)"
+    href: "/licensing/banking-license-switzerland/"
+  - title: "Asset Management License Switzerland: FINMA Guide"
+    href: "/licensing/asset-management-license-switzerland/"
 ---
 
 

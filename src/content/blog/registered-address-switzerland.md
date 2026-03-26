@@ -48,6 +48,13 @@ tocItems:
     title: "Combining with Nominee Director"
   - id: "setting-up-the-process"
     title: "Setting Up: The Process"
+relatedArticles:
+  - title: "Virtual Office Switzerland: Zug Business Address"
+    href: "/corporate-services/virtual-office-switzerland/"
+  - title: "Nominee Director Switzerland: Services & Costs (2026)"
+    href: "/corporate-services/nominee-director-switzerland/"
+  - title: "Betreibungsamt Switzerland: Offices by Canton"
+    href: "/corporate-services/betreibungsamt-cantons/"
 ---
 
 

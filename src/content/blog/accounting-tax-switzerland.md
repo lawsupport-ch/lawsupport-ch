@@ -61,6 +61,13 @@ faqItems:
     answer: "Swiss withholding tax on dividends is 35%. For qualifying participations (10%+ shareholding), the participation exemption substantially reduces or eliminates this at the corporate level. Treaty rates for foreign shareholders typically range from 5-15%."
   - question: "Can we keep our accounts in a foreign currency?"
     answer: "Yes, if the company's primary operations are in a foreign currency. However, a Swiss franc balance sheet must be presented for statutory and tax filing purposes. Translation uses year-end rates for balance sheet items and average rates for the income statement."
+relatedArticles:
+  - title: "Swiss Accounting Requirements: OR, GAAP FER & Audit"
+    href: "/tax-accounting/accounting-switzerland/"
+  - title: "Corporate Tax Switzerland: Rates, Cantons & Planning (2026)"
+    href: "/tax-accounting/corporate-tax-switzerland/"
+  - title: "Tax Advisory Switzerland: Corporate Planning"
+    href: "/tax-accounting/tax-advisory-switzerland/"
 ---
 
 

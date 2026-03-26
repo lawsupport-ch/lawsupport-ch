@@ -47,6 +47,13 @@ faqItems:
     answer: "In a merger by absorption (Fusion durch Absorption), Company A absorbs Company B, and B ceases to exist. In a merger by combination (Fusion durch Kombination), both A and B dissolve, and a new Company C is formed to receive all assets and liabilities. Absorption is far more common in practice because it avoids creating a new entity."
   - question: "Can a sole proprietorship be converted into a GmbH under the FusG?"
     answer: "Yes. A sole proprietorship meeting the threshold criteria can convert to a GmbH under Art. 54-68 FusG, benefiting from universal succession. The sole proprietor must meet the GmbH minimum capital requirement of CHF 20,000. The conversion preserves all existing contracts and employment relationships by operation of law."
+relatedArticles:
+  - title: "M&A Switzerland: Legal Process & Key Steps (2026)"
+    href: "/corporate-transactions/mergers-acquisitions-switzerland/"
+  - title: "Buy a Company in Switzerland: Process & Legal Guide"
+    href: "/corporate-transactions/buy-company-switzerland/"
+  - title: "Due Diligence Switzerland: Process & Risks (2026)"
+    href: "/corporate-transactions/due-diligence-switzerland/"
 ---
 
 

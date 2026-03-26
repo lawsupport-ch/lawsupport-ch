@@ -51,6 +51,13 @@ faqItems:
     answer: "Yes. Swiss banking law does not require the bank to be in the same canton as the company's registered seat. Many Zug-registered companies maintain their primary banking relationship with UBS, ZKB, or Credit Suisse in Zurich. The company's registered address and Commercial Register entry remain in Zug."
   - question: "What is the hybrid Zug-Zurich structure and is it legal?"
     answer: "Registering the company in Zug for the lower tax rate while maintaining an operational office and employees in Zurich is entirely legal and common. The company's statutory seat, registered address, and tax domicile are in Zug. The Zurich office is a branch or operational location. This structure saves roughly CHF 39,000 per year on CHF 500,000 profit."
+relatedArticles:
+  - title: "Company Formation Zug: Tax-Efficient Canton (2026)"
+    href: "/company-formation/company-formation-zug/"
+  - title: "Company Formation Switzerland: Complete Guide (2026)"
+    href: "/company-formation/company-formation-switzerland/"
+  - title: "How to Start a Business in Switzerland: Full Guide (2026)"
+    href: "/company-formation/start-business-switzerland/"
 ---
 
 

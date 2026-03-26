@@ -46,6 +46,13 @@ tocItems:
     title: "Transfer Pricing in Practice: Common Audit Triggers"
   - id: "protect-your-groups-swiss-tax-position"
     title: "Protect Your Group's Swiss Tax Position"
+relatedArticles:
+  - title: "Swiss Tax Structuring: Holding, IP & Trading (2026)"
+    href: "/tax-accounting/international-tax-structuring-switzerland/"
+  - title: "Double Tax Treaties Switzerland: Key Rates (2026)"
+    href: "/tax-accounting/double-tax-treaties-switzerland/"
+  - title: "Corporate Tax Switzerland: Rates, Cantons & Planning (2026)"
+    href: "/tax-accounting/corporate-tax-switzerland/"
 ---
 
 

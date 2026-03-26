@@ -45,6 +45,13 @@ faqItems:
     answer: "Article 718 CO requires at least one person authorised to represent the company to be resident in Switzerland. This applies to both AG and GmbH. The person must have individual signatory authority and a registered Swiss address. A nominee director service satisfies this requirement for founders who do not live in Switzerland."
   - question: "How quickly can a shelf company (Mantelgesellschaft) be transferred?"
     answer: "The share transfer itself takes 1–2 days. However, modifications to the company name, board composition, and business purpose require Commercial Register filings that take a minimum of 2 weeks. Since 2025, changes must be filed in two stages — first the name and board, then the business activity — adding approximately CHF 1,700 in extra fees."
+relatedArticles:
+  - title: "AG Formation Switzerland: Aktiengesellschaft Guide"
+    href: "/company-formation/ag-formation-switzerland/"
+  - title: "GmbH Formation Switzerland: Complete Guide (2026)"
+    href: "/company-formation/gmbh-formation-switzerland/"
+  - title: "How to Start a Business in Switzerland: Full Guide (2026)"
+    href: "/company-formation/start-business-switzerland/"
 ---
 
 

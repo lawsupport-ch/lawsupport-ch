@@ -42,6 +42,13 @@ tocItems:
     title: "Real-World Scenario: Singapore Resident Wants a Swiss Bank Account"
   - id: "practical-guidance-steps-to-take"
     title: "Practical Guidance: Steps to Take"
+relatedArticles:
+  - title: "Swiss Bank Account: Guide for Foreigners (2026)"
+    href: "/banking/swiss-bank-account/"
+  - title: "Swiss Bank Account Requirements & Minimum Balance (2026)"
+    href: "/banking/swiss-bank-account-requirements/"
+  - title: "How to Open a Swiss Bank Account from the US in 2026"
+    href: "/banking/open-swiss-bank-account-us/"
 ---
 
 

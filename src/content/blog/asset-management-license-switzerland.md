@@ -45,6 +45,13 @@ tocItems:
     title: "Practical Considerations for 2026"
   - id: "request-a-free-assessment"
     title: "Request a Free Assessment"
+relatedArticles:
+  - title: "FINMA Licensing Switzerland: Crypto & Banking (2026)"
+    href: "/licensing/finma-licensing-switzerland/"
+  - title: "Swiss Banking Licence: FINMA Requirements (2026)"
+    href: "/licensing/banking-license-switzerland/"
+  - title: "Swiss FinSA (FIDLEG): Obligations for 2026"
+    href: "/licensing/finsa-switzerland/"
 ---
 
 <!-- SCHEMA: FAQPage (see FAQ section below) -->

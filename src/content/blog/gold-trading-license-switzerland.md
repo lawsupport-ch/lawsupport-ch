@@ -46,6 +46,13 @@ tocItems:
     title: "Setting Up Your Swiss Gold Trading Company"
   - id: "request-a-free-assessment"
     title: "Request a Free Assessment"
+relatedArticles:
+  - title: "Swiss Business Licences & Permits: Company Guide (2026)"
+    href: "/licensing/swiss-business-licenses/"
+  - title: "SECO Export Controls: Dual-Use Goods & Sanctions"
+    href: "/licensing/seco-export-controls-switzerland/"
+  - title: "FINMA Licensing Switzerland: Crypto & Banking (2026)"
+    href: "/licensing/finma-licensing-switzerland/"
 ---
 
 

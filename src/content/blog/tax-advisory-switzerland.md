@@ -36,6 +36,13 @@ tocItems:
     title: "Our Approach to Tax Advisory"
   - id: "contact-lawsupport-for-tax-advisory-request-a-free-assessmen"
     title: "Contact Lawsupport for Tax Advisory: Request a Free Assessment"
+relatedArticles:
+  - title: "Advance Tax Ruling Switzerland: Process & Costs"
+    href: "/tax-accounting/tax-ruling-switzerland/"
+  - title: "Corporate Tax Switzerland: Rates, Cantons & Planning (2026)"
+    href: "/tax-accounting/corporate-tax-switzerland/"
+  - title: "Accounting Services Switzerland: Tax & Audit Guide"
+    href: "/tax-accounting/accounting-tax-switzerland/"
 ---
 
 

@@ -46,6 +46,13 @@ tocItems:
     title: "Swiss Tax Incentives and International Compliance"
   - id: "structure-your-swiss-tax-incentives-with-expert-guidance"
     title: "Structure Your Swiss Tax Incentives With Expert Guidance"
+relatedArticles:
+  - title: "Patent Box Switzerland: IP Tax Reduction (2026)"
+    href: "/tax-accounting/patent-box-switzerland/"
+  - title: "Lump-Sum Taxation Switzerland: Full Guide (2026)"
+    href: "/tax-accounting/lump-sum-taxation-switzerland/"
+  - title: "Advance Tax Ruling Switzerland: Process & Costs"
+    href: "/tax-accounting/tax-ruling-switzerland/"
 ---
 
 

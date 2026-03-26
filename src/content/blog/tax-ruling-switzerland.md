@@ -44,6 +44,13 @@ tocItems:
     title: "Common Ruling Scenarios"
   - id: "next-steps-request-a-free-assessment"
     title: "Next Steps: Request a Free Assessment"
+relatedArticles:
+  - title: "Tax Advisory Switzerland: Corporate Planning"
+    href: "/tax-accounting/tax-advisory-switzerland/"
+  - title: "Swiss Tax Incentives: IP Box, R&D, NID (2026)"
+    href: "/tax-accounting/swiss-tax-incentives/"
+  - title: "Corporate Tax Switzerland: Rates, Cantons & Planning (2026)"
+    href: "/tax-accounting/corporate-tax-switzerland/"
 ---
 
 

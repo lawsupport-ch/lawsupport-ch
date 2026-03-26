@@ -56,6 +56,13 @@ faqItems:
     answer: "Yes. At least one managing director (Geschaeftsfuehrer) must be resident in Switzerland. For an AG, at least one board member with individual signatory authority must be Swiss-resident. This requirement cannot be waived."
   - question: "Is VAT registration mandatory for all Swiss companies?"
     answer: "VAT registration is mandatory once worldwide turnover exceeds CHF 100,000 per year. Below that threshold, voluntary registration is possible and sometimes advisable — for example, to reclaim input VAT on formation costs and capital expenditure."
+relatedArticles:
+  - title: "Company Formation Switzerland: Complete Guide (2026)"
+    href: "/company-formation/company-formation-switzerland/"
+  - title: "GmbH Formation Switzerland: Complete Guide (2026)"
+    href: "/company-formation/gmbh-formation-switzerland/"
+  - title: "Doing Business in Switzerland: Investor's Guide"
+    href: "/company-formation/doing-business-in-switzerland/"
 ---
 
 

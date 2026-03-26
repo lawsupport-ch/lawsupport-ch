@@ -47,6 +47,13 @@ faqItems:
     answer: "Both are member-based entities, but a cooperative is designed for economic activity benefiting members (housing, purchasing, banking), while a Verein is designed for non-economic purposes (sport, culture, charity). A Verein requires only two members versus seven for a cooperative. A Verein has no capital structure; a cooperative can require member contributions."
   - question: "Can a cooperative be dissolved, and what is the process?"
     answer: "Yes. Dissolution requires a resolution of the general assembly, followed by a 3-month creditor notice period published in the SHAB. The process mirrors AG/GmbH liquidation: settle all liabilities, obtain tax clearance, distribute remaining assets to members as provided in the articles, and file for deletion from the Commercial Register. Timeline: 6–12 months minimum."
+relatedArticles:
+  - title: "Swiss Association (Verein): Formation & Structure"
+    href: "/company-formation/swiss-association-verein/"
+  - title: "Swiss Foundation (Stiftung): Formation & Tax"
+    href: "/company-formation/foundation-switzerland/"
+  - title: "GmbH Formation Switzerland: Complete Guide (2026)"
+    href: "/company-formation/gmbh-formation-switzerland/"
 ---
 
 

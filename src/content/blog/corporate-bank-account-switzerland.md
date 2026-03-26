@@ -47,6 +47,13 @@ faqItems:
     answer: "Annual account maintenance fees range from CHF 200-600 for cantonal banks to CHF 0-120 for fintech platforms. Additional costs include payment processing fees (CHF 0.20-1.50 per transaction), SWIFT transfer fees (CHF 20-35 per outgoing transfer), and currency conversion margins of 0.5-1.5% for multi-currency operations."
   - question: "What is the capital deposit account (Kapitaleinzahlungskonto) and when is it needed?"
     answer: "The Kapitaleinzahlungskonto is a blocked account required before company formation. Founders deposit the share capital (minimum CHF 20,000 for a GmbH, CHF 50,000 for an AG) into this account. The funds are released to the company only after the Commercial Register confirms the incorporation. Allow 2-6 weeks for account opening."
+relatedArticles:
+  - title: "Swiss Bank Account Requirements & Minimum Balance (2026)"
+    href: "/banking/swiss-bank-account-requirements/"
+  - title: "Capital Deposit Account Switzerland: How It Works"
+    href: "/banking/capital-deposit-account-switzerland/"
+  - title: "Swiss Bank Account Online: Open Remotely or Digitally (2026)"
+    href: "/banking/swiss-bank-account-online/"
 ---
 
 

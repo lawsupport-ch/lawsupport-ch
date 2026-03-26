@@ -53,6 +53,13 @@ faqItems:
     answer: "On CHF 5M net worth: Geneva charges approximately CHF 25'000/year versus CHF 7'500-10'000 in Zug or Schwyz. Over ten years, that gap exceeds CHF 150'000 from wealth tax alone. There is no federal wealth tax — it is entirely cantonal."
   - question: "Which canton eliminated inheritance tax entirely?"
     answer: "Schwyz has no inheritance or gift tax on any person — complete exemption. Lucerne abolished inheritance tax in 2005. Most cantons exempt direct descendants (children) and spouses. Rates for unrelated persons range from 5-50% depending on the canton and relationship."
+relatedArticles:
+  - title: "Swiss Tax Rates by Canton: 2026 Comparison"
+    href: "/tax-accounting/swiss-tax-rates-by-canton/"
+  - title: "Corporate Tax Switzerland: Rates, Cantons & Planning (2026)"
+    href: "/tax-accounting/corporate-tax-switzerland/"
+  - title: "Advance Tax Ruling Switzerland: Process & Costs"
+    href: "/tax-accounting/tax-ruling-switzerland/"
 ---
 
 

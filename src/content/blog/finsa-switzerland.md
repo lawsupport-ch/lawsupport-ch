@@ -47,6 +47,13 @@ faqItems:
     answer: "Retail clients meeting the professional client criteria (CHF 500'000+ in investable assets plus financial expertise) can request reclassification as professional clients, which reduces the provider's conduct obligations. The request must be in writing and the provider must document the basis for reclassification. Institutional clients can opt out of most conduct obligations entirely."
   - question: "What prospectus requirements does FinSA introduce?"
     answer: "Issuers of securities offered to the public in Switzerland must prepare a prospectus reviewed by a FINMA-approved review body. Exemptions exist for offers to fewer than 500 persons, offers exclusively to professional clients, and offers with a minimum denomination of CHF 100'000. The prospectus must be published before the public offering and remains valid for 12 months."
+relatedArticles:
+  - title: "FINMA Licensing Switzerland: Crypto & Banking (2026)"
+    href: "/licensing/finma-licensing-switzerland/"
+  - title: "Asset Management License Switzerland: FINMA Guide"
+    href: "/licensing/asset-management-license-switzerland/"
+  - title: "Swiss Banking Licence: FINMA Requirements (2026)"
+    href: "/licensing/banking-license-switzerland/"
 ---
 
 

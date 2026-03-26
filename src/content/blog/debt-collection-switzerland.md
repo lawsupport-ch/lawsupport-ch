@@ -43,6 +43,13 @@ faqItems:
     answer: "Yes. A creditor and debtor can settle at any stage of the enforcement process. If the creditor accepts payment or agrees to a payment plan, they can withdraw the Betreibung. A withdrawn and paid Betreibung is removed from the public register, making settlement genuinely worthwhile for the debtor."
   - question: "What happens if a Swiss company receives a Betreibung but disputes the debt?"
     answer: "The company files a Rechtsvorschlag (objection) within 10 days. This suspends the enforcement. The creditor must then either obtain a court ruling (Rechtsöffnung) or sue on the merits to resume the process. The objection itself requires no reason and costs nothing to file."
+relatedArticles:
+  - title: "Bankruptcy Switzerland: Corporate Insolvency Guide"
+    href: "/company-formation/bankruptcy-switzerland/"
+  - title: "Company Liquidation Switzerland: Process & Costs (2026)"
+    href: "/company-formation/company-liquidation-switzerland/"
+  - title: "Doing Business in Switzerland: Investor's Guide"
+    href: "/company-formation/doing-business-in-switzerland/"
 ---
 
 

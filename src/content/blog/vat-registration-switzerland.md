@@ -54,6 +54,13 @@ tocItems:
     title: "Lawsupport's Swiss VAT Services"
   - id: "register-for-swiss-vat-with-confidence"
     title: "Register for Swiss VAT With Confidence"
+relatedArticles:
+  - title: "Swiss VAT (MWST): Rates, Registration & Compliance (2026)"
+    href: "/tax-accounting/vat-switzerland/"
+  - title: "Swiss Accounting Requirements: OR, GAAP FER & Audit"
+    href: "/tax-accounting/accounting-switzerland/"
+  - title: "Employer Registration Switzerland: AHV & VAT (2026)"
+    href: "/tax-accounting/employer-registration-switzerland/"
 ---
 
 

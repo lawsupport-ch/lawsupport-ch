@@ -47,6 +47,13 @@ faqItems:
     answer: "SDX operates under the exchange licence framework as a subsidiary of SIX Group rather than as a standalone DLT Trading Facility applicant — an important structural distinction. Independent operators have progressed through FINMA's licensing pipeline since 2022 and represent the emerging cohort of genuine DLT Trading Facility licensees."
   - question: "What happens if you operate a DLT Trading Facility without a FINMA licence?"
     answer: "Operating without a licence is a criminal offence under Art. 44 FINMASA, with personal liability for management. FINMA can also issue injunctions, impose conditions, or order the cessation of business. The regulatory consequences of unlicensed operation are severe and extend to individuals responsible for the management of the entity."
+relatedArticles:
+  - title: "Crypto Exchange Licence Switzerland: FINMA Guide"
+    href: "/licensing/crypto-exchange-license-switzerland/"
+  - title: "Crypto Licence Switzerland: FINMA & VASP Guide"
+    href: "/licensing/crypto-license-switzerland/"
+  - title: "FINMA Licensing Switzerland: Crypto & Banking (2026)"
+    href: "/licensing/finma-licensing-switzerland/"
 ---
 
 

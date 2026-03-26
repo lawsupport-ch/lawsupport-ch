@@ -52,6 +52,13 @@ tocItems:
     title: "Decision Tree: Which Patent Route?"
   - id: "friction-block-what-actually-goes-wrong"
     title: "Friction Block: What Actually Goes Wrong"
+relatedArticles:
+  - title: "IP Protection Switzerland: Patents & Trademarks (2026)"
+    href: "/intellectual-property/ip-protection-switzerland/"
+  - title: "IGE / IPI Switzerland: IP Office Guide (2026)"
+    href: "/intellectual-property/ige-ipi-switzerland/"
+  - title: "Design Registration Switzerland: Process & Costs"
+    href: "/intellectual-property/design-registration-switzerland/"
 ---
 
 

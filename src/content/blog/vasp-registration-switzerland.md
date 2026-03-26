@@ -52,6 +52,13 @@ tocItems:
     title: "How Lawsupport Supports Your VASP Registration"
   - id: "get-your-swiss-vasp-registration-right"
     title: "Get Your Swiss VASP Registration Right"
+relatedArticles:
+  - title: "Crypto Licence Switzerland: FINMA & VASP Guide"
+    href: "/licensing/crypto-license-switzerland/"
+  - title: "SRO Membership Switzerland: Requirements & Costs"
+    href: "/licensing/sro-membership-switzerland/"
+  - title: "ICO & Token Issuance Switzerland: FINMA Rules"
+    href: "/licensing/ico-token-issuance-switzerland/"
 ---
 
 

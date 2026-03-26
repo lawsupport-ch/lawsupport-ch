@@ -42,6 +42,13 @@ tocItems:
     title: "Audit Requirements for Specific Swiss Entities"
   - id: "cost-of-swiss-statutory-audit"
     title: "Cost of Swiss Statutory Audit"
+relatedArticles:
+  - title: "Swiss Accounting Software: Top Options for Companies (2026)"
+    href: "/corporate-services/swiss-accounting-software/"
+  - title: "Betreibungsamt Switzerland: Offices by Canton"
+    href: "/corporate-services/betreibungsamt-cantons/"
+  - title: "Nominee Director Switzerland: Services & Costs (2026)"
+    href: "/corporate-services/nominee-director-switzerland/"
 ---
 
 

@@ -42,6 +42,13 @@ tocItems:
     title: "Tax Considerations for Private Banking Clients"
   - id: "next-steps-request-a-free-assessment"
     title: "Next Steps: Request a Free Assessment"
+relatedArticles:
+  - title: "Private Banking Switzerland: How It Works (2026)"
+    href: "/banking/private-banking-switzerland/"
+  - title: "Best Swiss Banks for Foreigners: Business Guide"
+    href: "/banking/best-swiss-banks-foreigners/"
+  - title: "Swiss Banks List: Major Banks in Switzerland (2026)"
+    href: "/banking/swiss-banks-list/"
 ---
 
 

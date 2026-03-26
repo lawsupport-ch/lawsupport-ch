@@ -48,6 +48,13 @@ tocItems:
     title: "Corporate Bank Account Switzerland: Connecting Formation to Banking"
   - id: "key-takeaways"
     title: "Key Takeaways"
+relatedArticles:
+  - title: "Swiss Bank Account Requirements & Minimum Balance (2026)"
+    href: "/banking/swiss-bank-account-requirements/"
+  - title: "Swiss Bank Account for Non-Residents (2026)"
+    href: "/banking/swiss-bank-account-non-residents/"
+  - title: "Swiss Bank Account Online: Open Remotely or Digitally (2026)"
+    href: "/banking/swiss-bank-account-online/"
 ---
 
 

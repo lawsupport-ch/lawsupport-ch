@@ -50,6 +50,13 @@ tocItems:
     title: "Decision Flow: What to Search and Where"
   - id: "friction-block-what-swissreg-does-not-tell-you"
     title: "Friction Block: What Swissreg Does Not Tell You"
+relatedArticles:
+  - title: "Trademark Registration Switzerland: Costs & Process"
+    href: "/intellectual-property/trademark-registration-switzerland/"
+  - title: "IGE / IPI Switzerland: IP Office Guide (2026)"
+    href: "/intellectual-property/ige-ipi-switzerland/"
+  - title: "Madrid Protocol Switzerland: Trademark Filing (2026)"
+    href: "/intellectual-property/madrid-protocol-switzerland/"
 ---
 
 

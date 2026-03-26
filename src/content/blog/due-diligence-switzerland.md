@@ -40,6 +40,13 @@ faqItems:
     answer: "A vendor due diligence (VDD) report is commissioned by the seller to accelerate the sales process. It covers the same topics but from the seller's perspective. You should review it critically — VDD reports tend to present findings favourably. Buyers typically commission their own confirmatory due diligence, which costs less (CHF 10'000-20'000) if a VDD report is available."
   - question: "How do I check if a Swiss company has undisclosed pension liabilities?"
     answer: "Request the latest BVG pension fund annual report and actuarial valuation. Check the funding ratio — anything below 100% indicates underfunding that the employer may need to cover through restructuring contributions. Swiss BVG funds have legal mechanisms to impose supplementary contributions on affiliated employers. This is a balance sheet item sellers routinely understate."
+relatedArticles:
+  - title: "Buy a Company in Switzerland: Process & Legal Guide"
+    href: "/corporate-transactions/buy-company-switzerland/"
+  - title: "M&A Switzerland: Legal Process & Key Steps (2026)"
+    href: "/corporate-transactions/mergers-acquisitions-switzerland/"
+  - title: "Venture Capital Switzerland: VC Funding Guide (2026)"
+    href: "/corporate-transactions/venture-capital-switzerland/"
 ---
 
 

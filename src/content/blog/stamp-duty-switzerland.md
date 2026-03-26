@@ -36,6 +36,13 @@ faqItems:
     answer: "Liquidation and return of capital to shareholders do not trigger issuance stamp duty. However, if shares are repurchased by the company as part of a capital reduction involving a Swiss securities dealer, the securities transfer stamp may apply to the repurchase transaction. The distribution of liquidation proceeds is subject to withholding tax, not stamp duty."
   - question: "Does stamp duty apply to share capital increases funded by foreign currency?"
     answer: "Yes. The issuance stamp applies regardless of the currency of the capital contribution. The taxable amount is converted to CHF at the exchange rate on the date the capital increase is registered with the Commercial Register. The CHF 1'000'000 exemption applies to the CHF-equivalent of total paid-in capital."
+relatedArticles:
+  - title: "Capital Tax Switzerland: Rates & Calculation (2026)"
+    href: "/tax-accounting/capital-tax-switzerland/"
+  - title: "Corporate Tax Switzerland: Rates, Cantons & Planning (2026)"
+    href: "/tax-accounting/corporate-tax-switzerland/"
+  - title: "Swiss Withholding Tax: Rates, Treaties & Refunds"
+    href: "/tax-accounting/withholding-tax-switzerland/"
 ---
 
 

@@ -52,6 +52,13 @@ tocItems:
     title: "Decision Tree: Share Deal vs. Asset Deal"
   - id: "friction-block-what-actually-goes-wrong-in-swiss-ma"
     title: "Friction Block: What Goes Wrong in Swiss M&A"
+relatedArticles:
+  - title: "Due Diligence Switzerland: Process & Risks (2026)"
+    href: "/corporate-transactions/due-diligence-switzerland/"
+  - title: "Buy a Company in Switzerland: Process & Legal Guide"
+    href: "/corporate-transactions/buy-company-switzerland/"
+  - title: "Corporate Restructuring Switzerland: Full Guide (2026)"
+    href: "/corporate-transactions/corporate-restructuring-switzerland/"
 ---
 
 

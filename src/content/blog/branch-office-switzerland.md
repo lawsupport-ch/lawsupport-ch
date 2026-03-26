@@ -43,6 +43,13 @@ faqItems:
     answer: "Yes, but conversion involves additional costs. Based on actual client cases, the branch-then-convert path costs approximately CHF 8'000 more than direct GmbH formation would have. If your Swiss engagement will last longer than 18 months, form a GmbH from the start."
   - question: "Does a branch need to register for Swiss VAT?"
     answer: "Yes, if the branch's Swiss-sourced turnover exceeds CHF 100'000 per year. Registration is in the name of the foreign company with the branch as the liable unit. The standard VAT rate is 8.1%."
+relatedArticles:
+  - title: "Company Formation Switzerland: Complete Guide (2026)"
+    href: "/company-formation/company-formation-switzerland/"
+  - title: "Doing Business in Switzerland: Investor's Guide"
+    href: "/company-formation/doing-business-in-switzerland/"
+  - title: "How to Start a Business in Switzerland: Full Guide (2026)"
+    href: "/company-formation/start-business-switzerland/"
 ---
 
 

@@ -56,6 +56,13 @@ tocItems:
     title: "Penalties"
   - id: "get-your-swiss-vat-right-from-day-one"
     title: "Get Your Swiss VAT Right From Day One"
+relatedArticles:
+  - title: "VAT Registration Switzerland: MWST Guide (2026)"
+    href: "/tax-accounting/vat-registration-switzerland/"
+  - title: "Swiss Stamp Duty: Issuance, Transfer & Premium Tax"
+    href: "/tax-accounting/stamp-duty-switzerland/"
+  - title: "Swiss Withholding Tax: Rates, Treaties & Refunds"
+    href: "/tax-accounting/withholding-tax-switzerland/"
 ---
 
 

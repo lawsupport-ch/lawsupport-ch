@@ -48,6 +48,13 @@ tocItems:
     title: "Maximising Returns on Swiss Franc Cash"
   - id: "how-interest-rates-affect-company-formation-decisions"
     title: "How Interest Rates Affect Company Formation Decisions"
+relatedArticles:
+  - title: "Swiss Bank Account: Guide for Foreigners (2026)"
+    href: "/banking/swiss-bank-account/"
+  - title: "Private Banking Switzerland: How It Works (2026)"
+    href: "/banking/private-banking-switzerland/"
+  - title: "Swiss Bank Account Online: Open Remotely or Digitally (2026)"
+    href: "/banking/swiss-bank-account-online/"
 ---
 
 

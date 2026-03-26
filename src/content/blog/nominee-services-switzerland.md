@@ -40,6 +40,13 @@ tocItems:
     title: "What Nominee Services Do NOT Provide"
   - id: "related-services"
     title: "Related Services"
+relatedArticles:
+  - title: "Nominee Shareholder Switzerland: Rules & Risks (2026)"
+    href: "/company-formation/nominee-shareholder-switzerland/"
+  - title: "Shelf Company Switzerland: Buy a Ready-Made AG or GmbH"
+    href: "/company-formation/shelf-company-switzerland/"
+  - title: "Swiss Holding Company: Tax Benefits & Setup"
+    href: "/company-formation/holding-company-switzerland/"
 ---
 
 

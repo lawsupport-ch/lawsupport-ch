@@ -61,6 +61,13 @@ faqItems:
     answer: "Yes, provided it supports double-entry bookkeeping and can produce a balance sheet and income statement meeting Art. 959a OR requirements. However, Swiss VAT coding, the KMU chart of accounts, and local payroll reporting are easier with Swiss-specific software like Bexio."
   - question: "What is the difference between tax accounts and commercial accounts in Switzerland?"
     answer: "Under the Massgeblichkeitsprinzip, the commercial profit is the starting point for tax. There are no separate tax accounts. The commercial result is adjusted for specific tax add-backs and deductions — accelerated depreciation, non-deductible provisions, participation exemptions — to arrive at taxable income."
+relatedArticles:
+  - title: "Swiss Accounting Requirements: OR, GAAP FER & Audit"
+    href: "/tax-accounting/accounting-switzerland/"
+  - title: "Accounting Recovery Switzerland: Fix Missing Accounts"
+    href: "/tax-accounting/accounting-recovery-switzerland/"
+  - title: "Payroll Switzerland: Rates & Obligations (2026)"
+    href: "/tax-accounting/payroll-switzerland/"
 ---
 
 <!-- SCHEMA: Article -->

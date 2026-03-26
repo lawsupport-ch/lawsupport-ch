@@ -46,6 +46,13 @@ tocItems:
     title: "Recording and Compliance"
   - id: "request-a-free-assessment"
     title: "Request a Free Assessment"
+relatedArticles:
+  - title: "Employment Law Switzerland: Employer's Complete Guide (2026)"
+    href: "/employment-law/employment-law-switzerland/"
+  - title: "Employment Contract Switzerland: Key Clauses (2026)"
+    href: "/employment-law/employment-contract-switzerland/"
+  - title: "Employment Termination Switzerland: Notice & Rights"
+    href: "/employment-law/termination-employment-switzerland/"
 ---
 
 

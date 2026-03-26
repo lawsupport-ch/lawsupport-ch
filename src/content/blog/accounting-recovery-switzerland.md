@@ -47,6 +47,13 @@ faqItems:
     answer: "There is no legal requirement to use a professional. In practice, multi-year reconstruction involving Swiss GAAP standards, coordinated tax filings, and AHV reconciliation is complex work. Inconsistent balance sheets will be rejected by the tax authority and require rework."
   - question: "What are the tax penalties for years of missing accounts?"
     answer: "Swiss cantons do not impose fixed fines for late filing, but they issue estimated assessments — typically 200-400% above actual liability — with interest accruing at approximately 3% per annum. Voluntary filing before the authority raises the matter is treated more favourably."
+relatedArticles:
+  - title: "Swiss Accounting Requirements: OR, GAAP FER & Audit"
+    href: "/tax-accounting/accounting-switzerland/"
+  - title: "Bookkeeping Switzerland: Rules & Requirements (2026)"
+    href: "/tax-accounting/bookkeeping-switzerland/"
+  - title: "Statutory Audit Switzerland: Thresholds & Opt-Out"
+    href: "/tax-accounting/audit-switzerland/"
 ---
 
 

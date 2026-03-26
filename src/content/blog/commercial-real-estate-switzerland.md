@@ -47,6 +47,13 @@ faqItems:
     answer: "Prime commercial property in Zug trades at yields of 3–5%, meaning purchase prices of 20–33 times annual rent. Buying makes financial sense if you plan to occupy for 10+ years and have the capital available. For most new companies, leasing preserves working capital and provides flexibility to scale up or down."
   - question: "What reinstatement obligations should I expect at lease end?"
     answer: "Most Swiss commercial leases require tenants to restore premises to their original shell-and-core condition. Reinstatement costs can run to tens of thousands of francs depending on the fit-out scope. Get a reinstatement cost estimate before signing and negotiate a cap or a pre-agreed dilapidations settlement."
+relatedArticles:
+  - title: "Doing Business in Switzerland: Investor's Guide"
+    href: "/company-formation/doing-business-in-switzerland/"
+  - title: "How to Start a Business in Switzerland: Full Guide (2026)"
+    href: "/company-formation/start-business-switzerland/"
+  - title: "Branch Office Switzerland: Registration & Requirements"
+    href: "/company-formation/branch-office-switzerland/"
 ---
 
 

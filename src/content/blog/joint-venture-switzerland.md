@@ -38,6 +38,13 @@ tocItems:
     title: "Tax Considerations"
   - id: "swiss-jv-vs-other-jurisdictions"
     title: "Swiss JV vs Other Jurisdictions"
+relatedArticles:
+  - title: "Swiss Limited Partnership (KG): Structure & Uses"
+    href: "/company-formation/limited-partnership-switzerland/"
+  - title: "GmbH Formation Switzerland: Complete Guide (2026)"
+    href: "/company-formation/gmbh-formation-switzerland/"
+  - title: "Doing Business in Switzerland: Investor's Guide"
+    href: "/company-formation/doing-business-in-switzerland/"
 ---
 
 

@@ -45,6 +45,13 @@ faqItems:
     answer: "Yes. A Professional Employer Organisation (PEO) or Employer of Record (EOR) handles all registrations and compliance on your behalf. This costs CHF 300-800 per employee per month but eliminates the administrative burden. It is a practical solution for companies with 1-3 employees in Switzerland who do not yet justify a full local HR setup."
   - question: "What ongoing reporting obligations do I have after registration?"
     answer: "Monthly or quarterly AHV salary declarations to the compensation office, monthly source tax deductions for qualifying employees, annual salary certificate (Lohnausweis) for each employee by 31 January, annual BVG pension fund reporting, and quarterly VAT returns if registered. Failure to file AHV declarations on time triggers automatic penalty interest at 5%."
+relatedArticles:
+  - title: "Payroll Switzerland: Rates & Obligations (2026)"
+    href: "/tax-accounting/payroll-switzerland/"
+  - title: "Swiss Social Insurance: AHV, IV, BVG Contributions"
+    href: "/tax-accounting/social-insurance-switzerland/"
+  - title: "Swiss Accounting Requirements: OR, GAAP FER & Audit"
+    href: "/tax-accounting/accounting-switzerland/"
 ---
 
 

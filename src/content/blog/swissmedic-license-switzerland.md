@@ -46,6 +46,13 @@ tocItems:
     title: "Why Switzerland's Regulatory Environment Matters Commercially"
   - id: "next-steps-request-a-free-assessment"
     title: "Next Steps: Request a Free Assessment"
+relatedArticles:
+  - title: "Swiss Business Licences & Permits: Company Guide (2026)"
+    href: "/licensing/swiss-business-licenses/"
+  - title: "Hotel & Restaurant License Switzerland (2026)"
+    href: "/licensing/hotel-restaurant-license-switzerland/"
+  - title: "SECO Export Controls: Dual-Use Goods & Sanctions"
+    href: "/licensing/seco-export-controls-switzerland/"
 ---
 
 

@@ -44,6 +44,13 @@ tocItems:
     title: "Swiss Foundations and Crypto: Practical Considerations"
   - id: "get-advice-on-forming-a-swiss-foundation"
     title: "Get Advice on Forming a Swiss Foundation"
+relatedArticles:
+  - title: "Swiss Foundation: Formation & Requirements (2026)"
+    href: "/company-formation/swiss-foundation/"
+  - title: "Swiss Cooperative (Genossenschaft): Formation Guide (2026)"
+    href: "/company-formation/cooperative-switzerland/"
+  - title: "Swiss Association (Verein): Formation & Structure"
+    href: "/company-formation/swiss-association-verein/"
 ---
 
 

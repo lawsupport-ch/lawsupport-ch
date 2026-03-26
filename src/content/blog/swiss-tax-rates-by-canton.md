@@ -54,6 +54,13 @@ tocItems:
     title: "Choosing the Right Canton: Practical Guidance"
   - id: "ready-to-establish-your-swiss-company-in-the-right-canton"
     title: "Ready to Establish Your Swiss Company in the Right Canton?"
+relatedArticles:
+  - title: "Cantonal Tax Comparison Switzerland: All 26 Cantons (2026)"
+    href: "/tax-accounting/cantonal-tax-comparison-switzerland/"
+  - title: "Corporate Tax Switzerland: Rates, Cantons & Planning (2026)"
+    href: "/tax-accounting/corporate-tax-switzerland/"
+  - title: "Lump-Sum Taxation Switzerland: Full Guide (2026)"
+    href: "/tax-accounting/lump-sum-taxation-switzerland/"
 ---
 
 

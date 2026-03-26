@@ -50,6 +50,13 @@ tocItems:
     title: "Decision Tree: Which IP Right Do You Need?"
   - id: "friction-block-what-actually-goes-wrong"
     title: "Friction Block: What Actually Goes Wrong"
+relatedArticles:
+  - title: "Trademark Registration Switzerland: Costs & Process"
+    href: "/intellectual-property/trademark-registration-switzerland/"
+  - title: "Patent Registration Switzerland: How to File (2026)"
+    href: "/intellectual-property/patent-registration-switzerland/"
+  - title: "Copyright Law Switzerland: Protection & Enforcement (2026)"
+    href: "/intellectual-property/copyright-law-switzerland/"
 ---
 
 

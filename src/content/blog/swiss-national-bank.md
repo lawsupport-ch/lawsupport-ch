@@ -42,6 +42,13 @@ tocItems:
     title: "The SNB and Swiss Business"
   - id: "get-expert-guidance-on-swiss-banking-and-corporate-matters"
     title: "Get Expert Guidance on Swiss Banking and Corporate Matters"
+relatedArticles:
+  - title: "Swiss Banking System: Structure & Bank Types (2026)"
+    href: "/banking/swiss-banking-system/"
+  - title: "Cantonal Banks Switzerland: Full List & Guide (2026)"
+    href: "/banking/cantonal-banks-switzerland/"
+  - title: "Swiss Bank Interest Rates: Savings & Deposits (2026)"
+    href: "/banking/swiss-bank-account-interest-rates/"
 ---
 
 

@@ -41,6 +41,13 @@ faqItems:
     answer: "Search on Zefix.ch using partial and full name variants. Check across all cantons and all legal forms (AG, GmbH, etc.). The Handelsregisteramt assesses confusion risk broadly — a GmbH in Zurich can conflict with an AG in Bern if the names are substantially similar."
   - question: "Do I need an apostille on my Commercial Register extract for use abroad?"
     answer: "For countries party to the Hague Convention, yes — an apostille from the cantonal authority is required. For non-Hague countries, consular legalisation is needed instead. Both processes typically take 3–5 business days. A sworn translation may also be required depending on the destination country."
+relatedArticles:
+  - title: "Swiss Commercial Register: What It Is & How to File"
+    href: "/company-formation/commercial-register-switzerland/"
+  - title: "ZEFIX: Swiss Company Search — Complete Guide (2026)"
+    href: "/company-formation/zefix-company-search/"
+  - title: "Company Formation Switzerland: Complete Guide (2026)"
+    href: "/company-formation/company-formation-switzerland/"
 ---
 
 

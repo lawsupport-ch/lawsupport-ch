@@ -45,6 +45,13 @@ faqItems:
     answer: "Yes. Companies holding qualifying patents can claim the IP Box deduction, which reduces cantonal and communal income tax on qualifying IP income by up to 90%. A separate schedule must be included detailing qualifying income, R&D expenditure, and the nexus calculation."
   - question: "Does the cantonal tax return also cover federal income tax?"
     answer: "Yes. You do not file separately with the federal government. The cantonal return covers all three levels: federal direct tax, cantonal income tax, and cantonal capital tax. The canton collects federal tax on behalf of the federal government."
+relatedArticles:
+  - title: "Corporate Tax Switzerland: Rates, Cantons & Planning (2026)"
+    href: "/tax-accounting/corporate-tax-switzerland/"
+  - title: "Statutory Audit Switzerland: Thresholds & Opt-Out"
+    href: "/tax-accounting/audit-switzerland/"
+  - title: "Tax Advisory Switzerland: Corporate Planning"
+    href: "/tax-accounting/tax-advisory-switzerland/"
 ---
 
 

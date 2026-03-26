@@ -42,6 +42,13 @@ faqItems:
     answer: "There is no direct legal conversion mechanism. You would need to form a new GmbH and transfer assets, contracts, and memberships individually. This process requires careful planning to avoid tax consequences on asset transfers."
   - question: "What reporting obligations does a Swiss Verein have?"
     answer: "A Verein must hold an annual general meeting and prepare annual accounts. If registered in the Commercial Register or if turnover exceeds CHF 500,000, it must comply with the same accounting standards as commercial enterprises under the Swiss Code of Obligations."
+relatedArticles:
+  - title: "Swiss Cooperative (Genossenschaft): Formation Guide (2026)"
+    href: "/company-formation/cooperative-switzerland/"
+  - title: "Swiss Foundation (Stiftung): Formation & Tax"
+    href: "/company-formation/foundation-switzerland/"
+  - title: "Swiss Foundation: Formation & Requirements (2026)"
+    href: "/company-formation/swiss-foundation/"
 ---
 
 

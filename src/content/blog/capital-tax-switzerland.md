@@ -47,6 +47,13 @@ faqItems:
     answer: "Yes. A Swiss branch of a foreign company is subject to capital tax on the capital attributable to the branch. The taxable capital is the proportion of the head office's equity allocated to Swiss operations, based on the branch's share of total assets, revenue, or payroll — depending on cantonal practice."
   - question: "What is the capital tax impact of converting a GmbH to an AG?"
     answer: "The conversion itself does not change the taxable equity — it remains the same balance sheet figure. However, an AG requires CHF 100'000 minimum share capital versus CHF 20'000 for a GmbH. If the conversion requires a capital increase, the additional CHF 80'000 in equity costs roughly CHF 60 per year in extra capital tax at Zug rates."
+relatedArticles:
+  - title: "Swiss Stamp Duty: Issuance, Transfer & Premium Tax"
+    href: "/tax-accounting/stamp-duty-switzerland/"
+  - title: "Corporate Tax Switzerland: Rates, Cantons & Planning (2026)"
+    href: "/tax-accounting/corporate-tax-switzerland/"
+  - title: "Swiss Withholding Tax: Rates, Treaties & Refunds"
+    href: "/tax-accounting/withholding-tax-switzerland/"
 ---
 
 

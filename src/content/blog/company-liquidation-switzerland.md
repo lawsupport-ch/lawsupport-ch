@@ -47,6 +47,13 @@ faqItems:
     answer: "The cantonal tax authority must issue a Steuerausstand (tax clearance certificate) confirming that all federal, cantonal, and communal tax obligations have been settled. Outstanding VAT, AHV social insurance, and withholding tax must also be cleared. The tax authority will not issue clearance until all filings are up to date and balances paid."
   - question: "What happens to a dormant Swiss company if I do nothing?"
     answer: "The company remains legally registered and must continue filing annual tax returns, even with zero activity. Accumulated non-compliance can result in the Commercial Register initiating a forced dissolution (Löschung von Amtes wegen) after attempts to contact the company fail. Outstanding tax and social insurance obligations continue to accrue, and directors may face personal liability."
+relatedArticles:
+  - title: "Bankruptcy Switzerland: Corporate Insolvency Guide"
+    href: "/company-formation/bankruptcy-switzerland/"
+  - title: "Debt Collection Switzerland: SchKG Process Guide"
+    href: "/company-formation/debt-collection-switzerland/"
+  - title: "Company Formation Switzerland: Complete Guide (2026)"
+    href: "/company-formation/company-formation-switzerland/"
 ---
 
 

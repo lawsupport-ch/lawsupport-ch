@@ -57,6 +57,13 @@ faqItems:
     answer: "Features determined exclusively by technical function cannot be registered as a design — patents are the correct instrument for technical innovations. Designs contrary to public order or morality are also excluded from registration."
   - question: "How long does it take to register a design in Switzerland?"
     answer: "The IPI conducts only a formal examination, so registration is typically completed within a few weeks of filing. The design right takes effect from the filing date, not the date of publication or certificate issue — meaning your protection is backdated to the moment you filed."
+relatedArticles:
+  - title: "IGE / IPI Switzerland: IP Office Guide (2026)"
+    href: "/intellectual-property/ige-ipi-switzerland/"
+  - title: "Trademark Registration Switzerland: Costs & Process"
+    href: "/intellectual-property/trademark-registration-switzerland/"
+  - title: "IP Protection Switzerland: Patents & Trademarks (2026)"
+    href: "/intellectual-property/ip-protection-switzerland/"
 ---
 
 

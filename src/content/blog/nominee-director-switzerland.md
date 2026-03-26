@@ -54,6 +54,13 @@ tocItems:
     title: "Termination of a Nominee Directorship"
   - id: "real-world-example"
     title: "Real-World Example"
+relatedArticles:
+  - title: "Registered Address Switzerland: Domicile Services (2026)"
+    href: "/corporate-services/registered-address-switzerland/"
+  - title: "Virtual Office Switzerland: Zug Business Address"
+    href: "/corporate-services/virtual-office-switzerland/"
+  - title: "Internal Audit Switzerland: Requirements (2026)"
+    href: "/corporate-services/internal-audit-switzerland/"
 ---
 
 

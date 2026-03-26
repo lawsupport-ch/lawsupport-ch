@@ -47,6 +47,13 @@ tocItems:
     title: "Get Expert Advice on Swiss Insolvency"
   - id: "related-guides"
     title: "Related Guides"
+relatedArticles:
+  - title: "Company Liquidation Switzerland: Process & Costs (2026)"
+    href: "/company-formation/company-liquidation-switzerland/"
+  - title: "Debt Collection Switzerland: SchKG Process Guide"
+    href: "/company-formation/debt-collection-switzerland/"
+  - title: "Doing Business in Switzerland: Investor's Guide"
+    href: "/company-formation/doing-business-in-switzerland/"
 ---
 
 <!-- Schema: FAQPage — see FAQ section below -->

@@ -46,6 +46,13 @@ tocItems:
     title: "Advance Tax Rulings"
   - id: "relocating-to-switzerland-request-a-free-assessment"
     title: "Relocating to Switzerland? Request a Free Assessment"
+relatedArticles:
+  - title: "Lump-Sum Taxation Switzerland: Full Guide (2026)"
+    href: "/tax-accounting/lump-sum-taxation-switzerland/"
+  - title: "Double Tax Treaties Switzerland: Key Rates (2026)"
+    href: "/tax-accounting/double-tax-treaties-switzerland/"
+  - title: "Swiss Withholding Tax: Rates, Treaties & Refunds"
+    href: "/tax-accounting/withholding-tax-switzerland/"
 ---
 
 

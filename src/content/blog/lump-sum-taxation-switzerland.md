@@ -46,6 +46,13 @@ tocItems:
     title: "Steps to Establish Lump-Sum Taxation"
   - id: "lawsupports-service"
     title: "Lawsupport's Service"
+relatedArticles:
+  - title: "Swiss Tax Incentives: IP Box, R&D, NID (2026)"
+    href: "/tax-accounting/swiss-tax-incentives/"
+  - title: "Swiss Tax Residency: Rules & Requirements"
+    href: "/tax-accounting/tax-residency-switzerland/"
+  - title: "Cantonal Tax Comparison Switzerland: All 26 Cantons (2026)"
+    href: "/tax-accounting/cantonal-tax-comparison-switzerland/"
 ---
 
 

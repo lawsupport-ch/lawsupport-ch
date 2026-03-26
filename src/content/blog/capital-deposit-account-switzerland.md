@@ -45,6 +45,13 @@ tocItems:
     title: "Foreign Currency Deposits"
   - id: "request-a-free-assessment"
     title: "Request a Free Assessment"
+relatedArticles:
+  - title: "Corporate Bank Account Switzerland: How to Open One in 2026"
+    href: "/banking/corporate-bank-account-switzerland/"
+  - title: "Swiss Bank Account Requirements & Minimum Balance (2026)"
+    href: "/banking/swiss-bank-account-requirements/"
+  - title: "Swiss Bank Account: Guide for Foreigners (2026)"
+    href: "/banking/swiss-bank-account/"
 ---
 
 

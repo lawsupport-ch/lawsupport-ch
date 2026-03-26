@@ -40,6 +40,13 @@ tocItems:
     title: "Comparison with Other Swiss Structures"
   - id: "when-to-use-a-kg"
     title: "When to Use a KG"
+relatedArticles:
+  - title: "Joint Venture Switzerland: Structures & Law (2026)"
+    href: "/company-formation/joint-venture-switzerland/"
+  - title: "Sole Proprietorship Switzerland: Einzelfirma Guide"
+    href: "/company-formation/sole-proprietorship-switzerland/"
+  - title: "GmbH Formation Switzerland: Complete Guide (2026)"
+    href: "/company-formation/gmbh-formation-switzerland/"
 ---
 
 

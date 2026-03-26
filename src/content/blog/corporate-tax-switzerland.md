@@ -43,6 +43,13 @@ faqItems:
     answer: "Stamp duty is a one-time federal levy of 1% on equity contributions exceeding CHF 1 million. Contributions up to CHF 1 million are exempt. Qualifying restructurings may be exempt, and careful structuring of initial capitalisation can eliminate this charge entirely."
   - question: "How does Swiss capital tax (Kapitalsteuer) work?"
     answer: "Capital tax is an annual cantonal levy on the company's net equity. Rates range from approximately 0.001% to 0.5% depending on the canton. Several cantons allow offset of capital tax against income tax, making the net capital tax burden close to zero for profitable companies."
+relatedArticles:
+  - title: "Corporate Tax Return Switzerland: Filing Guide"
+    href: "/tax-accounting/corporate-tax-return-switzerland/"
+  - title: "Cantonal Tax Comparison Switzerland: All 26 Cantons (2026)"
+    href: "/tax-accounting/cantonal-tax-comparison-switzerland/"
+  - title: "Swiss Tax Rates by Canton: 2026 Comparison"
+    href: "/tax-accounting/swiss-tax-rates-by-canton/"
 ---
 
 

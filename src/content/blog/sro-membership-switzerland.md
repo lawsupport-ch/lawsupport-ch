@@ -46,6 +46,13 @@ faqItems:
     answer: "The SRO issues a formal finding and sets a remediation deadline, typically 30-90 days. Persistent non-compliance can result in suspension or expulsion from the SRO, which the SRO must report to FINMA. FINMA may then impose an operating ban, appoint a liquidator, or initiate criminal proceedings."
   - question: "Do trust companies need SRO membership in Switzerland?"
     answer: "Yes. Trust companies operating in Switzerland are classified as financial intermediaries under AMLA and must hold SRO membership. Since 2020, trustees must additionally register with FINMA under the Financial Institutions Act (FinIA), which imposes further capital and organisational requirements beyond basic SRO membership."
+relatedArticles:
+  - title: "Fintech License Switzerland: FINMA Options"
+    href: "/licensing/fintech-license-switzerland/"
+  - title: "VASP Registration Switzerland: SRO Guide (2026)"
+    href: "/licensing/vasp-registration-switzerland/"
+  - title: "FINMA Licensing Switzerland: Crypto & Banking (2026)"
+    href: "/licensing/finma-licensing-switzerland/"
 ---
 
 

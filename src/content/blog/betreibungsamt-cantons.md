@@ -47,6 +47,13 @@ faqItems:
     answer: "Yes. File a Rechtsvorschlag within 10 days of receiving the Zahlungsbefehl — this halts the procedure at no cost. If the claim is baseless, the creditor must go to court to lift the objection. You can also seek deletion of unjustified entries after the matter is resolved."
   - question: "What is the difference between Betreibung auf Pfaendung and Betreibung auf Konkurs?"
     answer: "Pfaendung (seizure) applies to individuals and sole proprietors — specific assets are seized. Konkurs (bankruptcy) applies to companies registered in the Commercial Register (AG, GmbH). The procedure leads to full bankruptcy proceedings if the debt remains unpaid."
+relatedArticles:
+  - title: "Internal Audit Switzerland: Requirements (2026)"
+    href: "/corporate-services/internal-audit-switzerland/"
+  - title: "Swiss Accounting Software: Top Options for Companies (2026)"
+    href: "/corporate-services/swiss-accounting-software/"
+  - title: "Registered Address Switzerland: Domicile Services (2026)"
+    href: "/corporate-services/registered-address-switzerland/"
 ---
 
 <!--

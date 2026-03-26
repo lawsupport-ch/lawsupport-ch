@@ -62,6 +62,13 @@ tocItems:
     title: "Decision Tree: Which Trademark Route Do You Need?"
   - id: "friction-block-what-actually-goes-wrong"
     title: "Friction Block: What Actually Goes Wrong"
+relatedArticles:
+  - title: "Swissreg Trademark Search: Swiss IP Register Guide"
+    href: "/intellectual-property/swissreg-trademark-search/"
+  - title: "Madrid Protocol Switzerland: Trademark Filing (2026)"
+    href: "/intellectual-property/madrid-protocol-switzerland/"
+  - title: "IP Protection Switzerland: Patents & Trademarks (2026)"
+    href: "/intellectual-property/ip-protection-switzerland/"
 ---
 
 

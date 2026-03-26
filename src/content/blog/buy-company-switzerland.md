@@ -51,6 +51,13 @@ faqItems:
     answer: "In a share deal, all contracts and employment relationships continue unchanged — the company is the same legal entity. Employment contracts transfer automatically under Art. 333 OR. Customer and supplier contracts remain in force unless they contain change-of-control clauses."
   - question: "Is it better to buy an existing company or form a new one?"
     answer: "Buy if you need an existing VAT number, bank account, trading history, or contracts. Form new if you want a clean structure with no historical liabilities. A new GmbH costs CHF 1'900 all-in and takes 2-3 weeks. An acquisition takes 6-10 weeks and requires due diligence costing CHF 3'000-8'000."
+relatedArticles:
+  - title: "Due Diligence Switzerland: Process & Risks (2026)"
+    href: "/corporate-transactions/due-diligence-switzerland/"
+  - title: "M&A Switzerland: Legal Process & Key Steps (2026)"
+    href: "/corporate-transactions/mergers-acquisitions-switzerland/"
+  - title: "Corporate Restructuring Switzerland: Full Guide (2026)"
+    href: "/corporate-transactions/corporate-restructuring-switzerland/"
 ---
 
 <!--

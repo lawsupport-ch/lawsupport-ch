@@ -50,6 +50,13 @@ tocItems:
     title: "Ongoing Compliance for a Swiss Holding AG"
   - id: "request-a-free-assessment"
     title: "Request a Free Assessment"
+relatedArticles:
+  - title: "AG Formation Switzerland: Aktiengesellschaft Guide"
+    href: "/company-formation/ag-formation-switzerland/"
+  - title: "Shelf Company Switzerland: Buy a Ready-Made AG or GmbH"
+    href: "/company-formation/shelf-company-switzerland/"
+  - title: "Company Formation Switzerland: Complete Guide (2026)"
+    href: "/company-formation/company-formation-switzerland/"
 ---
 
 

@@ -47,6 +47,13 @@ faqItems:
     answer: "FINMA licences are entity-specific and cannot be transferred. If you restructure (merger, demerger, or conversion), the surviving or new entity must apply for a new licence or seek FINMA approval for the structural change. This process takes 3-6 months and FINMA may impose conditions. Plan regulatory approvals into any corporate restructuring timeline."
   - question: "What personal requirements must directors of FINMA-licensed entities meet?"
     answer: "Directors must pass FINMA's fit-and-proper assessment: no criminal convictions related to financial crimes, demonstrated professional competence in financial services, personal integrity, and adequate time to exercise their functions. FINMA conducts personal interviews and may request references. A director serving on too many boards may be rejected for insufficient time commitment."
+relatedArticles:
+  - title: "FINMA License Switzerland: Licensing Guide (2026)"
+    href: "/licensing/finma-license-switzerland/"
+  - title: "Swiss FinSA (FIDLEG): Obligations for 2026"
+    href: "/licensing/finsa-switzerland/"
+  - title: "Swiss Banking Licence: FINMA Requirements (2026)"
+    href: "/licensing/banking-license-switzerland/"
 ---
 
 

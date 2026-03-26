@@ -44,6 +44,13 @@ faqItems:
     answer: "A shelf company can serve as the legal vehicle for a FINMA licence application, but FINMA assesses substance independently. The entity must demonstrate qualified management, adequate capitalisation, and proper organisational structure. The shelf company's age or registration history carries no weight in FINMA's assessment."
   - question: "What is the oldest shelf company typically available?"
     answer: "Lawsupport's inventory includes entities dating back to the 1930s. A 1933 vintage AG, for example, is priced at CHF 47'500. Older entities command higher prices because registration dates cannot be manufactured — they represent genuine decades of unbroken Commercial Register history."
+relatedArticles:
+  - title: "Company Formation Switzerland: Complete Guide (2026)"
+    href: "/company-formation/company-formation-switzerland/"
+  - title: "Nominee Services Switzerland: Full Guide (2026)"
+    href: "/company-formation/nominee-services-switzerland/"
+  - title: "Swiss Holding Company: Tax Benefits & Setup"
+    href: "/company-formation/holding-company-switzerland/"
 ---
 
 

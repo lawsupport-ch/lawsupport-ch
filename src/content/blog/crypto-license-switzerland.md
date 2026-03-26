@@ -63,6 +63,13 @@ faqItems:
     answer: "FINMA does not issue formal no-action letters. However, FINMA does engage in informal pre-application discussions (Voranfragen) with applicants who have a well-developed regulatory question. These discussions are non-binding but can clarify FINMA's preliminary view on the regulatory classification of a business model before a full application is submitted."
   - question: "How does Swiss crypto regulation compare to the EU's MiCA framework?"
     answer: "Switzerland is not an EU member state and is not subject to MiCA (Markets in Crypto-Assets Regulation). Swiss crypto regulation is more mature in some respects — the DLT Act predates MiCA and is more technically specific — and differs in its structure. However, Swiss-licensed businesses still need to consider MiCA when marketing to EU clients, as MiCA imposes obligations on non-EU businesses accessing EU customers. Swiss businesses targeting EU markets should take specific advice on the MiCA ..."
+relatedArticles:
+  - title: "Crypto Exchange Licence Switzerland: FINMA Guide"
+    href: "/licensing/crypto-exchange-license-switzerland/"
+  - title: "ICO & Token Issuance Switzerland: FINMA Rules"
+    href: "/licensing/ico-token-issuance-switzerland/"
+  - title: "VASP Registration Switzerland: SRO Guide (2026)"
+    href: "/licensing/vasp-registration-switzerland/"
 ---
 
 

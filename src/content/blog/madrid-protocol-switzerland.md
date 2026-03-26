@@ -48,6 +48,13 @@ tocItems:
     title: "Decision Tree: Madrid vs. Direct National Filing"
   - id: "friction-block-what-actually-goes-wrong"
     title: "Friction Block: What Actually Goes Wrong"
+relatedArticles:
+  - title: "Trademark Registration Switzerland: Costs & Process"
+    href: "/intellectual-property/trademark-registration-switzerland/"
+  - title: "Swissreg Trademark Search: Swiss IP Register Guide"
+    href: "/intellectual-property/swissreg-trademark-search/"
+  - title: "IGE / IPI Switzerland: IP Office Guide (2026)"
+    href: "/intellectual-property/ige-ipi-switzerland/"
 ---
 
 

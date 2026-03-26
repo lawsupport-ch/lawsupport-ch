@@ -44,6 +44,13 @@ faqItems:
     answer: "The company must not proceed with the transaction. Under the catch-all clause, if the exporter knows or has reason to suspect goods will be used for WMD purposes, a SECO permit is required regardless of whether the goods are listed. The company should contact SECO immediately and document all communications with the prospective buyer."
   - question: "Are there penalties for failing to maintain an Internal Compliance Programme?"
     answer: "An ICP is not legally mandatory, so there is no direct penalty for not having one. However, companies without an ICP face slower SECO processing times, higher audit scrutiny, and greater exposure to inadvertent violations. If a violation occurs, the absence of an ICP is treated as an aggravating factor in enforcement proceedings."
+relatedArticles:
+  - title: "Swiss Business Licences & Permits: Company Guide (2026)"
+    href: "/licensing/swiss-business-licenses/"
+  - title: "Gold Trading License Switzerland: Rules (2026)"
+    href: "/licensing/gold-trading-license-switzerland/"
+  - title: "FINMA Licensing Switzerland: Crypto & Banking (2026)"
+    href: "/licensing/finma-licensing-switzerland/"
 ---
 
 

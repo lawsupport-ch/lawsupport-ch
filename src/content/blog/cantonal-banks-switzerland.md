@@ -37,6 +37,13 @@ faqItems:
     answer: "ZKB (Zurich) for the German-speaking region and BCGE (Geneva) for the French-speaking region. Both have dedicated international client desks and experience with foreign shareholders. ZKB is the largest cantonal bank overall with wealth management capabilities."
   - question: "Can a foreign company open an account at a cantonal bank without a Swiss entity?"
     answer: "Generally no. Cantonal banks serve companies registered in Switzerland. A foreign company without a Swiss branch or subsidiary registration would need to first establish a Swiss legal presence — either a branch (Zweigniederlassung) or a GmbH/AG subsidiary."
+relatedArticles:
+  - title: "Swiss Banking System: Structure & Bank Types (2026)"
+    href: "/banking/swiss-banking-system/"
+  - title: "Swiss Banks List: Major Banks in Switzerland (2026)"
+    href: "/banking/swiss-banks-list/"
+  - title: "Swiss National Bank (SNB): Role, Functions & Policy (2026)"
+    href: "/banking/swiss-national-bank/"
 ---
 
 

@@ -38,6 +38,13 @@ tocItems:
     title: "Capital Deposit Account: Special Requirements"
   - id: "how-lawsupport-helps"
     title: "How Lawsupport Helps"
+relatedArticles:
+  - title: "Swiss Bank Account: Guide for Foreigners (2026)"
+    href: "/banking/swiss-bank-account/"
+  - title: "Swiss Bank Account for Non-Residents (2026)"
+    href: "/banking/swiss-bank-account-non-residents/"
+  - title: "Corporate Bank Account Switzerland: How to Open One in 2026"
+    href: "/banking/corporate-bank-account-switzerland/"
 ---
 
 

@@ -40,6 +40,13 @@ tocItems:
     title: "Required Documents for Online Account Opening"
   - id: "corporate-bank-account-online"
     title: "Corporate Bank Account Online"
+relatedArticles:
+  - title: "Swiss Bank Account: Guide for Foreigners (2026)"
+    href: "/banking/swiss-bank-account/"
+  - title: "Swiss Bank Account Requirements & Minimum Balance (2026)"
+    href: "/banking/swiss-bank-account-requirements/"
+  - title: "Corporate Bank Account Switzerland: How to Open One in 2026"
+    href: "/banking/corporate-bank-account-switzerland/"
 ---
 
 

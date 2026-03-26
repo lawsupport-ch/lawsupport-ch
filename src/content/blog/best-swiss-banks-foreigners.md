@@ -41,6 +41,13 @@ faqItems:
     answer: "Strongly discouraged. Routing payments through a shareholder's personal account raises red flags with regulators and the cantonal tax authority. Banks and tax offices view companies without dedicated accounts as lacking operational independence and substance."
   - question: "What happens if our capital deposit account bank refuses to convert to a permanent account?"
     answer: "Approximately 80% of capital deposit account relationships convert to permanent corporate accounts. If the bank refuses, you must open at a different bank. The capital is released once the Commercial Register confirms incorporation, regardless of the ongoing banking relationship."
+relatedArticles:
+  - title: "Private Banking Switzerland: How It Works (2026)"
+    href: "/banking/private-banking-switzerland/"
+  - title: "Top Private Banks in Switzerland (2026)"
+    href: "/banking/top-private-banks-switzerland/"
+  - title: "Swiss Bank Account for Non-Residents (2026)"
+    href: "/banking/swiss-bank-account-non-residents/"
 ---
 
 <!-- schema:Article

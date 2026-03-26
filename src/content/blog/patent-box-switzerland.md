@@ -52,6 +52,13 @@ tocItems:
     title: "Friction Block: Why Patent Box Applications Fail"
   - id: "case-study-dempe-analysis-failure"
     title: "Case Study: DEMPE Analysis Failure"
+relatedArticles:
+  - title: "Swiss Tax Incentives: IP Box, R&D, NID (2026)"
+    href: "/tax-accounting/swiss-tax-incentives/"
+  - title: "Swiss Tax Structuring: Holding, IP & Trading (2026)"
+    href: "/tax-accounting/international-tax-structuring-switzerland/"
+  - title: "Corporate Tax Switzerland: Rates, Cantons & Planning (2026)"
+    href: "/tax-accounting/corporate-tax-switzerland/"
 ---
 
 

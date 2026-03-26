@@ -46,6 +46,13 @@ tocItems:
     title: "Withholding Tax and Swiss Company Formation"
   - id: "request-a-free-assessment"
     title: "Request a Free Assessment"
+relatedArticles:
+  - title: "Double Tax Treaties Switzerland: Key Rates (2026)"
+    href: "/tax-accounting/double-tax-treaties-switzerland/"
+  - title: "Capital Tax Switzerland: Rates & Calculation (2026)"
+    href: "/tax-accounting/capital-tax-switzerland/"
+  - title: "Swiss Tax Residency: Rules & Requirements"
+    href: "/tax-accounting/tax-residency-switzerland/"
 ---
 
 

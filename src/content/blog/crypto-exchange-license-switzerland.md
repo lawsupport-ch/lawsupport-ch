@@ -45,6 +45,13 @@ faqItems:
     answer: "Under the DLT Act amendments to the Banking Act, crypto assets held in custody are segregated from the custodian's bankruptcy estate. Client crypto assets are not available to general creditors in insolvency proceedings."
   - question: "Is Zug the best location for a Swiss crypto exchange?"
     answer: "Zug is the preferred location. It has the lowest effective corporate tax rate in Switzerland (approximately 11.8%), the deepest crypto ecosystem in the country, cantonal tax authority expertise in digital assets, and a concentration of compliance specialists, notaries, and crypto-native banking relationships."
+relatedArticles:
+  - title: "Crypto Licence Switzerland: FINMA & VASP Guide"
+    href: "/licensing/crypto-license-switzerland/"
+  - title: "DLT Trading Facility Switzerland: Licence Guide"
+    href: "/licensing/dlt-trading-facility-switzerland/"
+  - title: "VASP Registration Switzerland: SRO Guide (2026)"
+    href: "/licensing/vasp-registration-switzerland/"
 ---
 
 

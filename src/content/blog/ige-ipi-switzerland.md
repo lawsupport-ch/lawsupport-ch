@@ -46,6 +46,13 @@ tocItems:
     title: "Case Study: Foreign Founder Files Wrong Application"
   - id: "friction-block-common-mistakes-at-igeipi"
     title: "Friction Block: Common Mistakes at IGE/IPI"
+relatedArticles:
+  - title: "Trademark Registration Switzerland: Costs & Process"
+    href: "/intellectual-property/trademark-registration-switzerland/"
+  - title: "Patent Registration Switzerland: How to File (2026)"
+    href: "/intellectual-property/patent-registration-switzerland/"
+  - title: "Swissreg Trademark Search: Swiss IP Register Guide"
+    href: "/intellectual-property/swissreg-trademark-search/"
 ---
 
 

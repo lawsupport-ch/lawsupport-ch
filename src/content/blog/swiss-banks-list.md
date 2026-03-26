@@ -44,6 +44,13 @@ tocItems:
     title: "Crypto / Digital Asset Banks"
   - id: "investment-banks"
     title: "Investment Banks"
+relatedArticles:
+  - title: "Swiss Banking System: Structure & Bank Types (2026)"
+    href: "/banking/swiss-banking-system/"
+  - title: "Cantonal Banks Switzerland: Full List & Guide (2026)"
+    href: "/banking/cantonal-banks-switzerland/"
+  - title: "Best Swiss Banks for Foreigners: Business Guide"
+    href: "/banking/best-swiss-banks-foreigners/"
 ---
 
 

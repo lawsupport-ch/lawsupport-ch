@@ -56,6 +56,13 @@ tocItems:
     title: "Real-World Scenario: Crypto Protocol Foundation in Zug"
   - id: "get-started-with-lawsupport"
     title: "Get Started with Lawsupport"
+relatedArticles:
+  - title: "Swiss Foundation (Stiftung): Formation & Tax"
+    href: "/company-formation/foundation-switzerland/"
+  - title: "Swiss Cooperative (Genossenschaft): Formation Guide (2026)"
+    href: "/company-formation/cooperative-switzerland/"
+  - title: "Swiss Association (Verein): Formation & Structure"
+    href: "/company-formation/swiss-association-verein/"
 ---
 
 

@@ -45,6 +45,13 @@ faqItems:
     answer: "Swiss domestic withholding tax on interest from Swiss bonds and bank deposits is 35%. Most DTAs reduce this to 0-10% for qualifying recipients. Interest on commercial loans between unrelated parties is typically not subject to Swiss withholding tax at all under domestic law, making the treaty rate less relevant for corporate lending."
   - question: "Can a Swiss company reclaim foreign withholding tax paid on inbound dividends?"
     answer: "Yes. If a Swiss company receives dividends from a foreign subsidiary and the source country withholds tax in excess of the treaty rate, the Swiss company can either claim a refund from the source country or apply for a Swiss tax credit against its own Swiss tax liability. The credit method is more common and avoids the delay of foreign refund procedures."
+relatedArticles:
+  - title: "Swiss Tax Structuring: Holding, IP & Trading (2026)"
+    href: "/tax-accounting/international-tax-structuring-switzerland/"
+  - title: "Transfer Pricing Switzerland: Rules & Compliance"
+    href: "/tax-accounting/transfer-pricing-switzerland/"
+  - title: "Swiss Withholding Tax: Rates, Treaties & Refunds"
+    href: "/tax-accounting/withholding-tax-switzerland/"
 ---
 
 

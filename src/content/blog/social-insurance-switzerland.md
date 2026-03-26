@@ -46,6 +46,13 @@ faqItems:
     answer: "Krankentaggeld is not a statutory obligation under federal law. However, most collective agreements (GAV) require it, and it is universal market practice. Without Krankentaggeld coverage, the employer bears the statutory continuation-of-pay obligation under Art. 324a CO, which can extend to several months of salary depending on years of service."
   - question: "How frequently must social insurance contributions be remitted?"
     answer: "Employers remit AHV/IV/EO and ALV contributions to the cantonal Ausgleichskasse either monthly or quarterly, depending on payroll size. BVG contributions are paid to the pension fund monthly or quarterly per the fund's schedule. UVG premiums are typically billed annually by the insurer. Quellensteuer is remitted monthly to the cantonal tax authority."
+relatedArticles:
+  - title: "Payroll Switzerland: Rates & Obligations (2026)"
+    href: "/tax-accounting/payroll-switzerland/"
+  - title: "Employer Registration Switzerland: AHV & VAT (2026)"
+    href: "/tax-accounting/employer-registration-switzerland/"
+  - title: "Swiss Withholding Tax: Rates, Treaties & Refunds"
+    href: "/tax-accounting/withholding-tax-switzerland/"
 ---
 
 

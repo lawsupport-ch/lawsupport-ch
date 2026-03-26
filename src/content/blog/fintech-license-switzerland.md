@@ -42,6 +42,13 @@ tocItems:
     title: "FINMA's Approach: Rigorous but Reachable"
   - id: "working-with-lawsupport-on-your-swiss-fintech-license"
     title: "Working with Lawsupport on Your Swiss Fintech License"
+relatedArticles:
+  - title: "SRO Membership Switzerland: Requirements & Costs"
+    href: "/licensing/sro-membership-switzerland/"
+  - title: "Swiss Banking Licence: FINMA Requirements (2026)"
+    href: "/licensing/banking-license-switzerland/"
+  - title: "Crypto Licence Switzerland: FINMA & VASP Guide"
+    href: "/licensing/crypto-license-switzerland/"
 ---
 
 

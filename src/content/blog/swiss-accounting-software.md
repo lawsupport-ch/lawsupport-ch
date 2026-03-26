@@ -44,6 +44,13 @@ faqItems:
     answer: "No. Sole proprietorships with turnover below CHF 500,000 may use simplified bookkeeping (Milchbuechleinrechnung). A spreadsheet or basic tool like Banana suffices. Once turnover exceeds CHF 500,000 or you incorporate, double-entry bookkeeping becomes mandatory."
   - question: "Is Bexio or Klara better for a small Swiss GmbH?"
     answer: "Both are solid choices. Bexio has a larger market share and broader fiduciary network. Klara offers a free tier for basic invoicing. For a GmbH with employees, Bexio Swissdec-certified payroll module gives it an edge. Both handle QR-bills and VAT returns."
+relatedArticles:
+  - title: "Internal Audit Switzerland: Requirements (2026)"
+    href: "/corporate-services/internal-audit-switzerland/"
+  - title: "Betreibungsamt Switzerland: Offices by Canton"
+    href: "/corporate-services/betreibungsamt-cantons/"
+  - title: "Registered Address Switzerland: Domicile Services (2026)"
+    href: "/corporate-services/registered-address-switzerland/"
 ---
 
 

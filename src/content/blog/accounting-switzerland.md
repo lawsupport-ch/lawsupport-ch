@@ -59,6 +59,13 @@ faqItems:
     answer: "Failure to keep proper accounts can constitute a criminal offence under the Swiss Criminal Code. Directors face personal liability for resulting tax shortfalls. Fines for VAT-related bookkeeping failures can reach CHF 20'000 per infringement."
   - question: "Does Switzerland require consolidated financial statements for groups?"
     answer: "Under Arts. 962-963b OR, groups must consolidate if they exceed two of three thresholds: CHF 40 million revenue, CHF 20 million balance sheet, or 250 full-time employees. Consolidated statements must follow Swiss GAAP FER, IFRS, or US GAAP."
+relatedArticles:
+  - title: "Bookkeeping Switzerland: Rules & Requirements (2026)"
+    href: "/tax-accounting/bookkeeping-switzerland/"
+  - title: "Accounting Services Switzerland: Tax & Audit Guide"
+    href: "/tax-accounting/accounting-tax-switzerland/"
+  - title: "Statutory Audit Switzerland: Thresholds & Opt-Out"
+    href: "/tax-accounting/audit-switzerland/"
 ---
 
 

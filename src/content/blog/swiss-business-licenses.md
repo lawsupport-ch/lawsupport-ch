@@ -54,6 +54,13 @@ tocItems:
     title: "FAQ"
   - id: "next-steps"
     title: "Next Steps"
+relatedArticles:
+  - title: "FINMA Licensing Switzerland: Crypto & Banking (2026)"
+    href: "/licensing/finma-licensing-switzerland/"
+  - title: "Hotel & Restaurant License Switzerland (2026)"
+    href: "/licensing/hotel-restaurant-license-switzerland/"
+  - title: "Gold Trading License Switzerland: Rules (2026)"
+    href: "/licensing/gold-trading-license-switzerland/"
 ---
 
 

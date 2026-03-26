@@ -47,6 +47,13 @@ faqItems:
     answer: "Zug notary fees for a standard GmbH formation range from CHF 1,000–1,500; for an AG, CHF 1,500–2,500. These are comparable to Zurich and slightly lower than Geneva. The notary fee is a one-time cost at incorporation and does not vary significantly between cantons for standard formations."
   - question: "Is Zug suitable for a company with employees, or only for holding structures?"
     answer: "Zug is suitable for both. While it is best known for holding companies and international trading firms, Zug also hosts operational companies with full teams. Office space is available at CHF 350–500 per square metre per year, and the canton's transport connections (25 minutes to Zurich by train) make talent recruitment from the wider region practical."
+relatedArticles:
+  - title: "Company Formation Zurich: Full Guide (2026)"
+    href: "/company-formation/company-formation-zurich/"
+  - title: "Company Formation Switzerland: Complete Guide (2026)"
+    href: "/company-formation/company-formation-switzerland/"
+  - title: "Shelf Company Switzerland: Buy a Ready-Made AG or GmbH"
+    href: "/company-formation/shelf-company-switzerland/"
 ---
 
 

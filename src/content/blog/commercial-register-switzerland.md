@@ -53,6 +53,13 @@ Before 2022, it was possible to pay a surcharge of approximately 60% above stand
     answer: "Swiss law requires that changes be filed promptly — within a reasonable time after the board or shareholder resolution. Best practice is to file within days of the resolution. Waiting beyond three months creates legal risk, as third parties can rely on the outdated register entry."
   - question: "Does the Commercial Register show a company's financial statements?"
     answer: "No. Unlike some EU jurisdictions, Swiss law does not require companies to file annual accounts with the Commercial Register. Financial statements remain internal documents unless the company is publicly listed or subject to specific disclosure obligations under financial market law."
+relatedArticles:
+  - title: "Commercial Register Switzerland: Cantonal Offices (2026)"
+    href: "/company-formation/commercial-register-cantons/"
+  - title: "ZEFIX: Swiss Company Search — Complete Guide (2026)"
+    href: "/company-formation/zefix-company-search/"
+  - title: "Company Formation Switzerland: Complete Guide (2026)"
+    href: "/company-formation/company-formation-switzerland/"
 ---
 
 

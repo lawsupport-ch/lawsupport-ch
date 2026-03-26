@@ -42,6 +42,13 @@ tocItems:
     title: "Nominee Director vs Nominee Shareholder"
   - id: "related-guides"
     title: "Related Guides"
+relatedArticles:
+  - title: "Nominee Services Switzerland: Full Guide (2026)"
+    href: "/company-formation/nominee-services-switzerland/"
+  - title: "Shelf Company Switzerland: Buy a Ready-Made AG or GmbH"
+    href: "/company-formation/shelf-company-switzerland/"
+  - title: "AG Formation Switzerland: Aktiengesellschaft Guide"
+    href: "/company-formation/ag-formation-switzerland/"
 ---
 
 

@@ -53,6 +53,13 @@ faqItems:
     answer: "Under Art. 332 OR, inventions and designs created by the employee in the course of their duties automatically belong to the employer. However, copyright works (software code, written content, designs) require explicit contractual assignment to transfer ownership fully. Include a clause assigning all IP created during employment to the company, covering inventions, copyright, and know-how."
   - question: "Can I include an overtime waiver in a Swiss employment contract?"
     answer: "Partial overtime waivers are permissible for management-level employees and certain specialists, but they must be explicitly agreed in writing. For ordinary employees, overtime above the statutory maximum working hours (45 or 50 hours per week depending on industry) must be compensated at 125% or with equivalent time off. Blanket overtime waivers for all staff are not enforceable."
+relatedArticles:
+  - title: "Employment Law Switzerland: Employer's Complete Guide (2026)"
+    href: "/employment-law/employment-law-switzerland/"
+  - title: "Employment Termination Switzerland: Notice & Rights"
+    href: "/employment-law/termination-employment-switzerland/"
+  - title: "Working Hours Switzerland: Limits & Overtime Rules"
+    href: "/employment-law/working-hours-switzerland/"
 ---
 
 

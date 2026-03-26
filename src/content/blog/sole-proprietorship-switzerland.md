@@ -44,6 +44,13 @@ faqItems:
     answer: "The Einzelfirma cannot operate without its owner, as it is not a separate legal entity. If the owner becomes incapacitated, a power of attorney (Vorsorgevollmacht) can authorise another person to manage the business temporarily. Without such provisions, the business effectively ceases until the owner recovers or the estate intervenes."
   - question: "Can two people run a business together as sole proprietors?"
     answer: "No. By definition, an Einzelfirma has a single owner. Two or more people operating a business together must form a partnership (Kollektivgesellschaft), a GmbH, or an AG. The partnership is the simplest multi-owner structure but, like the Einzelfirma, provides no liability protection."
+relatedArticles:
+  - title: "GmbH Formation Switzerland: Complete Guide (2026)"
+    href: "/company-formation/gmbh-formation-switzerland/"
+  - title: "How to Start a Business in Switzerland: Full Guide (2026)"
+    href: "/company-formation/start-business-switzerland/"
+  - title: "Swiss Limited Partnership (KG): Structure & Uses"
+    href: "/company-formation/limited-partnership-switzerland/"
 ---
 
 

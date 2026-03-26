@@ -59,6 +59,13 @@ tocItems:
     title: "Lawsupport's Audit Coordination Service"
   - id: "get-a-free-assessment-of-your-audit-obligations"
     title: "Get a Free Assessment of Your Audit Obligations"
+relatedArticles:
+  - title: "Swiss Accounting Requirements: OR, GAAP FER & Audit"
+    href: "/tax-accounting/accounting-switzerland/"
+  - title: "Bookkeeping Switzerland: Rules & Requirements (2026)"
+    href: "/tax-accounting/bookkeeping-switzerland/"
+  - title: "Corporate Tax Return Switzerland: Filing Guide"
+    href: "/tax-accounting/corporate-tax-return-switzerland/"
 ---
 
 

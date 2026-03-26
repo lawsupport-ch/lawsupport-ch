@@ -44,6 +44,13 @@ tocItems:
     title: "Tax Treatment of Tokens in Switzerland"
   - id: "switzerland-vs-cayman-islands-a-direct-comparison"
     title: "Switzerland vs. Cayman Islands: A Direct Comparison"
+relatedArticles:
+  - title: "Crypto Licence Switzerland: FINMA & VASP Guide"
+    href: "/licensing/crypto-license-switzerland/"
+  - title: "VASP Registration Switzerland: SRO Guide (2026)"
+    href: "/licensing/vasp-registration-switzerland/"
+  - title: "DLT Trading Facility Switzerland: Licence Guide"
+    href: "/licensing/dlt-trading-facility-switzerland/"
 ---
 
 

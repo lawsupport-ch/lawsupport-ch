@@ -59,6 +59,13 @@ faqItems:
     answer: "Yes. All Swiss cantons are required to offer a Patent Box under the 2020 STAF corporate tax reform. Net income from qualifying intellectual property — patents, supplementary protection certificates, and certain other rights — can receive up to a 90% tax reduction, resulting in effective rates as low as 1.2% in the most favourable cantons."
   - question: "Do I need a resident director for a Swiss company?"
     answer: "Yes. At least one manager of a GmbH, or one board member of an AG, who is authorised to represent the company individually or jointly must be domiciled in Switzerland. Lawsupport provides qualified nominee director services for international clients who do not have a Swiss-resident director available."
+relatedArticles:
+  - title: "How to Start a Business in Switzerland: Full Guide (2026)"
+    href: "/company-formation/start-business-switzerland/"
+  - title: "Company Formation Switzerland: Complete Guide (2026)"
+    href: "/company-formation/company-formation-switzerland/"
+  - title: "Branch Office Switzerland: Registration & Requirements"
+    href: "/company-formation/branch-office-switzerland/"
 ---
 
 

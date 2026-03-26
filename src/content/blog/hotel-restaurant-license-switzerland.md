@@ -50,6 +50,13 @@ tocItems:
     title: "Step-by-Step Checklist: Opening a Restaurant or Hotel in Switzerland"
   - id: "request-a-free-assessment"
     title: "Request a Free Assessment"
+relatedArticles:
+  - title: "Swiss Business Licences & Permits: Company Guide (2026)"
+    href: "/licensing/swiss-business-licenses/"
+  - title: "Swissmedic Licence: Pharma & Device Authorisation"
+    href: "/licensing/swissmedic-license-switzerland/"
+  - title: "Gold Trading License Switzerland: Rules (2026)"
+    href: "/licensing/gold-trading-license-switzerland/"
 ---
 
 

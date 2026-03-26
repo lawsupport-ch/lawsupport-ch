@@ -48,6 +48,13 @@ tocItems:
     title: "The Swiss National Bank (SNB)"
   - id: "swiss-banking-secrecy"
     title: "Swiss Banking Secrecy"
+relatedArticles:
+  - title: "Swiss Banks List: Major Banks in Switzerland (2026)"
+    href: "/banking/swiss-banks-list/"
+  - title: "Cantonal Banks Switzerland: Full List & Guide (2026)"
+    href: "/banking/cantonal-banks-switzerland/"
+  - title: "Swiss National Bank (SNB): Role, Functions & Policy (2026)"
+    href: "/banking/swiss-national-bank/"
 ---
 
 

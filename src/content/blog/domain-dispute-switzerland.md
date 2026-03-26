@@ -49,6 +49,13 @@ faqItems:
     answer: "Register your exact-match .ch, .com, and relevant country-code domains before company formation or SHAB publication. Budget CHF 200-500 for a defensive portfolio. Monitor domain registrations matching your brand using automated watch services. This costs far less than the CHF 5'000-15'000 needed to recover a domain after the fact."
   - question: "What is the success rate for SWITCH-DRP complaints?"
     answer: "Complainants succeed in approximately 85% of SWITCH-DRP cases where all three required elements are properly evidenced. The most common reason for failure is insufficient proof of bad faith. Cases involving generic dictionary words used as domain names are significantly harder to win than cases involving distinctive trademarks."
+relatedArticles:
+  - title: "IP Protection Switzerland: Patents & Trademarks (2026)"
+    href: "/intellectual-property/ip-protection-switzerland/"
+  - title: "Trademark Registration Switzerland: Costs & Process"
+    href: "/intellectual-property/trademark-registration-switzerland/"
+  - title: "Copyright Law Switzerland: Protection & Enforcement (2026)"
+    href: "/intellectual-property/copyright-law-switzerland/"
 ---
 
 

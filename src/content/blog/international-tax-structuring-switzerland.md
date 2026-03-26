@@ -44,6 +44,13 @@ tocItems:
     title: "Structure 4: Treasury and Finance Centre"
   - id: "beps-cbcr-and-pillar-two-in-2026"
     title: "BEPS, CbCR, and Pillar Two in 2026"
+relatedArticles:
+  - title: "Transfer Pricing Switzerland: Rules & Compliance"
+    href: "/tax-accounting/transfer-pricing-switzerland/"
+  - title: "Double Tax Treaties Switzerland: Key Rates (2026)"
+    href: "/tax-accounting/double-tax-treaties-switzerland/"
+  - title: "Patent Box Switzerland: IP Tax Reduction (2026)"
+    href: "/tax-accounting/patent-box-switzerland/"
 ---
 
 

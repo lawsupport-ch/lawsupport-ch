@@ -50,6 +50,13 @@ tocItems:
     title: "Common Mistakes in GmbH Formation Switzerland"
   - id: "request-a-free-assessment"
     title: "Request a Free Assessment"
+relatedArticles:
+  - title: "AG Formation Switzerland: Aktiengesellschaft Guide"
+    href: "/company-formation/ag-formation-switzerland/"
+  - title: "Company Formation Switzerland: Complete Guide (2026)"
+    href: "/company-formation/company-formation-switzerland/"
+  - title: "Sole Proprietorship Switzerland: Einzelfirma Guide"
+    href: "/company-formation/sole-proprietorship-switzerland/"
 ---
 
 

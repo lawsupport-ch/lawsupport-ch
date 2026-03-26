@@ -44,6 +44,13 @@ tocItems:
     title: "How to Set Up"
   - id: "request-a-free-assessment"
     title: "Request a Free Assessment"
+relatedArticles:
+  - title: "Registered Address Switzerland: Domicile Services (2026)"
+    href: "/corporate-services/registered-address-switzerland/"
+  - title: "Nominee Director Switzerland: Services & Costs (2026)"
+    href: "/corporate-services/nominee-director-switzerland/"
+  - title: "Swiss Accounting Software: Top Options for Companies (2026)"
+    href: "/corporate-services/swiss-accounting-software/"
 ---
 
 

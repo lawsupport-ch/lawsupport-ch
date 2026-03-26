@@ -51,6 +51,13 @@ tocItems:
     title: "Case Study: Switzerland's First Crypto Banks"
   - id: "request-a-free-assessment"
     title: "Request a Free Assessment"
+relatedArticles:
+  - title: "FINMA Licensing Switzerland: Crypto & Banking (2026)"
+    href: "/licensing/finma-licensing-switzerland/"
+  - title: "Asset Management License Switzerland: FINMA Guide"
+    href: "/licensing/asset-management-license-switzerland/"
+  - title: "Fintech License Switzerland: FINMA Options"
+    href: "/licensing/fintech-license-switzerland/"
 ---
 
 
