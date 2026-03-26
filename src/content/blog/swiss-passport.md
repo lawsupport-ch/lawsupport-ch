@@ -46,6 +46,13 @@ tocItems:
     title: "Applying for the Passport Itself"
   - id: "how-lawsupport-can-help"
     title: "How Lawsupport Can Help"
+relatedArticles:
+  - title: "Swiss Citizenship: Requirements, Process & Timeline (2026)"
+    href: "/immigration/swiss-citizenship/"
+  - title: "Swiss Dual Citizenship: Rules & Rights (2026)"
+    href: "/immigration/swiss-dual-citizenship/"
+  - title: "Swiss Naturalization: Requirements & Process (2026)"
+    href: "/immigration/swiss-naturalization/"
 ---
 
 

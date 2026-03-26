@@ -49,6 +49,13 @@ faqItems:
     answer: "Swiss landlords require a deposit of three months rent, paid into a blocked bank account (Mietkautionskonto) in the tenant name. The deposit cannot be accessed by the landlord without tenant consent or a court order. Expect to commit CHF 7,500-18,000 upfront depending on the apartment."
   - question: "How does the Swiss tax system differ between cantons?"
     answer: "Switzerland has three layers of income tax: federal, cantonal, and communal. The federal rate is uniform, but cantonal and communal rates vary dramatically. Effective combined rates range from 15-18% in Schwyz to 30-35% in Geneva on the same income. For high earners, the annual tax difference between Zug and Zurich can exceed CHF 20,000."
+relatedArticles:
+  - title: "Buying Property in Switzerland as a Foreigner (2026)"
+    href: "/immigration/buying-property-switzerland-foreigner/"
+  - title: "Immigrate to Switzerland as an Entrepreneur (2026)"
+    href: "/immigration/immigrate-to-switzerland/"
+  - title: "G Permit Switzerland: Cross-Border Commuter Guide"
+    href: "/immigration/g-permit-switzerland/"
 ---
 
 

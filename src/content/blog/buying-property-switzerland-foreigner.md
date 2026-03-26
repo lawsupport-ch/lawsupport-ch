@@ -47,6 +47,13 @@ tocItems:
     title: "The Transaction Process Step by Step"
   - id: "request-a-free-assessment"
     title: "Request a Free Assessment"
+relatedArticles:
+  - title: "Lex Koller Switzerland: Rules & Exemptions (2026)"
+    href: "/immigration/lex-koller-switzerland/"
+  - title: "Cost of Living Switzerland: Realistic Numbers for 2026"
+    href: "/immigration/cost-of-living-switzerland/"
+  - title: "Immigrate to Switzerland as an Entrepreneur (2026)"
+    href: "/immigration/immigrate-to-switzerland/"
 ---
 
 

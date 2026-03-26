@@ -44,6 +44,13 @@ tocItems:
     title: "Children of Dual Citizens"
   - id: "reclaiming-swiss-citizenship"
     title: "Reclaiming Swiss Citizenship"
+relatedArticles:
+  - title: "Swiss Citizenship: Requirements, Process & Timeline (2026)"
+    href: "/immigration/swiss-citizenship/"
+  - title: "Swiss Citizenship by Descent: Parents & Grandparents (2026)"
+    href: "/immigration/swiss-citizenship-by-descent/"
+  - title: "Swiss Passport: How to Get One in 2026"
+    href: "/immigration/swiss-passport/"
 ---
 
 

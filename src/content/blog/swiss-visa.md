@@ -42,6 +42,13 @@ tocItems:
     title: "From Visa to Permanent Residence"
   - id: "get-expert-guidance-on-swiss-visa-and-immigration-matters"
     title: "Get Expert Guidance on Swiss Visa and Immigration Matters"
+relatedArticles:
+  - title: "Immigrate to Switzerland as an Entrepreneur (2026)"
+    href: "/immigration/immigrate-to-switzerland/"
+  - title: "B Permit Switzerland: Requirements & How to Apply (2026)"
+    href: "/immigration/b-permit-switzerland/"
+  - title: "Swiss Work Permit for EU/EEA Nationals (2026)"
+    href: "/immigration/swiss-work-permit-eu-nationals/"
 ---
 
 

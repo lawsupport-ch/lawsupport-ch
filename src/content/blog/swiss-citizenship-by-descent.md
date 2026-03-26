@@ -52,6 +52,13 @@ tocItems:
     title: "How Lawsupport Helps"
   - id: "take-the-next-step"
     title: "Take the Next Step"
+relatedArticles:
+  - title: "Swiss Citizenship: Requirements, Process & Timeline (2026)"
+    href: "/immigration/swiss-citizenship/"
+  - title: "Swiss Dual Citizenship: Rules & Rights (2026)"
+    href: "/immigration/swiss-dual-citizenship/"
+  - title: "Swiss Passport: How to Get One in 2026"
+    href: "/immigration/swiss-passport/"
 ---
 
 

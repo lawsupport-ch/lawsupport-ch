@@ -44,6 +44,13 @@ tocItems:
     title: "The Commercial Property Escape Route"
   - id: "enforcement-and-penalties"
     title: "Enforcement and Penalties"
+relatedArticles:
+  - title: "Buying Property in Switzerland as a Foreigner (2026)"
+    href: "/immigration/buying-property-switzerland-foreigner/"
+  - title: "Cost of Living Switzerland: Realistic Numbers for 2026"
+    href: "/immigration/cost-of-living-switzerland/"
+  - title: "Residence Permit for Business Owners in Switzerland"
+    href: "/immigration/residence-permit-business-owner-switzerland/"
 ---
 
 

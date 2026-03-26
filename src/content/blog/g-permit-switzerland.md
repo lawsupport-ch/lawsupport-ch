@@ -50,6 +50,13 @@ tocItems:
     title: "Switching from G Permit to B Permit"
   - id: "get-advice-on-your-g-permit-application"
     title: "Get Advice on Your G Permit Application"
+relatedArticles:
+  - title: "Swiss Work Permit for EU/EEA Nationals (2026)"
+    href: "/immigration/swiss-work-permit-eu-nationals/"
+  - title: "Work Permit Switzerland: Types & Requirements"
+    href: "/immigration/work-permit-switzerland/"
+  - title: "Cost of Living Switzerland: Realistic Numbers for 2026"
+    href: "/immigration/cost-of-living-switzerland/"
 ---
 
 

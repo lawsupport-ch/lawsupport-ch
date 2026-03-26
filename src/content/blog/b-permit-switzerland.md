@@ -51,6 +51,13 @@ faqItems:
     answer: "Yes. The B permit is issued by one canton and you must reside in that canton. Moving to a different canton requires notifying both cantonal migration offices and re-registering. The new canton issues a fresh B permit."
   - question: "Can I be self-employed on a B permit?"
     answer: "EU/EFTA nationals can obtain a B permit for self-employment if they demonstrate a viable business plan and sufficient financial means. Non-EU nationals face stricter requirements: the self-employment must create economic benefit for Switzerland and typically requires a detailed business plan with financial projections."
+relatedArticles:
+  - title: "C Permit Switzerland: Requirements & How to Get It"
+    href: "/immigration/c-permit-switzerland/"
+  - title: "Work Permit Switzerland: Types & Requirements"
+    href: "/immigration/work-permit-switzerland/"
+  - title: "Swiss Work Permit for EU/EEA Nationals (2026)"
+    href: "/immigration/swiss-work-permit-eu-nationals/"
 ---
 
 

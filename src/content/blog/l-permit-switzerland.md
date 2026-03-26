@@ -44,6 +44,13 @@ tocItems:
     title: "Common Uses for the L Permit"
   - id: "l-permit-vs-b-permit-vs-g-permit"
     title: "L Permit vs B Permit vs G Permit"
+relatedArticles:
+  - title: "B Permit Switzerland: Requirements & How to Apply (2026)"
+    href: "/immigration/b-permit-switzerland/"
+  - title: "Work Permit Switzerland: Types & Requirements"
+    href: "/immigration/work-permit-switzerland/"
+  - title: "Swiss Work Permit for EU/EEA Nationals (2026)"
+    href: "/immigration/swiss-work-permit-eu-nationals/"
 ---
 
 

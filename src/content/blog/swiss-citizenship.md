@@ -48,6 +48,13 @@ tocItems:
     title: "Steps to Take Now If You Want Swiss Citizenship"
   - id: "start-your-journey-with-lawsupport-in-zug"
     title: "Start Your Journey with Lawsupport in Zug"
+relatedArticles:
+  - title: "Swiss Naturalization: Requirements & Process (2026)"
+    href: "/immigration/swiss-naturalization/"
+  - title: "Swiss Citizenship by Marriage: Requirements (2026)"
+    href: "/immigration/swiss-citizenship-by-marriage/"
+  - title: "Swiss Passport: How to Get One in 2026"
+    href: "/immigration/swiss-passport/"
 ---
 
 

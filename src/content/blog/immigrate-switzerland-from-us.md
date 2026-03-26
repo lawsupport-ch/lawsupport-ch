@@ -48,6 +48,13 @@ tocItems:
     title: "Practical Immigration Timeline"
   - id: "related-guides"
     title: "Related Guides"
+relatedArticles:
+  - title: "Immigrate to Switzerland as an Entrepreneur (2026)"
+    href: "/immigration/immigrate-to-switzerland/"
+  - title: "Work Permit Non-EU Switzerland: Quota Guide (2026)"
+    href: "/immigration/work-permit-non-eu-switzerland/"
+  - title: "Swiss Visa: Types, Requirements & Process"
+    href: "/immigration/swiss-visa/"
 ---
 
 

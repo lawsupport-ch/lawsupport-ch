@@ -48,6 +48,13 @@ tocItems:
     title: "Employment Law Considerations"
   - id: "get-expert-guidance-on-swiss-work-permits-and-immigration"
     title: "Get Expert Guidance on Swiss Work Permits and Immigration"
+relatedArticles:
+  - title: "Work Permit Switzerland: Types & Requirements"
+    href: "/immigration/work-permit-switzerland/"
+  - title: "B Permit Switzerland: Requirements & How to Apply (2026)"
+    href: "/immigration/b-permit-switzerland/"
+  - title: "L Permit Switzerland: Rules & Requirements (2026)"
+    href: "/immigration/l-permit-switzerland/"
 ---
 
 

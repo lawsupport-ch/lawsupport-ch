@@ -41,6 +41,13 @@ faqItems:
     answer: "Depending on the canton and permit type, joining family members may need to demonstrate basic language skills in the local official language (A1-B1 level depending on canton). Some cantons require an integration agreement (Integrationsvereinbarung) specifying language course attendance and civic knowledge milestones. Non-compliance can affect permit renewal."
   - question: "Is there a deadline for filing the family reunification application?"
     answer: "For non-EU/EFTA nationals: family reunification for spouses must be applied for within 5 years of the sponsor obtaining their permit, and for children under 12 within 1 year. Missing these deadlines does not make reunification impossible but shifts the burden — late applications are assessed under stricter 'important personal reasons' criteria and approval rates drop significantly."
+relatedArticles:
+  - title: "B Permit Switzerland: Requirements & How to Apply (2026)"
+    href: "/immigration/b-permit-switzerland/"
+  - title: "C Permit Switzerland: Requirements & How to Get It"
+    href: "/immigration/c-permit-switzerland/"
+  - title: "Immigrate to Switzerland as an Entrepreneur (2026)"
+    href: "/immigration/immigrate-to-switzerland/"
 ---
 
 

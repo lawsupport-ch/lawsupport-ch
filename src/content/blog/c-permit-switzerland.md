@@ -47,6 +47,13 @@ faqItems:
     answer: "For non-EU/EFTA nationals, most cantons require proficiency in the local national language at A2 or B1 level on the CEFR scale. EU/EFTA nationals are generally not subject to a formal language test requirement, though language ability remains relevant to the overall integration assessment."
   - question: "Can entrepreneurs and self-employed people apply for the C permit?"
     answer: "Yes. Entrepreneurs and self-employed individuals qualify on the same conditions as employed residents. Time spent running a Swiss company or working as a sole trader counts toward the qualifying period, provided you were lawfully registered and financially self-sufficient throughout."
+relatedArticles:
+  - title: "B Permit Switzerland: Requirements & How to Apply (2026)"
+    href: "/immigration/b-permit-switzerland/"
+  - title: "Swiss Naturalization: Requirements & Process (2026)"
+    href: "/immigration/swiss-naturalization/"
+  - title: "Swiss Citizenship: Requirements, Process & Timeline (2026)"
+    href: "/immigration/swiss-citizenship/"
 ---
 
 

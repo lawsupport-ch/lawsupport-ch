@@ -40,6 +40,13 @@ tocItems:
     title: "The Swiss Passport: What You Get After Naturalisation"
   - id: "working-with-qualified-advisers"
     title: "Working With Qualified Advisers"
+relatedArticles:
+  - title: "Swiss Citizenship: Requirements, Process & Timeline (2026)"
+    href: "/immigration/swiss-citizenship/"
+  - title: "Swiss Naturalization: Requirements & Process (2026)"
+    href: "/immigration/swiss-naturalization/"
+  - title: "Residence Permit for Business Owners in Switzerland"
+    href: "/immigration/residence-permit-business-owner-switzerland/"
 ---
 
 

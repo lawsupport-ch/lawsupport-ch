@@ -42,6 +42,13 @@ faqItems:
     answer: "No. The lump-sum taxation regime explicitly prohibits gainful activity in Switzerland. Recipients may manage foreign investments and assets but cannot operate a Swiss business, hold an executive role in a Swiss company, or provide services from Switzerland. Violation results in loss of lump-sum status and retrospective taxation at ordinary rates."
   - question: "How does cantonal choice affect residence permit approval chances?"
     answer: "Cantonal migration offices have significant discretion and vary in their approach. Zug and Zurich are experienced with international business owners and tend to process applications more efficiently. Some cantons are more receptive to tech and crypto entrepreneurs. The canton where the company is domiciled is typically the canton that processes the permit application."
+relatedArticles:
+  - title: "Immigrate to Switzerland as an Entrepreneur (2026)"
+    href: "/immigration/immigrate-to-switzerland/"
+  - title: "B Permit Switzerland: Requirements & How to Apply (2026)"
+    href: "/immigration/b-permit-switzerland/"
+  - title: "Work Permit Non-EU Switzerland: Quota Guide (2026)"
+    href: "/immigration/work-permit-non-eu-switzerland/"
 ---
 
 

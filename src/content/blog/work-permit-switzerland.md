@@ -48,6 +48,13 @@ tocItems:
     title: "From B Permit to C Permit: The Residency Pathway"
   - id: "request-a-free-assessment"
     title: "Request a Free Assessment"
+relatedArticles:
+  - title: "Work Permit Non-EU Switzerland: Quota Guide (2026)"
+    href: "/immigration/work-permit-non-eu-switzerland/"
+  - title: "Swiss Work Permit for EU/EEA Nationals (2026)"
+    href: "/immigration/swiss-work-permit-eu-nationals/"
+  - title: "B Permit Switzerland: Requirements & How to Apply (2026)"
+    href: "/immigration/b-permit-switzerland/"
 ---
 
 

@@ -50,6 +50,13 @@ tocItems:
     title: "Swiss Social Security and AHV: What Entrepreneurs Must Budget"
   - id: "practical-steps-the-non-eu-entrepreneurs-swiss-immigration-c"
     title: "Practical Steps: The Non-EU Entrepreneur's Swiss Immigration Checklist"
+relatedArticles:
+  - title: "Residence Permit for Business Owners in Switzerland"
+    href: "/immigration/residence-permit-business-owner-switzerland/"
+  - title: "Immigrate to Switzerland from the US (2026)"
+    href: "/immigration/immigrate-switzerland-from-us/"
+  - title: "Swiss Visa: Types, Requirements & Process"
+    href: "/immigration/swiss-visa/"
 ---
 
 

@@ -52,6 +52,13 @@ tocItems:
     title: "Realistic Expectations"
   - id: "request-a-free-assessment"
     title: "Request a Free Assessment"
+relatedArticles:
+  - title: "Work Permit Switzerland: Types & Requirements"
+    href: "/immigration/work-permit-switzerland/"
+  - title: "B Permit Switzerland: Requirements & How to Apply (2026)"
+    href: "/immigration/b-permit-switzerland/"
+  - title: "Residence Permit for Business Owners in Switzerland"
+    href: "/immigration/residence-permit-business-owner-switzerland/"
 ---
 
 

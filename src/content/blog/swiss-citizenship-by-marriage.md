@@ -50,6 +50,13 @@ tocItems:
     title: "Facilitated vs. Ordinary Naturalisation: Decision Tree"
   - id: "how-lawsupport-assists"
     title: "How Lawsupport Assists"
+relatedArticles:
+  - title: "Swiss Citizenship: Requirements, Process & Timeline (2026)"
+    href: "/immigration/swiss-citizenship/"
+  - title: "Swiss Naturalization: Requirements & Process (2026)"
+    href: "/immigration/swiss-naturalization/"
+  - title: "Swiss Dual Citizenship: Rules & Rights (2026)"
+    href: "/immigration/swiss-dual-citizenship/"
 ---
 
 

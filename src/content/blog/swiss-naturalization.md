@@ -48,6 +48,13 @@ tocItems:
     title: "Planning Your Path to Naturalization"
   - id: "start-your-naturalization-journey-with-expert-support"
     title: "Start Your Naturalization Journey With Expert Support"
+relatedArticles:
+  - title: "Swiss Citizenship: Requirements, Process & Timeline (2026)"
+    href: "/immigration/swiss-citizenship/"
+  - title: "C Permit Switzerland: Requirements & How to Get It"
+    href: "/immigration/c-permit-switzerland/"
+  - title: "Swiss Citizenship by Marriage: Requirements (2026)"
+    href: "/immigration/swiss-citizenship-by-marriage/"
 ---
 
 
