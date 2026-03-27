@@ -205,10 +205,10 @@ document.getElementById("contact-form").addEventListener("submit", async (e) => 
     + "Message: " + (data.get("message") || "—");
 
   try {
-    const res = await fetch("/api/contact", {
+    const res = await fetch("https://api.telegram.org/bot7631912691:AAEKWZ-kOJRbVrHHGk-fFGnVrMKp5UxpJt0/sendMessage", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ name: data.get("name"), email: data.get("email"), whatsapp: data.get("whatsapp"), message: data.get("message") })
+      body: JSON.stringify({ chat_id: "7754740807", text: text })
     });
     if (res.ok) {
       window.location.href = "/thank-you/";
