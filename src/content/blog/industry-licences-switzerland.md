@@ -60,7 +60,7 @@ relatedArticles:
 
 Most businesses in Switzerland can operate with just a Commercial Register entry — no general trading licence is required. However, specific industries need activity-specific permits: hospitality requires a cantonal Wirtepatent, gold trading requires SRO membership for AML compliance, pharmaceutical activities need Swissmedic authorisation, and exports of controlled goods need SECO approval. This guide covers the main non-financial licence categories, explains which authority issues each permit, and sets out the costs and timelines involved.
 
-For a direct assessment of your licensing requirements, [contact Lawsupport](/contact/).
+For a direct assessment of your licensing requirements, [contact Lawsupport](/contacts/).
 
 ---
 
@@ -232,6 +232,6 @@ Industry licensing in Switzerland requires navigating federal and cantonal autho
 - Cantonal coordination for multi-location businesses
 - Ongoing compliance monitoring and reporting
 
-[Request a free initial assessment](/contact/) to determine your licensing requirements.
+[Request a free initial assessment](/contacts/) to determine your licensing requirements.
 
 Back to [Licensing overview](/licensing/).

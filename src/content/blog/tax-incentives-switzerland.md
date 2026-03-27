@@ -250,7 +250,7 @@ A qualified [tax adviser](/tax-accounting/tax-advisory-switzerland/) adds value 
 - **Compliance**: Correctly calculating the patent box and R&D deduction in annual tax returns
 - **Defence**: Representing the company if the tax authority challenges the application of an incentive
 
-For a confidential assessment of which Swiss tax incentives apply to your situation, [contact Lawsupport](/contact/).
+For a confidential assessment of which Swiss tax incentives apply to your situation, [contact Lawsupport](/contacts/).
 
 ---
 

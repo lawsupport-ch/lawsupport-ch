@@ -62,7 +62,7 @@ relatedArticles:
 
 Switzerland operates a dual-track permit system: EU/EFTA nationals benefit from the Agreement on Free Movement of Persons (AFMP), whilst non-EU nationals are subject to quotas and stricter eligibility criteria under the Federal Act on Foreign Nationals and Integration (AIG). The four main permit types — B, C, L and G — each serve a distinct purpose. This guide explains who qualifies for each permit, what each costs, how long they last, and how to move from one permit category to another.
 
-For personalised guidance on your permit application, [contact Lawsupport](/contact/) for a free initial assessment.
+For personalised guidance on your permit application, [contact Lawsupport](/contacts/) for a free initial assessment.
 
 ---
 
@@ -204,6 +204,6 @@ Permit applications involve cantonal authorities, federal oversight, employer do
 
 Lawsupport, based in Zug, handles the full permit process: initial eligibility assessment, document preparation, cantonal filing, follow-up with SEM, and — if needed — appeal of unfavourable decisions. Our team works across all cantons and handles both [EU/EFTA](/immigration/swiss-work-permit-eu-nationals/) and [non-EU](/immigration/work-permit-non-eu-switzerland/) applications.
 
-[Request a free initial assessment](/contact/) to determine which permit category fits your situation and how long the process will take.
+[Request a free initial assessment](/contacts/) to determine which permit category fits your situation and how long the process will take.
 
 Back to [Immigration overview](/immigration/).

@@ -62,7 +62,7 @@ relatedArticles:
 
 Switzerland has positioned itself as one of the most structured jurisdictions for crypto and fintech regulation. The framework is built on existing financial market legislation — primarily the Banking Act (BankG), the Financial Institutions Act (FinIA), and the Anti-Money Laundering Act (AMLA) — supplemented by the DLT Act of 2021, which introduced blockchain-specific provisions. Whether you need SRO membership, a FINMA fintech licence, or a full DLT trading facility licence depends on your specific business model. This guide maps each business activity to the correct regulatory requirement.
 
-For a direct assessment of your licensing needs, [contact Lawsupport](/contact/).
+For a direct assessment of your licensing needs, [contact Lawsupport](/contacts/).
 
 ---
 
@@ -250,6 +250,6 @@ Crypto regulation in Switzerland is principles-based, which means the correct li
 - [Fintech licence](/licensing/fintech-license-switzerland/) applications
 - AML framework development and compliance officer training
 
-[Request a free initial assessment](/contact/) to determine which authorisation your business needs.
+[Request a free initial assessment](/contacts/) to determine which authorisation your business needs.
 
 Back to [Licensing overview](/licensing/).

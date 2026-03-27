@@ -62,7 +62,7 @@ relatedArticles:
 
 The Swiss Financial Market Supervisory Authority (FINMA) issues licences for banks, securities firms, asset managers, fund management companies, and insurance companies operating in or from Switzerland. The licensing framework is built on three primary laws: the Banking Act (BankG), the Financial Institutions Act (FinIA), and the Financial Services Act (FinSA). Each licence category has distinct capital requirements, organisational standards, and ongoing reporting obligations. This guide explains each category, the application process, and realistic costs and timelines.
 
-For a direct assessment of your licensing requirements, [contact Lawsupport](/contact/).
+For a direct assessment of your licensing requirements, [contact Lawsupport](/contacts/).
 
 ---
 
@@ -234,6 +234,6 @@ FINMA licensing requires legal, regulatory, and organisational expertise. Lawsup
 - [FinSA](/licensing/finsa-switzerland/) compliance frameworks
 - [Asset management](/licensing/asset-management-license-switzerland/) and [banking](/licensing/banking-license-switzerland/) licence applications
 
-[Request a free initial assessment](/contact/) to determine your licensing requirements and expected timeline.
+[Request a free initial assessment](/contacts/) to determine your licensing requirements and expected timeline.
 
 Back to [Licensing overview](/licensing/).

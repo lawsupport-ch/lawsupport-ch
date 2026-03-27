@@ -246,6 +246,6 @@ For professional assistance with international tax structuring, consult our guid
 
 ## Frequently Asked Questions
 
-The FAQ section above addresses the ten most common questions about international tax planning from Switzerland. For situation-specific advice, [contact Lawsupport](/contact/) for a confidential discussion.
+The FAQ section above addresses the ten most common questions about international tax planning from Switzerland. For situation-specific advice, [contact Lawsupport](/contacts/) for a confidential discussion.
 
 Return to the [Tax & Accounting](/tax-accounting/) hub for the complete range of Swiss tax and accounting topics.

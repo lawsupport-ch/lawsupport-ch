@@ -62,7 +62,7 @@ relatedArticles:
 
 Swiss citizenship can be acquired through four main routes: ordinary naturalisation after 10 years of residence, facilitated naturalisation through marriage to a Swiss citizen, registration of citizenship by descent, or — indirectly — through establishing residence via investment and lump-sum taxation. Each path has distinct requirements, timelines and costs. This guide sets out exactly what each route involves and which one fits your situation.
 
-For a personalised assessment of your eligibility, [contact Lawsupport](/contact/).
+For a personalised assessment of your eligibility, [contact Lawsupport](/contacts/).
 
 ---
 
@@ -219,6 +219,6 @@ Citizenship applications require coordination across three levels of government 
 
 We handle all routes: ordinary naturalisation, facilitated naturalisation for [spouses](/immigration/swiss-citizenship-by-marriage/), [descent claims](/immigration/swiss-citizenship-by-descent/), and residence planning through [investment-based paths](/immigration/swiss-citizenship-by-investment/).
 
-[Request a free initial assessment](/contact/) to determine your eligibility and expected timeline.
+[Request a free initial assessment](/contacts/) to determine your eligibility and expected timeline.
 
 Back to [Immigration overview](/immigration/).

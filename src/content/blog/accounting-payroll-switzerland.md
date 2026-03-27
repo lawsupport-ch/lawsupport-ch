@@ -267,6 +267,6 @@ The cost of recovery is invariably higher than the cost of compliance. A single 
 
 ## Frequently Asked Questions
 
-The FAQ section above addresses the ten most common questions about Swiss accounting, payroll, and social insurance. For specific advice on your company's back-office obligations, [contact Lawsupport](/contact/) for a confidential discussion.
+The FAQ section above addresses the ten most common questions about Swiss accounting, payroll, and social insurance. For specific advice on your company's back-office obligations, [contact Lawsupport](/contacts/) for a confidential discussion.
 
 Return to the [Tax & Accounting](/tax-accounting/) hub for the full range of topics covered on this site.

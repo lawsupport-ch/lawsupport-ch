@@ -4,6 +4,7 @@ import { getCollection } from 'astro:content';
 import { getCocoon } from '../../lib/cocoon-map';
 
 const allPosts = await getCollection('blog', ({ data }) => {
+  if (data.pageLevel === 1) return false;
   if (!data.publishDate) return true;
   return new Date(data.publishDate) <= new Date();
 });

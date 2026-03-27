@@ -52,7 +52,7 @@ tocItems:
 
 Switzerland separates economic freedom from regulatory oversight with unusual clarity. The Federal Constitution guarantees the right to conduct business (Art. 27 BV), and most commercial activities need nothing more than a Commercial Register entry. But where public safety, financial stability or market integrity is at stake, Swiss regulators — FINMA, Swissmedic, SECO, and cantonal authorities — impose licensing requirements that are rigorous, specific, and enforced. This guide covers the three main licensing domains: financial market regulation through FINMA, the fast-evolving crypto and fintech framework, and industry-specific permits for sectors from healthcare to gold trading.
 
-For a direct assessment of your licensing needs, [contact Lawsupport](/contact/) for a free initial consultation.
+For a direct assessment of your licensing needs, [contact Lawsupport](/contacts/) for a free initial consultation.
 
 ---
 
@@ -404,4 +404,4 @@ Lawsupport provides licensing advisory services from Zug, with practical experie
 
 Our location in Zug places us at the centre of Switzerland's financial and crypto ecosystem, with direct access to FINMA, SROs, and cantonal authorities.
 
-[Contact Lawsupport](/contact/) for a free initial assessment of your licensing requirements.
+[Contact Lawsupport](/contacts/) for a free initial assessment of your licensing requirements.

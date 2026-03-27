@@ -62,7 +62,7 @@ relatedArticles:
 
 Moving to Switzerland requires a visa or entry permit, a residence permit once you arrive, mandatory health insurance, and registration with cantonal and municipal authorities. EU/EFTA nationals face fewer hurdles than non-EU nationals, but both groups must follow a structured process. This guide covers every practical step: visa requirements, family reunification, cost of living, property purchase rules, and the Lex Koller restrictions that limit foreign property ownership.
 
-For personalised relocation planning, [contact Lawsupport](/contact/) for a free initial assessment.
+For personalised relocation planning, [contact Lawsupport](/contacts/) for a free initial assessment.
 
 ---
 
@@ -235,6 +235,6 @@ Relocating to Switzerland involves coordinating permits, housing, insurance, ban
 - Tax planning and cantonal comparison
 - Registration and administrative setup
 
-[Request a free initial assessment](/contact/) to plan your move.
+[Request a free initial assessment](/contacts/) to plan your move.
 
 Back to [Immigration overview](/immigration/).

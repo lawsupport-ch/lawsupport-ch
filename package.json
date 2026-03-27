@@ -12,6 +12,7 @@
   "license": "UNLICENSED",
   "dependencies": {
     "@astrojs/sitemap": "^3.7.1",
-    "astro": "^6.0.8"
+    "astro": "^6.0.8",
+    "rehype-external-links": "^3.0.0"
   }
 }

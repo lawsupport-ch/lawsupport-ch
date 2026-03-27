@@ -225,6 +225,6 @@ For professional guidance on corporate tax planning and return preparation, see 
 
 ## Frequently Asked Questions
 
-The FAQ section above covers the ten most common questions about Swiss corporate tax. For specific cantonal analysis or to discuss your company's tax position, [contact Lawsupport](/contact/) for a confidential assessment.
+The FAQ section above covers the ten most common questions about Swiss corporate tax. For specific cantonal analysis or to discuss your company's tax position, [contact Lawsupport](/contacts/) for a confidential assessment.
 
 Return to the [Tax & Accounting](/tax-accounting/) hub for the full range of tax and accounting topics covered on this site.

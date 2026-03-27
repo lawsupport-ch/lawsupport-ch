@@ -339,3 +339,14 @@ h4 { font-size: 1.25rem; }
   .grid-3 { grid-template-columns: repeat(3, 1fr); }
   .grid-4 { grid-template-columns: repeat(4, 1fr); }
 }
+
+/* ===== Content link underlines ===== */
+.article-content a {
+  text-decoration: underline;
+  text-decoration-color: var(--red);
+  text-underline-offset: 2px;
+  transition: color 0.2s;
+}
+.article-content a:hover {
+  color: var(--red);
+}

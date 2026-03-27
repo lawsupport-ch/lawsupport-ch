@@ -52,7 +52,7 @@ tocItems:
 
 Switzerland admits roughly 170,000 new immigrants per year, making it one of the highest per-capita immigration countries in Europe. Yet the process is anything but simple: a federal system split across 26 cantons, separate rules for EU and non-EU nationals, annual quotas, and integration requirements that vary by municipality. This guide brings together the three pillars of Swiss immigration — permits, citizenship and relocation — so you can see the full picture before making decisions.
 
-For a direct assessment of your situation, [contact Lawsupport](/contact/) for a free initial consultation.
+For a direct assessment of your situation, [contact Lawsupport](/contacts/) for a free initial consultation.
 
 ---
 
@@ -80,7 +80,7 @@ The 26 cantons also set their own citizenship requirements on top of the federal
 
 Immigration advisers in Switzerland are not regulated by a single licensing body. Anyone can call themselves an immigration consultant. For legal representation before authorities and courts, however, you need a lawyer admitted to a cantonal bar. For permit applications, professional advisers with demonstrated expertise in Swiss immigration law offer the most reliable guidance.
 
-[Lawsupport](/contact/) provides immigration advisory services from Zug, one of Switzerland's most international cantons, with direct experience across EU and non-EU permit categories.
+[Lawsupport](/contacts/) provides immigration advisory services from Zug, one of Switzerland's most international cantons, with direct experience across EU and non-EU permit categories.
 
 ---
 
@@ -333,4 +333,4 @@ Lawsupport provides immigration advisory services from Zug, with practical exper
 
 We work with individuals, families, and employers. Our location in Zug — a canton with efficient migration procedures and competitive tax rates — gives us direct experience with one of Switzerland's most popular immigration destinations.
 
-[Contact Lawsupport](/contact/) for a free initial assessment of your immigration case.
+[Contact Lawsupport](/contacts/) for a free initial assessment of your immigration case.

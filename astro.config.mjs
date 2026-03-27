@@ -1,6 +1,7 @@
 // @ts-check
 import { defineConfig } from "astro/config";
 import sitemap from "@astrojs/sitemap";
+import rehypeExternalLinks from "rehype-external-links";
 import fs from "node:fs";
 import path from "node:path";
 
@@ -40,17 +41,19 @@ export default defineConfig({
   },
   site: "https://lawsupport.ch",
   trailingSlash: "always",
+  markdown: {
+    rehypePlugins: [
+      [rehypeExternalLinks, { target: "_blank", rel: ["nofollow", "noopener"] }],
+    ],
+  },
   integrations: [
     sitemap({
       filter: (page) => {
-        // Extract slug from any URL path containing a blog post slug
-        // Works regardless of URL structure (/blog/slug/ or /cocoon/slug/)
         for (const slug of scheduledSlugs) {
           if (page.includes(`/${slug}/`)) {
             return false;
           }
         }
-        // Exclude thank-you page from sitemap
         if (page.includes("/thank-you/")) return false;
         return true;
       },

@@ -233,6 +233,6 @@ For businesses operating e-commerce platforms or providing digital services to S
 
 ## Frequently Asked Questions
 
-The FAQ section above covers the ten most common questions about Swiss VAT. For specific VAT advice — including registration, rate classification, or audit defence — [contact Lawsupport](/contact/) for professional assistance.
+The FAQ section above covers the ten most common questions about Swiss VAT. For specific VAT advice — including registration, rate classification, or audit defence — [contact Lawsupport](/contacts/) for professional assistance.
 
 Return to the [Tax & Accounting](/tax-accounting/) hub for all tax and accounting topics.
