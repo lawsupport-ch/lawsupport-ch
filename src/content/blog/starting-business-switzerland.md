@@ -27,27 +27,6 @@ tocItems:
     title: "Tax Registration and Compliance"
   - id: "faq"
     title: "Frequently Asked Questions"
-faqItems:
-  - question: "How much does it cost to start a business in Switzerland?"
-    answer: "Total startup costs for a GmbH range from CHF 25,000 to CHF 40,000 including CHF 20,000 share capital, CHF 3,000–5,000 formation fees, and CHF 2,000–10,000 for initial setup (office, insurance, accounting). An AG requires CHF 50,000–100,000 in capital plus CHF 5,000–10,000 in formation costs."
-  - question: "Can a foreigner start a business in Switzerland without a residence permit?"
-    answer: "Yes, but the company must have at least one Swiss-resident director. Foreign owners commonly use nominee director services. For the owner to work in Switzerland personally, a residence and work permit (B permit) is required. EU/EFTA nationals benefit from bilateral agreements; non-EU nationals face stricter quotas."
-  - question: "Which canton is best for starting a business?"
-    answer: "Zug offers the lowest corporate tax rates (around 11.9% effective) and a business-friendly administration. Zurich provides the largest talent pool and financial infrastructure. Lucerne, Schwyz, and Nidwalden also offer competitive rates. The best canton depends on your industry, workforce needs, and client proximity."
-  - question: "How long does the entire process take from idea to operating?"
-    answer: "For a GmbH in Zurich or Zug: approximately 4–8 weeks. This includes entity formation (2–4 weeks), bank account setup (1–2 weeks), and initial registrations (VAT, social insurance). Finding commercial premises may add additional weeks depending on market availability."
-  - question: "Do I need a business plan for registration?"
-    answer: "No. Swiss company registration does not require a business plan. However, banks will typically ask for a business plan and financial projections when opening a business account. Having a clear plan also helps with permit applications and investor discussions."
-  - question: "What insurances are mandatory for Swiss businesses?"
-    answer: "Mandatory insurances include: accident insurance (UVG) for all employees, AHV/IV/EO social security contributions, pension fund (BVG) for employees earning above CHF 22,050, and unemployment insurance (ALV) contributions. Professional liability and D&O insurance are recommended but not legally required for most industries."
-  - question: "Can I run a business from my home in Switzerland?"
-    answer: "Yes, if your lease or property ownership allows commercial use. Many cantons permit home-based businesses provided there is no significant customer traffic, noise, or disturbance to neighbours. The address can serve as the registered office."
-  - question: "What is the difference between a branch and a subsidiary?"
-    answer: "A branch (Zweigniederlassung) is an extension of the foreign parent — same legal entity, no separate capital required. A subsidiary is an independent Swiss company (AG or GmbH) owned by the foreign parent. Subsidiaries offer liability separation and may qualify for Swiss tax benefits. Branches are simpler but expose the parent to direct Swiss liability."
-  - question: "How do I register for VAT in Switzerland?"
-    answer: "VAT registration is mandatory once annual turnover from taxable supplies exceeds CHF 100,000 (or CHF 150,000 for non-profit/public entities). Register with the Federal Tax Administration (ESTV/AFC). Voluntary registration is possible below the threshold. Standard VAT rate is 8.1%."
-  - question: "What ongoing compliance is required after starting a business?"
-    answer: "Monthly/quarterly: VAT returns, salary declarations, social insurance contributions. Annually: financial statements, corporate tax returns (federal and cantonal), annual report/board minutes. Ongoing: commercial register updates within 30 days of any changes, employee insurance compliance."
 relatedArticles:
   - title: "Swiss Entity Types Compared: AG vs GmbH vs Sole Proprietorship"
     href: "/company-formation/swiss-entity-types-compared/"
@@ -256,12 +235,64 @@ Once your company is registered, tax obligations begin immediately:
 ## Frequently Asked Questions
 
 <div class="faq-section" itemscope itemtype="https://schema.org/FAQPage">
-{% for item in faqItems %}
 <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-<h3 itemprop="name">{{ item.question }}</h3>
+<h3 itemprop="name">How much does it cost to start a business in Switzerland?</h3>
 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-<p itemprop="text">{{ item.answer }}</p>
+<p itemprop="text">Total startup costs for a GmbH range from CHF 25,000 to CHF 40,000 including CHF 20,000 share capital, CHF 3,000–5,000 formation fees, and CHF 2,000–10,000 for initial setup (office, insurance, accounting). An AG requires CHF 50,000–100,000 in capital plus CHF 5,000–10,000 in formation costs.</p>
 </div>
 </div>
-{% endfor %}
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">Can a foreigner start a business in Switzerland without a residence permit?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Yes, but the company must have at least one Swiss-resident director. Foreign owners commonly use nominee director services. For the owner to work in Switzerland personally, a residence and work permit (B permit) is required. EU/EFTA nationals benefit from bilateral agreements; non-EU nationals face stricter quotas.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">Which canton is best for starting a business?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Zug offers the lowest corporate tax rates (around 11.9% effective) and a business-friendly administration. Zurich provides the largest talent pool and financial infrastructure. Lucerne, Schwyz, and Nidwalden also offer competitive rates. The best canton depends on your industry, workforce needs, and client proximity.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">How long does the entire process take from idea to operating?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">For a GmbH in Zurich or Zug: approximately 4–8 weeks. This includes entity formation (2–4 weeks), bank account setup (1–2 weeks), and initial registrations (VAT, social insurance). Finding commercial premises may add additional weeks depending on market availability.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">Do I need a business plan for registration?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">No. Swiss company registration does not require a business plan. However, banks will typically ask for a business plan and financial projections when opening a business account. Having a clear plan also helps with permit applications and investor discussions.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">What insurances are mandatory for Swiss businesses?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Mandatory insurances include: accident insurance (UVG) for all employees, AHV/IV/EO social security contributions, pension fund (BVG) for employees earning above CHF 22,050, and unemployment insurance (ALV) contributions. Professional liability and D&O insurance are recommended but not legally required for most industries.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">Can I run a business from my home in Switzerland?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Yes, if your lease or property ownership allows commercial use. Many cantons permit home-based businesses provided there is no significant customer traffic, noise, or disturbance to neighbours. The address can serve as the registered office.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">What is the difference between a branch and a subsidiary?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">A branch (Zweigniederlassung) is an extension of the foreign parent — same legal entity, no separate capital required. A subsidiary is an independent Swiss company (AG or GmbH) owned by the foreign parent. Subsidiaries offer liability separation and may qualify for Swiss tax benefits. Branches are simpler but expose the parent to direct Swiss liability.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">How do I register for VAT in Switzerland?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">VAT registration is mandatory once annual turnover from taxable supplies exceeds CHF 100,000 (or CHF 150,000 for non-profit/public entities). Register with the Federal Tax Administration (ESTV/AFC). Voluntary registration is possible below the threshold. Standard VAT rate is 8.1%.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">What ongoing compliance is required after starting a business?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Monthly/quarterly: VAT returns, salary declarations, social insurance contributions. Annually: financial statements, corporate tax returns (federal and cantonal), annual report/board minutes. Ongoing: commercial register updates within 30 days of any changes, employee insurance compliance.</p>
+</div>
+</div>
 </div>

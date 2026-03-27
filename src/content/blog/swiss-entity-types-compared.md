@@ -27,27 +27,6 @@ tocItems:
     title: "Decision Framework"
   - id: "faq"
     title: "Frequently Asked Questions"
-faqItems:
-  - question: "What is the minimum capital required for an AG in Switzerland?"
-    answer: "An AG requires minimum share capital of CHF 100,000, of which at least CHF 50,000 must be paid in at incorporation. The remaining capital can be called up later by board resolution."
-  - question: "Can a foreigner form a GmbH in Switzerland without living there?"
-    answer: "Yes, but at least one managing director must be resident in Switzerland and authorised to represent the company. Many founders use nominee director services to satisfy this requirement."
-  - question: "Which entity type offers the most privacy for shareholders?"
-    answer: "The AG offers the greatest shareholder privacy. Unlike the GmbH, where all quota holders are listed in the commercial register, AG shareholders are not publicly disclosed unless they hold 25% or more (beneficial ownership reporting)."
-  - question: "Is a sole proprietorship suitable for high-revenue businesses?"
-    answer: "A sole proprietorship has no limited liability, meaning personal assets are fully exposed. For businesses exceeding CHF 500,000 in annual turnover, converting to a GmbH or AG is strongly recommended for asset protection."
-  - question: "How does a cooperative differ from a GmbH?"
-    answer: "A cooperative (Genossenschaft) is member-focused with one-member-one-vote governance, regardless of capital contribution. A GmbH distributes voting rights and profits proportionally to quota ownership. Cooperatives suit collaborative ventures; GmbHs suit commercial profit-driven businesses."
-  - question: "What are the annual maintenance costs for each entity type?"
-    answer: "Sole proprietorships cost the least (CHF 1,000–3,000 for accounting). GmbHs typically cost CHF 3,000–8,000 annually for accounting, audit exemption filing, and compliance. AGs run CHF 5,000–15,000 or more, especially if an audit is mandatory."
-  - question: "When should I choose a foundation over a company?"
-    answer: "Foundations are appropriate when the purpose is charitable, cultural, or social — not for-profit commercial activity. A Swiss foundation has no owners or shareholders; assets are irrevocably dedicated to the stated purpose."
-  - question: "Can I convert a sole proprietorship to a GmbH later?"
-    answer: "Yes. This is a common growth path. The process involves asset transfer, notarisation of new articles, capital deposit, and registration in the commercial register. It typically takes 4–6 weeks."
-  - question: "What is a Verein and can it conduct business?"
-    answer: "A Verein (association) is a membership organisation governed by CO Art. 60ff. It can conduct business activities, but these must serve the association's non-commercial purpose. For purely commercial aims, a GmbH or AG is more appropriate."
-  - question: "Which entity is best for a holding company structure?"
-    answer: "The AG is the standard choice for Swiss holding companies due to participation relief on dividends, bearer share flexibility (now registered), and well-established case law on holding privilege taxation."
 relatedArticles:
   - title: "Swiss Company Registration: Commercial Register Process & Requirements"
     href: "/company-formation/company-registration-process-switzerland/"
@@ -158,12 +137,64 @@ The right entity depends on your specific circumstances — capital available, n
 ## Frequently Asked Questions
 
 <div class="faq-section" itemscope itemtype="https://schema.org/FAQPage">
-{% for item in faqItems %}
 <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-<h3 itemprop="name">{{ item.question }}</h3>
+<h3 itemprop="name">What is the minimum capital required for an AG in Switzerland?</h3>
 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-<p itemprop="text">{{ item.answer }}</p>
+<p itemprop="text">An AG requires minimum share capital of CHF 100,000, of which at least CHF 50,000 must be paid in at incorporation. The remaining capital can be called up later by board resolution.</p>
 </div>
 </div>
-{% endfor %}
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">Can a foreigner form a GmbH in Switzerland without living there?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Yes, but at least one managing director must be resident in Switzerland and authorised to represent the company. Many founders use nominee director services to satisfy this requirement.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">Which entity type offers the most privacy for shareholders?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">The AG offers the greatest shareholder privacy. Unlike the GmbH, where all quota holders are listed in the commercial register, AG shareholders are not publicly disclosed unless they hold 25% or more (beneficial ownership reporting).</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">Is a sole proprietorship suitable for high-revenue businesses?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">A sole proprietorship has no limited liability, meaning personal assets are fully exposed. For businesses exceeding CHF 500,000 in annual turnover, converting to a GmbH or AG is strongly recommended for asset protection.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">How does a cooperative differ from a GmbH?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">A cooperative (Genossenschaft) is member-focused with one-member-one-vote governance, regardless of capital contribution. A GmbH distributes voting rights and profits proportionally to quota ownership. Cooperatives suit collaborative ventures; GmbHs suit commercial profit-driven businesses.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">What are the annual maintenance costs for each entity type?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Sole proprietorships cost the least (CHF 1,000–3,000 for accounting). GmbHs typically cost CHF 3,000–8,000 annually for accounting, audit exemption filing, and compliance. AGs run CHF 5,000–15,000 or more, especially if an audit is mandatory.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">When should I choose a foundation over a company?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Foundations are appropriate when the purpose is charitable, cultural, or social — not for-profit commercial activity. A Swiss foundation has no owners or shareholders; assets are irrevocably dedicated to the stated purpose.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">Can I convert a sole proprietorship to a GmbH later?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Yes. This is a common growth path. The process involves asset transfer, notarisation of new articles, capital deposit, and registration in the commercial register. It typically takes 4–6 weeks.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">What is a Verein and can it conduct business?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">A Verein (association) is a membership organisation governed by CO Art. 60ff. It can conduct business activities, but these must serve the association's non-commercial purpose. For purely commercial aims, a GmbH or AG is more appropriate.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">Which entity is best for a holding company structure?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">The AG is the standard choice for Swiss holding companies due to participation relief on dividends, bearer share flexibility (now registered), and well-established case law on holding privilege taxation.</p>
+</div>
+</div>
 </div>

@@ -27,27 +27,6 @@ tocItems:
     title: "Practical Considerations"
   - id: "faq"
     title: "Frequently Asked Questions"
-faqItems:
-  - question: "How long does voluntary liquidation take in Switzerland?"
-    answer: "Voluntary liquidation typically takes 12–18 months. The minimum timeline is set by the mandatory three-call period (Schuldenruf) of approximately two months for each call, plus time for asset realisation, creditor settlement, tax clearance, and final deregistration."
-  - question: "What triggers mandatory bankruptcy notification by directors?"
-    answer: "Under CO Art. 725, directors must notify the court when the company is over-indebted — meaning liabilities exceed assets on both a going-concern and liquidation-value basis. Delaying this notification exposes directors to personal liability for damages caused by the delay."
-  - question: "Can directors be held personally liable for company debts?"
-    answer: "Directors are not generally liable for company debts. However, personal liability arises for: breach of fiduciary duties (CO Art. 754), delayed bankruptcy notification (CO Art. 725), unpaid social insurance contributions, and wilful or negligent damage to the company, shareholders, or creditors."
-  - question: "What is the Schuldenruf and why does it matter?"
-    answer: "The Schuldenruf is a public call to creditors published three times in the SHAB during liquidation. Creditors must register their claims within the call period. It protects the liquidator and shareholders from liability for unknown claims. Skipping or shortening the Schuldenruf is not possible."
-  - question: "What happens to employees when a company enters liquidation?"
-    answer: "Employees must be given proper notice according to their contracts and CO Art. 335c. Salary, accrued holiday, and notice period pay are privileged claims in bankruptcy, meaning they rank ahead of ordinary creditors. The insolvency fund (Insolvenzentschaedigung) covers up to four months of unpaid wages."
-  - question: "Can a bankrupt company be revived?"
-    answer: "During bankruptcy proceedings, the company can be revived if all debts are paid or a composition agreement (Nachlassvertrag) is approved by creditors and the court. Once deleted from the commercial register after completed bankruptcy, revival requires re-registration and is rarely pursued."
-  - question: "What is the difference between ordinary and summary bankruptcy?"
-    answer: "Ordinary bankruptcy involves a full creditor meeting, appointment of a liquidation administration, and detailed asset realisation. Summary bankruptcy (CO Art. 231 SchKG) is used when assets are insufficient to cover the costs of ordinary proceedings. It is faster and less formal."
-  - question: "How does debt collection (Betreibung) work in Switzerland?"
-    answer: "The Betreibung process starts with a payment command (Zahlungsbefehl) from the debt collection office. The debtor has 10 days to object (Rechtsvorschlag). If no objection or after objection is removed by a court, the creditor can request continuation — leading to seizure (Pfaendung) for individuals or bankruptcy for companies."
-  - question: "What are the costs of voluntary liquidation?"
-    answer: "Typical costs range from CHF 5,000 to CHF 20,000 for a simple GmbH or AG without disputes. Costs include liquidator fees (CHF 3,000–10,000), tax clearance process, SHAB publication fees, notarial fees for dissolution resolution, and commercial register deregistration fees."
-  - question: "Can I liquidate a company with outstanding tax debts?"
-    answer: "Tax debts must be settled before the commercial register will delete the company. The tax authority must issue a clearance certificate (Unbedenklichkeitsbescheinigung). If the company cannot pay, the liquidation may convert to bankruptcy proceedings."
 relatedArticles:
   - title: "Swiss Entity Types Compared: AG vs GmbH vs Sole Proprietorship"
     href: "/company-formation/swiss-entity-types-compared/"
@@ -210,12 +189,64 @@ Some owners choose to keep a company dormant rather than liquidating it. A dorma
 ## Frequently Asked Questions
 
 <div class="faq-section" itemscope itemtype="https://schema.org/FAQPage">
-{% for item in faqItems %}
 <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-<h3 itemprop="name">{{ item.question }}</h3>
+<h3 itemprop="name">How long does voluntary liquidation take in Switzerland?</h3>
 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-<p itemprop="text">{{ item.answer }}</p>
+<p itemprop="text">Voluntary liquidation typically takes 12–18 months. The minimum timeline is set by the mandatory three-call period (Schuldenruf) of approximately two months for each call, plus time for asset realisation, creditor settlement, tax clearance, and final deregistration.</p>
 </div>
 </div>
-{% endfor %}
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">What triggers mandatory bankruptcy notification by directors?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Under CO Art. 725, directors must notify the court when the company is over-indebted — meaning liabilities exceed assets on both a going-concern and liquidation-value basis. Delaying this notification exposes directors to personal liability for damages caused by the delay.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">Can directors be held personally liable for company debts?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Directors are not generally liable for company debts. However, personal liability arises for: breach of fiduciary duties (CO Art. 754), delayed bankruptcy notification (CO Art. 725), unpaid social insurance contributions, and wilful or negligent damage to the company, shareholders, or creditors.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">What is the Schuldenruf and why does it matter?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">The Schuldenruf is a public call to creditors published three times in the SHAB during liquidation. Creditors must register their claims within the call period. It protects the liquidator and shareholders from liability for unknown claims. Skipping or shortening the Schuldenruf is not possible.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">What happens to employees when a company enters liquidation?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Employees must be given proper notice according to their contracts and CO Art. 335c. Salary, accrued holiday, and notice period pay are privileged claims in bankruptcy, meaning they rank ahead of ordinary creditors. The insolvency fund (Insolvenzentschaedigung) covers up to four months of unpaid wages.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">Can a bankrupt company be revived?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">During bankruptcy proceedings, the company can be revived if all debts are paid or a composition agreement (Nachlassvertrag) is approved by creditors and the court. Once deleted from the commercial register after completed bankruptcy, revival requires re-registration and is rarely pursued.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">What is the difference between ordinary and summary bankruptcy?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Ordinary bankruptcy involves a full creditor meeting, appointment of a liquidation administration, and detailed asset realisation. Summary bankruptcy (CO Art. 231 SchKG) is used when assets are insufficient to cover the costs of ordinary proceedings. It is faster and less formal.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">How does debt collection (Betreibung) work in Switzerland?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">The Betreibung process starts with a payment command (Zahlungsbefehl) from the debt collection office. The debtor has 10 days to object (Rechtsvorschlag). If no objection or after objection is removed by a court, the creditor can request continuation — leading to seizure (Pfaendung) for individuals or bankruptcy for companies.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">What are the costs of voluntary liquidation?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Typical costs range from CHF 5,000 to CHF 20,000 for a simple GmbH or AG without disputes. Costs include liquidator fees (CHF 3,000–10,000), tax clearance process, SHAB publication fees, notarial fees for dissolution resolution, and commercial register deregistration fees.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">Can I liquidate a company with outstanding tax debts?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Tax debts must be settled before the commercial register will delete the company. The tax authority must issue a clearance certificate (Unbedenklichkeitsbescheinigung). If the company cannot pay, the liquidation may convert to bankruptcy proceedings.</p>
+</div>
+</div>
 </div>

@@ -27,27 +27,6 @@ tocItems:
     title: "Risk Factors and Due Diligence"
   - id: "faq"
     title: "Frequently Asked Questions"
-faqItems:
-  - question: "Is it legal to buy a shelf company in Switzerland?"
-    answer: "Yes. Purchasing a pre-registered company is fully legal in Switzerland. The buyer acquires all shares or quotas, appoints new directors, and updates the commercial register. Due diligence on the shelf company's history, liabilities, and tax status is essential before completing the purchase."
-  - question: "How quickly can I start operating a shelf company?"
-    answer: "A shelf company can be operational within 5–10 business days after signing the purchase agreement. The time is needed for share transfer, board changes, bank account setup, and commercial register updates. This compares with 3–6 weeks for fresh formation."
-  - question: "What are the risks of buying a shelf company?"
-    answer: "Key risks include undisclosed liabilities, tax arrears, pending litigation, and reputational issues. Always obtain a clean audit or at minimum reviewed financial statements. Request tax clearance certificates from all relevant tax authorities. Have a lawyer conduct a formal due diligence."
-  - question: "What does a nominee director do?"
-    answer: "A nominee director is a Swiss-resident individual appointed to satisfy the legal requirement that at least one representative be domiciled in Switzerland. The nominee acts according to the beneficial owner's instructions, subject to fiduciary duties and legal obligations. The relationship is governed by a trust agreement."
-  - question: "Are nominee shareholders legal in Switzerland?"
-    answer: "Yes, nominee shareholder arrangements are legal. However, since the 2015 and 2019 revisions, the beneficial owner of shares exceeding 25% must be disclosed to the company. The company must maintain a register of beneficial owners. Failure to disclose can result in suspension of shareholder rights."
-  - question: "How much does a Swiss shelf company cost?"
-    answer: "Prices range from CHF 5,000 to CHF 25,000 depending on the entity type (AG or GmbH), age, and any included licences or permits. This is in addition to the share capital, which the buyer must fund or take over. Formation agents and law firms typically add CHF 2,000–5,000 in transaction fees."
-  - question: "Can a foreigner be the sole owner of a Swiss shelf company?"
-    answer: "Yes. There are no nationality restrictions on company ownership in Switzerland. However, the company must have at least one Swiss-resident director or authorised representative. Nominee services satisfy this requirement."
-  - question: "What is the difference between a nominee and a fiduciary?"
-    answer: "In Swiss practice, the terms overlap. A nominee holds a position (director, shareholder) on behalf of another person under a fiduciary agreement. A fiduciary (Treuhaender) is the broader professional role. Both are bound by the Swiss Code of Obligations rules on agency and mandate."
-  - question: "Why would I use a holding company in Switzerland?"
-    answer: "Swiss holding companies benefit from participation relief on dividends received from subsidiaries (qualifying participations), capital gains exemption on share disposals, and an extensive double tax treaty network. The combination makes Switzerland one of the most tax-efficient holding locations globally."
-  - question: "Can I convert a shelf company's purpose after purchase?"
-    answer: "Yes. The purpose clause can be amended by shareholder resolution and notarised articles amendment. The change must be registered in the commercial register. Some purposes (banking, insurance, securities dealing) require regulatory licences before the purpose change is effective."
 relatedArticles:
   - title: "Swiss Entity Types Compared: AG vs GmbH vs Sole Proprietorship"
     href: "/company-formation/swiss-entity-types-compared/"
@@ -234,12 +213,64 @@ Before purchasing a shelf company or engaging nominees, conduct proper due dilig
 ## Frequently Asked Questions
 
 <div class="faq-section" itemscope itemtype="https://schema.org/FAQPage">
-{% for item in faqItems %}
 <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-<h3 itemprop="name">{{ item.question }}</h3>
+<h3 itemprop="name">Is it legal to buy a shelf company in Switzerland?</h3>
 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-<p itemprop="text">{{ item.answer }}</p>
+<p itemprop="text">Yes. Purchasing a pre-registered company is fully legal in Switzerland. The buyer acquires all shares or quotas, appoints new directors, and updates the commercial register. Due diligence on the shelf company's history, liabilities, and tax status is essential before completing the purchase.</p>
 </div>
 </div>
-{% endfor %}
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">How quickly can I start operating a shelf company?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">A shelf company can be operational within 5–10 business days after signing the purchase agreement. The time is needed for share transfer, board changes, bank account setup, and commercial register updates. This compares with 3–6 weeks for fresh formation.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">What are the risks of buying a shelf company?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Key risks include undisclosed liabilities, tax arrears, pending litigation, and reputational issues. Always obtain a clean audit or at minimum reviewed financial statements. Request tax clearance certificates from all relevant tax authorities. Have a lawyer conduct a formal due diligence.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">What does a nominee director do?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">A nominee director is a Swiss-resident individual appointed to satisfy the legal requirement that at least one representative be domiciled in Switzerland. The nominee acts according to the beneficial owner's instructions, subject to fiduciary duties and legal obligations. The relationship is governed by a trust agreement.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">Are nominee shareholders legal in Switzerland?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Yes, nominee shareholder arrangements are legal. However, since the 2015 and 2019 revisions, the beneficial owner of shares exceeding 25% must be disclosed to the company. The company must maintain a register of beneficial owners. Failure to disclose can result in suspension of shareholder rights.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">How much does a Swiss shelf company cost?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Prices range from CHF 5,000 to CHF 25,000 depending on the entity type (AG or GmbH), age, and any included licences or permits. This is in addition to the share capital, which the buyer must fund or take over. Formation agents and law firms typically add CHF 2,000–5,000 in transaction fees.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">Can a foreigner be the sole owner of a Swiss shelf company?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Yes. There are no nationality restrictions on company ownership in Switzerland. However, the company must have at least one Swiss-resident director or authorised representative. Nominee services satisfy this requirement.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">What is the difference between a nominee and a fiduciary?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">In Swiss practice, the terms overlap. A nominee holds a position (director, shareholder) on behalf of another person under a fiduciary agreement. A fiduciary (Treuhaender) is the broader professional role. Both are bound by the Swiss Code of Obligations rules on agency and mandate.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">Why would I use a holding company in Switzerland?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Swiss holding companies benefit from participation relief on dividends received from subsidiaries (qualifying participations), capital gains exemption on share disposals, and an extensive double tax treaty network. The combination makes Switzerland one of the most tax-efficient holding locations globally.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">Can I convert a shelf company's purpose after purchase?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Yes. The purpose clause can be amended by shareholder resolution and notarised articles amendment. The change must be registered in the commercial register. Some purposes (banking, insurance, securities dealing) require regulatory licences before the purpose change is effective.</p>
+</div>
+</div>
 </div>

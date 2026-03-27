@@ -27,27 +27,6 @@ tocItems:
     title: "Post-Registration Obligations"
   - id: "faq"
     title: "Frequently Asked Questions"
-faqItems:
-  - question: "How long does it take to register a company in Switzerland?"
-    answer: "Registration typically takes 2–4 weeks from the date of notarisation. The timeline depends on the canton, completeness of documents, and whether the registrar raises any queries. Zurich and Zug are generally faster (10–15 business days), while smaller cantons may take longer."
-  - question: "What is the difference between the cantonal and federal commercial register?"
-    answer: "Each canton maintains its own commercial register office (Handelsregisteramt). The federal commercial register (EHRA) reviews all entries for compliance with federal law before publication in the Swiss Official Gazette of Commerce (SOGC/SHAB). Registration happens at cantonal level; federal review follows automatically."
-  - question: "Can I register a company online in Switzerland?"
-    answer: "Partial online submission is possible in some cantons (notably Zurich), but notarisation of the deed of incorporation still requires a physical appointment with a Swiss notary. Fully digital company formation is not yet available."
-  - question: "What is ZEFIX and how do I use it?"
-    answer: "ZEFIX (Zentraler Firmenindex) is the federal company search portal at zefix.ch. It provides free access to all registered entities in Switzerland, including company name, registered office, purpose, registered persons, and UID number. Use it to check name availability and verify company details."
-  - question: "Do I need a Swiss address to register a company?"
-    answer: "Yes. Every company must have a registered office (Sitz) at a real address in Switzerland. PO boxes are not accepted. The address must be in the canton where registration takes place. Many formation agents provide domiciliation services for this purpose."
-  - question: "What happens if my company name is already taken?"
-    answer: "The commercial register will reject a name that is identical or confusingly similar to an existing registered entity anywhere in Switzerland. You can check availability on ZEFIX before filing. Adding a geographic or descriptive element can sometimes resolve conflicts."
-  - question: "Is notarisation required for all entity types?"
-    answer: "Notarisation is required for AG, GmbH, cooperative, and foundation formations. Sole proprietorships and associations (Verein) do not require notarisation. Limited partnerships require notarisation of the partnership agreement."
-  - question: "What is the UID number?"
-    answer: "The UID (Unternehmens-Identifikationsnummer) is a unique enterprise identification number assigned to every registered entity. Format: CHE-XXX.XXX.XXX. It is used for VAT registration, tax filings, and official correspondence. The UID is assigned automatically upon commercial register entry."
-  - question: "Can I reserve a company name before incorporation?"
-    answer: "Switzerland does not have a formal name reservation system. You can check availability on ZEFIX and proceed with incorporation quickly to secure your preferred name. Some practitioners informally check with the cantonal register office before filing."
-  - question: "What are the ongoing filing requirements after registration?"
-    answer: "Any change to registered information — directors, address, purpose, capital — must be notified to the commercial register within 30 days. Annual accounts must be prepared (and audited if thresholds apply). Failure to update registered information can result in fines."
 relatedArticles:
   - title: "Swiss Entity Types Compared: AG vs GmbH vs Sole Proprietorship"
     href: "/company-formation/swiss-entity-types-compared/"
@@ -208,12 +187,64 @@ Once registered, Swiss companies face ongoing compliance requirements:
 ## Frequently Asked Questions
 
 <div class="faq-section" itemscope itemtype="https://schema.org/FAQPage">
-{% for item in faqItems %}
 <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-<h3 itemprop="name">{{ item.question }}</h3>
+<h3 itemprop="name">How long does it take to register a company in Switzerland?</h3>
 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-<p itemprop="text">{{ item.answer }}</p>
+<p itemprop="text">Registration typically takes 2–4 weeks from the date of notarisation. The timeline depends on the canton, completeness of documents, and whether the registrar raises any queries. Zurich and Zug are generally faster (10–15 business days), while smaller cantons may take longer.</p>
 </div>
 </div>
-{% endfor %}
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">What is the difference between the cantonal and federal commercial register?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Each canton maintains its own commercial register office (Handelsregisteramt). The federal commercial register (EHRA) reviews all entries for compliance with federal law before publication in the Swiss Official Gazette of Commerce (SOGC/SHAB). Registration happens at cantonal level; federal review follows automatically.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">Can I register a company online in Switzerland?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Partial online submission is possible in some cantons (notably Zurich), but notarisation of the deed of incorporation still requires a physical appointment with a Swiss notary. Fully digital company formation is not yet available.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">What is ZEFIX and how do I use it?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">ZEFIX (Zentraler Firmenindex) is the federal company search portal at zefix.ch. It provides free access to all registered entities in Switzerland, including company name, registered office, purpose, registered persons, and UID number. Use it to check name availability and verify company details.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">Do I need a Swiss address to register a company?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Yes. Every company must have a registered office (Sitz) at a real address in Switzerland. PO boxes are not accepted. The address must be in the canton where registration takes place. Many formation agents provide domiciliation services for this purpose.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">What happens if my company name is already taken?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">The commercial register will reject a name that is identical or confusingly similar to an existing registered entity anywhere in Switzerland. You can check availability on ZEFIX before filing. Adding a geographic or descriptive element can sometimes resolve conflicts.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">Is notarisation required for all entity types?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Notarisation is required for AG, GmbH, cooperative, and foundation formations. Sole proprietorships and associations (Verein) do not require notarisation. Limited partnerships require notarisation of the partnership agreement.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">What is the UID number?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">The UID (Unternehmens-Identifikationsnummer) is a unique enterprise identification number assigned to every registered entity. Format: CHE-XXX.XXX.XXX. It is used for VAT registration, tax filings, and official correspondence. The UID is assigned automatically upon commercial register entry.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">Can I reserve a company name before incorporation?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Switzerland does not have a formal name reservation system. You can check availability on ZEFIX and proceed with incorporation quickly to secure your preferred name. Some practitioners informally check with the cantonal register office before filing.</p>
+</div>
+</div>
+<div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">What are the ongoing filing requirements after registration?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<p itemprop="text">Any change to registered information — directors, address, purpose, capital — must be notified to the commercial register within 30 days. Annual accounts must be prepared (and audited if thresholds apply). Failure to update registered information can result in fines.</p>
+</div>
+</div>
 </div>
