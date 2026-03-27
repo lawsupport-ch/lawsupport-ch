@@ -179,9 +179,12 @@ const schema = [
   .hub-content :global(h3) { margin-top: 32px; margin-bottom: 12px; font-size: 1.2rem; }
   .hub-content :global(p) { margin-bottom: 16px; color: var(--gray-text); }
   .hub-content :global(a) { color: var(--red); text-decoration: underline; }
-  .hub-content :global(table) { width: 100%; border-collapse: collapse; margin: 24px 0; }
-  .hub-content :global(th), .hub-content :global(td) { padding: 10px 14px; border: 1px solid #ddd; text-align: left; font-size: 0.9rem; }
-  .hub-content :global(th) { background: #f5f5f5; font-weight: 600; }
+  .hub-content :global(table) { width: 100%; border-collapse: collapse; margin: 24px 0; border: 1px solid var(--gray-border); border-radius: 8px; overflow: hidden; font-size: 0.92rem; line-height: 1.5; }
+  .hub-content :global(thead) { background: var(--black); color: var(--white); }
+  .hub-content :global(th) { padding: 12px 16px; text-align: left; font-weight: 600; color: #fff; }
+  .hub-content :global(td) { padding: 10px 16px; border-top: 1px solid var(--gray-border); vertical-align: top; }
+  .hub-content :global(tbody tr:nth-child(even)) { background: #f8f8f8; }
+  .hub-content :global(tbody tr:hover) { background: #f0f0f0; }
   .hub-content :global(ul), .hub-content :global(ol) { margin: 16px 0; padding-left: 24px; }
   .hub-content :global(li) { margin-bottom: 8px; color: var(--gray-text); }
   .cocoon-lead { color: var(--gray-text); margin: 12px 0 40px; max-width: 700px; }
