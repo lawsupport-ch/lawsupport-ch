@@ -274,6 +274,8 @@ A South African investment holding company managing $25M-$500M in transactions s
 **Trap 6 — The earn-out governance gap.** Earn-out provisions (contingent purchase price tied to post-closing performance) are inherently adversarial — the buyer controls the business and can influence the metrics. Swiss courts have seen numerous earn-out disputes. If you include an earn-out, define the accounting methodology, business conduct obligations, dispute resolution mechanics, and independent expert determination in granular detail. Vague earn-outs become expensive arbitrations.
 
 
+For a broader overview, see our guide to [M&A in Switzerland](/corporate-transactions/mergers-acquisitions-guide-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

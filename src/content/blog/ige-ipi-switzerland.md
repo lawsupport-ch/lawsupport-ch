@@ -220,6 +220,8 @@ A Singapore-based e-commerce company wanted to protect its brand in Switzerland 
 **Trap 5 — Swiss national patent ≠ examined patent.** Foreign founders routinely misunderstand this: a Swiss national patent granted by the IGE/IPI has undergone formal examination only. No novelty search. No inventive step assessment. It is a registered right, not an examined right. For genuine protection, file through the EPO (European Patent Office). The Swiss national filing is useful primarily as a priority date placeholder at CHF 200.
 
 
+For a broader overview, see our guide to [Patents & IP Strategy](/intellectual-property/patents-ip-strategy-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

@@ -298,6 +298,8 @@ Yes, but with conditions. Your spouse and children under 18 can apply for family
 
 For employed Americans with a Swiss job offer: CHF 15'000-25'000 in relocation savings (deposit, first month, insurance setup). Your employer covers the permit application costs. For self-employed or entrepreneur Americans: personal liquidity of at least CHF 500'000, Swiss company capitalisation of CHF 500'000-1'000'000, plus first-year operating costs of approximately CHF 15'000 (address, nominee director, accounting, permit retainer). For lump-sum taxation: annual minimum tax of CHF 200'000-300'000 depending on canton, plus personal US tax obligations (which continue regardless).
 
+For a broader overview, see our guide to [Moving to Switzerland](/immigration/moving-to-switzerland-guide/).
+
 ---
 
 ## Frequently Asked Questions

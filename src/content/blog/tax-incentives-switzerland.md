@@ -82,7 +82,7 @@ The current incentive toolkit includes:
 
 Each incentive operates independently but is subject to a combined relief cap — the total reduction from patent box, R&D deduction, and NID cannot exceed 70% of cantonal taxable income.
 
-For an overview of the broader [Swiss tax incentives](/tax-accounting/swiss-tax-incentives/) landscape, including cantonal implementation differences, see our dedicated article.
+For an overview of the broader [Swiss tax incentives](/tax-accounting/swiss-tax-incentives/) environment, including cantonal implementation differences, see our dedicated article.
 
 ---
 

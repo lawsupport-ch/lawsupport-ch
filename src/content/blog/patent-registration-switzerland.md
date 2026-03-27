@@ -248,6 +248,8 @@ A Lausanne-based medtech startup developed a novel catheter design and filed a S
 **Real cost of errors:** Losing a patent to an unexamined validity challenge: value of the patent + litigation costs (CHF 100'000+). Missing the priority window: loss of worldwide protection. Insufficient R&D documentation for patent box: loss of tax savings of CHF 100'000+ per year on qualifying IP income.
 
 
+For a broader overview, see our guide to [Patents & IP Strategy](/intellectual-property/patents-ip-strategy-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

@@ -1,6 +1,6 @@
 ---
 title: "SECO Export Controls: Dual-Use Goods & Sanctions"
-description: "Swiss SECO export controls: dual-use goods permits, war materiel licences, sanctions compliance under the Goods Control Act."
+description: "Swiss SECO export controls: dual-use goods permits, war materiel licences, sanctions compliance under the Goods Control Act. Learn how we can help."
 date: "27.05.2026"
 publishDate: "2026-05-27"
 category: "Licensing & Permits"
@@ -204,6 +204,8 @@ Violations of the Goods Control Act and Embargo Act carry:
 - Reputational consequences: SECO publishes enforcement decisions
 
 Switzerland enforces export controls — non-compliance is not merely a technical violation.
+
+For a broader overview, see our guide to [Industry-Specific Licences](/licensing/industry-licences-switzerland/).
 
 ---
 

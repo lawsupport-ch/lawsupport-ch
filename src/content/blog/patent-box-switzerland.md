@@ -319,6 +319,8 @@ A UK-headquartered SaaS company incorporated a Swiss AG in Zug to hold a registe
 **Lesson:** The Patent Box rewards genuine Swiss substance. It does not reward shell structures. The advance ruling is not a guarantee — it is valid only as long as the facts match the ruling application. If the substance changes (or was never there), the ruling is worthless.
 
 
+For a broader overview, see our guide to [Swiss Tax Incentives](/tax-accounting/tax-incentives-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

@@ -389,6 +389,8 @@ The break-even sits around 500-800 transactions per year. Below that, outsourcin
 ---
 
 <!-- SCHEMA: FAQPage -->
+For a broader overview, see our guide to [Accounting, Payroll & Social Insurance](/tax-accounting/accounting-payroll-switzerland/).
+
 ## Frequently Asked Questions
 
 **Does my Swiss GmbH need double-entry bookkeeping even if it has no activity?**

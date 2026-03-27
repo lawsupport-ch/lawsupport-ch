@@ -316,6 +316,8 @@ Lawsupport (Morgan Hartley Consulting) has been opening Swiss bank accounts for 
   <p class="cta-meta">Morgan Hartley | Senior Corporate Lawyer | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch</p>
 </div>
 
+For a broader overview, see our guide to [Private Banking in Switzerland](/banking/private-banking-switzerland-guide/).
+
 ---
 
 ## Frequently Asked Questions

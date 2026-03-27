@@ -342,6 +342,8 @@ Buying a company in Switzerland involves legal, tax, and regulatory consideratio
 | Registration date | New | New | Original preserved | Original preserved |
 | Ongoing cost (address + nominee + accounting) | ~CHF 12'000/year | ~CHF 12'600/year | ~CHF 11'800/year | Depends on business |
 
+For a broader overview, see our guide to [M&A in Switzerland](/corporate-transactions/mergers-acquisitions-guide-switzerland/).
+
 ---
 
 ## FAQ

@@ -151,6 +151,8 @@ A child born to a Swiss parent acquires [Swiss citizenship](/immigration/swiss-c
 
 If you or an ancestor previously held Swiss citizenship that was lost, reinstatement (Wiedereinbürgerung) under Art. 51 BüG may be available. This is a substantially simpler and faster procedure than ordinary naturalisation for qualifying applicants.
 
+For a broader overview, see our guide to [Swiss Citizenship Pathways](/immigration/swiss-citizenship-pathways/).
+
 ---
 
 ## Frequently Asked Questions

@@ -195,6 +195,8 @@ Yes. Your spouse and dependent children qualify for family reunification permits
 
 The annual minimum tax obligation varies by canton: Zug starts at approximately CHF 600'000 deemed living expenses (resulting in annual tax of roughly CHF 200'000-300'000), Geneva at approximately CHF 400'000 deemed expenses. Beyond the tax itself, budget for: Swiss health insurance (CHF 5'000-8'400/year per adult), housing (CHF 36'000-120'000/year depending on property), international school fees if applicable (CHF 25'000-45'000/year per child), and general living costs (CHF 30'000-60'000/year per person). Total first-year cost for a family of four in Zug: approximately CHF 350'000-500'000 including tax.
 
+For a broader overview, see our guide to [Swiss Citizenship Pathways](/immigration/swiss-citizenship-pathways/).
+
 ---
 
 ## Frequently Asked Questions

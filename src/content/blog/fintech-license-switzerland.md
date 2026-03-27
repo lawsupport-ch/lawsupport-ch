@@ -274,6 +274,8 @@ Lawsupport (Morgan Hartley Consulting GmbH)
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 
+For a broader overview, see our guide to [Crypto & Fintech Licensing](/licensing/crypto-fintech-licensing-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

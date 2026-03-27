@@ -183,6 +183,8 @@ Obtain a written mortgage commitment before executing any purchase deed.
 
 Timeline: 6–12 weeks for straightforward transactions; longer where Lex Koller authorisation is required.
 
+For a broader overview, see our guide to [Moving to Switzerland](/immigration/moving-to-switzerland-guide/).
+
 ---
 
 ## Frequently Asked Questions

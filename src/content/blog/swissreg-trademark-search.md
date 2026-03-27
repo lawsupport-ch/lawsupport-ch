@@ -261,6 +261,8 @@ Search .ch, .com, and relevant TLDs. A matching domain registered to a third par
 **Limitation 5 — Status lag.** While Swissreg is updated daily, opposition decisions and register changes may take days to appear. A mark shown as "Registered" may have been cancelled that morning. For time-critical searches (e.g., before a SHAB publication deadline), verify the status directly with the IGE/IPI.
 
 
+For a broader overview, see our guide to [Trademark & Design Protection](/intellectual-property/trademark-design-protection-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

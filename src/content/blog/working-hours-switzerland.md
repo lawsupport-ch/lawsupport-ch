@@ -181,6 +181,8 @@ Swiss [employers](/tax-accounting/payroll-switzerland/) must record working hour
 
 Simplified recording is available for employees earning above CHF 120'000 per year who have a degree of schedule autonomy. Under the simplified system, only total daily hours need to be recorded, not start and end times. This requires a written agreement between employer and employee or a GAV provision.
 
+For a broader overview, see our guide to [Swiss Employment Law](/employment-law/swiss-employment-law-guide/).
+
 ---
 
 ## Frequently Asked Questions

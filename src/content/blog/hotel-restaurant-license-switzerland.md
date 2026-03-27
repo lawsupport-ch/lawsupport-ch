@@ -1,6 +1,6 @@
 ---
 title: "Hotel & Restaurant License Switzerland (2026)"
-description: "Opening a restaurant or hotel in Switzerland: Wirtepatent rules, food safety, alcohol permit, HACCP, and L-GAV labour law explained."
+description: "Opening a restaurant or hotel in Switzerland: Wirtepatent rules, food safety, alcohol permit, HACCP, and L-GAV labour law explained. Speak to our Swiss lawyers."
 date: "07.04.2026"
 publishDate: "2026-04-07"
 category: "Licensing & Permits"
@@ -252,6 +252,8 @@ Restaurant and hotel turnover is subject to Swiss VAT. The reduced VAT rate appl
 11. Register for cantonal tourism tax if operating overnight accommodation
 12. Draft employment contracts compliant with the L-GAV
 13. Register for [VAT](/tax-accounting/vat-registration-switzerland/) if turnover will exceed CHF 100,000
+
+For a broader overview, see our guide to [Industry-Specific Licences](/licensing/industry-licences-switzerland/).
 
 ---
 

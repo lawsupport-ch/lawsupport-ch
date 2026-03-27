@@ -264,6 +264,8 @@ Extended absences — generally exceeding six consecutive months — can interru
 
 If your Swiss company employs staff who work primarily for another group entity, you may have inadvertently created a staff leasing arrangement. The SECO licence is required regardless of the number of contracts — the belief that fewer than 10 contracts exempts you is false. Fines reach up to CHF 100'000 for the provider and CHF 40'000 for the client. A compliance issue of this nature during your qualifying period can complicate your C permit application.
 
+For a broader overview, see our guide to [Swiss Work & Residence Permits](/immigration/swiss-work-residence-permits/).
+
 ---
 
 ## Frequently Asked Questions

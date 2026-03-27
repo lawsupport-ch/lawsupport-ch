@@ -260,6 +260,8 @@ Many founders ask about fixed annual accounting packages. In practice, Swiss fid
 
 There are no shortcut packages that bundle everything into a single predictable annual fee for startups with meaningful transaction volumes. Budget for the software subscription plus fiduciary hours, and plan for the first year to be more expensive than subsequent years as the chart of accounts and reporting templates are set up.
 
+For a broader overview, see our guide to [Corporate Infrastructure in Switzerland](/corporate-services/corporate-infrastructure-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

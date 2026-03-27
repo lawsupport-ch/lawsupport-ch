@@ -1,6 +1,6 @@
 ---
 title: "Cantonal Tax Comparison Switzerland: All 26 Cantons (2026)"
-description: "Compare corporate and individual tax rates across all 26 Swiss cantons. Zug ~11.8%, Lucerne ~12.3%, Zurich ~19.7%. Find the best canton."
+description: "Compare corporate and individual tax rates across all 26 Swiss cantons. Zug ~11.8%, Lucerne ~12.3%, Zurich ~19.7%. Find the best canton. Learn how we can help."
 date: "19.03.2026"
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"
@@ -282,6 +282,8 @@ A company can change its canton of domicile. The process involves:
 Hidden reserves built up in the old canton may be subject to a departure tax under cantonal rules. The step-up mechanism introduced under STAF applies in reverse — accrued gains may be taxable. Professional advice before any relocation is essential, particularly where the company holds significant IP, real estate, or investment assets.
 
 For individuals, changing tax domicile requires establishing genuine residence in the new canton. A notional change of address without actual habitual presence is not accepted by Swiss cantonal tax authorities, and the <a href="https://www.admin.ch" target="_blank" rel="nofollow noopener">Swiss Federal Tax Administration</a> maintains active oversight of such arrangements.
+
+For a broader overview, see our guide to [Swiss Corporate Tax](/tax-accounting/corporate-tax-overview-switzerland/).
 
 ---
 

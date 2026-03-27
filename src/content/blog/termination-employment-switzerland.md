@@ -185,6 +185,8 @@ A European tech founder running a Zug AG terminated a developer during the devel
 
 **Non-compete clauses:** Post-employment non-compete clauses (Art. 340 OR) are only valid if: (a) the employee had access to client relationships or trade secrets; (b) the restriction is reasonable in scope, geography, and duration (maximum 3 years); and (c) the employer pays adequate compensation. A non-compete lapses automatically if the employer terminates without good cause.
 
+For a broader overview, see our guide to [Swiss Employment Law](/employment-law/swiss-employment-law-guide/).
+
 ---
 
 ## Frequently Asked Questions

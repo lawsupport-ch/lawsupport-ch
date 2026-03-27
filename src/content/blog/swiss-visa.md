@@ -208,6 +208,8 @@ Your family members need their own D visas. Family reunification applications ar
 
 For a Schengen C visa (tourist/business): bank statements showing approximately CHF 100 per day of planned stay, plus return travel costs. For a D visa linked to employment: the work permit application demonstrates financial viability through the employment contract and salary. For a D visa linked to self-employment or lump-sum taxation: personal liquidity of CHF 500'000 or more and evidence of sustainable income or assets.
 
+For a broader overview, see our guide to [Moving to Switzerland](/immigration/moving-to-switzerland-guide/).
+
 ---
 
 ## Frequently Asked Questions

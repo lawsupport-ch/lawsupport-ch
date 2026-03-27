@@ -1,6 +1,6 @@
 ---
 title: "Swiss FinSA (FIDLEG): Obligations for 2026"
-description: "Swiss FinSA (FIDLEG) obligations: client classification, suitability rules, prospectus requirements, and advisor registration for 2026."
+description: "Swiss FinSA (FIDLEG) obligations: client classification, suitability rules, prospectus requirements, and advisor registration for 2026. Get expert advice today."
 date: "19.03.2026"
 category: "Licensing & Permits"
 categoryHref: "/licensing/"
@@ -265,6 +265,8 @@ If you are a financial service provider — whether Swiss-based or foreign-domic
 Lawsupport (Morgan Hartley Consulting GmbH)
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
+
+For a broader overview, see our guide to [FINMA Licensing in Switzerland](/licensing/finma-licensing-guide/).
 
 ---
 

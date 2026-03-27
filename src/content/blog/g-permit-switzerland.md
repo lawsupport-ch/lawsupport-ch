@@ -261,6 +261,8 @@ The G permit does not confer Swiss residence, so standard Swiss family reunifica
 
 Your Swiss salary is the primary consideration. It must meet Swiss market standards for the role — cantonal authorities conduct salary equivalence checks. Cross-border commuters typically benefit from lower living costs (German or French housing) combined with Swiss-level salaries, making this one of the more financially attractive arrangements in Europe. Budget for Swiss social insurance contributions (AHV: approximately 5.3% employee share) and mandatory Swiss accident insurance. Health insurance arrangements depend on your country of residence and bilateral agreements.
 
+For a broader overview, see our guide to [Swiss Work & Residence Permits](/immigration/swiss-work-residence-permits/).
+
 ---
 
 ## Frequently Asked Questions

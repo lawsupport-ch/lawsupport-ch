@@ -1,6 +1,6 @@
 ---
 title: "Company Formation Zurich: Full Guide (2026)"
-description: "Form a company in Zurich: AG and GmbH registration, tax rates, and honest Zurich vs Zug comparison. Free assessment from Lawsupport."
+description: "Form a company in Zurich: AG and GmbH registration, tax rates, and honest Zurich vs Zug comparison. Free assessment from Lawsupport. Learn how we can help."
 date: "19.03.2026"
 category: "Company Formation"
 categoryHref: "/company-formation/"
@@ -360,6 +360,8 @@ We can form your company in Zurich if that is the right choice. We can form it i
 **Email:** info@lawsupport.ch
 **Phone:** +41 44 51 52 592
 **Address:** Baarerstrasse 135, 6300 Zug, Switzerland
+
+For a broader overview, see our guide to [Starting a Business in Switzerland](/company-formation/starting-business-switzerland/).
 
 ---
 

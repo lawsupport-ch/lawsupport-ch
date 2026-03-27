@@ -135,6 +135,8 @@ The SNB's policy decisions ripple through the entire Swiss economy. For business
 
 **Regulatory framework:** The SNB works alongside FINMA to maintain a stable financial system. Companies requiring [FINMA licensing](/licensing/finma-licensing-switzerland/) operate within a regulatory environment shaped by both institutions.
 
+For a broader overview, see our guide to [The Swiss Banking System](/banking/swiss-banking-landscape/).
+
 ---
 
 ## Frequently Asked Questions

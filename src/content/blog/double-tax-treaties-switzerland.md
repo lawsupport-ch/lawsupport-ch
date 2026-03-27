@@ -224,6 +224,8 @@ An individual or company can be considered tax resident in two states simultaneo
 
 Dual residence situations require careful analysis of the applicable treaty and the underlying facts. They commonly arise where a non-Swiss owner relocates to Switzerland while maintaining property and family ties abroad, or where a company's directors are split across jurisdictions. For immigration and residency considerations, see our guides on [immigrating to Switzerland](/immigration/immigrate-to-switzerland/) and [Swiss citizenship](/immigration/swiss-citizenship/).
 
+For a broader overview, see our guide to [International Tax Planning from Switzerland](/tax-accounting/international-tax-planning-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

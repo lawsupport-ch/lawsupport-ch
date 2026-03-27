@@ -364,6 +364,8 @@ Morgan Hartley and the Lawsupport team advise creditors and debtors on SchKG pro
 
 *Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
 
+For a broader overview, see our guide to [Corporate Infrastructure in Switzerland](/corporate-services/corporate-infrastructure-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

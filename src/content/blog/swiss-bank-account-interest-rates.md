@@ -220,6 +220,8 @@ From our practice handling 300+ company formations: Swiss banks reject 20-30% of
 | **Rejection rate (foreign)** | High | Very high | Low (no US nexus) | Moderate | Low (if minimum met) |
 | **Timeline** | 8-12 weeks | 3-4 weeks (often to rejection) | Same day | 4-6 weeks | 4-12 weeks |
 
+For a broader overview, see our guide to [Opening a Swiss Bank Account](/banking/opening-swiss-bank-account-guide/).
+
 ---
 
 ## Frequently Asked Questions

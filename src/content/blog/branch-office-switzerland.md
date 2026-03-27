@@ -261,6 +261,8 @@ Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51
 </div>
 <!-- /CTA -->
 
+For a broader overview, see our guide to [Starting a Business in Switzerland](/company-formation/starting-business-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

@@ -284,6 +284,8 @@ Elena V., a Ukrainian national living in Berlin, runs a consulting business that
 
 David K., a British national based in Dubai, formed a Zug GmbH in 2023 to hold IP rights for his software company. He needed a corporate account but could not travel to Switzerland and his structure (sole director, UK and UAE addresses, fintech-adjacent business) was too complex for most cantonal banks' automated screening. Lawsupport opened a Neon Business account for his GmbH within 9 days as an interim account, then submitted a formal introduction to a Zug-based cantonal bank. The cantonal bank account was approved after 5 weeks. David now operates with both accounts: Neon Business for EUR transactions and the cantonal account for CHF-denominated invoicing and payroll.
 
+For a broader overview, see our guide to [Opening a Swiss Bank Account](/banking/opening-swiss-bank-account-guide/).
+
 ---
 
 ## Frequently Asked Questions

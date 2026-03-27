@@ -512,6 +512,8 @@ Baarerstrasse 135, 6300 Zug, Switzerland
 
 *Further reading: <a href="https://www.finma.ch/en/authorisation/" target="_blank" rel="nofollow noopener">FINMA authorisation overview</a> | <a href="https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/en" target="_blank" rel="nofollow noopener">Swiss Anti-Money Laundering Act</a> | <a href="https://cryptovalley.swiss/" target="_blank" rel="nofollow noopener">Zug Crypto Valley Association</a>*
 
+For a broader overview, see our guide to [Crypto & Fintech Licensing](/licensing/crypto-fintech-licensing-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

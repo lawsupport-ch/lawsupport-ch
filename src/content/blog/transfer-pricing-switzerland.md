@@ -171,6 +171,8 @@ Swiss cantonal tax authorities and the ESTV focus on specific patterns during au
 
 Maintaining contemporaneous documentation and ensuring all intercompany agreements are executed before transactions commence is the most effective audit defence. Companies filing their [corporate tax return in Switzerland](/tax-accounting/corporate-tax-return-switzerland/) should reconcile intercompany positions annually.
 
+For a broader overview, see our guide to [International Tax Planning from Switzerland](/tax-accounting/international-tax-planning-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

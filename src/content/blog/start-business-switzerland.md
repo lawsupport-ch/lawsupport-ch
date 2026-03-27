@@ -384,6 +384,8 @@ Our full formation service covers:
 
 We operate on fixed fees with transparent scope. There are no surprise invoices.
 
+For a broader overview, see our guide to [Starting a Business in Switzerland](/company-formation/starting-business-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

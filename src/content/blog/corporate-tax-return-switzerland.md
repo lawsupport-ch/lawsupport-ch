@@ -216,6 +216,8 @@ Phone: +41 44 51 52 592 | Email: info@lawsupport.ch | Address: Baarerstrasse 135
 [Accounting services Switzerland →](/tax-accounting/accounting-switzerland/)
 [VAT registration Switzerland →](/tax-accounting/vat-registration-switzerland/)
 
+For a broader overview, see our guide to [Swiss Corporate Tax](/tax-accounting/corporate-tax-overview-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

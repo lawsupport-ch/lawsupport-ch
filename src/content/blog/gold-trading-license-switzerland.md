@@ -257,6 +257,8 @@ Lawsupport (Morgan Hartley Consulting) advises Swiss gold trading businesses on 
 - **Email:** info@lawsupport.ch
 - **Address:** Baarerstrasse 135, 6300 Zug, Switzerland
 
+For a broader overview, see our guide to [Industry-Specific Licences](/licensing/industry-licences-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

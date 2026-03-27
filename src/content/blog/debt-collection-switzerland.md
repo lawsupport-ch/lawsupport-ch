@@ -171,6 +171,8 @@ Banks also run all directors and UBOs through WorldCheck (Refinitiv) or equivale
 
 Equally, checking a potential partner's Betreibungsregister before entering significant contracts is standard Swiss due diligence practice.
 
+For a broader overview, see our guide to [Company Lifecycle in Switzerland](/company-formation/company-lifecycle-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

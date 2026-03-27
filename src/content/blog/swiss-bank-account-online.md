@@ -215,6 +215,8 @@ Most search results for this phrase suggest it is straightforward. The reality f
 
 **Case from practice:** A US-owned Swiss company was rejected by Relio with the explanation: "unable to onboard companies with US nexus at UBO/shareholders level." The company was forced to operate through its UK parent's Ebury account, creating compliance problems because Swiss regulators view operations through another entity's bank account as questionable.
 
+For a broader overview, see our guide to [Opening a Swiss Bank Account](/banking/opening-swiss-bank-account-guide/).
+
 ---
 
 ## Frequently Asked Questions

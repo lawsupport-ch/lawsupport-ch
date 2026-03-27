@@ -177,6 +177,8 @@ The SHAB matters for three reasons. First, publication is the legal trigger for 
 
 Every entity registered in the Swiss Commercial Register receives a UID (Unternehmens-Identifikationsnummer) in the format CHE-123.456.789. The UID functions as the universal business identifier across all Swiss authorities — ESTV (federal tax authority), cantonal tax offices, AHV/IV social insurance, and customs. It appears on invoices, tax correspondence, and official filings. When searching Zefix, searching by UID is the most reliable method: company names can change; the UID does not.
 
+For a broader overview, see our guide to [Swiss Company Registration](/company-formation/company-registration-process-switzerland/).
+
 ---
 
 ## FAQ

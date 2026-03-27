@@ -147,7 +147,7 @@ The [DLT trading facility](/licensing/dlt-trading-facility-switzerland/) is a li
 - Swiss legal entity
 - Minimum capital determined by FINMA (typically CHF 5 million+)
 - Board and management with financial market experience
-- Comprehensive IT security and cybersecurity framework
+- Full IT security and cybersecurity framework
 - AML/CFT compliance
 - Market surveillance and abuse detection systems
 - Recovery and resolution planning

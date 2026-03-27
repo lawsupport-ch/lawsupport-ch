@@ -371,6 +371,8 @@ For companies [doing business in Switzerland](/company-formation/doing-business-
 | UVG non-occupational accident | 0–50% | 50–100% | Employee typically bears NBU premium |
 | KTG (daily sickness — typical) | 50% | 50% | Not statutory but standard practice |
 
+For a broader overview, see our guide to [Swiss Employment Law](/employment-law/swiss-employment-law-guide/).
+
 ---
 
 ## FAQ: Employment Law Switzerland

@@ -219,6 +219,8 @@ A company name registered in the Commercial Register does not automatically conf
 
 <!-- VIDEO: How to check company name availability on ZEFIX before forming a Swiss company -->
 
+For a broader overview, see our guide to [Swiss Company Registration](/company-formation/company-registration-process-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

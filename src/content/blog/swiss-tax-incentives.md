@@ -191,6 +191,8 @@ The STAF incentives were specifically designed to comply with <a href="https://w
 
 Companies with cross-border operations should also consider how [double tax treaties](/tax-accounting/double-tax-treaties-switzerland/) interact with these incentives to avoid double taxation on IP income flows.
 
+For a broader overview, see our guide to [Swiss Tax Incentives](/tax-accounting/tax-incentives-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

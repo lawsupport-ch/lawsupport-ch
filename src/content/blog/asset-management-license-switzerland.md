@@ -268,6 +268,8 @@ Several issues are live in the current market:
 
 <!-- VIDEO PLACEHOLDER: Embed interview — "Morgan Hartley on common FinIA application mistakes" (approx. 5 min) -->
 
+For a broader overview, see our guide to [FINMA Licensing in Switzerland](/licensing/finma-licensing-guide/).
+
 ---
 
 ## Frequently Asked Questions

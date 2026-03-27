@@ -326,6 +326,8 @@ Our service covers:
 
 For businesses that also need to [form a Swiss company](/company-formation/company-formation-switzerland/) before applying, or that require a [corporate bank account](/banking/corporate-bank-account-switzerland/) alongside SRO membership, we handle the full sequence.
 
+For a broader overview, see our guide to [Crypto & Fintech Licensing](/licensing/crypto-fintech-licensing-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

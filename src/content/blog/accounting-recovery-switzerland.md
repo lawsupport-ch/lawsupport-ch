@@ -180,6 +180,8 @@ Banks require current annual accounts to maintain or open accounts. A company wi
 ### VAT Catch-Up Compounding
 If the company was VAT-registered, missing VAT returns accumulate at quarterly intervals. Three years of missing accounts means twelve missing VAT returns, each of which must be individually reconstructed and filed. The ESTV charges interest on each period independently.
 
+For a broader overview, see our guide to [Accounting, Payroll & Social Insurance](/tax-accounting/accounting-payroll-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

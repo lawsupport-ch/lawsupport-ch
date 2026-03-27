@@ -10,6 +10,7 @@ interface Props {
   ogImage?: string;
   ogType?: string;
   robots?: string;
+  noIndex?: boolean;
 }
 
 const {
@@ -19,6 +20,7 @@ const {
   ogImage = "https://lawsupport.ch/images/lawsupport.webp",
   ogType = "website",
   robots,
+  noIndex = false,
 } = Astro.props;
 const canonicalURL = new URL(Astro.url.pathname, "https://lawsupport.ch");
 
@@ -97,7 +99,7 @@ const graphSchema = {
   <title>{title}</title>
   <meta name="description" content={description} />
   {robots && <meta name="robots" content={robots} />}
-  <link rel="canonical" href={canonicalURL} />
+  {!noIndex && <link rel="canonical" href={canonicalURL} />}
   <link rel="icon" href="/favicon.ico" />
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 
@@ -116,7 +118,7 @@ const graphSchema = {
 
   <link rel="preload" href="/fonts/guton-regular.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/fonts/guton-medium.woff2" as="font" type="font/woff2" crossorigin />
-  <script type="application/ld+json" set:html={JSON.stringify(graphSchema)} />
+  {!noIndex && <script type="application/ld+json" set:html={JSON.stringify(graphSchema)} />}
 </head>
 <body>
   <Header />

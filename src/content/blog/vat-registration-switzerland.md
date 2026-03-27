@@ -121,7 +121,7 @@ Choosing the wrong rate is one of the most common errors in Swiss VAT compliance
 
 ### Mandatory Registration: CHF 100'000 Worldwide Turnover
 
-The registration threshold is **CHF 100'000 in worldwide annual turnover from taxable supplies**. This is not limited to Swiss-sourced revenue. If your company provides taxable supplies anywhere in the world and the total exceeds CHF 100'000' and at least some of those supplies have a Swiss nexus, Swiss VAT registration becomes mandatory.
+The registration threshold is **CHF 100'000 in worldwide annual turnover from taxable supplies**. This is not limited to Swiss-sourced revenue. If your company provides taxable supplies anywhere in the world and the total exceeds CHF 100'000 and at least some of those supplies have a Swiss nexus, Swiss VAT registration becomes mandatory.
 
 This worldwide approach is intentional. It prevents foreign companies from structuring around the threshold by concentrating Swiss activities in a smaller legal entity while generating large turnover offshore.
 
@@ -139,7 +139,7 @@ Since the 2018 MWSTG reform, **foreign companies providing digital services or o
 
 Critically, the **reverse charge mechanism does not eliminate the registration obligation in all situations**. Reverse charge applies when a Swiss VAT-registered business receives a service from abroad — the Swiss recipient accounts for the VAT. But when the recipient is a private individual or a non-VAT-registered entity, reverse charge cannot apply, and the foreign supplier must register and charge Swiss VAT directly.
 
-If you are selling B2C services or goods to Swiss consumers and your Swiss revenue exceeds CHF 100'000' you need a Swiss VAT number.
+If you are selling B2C services or goods to Swiss consumers and your Swiss revenue exceeds CHF 100'000 you need a Swiss VAT number.
 
 ---
 
@@ -210,7 +210,7 @@ Failure to register would have exposed the company to retroactive VAT assessment
 
 ### The Worldwide Turnover Trap: Engage Anywhere Switzerland AG
 
-A US-based employer-of-record company set up Engage Anywhere Switzerland AG to employ three staff in Switzerland on behalf of US clients. The founders assumed the CHF 100'000 threshold applied only to Swiss revenue. It does not. The threshold captures **worldwide turnover from taxable supplies** — meaning the US parent's global revenue counted toward the Swiss registration trigger. With worldwide revenue well above CHF 100'000' VAT registration was mandatory from day one of Swiss operations.
+A US-based employer-of-record company set up Engage Anywhere Switzerland AG to employ three staff in Switzerland on behalf of US clients. The founders assumed the CHF 100'000 threshold applied only to Swiss revenue. It does not. The threshold captures **worldwide turnover from taxable supplies** — meaning the US parent's global revenue counted toward the Swiss registration trigger. With worldwide revenue well above CHF 100'000 VAT registration was mandatory from day one of Swiss operations.
 
 This case compounded quickly. The company had already been rejected by Relio (the Swiss fintech bank) due to US nexus at the UBO level, and was forced to route Swiss payments through the UK parent's Ebury account — which itself created serious compliance questions. Adding a missed VAT registration obligation on top of existing banking and SECO licensing problems created a regulatory situation that took months to untangle. The practical lesson: worldwide turnover means worldwide. A company generating CHF 2 million in New York and CHF 50'000 in Zurich still exceeds the threshold.
 
@@ -292,6 +292,8 @@ Lawsupport (Morgan Hartley Consulting) has assisted companies from over 40 count
 - **Audit support:** If the ESTV opens a review or audit of your VAT account, we represent you throughout the process.
 
 Our VAT services integrate directly with our [corporate tax](/tax-accounting/corporate-tax-switzerland/) and [accounting services](/tax-accounting/accounting-switzerland/), so there are no gaps in your compliance posture from day one of Swiss operations.
+
+For a broader overview, see our guide to [Swiss VAT (MWST)](/tax-accounting/swiss-vat-guide/).
 
 ---
 

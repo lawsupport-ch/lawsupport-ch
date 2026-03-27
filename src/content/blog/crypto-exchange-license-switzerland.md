@@ -238,6 +238,8 @@ Most new crypto exchanges land on the FinTech licence + VQF membership combinati
 
 Total cost to launch a FinTech-licensed Swiss crypto exchange: approximately CHF 500,000–1,000,000 in first-year costs, plus minimum capital.
 
+For a broader overview, see our guide to [Crypto & Fintech Licensing](/licensing/crypto-fintech-licensing-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

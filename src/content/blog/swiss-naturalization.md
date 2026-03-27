@@ -189,6 +189,8 @@ For foreign nationals arriving in Switzerland, the naturalization timeline begin
 3. **Integration building:** Join local associations, achieve language certification, maintain financial independence — start this from year one, not year nine
 4. **Naturalization application:** Once you have 10 years of residence and a valid C permit, file your application
 
+For a broader overview, see our guide to [Swiss Citizenship Pathways](/immigration/swiss-citizenship-pathways/).
+
 ---
 
 ## Frequently Asked Questions

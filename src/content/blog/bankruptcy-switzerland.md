@@ -1,6 +1,6 @@
 ---
 title: "Bankruptcy Switzerland: Corporate Insolvency Guide"
-description: "Swiss corporate bankruptcy (Konkurs): triggers, creditor priority, director liability, and alternatives. Free assessment from Lawsupport."
+description: "Swiss corporate bankruptcy (Konkurs): triggers, creditor priority, director liability, and alternatives. Free assessment from Lawsupport. Learn how we can help."
 date: "19.03.2026"
 category: "Company Formation"
 categoryHref: "/company-formation/"
@@ -173,6 +173,8 @@ Directors of a bankrupt Swiss company are not automatically disqualified from fu
 - The *Betreibungsregister* (debt enforcement register) records the bankruptcy and can be inspected by third parties
 - Directors who breached their duties face personal claims brought by the bankruptcy administrator on behalf of the creditor estate
 - A criminal investigation may follow if fraud, preferential transfers, or intentional asset concealment is suspected
+
+For a broader overview, see our guide to [Company Lifecycle in Switzerland](/company-formation/company-lifecycle-switzerland/).
 
 ---
 

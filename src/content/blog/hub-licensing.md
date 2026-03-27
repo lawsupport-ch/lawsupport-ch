@@ -351,7 +351,7 @@ Experience with Swiss licensing applications reveals several patterns that delay
 
 **Treating compliance as a cost centre.** Businesses that invest minimally in compliance during the application phase face problems post-licensing. FINMA's first regulatory audit typically occurs within 12 months of licence issuance. Arriving at that audit with incomplete policies, untrained staff, or undocumented procedures triggers enforcement measures — conditions, formal warnings, or in severe cases, licence revocation.
 
-**Not engaging local counsel.** Foreign applicants sometimes attempt to navigate Swiss licensing from abroad, using home-jurisdiction advisers unfamiliar with Swiss regulatory practice. Swiss regulators communicate in German, French, or Italian (not English as a first language), follow Swiss administrative procedures, and expect familiarity with Swiss legal concepts. Local counsel with direct regulatory experience materially improves outcomes.
+**Not engaging local counsel.** Foreign applicants sometimes attempt to handle Swiss licensing from abroad, using home-jurisdiction advisers unfamiliar with Swiss regulatory practice. Swiss regulators communicate in German, French, or Italian (not English as a first language), follow Swiss administrative procedures, and expect familiarity with Swiss legal concepts. Local counsel with direct regulatory experience materially improves outcomes.
 
 ---
 

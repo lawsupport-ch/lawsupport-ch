@@ -302,6 +302,8 @@ A Berlin-based fintech company (Series B, 80 employees) planned to launch its pa
 **Real cost of getting it wrong:** Opposition proceedings cost CHF 5'000-15'000 to defend. Rebranding costs CHF 50'000-200'000 depending on market presence. A Swissreg search and professional clearance opinion cost CHF 1'500-3'000. The economics are unambiguous.
 
 
+For a broader overview, see our guide to [Trademark & Design Protection](/intellectual-property/trademark-design-protection-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

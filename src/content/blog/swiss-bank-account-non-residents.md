@@ -224,6 +224,8 @@ The timeline from engagement to active account is typically eight to twelve week
 
 **The 80% signal is real.** If a bank approves the blocked [capital deposit account](/banking/capital-deposit-account-switzerland/) during company formation, roughly 80% of those convert into permanent accounts.
 
+For a broader overview, see our guide to [Opening a Swiss Bank Account](/banking/opening-swiss-bank-account-guide/).
+
 ---
 
 ## Frequently Asked Questions

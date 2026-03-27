@@ -294,6 +294,8 @@ Incorporation is the beginning, not the end, of your Swiss legal obligations. Th
 
 **Director Changes and Statutory Amendments:** Any change to the board, the articles, the registered address, or the share capital must be filed with the [Commercial Register](/company-formation/commercial-register-switzerland/). Structural changes such as capital increases require notarisation. For [withholding tax](/tax-accounting/withholding-tax-switzerland/) obligations on dividends, see our separate guide.
 
+For a broader overview, see our guide to [Starting a Business in Switzerland](/company-formation/starting-business-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

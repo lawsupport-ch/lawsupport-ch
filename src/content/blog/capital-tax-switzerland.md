@@ -238,6 +238,8 @@ Capital tax exposure depends on your company's domicile canton, equity structure
 
 Morgan Hartley | Senior Corporate Lawyer & Partner, Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch
 
+For a broader overview, see our guide to [Swiss Corporate Tax](/tax-accounting/corporate-tax-overview-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

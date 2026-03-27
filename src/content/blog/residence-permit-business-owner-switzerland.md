@@ -247,6 +247,8 @@ Yes. Once you hold a valid B or C permit, your spouse and children under 18 qual
 
 For EU/EFTA self-employed: GmbH formation costs CHF 1'900, plus registered address (CHF 2'400/year in Zug), plus 12 months of living costs (CHF 24'000-36'000) — total first-year minimum approximately CHF 30'000 plus CHF 20'000 share capital. For non-EU business owners: add personal liquidity of at least CHF 500'000, Swiss business capitalisation of CHF 500'000-1'000'000, nominee director (CHF 5'900/year), and residence permit support retainer (CHF 3'500) — total first-year commitment starts at approximately CHF 550'000 including share capital.
 
+For a broader overview, see our guide to [Swiss Work & Residence Permits](/immigration/swiss-work-residence-permits/).
+
 ---
 
 ## Frequently Asked Questions

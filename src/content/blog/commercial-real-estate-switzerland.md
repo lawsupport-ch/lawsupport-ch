@@ -1,6 +1,6 @@
 ---
 title: "Commercial Real Estate Switzerland: Office Space Guide"
-description: "Leasing office space in Switzerland: Zug, Zurich, Geneva prices, lease terms, Lex Koller rules for commercial property. Free assessment."
+description: "Leasing office space in Switzerland: Zug, Zurich, Geneva prices, lease terms, Lex Koller rules for commercial property. Free assessment. Learn how we can help."
 date: "19.03.2026"
 category: "Company Formation"
 categoryHref: "/company-formation/"
@@ -239,6 +239,8 @@ Total estimated occupancy cost for a 500 m² Grade A office over a 5-year term (
 | Zurich Oerlikon | CHF 165'000 | CHF 30'000 | CHF 975'000 |
 
 The gap between Geneva CBD and Zug over 5 years exceeds CHF 1'000'000 for the same footprint.
+
+For a broader overview, see our guide to [Corporate Infrastructure in Switzerland](/corporate-services/corporate-infrastructure-switzerland/).
 
 ---
 

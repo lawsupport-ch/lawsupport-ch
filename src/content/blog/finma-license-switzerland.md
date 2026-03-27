@@ -1,6 +1,6 @@
 ---
 title: "FINMA License Switzerland: Licensing Guide (2026)"
-description: "FINMA licensing in Switzerland: banking, securities, asset manager, FinTech, and crypto licences. Requirements and process."
+description: "FINMA licensing in Switzerland: banking, securities, asset manager, FinTech, and crypto licences. Requirements and process. Contact us for a consultation."
 date: "19.03.2026"
 category: "Licensing & Permits"
 categoryHref: "/licensing/"
@@ -275,6 +275,8 @@ For businesses that land on the SRO membership path, the choice between VQF and 
 6. **Ongoing supervision:** Annual reporting, FINMA-approved audit, ongoing fit and proper monitoring
 
 For the holding or operational entity that will hold the licence, see our [holding company Switzerland](/company-formation/holding-company-switzerland/) and [company formation Switzerland](/company-formation/company-formation-switzerland/) guides.
+
+For a broader overview, see our guide to [FINMA Licensing in Switzerland](/licensing/finma-licensing-guide/).
 
 ---
 

@@ -279,6 +279,8 @@ During those eight months, the nominee director signed the company's employment 
 
 The lesson: the "interim" arrangement works well, but the timeline is outside anyone's control. Budget for extension. And budget for the hourly work that any active company will generate beyond the base fee.
 
+For a broader overview, see our guide to [Corporate Infrastructure in Switzerland](/corporate-services/corporate-infrastructure-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

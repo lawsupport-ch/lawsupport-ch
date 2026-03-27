@@ -209,6 +209,8 @@ This matrix reflects what we observe in practice across 300+ company formations.
 
 **Case from practice:** A US-owned employer-of-record company with three Swiss employees was rejected by Relio AG, then by PostFinance, and was forced to operate through its UK parent company's payment account. Swiss regulators view using another entity's bank account as questionable. Fourteen months later, the company still has no Swiss bank account in its own name.
 
+For a broader overview, see our guide to [The Swiss Banking System](/banking/swiss-banking-landscape/).
+
 ---
 
 ## Frequently Asked Questions

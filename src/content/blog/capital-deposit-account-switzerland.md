@@ -172,6 +172,8 @@ Many founders choose to open the capital deposit account at whatever bank is mos
 
 Swiss law permits AG and GmbH share capital to be denominated in a foreign currency (EUR, USD, GBP) if the articles of association specify that currency. The bank confirms that the CHF equivalent meets the statutory minimum at the time of deposit. In practice, most formations use CHF to avoid complications from exchange rate movements between deposit and registration.
 
+For a broader overview, see our guide to [Opening a Swiss Bank Account](/banking/opening-swiss-bank-account-guide/).
+
 ---
 
 ## Frequently Asked Questions

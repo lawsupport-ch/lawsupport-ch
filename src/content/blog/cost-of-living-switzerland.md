@@ -222,6 +222,8 @@ The commute to Zurich: 25 minutes by SBB. Both children attended ISZL (internati
 
 Switzerland pays commensurately high salaries: average ~CHF 80'000–90'000 across all sectors. Finance, pharma, tech, and consulting pay significantly more.
 
+For a broader overview, see our guide to [Moving to Switzerland](/immigration/moving-to-switzerland-guide/).
+
 ---
 
 ## Frequently Asked Questions

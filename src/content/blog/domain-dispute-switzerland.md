@@ -261,6 +261,8 @@ A Zurich-based fintech company discovered that a Panama-registered entity had re
 **Trap 5 — Negotiating with squatters before filing.** Many squatters demand CHF 5'000-50'000 for a voluntary transfer. Some companies pay to avoid the dispute process. This is almost always more expensive than a SWITCH-DRP complaint (CHF 5'000-15'000 total). More importantly, paying squatters incentivises the behaviour and makes you a target for future squatting on your other brand names.
 
 
+For a broader overview, see our guide to [Trademark & Design Protection](/intellectual-property/trademark-design-protection-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

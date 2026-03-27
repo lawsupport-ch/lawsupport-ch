@@ -287,6 +287,8 @@ A Schaffhausen-based watch component manufacturer developed a distinctive crown 
 **Trap 5 — Batch filing timing.** Filing 20 designs individually costs CHF 6'000. Filing them in one application costs CHF 2'200. But the batch must be filed simultaneously — you cannot add designs to an existing application later. Coordinate your product development timeline with your IP filing schedule to capture full collections in a single application.
 
 
+For a broader overview, see our guide to [Trademark & Design Protection](/intellectual-property/trademark-design-protection-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

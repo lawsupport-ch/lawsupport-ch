@@ -145,6 +145,8 @@ Under OECD BEPS Action 5, Switzerland exchanges advance rulings with treaty part
 
 <!-- VIDEO: How the Swiss advance tax ruling process works in practice — from preparation to binding confirmation -->
 
+For a broader overview, see our guide to [Swiss Tax Incentives](/tax-accounting/tax-incentives-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

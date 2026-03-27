@@ -218,6 +218,8 @@ Before drafting a contract, confirm whether a binding GAV applies. Non-complianc
 
 You can also verify your obligations on <a href="https://www.admin.ch" target="_blank" rel="nofollow noopener">admin.ch</a>, and consult the statutory framework directly via <a href="https://www.fedlex.admin.ch" target="_blank" rel="nofollow noopener">fedlex.admin.ch</a>.
 
+For a broader overview, see our guide to [Swiss Employment Law](/employment-law/swiss-employment-law-guide/).
+
 ---
 
 ## Frequently Asked Questions

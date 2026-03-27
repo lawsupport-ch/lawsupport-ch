@@ -317,6 +317,8 @@ Children under 22 who are unmarried and living in your household can generally b
 
 Federal fees start at CHF 100. Cantonal and communal fees together typically range from CHF 1'500 to CHF 4'000. Professional legal fees are additional. Total out-of-pocket costs (excluding legal support) are typically CHF 2'000 to CHF 5'000. The real cost is the ten years of Swiss residence and the sustained effort in integration, language, and financial independence that the process demands.
 
+For a broader overview, see our guide to [Swiss Citizenship Pathways](/immigration/swiss-citizenship-pathways/).
+
 ---
 
 ## Frequently Asked Questions

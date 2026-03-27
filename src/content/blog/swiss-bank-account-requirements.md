@@ -178,6 +178,8 @@ Missing any single item restarts their review clock. In our experience, PostFina
 
 If a bank approves your blocked [capital deposit account](/banking/capital-deposit-account-switzerland/) during company formation, approximately 80% of those relationships convert into permanent corporate accounts. The capital deposit stage functions as a de facto pre-screening. This is the single most useful signal in the Swiss banking process.
 
+For a broader overview, see our guide to [Opening a Swiss Bank Account](/banking/opening-swiss-bank-account-guide/).
+
 ---
 
 ## Frequently Asked Questions

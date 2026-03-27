@@ -162,6 +162,8 @@ A non-resident foreigner or foreign-owned Swiss company can acquire commercial p
 
 **Retroactive enforcement:** Violations discovered after completion — during resale, inheritance, or audit — can result in forced divestiture years later. The property is not "safe" simply because the initial purchase was completed without objection.
 
+For a broader overview, see our guide to [Moving to Switzerland](/immigration/moving-to-switzerland-guide/).
+
 ---
 
 ## Frequently Asked Questions

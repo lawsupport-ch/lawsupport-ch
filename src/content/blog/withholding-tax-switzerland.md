@@ -181,6 +181,8 @@ When setting up a [Swiss company](/company-formation/company-formation-switzerla
 - **Holding versus operating company:** Interposing a Swiss holding company can optimise the withholding position through the participation exemption
 - **[Accounting](/tax-accounting/accounting-switzerland/) and documentation:** Proper records of dividend declarations, withholding deductions, and ESTV filings must be maintained
 
+For a broader overview, see our guide to [International Tax Planning from Switzerland](/tax-accounting/international-tax-planning-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

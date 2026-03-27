@@ -214,6 +214,8 @@ The Swiss pharmaceutical regulatory environment is also genuinely stable. Swissm
 
 <!-- VIDEO: How Swissmedic authorisation supports global market access for pharmaceutical companies -->
 
+For a broader overview, see our guide to [Industry-Specific Licences](/licensing/industry-licences-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

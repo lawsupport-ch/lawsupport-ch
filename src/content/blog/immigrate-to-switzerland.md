@@ -1,6 +1,6 @@
 ---
 title: "Immigrate to Switzerland as an Entrepreneur (2026)"
-description: "Immigrate to Switzerland as an entrepreneur or investor. Permit types, Zug tax advantage, and steps for non-EU founders explained."
+description: "Immigrate to Switzerland as an entrepreneur or investor. Permit types, Zug tax advantage, and steps for non-EU founders explained. Learn how we can help."
 date: "15.04.2026"
 publishDate: "2026-04-15"
 category: "Immigration"
@@ -300,6 +300,8 @@ Yes, but the timing and conditions vary by permit type. EU/EFTA B permit holders
 **How much money do I need to move to Switzerland?**
 
 For an employed worker relocating with employer support: CHF 15'000-25'000 in personal savings covers deposit, first month, and setup costs. For a self-employed non-EU entrepreneur: personal liquidity of at least CHF 500'000, Swiss business capitalisation of CHF 500'000-1'000'000, plus first-year operating costs of approximately CHF 12'000 (registered address, nominee director, accounting). For lump-sum taxation residents: annual minimum tax obligation of CHF 200'000-300'000 depending on canton, plus living costs.
+
+For a broader overview, see our guide to [Moving to Switzerland](/immigration/moving-to-switzerland-guide/).
 
 ---
 

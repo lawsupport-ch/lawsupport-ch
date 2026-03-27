@@ -273,6 +273,8 @@ Email: info@lawsupport.ch
 
 [Request a Free Assessment](/contacts/) — we respond to all banking enquiries within one business day.
 
+For a broader overview, see our guide to [Opening a Swiss Bank Account](/banking/opening-swiss-bank-account-guide/).
+
 ---
 
 ## Frequently Asked Questions

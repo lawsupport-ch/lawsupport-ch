@@ -237,6 +237,8 @@ For a full walkthrough of the incorporation process, see our [company formation 
 
 Canton selection matters: Zug processes registrations efficiently and its administration is experienced with international structures. See our [company formation in Zug](/company-formation/company-formation-zug/) guide for the canton-specific advantages. For Zurich-based companies, see [company formation in Zurich](/company-formation/company-formation-zurich/).
 
+For a broader overview, see our guide to [Swiss Company Registration](/company-formation/company-registration-process-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

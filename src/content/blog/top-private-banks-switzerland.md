@@ -212,6 +212,8 @@ Most people searching for "top private banks Switzerland" actually need a [corpo
 
 **Case from practice:** A Singapore-based entrepreneur with CHF 3'000'000 in investable assets approached Pictet expecting a bespoke private banking relationship. Pictet accepted the account but assigned a junior relationship manager with limited portfolio customisation. The client moved to Julius Baer, which offered a more attentive service at that asset level. The lesson: published minimums and actual service thresholds are different numbers.
 
+For a broader overview, see our guide to [Private Banking in Switzerland](/banking/private-banking-switzerland-guide/).
+
 ---
 
 ## Frequently Asked Questions

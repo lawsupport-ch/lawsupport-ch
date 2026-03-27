@@ -215,6 +215,8 @@ The Cayman Foundation Company remains a competitor structure, used primarily for
 
 Swiss foundations carry reputational weight that Cayman structures do not. FINMA no-action letters and FINMA licensing provide confirmatory comfort that offshore structures cannot replicate. For projects targeting European institutional investors post-MiCA, Swiss regulatory status provides a credible baseline.
 
+For a broader overview, see our guide to [Crypto & Fintech Licensing](/licensing/crypto-fintech-licensing-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

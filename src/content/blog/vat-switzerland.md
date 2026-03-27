@@ -1,6 +1,6 @@
 ---
 title: "Swiss VAT (MWST): Rates, Registration & Compliance (2026)"
-description: "Swiss VAT rates for 2026: standard 8.1%, reduced 2.6%, accommodation 3.8%. Registration threshold CHF 100'000' filing obligations and compliance. Lawsupport."
+description: "Swiss VAT rates for 2026: standard 8.1%, reduced 2.6%, accommodation 3.8%. Registration threshold CHF 100'000 filing obligations and compliance. Lawsupport."
 date: "17.08.2026"
 publishDate: "2026-08-17"
 category: "Tax & Accounting"
@@ -130,7 +130,7 @@ The distinction between zero-rated and fully exempt matters enormously. A zero-r
 
 ### Mandatory Registration
 
-Registration is compulsory when **annual taxable turnover from Switzerland exceeds CHF 100'000**. The threshold applies to worldwide taxable supplies for foreign businesses. There is no grace period: once you cross CHF 100'000' you must register before making further taxable supplies.
+Registration is compulsory when **annual taxable turnover from Switzerland exceeds CHF 100'000**. The threshold applies to worldwide taxable supplies for foreign businesses. There is no grace period: once you cross CHF 100'000 you must register before making further taxable supplies.
 
 Foreign businesses without a Swiss establishment face the same threshold. If a German logistics company invoices Swiss customers more than CHF 100'000 per year for services that are taxable in Switzerland, it must register with the ESTV. For a detailed guide on the registration process, see our [VAT registration guide for foreign companies](/tax-accounting/vat-registration-switzerland/).
 
@@ -249,13 +249,15 @@ The **limitation period for correction is five years**. Both underpayments (VAT 
 
 ESTV conducts risk-based audits. Businesses in sectors with high cash turnover, complex supply chains, or significant cross-border transactions attract more scrutiny. Keeping clean, reconciled VAT records is the most effective risk mitigation.
 
+For a broader overview, see our guide to [Swiss VAT (MWST)](/tax-accounting/swiss-vat-guide/).
+
 ---
 
 ## Frequently Asked Questions
 
 **1. Does a foreign company selling goods to Swiss businesses need to register for Swiss VAT?**
 
-It depends on the value of taxable supplies made in Switzerland. If annual taxable turnover from Switzerland exceeds CHF 100'000' registration is mandatory. For B2B goods, the place of supply and import VAT rules also interact — in many cases, the Swiss importer accounts for import VAT at the border rather than the foreign seller. The structure of the transaction determines who is liable.
+It depends on the value of taxable supplies made in Switzerland. If annual taxable turnover from Switzerland exceeds CHF 100'000 registration is mandatory. For B2B goods, the place of supply and import VAT rules also interact — in many cases, the Swiss importer accounts for import VAT at the border rather than the foreign seller. The structure of the transaction determines who is liable.
 
 **2. Can a business deregister from Swiss VAT if turnover drops below CHF 100'000?**
 

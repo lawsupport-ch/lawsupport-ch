@@ -161,6 +161,8 @@ The control calculation effectively extends treaty access to income from treaty 
 
 **Timing:** the application should be submitted before establishing Swiss residence, or at the latest, in the first year.
 
+For a broader overview, see our guide to [Swiss Tax Incentives](/tax-accounting/tax-incentives-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

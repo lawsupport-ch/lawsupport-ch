@@ -202,6 +202,8 @@ Selecting a bank from a list is not the hard part. Getting accepted is. This mat
 
 **Why this matters:** A US-owned staffing company was rejected by three Swiss institutions before finding a fintech workaround through its UK parent's payment account. The wrong bank choice costs time and can make subsequent applications harder, as banks share rejection data through FINMA reporting channels.
 
+For a broader overview, see our guide to [The Swiss Banking System](/banking/swiss-banking-landscape/).
+
 ---
 
 ## Frequently Asked Questions

@@ -352,6 +352,8 @@ No travel is required. Founders can authorise us by power of attorney to act on 
 
 For context on how the GmbH fits within the broader Swiss corporate framework, start with our guide to [company formation in Switzerland](/company-formation/company-formation-switzerland/).
 
+For a broader overview, see our guide to [Swiss Entity Types Compared](/company-formation/swiss-entity-types-compared/).
+
 ---
 
 ## Frequently Asked Questions: GmbH Formation Switzerland

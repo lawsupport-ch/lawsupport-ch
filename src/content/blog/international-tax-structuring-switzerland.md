@@ -195,6 +195,8 @@ See [double tax treaties Switzerland](/tax-accounting/double-tax-treaties-switze
 
 For a full rate mechanics analysis, see [corporate tax in Switzerland](/tax-accounting/corporate-tax-switzerland/).
 
+For a broader overview, see our guide to [International Tax Planning from Switzerland](/tax-accounting/international-tax-planning-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

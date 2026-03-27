@@ -180,6 +180,8 @@ Individuals relocating to Switzerland can apply for an **advance tax ruling (Ste
 
 For individuals considering [lump-sum taxation](/tax-accounting/lump-sum-taxation-switzerland/), an advance ruling is not optional — it is a prerequisite. But advance rulings are equally valuable for ordinary relocations that involve complex asset structures, foreign shareholdings, trusts, or situations with dual-residency risk. Filing an ordinary relocation without first obtaining a ruling exposes you to uncertainty that is easily avoided. The cantonal authority's position is binding once the ruling is issued, provided the facts remain as described.
 
+For a broader overview, see our guide to [International Tax Planning from Switzerland](/tax-accounting/international-tax-planning-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

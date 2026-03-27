@@ -1,6 +1,6 @@
 ---
 title: "FINMA Licensing Switzerland: Crypto & Banking (2026)"
-description: "FINMA licensing in Switzerland: banking, crypto (VASP), FinIA securities, fund management. Capital requirements and process."
+description: "FINMA licensing in Switzerland: banking, crypto (VASP), FinIA securities, fund management. Capital requirements and process. Learn how we can help."
 date: "19.03.2026"
 category: "Licensing & Permits"
 categoryHref: "/licensing/"
@@ -428,6 +428,8 @@ If you are considering a FINMA license in 2026, the first step is a structured p
 Lawsupport (Morgan Hartley Consulting GmbH)
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
+
+For a broader overview, see our guide to [FINMA Licensing in Switzerland](/licensing/finma-licensing-guide/).
 
 ---
 

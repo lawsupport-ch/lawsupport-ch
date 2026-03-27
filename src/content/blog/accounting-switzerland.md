@@ -295,6 +295,8 @@ A Swiss company without its own bank account is viewed with suspicion by both re
 
 The most common reason companies contact us is not a specific compliance issue — it is that the books have not been maintained for two or three years and the owner now needs to do something (liquidate, sell, obtain financing, or simply bring the company into compliance). Each missed year makes the next year harder to reconstruct. The cost curve is not linear — it is exponential, because each year's opening balance depends on the prior year's closing balance.
 
+For a broader overview, see our guide to [Accounting, Payroll & Social Insurance](/tax-accounting/accounting-payroll-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

@@ -160,6 +160,8 @@ The difference between Zug (~11.85%) and Zurich (~20%): roughly **CHF 79'000/yea
 3. **Address activation** — operational immediately on agreement signing. For new companies, included in formation documents from day one.
 4. **Commercial Register filing** — if changing domicile to Zug from another canton, we handle the Register amendment.
 
+For a broader overview, see our guide to [Corporate Infrastructure in Switzerland](/corporate-services/corporate-infrastructure-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

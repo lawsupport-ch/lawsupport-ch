@@ -302,6 +302,8 @@ Yes, subject to conditions. EU/EFTA nationals can bring their spouse and depende
 
 This depends on your route. For **employed applicants**: your salary must meet Swiss market standards, and you need first/last month rent plus deposit (typically three months' rent = CHF 4'500-9'000 for a one-bedroom). For **self-employed non-EU applicants**: personal liquidity of at least CHF 500'000 and Swiss business capitalisation of CHF 500'000-1'000'000 are practical minimums. Regardless of route, budget for: mandatory health insurance (CHF 400-700/month), AHV social contributions (approximately 10% of self-employment income), and the residence permit support retainer (CHF 3'500 with Lawsupport, plus CHF 150-450/hour for additional work).
 
+For a broader overview, see our guide to [Swiss Work & Residence Permits](/immigration/swiss-work-residence-permits/).
+
 ---
 
 ## Frequently Asked Questions

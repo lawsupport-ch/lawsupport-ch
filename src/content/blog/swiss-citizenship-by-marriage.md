@@ -224,6 +224,8 @@ Lawsupport (Morgan Hartley Consulting) advises clients on the full spectrum of S
 
 We also advise clients who are earlier in their Swiss journey — whether they have just arrived on a [B permit](/immigration/b-permit-switzerland/) or are exploring other citizenship routes including [Swiss citizenship by descent](/immigration/swiss-citizenship-by-descent/).
 
+For a broader overview, see our guide to [Swiss Citizenship Pathways](/immigration/swiss-citizenship-pathways/).
+
 ---
 
 ## Frequently Asked Questions

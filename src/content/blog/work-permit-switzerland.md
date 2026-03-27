@@ -1,6 +1,6 @@
 ---
 title: "Work Permit Switzerland: Types & Requirements"
-description: "Swiss work permits explained for 2026: L, B, C and G permits, EU vs non-EU rules, annual quotas, employer obligations, priority check, and application timelines."
+description: "Swiss work permits for 2026: L, B, C and G permits, EU vs non-EU rules, annual quotas, employer obligations, priority check and application timelines."
 date: "27.08.2026"
 publishDate: "2026-08-27"
 category: "Immigration"
@@ -233,6 +233,8 @@ It depends on your permit type and nationality. EU/EFTA B permit holders can app
 **How much money do I need to move to Switzerland for work?**
 
 For employed workers: relocation deposit (three months' rent = CHF 4'500-9'000), first month living expenses (CHF 3'000-5'000), health insurance (CHF 400-700/month). Many employers provide relocation packages. For self-employed/entrepreneurs: see our guide on [residence permits for business owners](/immigration/residence-permit-business-owner-switzerland/) — the financial threshold is substantially higher. Residence permit legal support with Lawsupport starts with a CHF 3'500 retainer.
+
+For a broader overview, see our guide to [Swiss Work & Residence Permits](/immigration/swiss-work-residence-permits/).
 
 ---
 

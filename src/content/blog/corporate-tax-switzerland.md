@@ -229,6 +229,8 @@ The scenarios above show successful outcomes. Here are the friction points that 
 
 **Audit 3 months after SRO licence.** For financial services companies, the SRO (self-regulatory organisation) conducts an audit approximately 3 months after licence issuance. If the audit reveals an incompetent director or inadequate compliance infrastructure, the licence can be revoked -- unwinding months of tax planning and structural work.
 
+For a broader overview, see our guide to [Swiss Corporate Tax](/tax-accounting/corporate-tax-overview-switzerland/).
+
 ---
 
 ## Frequently Asked Questions About Corporate Tax in Switzerland

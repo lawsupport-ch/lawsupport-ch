@@ -289,6 +289,8 @@ Not simultaneously with your own application. Your spouse and dependent children
 
 For employed EU nationals: first/last month rent plus deposit (three months' rent = typically CHF 4'500-9'000), health insurance setup (CHF 400-700/month), and relocation costs. Your employer may cover some of these. For self-employed EU nationals: GmbH formation (CHF 1'900), registered address (CHF 2'400/year in Zug), 12 months of living costs (CHF 24'000-36'000), plus share capital (CHF 20'000 minimum for GmbH) — approximately CHF 50'000 total first-year budget.
 
+For a broader overview, see our guide to [Swiss Work & Residence Permits](/immigration/swiss-work-residence-permits/).
+
 ---
 
 ## Frequently Asked Questions

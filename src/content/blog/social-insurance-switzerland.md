@@ -210,6 +210,8 @@ The AHV compensation office audits employers and goes back. Under Art. 52 AHVG, 
 
 > **From practice:** A company with three employees at CHF 100'000 each owes approximately CHF 46'200 per year in combined employer social insurance contributions. A founder who budgets only gross salary is short by 15.4% before the 13th month salary adds another CHF 25'000.
 
+For a broader overview, see our guide to [Accounting, Payroll & Social Insurance](/tax-accounting/accounting-payroll-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

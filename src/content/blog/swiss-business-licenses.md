@@ -235,6 +235,8 @@ Healthcare licensing in Switzerland operates on both levels simultaneously.
 
 Switzerland's revised Federal Act on Data Protection (nDSG) entered into force on 1 September 2023. There is no licence or registration requirement — but compliance is mandatory for any company processing personal data of Swiss residents. The nDSG largely aligns with EU GDPR in substance while maintaining Swiss procedural specifics. Non-compliance carries fines of up to CHF 250'000 imposed on responsible individuals.
 
+For a broader overview, see our guide to [Industry-Specific Licences](/licensing/industry-licences-switzerland/).
+
 ---
 
 ## FAQ
@@ -273,7 +275,7 @@ Yes. Retail sale of spirits requires a separate cantonal alcohol permit in most 
 
 **Can I start a consulting business in Switzerland without a licence?**
 
-Yes. Management consulting, IT services, software development, marketing agencies, and most advisory services require no industry-specific licence. You register your company in the Commercial Register, obtain a UID automatically, register for VAT once turnover exceeds CHF 100'000' and you are operational.
+Yes. Management consulting, IT services, software development, marketing agencies, and most advisory services require no industry-specific licence. You register your company in the Commercial Register, obtain a UID automatically, register for VAT once turnover exceeds CHF 100'000 and you are operational.
 
 **What happens if I operate without a required Swiss licence?**
 

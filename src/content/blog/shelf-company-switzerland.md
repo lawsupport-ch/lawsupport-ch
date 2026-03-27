@@ -246,6 +246,8 @@ Whether you are acquiring a shelf company through Lawsupport or independently, t
 | Bank account | Sometimes included | Must open fresh (4-8 weeks) | Must open fresh (4-8 weeks) | Usually included |
 | Best for | Speed, prestige, tender requirements | Most standard formations | Holdings, privacy, investors | Market entry, existing clients |
 
+For a broader overview, see our guide to [Ready-Made Companies & Nominee Services](/company-formation/ready-made-companies-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

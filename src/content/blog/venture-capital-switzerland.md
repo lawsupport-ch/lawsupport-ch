@@ -182,6 +182,8 @@ Founders should not sign term sheets without legal review. The economics agreed 
 
 <!-- VIDEO: Structuring a convertible loan (Wandeldarlehen) for Swiss startups — key terms and common pitfalls -->
 
+For a broader overview, see our guide to [M&A in Switzerland](/corporate-transactions/mergers-acquisitions-guide-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

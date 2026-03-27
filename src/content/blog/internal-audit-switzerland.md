@@ -198,6 +198,8 @@ For details on forming these entity types, see our guides on [AG formation in Sw
 
 **SRO-related compliance audits:** These are not statutory audits in the traditional sense, but SRO members must budget for the initial three-month audit and ongoing annual compliance reviews. The cost of failing the initial audit is not measured in fees — it is measured in the loss of the licence itself.
 
+For a broader overview, see our guide to [Corporate Infrastructure in Switzerland](/corporate-services/corporate-infrastructure-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

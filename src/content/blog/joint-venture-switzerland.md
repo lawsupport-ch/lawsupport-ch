@@ -176,6 +176,8 @@ The lesson: if the JV will employ people, sign contracts, or hold regulatory app
 | Nominee director | N/A | CHF 5'900/year | CHF 5'900/year |
 | Best for | Short-term, exploratory | Operating JVs, 50/50 structures | Unequal participation, future investors |
 
+For a broader overview, see our guide to [Swiss Entity Types Compared](/company-formation/swiss-entity-types-compared/).
+
 ---
 
 ## Frequently Asked Questions

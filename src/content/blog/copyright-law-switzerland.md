@@ -306,6 +306,8 @@ A Zurich-based design agency commissioned a full brand identity (logo, typograph
 **Trap 5 — Copyright enforcement costs are asymmetric.** A cease-and-desist letter: CHF 1'500-3'500. An interim injunction: CHF 10'000-25'000. Full trial: CHF 50'000-150'000. For many infringements, the only economically rational step is the cease-and-desist letter. Budget accordingly and do not assume you will recover legal costs from the infringer — Swiss courts award partial cost recovery, not full reimbursement.
 
 
+For a broader overview, see our guide to [Patents & IP Strategy](/intellectual-property/patents-ip-strategy-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

@@ -1,6 +1,6 @@
 ---
 title: "Company Formation Zug: Tax-Efficient Canton (2026)"
-description: "Form a company in Zug at 11.8% tax rate. AG, GmbH and foundation formation. 1,000+ incorporations. Request a free assessment."
+description: "Form a company in Zug at 11.8% tax rate. AG, GmbH and foundation formation. 1,000+ incorporations. Request a free assessment. Start with a free assessment."
 date: "19.03.2026"
 category: "Company Formation"
 categoryHref: "/company-formation/"
@@ -337,6 +337,8 @@ If you are considering company formation in Zug, contact us for a direct convers
 **Address:** Baarerstrasse 135, 6300 Zug, Switzerland
 
 [Full guide to company formation in Switzerland](/company-formation/company-formation-switzerland/)
+
+For a broader overview, see our guide to [Starting a Business in Switzerland](/company-formation/starting-business-switzerland/).
 
 ---
 

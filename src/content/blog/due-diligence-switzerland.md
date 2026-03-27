@@ -163,6 +163,8 @@ For standard Swiss SME transactions (revenue CHF 1,000,000–20,000,000), due di
 
 **Confirmatory due diligence** covers a narrower scope conducted after signing but before closing. It focuses on conditions precedent: regulatory approvals, third-party consents, and verification that no material adverse change has occurred. For Swiss transactions requiring COMCO (competition authority) notification or FINMA approval, the confirmatory phase may run several months.
 
+For a broader overview, see our guide to [M&A in Switzerland](/corporate-transactions/mergers-acquisitions-guide-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

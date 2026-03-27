@@ -162,6 +162,8 @@ Cantonal banks are more accessible than UBS, but they are not automatic approval
 
 The 80% conversion signal applies here: if a cantonal bank approves your [capital deposit account](/banking/capital-deposit-account-switzerland/) during formation, approximately 80% of those relationships convert into permanent corporate accounts.
 
+For a broader overview, see our guide to [The Swiss Banking System](/banking/swiss-banking-landscape/).
+
 ---
 
 ## Frequently Asked Questions

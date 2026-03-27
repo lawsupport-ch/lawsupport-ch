@@ -147,6 +147,8 @@ Under **Art. 754 CO**, directors -- including nominees -- are personally liable 
 
 The practical consequence: any reputable nominee provider conducts KYC before accepting an engagement, monitors the company's annual accounts, and reserves the right to resign if the company's activities deviate from what was disclosed. A provider who accepts any client without verification is exposing their own directors to unlimited personal liability -- which tells you something about the quality of the service.
 
+For a broader overview, see our guide to [Ready-Made Companies & Nominee Services](/company-formation/ready-made-companies-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

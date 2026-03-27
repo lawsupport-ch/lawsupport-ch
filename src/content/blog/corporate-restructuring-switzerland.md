@@ -217,6 +217,8 @@ If the restructuring involves transferring contracts, licences, real estate, or 
 **Trap 6 — The dormant company cost trap.** Companies that defer restructuring or liquidation because "it is not urgent" accumulate dormant company costs: CHF 1'400/year minimum for annual statements and tax filings, plus CHF 5'900/year for a nominee director and CHF 2'400/year for a registered address in Zug. At CHF 9'700/year, the cost of maintaining a dormant entity exceeds the cost of liquidation within 18 months. Restructure or liquidate — do not defer.
 
 
+For a broader overview, see our guide to [M&A in Switzerland](/corporate-transactions/mergers-acquisitions-guide-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

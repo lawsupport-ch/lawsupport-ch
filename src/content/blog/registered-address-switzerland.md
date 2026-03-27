@@ -188,6 +188,8 @@ Both services are typically used together. Neither alone is sufficient for a for
 
 For existing companies changing address to Zug: formal amendment filed with both departing and receiving Commercial Registers. Typically 2–4 weeks.
 
+For a broader overview, see our guide to [Corporate Infrastructure in Switzerland](/corporate-services/corporate-infrastructure-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

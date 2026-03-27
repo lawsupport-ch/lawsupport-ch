@@ -110,6 +110,8 @@ All advice is given in writing. We do not provide verbal opinions on significant
 
 <!-- VIDEO: How advance tax rulings work in Switzerland and why they matter for corporate structuring -->
 
+For a broader overview, see our guide to [Swiss Tax Incentives](/tax-accounting/tax-incentives-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

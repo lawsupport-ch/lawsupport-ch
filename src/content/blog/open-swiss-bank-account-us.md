@@ -234,6 +234,8 @@ Her US tax obligations have not changed. She reports the account on FBAR, and th
 
 The Swiss account is not a tax strategy. It is a business infrastructure decision. That distinction matters.
 
+For a broader overview, see our guide to [Opening a Swiss Bank Account](/banking/opening-swiss-bank-account-guide/).
+
 ---
 
 ## Frequently Asked Questions

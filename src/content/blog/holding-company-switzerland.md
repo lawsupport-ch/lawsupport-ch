@@ -1,6 +1,6 @@
 ---
 title: "Swiss Holding Company: Tax Benefits & Setup"
-description: "Swiss holding company: participation exemption, Zug tax rates, IP Box, treaty network, substance rules, and formation steps explained."
+description: "Swiss holding company: participation exemption, Zug tax rates, IP Box, treaty network, substance rules, and formation steps explained. Get expert advice today."
 date: "05.04.2026"
 publishDate: "2026-04-05"
 category: "Company Formation"
@@ -346,6 +346,8 @@ Every holding structure we advise on begins with an analysis of your specific sh
 - **Phone:** +41 44 51 52 592
 - **Email:** info@lawsupport.ch
 - **Address:** Baarerstrasse 135, 6300 Zug, Switzerland
+
+For a broader overview, see our guide to [Swiss Entity Types Compared](/company-formation/swiss-entity-types-compared/).
 
 ---
 

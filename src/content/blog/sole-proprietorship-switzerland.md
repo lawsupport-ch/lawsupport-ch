@@ -188,6 +188,8 @@ This is a standard process. We handle such conversions regularly as part of [com
 
 A Zug-based IT consultant operated as an Einzelfirma for three years, earning CHF 200'000 annually. Total tax and social insurance burden: approximately CHF 65'000/year (personal income tax at ~22% effective rate plus AHV/IV/EO at ~10%). After converting to a GmbH, he paid himself a salary of CHF 120'000 (with AHV on that salary) and retained CHF 80'000 in the company at Zug's 11.8% corporate rate. Annual saving: approximately CHF 12'000. Over the three years he delayed the conversion, he overpaid by roughly CHF 36'000 — far more than the conversion cost.
 
+For a broader overview, see our guide to [Swiss Entity Types Compared](/company-formation/swiss-entity-types-compared/).
+
 ---
 
 ## Frequently Asked Questions

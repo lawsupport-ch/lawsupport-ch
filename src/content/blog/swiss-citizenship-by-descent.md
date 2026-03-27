@@ -232,6 +232,8 @@ At Lawsupport, we:
 - Manage the documentation and submission process for birth registrations, facilitated registrations under Art. 58 BüG, and reintegration applications under Art. 51 BüG
 - Advise on downstream steps once citizenship is confirmed, including obtaining a [Swiss passport](/immigration/swiss-passport/) and planning for [residence in Switzerland](/immigration/work-permit-switzerland/)
 
+For a broader overview, see our guide to [Swiss Citizenship Pathways](/immigration/swiss-citizenship-pathways/).
+
 ---
 
 ## Frequently Asked Questions

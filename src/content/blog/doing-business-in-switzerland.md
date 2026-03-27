@@ -405,6 +405,8 @@ info@lawsupport.ch
 
 Or [start the company formation process here](/company-formation/start-business-switzerland/).
 
+For a broader overview, see our guide to [Starting a Business in Switzerland](/company-formation/starting-business-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

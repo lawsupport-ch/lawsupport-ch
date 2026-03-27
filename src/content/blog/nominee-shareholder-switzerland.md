@@ -166,6 +166,8 @@ For family business confidentiality (not wanting competitors to know the family 
 
 For Swiss AG and GmbH companies, at least one director must be a Swiss resident (in practice) for most banks to open accounts. Nominee directors are used by some fiduciaries, but come with liability considerations.
 
+For a broader overview, see our guide to [Ready-Made Companies & Nominee Services](/company-formation/ready-made-companies-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

@@ -1,6 +1,6 @@
 ---
 title: "Swiss Limited Partnership (KG): Structure & Uses"
-description: "Swiss Kommanditgesellschaft (KG): partner roles, liability rules, tax treatment, and use in private equity fund structures."
+description: "Swiss Kommanditgesellschaft (KG): partner roles, liability rules, tax treatment, and use in private equity fund structures. Get expert advice today."
 date: "29.04.2026"
 publishDate: "2026-04-29"
 category: "Company Formation"
@@ -170,6 +170,8 @@ The lesson: the KG works precisely when roles are static. The moment limited par
 **Public disclosure of LP contributions.** The committed capital contribution of each limited partner is registered in the Commercial Register and publicly searchable. Unlike an AG (where shareholders are private), every LP's investment amount is visible on ZEFIX.
 
 **Banking complexity.** Banks must conduct KYC on both the KG and the GP entity. Two sets of beneficial ownership documentation, two compliance reviews. For international structures with non-Swiss LPs, this can extend the banking timeline to 8+ weeks.
+
+For a broader overview, see our guide to [Swiss Entity Types Compared](/company-formation/swiss-entity-types-compared/).
 
 ---
 

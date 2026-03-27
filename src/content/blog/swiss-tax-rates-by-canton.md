@@ -242,6 +242,8 @@ Within Zug canton, the **city of Zug** itself offers one of the lowest communal 
 
 <!-- VIDEO: Canton comparison — how to choose the right Swiss canton for your company structure -->
 
+For a broader overview, see our guide to [Swiss Corporate Tax](/tax-accounting/corporate-tax-overview-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

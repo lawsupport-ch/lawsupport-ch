@@ -278,6 +278,8 @@ Lawsupport (Morgan Hartley Consulting) manages the full VASP registration proces
 
 We work with crypto exchanges, custodians, token issuers, payment processors, and DeFi-adjacent businesses.
 
+For a broader overview, see our guide to [Crypto & Fintech Licensing](/licensing/crypto-fintech-licensing-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

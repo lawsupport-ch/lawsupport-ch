@@ -355,6 +355,8 @@ No travel is required.
 
 </div>
 
+For a broader overview, see our guide to [Swiss Entity Types Compared](/company-formation/swiss-entity-types-compared/).
+
 ---
 
 ## Frequently Asked Questions: AG Formation Switzerland

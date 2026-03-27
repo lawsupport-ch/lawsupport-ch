@@ -177,6 +177,8 @@ Key differences to consider:
 
 **Case from practice:** A Middle Eastern family office with CHF 8'000'000 in investable assets was delayed three weeks at a Geneva private bank because a common-name match in WorldCheck required manual resolution. The family had no adverse history. The delay was purely procedural. This is standard operating procedure, not an exception.
 
+For a broader overview, see our guide to [Private Banking in Switzerland](/banking/private-banking-switzerland-guide/).
+
 ---
 
 ## Frequently Asked Questions

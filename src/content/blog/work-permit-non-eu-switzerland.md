@@ -258,6 +258,8 @@ Yes, but not immediately. Non-EU B permit holders must wait three years of conti
 
 For **employed non-EU specialists**: your employer covers the permit application costs; you need relocation funds for deposit (three months' rent = CHF 4'500-9'000), first month's living expenses (CHF 3'000-5'000), health insurance setup (CHF 400-700/month). For **non-EU entrepreneurs self-sponsoring**: personal liquidity of at least CHF 500'000, Swiss business capitalisation of CHF 500'000-1'000'000, residence permit retainer (CHF 3'500), nominee director during processing (CHF 5'900/year), and company formation (CHF 1'900-2'500) — total first-year commitment starts at approximately CHF 550'000.
 
+For a broader overview, see our guide to [Swiss Work & Residence Permits](/immigration/swiss-work-residence-permits/).
+
 ---
 
 ## Frequently Asked Questions

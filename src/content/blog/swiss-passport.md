@@ -167,6 +167,8 @@ Once citizenship is confirmed:
 
 Swiss citizens abroad apply through their nearest Swiss embassy or consulate.
 
+For a broader overview, see our guide to [Swiss Citizenship Pathways](/immigration/swiss-citizenship-pathways/).
+
 ---
 
 ## Frequently Asked Questions

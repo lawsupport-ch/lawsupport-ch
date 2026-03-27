@@ -212,6 +212,8 @@ A Zug-based luxury watchmaker filed a Swiss trademark for its brand name in Clas
 **Trap 5 — Assuming Madrid covers everything.** The Madrid System covers trademarks only. It does not cover patents (use PCT), designs (use the Hague System), or copyright (automatic under the Berne Convention). Companies frequently assume a Madrid filing protects their "brand" holistically — it protects only the trademark (word, logo, etc.), not the product design, the technology, or the creative content.
 
 
+For a broader overview, see our guide to [Trademark & Design Protection](/intellectual-property/trademark-design-protection-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

@@ -270,6 +270,8 @@ Operators in the digital asset space often ask how the DLT Trading Facility rela
 - **ICO / token issuance**: Issuing tokenised securities requires analysis of whether the tokens qualify as securities under FinSA and whether the ledger-based securities framework applies. See our [crypto licence Switzerland](/licensing/crypto-license-switzerland/) guide for the full licensing map.
 - **[Company formation Switzerland](/company-formation/company-formation-switzerland/)**: Any DLT Trading Facility must be incorporated as a Swiss entity — the licence cannot be held by a foreign company operating in Switzerland without a local entity.
 
+For a broader overview, see our guide to [Crypto & Fintech Licensing](/licensing/crypto-fintech-licensing-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

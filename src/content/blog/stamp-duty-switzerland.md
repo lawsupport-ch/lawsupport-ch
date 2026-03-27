@@ -158,6 +158,8 @@ The CHF 1'000'000 exemption applies per entity, which means a holding group with
 
 **[Withholding tax](/tax-accounting/withholding-tax-switzerland/) interaction:** Stamp duties are separate from Swiss withholding tax on dividends (35%). Both may apply in different stages of a corporate restructuring — capital increase (stamp duty) followed by dividend distribution (withholding tax). Coordinated planning is essential for larger transactions.
 
+For a broader overview, see our guide to [International Tax Planning from Switzerland](/tax-accounting/international-tax-planning-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

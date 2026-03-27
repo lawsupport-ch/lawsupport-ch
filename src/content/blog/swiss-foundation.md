@@ -358,6 +358,8 @@ We handle the complete Swiss foundation formation process — from initial struc
 
 If you are evaluating a foundation for charitable purposes, family wealth, or a crypto/blockchain protocol, contact us for a no-obligation initial consultation. We will assess your specific objectives and provide a clear recommendation on structure, timeline, and cost.
 
+For a broader overview, see our guide to [Swiss Entity Types Compared](/company-formation/swiss-entity-types-compared/).
+
 ---
 
 ## Frequently Asked Questions

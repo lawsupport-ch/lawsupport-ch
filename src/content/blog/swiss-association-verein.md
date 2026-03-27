@@ -172,6 +172,8 @@ Founders occasionally attempt to use a Verein as a low-cost alternative to a Gmb
 
 **The GmbH costs CHF 1'900 to register.** The perceived cost saving of a Verein (no registration fee, no minimum capital) evaporates when the Verein encounters any of the friction points above. For any activity that generates revenue, employs staff, or enters into contracts with commercial counterparties, the GmbH is the correct structure.
 
+For a broader overview, see our guide to [Swiss Entity Types Compared](/company-formation/swiss-entity-types-compared/).
+
 ---
 
 ## Frequently Asked Questions

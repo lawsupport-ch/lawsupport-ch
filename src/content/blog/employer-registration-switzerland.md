@@ -1,6 +1,6 @@
 ---
 title: "Employer Registration Switzerland: AHV & VAT (2026)"
-description: "Registering as an employer in Switzerland: AHV, accident insurance, pension fund, VAT. Steps, timelines, and ongoing obligations."
+description: "Registering as an employer in Switzerland: AHV, accident insurance, pension fund, VAT. Steps, timelines, and ongoing obligations. Learn how we can help."
 date: "19.03.2026"
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"
@@ -199,6 +199,8 @@ Work permit renewal applications must be physically signed in blue pen. Digital 
 ### Case Study: The Retroactive AHV Assessment
 
 A non-resident founder formed a GmbH in Zug, appointed himself as director with a modest salary, and began operations. He did not register with the cantonal Ausgleichskasse for six months, assuming registration could wait until the company was "fully operational." The Ausgleichskasse assessed retroactive contributions from the date of the first salary payment, with 5% interest per annum. Because the employer-paid contributions should have been withheld from the director's salary each month, the employer could not recover the employee's share retroactively -- the company bore both halves for the six-month gap. Total additional cost: approximately CHF 4'200 plus administrative penalties. Registration takes 1-2 weeks and costs nothing. There is no reason to delay.
+
+For a broader overview, see our guide to [Accounting, Payroll & Social Insurance](/tax-accounting/accounting-payroll-switzerland/).
 
 ---
 

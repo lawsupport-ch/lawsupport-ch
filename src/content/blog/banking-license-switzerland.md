@@ -1,6 +1,6 @@
 ---
 title: "Swiss Banking Licence: FINMA Requirements (2026)"
-description: "Swiss banking licence from FINMA: CHF 10M capital, fit & proper criteria, 12-24 month timeline. Get expert guidance from Lawsupport, Zug."
+description: "Swiss banking licence from FINMA: CHF 10M capital, fit & proper criteria, 12-24 month timeline. Get expert guidance from Lawsupport, Zug. Learn how we can help."
 date: "19.03.2026"
 category: "Licensing & Permits"
 categoryHref: "/licensing/"
@@ -259,6 +259,8 @@ For context on how Swiss banking fits within the broader regulatory system, see 
 | FINMA annual fee | CHF 50,000–500,000+ | Lower tier | None directly |
 | Typical timeline | 12–24 months | 6–12 months | 1–3 months |
 | Best suited for | Full-service banks, private banks, crypto banks | Payment platforms, e-money, deposit holders | Forex brokers, [asset managers](/licensing/asset-management-license-switzerland/), independent financial advisers |
+
+For a broader overview, see our guide to [FINMA Licensing in Switzerland](/licensing/finma-licensing-guide/).
 
 ---
 

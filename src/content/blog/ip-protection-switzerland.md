@@ -243,6 +243,8 @@ A Zug-based medtech company (Series A, 22 employees) had been operating for thre
 **Trap 5 — Trade secrets lose protection instantly on disclosure.** Unlike patents and trademarks, trade secrets have no registration and no recovery mechanism. Once disclosed — whether through a departing employee, a loose NDA, or an accidental email — the protection is gone permanently. Invest in NDAs, access controls, and employee exit procedures.
 
 
+For a broader overview, see our guide to [Patents & IP Strategy](/intellectual-property/patents-ip-strategy-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

@@ -230,6 +230,8 @@ If you are assessing whether a Genossenschaft fits your project, or if you need 
 **Email:** info@lawsupport.ch
 **Address:** Baarerstrasse 135, 6300 Zug, Switzerland
 
+For a broader overview, see our guide to [Swiss Entity Types Compared](/company-formation/swiss-entity-types-compared/).
+
 ---
 
 ## Frequently Asked Questions

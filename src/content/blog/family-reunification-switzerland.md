@@ -193,6 +193,8 @@ Since 2018, family members joining from non-EU/EFTA countries are subject to man
 
 Failure to comply with integration agreements can be grounds for refusing permit renewal.
 
+For a broader overview, see our guide to [Moving to Switzerland](/immigration/moving-to-switzerland-guide/).
+
 ---
 
 ## Frequently Asked Questions

@@ -290,6 +290,8 @@ The AHV compensation office audits employers and goes back. Directors can be hel
 
 For companies under 10 employees, outsourcing payroll to the same fiduciary handling the books is almost always more efficient.
 
+For a broader overview, see our guide to [Accounting, Payroll & Social Insurance](/tax-accounting/accounting-payroll-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

@@ -261,6 +261,8 @@ A US-based founder had incorporated a Swiss GmbH in Zug three years earlier to h
 **Trap 6 — Director liability continues until deletion.** Directors (or appointed liquidators) remain personally responsible for the company's legal obligations until the Commercial Register entry is deleted. Abandoning a company without formal liquidation does not eliminate director liability — it increases it, as unfiled tax returns and social insurance contributions accumulate and can trigger personal liability assessments.
 
 
+For a broader overview, see our guide to [Company Lifecycle in Switzerland](/company-formation/company-lifecycle-switzerland/).
+
 ---
 
 ## Frequently Asked Questions

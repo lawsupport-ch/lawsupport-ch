@@ -1,6 +1,6 @@
 ---
 title: "L Permit Switzerland: Rules & Requirements (2026)"
-description: "Swiss L permit explained: who qualifies, maximum duration, renewal rules, source tax, and how it differs from the B permit."
+description: "Swiss L permit explained: who qualifies, maximum duration, renewal rules, source tax, and how it differs from the B permit. Start with a free assessment."
 date: "25.04.2026"
 publishDate: "2026-04-25"
 category: "Immigration"
@@ -198,6 +198,8 @@ No, if you are a non-EU/EFTA national. Family reunification is not available und
 **How much money do I need for an L permit stay in Switzerland?**
 
 The L permit itself does not have a personal financial threshold — your employer pays your salary and the permit is employment-linked. However, the employer must offer a salary meeting Swiss market standards for the role. For your personal budget: expect monthly living costs of CHF 2500-4500 for a single person depending on canton (Zug is lower than Zurich or Geneva). Health insurance is mandatory from day one — budget CHF 400-700/month for basic coverage. Your employer typically arranges accommodation for short-term transfers, but if you arrange your own, expect CHF 1200-2500/month for a furnished studio or one-bedroom flat.
+
+For a broader overview, see our guide to [Swiss Work & Residence Permits](/immigration/swiss-work-residence-permits/).
 
 ---
 
