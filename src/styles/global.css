@@ -345,13 +345,14 @@ h4 { font-size: 1.25rem; }
 
 /* ===== Content link underlines ===== */
 .article-content a {
+  color: var(--red);
   text-decoration: underline;
   text-decoration-color: var(--red);
   text-underline-offset: 2px;
   transition: color 0.2s;
 }
 .article-content a:hover {
-  color: var(--red);
+  color: #b01a1f;
 }
 
 /* ===== Article Tables ===== */
