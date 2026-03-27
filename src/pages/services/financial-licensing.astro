@@ -1,6 +1,13 @@
 ---
 import Base from "../../layouts/Base.astro";
 
+const tocItems = [
+  { id: "finma-categories", title: "FINMA Licence Categories" },
+  { id: "sro-membership", title: "SRO Membership for AML Compliance" },
+  { id: "crypto-licensing", title: "Crypto and Blockchain Licensing" },
+  { id: "fintech-licence", title: "Fintech Licence (Sandbox and Beyond)" },
+];
+
 const schema = [
   {
     "@context": "https://schema.org",
@@ -56,50 +63,59 @@ const schema = [
     </div>
   </section>
 
-  <!-- FINMA Licences -->
-  <section class="section section-gray">
+  <!-- Two-column: content + sidebar -->
+  <section class="article-section">
     <div class="container">
-      <h2 class="section-title">FINMA Licence Categories</h2>
-      <div class="content-block">
-        <p>FINMA issues licences under several federal acts. The Banking Act (BankA) covers deposit-taking institutions and banks. The Financial Institutions Act (FinIA), in force since January 2020, governs asset managers, trustees, fund management companies, and securities firms. The Insurance Supervision Act (ISA) applies to insurers and reinsurers.</p>
-        <p>The FinIA introduced a graduated licensing regime: portfolio managers and trustees require authorisation, while fund management companies and securities firms need a full licence with higher capital and organisational requirements. Each category has distinct conditions regarding minimum capital, risk management, governance, and audit.</p>
-        <p>We assess which licence category applies to your planned activities, prepare the application dossier, and liaise directly with FINMA throughout the review process. Our clients include independent asset managers, family offices, and fintech startups.</p>
-      </div>
-    </div>
-  </section>
+      <div class="article-layout">
+        <div class="article-content">
 
-  <!-- SRO Membership -->
-  <section class="section">
-    <div class="container">
-      <h2 class="section-title">SRO Membership for AML Compliance</h2>
-      <div class="content-block">
-        <p>Under the Anti-Money Laundering Act (AMLA), financial intermediaries that are not directly supervised by FINMA must join a FINMA-recognised Self-Regulatory Organisation. SROs set and enforce anti-money laundering standards, conduct audits, and report to FINMA.</p>
-        <p>The main SROs in Switzerland include VQF (Verein zur Qualitaetssicherung von Finanzdienstleistungen), PolyReg, and SO-FIT. Each has its own admission criteria, membership fees, and ongoing compliance requirements. We help clients select the most suitable SRO and prepare the membership application, including the required AML framework documentation (risk assessment, KYC procedures, transaction monitoring policies).</p>
-        <p>SRO membership is typically granted within 4 to 8 weeks once a complete application is submitted. We assist with the initial audit preparation as well.</p>
-      </div>
-    </div>
-  </section>
+          <h2 id="finma-categories">FINMA Licence Categories</h2>
+          <p>FINMA issues licences under several federal acts. The Banking Act (BankA) covers deposit-taking institutions and banks. The Financial Institutions Act (FinIA), in force since January 2020, governs asset managers, trustees, fund management companies, and securities firms. The Insurance Supervision Act (ISA) applies to insurers and reinsurers.</p>
+          <p>The FinIA introduced a graduated licensing regime: portfolio managers and trustees require authorisation, while fund management companies and securities firms need a full licence with higher capital and organisational requirements. Each category has distinct conditions regarding minimum capital, risk management, governance, and audit.</p>
+          <p>We assess which licence category applies to your planned activities, prepare the application dossier, and liaise directly with FINMA throughout the review process. Our clients include independent asset managers, family offices, and fintech startups.</p>
 
-  <!-- Crypto Licensing -->
-  <section class="section section-gray">
-    <div class="container">
-      <h2 class="section-title">Crypto and Blockchain Licensing</h2>
-      <div class="content-block">
-        <p>Switzerland's regulatory approach to crypto assets is among the clearest in Europe. The DLT Act, which entered into force in stages during 2021, amended existing financial market legislation to accommodate distributed ledger technology. It introduced the concept of DLT securities (ledger-based securities under Article 973d et seq. of the Code of Obligations) and DLT trading facilities.</p>
-        <p>Crypto businesses must determine whether their activities fall under existing licence categories. Custodial wallet providers handling third-party crypto assets may qualify as banks or require a fintech licence. Crypto exchanges typically need a securities firm licence or DLT trading facility authorisation. Token issuers must assess whether their tokens qualify as securities under FinSA.</p>
-        <p>We work with crypto firms from initial regulatory classification through to licence acquisition and SRO membership. Our services cover legal opinions on token classification, FINMA pre-discussions (Vorabklaerung), and ongoing regulatory compliance. If you are also forming a Swiss entity for your crypto project, see our <a href="/services/company-formation/">company formation services</a>.</p>
-      </div>
-    </div>
-  </section>
+          <h2 id="sro-membership">SRO Membership for AML Compliance</h2>
+          <p>Under the Anti-Money Laundering Act (AMLA), financial intermediaries that are not directly supervised by FINMA must join a FINMA-recognised Self-Regulatory Organisation. SROs set and enforce anti-money laundering standards, conduct audits, and report to FINMA.</p>
+          <p>The main SROs in Switzerland include VQF (Verein zur Qualitaetssicherung von Finanzdienstleistungen), PolyReg, and SO-FIT. Each has its own admission criteria, membership fees, and ongoing compliance requirements. We help clients select the most suitable SRO and prepare the membership application, including the required AML framework documentation (risk assessment, KYC procedures, transaction monitoring policies).</p>
+          <p>SRO membership is typically granted within 4 to 8 weeks once a complete application is submitted. We assist with the initial audit preparation as well.</p>
 
-  <!-- Fintech Licence -->
-  <section class="section">
-    <div class="container">
-      <h2 class="section-title">Fintech Licence (Sandbox and Beyond)</h2>
-      <div class="content-block">
-        <p>Since 2019, Switzerland offers a fintech licence under Article 1b of the Banking Act. This permits firms to accept public deposits of up to CHF 100 million without a full banking licence, provided the deposits are not invested and the firm maintains minimum capital of CHF 300,000.</p>
-        <p>Below the fintech licence threshold, the sandbox exemption (Article 6 para. 2 BankO) allows firms to accept deposits up to CHF 1 million without any licence, as long as depositors are informed that the firm is not FINMA-supervised. This is often used for early-stage fintech products and pilot projects.</p>
-        <p>We advise on structuring your operations to fit within these frameworks and, when necessary, prepare full licence applications. For businesses needing <a href="/services/seco-permits/">work permits for foreign staff</a>, we coordinate with the SECO permit process to ensure both regulatory and immigration requirements are met concurrently.</p>
+          <h2 id="crypto-licensing">Crypto and Blockchain Licensing</h2>
+          <p>Switzerland's regulatory approach to crypto assets is among the clearest in Europe. The DLT Act, which entered into force in stages during 2021, amended existing financial market legislation to accommodate distributed ledger technology. It introduced the concept of DLT securities (ledger-based securities under Article 973d et seq. of the Code of Obligations) and DLT trading facilities.</p>
+          <p>Crypto businesses must determine whether their activities fall under existing licence categories. Custodial wallet providers handling third-party crypto assets may qualify as banks or require a fintech licence. Crypto exchanges typically need a securities firm licence or DLT trading facility authorisation. Token issuers must assess whether their tokens qualify as securities under FinSA.</p>
+          <p>We work with crypto firms from initial regulatory classification through to licence acquisition and SRO membership. Our services cover legal opinions on token classification, FINMA pre-discussions (Vorabklaerung), and ongoing regulatory compliance. If you are also forming a Swiss entity for your crypto project, see our <a href="/services/company-formation/">company formation services</a>.</p>
+
+          <h2 id="fintech-licence">Fintech Licence (Sandbox and Beyond)</h2>
+          <p>Since 2019, Switzerland offers a fintech licence under Article 1b of the Banking Act. This permits firms to accept public deposits of up to CHF 100 million without a full banking licence, provided the deposits are not invested and the firm maintains minimum capital of CHF 300,000.</p>
+          <p>Below the fintech licence threshold, the sandbox exemption (Article 6 para. 2 BankO) allows firms to accept deposits up to CHF 1 million without any licence, as long as depositors are informed that the firm is not FINMA-supervised. This is often used for early-stage fintech products and pilot projects.</p>
+          <p>We advise on structuring your operations to fit within these frameworks and, when necessary, prepare full licence applications. For businesses needing <a href="/services/seco-permits/">work permits for foreign staff</a>, we coordinate with the SECO permit process to ensure both regulatory and immigration requirements are met concurrently.</p>
+
+        </div>
+        <aside class="article-sidebar">
+          <div class="toc">
+            <p class="sidebar-heading">Table of Contents</p>
+            <ul>
+              {tocItems.map(item => (
+                <li><a href={`#${item.id}`}>{item.title}</a></li>
+              ))}
+            </ul>
+          </div>
+          <div class="sidebar-contact">
+            <p class="sidebar-heading">Contact Us</p>
+            <div class="sidebar-author">
+              <img src="/images/morgan-hartley-56.webp" alt="Morgan Hartley" width="56" height="56" loading="lazy" class="sidebar-avatar" />
+              <div class="sidebar-author-info">
+                <p>Morgan Hartley</p>
+                <span>Lawyer</span>
+              </div>
+            </div>
+            <div class="sidebar-contact-links">
+              <a href="tel:+41445152592" aria-label="Phone">
+                <img src="/icons/tel.svg" alt="Phone" width="18" height="18" style="width:18px;height:18px;display:inline-block" />
+              </a>
+              <a href="/contacts/" class="btn btn-red" style="padding:6px 16px;font-size:0.8rem;display:inline-block">Contact Us</a>
+            </div>
+          </div>
+        </aside>
       </div>
     </div>
   </section>
@@ -144,7 +160,7 @@ const schema = [
             <img src="/images/morgan-hartley-56.webp" alt="Morgan Hartley" width="80" height="80" class="contact-avatar" />
             <div>
               <p class="contact-name">Morgan Hartley</p>
-              <p class="contact-role">Senior Corporate Lawyer &amp; Partner</p>
+              <p class="contact-role">Lawyer</p>
             </div>
           </div>
           <div class="contact-details">
@@ -179,23 +195,6 @@ const schema = [
     height: 300px;
     object-fit: cover;
     border-radius: 12px;
-  }
-  .content-block {
-    max-width: 800px;
-    margin: 0 auto;
-  }
-  .content-block p {
-    color: var(--gray-text);
-    font-size: 1rem;
-    line-height: 1.8;
-    margin-bottom: 16px;
-  }
-  .content-block a {
-    color: var(--red);
-    font-weight: 500;
-  }
-  .content-block a:hover {
-    text-decoration: underline;
   }
   .about-contact-grid {
     display: grid;
@@ -238,8 +237,13 @@ const schema = [
   .faq-question::after { content: "+"; font-size: 1.4rem; font-weight: 300; transition: transform 0.2s; }
   .faq-item.active .faq-question::after { content: "\2212"; }
   .faq-answer { max-height: none; }
-  
   .faq-answer-inner { padding: 0 0 20px; color: var(--gray-text); font-size: 0.95rem; line-height: 1.7; }
+  .sidebar-avatar {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
 
   @media (min-width: 768px) {
     .service-hero-grid { grid-template-columns: 1fr 1fr; }
@@ -247,7 +251,27 @@ const schema = [
   }
 </style>
 <script>
-document.querySelectorAll(".faq-question").forEach(btn => {
-  btn.addEventListener("click", () => { btn.parentElement?.classList.toggle("active"); });
-});
+  document.querySelectorAll(".faq-question").forEach(btn => {
+    btn.addEventListener("click", () => { btn.parentElement?.classList.toggle("active"); });
+  });
+
+  const tocLinks = document.querySelectorAll(".toc a");
+  if (tocLinks.length > 0) {
+    const headings = Array.from(tocLinks).map(link => {
+      const id = link.getAttribute("href")?.slice(1);
+      return id ? document.getElementById(id) : null;
+    }).filter(Boolean) as HTMLElement[];
+
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          tocLinks.forEach(l => l.classList.remove("active"));
+          const active = document.querySelector(`.toc a[href="#${entry.target.id}"]`);
+          active?.classList.add("active");
+        }
+      });
+    }, { rootMargin: "-80px 0px -60% 0px" });
+
+    headings.forEach(h => observer.observe(h));
+  }
 </script>

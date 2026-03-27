@@ -36,22 +36,13 @@ const organizationSchema = {
   "description": "Professional corporate services and legal support for businesses in Switzerland.",
   "telephone": "+41445152592",
   "email": "info@lawsupport.ch",
-  "address": [
-    {
-      "@type": "PostalAddress",
-      "streetAddress": "Grafenauweg 4",
-      "addressLocality": "Zug",
-      "postalCode": "6300",
-      "addressCountry": "CH"
-    },
-    {
-      "@type": "PostalAddress",
-      "streetAddress": "Baarerstrasse 21",
-      "addressLocality": "Zug",
-      "postalCode": "6300",
-      "addressCountry": "CH"
-    }
-  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Baarerstrasse 135",
+    "addressLocality": "Zug",
+    "postalCode": "6300",
+    "addressCountry": "CH"
+  },
   "knowsAbout": ["Swiss corporate law", "company formation", "shelf companies", "financial services licensing", "SECO permits", "residence permits", "Swiss bank accounts", "accounting"],
   "sameAs": ["https://x.com/Law_Switzerland", "https://www.facebook.com/goldblum.and.partners", "https://www.instagram.com/law_support.switzerland"],
   "foundingDate": "2003",
@@ -77,7 +68,7 @@ const personSchema = {
   "@type": "Person",
   "@id": "https://lawsupport.ch/#morgan-hartley",
   "name": "Morgan Hartley",
-  "jobTitle": "Senior Corporate Lawyer & Partner",
+  "jobTitle": "Lawyer",
   "affiliation": {"@id": "https://lawsupport.ch/#organization"},
   "hasCredential": [
     {"@type": "EducationalOccupationalCredential", "name": "Swiss Bar Admission, Canton of Zurich"},

@@ -1,6 +1,13 @@
 ---
 import Base from "../../layouts/Base.astro";
 
+const tocItems = [
+  { id: "personnel-leasing", title: "Personnel Leasing Permits" },
+  { id: "employment-placement", title: "Private Employment Placement" },
+  { id: "outstaffing-eor", title: "Outstaffing and Employer of Record" },
+  { id: "compliance", title: "Ongoing Compliance Obligations" },
+];
+
 const schema = [
   {
     "@context": "https://schema.org",
@@ -56,50 +63,59 @@ const schema = [
     </div>
   </section>
 
-  <!-- Personnel Leasing -->
-  <section class="section section-gray">
+  <!-- Two-column: content + sidebar -->
+  <section class="article-section">
     <div class="container">
-      <h2 class="section-title">Personnel Leasing Permits</h2>
-      <div class="content-block">
-        <p>Personnel leasing (Personalverleih) is regulated under Articles 12-20 of the AVG and the corresponding ordinance (AVV). Any company that employs workers and assigns them to perform work under the direction of a third-party client must obtain a personnel leasing permit before commencing operations.</p>
-        <p>There are two permit levels. A cantonal permit authorises leasing within a single canton. A federal permit, issued by SECO, covers cross-cantonal and international personnel leasing. Most staffing agencies operating across Switzerland require the federal variant.</p>
-        <p>Applicants must demonstrate financial stability (typically through a bank guarantee of CHF 50,000 for a cantonal permit or CHF 100,000 for a federal permit), compliance with Swiss labour law, and adequate professional qualifications of the management team. We prepare the application, draft the required guarantee documentation, and ensure your employment contracts meet AVG standards.</p>
-      </div>
-    </div>
-  </section>
+      <div class="article-layout">
+        <div class="article-content">
 
-  <!-- Employment Placement -->
-  <section class="section">
-    <div class="container">
-      <h2 class="section-title">Private Employment Placement</h2>
-      <div class="content-block">
-        <p>Headhunting, executive search, and recruitment agencies that place candidates for a fee are classified as private employment agencies under Articles 2-8 of the AVG. These businesses need a placement permit (Vermittlungsbewilligung) — cantonal for single-canton operations, federal for cross-cantonal or international recruitment.</p>
-        <p>The distinction from personnel leasing is important: in placement, the employment relationship forms directly between the candidate and the client company. The recruiter acts as an intermediary, not as an employer. However, the permit requirements are equally strict, covering financial guarantees, professional qualifications, and compliance with data protection rules when handling candidate information.</p>
-        <p>We advise on which permit type matches your business model and prepare the complete application package for submission to SECO or the cantonal authority.</p>
-      </div>
-    </div>
-  </section>
+          <h2 id="personnel-leasing">Personnel Leasing Permits</h2>
+          <p>Personnel leasing (Personalverleih) is regulated under Articles 12-20 of the AVG and the corresponding ordinance (AVV). Any company that employs workers and assigns them to perform work under the direction of a third-party client must obtain a personnel leasing permit before commencing operations.</p>
+          <p>There are two permit levels. A cantonal permit authorises leasing within a single canton. A federal permit, issued by SECO, covers cross-cantonal and international personnel leasing. Most staffing agencies operating across Switzerland require the federal variant.</p>
+          <p>Applicants must demonstrate financial stability (typically through a bank guarantee of CHF 50,000 for a cantonal permit or CHF 100,000 for a federal permit), compliance with Swiss labour law, and adequate professional qualifications of the management team. We prepare the application, draft the required guarantee documentation, and ensure your employment contracts meet AVG standards.</p>
 
-  <!-- Outstaffing and EOR -->
-  <section class="section section-gray">
-    <div class="container">
-      <h2 class="section-title">Outstaffing and Employer of Record</h2>
-      <div class="content-block">
-        <p>Outstaffing and EOR arrangements, where a Swiss entity formally employs staff on behalf of a foreign client, fall under the personnel leasing regime. The Swiss EOR company acts as the legal employer, handles payroll, social insurance contributions (AHV/IV/EO), pension fund enrolment (BVG), and accident insurance (UVG), while the worker performs duties directed by the foreign client.</p>
-        <p>This model is increasingly used by international companies that want to hire talent in Switzerland without establishing their own subsidiary. However, the EOR provider must hold a valid personnel leasing permit under the AVG. Without it, both the EOR company and the client face administrative sanctions and potential fines.</p>
-        <p>We assist EOR operators with permit applications and ongoing compliance, and advise foreign companies on selecting a compliant EOR provider. If you need to <a href="/services/company-formation/">form a Swiss company</a> to serve as your EOR vehicle, we handle that as well.</p>
-      </div>
-    </div>
-  </section>
+          <h2 id="employment-placement">Private Employment Placement</h2>
+          <p>Headhunting, executive search, and recruitment agencies that place candidates for a fee are classified as private employment agencies under Articles 2-8 of the AVG. These businesses need a placement permit (Vermittlungsbewilligung) — cantonal for single-canton operations, federal for cross-cantonal or international recruitment.</p>
+          <p>The distinction from personnel leasing is important: in placement, the employment relationship forms directly between the candidate and the client company. The recruiter acts as an intermediary, not as an employer. However, the permit requirements are equally strict, covering financial guarantees, professional qualifications, and compliance with data protection rules when handling candidate information.</p>
+          <p>We advise on which permit type matches your business model and prepare the complete application package for submission to SECO or the cantonal authority.</p>
 
-  <!-- Compliance and Obligations -->
-  <section class="section">
-    <div class="container">
-      <h2 class="section-title">Ongoing Compliance Obligations</h2>
-      <div class="content-block">
-        <p>Holding a SECO permit is not a one-time event. Permit holders must comply with ongoing obligations: maintaining the bank guarantee, adhering to equal pay requirements (Gleichstellungsgesetz), respecting minimum wage provisions in cantons that impose them, and ensuring proper social insurance coverage for all leased workers.</p>
-        <p>SECO and cantonal authorities conduct periodic audits. Non-compliance can result in permit revocation, fines, or criminal proceedings under Article 39 of the AVG. We provide ongoing compliance support, including contract reviews, audit preparation, and regulatory updates.</p>
-        <p>For businesses also requiring <a href="/services/financial-licensing/">financial services licensing</a> — for example, fintech staffing agencies — we coordinate both regulatory processes to avoid duplication and delays.</p>
+          <h2 id="outstaffing-eor">Outstaffing and Employer of Record</h2>
+          <p>Outstaffing and EOR arrangements, where a Swiss entity formally employs staff on behalf of a foreign client, fall under the personnel leasing regime. The Swiss EOR company acts as the legal employer, handles payroll, social insurance contributions (AHV/IV/EO), pension fund enrolment (BVG), and accident insurance (UVG), while the worker performs duties directed by the foreign client.</p>
+          <p>This model is increasingly used by international companies that want to hire talent in Switzerland without establishing their own subsidiary. However, the EOR provider must hold a valid personnel leasing permit under the AVG. Without it, both the EOR company and the client face administrative sanctions and potential fines.</p>
+          <p>We assist EOR operators with permit applications and ongoing compliance, and advise foreign companies on selecting a compliant EOR provider. If you need to <a href="/services/company-formation/">form a Swiss company</a> to serve as your EOR vehicle, we handle that as well.</p>
+
+          <h2 id="compliance">Ongoing Compliance Obligations</h2>
+          <p>Holding a SECO permit is not a one-time event. Permit holders must comply with ongoing obligations: maintaining the bank guarantee, adhering to equal pay requirements (Gleichstellungsgesetz), respecting minimum wage provisions in cantons that impose them, and ensuring proper social insurance coverage for all leased workers.</p>
+          <p>SECO and cantonal authorities conduct periodic audits. Non-compliance can result in permit revocation, fines, or criminal proceedings under Article 39 of the AVG. We provide ongoing compliance support, including contract reviews, audit preparation, and regulatory updates.</p>
+          <p>For businesses also requiring <a href="/services/financial-licensing/">financial services licensing</a> — for example, fintech staffing agencies — we coordinate both regulatory processes to avoid duplication and delays.</p>
+
+        </div>
+        <aside class="article-sidebar">
+          <div class="toc">
+            <p class="sidebar-heading">Table of Contents</p>
+            <ul>
+              {tocItems.map(item => (
+                <li><a href={`#${item.id}`}>{item.title}</a></li>
+              ))}
+            </ul>
+          </div>
+          <div class="sidebar-contact">
+            <p class="sidebar-heading">Contact Us</p>
+            <div class="sidebar-author">
+              <img src="/images/morgan-hartley-56.webp" alt="Morgan Hartley" width="56" height="56" loading="lazy" class="sidebar-avatar" />
+              <div class="sidebar-author-info">
+                <p>Morgan Hartley</p>
+                <span>Lawyer</span>
+              </div>
+            </div>
+            <div class="sidebar-contact-links">
+              <a href="tel:+41445152592" aria-label="Phone">
+                <img src="/icons/tel.svg" alt="Phone" width="18" height="18" style="width:18px;height:18px;display:inline-block" />
+              </a>
+              <a href="/contacts/" class="btn btn-red" style="padding:6px 16px;font-size:0.8rem;display:inline-block">Contact Us</a>
+            </div>
+          </div>
+        </aside>
       </div>
     </div>
   </section>
@@ -144,7 +160,7 @@ const schema = [
             <img src="/images/morgan-hartley-56.webp" alt="Morgan Hartley" width="80" height="80" class="contact-avatar" />
             <div>
               <p class="contact-name">Morgan Hartley</p>
-              <p class="contact-role">Senior Corporate Lawyer &amp; Partner</p>
+              <p class="contact-role">Lawyer</p>
             </div>
           </div>
           <div class="contact-details">
@@ -179,23 +195,6 @@ const schema = [
     height: 300px;
     object-fit: cover;
     border-radius: 12px;
-  }
-  .content-block {
-    max-width: 800px;
-    margin: 0 auto;
-  }
-  .content-block p {
-    color: var(--gray-text);
-    font-size: 1rem;
-    line-height: 1.8;
-    margin-bottom: 16px;
-  }
-  .content-block a {
-    color: var(--red);
-    font-weight: 500;
-  }
-  .content-block a:hover {
-    text-decoration: underline;
   }
   .about-contact-grid {
     display: grid;
@@ -238,8 +237,13 @@ const schema = [
   .faq-question::after { content: "+"; font-size: 1.4rem; font-weight: 300; transition: transform 0.2s; }
   .faq-item.active .faq-question::after { content: "\2212"; }
   .faq-answer { max-height: none; }
-  
   .faq-answer-inner { padding: 0 0 20px; color: var(--gray-text); font-size: 0.95rem; line-height: 1.7; }
+  .sidebar-avatar {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
 
   @media (min-width: 768px) {
     .service-hero-grid { grid-template-columns: 1fr 1fr; }
@@ -247,7 +251,27 @@ const schema = [
   }
 </style>
 <script>
-document.querySelectorAll(".faq-question").forEach(btn => {
-  btn.addEventListener("click", () => { btn.parentElement?.classList.toggle("active"); });
-});
+  document.querySelectorAll(".faq-question").forEach(btn => {
+    btn.addEventListener("click", () => { btn.parentElement?.classList.toggle("active"); });
+  });
+
+  const tocLinks = document.querySelectorAll(".toc a");
+  if (tocLinks.length > 0) {
+    const headings = Array.from(tocLinks).map(link => {
+      const id = link.getAttribute("href")?.slice(1);
+      return id ? document.getElementById(id) : null;
+    }).filter(Boolean) as HTMLElement[];
+
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          tocLinks.forEach(l => l.classList.remove("active"));
+          const active = document.querySelector(`.toc a[href="#${entry.target.id}"]`);
+          active?.classList.add("active");
+        }
+      });
+    }, { rootMargin: "-80px 0px -60% 0px" });
+
+    headings.forEach(h => observer.observe(h));
+  }
 </script>

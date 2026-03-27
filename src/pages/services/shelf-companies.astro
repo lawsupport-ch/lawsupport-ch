@@ -1,6 +1,13 @@
 ---
 import Base from "../../layouts/Base.astro";
 
+const tocItems = [
+  { id: "why-buy", title: "Why Buy a Shelf Company" },
+  { id: "transfer-process", title: "The Transfer Process" },
+  { id: "ag-vs-gmbh", title: "AG vs GmbH Shelf Companies" },
+  { id: "post-acquisition", title: "Post-Acquisition Steps" },
+];
+
 const schema = [
   {
     "@context": "https://schema.org",
@@ -55,49 +62,58 @@ const schema = [
     </div>
   </section>
 
-  <!-- Why Buy a Shelf Company -->
-  <section class="section section-gray">
+  <!-- Two-column: content + sidebar -->
+  <section class="article-section">
     <div class="container">
-      <h2 class="section-title">Why Buy a Shelf Company</h2>
-      <div class="content-block">
-        <p>Speed is the primary reason clients choose a shelf company over new formation. Certain transactions — such as real estate acquisitions, contract bids, or regulatory applications — require an existing legal entity. A shelf company provides an immediate solution without the delays of notarisation, capital deposit, and commercial register processing.</p>
-        <p>Shelf companies also appeal to foreign entrepreneurs who need a Swiss entity quickly but lack Swiss residency. Because the company already has a registered board and bank account, the transition involves transferring shares and appointing new directors rather than building everything from scratch.</p>
-        <p>Each of our shelf companies has been maintained in good standing: annual reports have been filed, domicile agreements are current, and the commercial register entry is up to date.</p>
-      </div>
-    </div>
-  </section>
+      <div class="article-layout">
+        <div class="article-content">
 
-  <!-- Transfer Process -->
-  <section class="section">
-    <div class="container">
-      <h2 class="section-title">The Transfer Process</h2>
-      <div class="content-block">
-        <p>Acquiring a shelf company involves several coordinated steps. First, the buyer selects a company from our portfolio (AG or GmbH, with varying capital amounts and cantonal registrations). We then conduct a brief due diligence on the buyer, as required by Swiss anti-money laundering regulations.</p>
-        <p>Next, the share purchase agreement is executed. For an AG, share certificates are endorsed and delivered. For a GmbH, the quota transfer requires notarial authentication under Article 785 of the Code of Obligations. Simultaneously, a general meeting appoints the new board of directors and revokes the existing one.</p>
-        <p>Finally, we file the amendments with the commercial register, update bank signatories, and transfer all corporate documents to the buyer. The entire process takes 3 to 5 business days.</p>
-      </div>
-    </div>
-  </section>
+          <h2 id="why-buy">Why Buy a Shelf Company</h2>
+          <p>Speed is the primary reason clients choose a shelf company over new formation. Certain transactions — such as real estate acquisitions, contract bids, or regulatory applications — require an existing legal entity. A shelf company provides an immediate solution without the delays of notarisation, capital deposit, and commercial register processing.</p>
+          <p>Shelf companies also appeal to foreign entrepreneurs who need a Swiss entity quickly but lack Swiss residency. Because the company already has a registered board and bank account, the transition involves transferring shares and appointing new directors rather than building everything from scratch.</p>
+          <p>Each of our shelf companies has been maintained in good standing: annual reports have been filed, domicile agreements are current, and the commercial register entry is up to date.</p>
 
-  <!-- AG vs GmbH Shelf Companies -->
-  <section class="section section-gray">
-    <div class="container">
-      <h2 class="section-title">AG vs GmbH Shelf Companies</h2>
-      <div class="content-block">
-        <p>Shelf AGs are more common because AG share transfers are simpler — they do not require notarial authentication or commercial register disclosure of shareholders. This makes the AG the preferred vehicle for clients who value privacy or anticipate future share sales.</p>
-        <p>Shelf GmbHs are available for clients who prefer the lower capital requirement (CHF 20,000 vs CHF 100,000) or whose business partners expect the transparency that GmbH shareholder registration provides.</p>
-        <p>We maintain an inventory of both types across multiple cantons. If you need a company registered in a specific canton (such as Zug, Zurich, or Schwyz), contact us to check current availability. You may also be interested in <a href="/services/company-formation/">forming a new company</a> if no suitable shelf company is available, or explore our <a href="/services/seco-permits/">SECO permit services</a> if your operations require work authorisation.</p>
-      </div>
-    </div>
-  </section>
+          <h2 id="transfer-process">The Transfer Process</h2>
+          <p>Acquiring a shelf company involves several coordinated steps. First, the buyer selects a company from our portfolio (AG or GmbH, with varying capital amounts and cantonal registrations). We then conduct a brief due diligence on the buyer, as required by Swiss anti-money laundering regulations.</p>
+          <p>Next, the share purchase agreement is executed. For an AG, share certificates are endorsed and delivered. For a GmbH, the quota transfer requires notarial authentication under Article 785 of the Code of Obligations. Simultaneously, a general meeting appoints the new board of directors and revokes the existing one.</p>
+          <p>Finally, we file the amendments with the commercial register, update bank signatories, and transfer all corporate documents to the buyer. The entire process takes 3 to 5 business days.</p>
 
-  <!-- Post-Acquisition Steps -->
-  <section class="section">
-    <div class="container">
-      <h2 class="section-title">Post-Acquisition Steps</h2>
-      <div class="content-block">
-        <p>After acquiring a shelf company, most clients make several changes: renaming the company, updating the purpose clause, changing the registered office address, and appointing auditors (if required). Each of these amendments must be filed with the cantonal commercial register.</p>
-        <p>We also assist with VAT registration, social insurance enrolment, and setting up payroll — particularly important if you plan to hire employees in Switzerland. Our accounting team can handle the ongoing bookkeeping and annual financial statements.</p>
+          <h2 id="ag-vs-gmbh">AG vs GmbH Shelf Companies</h2>
+          <p>Shelf AGs are more common because AG share transfers are simpler — they do not require notarial authentication or commercial register disclosure of shareholders. This makes the AG the preferred vehicle for clients who value privacy or anticipate future share sales.</p>
+          <p>Shelf GmbHs are available for clients who prefer the lower capital requirement (CHF 20,000 vs CHF 100,000) or whose business partners expect the transparency that GmbH shareholder registration provides.</p>
+          <p>We maintain an inventory of both types across multiple cantons. If you need a company registered in a specific canton (such as Zug, Zurich, or Schwyz), contact us to check current availability. You may also be interested in <a href="/services/company-formation/">forming a new company</a> if no suitable shelf company is available, or explore our <a href="/services/seco-permits/">SECO permit services</a> if your operations require work authorisation.</p>
+
+          <h2 id="post-acquisition">Post-Acquisition Steps</h2>
+          <p>After acquiring a shelf company, most clients make several changes: renaming the company, updating the purpose clause, changing the registered office address, and appointing auditors (if required). Each of these amendments must be filed with the cantonal commercial register.</p>
+          <p>We also assist with VAT registration, social insurance enrolment, and setting up payroll — particularly important if you plan to hire employees in Switzerland. Our accounting team can handle the ongoing bookkeeping and annual financial statements.</p>
+
+        </div>
+        <aside class="article-sidebar">
+          <div class="toc">
+            <p class="sidebar-heading">Table of Contents</p>
+            <ul>
+              {tocItems.map(item => (
+                <li><a href={`#${item.id}`}>{item.title}</a></li>
+              ))}
+            </ul>
+          </div>
+          <div class="sidebar-contact">
+            <p class="sidebar-heading">Contact Us</p>
+            <div class="sidebar-author">
+              <img src="/images/morgan-hartley-56.webp" alt="Morgan Hartley" width="56" height="56" loading="lazy" class="sidebar-avatar" />
+              <div class="sidebar-author-info">
+                <p>Morgan Hartley</p>
+                <span>Lawyer</span>
+              </div>
+            </div>
+            <div class="sidebar-contact-links">
+              <a href="tel:+41445152592" aria-label="Phone">
+                <img src="/icons/tel.svg" alt="Phone" width="18" height="18" style="width:18px;height:18px;display:inline-block" />
+              </a>
+              <a href="/contacts/" class="btn btn-red" style="padding:6px 16px;font-size:0.8rem;display:inline-block">Contact Us</a>
+            </div>
+          </div>
+        </aside>
       </div>
     </div>
   </section>
@@ -138,7 +154,7 @@ const schema = [
             <img src="/images/morgan-hartley-56.webp" alt="Morgan Hartley" width="80" height="80" class="contact-avatar" />
             <div>
               <p class="contact-name">Morgan Hartley</p>
-              <p class="contact-role">Senior Corporate Lawyer &amp; Partner</p>
+              <p class="contact-role">Lawyer</p>
             </div>
           </div>
           <div class="contact-details">
@@ -173,23 +189,6 @@ const schema = [
     height: 300px;
     object-fit: cover;
     border-radius: 12px;
-  }
-  .content-block {
-    max-width: 800px;
-    margin: 0 auto;
-  }
-  .content-block p {
-    color: var(--gray-text);
-    font-size: 1rem;
-    line-height: 1.8;
-    margin-bottom: 16px;
-  }
-  .content-block a {
-    color: var(--red);
-    font-weight: 500;
-  }
-  .content-block a:hover {
-    text-decoration: underline;
   }
   .about-contact-grid {
     display: grid;
@@ -232,8 +231,13 @@ const schema = [
   .faq-question::after { content: "+"; font-size: 1.4rem; font-weight: 300; transition: transform 0.2s; }
   .faq-item.active .faq-question::after { content: "\2212"; }
   .faq-answer { max-height: none; }
-  
   .faq-answer-inner { padding: 0 0 20px; color: var(--gray-text); font-size: 0.95rem; line-height: 1.7; }
+  .sidebar-avatar {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
 
   @media (min-width: 768px) {
     .service-hero-grid { grid-template-columns: 1fr 1fr; }
@@ -241,7 +245,27 @@ const schema = [
   }
 </style>
 <script>
-document.querySelectorAll(".faq-question").forEach(btn => {
-  btn.addEventListener("click", () => { btn.parentElement?.classList.toggle("active"); });
-});
+  document.querySelectorAll(".faq-question").forEach(btn => {
+    btn.addEventListener("click", () => { btn.parentElement?.classList.toggle("active"); });
+  });
+
+  const tocLinks = document.querySelectorAll(".toc a");
+  if (tocLinks.length > 0) {
+    const headings = Array.from(tocLinks).map(link => {
+      const id = link.getAttribute("href")?.slice(1);
+      return id ? document.getElementById(id) : null;
+    }).filter(Boolean) as HTMLElement[];
+
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          tocLinks.forEach(l => l.classList.remove("active"));
+          const active = document.querySelector(`.toc a[href="#${entry.target.id}"]`);
+          active?.classList.add("active");
+        }
+      });
+    }, { rootMargin: "-80px 0px -60% 0px" });
+
+    headings.forEach(h => observer.observe(h));
+  }
 </script>
