@@ -155,3 +155,14 @@
 /services/financial-licensing/ /licensing/ 301
 /services/seco-permits/ /immigration/ 301
 /services/shelf-companies/ /company-formation/ 301
+
+# Hub page redirects to cocoon index pages
+/company-formation/hub-company-formation/ /company-formation/ 301
+/tax-accounting/hub-tax-accounting/ /tax-accounting/ 301
+/immigration/hub-immigration/ /immigration/ 301
+/licensing/hub-licensing/ /licensing/ 301
+/banking/hub-banking/ /banking/ 301
+/intellectual-property/hub-intellectual-property/ /intellectual-property/ 301
+/corporate-services/hub-corporate-services/ /corporate-services/ 301
+/corporate-transactions/hub-corporate-transactions/ /corporate-transactions/ 301
+/employment-law/hub-employment-law/ /employment-law/ 301
