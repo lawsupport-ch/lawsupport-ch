@@ -81,7 +81,7 @@ Annual rents per square metre for Grade A space:
 | Geneva CBD (Rue du Rhône) | 650 – 900 | Highest absolute rents in Switzerland |
 | Zurich CBD (Paradeplatz area) | 550 – 800 | Banking quarter premium |
 | Basel (Aeschenvorstadt) | 300 – 420 | Pharma sector demand |
-| Zug (Baarerstrasse / Grafenauweg) | 350 – 500 | Tax-driven demand; rising |
+| Zug (Baarerstrasse) | 350 – 500 | Tax-driven demand; rising |
 | Zurich Oerlikon / Altstetten | 280 – 380 | Growth corridors; new builds |
 | Bern (Bundesgasse area) | 250 – 350 | Government-adjacent; stable |
 
@@ -203,7 +203,7 @@ A London-based fintech with 15 staff needed a Swiss office for its newly formed 
 - Effective corporate tax rate: 19.7%
 - 5-year total occupancy cost: CHF 549'000
 
-**Option B -- Zug Grafenauweg (180 m², Grade A):**
+**Option B -- Zug Baarerstrasse (180 m², Grade A):**
 - Annual rent: CHF 420/m² x 180 m² = CHF 75'600
 - Nebenkosten: CHF 55/m² x 180 m² = CHF 9'900
 - Deposit: CHF 18'900 (3 months)
@@ -286,8 +286,8 @@ We advise foreign companies on entity selection, [company formation](/company-fo
 
 **Phone:** [+41 44 51 52 592](tel:+41445152592)
 **Email:** [info@lawsupport.ch](mailto:info@lawsupport.ch)
-**Address:** Grafenauweg 4, Zug, Switzerland
+**Address:** Baarerstrasse 135, 6300 Zug, Switzerland
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

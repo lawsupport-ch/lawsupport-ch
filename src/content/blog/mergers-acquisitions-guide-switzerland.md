@@ -315,7 +315,7 @@ For related topics, see our guides on [buying a company in Switzerland](/corpora
 
 **Morgan Hartley, Senior Corporate Lawyer & Partner**
 Lawsupport (Morgan Hartley Consulting GmbH)
-Grafenauweg 4, 6300 Zug, Switzerland
+Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 
 ---
@@ -364,4 +364,4 @@ Switzerland does not have specific venture capital legislation. VC investments a
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Grafenauweg 4, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

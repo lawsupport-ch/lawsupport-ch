@@ -270,4 +270,4 @@ Morgan Hartley and the Lawsupport team advise AG and GmbH directors on insolvenc
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

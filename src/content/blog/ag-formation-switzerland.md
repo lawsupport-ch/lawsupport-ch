@@ -343,7 +343,7 @@ For a [shelf company](/company-formation/shelf-company-switzerland/) approach, c
 
 **Request a Free Assessment**
 
-Lawsupport (Morgan Hartley Consulting) has been forming Swiss companies for over 18 years from our office at Grafenauweg 4 in Zug. We have completed more than 1,000 formations for founders and companies in over 40 countries. For AG formation Switzerland, we manage every step: articles of association, share structure planning, capital deposit coordination, notarisation by power of attorney, Commercial Register filing, and post-formation banking introduction.
+Lawsupport (Morgan Hartley Consulting) has been forming Swiss companies for over 18 years from our office at Baarerstrasse 135, 6300 Zug. We have completed more than 1,000 formations for founders and companies in over 40 countries. For AG formation Switzerland, we manage every step: articles of association, share structure planning, capital deposit coordination, notarisation by power of attorney, Commercial Register filing, and post-formation banking introduction.
 
 No travel is required.
 
@@ -351,7 +351,7 @@ No travel is required.
 
 - Phone: +41 44 51 52 592
 - Email: info@lawsupport.ch
-- Address: Grafenauweg 4, Zug, Switzerland
+- Address: Baarerstrasse 135, 6300 Zug, Switzerland
 
 </div>
 
@@ -421,4 +421,4 @@ Excluding the share capital deposit (which is returned to the company on registr
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

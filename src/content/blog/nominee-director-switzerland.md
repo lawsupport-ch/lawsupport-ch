@@ -227,7 +227,7 @@ A nominee director satisfies the residency requirement for directorship. It does
 
 Under Swiss law, every AG and GmbH must have a registered address in Switzerland at which legal correspondence can be received and official documents can be served. This address appears in the Commercial Register alongside the director's name.
 
-Lawsupport provides [registered address services in Switzerland](/corporate-services/registered-address-switzerland/) from our Grafenauweg 4, Zug office. Combining the nominee director service with a registered address at the same location gives a foreign-owned company a complete, legally compliant Swiss corporate presence -- without the founder needing to be physically present in Switzerland at any point after formation.
+Lawsupport provides [registered address services in Switzerland](/corporate-services/registered-address-switzerland/) from our Baarerstrasse 135, 6300 Zug office. Combining the nominee director service with a registered address at the same location gives a foreign-owned company a complete, legally compliant Swiss corporate presence -- without the founder needing to be physically present in Switzerland at any point after formation.
 
 ---
 
@@ -338,7 +338,7 @@ Forming a Swiss company from abroad and need a resident director? Morgan Hartley
 [Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
-Grafenauweg 4, Zug, Switzerland
+Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch
 

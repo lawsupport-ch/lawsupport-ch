@@ -353,7 +353,7 @@ Moving from the United States to Switzerland requires coordinated immigration, t
 [Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
-Grafenauweg 4, Zug, Switzerland
+Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch
 

@@ -341,7 +341,7 @@ Design registration is administratively straightforward, but the commercial stra
 
 **Morgan Hartley | Senior Corporate Lawyer & Partner**
 Lawsupport (Morgan Hartley Consulting GmbH)
-Grafenauweg 4, Zug, Switzerland
+Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 
 *Further reading: <a href="https://www.ige.ch/en/protecting-ip/designs.html" target="_blank" rel="nofollow noopener">IPI design registration (ige.ch)</a> | <a href="https://www.wipo.int/hague/en/" target="_blank" rel="nofollow noopener">WIPO Hague System</a> | <a href="https://www.fedlex.admin.ch/eli/cc/1994/1328_1328_1328/en" target="_blank" rel="nofollow noopener">Fedlex Swiss Design Act</a>*

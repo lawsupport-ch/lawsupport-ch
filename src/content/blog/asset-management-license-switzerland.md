@@ -328,7 +328,7 @@ Lawsupport (Morgan Hartley Consulting) advises independent asset managers, famil
 
 **Morgan Hartley**, Senior Corporate Lawyer & Partner
 Lawsupport (Morgan Hartley Consulting)
-Grafenauweg 4, Zug, Switzerland
+Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 · info@lawsupport.ch
 
 [Request a Free Assessment](/contacts/){: .cta-button}

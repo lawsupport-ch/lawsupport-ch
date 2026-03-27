@@ -297,7 +297,7 @@ For related topics, see our guides on [employment contracts](/employment-law/emp
 
 **Morgan Hartley, Senior Corporate Lawyer & Partner**
 Lawsupport (Morgan Hartley Consulting GmbH)
-Grafenauweg 4, 6300 Zug, Switzerland
+Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 
 ---
@@ -346,4 +346,4 @@ No. Swiss employment contracts can be concluded orally, in writing, or by implie
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Grafenauweg 4, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

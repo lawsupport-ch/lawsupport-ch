@@ -280,7 +280,7 @@ Lawsupport provides a focused assessment of citizenship by descent claims. We re
 
 - Phone: +41 44 51 52 592
 - Email: info@lawsupport.ch
-- Address: Grafenauweg 4, Zug, Switzerland
+- Address: Baarerstrasse 135, 6300 Zug, Switzerland
 
 ---
 
@@ -288,4 +288,4 @@ Lawsupport provides a focused assessment of citizenship by descent claims. We re
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

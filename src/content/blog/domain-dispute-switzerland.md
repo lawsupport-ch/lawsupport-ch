@@ -315,7 +315,7 @@ If your trademark or company name has been registered as a .ch domain by a third
 
 **Morgan Hartley | Senior Corporate Lawyer & Partner**
 Lawsupport (Morgan Hartley Consulting GmbH)
-Grafenauweg 4, Zug, Switzerland
+Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch
 
@@ -325,4 +325,4 @@ info@lawsupport.ch
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Grafenauweg 4, Zug, Switzerland | +41 44 51 52 592 | info@lawsupport.ch*
+*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug, Switzerland | +41 44 51 52 592 | info@lawsupport.ch*

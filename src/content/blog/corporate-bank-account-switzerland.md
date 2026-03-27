@@ -267,7 +267,7 @@ At Lawsupport, we open corporate bank accounts for clients every week. We have d
 If you are forming a Swiss company or need a corporate bank account for an existing Swiss entity, speak with us before you approach any bank directly. The preparation stage is where applications are won or lost.
 
 **Morgan Hartley** | Senior Corporate Lawyer & Partner, Lawsupport (Morgan Hartley Consulting GmbH)
-Grafenauweg 4, 6300 Zug, Switzerland
+Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592
 Email: info@lawsupport.ch
 
@@ -319,4 +319,4 @@ Most Swiss banks support multi-currency sub-accounts covering CHF, EUR, USD, GBP
 
 ---
 
-*Morgan Hartley | Senior Corporate Lawyer & Partner, Lawsupport (Morgan Hartley Consulting GmbH) | Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley | Senior Corporate Lawyer & Partner, Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

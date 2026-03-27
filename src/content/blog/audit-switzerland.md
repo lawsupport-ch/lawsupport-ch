@@ -308,7 +308,7 @@ If you are unsure whether your Swiss company requires an audit, whether you qual
 Morgan Hartley and the Lawsupport team will assess your situation and give you a clear, practical answer — at no charge.
 
 **Lawsupport (Morgan Hartley Consulting)**
-Grafenauweg 4, 6300 Zug, Switzerland
+Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: [+41 44 51 52 592](tel:+41445152592)
 Email: [info@lawsupport.ch](mailto:info@lawsupport.ch)
 
@@ -370,4 +370,4 @@ A limited audit for a simple GmbH with straightforward accounts typically costs 
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, 6300 Zug, Switzerland | +41 44 51 52 592 | info@lawsupport.ch*
+*Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug, Switzerland | +41 44 51 52 592 | info@lawsupport.ch*

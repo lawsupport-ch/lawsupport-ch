@@ -60,7 +60,7 @@ relatedArticles:
 ---
 
 
-Most founders who contact us about GmbH formation Switzerland assume the hardest part is choosing a name or opening a bank account. In reality, the step that trips up more than half of first-time applicants is the Stampa Declaration — a document that most advisors forget to mention until the notary appointment is already booked. After 18 years and more than 1,000 formations handled from our office at Grafenauweg 4 in Zug, we have seen every version of that particular delay. This guide walks you through every stage so that you do not become a cautionary tale.
+Most founders who contact us about GmbH formation Switzerland assume the hardest part is choosing a name or opening a bank account. In reality, the step that trips up more than half of first-time applicants is the Stampa Declaration — a document that most advisors forget to mention until the notary appointment is already booked. After 18 years and more than 1,000 formations handled from our office at Baarerstrasse 135, 6300 Zug, we have seen every version of that particular delay. This guide walks you through every stage so that you do not become a cautionary tale.
 
 ![GmbH Formation Switzerland — Lawsupport Zug office and Swiss Commercial Register process overview](/images/gmbh-formation-switzerland-hero.jpg)
 *Image: 1200×630px hero — Swiss Commercial Register filing process*
@@ -340,7 +340,7 @@ The full first-year package (registration + address + nominee director + account
 
 ## Request a Free Assessment
 
-Lawsupport (Morgan Hartley Consulting) has handled GmbH formation Switzerland for over 18 years from our office at Grafenauweg 4, Zug. We have completed more than 1,000 formations for clients in more than 40 countries. We manage every step: name check, articles of association, Stampa Declaration, capital deposit coordination, notary appointment, and Commercial Register filing.
+Lawsupport (Morgan Hartley Consulting) has handled GmbH formation Switzerland for over 18 years from our office at Baarerstrasse 135, 6300 Zug. We have completed more than 1,000 formations for clients in more than 40 countries. We manage every step: name check, articles of association, Stampa Declaration, capital deposit coordination, notary appointment, and Commercial Register filing.
 
 No travel is required. Founders can authorise us by power of attorney to act on their behalf throughout the process.
 
@@ -348,7 +348,7 @@ No travel is required. Founders can authorise us by power of attorney to act on 
 
 - **Phone:** +41 44 51 52 592
 - **Email:** info@lawsupport.ch
-- **Address:** Grafenauweg 4, Zug, Switzerland
+- **Address:** Baarerstrasse 135, 6300 Zug, Switzerland
 
 For context on how the GmbH fits within the broader Swiss corporate framework, start with our guide to [company formation in Switzerland](/company-formation/company-formation-switzerland/).
 
@@ -410,4 +410,4 @@ Zug is consistently popular with international founders due to its low effective
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

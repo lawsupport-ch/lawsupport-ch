@@ -256,7 +256,7 @@ Morgan Hartley and the Lawsupport team register Swiss branch offices for foreign
 
 **[Request a Free Assessment →](/contacts/)**
 
-Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch
+Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch
 
 </div>
 <!-- /CTA -->
@@ -349,4 +349,4 @@ In almost all cases, yes. A registered branch with a fixed place of business in 
 
 ---
 
-*Morgan Hartley | Senior Corporate Lawyer & Partner | Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley | Senior Corporate Lawyer & Partner | Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

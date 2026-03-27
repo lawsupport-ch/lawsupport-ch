@@ -205,7 +205,7 @@ Lawsupport advises on Swiss foundation formation, charter drafting, tax-exempt s
 
 **Morgan Hartley, Senior Corporate Lawyer & Partner**
 Lawsupport (Morgan Hartley Consulting GmbH)
-Grafenauweg 4, 6300 Zug, Switzerland
+Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 
 ---
@@ -254,4 +254,4 @@ A foundation (Stiftung) has no owners or members — it exists solely to fulfil 
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Grafenauweg 4, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

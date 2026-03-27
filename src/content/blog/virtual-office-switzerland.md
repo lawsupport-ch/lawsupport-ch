@@ -76,7 +76,7 @@ But there is a practical trap that most providers do not mention: the format of 
 - Regulatory substance for FINMA-licensed entities
 - A [nominee director](/corporate-services/nominee-director-switzerland/) (separate service)
 
-**The legal basis:** Swiss law (<a href="https://www.fedlex.admin.ch/eli/cc/2007/686/en" target="_blank" rel="nofollow noopener">Art. 2 HRegV</a>) requires a registered domicile that is a real address where the company is genuinely reachable. A virtual office at Grafenauweg 4, Zug satisfies this.
+**The legal basis:** Swiss law (<a href="https://www.fedlex.admin.ch/eli/cc/2007/686/en" target="_blank" rel="nofollow noopener">Art. 2 HRegV</a>) requires a registered domicile that is a real address where the company is genuinely reachable. A virtual office at Baarerstrasse 135, 6300 Zug satisfies this.
 
 <!-- VIDEO: Explainer — How Swiss virtual office compliance works under HRegV Art. 2 -->
 
@@ -87,8 +87,8 @@ But there is a practical trap that most providers do not mention: the format of 
 This is the friction point that catches most foreign entrepreneurs.
 
 A registered address can appear in the Commercial Register two ways:
-- **Direct address:** "Company Name AG, Grafenauweg 4, 6300 Zug"
-- **c/o address:** "Company Name AG, c/o Service Provider, Grafenauweg 4, 6300 Zug"
+- **Direct address:** "Company Name AG, Baarerstrasse 135, 6300 Zug"
+- **c/o address:** "Company Name AG, c/o Service Provider, Baarerstrasse 135, 6300 Zug"
 
 The distinction seems administrative. It is not.
 
@@ -104,7 +104,7 @@ A Romanian entrepreneur based in Bucharest wanted to establish an AG in Zug. His
 
 **The immediate problem:** Swiss corporate law requires at least one board member domiciled in Switzerland and authorised to represent the company. The founder had no Swiss residence.
 
-**The solution:** The founder's AG was registered at Grafenauweg 4, Zug with a direct address (no c/o). A Swiss-resident [nominee director](/corporate-services/nominee-director-switzerland/) was appointed to the board. The founder remained the sole shareholder (not publicly visible due to the AG structure) and managed the business from Bucharest.
+**The solution:** The founder's AG was registered at Baarerstrasse 135, 6300 Zug with a direct address (no c/o). A Swiss-resident [nominee director](/corporate-services/nominee-director-switzerland/) was appointed to the board. The founder remained the sole shareholder (not publicly visible due to the AG structure) and managed the business from Bucharest.
 
 **The banking challenge:** When opening a corporate bank account, the direct address registration made a measurable difference. Two banks that had previously flagged c/o-registered companies during KYC accepted the account opening with the direct address format.
 
@@ -114,7 +114,7 @@ A Romanian entrepreneur based in Bucharest wanted to establish an AG in Zug. His
 - Basic accounting (dormant): from CHF 1'400/year
 - **Total annual maintenance: ~CHF 9'700**
 
-The founder later obtained a Swiss B permit and relocated to Zug, at which point the nominee director was no longer required. The registered address continued at Grafenauweg 4 while he searched for permanent office space.
+The founder later obtained a Swiss B permit and relocated to Zug, at which point the nominee director was no longer required. The registered address continued at Baarerstrasse 135 while he searched for permanent office space.
 
 ---
 
@@ -196,7 +196,7 @@ If you need a Swiss business address or want to relocate your company's domicile
 
 **Morgan Hartley — Senior Corporate Lawyer & Partner**
 Lawsupport (Morgan Hartley Consulting)
-Grafenauweg 4, 6300 Zug, Switzerland
+Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 
 [Request a Free Assessment](/contacts/)

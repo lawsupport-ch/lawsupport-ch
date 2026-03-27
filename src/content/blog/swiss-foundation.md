@@ -254,7 +254,7 @@ For international clients, Zug is the default canton for foundation formation fo
 - **Efficient Commercial Register** — the Handelsregisteramt des Kantons Zug is operationally efficient, with consistent processing times.
 - **Professional ecosystem** — Zug-based notaries, legal counsel, and service providers have processed hundreds of foundation formations, reducing friction at every step.
 
-For context, Lawsupport operates from Grafenauweg 4, Zug — the centre of this ecosystem. We have been involved in [company formation](/company-formation/company-formation-switzerland/) and foundation formation for clients from over 40 countries.
+For context, Lawsupport operates from Baarerstrasse 135, 6300 Zug — the centre of this ecosystem. We have been involved in [company formation](/company-formation/company-formation-switzerland/) and foundation formation for clients from over 40 countries.
 
 ---
 
@@ -352,7 +352,7 @@ We handle the complete Swiss foundation formation process — from initial struc
 
 **[Request a Free Assessment](/contacts/)**
 
-- **Address**: Grafenauweg 4, Zug, Switzerland
+- **Address**: Baarerstrasse 135, 6300 Zug, Switzerland
 - **Phone**: +41 44 51 52 592
 - **Email**: info@lawsupport.ch
 
@@ -404,4 +404,4 @@ Most Swiss foundations are subject to audit requirements. The supervisory author
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

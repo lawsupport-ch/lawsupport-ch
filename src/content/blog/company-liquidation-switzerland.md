@@ -182,7 +182,7 @@ See our overview of the full lifecycle of a Swiss company: from [company formati
 
 **Phone:** +41 44 51 52 592
 **Email:** info@lawsupport.ch
-**Address:** Grafenauweg 4, Zug, Switzerland
+**Address:** Baarerstrasse 135, 6300 Zug, Switzerland
 
 
 ---
@@ -315,6 +315,6 @@ For certain simple structures, where the company has no creditors, no outstandin
 
 ---
 
-*Morgan Hartley, Senior Corporate Lawyer & Partner — Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley, Senior Corporate Lawyer & Partner — Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
 
 *[Request a Free Assessment](/contacts/)*

@@ -279,7 +279,7 @@ If you are a non-resident seeking a Swiss bank account for your business, we can
 [Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
-Grafenauweg 4, Zug, Switzerland
+Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch
 

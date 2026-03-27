@@ -299,13 +299,13 @@ The corporate tax rate is the headline number — but it is not the total cost o
 
 ## Why Work With Lawsupport
 
-Lawsupport (Morgan Hartley Consulting GmbH) is a Swiss law firm based at Grafenauweg 4, Zug, specialising in corporate formation, tax structuring, and international business law. **Morgan Hartley**, Senior Corporate Lawyer & Partner, holds an Anwaltspatent (bar admission) in the Canton of Zurich. Over 18 years of practice, we have completed more than 1,000 corporate formations, with particular depth in financial companies, IP holding structures, and internationally owned Swiss groups.
+Lawsupport (Morgan Hartley Consulting GmbH) is a Swiss law firm based at Baarerstrasse 135, 6300 Zug, specialising in corporate formation, tax structuring, and international business law. **Morgan Hartley**, Senior Corporate Lawyer & Partner, holds an Anwaltspatent (bar admission) in the Canton of Zurich. Over 18 years of practice, we have completed more than 1,000 corporate formations, with particular depth in financial companies, IP holding structures, and internationally owned Swiss groups.
 
 To speak with a Swiss law and tax adviser:
 
 **Phone:** +41 44 51 52 592
 **Email:** info@lawsupport.ch
-**Address:** Grafenauweg 4, Zug, Switzerland
+**Address:** Baarerstrasse 135, 6300 Zug, Switzerland
 
 [Request a Free Assessment →](/contacts/)
 

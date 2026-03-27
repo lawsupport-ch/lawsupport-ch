@@ -231,7 +231,7 @@ For an overview of the practical account opening process, see our [guide to open
 
 **Morgan Hartley, Senior Corporate Lawyer & Partner**
 Lawsupport (Morgan Hartley Consulting GmbH)
-Grafenauweg 4, 6300 Zug, Switzerland
+Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 
 ---
@@ -280,4 +280,4 @@ The Swiss Bankers Association (SBA/SBVg) is the industry body representing Swiss
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Grafenauweg 4, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

@@ -209,7 +209,7 @@ We prepare and file corporate tax returns for Zug-based companies as part of our
 - Objection filings if assessments differ from expectations
 
 **Morgan Hartley** | Senior Corporate Lawyer & Partner, Lawsupport (Morgan Hartley Consulting GmbH)
-Phone: +41 44 51 52 592 | Email: info@lawsupport.ch | Address: Grafenauweg 4, Zug
+Phone: +41 44 51 52 592 | Email: info@lawsupport.ch | Address: Baarerstrasse 135, 6300 Zug
 
 [Request a Free Assessment →](/contacts/)
 [Corporate tax rates by canton →](/tax-accounting/corporate-tax-switzerland/)
@@ -270,4 +270,4 @@ You have 30 days from the date of the assessment notice to file a written object
 
 ---
 
-*Morgan Hartley | Senior Corporate Lawyer & Partner, Lawsupport (Morgan Hartley Consulting GmbH) | Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley | Senior Corporate Lawyer & Partner, Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

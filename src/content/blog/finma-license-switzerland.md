@@ -332,7 +332,7 @@ Morgan Hartley and the Lawsupport team have advised clients on FINMA licensing, 
 
 - Phone: +41 44 51 52 592
 - Email: info@lawsupport.ch
-- Address: Grafenauweg 4, 6300 Zug, Switzerland
+- Address: Baarerstrasse 135, 6300 Zug, Switzerland
 
 [Request a Free Assessment →](/contacts/)
 
@@ -342,4 +342,4 @@ Related guides: [Crypto license Switzerland](/licensing/crypto-license-switzerla
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

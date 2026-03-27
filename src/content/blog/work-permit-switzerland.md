@@ -286,7 +286,7 @@ Work permit applications in Switzerland reward precision and penalise delay. A q
 
 **Morgan Hartley — Senior Corporate Lawyer & Partner**
 Lawsupport (Morgan Hartley Consulting)
-Grafenauweg 4, 6300 Zug, Switzerland
+Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 
 We handle employer-sponsored work permit applications, intracompany transfer filings, self-employment permit dossiers, and the [company formation](/company-formation/company-formation-switzerland/) mandates that accompany them — coordinated in parallel to minimise total lead time.

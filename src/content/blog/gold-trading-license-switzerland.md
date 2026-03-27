@@ -255,7 +255,7 @@ Lawsupport (Morgan Hartley Consulting) advises Swiss gold trading businesses on 
 
 - **Phone:** +41 44 51 52 592
 - **Email:** info@lawsupport.ch
-- **Address:** Grafenauweg 4, Zug, Switzerland
+- **Address:** Baarerstrasse 135, 6300 Zug, Switzerland
 
 ---
 
@@ -303,4 +303,4 @@ You first need a Swiss legal entity (typically an AG or GmbH), then SRO membersh
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

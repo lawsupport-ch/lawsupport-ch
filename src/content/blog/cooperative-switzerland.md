@@ -228,7 +228,7 @@ If you are assessing whether a Genossenschaft fits your project, or if you need 
 
 **Phone:** +41 44 51 52 592
 **Email:** info@lawsupport.ch
-**Address:** Grafenauweg 4, Zug, Switzerland
+**Address:** Baarerstrasse 135, 6300 Zug, Switzerland
 
 ---
 
@@ -276,6 +276,6 @@ Both are membership-based organisations with one-member-one-vote governance. The
 
 ---
 
-*Morgan Hartley, Senior Corporate Lawyer & Partner — Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley, Senior Corporate Lawyer & Partner — Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
 
 *[Request a Free Assessment](/contacts/)*

@@ -247,8 +247,8 @@ Lawsupport handles the full process: initial registration, certified extracts, d
 
 **Phone:** [+41 44 51 52 592](tel:+41445152592)
 **Email:** [info@lawsupport.ch](mailto:info@lawsupport.ch)
-**Address:** Grafenauweg 4, Zug, Switzerland
+**Address:** Baarerstrasse 135, 6300 Zug, Switzerland
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

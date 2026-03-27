@@ -283,4 +283,4 @@ For related topics, see:
 
 ---
 
-**Morgan Hartley | Senior Corporate Lawyer & Partner, Lawsupport (Morgan Hartley Consulting GmbH)** | Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch
+**Morgan Hartley | Senior Corporate Lawyer & Partner, Lawsupport (Morgan Hartley Consulting GmbH)** | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch

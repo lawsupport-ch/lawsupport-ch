@@ -292,7 +292,7 @@ Establishing a regulated Swiss crypto exchange is a substantial undertaking — 
 
 **Morgan Hartley | Senior Corporate Lawyer & Partner**
 Lawsupport (Morgan Hartley Consulting GmbH)
-Grafenauweg 4, Zug, Switzerland
+Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 
 *Further reading: <a href="https://www.finma.ch/en/authorisation/" target="_blank" rel="nofollow noopener">FINMA licensing Switzerland</a> | <a href="https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/en" target="_blank" rel="nofollow noopener">Swiss Anti-Money Laundering Act</a> | <a href="https://www.fatf-gafi.org/" target="_blank" rel="nofollow noopener">FATF Travel Rule guidance</a>*

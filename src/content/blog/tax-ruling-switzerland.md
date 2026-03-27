@@ -216,7 +216,7 @@ Lawsupport prepares and submits ruling requests to the Steuerverwaltung Zug and 
 ---
 
 **Lawsupport (Morgan Hartley Consulting)**
-Grafenauweg 4, Zug, Switzerland
+Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 
 [Request a Free Assessment →](/contacts/)

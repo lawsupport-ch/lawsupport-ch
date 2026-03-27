@@ -399,7 +399,7 @@ Whether you are at the initial evaluation stage or ready to incorporate, Morgan 
 [Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting GmbH)**
-Grafenauweg 4, Zug, Switzerland
+Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch
 
@@ -451,4 +451,4 @@ Yes. A [branch office in Switzerland](/company-formation/branch-office-switzerla
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Grafenauweg 4, Zug, Switzerland | +41 44 51 52 592 | info@lawsupport.ch*
+*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug, Switzerland | +41 44 51 52 592 | info@lawsupport.ch*

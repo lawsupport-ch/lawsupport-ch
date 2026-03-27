@@ -199,7 +199,7 @@ Ready to start? Lawsupport handles every step from name check to bank account. C
 
 The canton of incorporation determines the applicable cantonal and communal tax rates, the local Commercial Register office, and the registered office requirement. You must have a verifiable registered address in the chosen canton.
 
-**Zug** is the preferred canton for holding companies, international trading companies, and IP-holding structures. The effective combined corporate tax rate of approximately 11.8% is among the lowest in Switzerland. The Zug Commercial Register is efficient, the cantonal administration is experienced with international structures, and the local infrastructure — law firms, fiduciaries, and banks — is well-developed for corporate services. Lawsupport's office is at Grafenauweg 4, Zug. For a [registered address in Switzerland](/corporate-services/registered-address-switzerland/) or [virtual office in Zug](/corporate-services/virtual-office-switzerland/), we can arrange this directly.
+**Zug** is the preferred canton for holding companies, international trading companies, and IP-holding structures. The effective combined corporate tax rate of approximately 11.8% is among the lowest in Switzerland. The Zug Commercial Register is efficient, the cantonal administration is experienced with international structures, and the local infrastructure — law firms, fiduciaries, and banks — is well-developed for corporate services. Lawsupport's office is at Baarerstrasse 135, 6300 Zug. For a [registered address in Switzerland](/corporate-services/registered-address-switzerland/) or [virtual office in Zug](/corporate-services/virtual-office-switzerland/), we can arrange this directly.
 
 **Zurich** carries a higher effective rate of approximately 19.7% but offers unmatched access to financial institutions, a deep talent pool, and the prestige of Switzerland's largest city. It is the natural choice for companies whose primary activity involves the Zurich financial ecosystem or companies that need to hire locally at scale.
 
@@ -350,7 +350,7 @@ A shelf company is an already-incorporated, dormant entity available for immedia
 
 ## Why Lawsupport for Your Swiss Company Formation
 
-Lawsupport, operating as Morgan Hartley Consulting, is a Swiss law practice based at Grafenauweg 4, Zug. Over 18 years of practice and more than 1,000 company formations give us a detailed understanding of the practical requirements at every stage of the Swiss incorporation process: from name selection and articles drafting through to bank account activation and post-formation compliance.
+Lawsupport, operating as Morgan Hartley Consulting, is a Swiss law practice based at Baarerstrasse 135, 6300 Zug. Over 18 years of practice and more than 1,000 company formations give us a detailed understanding of the practical requirements at every stage of the Swiss incorporation process: from name selection and articles drafting through to bank account activation and post-formation compliance.
 
 We manage over 300 companies under fiduciary services with a team of 7, and specialise in financial companies, holding structures, and formations for international clients who need a Swiss entity but are not based in Switzerland. We work in English, German, and French, and we maintain relationships with Swiss banks, notaries, and Commercial Register offices in the key cantons.
 
@@ -370,7 +370,7 @@ Register your Swiss company in 2-4 weeks. Contact Lawsupport:
 
 **Phone:** [+41 44 51 52 592](tel:+41445152592)
 **Email:** [info@lawsupport.ch](mailto:info@lawsupport.ch)
-**Address:** Grafenauweg 4, Zug, Switzerland
+**Address:** Baarerstrasse 135, 6300 Zug, Switzerland
 
 We respond to enquiries within 1-2 hours during Swiss business hours. First consultations are without obligation.
 

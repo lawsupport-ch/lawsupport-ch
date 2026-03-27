@@ -257,7 +257,7 @@ Opening a Swiss capital deposit account as a foreign founder involves KYC requir
 
 **[Request a Free Assessment →](/contacts/)**
 
-Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, Zug, Switzerland | [+41 44 51 52 592](tel:+41445152592) | [info@lawsupport.ch](mailto:info@lawsupport.ch)
+Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug, Switzerland | [+41 44 51 52 592](tel:+41445152592) | [info@lawsupport.ch](mailto:info@lawsupport.ch)
 
 ---
 

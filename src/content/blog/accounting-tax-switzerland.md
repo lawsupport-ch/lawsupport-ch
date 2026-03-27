@@ -389,7 +389,7 @@ Speak with Morgan Hartley and the Lawsupport team about your Swiss accounting ob
 
 - **Phone:** +41 44 51 52 592
 - **Email:** info@lawsupport.ch
-- **Address:** Grafenauweg 4, 6300 Zug, Switzerland
+- **Address:** Baarerstrasse 135, 6300 Zug, Switzerland
 
 </div>
 
@@ -435,7 +435,7 @@ Yes. Under Art. 67 DBG, losses can be carried forward for up to seven years. The
 
 <div class="author-block">
 
-**Morgan Hartley** is a Senior Corporate Lawyer and Partner at Lawsupport (Morgan Hartley Consulting), Grafenauweg 4, 6300 Zug, Switzerland. He has advised foreign-owned Swiss companies on accounting, tax, and corporate law for over 18 years. Contact: +41 44 51 52 592 | info@lawsupport.ch
+**Morgan Hartley** is a Senior Corporate Lawyer and Partner at Lawsupport (Morgan Hartley Consulting), Baarerstrasse 135, 6300 Zug, Switzerland. He has advised foreign-owned Swiss companies on accounting, tax, and corporate law for over 18 years. Contact: +41 44 51 52 592 | info@lawsupport.ch
 
 </div>
 

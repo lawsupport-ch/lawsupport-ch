@@ -267,7 +267,7 @@ Choosing the right Swiss private bank depends on your wealth level, investment o
 ---
 
 **Lawsupport (Morgan Hartley Consulting)**
-Grafenauweg 4, Zug, Switzerland
+Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 
 [Request a Free Assessment →](/contacts/)

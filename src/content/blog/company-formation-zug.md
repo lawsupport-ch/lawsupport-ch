@@ -308,7 +308,7 @@ For relocation assistance, see our [work permit and immigration guides](/immigra
 
 ## Work With Us
 
-Lawsupport (Morgan Hartley Consulting) has been forming companies in Zug since 2007. We have completed more than 1,000 formations for clients from over 40 countries. Our office is at Grafenauweg 4, Zug — a five-minute walk from the Zug Commercial Register.
+Lawsupport (Morgan Hartley Consulting) has been forming companies in Zug since 2007. We have completed more than 1,000 formations for clients from over 40 countries. Our office is at Baarerstrasse 135, 6300 Zug — a five-minute walk from the Zug Commercial Register.
 
 We manage over 300 companies under fiduciary services with a team of 7, and advise on the full lifecycle of a Zug company: formation, structuring, tax ruling, banking, directorship, registered agent services, and eventual restructuring or dissolution.
 
@@ -334,7 +334,7 @@ If you are considering company formation in Zug, contact us for a direct convers
 
 **Phone:** +41 44 51 52 592
 **Email:** info@lawsupport.ch
-**Address:** Grafenauweg 4, Zug, Switzerland
+**Address:** Baarerstrasse 135, 6300 Zug, Switzerland
 
 [Full guide to company formation in Switzerland](/company-formation/company-formation-switzerland/)
 
@@ -392,6 +392,6 @@ After registration, the company's bank account is activated, VAT registration sh
 
 ---
 
-*Morgan Hartley, Senior Corporate Lawyer & Partner — Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley, Senior Corporate Lawyer & Partner — Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
 
 *For company formation enquiries, [Request a Free Assessment](/contacts/).*

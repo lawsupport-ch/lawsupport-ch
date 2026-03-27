@@ -224,7 +224,7 @@ Despite the complexity, there are legitimate business reasons why a US person op
 
 Consider a practical example. A US-based software entrepreneur -- resident in California, no Swiss ties -- wants to expand into European markets and create a separate legal entity for EU operations and billing.
 
-She contacts Lawsupport and forms a Zug GmbH. The registered address is Grafenauweg 4, Zug. A local director is appointed to satisfy Swiss law requirements. The company is registered in the Handelsregister within four to six weeks.
+She contacts Lawsupport and forms a Zug GmbH. The registered address is Baarerstrasse 135, 6300 Zug. A local director is appointed to satisfy Swiss law requirements. The company is registered in the Handelsregister within four to six weeks.
 
 With the GmbH established, we identify a FATCA-compliant Swiss bank currently accepting US-person-controlled companies -- in this case, a combination of AMINA Bank for crypto-related payments and a cantonal bank for operational CHF transactions. The entrepreneur completes the KYC package: her US passport, California address confirmation, W-9, GmbH articles of association, and a business plan describing her European SaaS operations and projected annual revenue.
 
@@ -327,7 +327,7 @@ If you are a US person exploring Swiss corporate banking, we can give you an hon
 [Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
-Grafenauweg 4, Zug, Switzerland
+Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch
 

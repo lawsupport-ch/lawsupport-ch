@@ -345,7 +345,7 @@ Every holding structure we advise on begins with an analysis of your specific sh
 
 - **Phone:** +41 44 51 52 592
 - **Email:** info@lawsupport.ch
-- **Address:** Grafenauweg 4, Zug, Switzerland
+- **Address:** Baarerstrasse 135, 6300 Zug, Switzerland
 
 ---
 
@@ -393,4 +393,4 @@ Yes. The combination of the participation exemption (0–3% effective rate on qu
 
 ---
 
-*This article reflects Swiss tax law and corporate law as in force on 19 March 2026. It is provided for informational purposes only and does not constitute legal or tax advice. Engage qualified Swiss legal counsel before implementing any holding company structure. Lawsupport (Morgan Hartley Consulting), Grafenauweg 4, 6300 Zug, Switzerland — info@lawsupport.ch — +41 44 51 52 592.*
+*This article reflects Swiss tax law and corporate law as in force on 19 March 2026. It is provided for informational purposes only and does not constitute legal or tax advice. Engage qualified Swiss legal counsel before implementing any holding company structure. Lawsupport (Morgan Hartley Consulting), Baarerstrasse 135, 6300 Zug, Switzerland — info@lawsupport.ch — +41 44 51 52 592.*

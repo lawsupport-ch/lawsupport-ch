@@ -229,7 +229,7 @@ A refusal is not always the end. Appeals are possible. But a well-prepared initi
 
 - Phone: +41 44 51 52 592
 - Email: info@lawsupport.ch
-- Address: Grafenauweg 4, 6300 Zug, Switzerland
+- Address: Baarerstrasse 135, 6300 Zug, Switzerland
 
 [Request a Free Assessment →](/contacts/)
 
@@ -239,4 +239,4 @@ Related guides: [Immigrate to Switzerland](/immigration/immigrate-to-switzerland
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

@@ -188,7 +188,7 @@ This is a legal question that requires country-specific advice. Lawsupport works
 
 ## The Zug Path to Citizenship
 
-Canton Zug holds a particular significance for internationally mobile professionals and entrepreneurs. Its combination of low cantonal and communal [tax rates](/tax-accounting/corporate-tax-switzerland/), a highly developed financial and corporate infrastructure, and proximity to Zurich has made it Switzerland's premier address for international business. It is also home to Lawsupport's offices at Grafenauweg 4.
+Canton Zug holds a particular significance for internationally mobile professionals and entrepreneurs. Its combination of low cantonal and communal [tax rates](/tax-accounting/corporate-tax-switzerland/), a highly developed financial and corporate infrastructure, and proximity to Zurich has made it Switzerland's premier address for international business. It is also home to Lawsupport's offices at Baarerstrasse 135, 6300 Zug.
 
 From a naturalisation perspective, Zug is regarded as one of Switzerland's more efficient and predictable cantons. The cantonal integration requirements are clearly communicated. The communal naturalisation process in municipalities such as Zug city, Baar, and Steinhausen is structured and administratively competent. For applicants who have been resident in Zug throughout their qualifying period, the communal stage — while still requiring genuine integration — is not characterised by unpredictable discretion.
 
@@ -257,7 +257,7 @@ If Swiss citizenship is part of your long-term plan, the right time to begin str
 **[Request a Free Assessment](/contacts/)**
 
 **Contact Lawsupport**
-Grafenauweg 4, 6300 Zug, Switzerland
+Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592
 Email: info@lawsupport.ch
 
@@ -363,4 +363,4 @@ There is no single national test. However, most cantons assess civic knowledge t
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

@@ -68,7 +68,7 @@ relatedArticles:
       "url": "https://lawsupport.ch",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Grafenauweg 4",
+        "streetAddress": "Baarerstrasse 135",
         "addressLocality": "Zug",
         "addressCountry": "CH"
       }
@@ -313,7 +313,7 @@ Lawsupport (Morgan Hartley Consulting) has been opening Swiss bank accounts for 
   <h2>Request a Free Assessment</h2>
   <p>Tell us about your business and we will identify which Swiss banks are currently open to your profile — before any application is submitted.</p>
   <a href="/contacts/" class="cta-button">Request a Free Assessment</a>
-  <p class="cta-meta">Morgan Hartley | Senior Corporate Lawyer | Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch</p>
+  <p class="cta-meta">Morgan Hartley | Senior Corporate Lawyer | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch</p>
 </div>
 
 ---
@@ -475,4 +475,4 @@ Swiss banking secrecy as it existed before 2017 no longer functions as a tool fo
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

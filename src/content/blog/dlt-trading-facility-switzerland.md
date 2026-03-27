@@ -326,7 +326,7 @@ Lawsupport (Morgan Hartley Consulting GmbH) advises clients on the full licensin
 
 **Morgan Hartley | Senior Corporate Lawyer & Partner**
 Lawsupport (Morgan Hartley Consulting GmbH)
-Grafenauweg 4, Zug, Switzerland
+Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 
 *Further reading: <a href="https://www.finma.ch/en/authorisation/" target="_blank" rel="nofollow noopener">FINMA — DLT Trading Facility overview</a> | <a href="https://www.fedlex.admin.ch/eli/fga/2020/2208/de" target="_blank" rel="nofollow noopener">DLT Act full text on Fedlex</a> | <a href="https://www.seco.admin.ch/" target="_blank" rel="nofollow noopener">SECO — Swiss financial market regulation</a>*

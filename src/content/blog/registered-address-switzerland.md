@@ -78,7 +78,7 @@ There is no requirement that the company operate from the registered address. A 
 
 ## What the Service Provides
 
-- **A legitimate Swiss address** (Grafenauweg 4, 6300 Zug) in your Commercial Register entry
+- **A legitimate Swiss address** (Baarerstrasse 135, 6300 Zug) in your Commercial Register entry
 - **Mail receipt** — all incoming correspondence received by our team
 - **Scanning and digital forwarding** — official mail scanned and forwarded within 24 hours
 - **Physical forwarding** on request
@@ -102,8 +102,8 @@ There is no requirement that the company operate from the registered address. A 
 
 Your registered address can appear in the Commercial Register two ways:
 
-- **Direct:** "Company Name AG, Grafenauweg 4, 6300 Zug"
-- **c/o:** "Company Name AG, c/o Service Provider, Grafenauweg 4, 6300 Zug"
+- **Direct:** "Company Name AG, Baarerstrasse 135, 6300 Zug"
+- **c/o:** "Company Name AG, c/o Service Provider, Baarerstrasse 135, 6300 Zug"
 
 Swiss banks — particularly PostFinance — are measurably more likely to reject account opening applications from companies at c/o addresses. The c/o notation signals to compliance teams that the company may lack substance. During KYC review, this becomes an additional red flag.
 
@@ -119,7 +119,7 @@ A UK-based holding company had been incorporated in canton Zurich three years ea
 
 **The analysis:** The company's sole point of Swiss contact was the registered address. It had no employees, no operational activity, and no clients in canton Zurich. Moving the registered domicile to Zug would change the primary taxing authority to the Steuerverwaltung Zug, with an effective rate of approximately 11.85%.
 
-**The process:** The articles of association were amended to change the registered domicile to Zug. The amendment required shareholder approval, notarial certification, and filing with both the departing (Zurich) and receiving (Zug) Commercial Registers. The address was changed to Grafenauweg 4, Zug. Total process time: 18 business days.
+**The process:** The articles of association were amended to change the registered domicile to Zug. The amendment required shareholder approval, notarial certification, and filing with both the departing (Zurich) and receiving (Zug) Commercial Registers. The address was changed to Baarerstrasse 135, 6300 Zug. Total process time: 18 business days.
 
 **The outcome:** On CHF 500'000 in annual taxable profit, the tax saving was approximately CHF 40'000 per year. The cost of the address change (notarial fees, Commercial Register filing, legal fees) was approximately CHF 3'500 — recovered in the first month.
 
@@ -171,7 +171,7 @@ Swiss law requires at least one director resident in Switzerland (Art. 718 CO fo
 
 | Requirement | Service |
 |---|---|
-| Swiss registered domicile (Art. 2 HRegV) | Registered address — Grafenauweg 4, Zug |
+| Swiss registered domicile (Art. 2 HRegV) | Registered address — Baarerstrasse 135, 6300 Zug |
 | Swiss-resident director (OR Art. 718 / Art. 814) | [Nominee director](/corporate-services/nominee-director-switzerland/) |
 
 Both services are typically used together. Neither alone is sufficient for a foreign-owned company.
@@ -183,7 +183,7 @@ Both services are typically used together. Neither alone is sufficient for a for
 1. **Engagement** — confirm company name, structure, and formation canton
 2. **Documentation** — KYC documents (passport, proof of address, source of funds)
 3. **Service agreement** — domicile agreement signed
-4. **Formation documents** — Grafenauweg 4 included in articles of association submitted to the Zug Commercial Register
+4. **Formation documents** — Baarerstrasse 135, 6300 Zug included in articles of association submitted to the Zug Commercial Register
 5. **Annual renewal** — notification in advance
 
 For existing companies changing address to Zug: formal amendment filed with both departing and receiving Commercial Registers. Typically 2–4 weeks.
@@ -227,7 +227,7 @@ If you are forming a Swiss company or need a registered address in Zug, we handl
 [Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
-Grafenauweg 4, Zug, Switzerland
+Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch
 

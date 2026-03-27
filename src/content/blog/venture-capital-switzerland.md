@@ -219,7 +219,7 @@ The choice of entity (AG), domicile (Zug), and instrument (Swiss convertible loa
 **Request a Free Assessment** — contact Morgan Hartley to discuss startup structuring, VC round documentation, or ESOP design.
 
 **Lawsupport (Morgan Hartley Consulting)**
-Grafenauweg 4, 6300 Zug, Switzerland
+Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: [+41 44 51 52 592](tel:+41445152592)
 Email: [info@lawsupport.ch](mailto:info@lawsupport.ch)
 

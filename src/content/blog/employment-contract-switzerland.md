@@ -280,7 +280,7 @@ Swiss employment contracts carry obligations that are easy to miss — from GAV 
 
 - Phone: +41 44 51 52 592
 - Email: info@lawsupport.ch
-- Address: Grafenauweg 4, 6300 Zug, Switzerland
+- Address: Baarerstrasse 135, 6300 Zug, Switzerland
 
 [Request a Free Assessment →](/contacts/)
 
@@ -290,4 +290,4 @@ Related guides: [Employment law Switzerland](/employment-law/employment-law-swit
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

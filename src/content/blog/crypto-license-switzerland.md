@@ -479,7 +479,7 @@ Every component of a successful Swiss crypto business is easier from Zug than fr
 
 ## How Lawsupport Helps Crypto Clients
 
-Lawsupport (Morgan Hartley Consulting GmbH), based at Grafenauweg 4 in Zug, has been advising crypto and blockchain clients since 2013. We are not a general commercial law firm that has added a crypto practice group. This has been our work since the beginning of Crypto Valley.
+Lawsupport (Morgan Hartley Consulting GmbH), based at Baarerstrasse 135, 6300 Zug, has been advising crypto and blockchain clients since 2013. We are not a general commercial law firm that has added a crypto practice group. This has been our work since the beginning of Crypto Valley.
 
 We provide:
 
@@ -507,7 +507,7 @@ If you are planning a crypto business in Switzerland, the most important first s
 
 **Morgan Hartley | Senior Corporate Lawyer & Partner**
 Lawsupport (Morgan Hartley Consulting GmbH)
-Grafenauweg 4, 6300 Zug, Switzerland
+Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 
 *Further reading: <a href="https://www.finma.ch/en/authorisation/" target="_blank" rel="nofollow noopener">FINMA authorisation overview</a> | <a href="https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/en" target="_blank" rel="nofollow noopener">Swiss Anti-Money Laundering Act</a> | <a href="https://cryptovalley.swiss/" target="_blank" rel="nofollow noopener">Zug Crypto Valley Association</a>*

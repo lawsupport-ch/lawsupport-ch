@@ -73,7 +73,7 @@ SCHEMA: Article
       "name": "Lawsupport (Morgan Hartley Consulting)",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Grafenauweg 4",
+        "streetAddress": "Baarerstrasse 135",
         "addressLocality": "Zug",
         "addressCountry": "CH"
       },
@@ -362,7 +362,7 @@ Morgan Hartley and the Lawsupport team advise creditors and debtors on SchKG pro
 
 [Request a Free Assessment →](/contacts/)
 
-*Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
 
 ---
 
@@ -473,4 +473,4 @@ The correct office is the Betreibungsamt of the debtor's domicile commune (indiv
 
 ---
 
-*Article by Morgan Hartley, Senior Corporate Lawyer & Partner, Lawsupport (Morgan Hartley Consulting), Grafenauweg 4, Zug, Switzerland. Last reviewed: 19 March 2026.*
+*Article by Morgan Hartley, Senior Corporate Lawyer & Partner, Lawsupport (Morgan Hartley Consulting), Baarerstrasse 135, 6300 Zug, Switzerland. Last reviewed: 19 March 2026.*

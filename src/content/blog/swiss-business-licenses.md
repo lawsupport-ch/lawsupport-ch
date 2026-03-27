@@ -292,6 +292,6 @@ Lawsupport works with founders, CFOs, and legal teams to identify licensing requ
 ---
 
 **Lawsupport (Morgan Hartley Consulting)**
-Grafenauweg 4, Zug, Switzerland
+Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch

@@ -225,7 +225,7 @@ Whether you are pursuing a claim through the SchKG or defending against a Betrei
 
 **Morgan Hartley | Senior Corporate Lawyer & Partner**
 Lawsupport (Morgan Hartley Consulting GmbH)
-Grafenauweg 4, Zug, Switzerland
+Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 
 *Further reading: <a href="https://www.fedlex.admin.ch/eli/cc/11/529_488_529/en" target="_blank" rel="nofollow noopener">SchKG full text on Fedlex</a> | <a href="https://www.zefix.ch/" target="_blank" rel="nofollow noopener">Zefix Commercial Register</a> | <a href="https://www.seco.admin.ch/" target="_blank" rel="nofollow noopener">SECO business and company law resources</a>*

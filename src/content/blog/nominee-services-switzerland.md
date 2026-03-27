@@ -89,7 +89,7 @@ The annual fee (typically CHF 5'900 standard, CHF 7'400 premium) covers the dire
 
 Every Swiss company must have a registered address (Domizil) in Switzerland -- a physical address in the canton of registration that appears in the Commercial Register. This does not need to be operational office space.
 
-Lawsupport provides registered address services at Grafenauweg 4, Zug -- the company's mail is received and forwarded; the Zug address appears in the Commercial Register. The registered address in Zug is CHF 2'400 per year; a Zurich address costs CHF 3'000 per year. The registered address in Zug is CHF 2'400 per year; a Zurich address costs CHF 3'000 per year.
+Lawsupport provides registered address services at Baarerstrasse 135, 6300 Zug -- the company's mail is received and forwarded; the Zug address appears in the Commercial Register. The registered address in Zug is CHF 2'400 per year; a Zurich address costs CHF 3'000 per year. The registered address in Zug is CHF 2'400 per year; a Zurich address costs CHF 3'000 per year.
 
 **What a registered address is not:** A registered address is not an operational office. If the company employs staff, has client meetings, or stores inventory in Switzerland, it needs separate commercial premises. A registered address is only for the legal domicile requirement.
 
@@ -216,7 +216,7 @@ Whether you need a Swiss-resident nominee director, a registered address in Zug,
 [Request a Free Assessment](/contacts/)
 
 **Lawsupport (Morgan Hartley Consulting)**
-Grafenauweg 4, Zug, Switzerland
+Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch
 

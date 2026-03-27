@@ -273,6 +273,6 @@ Yes. Since 1 July 2022, same-sex spouses have the same access as opposite-sex sp
 ---
 
 **Lawsupport (Morgan Hartley Consulting)**
-Grafenauweg 4, Zug, Switzerland
+Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch

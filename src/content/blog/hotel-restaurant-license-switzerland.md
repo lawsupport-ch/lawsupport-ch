@@ -307,4 +307,4 @@ Lawsupport (Morgan Hartley Consulting) advises founders, operators, and investor
 
 - **Phone:** +41 44 51 52 592
 - **Email:** info@lawsupport.ch
-- **Address:** Grafenauweg 4, Zug, Switzerland
+- **Address:** Baarerstrasse 135, 6300 Zug, Switzerland

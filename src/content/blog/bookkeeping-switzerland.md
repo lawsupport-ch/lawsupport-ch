@@ -345,7 +345,7 @@ Unsure whether your Swiss company's bookkeeping meets Art. 957–963 CO requirem
 [Request a Free Assessment](/contacts/){: .btn .btn-primary}
 
 **Lawsupport (Morgan Hartley Consulting)**
-Grafenauweg 4, Zug, Switzerland
+Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592
 Email: info@lawsupport.ch
 We respond to all enquiries within one business day.
@@ -441,4 +441,4 @@ The ordinary statute of limitations for Swiss tax assessments is five years. In 
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

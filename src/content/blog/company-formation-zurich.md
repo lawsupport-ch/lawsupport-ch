@@ -359,7 +359,7 @@ We can form your company in Zurich if that is the right choice. We can form it i
 
 **Email:** info@lawsupport.ch
 **Phone:** +41 44 51 52 592
-**Address:** Grafenauweg 4, Zug, Switzerland
+**Address:** Baarerstrasse 135, 6300 Zug, Switzerland
 
 ---
 
@@ -419,6 +419,6 @@ Zurich is more expensive and more heavily taxed than some European locations (no
 
 ---
 
-*Morgan Hartley, Senior Corporate Lawyer & Partner — Lawsupport (Morgan Hartley Consulting) | Grafenauweg 4, Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley, Senior Corporate Lawyer & Partner — Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
 
 *[Request a Free Assessment](/contacts/)*
