@@ -206,10 +206,10 @@ document.getElementById("contact-form").addEventListener("submit", async (e) => 
 
   try {
     const [tgRes, emailRes] = await Promise.all([
-      fetch("https://api.telegram.org/bot7631912691:AAEKWZ-kOJRbVrHHGk-fFGnVrMKp5UxpJt0/sendMessage", {
+      fetch(`https://api.telegram.org/bot${import.meta.env.PUBLIC_TG_TOKEN}/sendMessage`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ chat_id: "7754740807", text: text })
+        body: JSON.stringify({ chat_id: import.meta.env.PUBLIC_TG_CHAT, text: text })
       }),
       fetch("https://formsubmit.co/ajax/info@goldblum.ch", {
         method: "POST",

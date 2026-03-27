@@ -14,6 +14,9 @@ jobs:
           node-version: 22
       - run: npm ci
       - run: npm run build
+        env:
+          PUBLIC_TG_TOKEN: ${{ secrets.PUBLIC_TG_TOKEN }}
+          PUBLIC_TG_CHAT: ${{ secrets.PUBLIC_TG_CHAT }}
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3
         with:
