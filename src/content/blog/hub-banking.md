@@ -54,7 +54,7 @@ tocItems:
     title: "Swiss Banking for International Clients"
   - id: "choosing-the-right-bank"
     title: "Choosing the Right Bank"
-  - id: "faq"
+  - id: "frequently-asked-questions"
     title: "Frequently Asked Questions"
 ---
 

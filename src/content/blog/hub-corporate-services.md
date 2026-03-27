@@ -52,7 +52,7 @@ tocItems:
     title: "Costs of Corporate Services"
   - id: "choosing-a-corporate-services-provider"
     title: "Choosing a Corporate Services Provider"
-  - id: "faq"
+  - id: "frequently-asked-questions"
     title: "Frequently Asked Questions"
 ---
 

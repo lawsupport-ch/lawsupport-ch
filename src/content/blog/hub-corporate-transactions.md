@@ -50,7 +50,7 @@ tocItems:
     title: "Employee Rights in Corporate Transactions"
   - id: "post-transaction-integration"
     title: "Post-Transaction Integration"
-  - id: "faq"
+  - id: "frequently-asked-questions"
     title: "Frequently Asked Questions"
 ---
 

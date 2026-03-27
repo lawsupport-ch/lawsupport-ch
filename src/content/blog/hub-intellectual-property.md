@@ -32,7 +32,7 @@ tocItems:
     title: "Swiss IP Protection Overview"
   - id: "the-ip-legal-framework"
     title: "The IP Legal Framework"
-  - id: "ige-ipi-the-swiss-ip-office"
+  - id: "igeipi-the-swiss-ip-office"
     title: "IGE/IPI: The Swiss IP Office"
   - id: "trademark-protection"
     title: "Trademark Protection"
@@ -52,7 +52,7 @@ tocItems:
     title: "Tax Benefits for IP Holders"
   - id: "common-ip-mistakes"
     title: "Common IP Mistakes"
-  - id: "faq"
+  - id: "frequently-asked-questions"
     title: "Frequently Asked Questions"
 ---
 

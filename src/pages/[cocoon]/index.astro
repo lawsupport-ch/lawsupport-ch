@@ -56,7 +56,16 @@ const schema = [
       { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://lawsupport.ch/" },
       { "@type": "ListItem", "position": 2, "name": meta.title, "item": `https://lawsupport.ch/${cocoon}/` }
     ]
-  }
+  },
+  ...(hubPost?.data.faqItems && hubPost.data.faqItems.length > 0 ? [{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": hubPost.data.faqItems.map(f => ({
+      "@type": "Question",
+      "name": f.question,
+      "acceptedAnswer": {"@type": "Answer", "text": f.answer}
+    }))
+  }] : [])
 ];
 ---
 
@@ -68,19 +77,84 @@ const schema = [
     </nav>
   </div>
 
-  <section class="section hub-hero">
+  <!-- Article Hero -->
+  <section class="article-hero">
     <div class="container">
-      <h1>{meta.title}</h1>
-      {hubPost ? (
-        <div class="hub-content">
-          <HubContent />
+      <div class="article-hero-grid">
+        <div class="article-hero-content">
+          <div class="article-meta">
+            <span class="article-date">{hubPost?.data.date} &bull; {hubPost?.data.readTime}</span>
+            <a href={`/${cocoon}/`} class="article-category">{meta.title}</a>
+          </div>
+          <h1>{meta.title}</h1>
+          {hubPost?.data.description && <p class="article-desc">{hubPost.data.description}</p>}
         </div>
-      ) : (
-        <p class="cocoon-lead">{meta.description}</p>
-      )}
+        <div class="article-hero-image">
+          <div class="article-hero-placeholder"></div>
+        </div>
+      </div>
     </div>
   </section>
 
+  <!-- Two-column: content + sidebar -->
+  <section class="article-section">
+    <div class="container">
+      <div class="article-layout">
+        <div class="article-content hub-content">
+          {hubPost ? <HubContent /> : <p class="cocoon-lead">{meta.description}</p>}
+        </div>
+        <aside class="article-sidebar">
+          {hubPost?.data.tocItems && hubPost.data.tocItems.length > 0 && (
+            <div class="toc">
+              <p class="sidebar-heading">Table of Contents</p>
+              <ul>
+                {hubPost.data.tocItems.map(item => (
+                  <li><a href={`#${item.id}`}>{item.title}</a></li>
+                ))}
+              </ul>
+            </div>
+          )}
+          <div class="sidebar-contact">
+            <p class="sidebar-heading">Contact Us</p>
+            <div class="sidebar-author">
+              <img src="/images/morgan-hartley-56.webp" alt="Morgan Hartley" width="56" height="56" loading="lazy" class="sidebar-avatar" />
+              <div class="sidebar-author-info">
+                <p>Morgan Hartley</p>
+                <span>Lawyer</span>
+              </div>
+            </div>
+            <div class="sidebar-contact-links">
+              <a href="tel:+41445152592" aria-label="Phone">
+                <img src="/icons/tel.svg" alt="Phone" width="18" height="18" style="width:18px;height:18px;display:inline-block" />
+              </a>
+              <a href="/contacts/" class="btn btn-red" style="padding:6px 16px;font-size:0.8rem;display:inline-block">Contact Us</a>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  {hubPost?.data.faqItems && hubPost.data.faqItems.length > 0 && (
+    <section class="section section-gray">
+      <div class="container">
+        <h2 class="section-title">FAQ</h2>
+        <div class="faq-list">
+          {hubPost.data.faqItems.map(item => (
+            <div class="faq-item">
+              <button class="faq-question">{item.question}</button>
+              <div class="faq-answer">
+                <div class="faq-answer-inner">{item.answer}</div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- L2 Cards: Explore by Topic -->
   {l2Articles.length > 0 && (
     <section class="section">
       <div class="container">
@@ -102,7 +176,7 @@ const schema = [
 </Base>
 
 <style>
-  .hub-content { max-width: 800px; line-height: 1.75; }
+  .hub-content { line-height: 1.75; }
   .hub-content :global(h2) { margin-top: 48px; margin-bottom: 16px; font-size: 1.5rem; }
   .hub-content :global(h3) { margin-top: 32px; margin-bottom: 12px; font-size: 1.2rem; }
   .hub-content :global(p) { margin-bottom: 16px; color: var(--gray-text); }
@@ -116,4 +190,40 @@ const schema = [
   .l2-card { border-left: 4px solid var(--red); }
   .l2-desc { font-size: 0.85rem; color: var(--gray-text); margin-top: 8px; }
   .section-title { margin-bottom: 32px; }
+  .sidebar-avatar {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  .faq-list { max-width: 800px; margin: 0 auto; }
 </style>
+
+<script>
+  document.querySelectorAll(".faq-question").forEach(btn => {
+    btn.addEventListener("click", () => {
+      const item = btn.parentElement;
+      item?.classList.toggle("active");
+    });
+  });
+
+  const tocLinks = document.querySelectorAll(".toc a");
+  if (tocLinks.length > 0) {
+    const headings = Array.from(tocLinks).map(link => {
+      const id = link.getAttribute("href")?.slice(1);
+      return id ? document.getElementById(id) : null;
+    }).filter(Boolean) as HTMLElement[];
+
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          tocLinks.forEach(l => l.classList.remove("active"));
+          const active = document.querySelector(`.toc a[href="#${entry.target.id}"]`);
+          active?.classList.add("active");
+        }
+      });
+    }, { rootMargin: "-80px 0px -60% 0px" });
+
+    headings.forEach(h => observer.observe(h));
+  }
+</script>

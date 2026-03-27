@@ -52,7 +52,7 @@ tocItems:
     title: "Employer Obligations for Foreign Workers"
   - id: "practical-considerations-for-employers"
     title: "Practical Considerations for Employers"
-  - id: "faq"
+  - id: "frequently-asked-questions"
     title: "Frequently Asked Questions"
 ---
 
