@@ -1,7 +1,7 @@
 ---
 title: "Swiss Citizenship by Investment: What Exists (2026)"
 description: "Switzerland has no citizenship by investment programme. What wealthy foreign nationals can do: lump-sum tax, naturalisation, and the real timeline."
-date: "19.03.2026"
+date: "04.07.2026"
 publishDate: "2026-07-04"
 category: "Immigration"
 categoryHref: "/immigration/"

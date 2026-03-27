@@ -1,7 +1,7 @@
 ---
 title: "Top Private Banks in Switzerland (2026)"
 description: "Top Swiss private banks for wealth management in 2026: Pictet, Lombard Odier, Julius Baer, UBP, Vontobel — AUM, minimums, services, and how to choose."
-date: "19.03.2026"
+date: "07.08.2026"
 publishDate: "2026-08-07"
 category: "Banking & Finance"
 categoryHref: "/banking/"

@@ -1,7 +1,7 @@
 ---
 title: "Immigrate to Switzerland from the US (2026)"
 description: "How Americans can move to Switzerland: work permits, retirement via lump-sum taxation, FATCA banking issues, US tax obligations, and realistic pathways."
-date: "19.03.2026"
+date: "13.04.2026"
 publishDate: "2026-04-13"
 category: "Immigration"
 categoryHref: "/immigration/"

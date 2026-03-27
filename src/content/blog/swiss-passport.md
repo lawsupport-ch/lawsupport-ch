@@ -1,7 +1,7 @@
 ---
 title: "Swiss Passport: How to Get One in 2026"
 description: "The Swiss passport grants visa-free access to 186+ countries. The only route is Swiss citizenship. Requirements, timelines and costs explained."
-date: "19.03.2026"
+date: "16.07.2026"
 publishDate: "2026-07-16"
 category: "Immigration"
 categoryHref: "/immigration/"

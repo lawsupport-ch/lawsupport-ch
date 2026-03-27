@@ -1,7 +1,7 @@
 ---
 title: "Nominee Shareholder Switzerland: Rules & Risks (2026)"
 description: "Nominee shareholders in Switzerland: what Swiss law says, beneficial owner disclosure under TOBA, transparency requirements and legal alternatives explained."
-date: "19.03.2026"
+date: "11.05.2026"
 publishDate: "2026-05-11"
 category: "Company Formation"
 categoryHref: "/company-formation/"

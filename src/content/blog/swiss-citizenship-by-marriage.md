@@ -1,7 +1,7 @@
 ---
 title: "Swiss Citizenship by Marriage: Requirements (2026)"
 description: "Foreign spouses of Swiss citizens can naturalise in 1-2 years via facilitated naturalisation. Requirements, costs, timeline, and common pitfalls explained."
-date: "19.03.2026"
+date: "06.07.2026"
 publishDate: "2026-07-06"
 category: "Immigration"
 categoryHref: "/immigration/"

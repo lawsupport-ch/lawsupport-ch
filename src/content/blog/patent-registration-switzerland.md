@@ -1,7 +1,7 @@
 ---
 title: "Patent Registration Switzerland: How to File (2026)"
 description: "How to register a patent in Switzerland through the IPI or EPO route, including costs, timelines, PCT applications and links to the Swiss IP Box regime."
-date: "19.03.2026"
+date: "17.05.2026"
 publishDate: "2026-05-17"
 category: "IP & Commercial Law"
 categoryHref: "/intellectual-property/"

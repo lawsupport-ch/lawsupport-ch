@@ -1,7 +1,7 @@
 ---
 title: "M&A Switzerland: Legal Process & Key Steps (2026)"
 description: "Swiss M&A process: share deal vs asset deal, due diligence, SPA key terms, regulatory approvals, closing conditions, and post-closing obligations explained."
-date: "19.03.2026"
+date: "05.05.2026"
 publishDate: "2026-05-05"
 category: "Corporate Transactions"
 categoryHref: "/corporate-transactions/"

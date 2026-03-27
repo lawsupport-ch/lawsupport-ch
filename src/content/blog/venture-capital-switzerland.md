@@ -1,7 +1,7 @@
 ---
 title: "Venture Capital Switzerland: VC Funding Guide (2026)"
 description: "Venture capital in Switzerland: leading VC firms, startup financing stages, AG structure for VC rounds, ESOP taxation, and Zug as a startup hub. Lawsupport."
-date: "19.03.2026"
+date: "19.08.2026"
 publishDate: "2026-08-19"
 category: "Corporate Transactions"
 categoryHref: "/corporate-transactions/"

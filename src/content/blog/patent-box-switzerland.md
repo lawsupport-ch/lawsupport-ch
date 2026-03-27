@@ -1,7 +1,7 @@
 ---
 title: "Patent Box Switzerland: IP Tax Reduction (2026)"
 description: "Swiss Patent Box regime allows up to 90% reduction on qualifying IP income at cantonal level. How the IP Box works, who qualifies and how to claim."
-date: "19.03.2026"
+date: "15.05.2026"
 publishDate: "2026-05-15"
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"

@@ -1,7 +1,7 @@
 ---
 title: "Swiss Social Insurance: AHV, IV, BVG Contributions"
 description: "Switzerland's three-pillar social insurance system explained: AHV, IV, BVG pension, accident insurance, and unemployment. Contribution rates for 2026."
-date: "19.03.2026"
+date: "31.05.2026"
 publishDate: "2026-05-31"
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"

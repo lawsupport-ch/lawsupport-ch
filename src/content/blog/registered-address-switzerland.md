@@ -1,7 +1,7 @@
 ---
 title: "Registered Address Switzerland: Domicile Services (2026)"
 description: "Every Swiss AG and GmbH needs a registered domicile. Professional registered address services in Zug (CHF 2'400/year) with mail handling and forwarding."
-date: "19.03.2026"
+date: "23.05.2026"
 publishDate: "2026-05-23"
 category: "Company Administration"
 categoryHref: "/corporate-services/"

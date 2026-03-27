@@ -1,7 +1,7 @@
 ---
 title: "Swiss Bank Account Online: Open Remotely or Digitally (2026)"
 description: "How to open a Swiss bank account online in 2026. Digital neobanks, remote video KYC at traditional banks, and realistic options for residents and non-residents."
-date: "19.03.2026"
+date: "20.06.2026"
 publishDate: "2026-06-20"
 category: "Banking & Finance"
 categoryHref: "/banking/"

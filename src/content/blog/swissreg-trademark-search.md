@@ -1,7 +1,7 @@
 ---
 title: "Swissreg Trademark Search: Swiss IP Register Guide"
 description: "How to search Swissreg for Swiss trademarks: step-by-step guide to the IGE/IPI database, search types, reading results, and what to do before filing."
-date: "19.03.2026"
+date: "28.07.2026"
 publishDate: "2026-07-28"
 category: "IP & Commercial Law"
 categoryHref: "/intellectual-property/"

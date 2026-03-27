@@ -1,7 +1,7 @@
 ---
 title: "Nominee Services Switzerland: Full Guide (2026)"
 description: "Swiss nominee director, shareholder and registered address services explained: what is permitted, disclosure rules and how arrangements work in practice."
-date: "19.03.2026"
+date: "09.05.2026"
 publishDate: "2026-05-09"
 category: "Company Formation"
 categoryHref: "/company-formation/"

@@ -1,7 +1,7 @@
 ---
 title: "Swiss Tax Residency: Rules & Requirements"
 description: "How Swiss tax residency works: the 90-day and 30-day rules, deemed residency, domicile vs habitual residence, and how to establish or exit Swiss tax residency."
-date: "19.03.2026"
+date: "01.08.2026"
 publishDate: "2026-08-01"
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"

@@ -1,7 +1,7 @@
 ---
 title: "Payroll Switzerland: Rates & Obligations (2026)"
 description: "Swiss payroll explained: AHV/IV/EO, BVG, UVG, source tax (Quellensteuer), 13th month salary and employer registration with current 2026 rates and thresholds."
-date: "19.03.2026"
+date: "19.05.2026"
 publishDate: "2026-05-19"
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"

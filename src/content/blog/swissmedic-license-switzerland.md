@@ -1,7 +1,7 @@
 ---
 title: "Swissmedic Licence: Pharma & Device Authorisation"
 description: "Swissmedic licensing for pharmaceuticals and medical devices in Switzerland: marketing authorisation, manufacturing licence, and MDR compliance."
-date: "19.03.2026"
+date: "26.07.2026"
 publishDate: "2026-07-26"
 category: "Licensing & Permits"
 categoryHref: "/licensing/"

@@ -1,7 +1,7 @@
 ---
 title: "Private Banking Switzerland: How It Works (2026)"
 description: "Swiss private banking for HNWIs: minimum AUM thresholds, services offered, top private banks and how to open a private banking relationship."
-date: "19.03.2026"
+date: "21.05.2026"
 publishDate: "2026-05-21"
 category: "Banking & Finance"
 categoryHref: "/banking/"

@@ -1,7 +1,7 @@
 ---
 title: "Swiss Association (Verein): Formation & Structure"
 description: "How to form a Swiss Verein (association) under Art. 60 ZGB: requirements, governance, tax status, and when an association is the right structure for 2026."
-date: "19.03.2026"
+date: "12.06.2026"
 publishDate: "2026-06-12"
 category: "Company Formation"
 categoryHref: "/company-formation/"

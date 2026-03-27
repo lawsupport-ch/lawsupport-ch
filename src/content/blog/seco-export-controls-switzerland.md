@@ -1,7 +1,7 @@
 ---
 title: "SECO Export Controls: Dual-Use Goods & Sanctions"
 description: "Swiss SECO export controls: dual-use goods permits, war materiel licences, sanctions compliance under the Goods Control Act."
-date: "19.03.2026"
+date: "27.05.2026"
 publishDate: "2026-05-27"
 category: "Licensing & Permits"
 categoryHref: "/licensing/"

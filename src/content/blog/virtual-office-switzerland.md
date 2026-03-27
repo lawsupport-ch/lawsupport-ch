@@ -1,7 +1,7 @@
 ---
 title: "Virtual Office Switzerland: Zug Business Address"
 description: "Virtual office in Switzerland from CHF 2'400/year. Professional Zug business address, mail handling, and company domicile for your Swiss AG or GmbH."
-date: "19.03.2026"
+date: "21.08.2026"
 publishDate: "2026-08-21"
 category: "Company Administration"
 categoryHref: "/corporate-services/"

@@ -1,7 +1,7 @@
 ---
 title: "Employment Termination Switzerland: Notice & Rights"
 description: "Swiss employment termination: statutory notice periods, wrongful dismissal, severance pay, protected periods, and summary dismissal rules under the OR."
-date: "19.03.2026"
+date: "05.08.2026"
 publishDate: "2026-08-05"
 category: "Employment Law"
 categoryHref: "/employment-law/"

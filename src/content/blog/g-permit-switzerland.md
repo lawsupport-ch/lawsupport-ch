@@ -1,7 +1,7 @@
 ---
 title: "G Permit Switzerland: Cross-Border Commuter Guide"
 description: "Swiss G permit (Grenzgängerausweis) for cross-border commuters: who qualifies, border zone rules, tax implications, and how to apply in 2026."
-date: "19.03.2026"
+date: "30.03.2026"
 publishDate: "2026-03-30"
 category: "Immigration"
 categoryHref: "/immigration/"

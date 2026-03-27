@@ -1,7 +1,7 @@
 ---
 title: "Advance Tax Ruling Switzerland: Process & Costs"
 description: "Swiss advance tax rulings (Steuerruling): how to get binding confirmation from cantonal tax authorities, what they cover, timelines, and costs in Zug."
-date: "19.03.2026"
+date: "03.08.2026"
 publishDate: "2026-08-03"
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"

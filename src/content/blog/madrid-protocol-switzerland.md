@@ -1,7 +1,7 @@
 ---
 title: "Madrid Protocol Switzerland: Trademark Filing (2026)"
 description: "Using the Madrid Protocol for international trademark registration from Switzerland: filing through IPI and WIPO, fees, designated countries, and risks."
-date: "19.03.2026"
+date: "03.05.2026"
 publishDate: "2026-05-03"
 category: "IP & Commercial Law"
 categoryHref: "/intellectual-property/"

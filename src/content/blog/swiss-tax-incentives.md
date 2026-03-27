@@ -1,7 +1,7 @@
 ---
 title: "Swiss Tax Incentives: IP Box, R&D, NID (2026)"
 description: "Swiss corporate tax incentives in 2026 include the IP box (patent box), R&D super-deduction, and notional interest deduction. Qualification rules explained."
-date: "19.03.2026"
+date: "18.07.2026"
 publishDate: "2026-07-18"
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"

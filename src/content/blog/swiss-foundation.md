@@ -1,7 +1,7 @@
 ---
 title: "Swiss Foundation: Formation & Requirements (2026)"
 description: "How to form a Swiss foundation (Stiftung) in 2026. Types, formation steps, supervisory authorities, tax treatment, and why Zug leads for crypto foundations."
-date: "19.03.2026"
+date: "10.07.2026"
 publishDate: "2026-07-10"
 category: "Company Formation"
 categoryHref: "/company-formation/"

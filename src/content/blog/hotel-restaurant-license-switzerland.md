@@ -1,7 +1,7 @@
 ---
 title: "Hotel & Restaurant License Switzerland (2026)"
 description: "Opening a restaurant or hotel in Switzerland: Wirtepatent rules, food safety, alcohol permit, HACCP, and L-GAV labour law explained."
-date: "19.03.2026"
+date: "07.04.2026"
 publishDate: "2026-04-07"
 category: "Licensing & Permits"
 categoryHref: "/licensing/"

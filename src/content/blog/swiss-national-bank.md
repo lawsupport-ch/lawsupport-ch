@@ -1,7 +1,7 @@
 ---
 title: "Swiss National Bank (SNB): Role, Functions & Policy (2026)"
 description: "The Swiss National Bank (SNB) manages monetary policy, interest rates, and foreign exchange reserves. Learn about its role in Swiss financial stability."
-date: "19.03.2026"
+date: "12.07.2026"
 publishDate: "2026-07-12"
 category: "Banking & Finance"
 categoryHref: "/banking/"

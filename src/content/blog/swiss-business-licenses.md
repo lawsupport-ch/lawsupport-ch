@@ -1,7 +1,7 @@
 ---
 title: "Swiss Business Licences & Permits: Company Guide (2026)"
 description: "What business licences and permits does a Swiss company need? Industry-specific requirements for finance, healthcare, food, construction and more."
-date: "19.03.2026"
+date: "28.06.2026"
 publishDate: "2026-06-28"
 category: "Licensing & Permits"
 categoryHref: "/licensing/"

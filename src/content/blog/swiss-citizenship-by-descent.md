@@ -1,7 +1,7 @@
 ---
 title: "Swiss Citizenship by Descent: Parents & Grandparents (2026)"
 description: "Switzerland transmits citizenship by blood, not birthplace. Find out if you hold Swiss citizenship through a parent or grandparent and what to do."
-date: "19.03.2026"
+date: "02.07.2026"
 publishDate: "2026-07-02"
 category: "Immigration"
 categoryHref: "/immigration/"

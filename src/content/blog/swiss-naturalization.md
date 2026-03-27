@@ -1,7 +1,7 @@
 ---
 title: "Swiss Naturalization: Requirements & Process (2026)"
 description: "Swiss ordinary naturalization requires 10 years residence, a C permit, and integration proof. Three-level approval process explained step by step."
-date: "19.03.2026"
+date: "14.07.2026"
 publishDate: "2026-07-14"
 category: "Immigration"
 categoryHref: "/immigration/"

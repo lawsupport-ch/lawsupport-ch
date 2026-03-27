@@ -1,7 +1,7 @@
 ---
 title: "Swiss Bank Account: Guide for Foreigners (2026)"
 description: "Open a Swiss bank account as a foreigner or non-resident. Requirements, documents, timelines, and which banks accept foreign applicants in 2026."
-date: "19.03.2026"
+date: "14.06.2026"
 publishDate: "2026-06-14"
 category: "Banking & Finance"
 categoryHref: "/banking/"

@@ -1,7 +1,7 @@
 ---
 title: "Swiss Bank Interest Rates: Savings & Deposits (2026)"
 description: "Current Swiss bank account interest rates for 2026: CHF savings accounts, fixed deposits, notice accounts at major Swiss banks. SNB policy rate impact."
-date: "19.03.2026"
+date: "16.06.2026"
 publishDate: "2026-06-16"
 category: "Banking & Finance"
 categoryHref: "/banking/"

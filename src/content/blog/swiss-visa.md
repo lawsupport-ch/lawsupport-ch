@@ -1,7 +1,7 @@
 ---
 title: "Swiss Visa: Types, Requirements & Process"
 description: "Swiss visa types explained for 2026: Schengen C visa for short stays up to 90 days, national D visa for longer stays, and visa-free entry requirements."
-date: "19.03.2026"
+date: "22.07.2026"
 publishDate: "2026-07-22"
 category: "Immigration"
 categoryHref: "/immigration/"

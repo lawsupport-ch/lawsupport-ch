@@ -1,7 +1,7 @@
 ---
 title: "Swiss Work Permit for EU/EEA Nationals (2026)"
 description: "EU and EEA nationals working in Switzerland benefit from the AFMP free movement agreement. L permit, B permit, and registration process explained."
-date: "19.03.2026"
+date: "24.07.2026"
 publishDate: "2026-07-24"
 category: "Immigration"
 categoryHref: "/immigration/"

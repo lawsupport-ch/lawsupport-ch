@@ -1,7 +1,7 @@
 ---
 title: "Swiss Tax Structuring: Holding, IP & Trading (2026)"
 description: "Swiss international tax structures in 2026: holding companies, IP box, trading companies, treasury centres, and how Switzerland fits into group structures."
-date: "19.03.2026"
+date: "19.04.2026"
 publishDate: "2026-04-19"
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"

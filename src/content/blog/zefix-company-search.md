@@ -1,7 +1,7 @@
 ---
 title: "ZEFIX: Swiss Company Search — Complete Guide (2026)"
 description: "How to use ZEFIX to search Swiss companies for free. Find registered entities, download extracts, verify UID numbers, and conduct due diligence."
-date: "19.03.2026"
+date: "31.08.2026"
 publishDate: "2026-08-31"
 category: "Company Formation"
 categoryHref: "/company-formation/"

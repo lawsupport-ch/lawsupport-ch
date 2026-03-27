@@ -1,7 +1,7 @@
 ---
 title: "Swiss Banks List: Major Banks in Switzerland (2026)"
 description: "Major Swiss banks by category: UBS, cantonal banks, private banks, Raiffeisen and specialist institutions. FINMA-regulated with AUM and key details."
-date: "19.03.2026"
+date: "26.06.2026"
 publishDate: "2026-06-26"
 category: "Banking & Finance"
 categoryHref: "/banking/"

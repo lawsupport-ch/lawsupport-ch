@@ -1,7 +1,7 @@
 ---
 title: "Joint Venture Switzerland: Structures & Law (2026)"
 description: "Setting up a joint venture in Switzerland: contractual JV, company JV (AG/GmbH), governance essentials, and tax treatment. Practical legal guidance for 2026."
-date: "19.03.2026"
+date: "23.04.2026"
 publishDate: "2026-04-23"
 category: "Company Formation"
 categoryHref: "/company-formation/"

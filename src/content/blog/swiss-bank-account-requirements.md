@@ -1,7 +1,7 @@
 ---
 title: "Swiss Bank Account Requirements & Minimum Balance (2026)"
 description: "What Swiss banks require to open an account in 2026: documents, minimum balances, KYC rules, and common rejection reasons. Practical guide from Lawsupport, Zug."
-date: "19.03.2026"
+date: "22.06.2026"
 publishDate: "2026-06-22"
 category: "Banking & Finance"
 categoryHref: "/banking/"

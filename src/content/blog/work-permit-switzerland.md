@@ -1,7 +1,7 @@
 ---
 title: "Work Permit Switzerland: Types & Requirements"
 description: "Swiss work permits explained for 2026: L, B, C and G permits, EU vs non-EU rules, annual quotas, employer obligations, priority check, and application timelines."
-date: "19.03.2026"
+date: "27.08.2026"
 publishDate: "2026-08-27"
 category: "Immigration"
 categoryHref: "/immigration/"

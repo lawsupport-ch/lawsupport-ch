@@ -1,7 +1,7 @@
 ---
 title: "Swiss Accounting Software: Top Options for Companies (2026)"
 description: "Best accounting software for Swiss companies in 2026: Abacus, Sage, Bexio, Banana, Topal. Swiss VAT, payroll, and OR compliance features compared."
-date: "19.03.2026"
+date: "10.06.2026"
 publishDate: "2026-06-10"
 category: "Company Administration"
 categoryHref: "/corporate-services/"

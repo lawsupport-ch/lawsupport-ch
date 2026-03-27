@@ -1,7 +1,7 @@
 ---
 title: "How to Start a Business in Switzerland: Full Guide (2026)"
 description: "Step-by-step guide to starting a business in Switzerland in 2026. Entity types, cantons, capital, notarisation, timelines, costs, and banking explained."
-date: "19.03.2026"
+date: "08.06.2026"
 publishDate: "2026-06-08"
 category: "Company Formation"
 categoryHref: "/company-formation/"

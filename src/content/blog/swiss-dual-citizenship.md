@@ -1,7 +1,7 @@
 ---
 title: "Swiss Dual Citizenship: Rules & Rights (2026)"
 description: "Switzerland has allowed dual citizenship since 1992. Keep your existing passport when naturalising Swiss. Full rules, exceptions and practical implications."
-date: "19.03.2026"
+date: "08.07.2026"
 publishDate: "2026-07-08"
 category: "Immigration"
 categoryHref: "/immigration/"

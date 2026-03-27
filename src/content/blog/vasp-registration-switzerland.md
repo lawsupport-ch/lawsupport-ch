@@ -1,7 +1,7 @@
 ---
 title: "VASP Registration Switzerland: SRO Guide (2026)"
 description: "VASP registration in Switzerland under AMLA: SRO membership, VQF application process, AML compliance costs from CHF 3,000, and timelines. Lawsupport, Zug."
-date: "19.03.2026"
+date: "13.08.2026"
 publishDate: "2026-08-13"
 category: "Licensing & Permits"
 categoryHref: "/licensing/"

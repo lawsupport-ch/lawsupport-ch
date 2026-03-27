@@ -1,7 +1,7 @@
 ---
 title: "Work Permit Non-EU Switzerland: Quota Guide (2026)"
 description: "How non-EU nationals get Swiss work permits in 2026: federal quota system, priority check, employer sponsorship, salary requirements, and realistic timelines."
-date: "19.03.2026"
+date: "25.08.2026"
 publishDate: "2026-08-25"
 category: "Immigration"
 categoryHref: "/immigration/"
