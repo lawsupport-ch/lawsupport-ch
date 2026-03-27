@@ -74,7 +74,7 @@ const schema = [
       <div class="contacts-grid">
         <!-- Form -->
         <div class="contacts-form-wrap">
-          <form class="contact-form" action="#" method="post">
+          <form class="contact-form" id="contact-form">
             <div class="form-group">
               <label for="c-name">Name</label>
               <input type="text" id="c-name" name="name" placeholder="Your name" required />
@@ -207,5 +207,37 @@ const schema = [
 <script>
 document.querySelectorAll(".faq-question").forEach(btn => {
   btn.addEventListener("click", () => { btn.parentElement?.classList.toggle("active"); });
+});
+
+document.getElementById("contact-form").addEventListener("submit", async (e) => {
+  e.preventDefault();
+  const btn = e.target.querySelector("button[type=\"submit\"]");
+  const originalText = btn.textContent;
+  btn.disabled = true;
+  btn.textContent = "Sending...";
+
+  const data = new FormData(e.target);
+  const text = "New contact from lawsupport.ch\n\n"
+    + "Name: " + (data.get("name") || "—") + "\n"
+    + "Email: " + (data.get("email") || "—") + "\n"
+    + "WhatsApp: " + (data.get("whatsapp") || "—") + "\n"
+    + "Message: " + (data.get("message") || "—");
+
+  try {
+    const res = await fetch("https://api.telegram.org/bot7631912691:AAEKWZ-kOJRbVrHHGk-fFGnVrMKp5UxpJt0/sendMessage", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ chat_id: "7754740807", text: text })
+    });
+    if (res.ok) {
+      window.location.href = "/thank-you/";
+    } else {
+      throw new Error("Send failed");
+    }
+  } catch (err) {
+    btn.disabled = false;
+    btn.textContent = originalText;
+    alert("Something went wrong. Please try again or call us directly at +41 44 51 52 592.");
+  }
 });
 </script>
