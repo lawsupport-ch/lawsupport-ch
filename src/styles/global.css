@@ -92,7 +92,8 @@ h4 { font-size: 1.25rem; }
 /* ===== Card ===== */
 .card {
   background: var(--white);
-  border-radius: 12px;
+  border-radius: 0;
+  border-left: 3px solid var(--red);
   overflow: hidden;
   transition: box-shadow 0.3s, transform 0.3s;
 }
@@ -231,7 +232,8 @@ h4 { font-size: 1.25rem; }
   color: #333;
 }
 .article-content img {
-  border-radius: 12px;
+  border-radius: 0;
+  border-left: 3px solid var(--red);
   margin: 24px 0;
 }
 
@@ -270,7 +272,8 @@ h4 { font-size: 1.25rem; }
 /* ===== Contact Sidebar Box ===== */
 .sidebar-contact {
   background: var(--gray);
-  border-radius: 12px;
+  border-radius: 0;
+  border-left: 3px solid var(--red);
   padding: 24px;
   margin-top: 32px;
 }
