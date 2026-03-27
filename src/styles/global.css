@@ -405,6 +405,11 @@ h4 { font-size: 1.25rem; }
   }
 }
 
+
+.sidebar-author-info .sidebar-tagline {
+  display: block;
+  margin-top: 4px;
+}
 .sidebar-tagline {
   font-size: 0.82rem;
   color: var(--gray-text);
