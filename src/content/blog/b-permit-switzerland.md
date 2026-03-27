@@ -300,7 +300,7 @@ Yes, subject to conditions. EU/EFTA nationals can bring their spouse and depende
 
 **How much money do I need to move to Switzerland on a B permit?**
 
-This depends on your route. For **employed applicants**: your salary must meet Swiss market standards, and you need first/last month rent plus deposit (typically three months' rent = CHF 4'500-9'000 for a one-bedroom). For **self-employed non-EU applicants**: personal liquidity of at least CHF 500'000 and Swiss business capitalisation of CHF 500'000-1'000'000 are practical minimums. Regardless of route, budget for: mandatory health insurance (CHF 400-700/month), AHV social contributions (approximately 10% of self-employment income), and the residence permit support retainer (CHF 3'500 with Lawsupport, plus CHF 150-450/hour for additional work).
+This depends on your route. For **employed applicants**: your salary must meet Swiss market standards, and you need first/last month rent plus deposit (typically three months' rent = CHF 4'500-9'000 for a one-bedroom). For **self-employed non-EU applicants**: personal liquidity of at least CHF 500'000 and Swiss business capitalisation of CHF 500'000-1'000'000 are practical minimums. Regardless of route, budget for: mandatory health insurance (CHF 400-700/month), AHV social contributions (approximately 10% of self-employment income), and the residence permit support retainer (CHF 3'500 with Morgan Hartley Consulting, plus CHF 150-450/hour for additional work).
 
 For a broader overview, see our guide to [Swiss Work & Residence Permits](/immigration/swiss-work-residence-permits/).
 
@@ -350,7 +350,7 @@ Yes. The [L permit](/immigration/l-permit-switzerland/) (Kurzaufenthaltsbewillig
 
 Switzerland's immigration framework has significant complexity, particularly for entrepreneurs and non-EU nationals. A weak business plan, an incomplete dossier, or an application filed in the wrong canton can cost months and, in some cases, result in refusal.
 
-At Lawsupport (Morgan Hartley Consulting), we have assisted clients from more than 40 countries in establishing legal residence in Switzerland. With 18+ years of experience and over 1,000 company formations to our name, we know what cantonal migration authorities look for, how to structure a self-employment case that holds up to scrutiny, and how to run the company formation and permit process together without either holding the other back.
+At Morgan Hartley Consulting (Morgan Hartley Consulting), we have assisted clients from more than 40 countries in establishing legal residence in Switzerland. With 18+ years of experience and over 1,000 company formations to our name, we know what cantonal migration authorities look for, how to structure a self-employment case that holds up to scrutiny, and how to run the company formation and permit process together without either holding the other back.
 
 **We handle:**
 - B permit applications for employed and self-employed foreign nationals
@@ -363,12 +363,12 @@ At Lawsupport (Morgan Hartley Consulting), we have assisted clients from more th
 
 ---
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: [+41 44 51 52 592](tel:+41445152592)
 Email: [info@lawsupport.ch](mailto:info@lawsupport.ch)
 
-*Senior Corporate Lawyer & Partner: Morgan Hartley | Lawsupport (Morgan Hartley Consulting)*
+*Senior Corporate Lawyer & Partner: Morgan Hartley | Morgan Hartley Consulting (Morgan Hartley Consulting)*
 
 <!-- SCHEMA:START -->
 <!--
@@ -388,7 +388,7 @@ Email: [info@lawsupport.ch](mailto:info@lawsupport.ch)
         "jobTitle": "Senior Corporate Lawyer & Partner",
         "worksFor": {
           "@type": "LegalService",
-          "name": "Lawsupport (Morgan Hartley Consulting)",
+          "name": "Morgan Hartley Consulting (Morgan Hartley Consulting)",
           "address": {
             "@type": "PostalAddress",
             "streetAddress": "Baarerstrasse 135",
@@ -403,7 +403,7 @@ Email: [info@lawsupport.ch](mailto:info@lawsupport.ch)
       },
       "publisher": {
         "@type": "LegalService",
-        "name": "Lawsupport (Morgan Hartley Consulting)",
+        "name": "Morgan Hartley Consulting (Morgan Hartley Consulting)",
         "url": "https://lawsupport.ch"
       },
       "mainEntityOfPage": {

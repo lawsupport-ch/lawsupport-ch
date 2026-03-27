@@ -37,7 +37,7 @@ tocItems:
   - id: "the-friction-points-most-founders-miss"
     title: "The Friction Points Most Founders Miss"
   - id: "how-lawsupport-can-help"
-    title: "How Lawsupport Can Help"
+    title: "How Morgan Hartley Consulting Can Help"
 faqItems:
   - question: "Do we really need to pay CHF 1'400 per year for a dormant company with zero activity?"
     answer: "Yes. Art. 957 OR does not exempt dormant companies. Annual statements and a corporate tax return are required every year. Skip it and the cantonal authority issues estimated assessments with 3% annual interest, and the company cannot be liquidated."
@@ -343,9 +343,9 @@ The Massgeblichkeitsprinzip means commercial accounting choices feed directly in
 
 ---
 
-## How Lawsupport Can Help
+## How Morgan Hartley Consulting Can Help
 
-Lawsupport (Morgan Hartley Consulting) advises Swiss and international clients on accounting obligations, audit structuring, standard selection, and the practical interaction between commercial accounting and Swiss tax. Whether you are setting up a new entity, working through a complex group structure, or dealing with a backlog of unfiled accounts, our team in Zug works with you directly — no unnecessary intermediaries, no generic checklists.
+Morgan Hartley Consulting (Morgan Hartley Consulting) advises Swiss and international clients on accounting obligations, audit structuring, standard selection, and the practical interaction between commercial accounting and Swiss tax. Whether you are setting up a new entity, working through a complex group structure, or dealing with a backlog of unfiled accounts, our team in Zug works with you directly — no unnecessary intermediaries, no generic checklists.
 
 ---
 
@@ -353,11 +353,11 @@ Lawsupport (Morgan Hartley Consulting) advises Swiss and international clients o
 
 **Request a Free Assessment**
 
-Unsure whether your Swiss accounting structure is compliant? Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
+Unsure whether your Swiss accounting structure is compliant? Morgan Hartley, Senior Corporate Lawyer & Partner at Morgan Hartley Consulting, reviews your situation and sets out the steps needed — without obligation.
 
 [Request a Free Assessment](/contacts/)
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch

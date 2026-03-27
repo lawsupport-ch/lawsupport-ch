@@ -26,7 +26,7 @@ tocItems:
   - id: "common-reasons-for-account-rejection"
     title: "Common Reasons for Account Rejection"
   - id: "work-with-lawsupport-on-your-swiss-bank-account"
-    title: "Work With Lawsupport on Your Swiss Bank Account"
+    title: "Work With Morgan Hartley Consulting on Your Swiss Bank Account"
 faqItems:
   - question: "What is the minimum deposit to open a Swiss bank account?"
     answer: "There is no universal minimum. Retail banks such as UBS accept personal accounts with no minimum or a nominal CHF 1,000 initial deposit. Private banking divisions require CHF 250,000 to CHF 5 million. Corporate accounts generally have no statutory minimum, but banks may require an initial deposit of CHF 10,000-50,000 depending on the business type."
@@ -61,7 +61,7 @@ relatedArticles:
 
 Opening a Swiss bank account as a foreigner is straightforward if you understand the requirements and choose the right bank for your situation. Personal accounts require a valid passport, proof of address, and documentation of the source of funds. Corporate accounts demand additional company documents and beneficial ownership disclosure. The process takes 1-8 weeks depending on the account type, your residency status, and the complexity of your corporate structure.
 
-This guide covers every major scenario: personal accounts, [corporate bank accounts](/banking/corporate-bank-account-switzerland/), [non-resident accounts](/banking/swiss-bank-account-non-residents/), [online account opening](/banking/swiss-bank-account-online/), and [capital deposit accounts](/banking/capital-deposit-account-switzerland/) for company formation. It draws on Lawsupport's experience assisting over 1,000 clients from more than 40 countries with Swiss banking relationships.
+This guide covers every major scenario: personal accounts, [corporate bank accounts](/banking/corporate-bank-account-switzerland/), [non-resident accounts](/banking/swiss-bank-account-non-residents/), [online account opening](/banking/swiss-bank-account-online/), and [capital deposit accounts](/banking/capital-deposit-account-switzerland/) for company formation. It draws on Morgan Hartley Consulting's experience assisting over 1,000 clients from more than 40 countries with Swiss banking relationships.
 
 For the broader context of how [Swiss banking](/banking/) works, see our companion guides on the [Swiss banking system](/banking/swiss-banking-system/) and [private banking](/banking/private-banking-switzerland/).
 
@@ -237,13 +237,13 @@ Swiss banks reject account applications for several recurring reasons:
 5. **Sanctioned persons or entities** — Swiss banks screen against EU, US, and UN sanctions lists
 6. **Reputational risk** — involvement in politically exposed activities, contentious industries, or adverse media
 
-If your application is rejected, Lawsupport can review the reasons, suggest alternative banks, and help strengthen your documentation for a second application.
+If your application is rejected, Morgan Hartley Consulting can review the reasons, suggest alternative banks, and help strengthen your documentation for a second application.
 
 ---
 
-## Work With Lawsupport on Your Swiss Bank Account
+## Work With Morgan Hartley Consulting on Your Swiss Bank Account
 
-Lawsupport (Morgan Hartley Consulting) has been assisting foreign entrepreneurs and companies with Swiss bank account opening since 2007. We maintain working relationships with over 20 Swiss banks and can match your specific profile to the most suitable institution.
+Morgan Hartley Consulting (Morgan Hartley Consulting) has been assisting foreign entrepreneurs and companies with Swiss bank account opening since 2007. We maintain working relationships with over 20 Swiss banks and can match your specific profile to the most suitable institution.
 
 Our banking introduction service includes:
 
@@ -253,14 +253,14 @@ Our banking introduction service includes:
 - Introduction to the bank's corporate or private banking team
 - Follow-up during the onboarding process
 
-For clients forming a Swiss company through Lawsupport, the banking introduction is included in our formation package. For standalone banking introductions, fees start at CHF 1,500.
+For clients forming a Swiss company through Morgan Hartley Consulting, the banking introduction is included in our formation package. For standalone banking introductions, fees start at CHF 1,500.
 
 You may also find our guides on [Swiss bank account requirements](/banking/swiss-bank-account-requirements/) and [corporate bank accounts](/banking/corporate-bank-account-switzerland/) useful as you prepare your documentation.
 
 **[Request a Free Assessment](/contacts/)** — or contact us directly:
 
 **Morgan Hartley, Senior Corporate Lawyer & Partner**
-Lawsupport (Morgan Hartley Consulting GmbH)
+Morgan Hartley Consulting (Morgan Hartley Consulting GmbH)
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 
@@ -310,4 +310,4 @@ For SMEs with straightforward structures, cantonal banks (ZKB, BCGE, Banque Cant
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

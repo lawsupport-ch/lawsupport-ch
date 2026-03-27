@@ -262,11 +262,11 @@ The Ausgleichskasse can assess unpaid contributions retroactively, including pen
 
 **Request a Free Assessment**
 
-Setting up payroll and social insurance correctly from the start avoids costly retroactive assessments and personal liability for directors. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
+Setting up payroll and social insurance correctly from the start avoids costly retroactive assessments and personal liability for directors. Morgan Hartley, Senior Corporate Lawyer & Partner at Morgan Hartley Consulting, reviews your situation and sets out the steps needed — without obligation.
 
 [Request a Free Assessment](/contacts/)
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch

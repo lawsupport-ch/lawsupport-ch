@@ -222,7 +222,7 @@ If incorporation does not proceed — because the Commercial Register rejects th
 
 Yes. Swiss law permits contribution in kind (Sacheinlage) — contributing assets such as real property, machinery, software licences, or receivables in lieu of cash. Contributions in kind require an independent auditor's valuation report and additional disclosure in the articles of association, making the process more complex. A third alternative is acquiring a [shelf company](/company-formation/company-formation-switzerland/) (Mantelgesellschaft), which already has registered share capital, bypassing the deposit account requirement entirely.
 
-**Does Lawsupport assist with the Kapitaleinzahlungskonto?**
+**Does Morgan Hartley Consulting assist with the Kapitaleinzahlungskonto?**
 
 Yes. We coordinate bank selection, prepare the full KYC documentation package, liaise with the bank on behalf of our clients under power of attorney, and manage the process through to release of funds. We work with cantonal banks in Zug and Zurich that are familiar with international formations and can typically compress the bank review phase to the lower end of the timeline.
 
@@ -255,11 +255,11 @@ Processing time to rejection at PostFinance: 3-4 weeks. That is 3-4 weeks of com
 
 ## Request a Free Assessment
 
-Opening a Swiss capital deposit account as a foreign founder involves KYC requirements that vary by bank, nationality, and ownership structure. Morgan Hartley and the Lawsupport team have managed 1,000+ Swiss formations and know which banks process international applications efficiently.
+Opening a Swiss capital deposit account as a foreign founder involves KYC requirements that vary by bank, nationality, and ownership structure. Morgan Hartley and the Morgan Hartley Consulting team have managed 1,000+ Swiss formations and know which banks process international applications efficiently.
 
 **[Request a Free Assessment →](/contacts/)**
 
-Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug, Switzerland | [+41 44 51 52 592](tel:+41445152592) | [info@lawsupport.ch](mailto:info@lawsupport.ch)
+Morgan Hartley Consulting (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug, Switzerland | [+41 44 51 52 592](tel:+41445152592) | [info@lawsupport.ch](mailto:info@lawsupport.ch)
 
 ---
 
@@ -273,4 +273,4 @@ Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug, Switzerlan
 
 ---
 
-*Last reviewed: 19 March 2026 by Morgan Hartley, Senior Corporate Lawyer & Partner, Lawsupport (Morgan Hartley Consulting). This article reflects Swiss law as at the date of review. It is general information only and does not constitute legal advice.*
+*Last reviewed: 19 March 2026 by Morgan Hartley, Senior Corporate Lawyer & Partner, Morgan Hartley Consulting (Morgan Hartley Consulting). This article reflects Swiss law as at the date of review. It is general information only and does not constitute legal advice.*

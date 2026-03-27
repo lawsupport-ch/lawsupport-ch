@@ -1,6 +1,6 @@
 ---
 title: "Copyright Law Switzerland: Protection & Enforcement (2026)"
-description: "Swiss copyright law (URG/LDA): what is protected, moral rights, software copyright, and enforcement. Get expert IP advice from Lawsupport, Zug."
+description: "Swiss copyright law (URG/LDA): what is protected, moral rights, software copyright, and enforcement. Get expert IP advice from Morgan Hartley Consulting, Zug."
 date: "19.03.2026"
 category: "IP & Commercial Law"
 categoryHref: "/intellectual-property/"
@@ -33,7 +33,7 @@ tocItems:
   - id: "2020-reform-key-changes-in-practice"
     title: "2020 Reform: Key Changes in Practice"
   - id: "contact-lawsupport-for-copyright-advice"
-    title: "Contact Lawsupport for Copyright Advice"
+    title: "Contact Morgan Hartley Consulting for Copyright Advice"
   - id: "related-topics"
     title: "Related Topics"
   - id: "case-study-the-freelancer-who-kept-the-copyright"
@@ -248,9 +248,9 @@ The 2020 revision introduced three significant changes:
 
 ---
 
-## Contact Lawsupport for Copyright Advice
+## Contact Morgan Hartley Consulting for Copyright Advice
 
-If you need advice on copyright ownership, assignment agreements, enforcement action, or employment and freelance contracts under Swiss law, Lawsupport's IP and commercial law team advises clients from Zug and across Switzerland.
+If you need advice on copyright ownership, assignment agreements, enforcement action, or employment and freelance contracts under Swiss law, Morgan Hartley Consulting's IP and commercial law team advises clients from Zug and across Switzerland.
 
 [Request a Free Assessment](/contacts/)
 
@@ -322,7 +322,7 @@ Only if it is software (Art. 17 URG provides automatic transfer for software cre
 
 **What should I do if someone infringes my Swiss copyright?**
 
-The first practical step is a formal cease-and-desist letter (Unterlassungsschreiben) to the infringer, documenting the infringement and demanding they stop. If that fails, you can apply to the civil courts for an interim injunction — which can be granted on an expedited basis if you can show urgency and a prima facie case. For commercial-scale infringement, a criminal complaint to the cantonal prosecutor is an additional option. Lawsupport advises on the most effective enforcement strategy based on the specific facts.
+The first practical step is a formal cease-and-desist letter (Unterlassungsschreiben) to the infringer, documenting the infringement and demanding they stop. If that fails, you can apply to the civil courts for an interim injunction — which can be granted on an expedited basis if you can show urgency and a prima facie case. For commercial-scale infringement, a criminal complaint to the cantonal prosecutor is an additional option. Morgan Hartley Consulting advises on the most effective enforcement strategy based on the specific facts.
 
 **How does Swiss copyright law apply to AI-generated content?**
 
@@ -367,6 +367,6 @@ For software developers, the Art. 17 URG rule automatically transfers economic r
 
 ---
 
-*Morgan Hartley, Senior Corporate Lawyer & Partner — Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley, Senior Corporate Lawyer & Partner — Morgan Hartley Consulting (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
 
 *[Request a Free Assessment](/contacts/)*

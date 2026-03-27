@@ -249,7 +249,7 @@ For businesses combining gold trading with cryptocurrency activities, VQF is the
 
 ## Request a Free Assessment
 
-Lawsupport (Morgan Hartley Consulting) advises Swiss gold trading businesses on AML compliance, SRO membership, corporate structure, and banking. We have structured financial intermediary businesses in Switzerland for clients from over 40 countries.
+Morgan Hartley Consulting (Morgan Hartley Consulting) advises Swiss gold trading businesses on AML compliance, SRO membership, corporate structure, and banking. We have structured financial intermediary businesses in Switzerland for clients from over 40 countries.
 
 [Request a Free Assessment](/contacts/) to discuss your gold trading structure.
 
@@ -305,4 +305,4 @@ You first need a Swiss legal entity (typically an AG or GmbH), then SRO membersh
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

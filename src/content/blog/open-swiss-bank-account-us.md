@@ -49,7 +49,7 @@ tocItems:
   - id: "real-world-scenario-us-entrepreneur-opens-a-zug-gmbh"
     title: "Real-World Scenario: US Entrepreneur Opens a Zug GmbH"
   - id: "how-lawsupport-can-help"
-    title: "How Lawsupport Can Help"
+    title: "How Morgan Hartley Consulting Can Help"
 relatedArticles:
   - title: "Swiss Bank Account for Non-Residents (2026)"
     href: "/banking/swiss-bank-account-non-residents/"
@@ -206,7 +206,7 @@ Despite the complexity, there are legitimate business reasons why a US person op
 
 ## Steps to Open a Swiss Corporate Bank Account as a US Company Owner
 
-1. **Form a Swiss AG or GmbH.** This is the prerequisite. Without a registered Swiss company, corporate account access is not possible. Lawsupport handles Swiss [company formation](/company-formation/company-formation-switzerland/) from start to finish, including registered address in Zug, director services if needed, and Handelsregister registration.
+1. **Form a Swiss AG or GmbH.** This is the prerequisite. Without a registered Swiss company, corporate account access is not possible. Morgan Hartley Consulting handles Swiss [company formation](/company-formation/company-formation-switzerland/) from start to finish, including registered address in Zug, director services if needed, and Handelsregister registration.
 
 2. **Select a FATCA-compliant Swiss bank that accepts US-person-owned entities.** Not all do. We advise clients on which banks are currently onboarding US-person-controlled companies based on current market conditions.
 
@@ -224,7 +224,7 @@ Despite the complexity, there are legitimate business reasons why a US person op
 
 Consider a practical example. A US-based software entrepreneur -- resident in California, no Swiss ties -- wants to expand into European markets and create a separate legal entity for EU operations and billing.
 
-She contacts Lawsupport and forms a Zug GmbH. The registered address is Baarerstrasse 135, 6300 Zug. A local director is appointed to satisfy Swiss law requirements. The company is registered in the Handelsregister within four to six weeks.
+She contacts Morgan Hartley Consulting and forms a Zug GmbH. The registered address is Baarerstrasse 135, 6300 Zug. A local director is appointed to satisfy Swiss law requirements. The company is registered in the Handelsregister within four to six weeks.
 
 With the GmbH established, we identify a FATCA-compliant Swiss bank currently accepting US-person-controlled companies -- in this case, a combination of AMINA Bank for crypto-related payments and a cantonal bank for operational CHF transactions. The entrepreneur completes the KYC package: her US passport, California address confirmation, W-9, GmbH articles of association, and a business plan describing her European SaaS operations and projected annual revenue.
 
@@ -302,9 +302,9 @@ The single biggest variable is the bank's internal compliance review. Non-US-per
 
 ---
 
-## How Lawsupport Can Help
+## How Morgan Hartley Consulting Can Help
 
-Lawsupport (Morgan Hartley Consulting) works with US entrepreneurs and business owners setting up Swiss company formation and Swiss banking. We handle the GmbH or AG formation process from incorporation through Handelsregister registration, advise on FATCA-compatible bank selection based on your specific business profile, and coordinate the KYC preparation process to reduce back-and-forth with banks.
+Morgan Hartley Consulting (Morgan Hartley Consulting) works with US entrepreneurs and business owners setting up Swiss company formation and Swiss banking. We handle the GmbH or AG formation process from incorporation through Handelsregister registration, advise on FATCA-compatible bank selection based on your specific business profile, and coordinate the KYC preparation process to reduce back-and-forth with banks.
 
 We do not offer tax advice -- you will need a US CPA familiar with foreign account reporting for that -- but we handle the Swiss side: the entity, the address, the banking introduction, and the ongoing registered agent and director services.
 
@@ -324,11 +324,11 @@ For authoritative information on FATCA requirements, see the <a href="https://ww
 
 **Request a Free Assessment**
 
-If you are a US person exploring Swiss corporate banking, we can give you an honest assessment of your options based on current bank policies and your specific business profile. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed -- without obligation.
+If you are a US person exploring Swiss corporate banking, we can give you an honest assessment of your options based on current bank policies and your specific business profile. Morgan Hartley, Senior Corporate Lawyer & Partner at Morgan Hartley Consulting, reviews your situation and sets out the steps needed -- without obligation.
 
 [Request a Free Assessment](/contacts/)
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch

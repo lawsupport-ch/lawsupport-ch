@@ -28,7 +28,7 @@ tocItems:
   - id: "costs-and-timeline"
     title: "Costs and Timeline"
   - id: "how-lawsupport-can-help"
-    title: "How Lawsupport Can Help"
+    title: "How Morgan Hartley Consulting Can Help"
 faqItems:
   - question: "Does my crypto business need a FINMA licence or just SRO membership?"
     answer: "It depends on your activity. Pure crypto custody, brokerage, and exchange services without accepting public deposits require SRO membership for AML compliance. If you accept deposits exceeding CHF 100 million, operate a trading platform, or provide asset management, you need a FINMA licence. Many crypto businesses start with SRO membership and upgrade to a FINMA licence as they scale."
@@ -62,7 +62,7 @@ relatedArticles:
 
 Switzerland has positioned itself as one of the most structured jurisdictions for crypto and fintech regulation. The framework is built on existing financial market legislation — primarily the Banking Act (BankG), the Financial Institutions Act (FinIA), and the Anti-Money Laundering Act (AMLA) — supplemented by the DLT Act of 2021, which introduced blockchain-specific provisions. Whether you need SRO membership, a FINMA fintech licence, or a full DLT trading facility licence depends on your specific business model. This guide maps each business activity to the correct regulatory requirement.
 
-For a direct assessment of your licensing needs, [contact Lawsupport](/contacts/).
+For a direct assessment of your licensing needs, [contact Morgan Hartley Consulting](/contacts/).
 
 ---
 
@@ -239,9 +239,9 @@ Costs include legal fees, compliance setup, FINMA application fees, and initial 
 
 ---
 
-## How Lawsupport Can Help
+## How Morgan Hartley Consulting Can Help
 
-Crypto regulation in Switzerland is principles-based, which means the correct licence depends on the specific facts of your business model. Lawsupport provides:
+Crypto regulation in Switzerland is principles-based, which means the correct licence depends on the specific facts of your business model. Morgan Hartley Consulting provides:
 
 - Regulatory classification of your business activity
 - [VASP registration](/licensing/vasp-registration-switzerland/) and [SRO membership](/licensing/sro-membership-switzerland/) applications

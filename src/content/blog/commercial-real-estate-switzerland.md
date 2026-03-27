@@ -25,7 +25,7 @@ tocItems:
   - id: "city-by-city-cost-comparison"
     title: "City-by-City Cost Comparison"
   - id: "how-lawsupport-can-help"
-    title: "How Lawsupport Can Help"
+    title: "How Morgan Hartley Consulting Can Help"
 faqItems:
   - question: "Can a foreign company lease office space without a Swiss entity?"
     answer: "A foreign company can sign a Swiss commercial lease directly. However, if employees work from the Swiss premises regularly, Swiss employment and social security obligations are triggered regardless of the entity on the lease."
@@ -85,7 +85,7 @@ Annual rents per square metre for Grade A space:
 | Zurich Oerlikon / Altstetten | 280 – 380 | Growth corridors; new builds |
 | Bern (Bundesgasse area) | 250 – 350 | Government-adjacent; stable |
 
-**Zug** warrants particular attention. The canton's tax regime (effective corporate tax rates ~11–12%) drives demand, rents are competitive relative to Zurich, and Zurich is 25 minutes by train. Lawsupport's offices are in Zug, and we advise most clients to consider the canton seriously for [Swiss companies](/company-formation/company-formation-switzerland/).
+**Zug** warrants particular attention. The canton's tax regime (effective corporate tax rates ~11–12%) drives demand, rents are competitive relative to Zurich, and Zurich is 25 minutes by train. Morgan Hartley Consulting's offices are in Zug, and we advise most clients to consider the canton seriously for [Swiss companies](/company-formation/company-formation-switzerland/).
 
 All figures exclude operating costs (Nebenkosten) and VAT. Factor in an additional 15–25% for operating costs.
 
@@ -280,7 +280,7 @@ Zug has the lowest effective corporate tax rate in Switzerland (~11.8%), competi
 
 ---
 
-## How Lawsupport Can Help
+## How Morgan Hartley Consulting Can Help
 
 We advise foreign companies on entity selection, [company formation](/company-formation/company-formation-switzerland/), lease review, [VAT registration](/tax-accounting/vat-registration-switzerland/), and ongoing compliance. Our office is in Zug.
 
@@ -292,4 +292,4 @@ We advise foreign companies on entity selection, [company formation](/company-fo
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

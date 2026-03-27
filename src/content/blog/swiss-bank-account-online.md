@@ -159,7 +159,7 @@ For non-residents needing a Swiss bank account without being present in Switzerl
 
 **Option 3 — Arrive first, then open:** The most reliable path for non-residents is to arrive in Switzerland, register at the commune (Einwohnerkontrolle), obtain your [residence permit](/immigration/b-permit-switzerland/), and then open an account at a cantonal bank or neobank — all within the first few weeks of arrival.
 
-**Option 4 — Corporate account via formation agent:** For company accounts, banks typically require a director or authorised signatory to attend in-person at the bank. Lawsupport coordinates this as part of [company formation](/company-formation/company-formation-switzerland/).
+**Option 4 — Corporate account via formation agent:** For company accounts, banks typically require a director or authorised signatory to attend in-person at the bank. Morgan Hartley Consulting coordinates this as part of [company formation](/company-formation/company-formation-switzerland/).
 
 ---
 
@@ -259,7 +259,7 @@ Your deposits up to CHF 100,000 are protected by esisuisse if the neobank operat
 
 **Can I open a Swiss corporate bank account entirely online?**
 
-No Swiss bank currently offers fully online corporate account opening. Even the most digital-forward institutions require at least a video meeting with a director and physical submission of certified documents. Lawsupport manages this process for clients forming Swiss companies.
+No Swiss bank currently offers fully online corporate account opening. Even the most digital-forward institutions require at least a video meeting with a director and physical submission of certified documents. Morgan Hartley Consulting manages this process for clients forming Swiss companies.
 
 ---
 
@@ -267,11 +267,11 @@ No Swiss bank currently offers fully online corporate account opening. Even the 
 
 **Request a Free Assessment**
 
-Need guidance on opening a Swiss bank account — whether personal or corporate? Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
+Need guidance on opening a Swiss bank account — whether personal or corporate? Morgan Hartley, Senior Corporate Lawyer & Partner at Morgan Hartley Consulting, reviews your situation and sets out the steps needed — without obligation.
 
 [Request a Free Assessment](/contacts/)
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch

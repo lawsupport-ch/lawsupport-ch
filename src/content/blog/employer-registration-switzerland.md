@@ -182,7 +182,7 @@ For a small company with 3 employees (average gross salary CHF 100,000 each), th
 
 This represents approximately 15.4% above gross payroll. Add outsourced payroll administration (CHF 150–180/hour from a fiduciary firm, or CHF 35–83/month per employee for Bexio-based self-service), and the true cost of employing staff in Switzerland becomes clear. These numbers should inform the business plan before the first hire is made.
 
-For ongoing [accounting in Switzerland](/tax-accounting/accounting-switzerland/) and payroll management, Lawsupport can coordinate with specialist payroll providers.
+For ongoing [accounting in Switzerland](/tax-accounting/accounting-switzerland/) and payroll management, Morgan Hartley Consulting can coordinate with specialist payroll providers.
 
 ---
 
@@ -254,12 +254,12 @@ A foreign company posting employees to Switzerland must comply with Swiss employ
 
 ## Request a Free Assessment
 
-Setting up as an employer in Switzerland for the first time involves multiple registrations that must be completed in sequence before your first hire starts work. Lawsupport advises international companies on the full employer set-up process, coordinates with cantonal Ausgleichskassen, and supports ongoing payroll compliance.
+Setting up as an employer in Switzerland for the first time involves multiple registrations that must be completed in sequence before your first hire starts work. Morgan Hartley Consulting advises international companies on the full employer set-up process, coordinates with cantonal Ausgleichskassen, and supports ongoing payroll compliance.
 
 [Request a Free Assessment](/contacts/)
 
 **Morgan Hartley | Senior Corporate Lawyer & Partner**
-Lawsupport (Morgan Hartley Consulting GmbH)
+Morgan Hartley Consulting (Morgan Hartley Consulting GmbH)
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch
@@ -270,4 +270,4 @@ info@lawsupport.ch
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug, Switzerland | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug, Switzerland | +41 44 51 52 592 | info@lawsupport.ch*

@@ -266,13 +266,13 @@ Operating without the required Swissmedic authorisation is a criminal offence un
 
 Swissmedic licensing is a specialist regulatory and legal task. The dossier requirements are substantial, the procedures are sequential, and errors in the initial submission add months to the timeline.
 
-Lawsupport works with pharmaceutical companies, medical device manufacturers, and biotech startups to structure Swissmedic applications, advise on entity setup, and coordinate with regulatory affairs specialists. We also advise on the broader [Swiss business licensing](/licensing/swiss-business-licenses/) framework that governs market entry across regulated sectors.
+Morgan Hartley Consulting works with pharmaceutical companies, medical device manufacturers, and biotech startups to structure Swissmedic applications, advise on entity setup, and coordinate with regulatory affairs specialists. We also advise on the broader [Swiss business licensing](/licensing/swiss-business-licenses/) framework that governs market entry across regulated sectors.
 
 For a direct conversation about your product and the applicable authorisation pathway, [request a free assessment](/contacts/).
 
 ---
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 

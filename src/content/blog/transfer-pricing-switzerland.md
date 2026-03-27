@@ -1,6 +1,6 @@
 ---
 title: "Transfer Pricing Switzerland: Rules & Compliance"
-description: "Swiss transfer pricing rules explained: arm's length principle, documentation, APAs, and BEPS compliance. 35% withholding tax risk. Lawsupport, Zug."
+description: "Swiss transfer pricing rules explained: arm's length principle, documentation, APAs, and BEPS compliance. 35% withholding tax risk. Morgan Hartley Consulting, Zug."
 date: "11.08.2026"
 publishDate: "2026-08-11"
 category: "Tax & Accounting"
@@ -241,9 +241,9 @@ Swiss Tax Administration data sharing with OECD countries has increased sharply 
 
 Transfer pricing in Switzerland carries real financial risk — particularly the 35% withholding tax on hidden profit distributions. Proper documentation, arm's length pricing, and advance rulings are the tools that eliminate exposure before it becomes a liability.
 
-**Request a Free Assessment** — contact Morgan Hartley at Lawsupport to review your group's Swiss transfer pricing position.
+**Request a Free Assessment** — contact Morgan Hartley at Morgan Hartley Consulting to review your group's Swiss transfer pricing position.
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: [+41 44 51 52 592](tel:+41445152592)
 Email: [info@lawsupport.ch](mailto:info@lawsupport.ch)

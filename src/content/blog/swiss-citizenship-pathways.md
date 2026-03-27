@@ -28,7 +28,7 @@ tocItems:
   - id: "common-pitfalls-in-citizenship-applications"
     title: "Common Pitfalls in Citizenship Applications"
   - id: "how-lawsupport-can-help"
-    title: "How Lawsupport Can Help"
+    title: "How Morgan Hartley Consulting Can Help"
 faqItems:
   - question: "How long does ordinary naturalisation take from start to finish?"
     answer: "The minimum residence requirement is 10 years in Switzerland, with at least 3 of the last 5 years before application. The application process itself takes 12 to 24 months depending on the canton and municipality. Total timeline from arrival in Switzerland to passport: 11 to 12 years minimum."
@@ -62,7 +62,7 @@ relatedArticles:
 
 Swiss citizenship can be acquired through four main routes: ordinary naturalisation after 10 years of residence, facilitated naturalisation through marriage to a Swiss citizen, registration of citizenship by descent, or — indirectly — through establishing residence via investment and lump-sum taxation. Each path has distinct requirements, timelines and costs. This guide sets out exactly what each route involves and which one fits your situation.
 
-For a personalised assessment of your eligibility, [contact Lawsupport](/contacts/).
+For a personalised assessment of your eligibility, [contact Morgan Hartley Consulting](/contacts/).
 
 ---
 
@@ -128,7 +128,7 @@ Processing time: 6 to 18 months from a complete application.
 
 Swiss citizens born abroad who hold another nationality must register their citizenship with the Swiss consulate before turning 25, or they may lose Swiss citizenship. This registration requirement catches many second-generation Swiss abroad.
 
-If you believe you have Swiss ancestry but are unsure of your status, a genealogical and legal review can determine whether a claim exists. Lawsupport regularly handles descent claims for clients in the UK, US, South America, and Australia.
+If you believe you have Swiss ancestry but are unsure of your status, a genealogical and legal review can determine whether a claim exists. Morgan Hartley Consulting regularly handles descent claims for clients in the UK, US, South America, and Australia.
 
 ---
 
@@ -213,9 +213,9 @@ Some municipalities still conduct public votes on naturalisation applications, t
 
 ---
 
-## How Lawsupport Can Help
+## How Morgan Hartley Consulting Can Help
 
-Citizenship applications require coordination across three levels of government and meticulous documentation. Lawsupport guides clients through the entire process: eligibility assessment, document collection, language test preparation referrals, municipal and cantonal filing, and — if needed — appeals.
+Citizenship applications require coordination across three levels of government and meticulous documentation. Morgan Hartley Consulting guides clients through the entire process: eligibility assessment, document collection, language test preparation referrals, municipal and cantonal filing, and — if needed — appeals.
 
 We handle all routes: ordinary naturalisation, facilitated naturalisation for [spouses](/immigration/swiss-citizenship-by-marriage/), [descent claims](/immigration/swiss-citizenship-by-descent/), and residence planning through [investment-based paths](/immigration/swiss-citizenship-by-investment/).
 

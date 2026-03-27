@@ -239,12 +239,12 @@ Receiving Sozialhilfe during the 3 years before application is generally disqual
 
 ## Start Your Naturalization Journey With Expert Support
 
-Swiss naturalization is a multi-year process that benefits from early planning and proper documentation at every stage. Morgan Hartley and the Lawsupport team advise clients on residence structuring, permit pathways, integration requirements, and the full naturalization application process.
+Swiss naturalization is a multi-year process that benefits from early planning and proper documentation at every stage. Morgan Hartley and the Morgan Hartley Consulting team advise clients on residence structuring, permit pathways, integration requirements, and the full naturalization application process.
 
 **[Request a Free Assessment](/contacts/)**
 
 **Morgan Hartley** — Senior Corporate Lawyer & Partner
-Lawsupport (Morgan Hartley Consulting)
+Morgan Hartley Consulting (Morgan Hartley Consulting)
 Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592
 Email: info@lawsupport.ch

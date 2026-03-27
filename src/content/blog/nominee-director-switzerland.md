@@ -12,7 +12,7 @@ faqItems:
   - question: "Can a nominee sign banking documents?"
     answer: "Yes, but it is not included in the annual fee. Signing banking documents, attending bank meetings, and executing powers of attorney are billed at CHF 350 per hour. Budget CHF 2'000-4'000 in additional charges in the first year on top of the CHF 5'900 base."
   - question: "Is a nominee director just a rubber stamp?"
-    answer: "No. A nominee must exercise independent judgment under CO 717 duty of care. They must understand the company business. Lawsupport conducts KYC before accepting engagements and refuses companies whose activities cannot be verified."
+    answer: "No. A nominee must exercise independent judgment under CO 717 duty of care. They must understand the company business. Morgan Hartley Consulting conducts KYC before accepting engagements and refuses companies whose activities cannot be verified."
   - question: "Can I replace the nominee director later?"
     answer: "Yes, at any time by shareholder resolution. Common when founders obtain Swiss residency and take over the directorship. The transition takes one to three weeks in Zug."
   - question: "What happens if the company gets into financial difficulty?"
@@ -33,7 +33,7 @@ tocItems:
   - id: "what-is-a-nominee-director"
     title: "What Is a Nominee Director?"
   - id: "what-a-lawsupport-nominee-director-does----and-does-not-do"
-    title: "What a Lawsupport Nominee Director Does -- and Does Not Do"
+    title: "What a Morgan Hartley Consulting Nominee Director Does -- and Does Not Do"
   - id: "the-legal-structure-the-mandate-agreement"
     title: "The Legal Structure: The Mandate Agreement"
   - id: "corporate-governance-you-retain-control"
@@ -66,7 +66,7 @@ relatedArticles:
 
 Forming a Swiss company from abroad is straightforward -- until you reach the director residency requirement. Swiss company law requires that at least one director of an AG, or one manager of a GmbH, be a Swiss resident with individual signatory authority. If you cannot satisfy that requirement personally, your Commercial Register application will be rejected before it is ever processed.
 
-A professional nominee director resolves this. At Lawsupport, we have provided Swiss resident director services for over 18 years, supporting more than 1'000 [company formations](/company-formation/company-formation-switzerland/) for clients from 40+ countries. This page explains exactly how the service works, what it costs, and what you should know before engaging one.
+A professional nominee director resolves this. At Morgan Hartley Consulting, we have provided Swiss resident director services for over 18 years, supporting more than 1'000 [company formations](/company-formation/company-formation-switzerland/) for clients from 40+ countries. This page explains exactly how the service works, what it costs, and what you should know before engaging one.
 
 ---
 
@@ -97,7 +97,7 @@ The beneficial owner retains full control through shareholder rights: convening 
 
 ---
 
-## What a Lawsupport Nominee Director Does -- and Does Not Do
+## What a Morgan Hartley Consulting Nominee Director Does -- and Does Not Do
 
 Clarity on scope is essential. Here is precisely what is included and excluded.
 
@@ -122,7 +122,7 @@ The boundaries are set in writing, and they are maintained.
 
 ## The Legal Structure: The Mandate Agreement
 
-Every nominee directorship at Lawsupport is governed by a **Mandate Agreement** (*Mandatsvertrag*) signed before the appointment takes effect. This document is not an optional formality -- it is the legal foundation of the entire arrangement.
+Every nominee directorship at Morgan Hartley Consulting is governed by a **Mandate Agreement** (*Mandatsvertrag*) signed before the appointment takes effect. This document is not an optional formality -- it is the legal foundation of the entire arrangement.
 
 The mandate agreement covers:
 
@@ -156,7 +156,7 @@ For more on how nominee services fit into the broader corporate structure, see o
 
 ## Liability: Understanding the Risk
 
-Nominee directors under Swiss law bear personal liability for company obligations in certain circumstances. Under **Art. 754 CO**, directors -- including nominees -- are personally liable for damages caused by intentional or negligent breach of their duties. This is a real consideration, not a hypothetical one, and it is the reason Lawsupport takes its onboarding process seriously.
+Nominee directors under Swiss law bear personal liability for company obligations in certain circumstances. Under **Art. 754 CO**, directors -- including nominees -- are personally liable for damages caused by intentional or negligent breach of their duties. This is a real consideration, not a hypothetical one, and it is the reason Morgan Hartley Consulting takes its onboarding process seriously.
 
 Under Swiss law, directors can be held personally liable for:
 
@@ -166,7 +166,7 @@ Under Swiss law, directors can be held personally liable for:
 
 This liability exposure is mitigated by two things: the indemnification clause in the mandate agreement, and the quality of the company being directed.
 
-Lawsupport conducts thorough **KYC (Know Your Customer) [due diligence](/corporate-transactions/due-diligence-switzerland/)** on every client before accepting a nominee engagement. We verify identity, source of funds, and the nature of the business. We do not accept nominee engagements for companies whose activities we cannot verify or whose beneficial owners cannot be identified.
+Morgan Hartley Consulting conducts thorough **KYC (Know Your Customer) [due diligence](/corporate-transactions/due-diligence-switzerland/)** on every client before accepting a nominee engagement. We verify identity, source of funds, and the nature of the business. We do not accept nominee engagements for companies whose activities we cannot verify or whose beneficial owners cannot be identified.
 
 This is not bureaucracy. It is the responsible practice that protects both the nominee director and the client.
 
@@ -217,7 +217,7 @@ A nominee director is a service solution, not the only solution. If you intend t
 
 As a Swiss resident, you can serve as director of your own company without any third-party involvement, reducing cost and simplifying governance. Switzerland offers several residency options for entrepreneurs and investors, including [lump-sum taxation](/tax-accounting/lump-sum-taxation-switzerland/) arrangements in some cantons.
 
-Lawsupport's immigration practice supports clients through Swiss [work permit](/immigration/work-permit-switzerland/) and residency applications. If this is relevant to your situation, contact us to discuss the options before forming the company -- the sequence of steps matters.
+Morgan Hartley Consulting's immigration practice supports clients through Swiss [work permit](/immigration/work-permit-switzerland/) and residency applications. If this is relevant to your situation, contact us to discuss the options before forming the company -- the sequence of steps matters.
 
 ---
 
@@ -227,7 +227,7 @@ A nominee director satisfies the residency requirement for directorship. It does
 
 Under Swiss law, every AG and GmbH must have a registered address in Switzerland at which legal correspondence can be received and official documents can be served. This address appears in the Commercial Register alongside the director's name.
 
-Lawsupport provides [registered address services in Switzerland](/corporate-services/registered-address-switzerland/) from our Baarerstrasse 135, 6300 Zug office. Combining the nominee director service with a registered address at the same location gives a foreign-owned company a complete, legally compliant Swiss corporate presence -- without the founder needing to be physically present in Switzerland at any point after formation.
+Morgan Hartley Consulting provides [registered address services in Switzerland](/corporate-services/registered-address-switzerland/) from our Baarerstrasse 135, 6300 Zug office. Combining the nominee director service with a registered address at the same location gives a foreign-owned company a complete, legally compliant Swiss corporate presence -- without the founder needing to be physically present in Switzerland at any point after formation.
 
 ---
 
@@ -251,7 +251,7 @@ Nominee directorships do not end automatically. Proper termination requires a fo
 
 If the nominee director wishes to resign, they must give notice in accordance with the mandate agreement. Critically, **the nominee director's resignation cannot take effect until the company has appointed a replacement director** who satisfies the Art. 718 CO residency requirement. Resigning before a replacement is in place would leave the company without a compliant director, which creates a Register violation.
 
-In practice, Lawsupport manages this transition when it arises. If a client wishes to replace the nominee director -- for example, because they have obtained Swiss residency and wish to serve as director themselves -- we coordinate the handover, prepare the necessary shareholder resolutions, and file the Commercial Register update.
+In practice, Morgan Hartley Consulting manages this transition when it arises. If a client wishes to replace the nominee director -- for example, because they have obtained Swiss residency and wish to serve as director themselves -- we coordinate the handover, prepare the necessary shareholder resolutions, and file the Commercial Register update.
 
 ---
 
@@ -259,7 +259,7 @@ In practice, Lawsupport manages this transition when it arises. If a client wish
 
 A founder based in Singapore decides to establish a Zug AG as the holding entity for a software business with European clients. She has no Swiss residency and no immediate plans to relocate.
 
-At formation, Lawsupport appoints one of its qualified Swiss professionals as nominee director of the AG. The mandate agreement is signed, KYC is completed, and the company is registered in the [Zug Commercial Register](/company-formation/company-formation-zug/) within the standard processing time.
+At formation, Morgan Hartley Consulting appoints one of its qualified Swiss professionals as nominee director of the AG. The mandate agreement is signed, KYC is completed, and the company is registered in the [Zug Commercial Register](/company-formation/company-formation-zug/) within the standard processing time.
 
 The Singapore-based founder is the sole shareholder. She holds all shareholder rights, receives dividends, and directs the company's commercial activity. She signs commercial contracts in her capacity as authorised signatory under a power of attorney granted by the company. The nominee director signs internal corporate documents as required and is available for Swiss-law compliance obligations.
 
@@ -295,7 +295,7 @@ Yes, but it is not included in the annual fee. Signing banking documents, attend
 
 **Is a nominee director just a rubber stamp?**
 
-No -- and any provider offering a pure rubber-stamp service is creating legal risk for both parties. A nominee director must exercise independent judgment under CO 717 (duty of care). They must understand the company's business well enough to identify red flags. Lawsupport conducts thorough KYC before accepting any engagement and refuses companies whose activities cannot be verified. We have declined approximately 15% of nominee enquiries over the past three years on compliance grounds.
+No -- and any provider offering a pure rubber-stamp service is creating legal risk for both parties. A nominee director must exercise independent judgment under CO 717 (duty of care). They must understand the company's business well enough to identify red flags. Morgan Hartley Consulting conducts thorough KYC before accepting any engagement and refuses companies whose activities cannot be verified. We have declined approximately 15% of nominee enquiries over the past three years on compliance grounds.
 
 **Can I replace the nominee director later?**
 
@@ -303,15 +303,15 @@ Yes. The nominee director can be replaced at any time by shareholder resolution.
 
 **What happens if the company gets into financial difficulty?**
 
-This is an important question for any company with a nominee director. Under Swiss law, if a company becomes over-indebted, the board of directors is required to notify the court. The nominee director, as a member of the board, bears obligations in this scenario. The mandate agreement's indemnification clause is designed to protect the nominee director from liabilities arising from situations the beneficial owner has created -- but it is not a complete shield. This is precisely why Lawsupport conducts KYC before accepting any nominee engagement and why we expect the companies we serve to operate in a clean, compliant manner. A nominee directorship is not a mechanism for shielding misconduct; it is a legal tool for satisfying a residency requirement in an otherwise properly run company.
+This is an important question for any company with a nominee director. Under Swiss law, if a company becomes over-indebted, the board of directors is required to notify the court. The nominee director, as a member of the board, bears obligations in this scenario. The mandate agreement's indemnification clause is designed to protect the nominee director from liabilities arising from situations the beneficial owner has created -- but it is not a complete shield. This is precisely why Morgan Hartley Consulting conducts KYC before accepting any nominee engagement and why we expect the companies we serve to operate in a clean, compliant manner. A nominee directorship is not a mechanism for shielding misconduct; it is a legal tool for satisfying a residency requirement in an otherwise properly run company.
 
 **Can a nominee director also serve as nominee shareholder?**
 
-Yes, though the two roles serve different purposes. A [nominee shareholder](/company-formation/nominee-shareholder-switzerland/) holds shares on behalf of the beneficial owner, providing privacy regarding ownership. A nominee director satisfies the residency requirement for the board. The same individual may serve in both capacities, but the arrangements are documented separately -- a mandate agreement for the directorship and a fiduciary agreement for the shareholding. At Lawsupport, we offer both services and can combine them where appropriate.
+Yes, though the two roles serve different purposes. A [nominee shareholder](/company-formation/nominee-shareholder-switzerland/) holds shares on behalf of the beneficial owner, providing privacy regarding ownership. A nominee director satisfies the residency requirement for the board. The same individual may serve in both capacities, but the arrangements are documented separately -- a mandate agreement for the directorship and a fiduciary agreement for the shareholding. At Morgan Hartley Consulting, we offer both services and can combine them where appropriate.
 
 **Does the nominee director need to be a Swiss citizen?**
 
-No. The requirement is Swiss residency, not Swiss citizenship. A foreign national who holds a valid Swiss residence permit (B permit, C permit, or other qualifying permit) and is domiciled in Switzerland satisfies the Art. 718 CO requirement. Lawsupport's nominee directors hold Swiss residency and are fully compliant with the legal standard.
+No. The requirement is Swiss residency, not Swiss citizenship. A foreign national who holds a valid Swiss residence permit (B permit, C permit, or other qualifying permit) and is domiciled in Switzerland satisfies the Art. 718 CO requirement. Morgan Hartley Consulting's nominee directors hold Swiss residency and are fully compliant with the legal standard.
 
 **How does the nominee director arrangement affect bank account opening?**
 
@@ -319,7 +319,7 @@ Swiss banks conduct their own KYC procedures when opening a [corporate bank acco
 
 **What obligations does the nominee director have regarding annual accounts?**
 
-Under Swiss law, the board of directors is responsible for preparing annual accounts and presenting them to the general meeting for approval. The nominee director, as a board member, shares this obligation. In practice, the beneficial owner instructs a Swiss accountant to prepare the accounts, and the nominee director signs them as part of the annual compliance cycle. Lawsupport coordinates this process with the client's accountant to ensure deadlines are met. For details on Swiss [accounting requirements](/tax-accounting/accounting-switzerland/), see our dedicated guide.
+Under Swiss law, the board of directors is responsible for preparing annual accounts and presenting them to the general meeting for approval. The nominee director, as a board member, shares this obligation. In practice, the beneficial owner instructs a Swiss accountant to prepare the accounts, and the nominee director signs them as part of the annual compliance cycle. Morgan Hartley Consulting coordinates this process with the client's accountant to ensure deadlines are met. For details on Swiss [accounting requirements](/tax-accounting/accounting-switzerland/), see our dedicated guide.
 
 **Can a legal entity serve as nominee director instead of a natural person?**
 
@@ -335,11 +335,11 @@ The nominee director's name is publicly visible in the Commercial Register -- th
 
 **Request a Free Assessment**
 
-Forming a Swiss company from abroad and need a resident director? Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed -- without obligation.
+Forming a Swiss company from abroad and need a resident director? Morgan Hartley, Senior Corporate Lawyer & Partner at Morgan Hartley Consulting, reviews your situation and sets out the steps needed -- without obligation.
 
 [Request a Free Assessment](/contacts/)
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch

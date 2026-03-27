@@ -1,6 +1,6 @@
 ---
 title: "Sole Proprietorship Switzerland: Einzelfirma Guide"
-description: "How to register a Swiss Einzelfirma (sole proprietorship): requirements, tax treatment, liability risks, and when to convert to a GmbH. Lawsupport, Zug."
+description: "How to register a Swiss Einzelfirma (sole proprietorship): requirements, tax treatment, liability risks, and when to convert to a GmbH. Morgan Hartley Consulting, Zug."
 date: "02.06.2026"
 publishDate: "2026-06-02"
 category: "Company Formation"
@@ -248,11 +248,11 @@ The Einzelfirma is not a separate legal entity, so it cannot be inherited as a g
 
 **Request a Free Assessment**
 
-Whether an Einzelfirma or a GmbH is the right structure depends on your income level, liability exposure, and growth plans. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
+Whether an Einzelfirma or a GmbH is the right structure depends on your income level, liability exposure, and growth plans. Morgan Hartley, Senior Corporate Lawyer & Partner at Morgan Hartley Consulting, reviews your situation and sets out the steps needed — without obligation.
 
 [Request a Free Assessment](/contacts/)
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch

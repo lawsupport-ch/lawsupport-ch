@@ -55,7 +55,7 @@ tocItems:
   - id: "real-world-scenario-crypto-protocol-foundation-in-zug"
     title: "Real-World Scenario: Crypto Protocol Foundation in Zug"
   - id: "get-started-with-lawsupport"
-    title: "Get Started with Lawsupport"
+    title: "Get Started with Morgan Hartley Consulting"
 relatedArticles:
   - title: "Swiss Foundation (Stiftung): Formation & Tax"
     href: "/company-formation/foundation-switzerland/"
@@ -203,7 +203,7 @@ In Zug, a complete and well-prepared filing typically results in Commercial Regi
 - No queries from the Handelsregisteramt requiring clarification
 - No complexity requiring additional supervisory authority review
 
-Complex foundations — particularly those with unusual governance structures or novel crypto purposes — may require additional time for supervisory review. Lawsupport manages the entire process from charter drafting through to final registration confirmation, minimising delays through preparation quality.
+Complex foundations — particularly those with unusual governance structures or novel crypto purposes — may require additional time for supervisory review. Morgan Hartley Consulting manages the entire process from charter drafting through to final registration confirmation, minimising delays through preparation quality.
 
 ---
 
@@ -254,7 +254,7 @@ For international clients, Zug is the default canton for foundation formation fo
 - **Efficient Commercial Register** — the Handelsregisteramt des Kantons Zug is operationally efficient, with consistent processing times.
 - **Professional ecosystem** — Zug-based notaries, legal counsel, and service providers have processed hundreds of foundation formations, reducing friction at every step.
 
-For context, Lawsupport operates from Baarerstrasse 135, 6300 Zug — the centre of this ecosystem. We have been involved in [company formation](/company-formation/company-formation-switzerland/) and foundation formation for clients from over 40 countries.
+For context, Morgan Hartley Consulting operates from Baarerstrasse 135, 6300 Zug — the centre of this ecosystem. We have been involved in [company formation](/company-formation/company-formation-switzerland/) and foundation formation for clients from over 40 countries.
 
 ---
 
@@ -322,7 +322,7 @@ Swiss foundation formation involves three principal cost categories:
 
 3. **Supervisory authority fees** — cantonal supervisory authorities charge an initial registration fee and annual supervisory fees. In Zug, initial fees are in the range of CHF 500-1,500; annual fees depend on the foundation's complexity and asset level.
 
-Professional fees for charter drafting, regulatory structuring, tax ruling preparation, and ongoing compliance are additional and depend on the complexity of the mandate. Lawsupport provides transparent fee structures at the outset of every engagement.
+Professional fees for charter drafting, regulatory structuring, tax ruling preparation, and ongoing compliance are additional and depend on the complexity of the mandate. Morgan Hartley Consulting provides transparent fee structures at the outset of every engagement.
 
 ---
 
@@ -330,7 +330,7 @@ Professional fees for charter drafting, regulatory structuring, tax ruling prepa
 
 A developer team from Germany and Singapore has built a decentralised lending protocol. They plan to launch a governance token, establish a protocol treasury, and create a legal entity to hold intellectual property and manage ecosystem grants. They require a structure that provides legal personality, asset separation, and a credible institutional counterparty for exchange listings and institutional partnerships.
 
-**Step 1 — Structure review**: Lawsupport reviews the token model against FINMA's current utility token guidance. The token qualifies as a utility token. A VASP assessment confirms the foundation itself does not trigger VASP registration in its intended initial operations.
+**Step 1 — Structure review**: Morgan Hartley Consulting reviews the token model against FINMA's current utility token guidance. The token qualifies as a utility token. A VASP assessment confirms the foundation itself does not trigger VASP registration in its intended initial operations.
 
 **Step 2 — Charter drafting**: The Stiftungsurkunde is drafted with a purpose focused on developing, maintaining, and promoting the open-source protocol and its ecosystem. The board is constituted with three members — two founders and one independent Swiss-resident trustee.
 
@@ -344,9 +344,9 @@ The team now has a Zug-registered foundation with a unique legal identity, a con
 
 ---
 
-## Get Started with Lawsupport
+## Get Started with Morgan Hartley Consulting
 
-Lawsupport (Morgan Hartley Consulting) is a Zug-based legal and structuring firm specialising in Swiss entity formation, regulatory matters, and tax structuring for international clients. We have completed 1,000+ company and foundation formations for clients from over 40 countries across 18+ years of practice.
+Morgan Hartley Consulting (Morgan Hartley Consulting) is a Zug-based legal and structuring firm specialising in Swiss entity formation, regulatory matters, and tax structuring for international clients. We have completed 1,000+ company and foundation formations for clients from over 40 countries across 18+ years of practice.
 
 We handle the complete Swiss foundation formation process — from initial structural analysis through charter drafting, notarisation, Commercial Register filing, supervisory notification, and advance tax ruling — as a single coordinated mandate.
 
@@ -382,7 +382,7 @@ With complete and well-prepared documentation, the process from notarisation to 
 
 **Can a foreign national be the founder or trustee of a Swiss foundation?**
 
-Yes. There is no requirement for the founder or trustees to be Swiss nationals or Swiss residents under Swiss foundation law. However, many supervisory authorities — particularly for operationally active foundations — expect at least one Swiss-resident trustee or officer to ensure accountability and effective governance. Lawsupport assists clients with compliant governance structuring regardless of the founding team's nationality or location.
+Yes. There is no requirement for the founder or trustees to be Swiss nationals or Swiss residents under Swiss foundation law. However, many supervisory authorities — particularly for operationally active foundations — expect at least one Swiss-resident trustee or officer to ensure accountability and effective governance. Morgan Hartley Consulting assists clients with compliant governance structuring regardless of the founding team's nationality or location.
 
 **What is the difference between a Swiss foundation and a trust?**
 
@@ -406,4 +406,4 @@ Most Swiss foundations are subject to audit requirements. The supervisory author
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

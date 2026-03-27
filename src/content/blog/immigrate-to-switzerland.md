@@ -140,7 +140,7 @@ A well-prepared non-EU entrepreneur permit application in canton Zug or canton Z
 
 In parallel, formation of the Swiss entity itself follows its own timeline: document preparation takes several days, the bank pre-check and blocked account opening roughly one week, capital transfer and bank certificate another week (depending on the client), and then the Commercial Register entry takes 2-4 weeks after notarisation. A company can begin operating from the moment of notarial signing — there is no need to wait for ZEFIX publication. Shelf company transfers can be completed in 1-2 days, or 3-10 business days with modifications.
 
-Applications should be prepared with Swiss legal counsel from the outset. Incomplete or poorly framed applications are returned and significantly extend the process. Our team at Lawsupport has handled more than 1,000 formations and immigration-related corporate mandates since 2007; we know what the authorities expect and how to present a client's profile to maximum effect.
+Applications should be prepared with Swiss legal counsel from the outset. Incomplete or poorly framed applications are returned and significantly extend the process. Our team at Morgan Hartley Consulting has handled more than 1,000 formations and immigration-related corporate mandates since 2007; we know what the authorities expect and how to present a client's profile to maximum effect.
 
 For the corporate formation component that typically accompanies an entrepreneur permit application, see our dedicated guides on [company formation in Switzerland](/company-formation/company-formation-switzerland/) and [company formation in Zug](/company-formation/company-formation-zug/).
 
@@ -154,7 +154,7 @@ Under this structure, your employer sponsors your permit application. The Swiss 
 
 Processing times for intracompany transfer permits with complete documentation typically run **four to eight weeks** at cantonal level. Permits are initially issued for 12 months as an L permit, then converted to a B permit upon extension.
 
-For executives considering whether to use a [nominee director](/corporate-services/nominee-director-switzerland/) structure during the transition period while their own permit is processed, Lawsupport can advise on compliant interim governance arrangements.
+For executives considering whether to use a [nominee director](/corporate-services/nominee-director-switzerland/) structure during the transition period while their own permit is processed, Morgan Hartley Consulting can advise on compliant interim governance arrangements.
 
 ---
 
@@ -182,15 +182,15 @@ Switzerland's expenditure-based taxation regime — known as Pauschalsteuer or f
 
 **Practical tax levels**: In cantons Zug, Schwyz, and Valais — the three most popular cantons for lump-sum taxpayers — annual tax payments under the regime typically range from **CHF 150,000 to CHF 500,000 and above**, depending on the lifestyle and accommodation profile of the applicant. For individuals with global income materially above these levels, the arithmetic is often straightforwardly favourable.
 
-**Process**: Lump-sum taxation must be agreed in advance with the cantonal tax authority prior to taking up residence. The negotiation of the expenditure base and resulting tax bill requires legal and tax advisory input. Lawsupport coordinates this process with specialist Swiss tax counsel as part of an integrated relocation mandate.
+**Process**: Lump-sum taxation must be agreed in advance with the cantonal tax authority prior to taking up residence. The negotiation of the expenditure base and resulting tax bill requires legal and tax advisory input. Morgan Hartley Consulting coordinates this process with specialist Swiss tax counsel as part of an integrated relocation mandate.
 
 ---
 
 ## Real-World Story 1: UK Founder Relocates to Zug Post-Brexit
 
-A British technology entrepreneur — founder of a SaaS business with global revenues — approached Lawsupport in early 2023 seeking to establish Swiss residency following Brexit, which had eliminated his right to live and work freely in EU member states.
+A British technology entrepreneur — founder of a SaaS business with global revenues — approached Morgan Hartley Consulting in early 2023 seeking to establish Swiss residency following Brexit, which had eliminated his right to live and work freely in EU member states.
 
-As a non-EU national, he required the independent self-employment permit route. Over an eight-week preparation phase, Lawsupport assisted with the formation of a Swiss GmbH in Zug, drafted a business plan demonstrating local employment intentions and a credible Swiss client development strategy, and assembled the personal documentation file. The cantonal application was submitted in month three. Preliminary cantonal approval came in month seven. Federal SEM confirmation followed six weeks later. The client and his family were registered as residents of Zug in month nine from initial instruction.
+As a non-EU national, he required the independent self-employment permit route. Over an eight-week preparation phase, Morgan Hartley Consulting assisted with the formation of a Swiss GmbH in Zug, drafted a business plan demonstrating local employment intentions and a credible Swiss client development strategy, and assembled the personal documentation file. The cantonal application was submitted in month three. Preliminary cantonal approval came in month seven. Federal SEM confirmation followed six weeks later. The client and his family were registered as residents of Zug in month nine from initial instruction.
 
 Total professional fees for the combined company formation and immigration mandate: approximately CHF 18,000-22,000. Cantonal and federal filing fees: approximately CHF 2,500. First-year effective corporate tax rate on Swiss business income: 11.8%.
 
@@ -200,9 +200,9 @@ Total professional fees for the combined company formation and immigration manda
 
 A senior executive at a UAE-based technology group was transferred to his employer's newly established Swiss subsidiary in Zurich, with his family planning to base themselves in Zug for its school infrastructure and quality of life.
 
-The intracompany transfer structure was used. Lawsupport handled the Swiss subsidiary formation — an AG in Zug — and coordinated the L-permit application with the cantonal labour office. The executive's L permit was issued six weeks after submission of a complete application. His family registered at the Zug Einwohnerkontrolle simultaneously.
+The intracompany transfer structure was used. Morgan Hartley Consulting handled the Swiss subsidiary formation — an AG in Zug — and coordinated the L-permit application with the cantonal labour office. The executive's L permit was issued six weeks after submission of a complete application. His family registered at the Zug Einwohnerkontrolle simultaneously.
 
-The couple's children enrolled at the International School of Zug and Luzern for the following academic term. The executive's L permit was converted to a B permit at the 12-month mark. Lawsupport continues to provide ongoing corporate secretarial and compliance services to the Swiss subsidiary.
+The couple's children enrolled at the International School of Zug and Luzern for the following academic term. The executive's L permit was converted to a B permit at the 12-month mark. Morgan Hartley Consulting continues to provide ongoing corporate secretarial and compliance services to the Swiss subsidiary.
 
 ---
 
@@ -353,17 +353,17 @@ B permit renewals for non-EU nationals require continued compliance with the ori
 
 **Request a Free Assessment**
 
-Immigrating to Switzerland as an entrepreneur requires coordinated planning across immigration, corporate, and tax law. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
+Immigrating to Switzerland as an entrepreneur requires coordinated planning across immigration, corporate, and tax law. Morgan Hartley, Senior Corporate Lawyer & Partner at Morgan Hartley Consulting, reviews your situation and sets out the steps needed — without obligation.
 
 [Request a Free Assessment](/contacts/)
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch
 
 </div>
 
-*This article reflects Swiss immigration law and practice as of March 2026. Immigration rules, cantonal policies, and federal quotas are subject to change. Nothing in this article constitutes legal advice. Contact Lawsupport at info@lawsupport.ch for advice specific to your situation.*
+*This article reflects Swiss immigration law and practice as of March 2026. Immigration rules, cantonal policies, and federal quotas are subject to change. Nothing in this article constitutes legal advice. Contact Morgan Hartley Consulting at info@lawsupport.ch for advice specific to your situation.*
 
 *Sources: <a href="https://www.sem.admin.ch/sem/en/home.html" target="_blank" rel="nofollow noopener">State Secretariat for Migration (SEM)</a> | <a href="https://www.fedlex.admin.ch/eli/cc/2007/758/en" target="_blank" rel="nofollow noopener">Foreign Nationals and Integration Act (Fedlex)</a> | <a href="https://www.zg.ch/behoerden/volkswirtschaftsdirektion/handelsregisteramt" target="_blank" rel="nofollow noopener">Canton Zug Commercial Register</a>*

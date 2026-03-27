@@ -322,12 +322,12 @@ Operating without a licence is a criminal offence under Art. 44 FINMASA, with pe
 
 A DLT Trading Facility licence is a major regulatory undertaking. The minimum capital thresholds, the depth of the application package, and FINMA's substantive review of operating rules mean that this is a project requiring specialist legal and regulatory support from the outset — not something to assemble reactively during the FINMA review.
 
-Lawsupport (Morgan Hartley Consulting GmbH) advises clients on the full licensing process: from initial assessment of whether the DLT Trading Facility is the right licence category, through application preparation, FINMA engagement, and post-licensing compliance. We work with operators across the digital asset and traditional financial services sectors from our base in Zug.
+Morgan Hartley Consulting (Morgan Hartley Consulting GmbH) advises clients on the full licensing process: from initial assessment of whether the DLT Trading Facility is the right licence category, through application preparation, FINMA engagement, and post-licensing compliance. We work with operators across the digital asset and traditional financial services sectors from our base in Zug.
 
 [Request a Free Assessment](/contacts/) to discuss your specific licensing situation, timeline, and how the DLT Trading Facility fits alongside other Swiss financial licences.
 
 **Morgan Hartley | Senior Corporate Lawyer & Partner**
-Lawsupport (Morgan Hartley Consulting GmbH)
+Morgan Hartley Consulting (Morgan Hartley Consulting GmbH)
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 

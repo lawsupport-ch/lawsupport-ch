@@ -250,11 +250,11 @@ Under Swiss law (OR Art. 755), auditors face civil liability for damages caused 
 
 **Request a Free Assessment**
 
-Understanding your Swiss audit obligations — and structuring your company's governance correctly from the outset — saves time and cost. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
+Understanding your Swiss audit obligations — and structuring your company's governance correctly from the outset — saves time and cost. Morgan Hartley, Senior Corporate Lawyer & Partner at Morgan Hartley Consulting, reviews your situation and sets out the steps needed — without obligation.
 
 [Request a Free Assessment](/contacts/)
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch

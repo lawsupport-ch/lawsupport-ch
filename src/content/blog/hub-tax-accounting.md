@@ -43,7 +43,7 @@ tocItems:
   - id: "common-mistakes-businesses-make"
     title: "Common Mistakes Businesses Make"
   - id: "why-lawsupport-for-tax-and-accounting"
-    title: "Why Lawsupport for Tax and Accounting"
+    title: "Why Morgan Hartley Consulting for Tax and Accounting"
 ---
 
 The Swiss tax system operates on three levels — federal, cantonal and municipal — creating both complexity and opportunity. For businesses, getting the structure right from the start can mean the difference between an effective tax rate of 12% and one exceeding 24%. This guide explains how each component works, what obligations apply, and where legitimate planning opportunities exist.
@@ -316,13 +316,13 @@ Changes to the board, registered office, signatory authority or articles of asso
 
 For any transaction with material tax consequences, a ruling from the relevant cantonal authority provides certainty. The process is free, relatively quick and eliminates the risk of an unexpected tax assessment years later. Failing to seek a ruling when one was available is a missed opportunity.
 
-## Why Lawsupport for Tax and Accounting
+## Why Morgan Hartley Consulting for Tax and Accounting
 
-Tax and accounting obligations in Switzerland require precision, local knowledge and an understanding of how federal, cantonal and international rules interact. Lawsupport combines these elements.
+Tax and accounting obligations in Switzerland require precision, local knowledge and an understanding of how federal, cantonal and international rules interact. Morgan Hartley Consulting combines these elements.
 
 ### Integrated tax and legal advice
 
-Tax planning does not exist in a vacuum. Entity selection, shareholder agreements, employment contracts and intellectual property arrangements all have tax consequences. Lawsupport addresses these as connected issues rather than siloed disciplines, ensuring that a decision made for corporate law purposes does not create an unintended tax exposure.
+Tax planning does not exist in a vacuum. Entity selection, shareholder agreements, employment contracts and intellectual property arrangements all have tax consequences. Morgan Hartley Consulting addresses these as connected issues rather than siloed disciplines, ensuring that a decision made for corporate law purposes does not create an unintended tax exposure.
 
 ### Cantonal expertise
 
@@ -330,7 +330,7 @@ With operations based in Zug and experience across multiple cantons, the firm kn
 
 ### Ongoing compliance
 
-Beyond initial structuring, Lawsupport provides year-round accounting, tax return preparation, payroll processing and social insurance administration. This continuity means the firm knows each client's business intimately, can flag issues early and ensure deadlines are met consistently.
+Beyond initial structuring, Morgan Hartley Consulting provides year-round accounting, tax return preparation, payroll processing and social insurance administration. This continuity means the firm knows each client's business intimately, can flag issues early and ensure deadlines are met consistently.
 
 ### International coordination
 
@@ -340,4 +340,4 @@ For clients with cross-border structures, the firm coordinates with advisers in 
 
 Fees for ongoing accounting and tax compliance are quoted as fixed monthly amounts wherever possible. Clients know their costs in advance and can budget accordingly. Project-based work (restructurings, rulings, tax disputes) is quoted with detailed cost estimates before engagement.
 
-If your business needs clarity on Swiss tax obligations, structuring options or compliance requirements, Lawsupport can provide an initial assessment. Contact the team to discuss your situation.
+If your business needs clarity on Swiss tax obligations, structuring options or compliance requirements, Morgan Hartley Consulting can provide an initial assessment. Contact the team to discuss your situation.

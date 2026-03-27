@@ -1,6 +1,6 @@
 ---
 title: "C Permit Switzerland: Requirements & How to Get It"
-description: "Swiss C permit: eligibility after 5 or 10 years, conditions, application steps, and the path to citizenship. Get expert advice from Lawsupport, Zug."
+description: "Swiss C permit: eligibility after 5 or 10 years, conditions, application steps, and the path to citizenship. Get expert advice from Morgan Hartley Consulting, Zug."
 date: "19.03.2026"
 category: "Immigration"
 categoryHref: "/immigration/"
@@ -25,7 +25,7 @@ tocItems:
   - id: "c-permit-vs-b-permit-vs-swiss-citizenship-quick-comparison"
     title: "C Permit vs. B Permit vs. Swiss Citizenship: Quick Comparison"
   - id: "how-lawsupport-can-help"
-    title: "How Lawsupport Can Help"
+    title: "How Morgan Hartley Consulting Can Help"
 faqItems:
   - question: "Can I apply for the C permit before my qualifying period is complete?"
     answer: "No. The cantonal migration office will not accept a C permit application until you have completed the required qualifying period — five or ten years depending on your nationality. However, you should prepare your documentation in advance so that you can apply promptly when the threshold is reached."
@@ -320,11 +320,11 @@ In practice, yes. Swiss financial institutions and landlords treat C permit hold
 
 ---
 
-## How Lawsupport Can Help
+## How Morgan Hartley Consulting Can Help
 
 The C permit process looks straightforward on paper. In practice, the details — absence calculations, financial independence assessments, integration documentation, cantonal variations — create significant room for errors that can delay your application or, in the worst case, lead to refusal.
 
-At Lawsupport, we advise clients on the full [Swiss immigration](/immigration/immigrate-to-switzerland/) pathway: from initial [B permit applications](/immigration/b-permit-switzerland/) through C permit eligibility assessment, application preparation, and onward to naturalisation. We work with individuals, families, and entrepreneurs across Swiss cantonal offices.
+At Morgan Hartley Consulting, we advise clients on the full [Swiss immigration](/immigration/immigrate-to-switzerland/) pathway: from initial [B permit applications](/immigration/b-permit-switzerland/) through C permit eligibility assessment, application preparation, and onward to naturalisation. We work with individuals, families, and entrepreneurs across Swiss cantonal offices.
 
 If you are approaching your C permit eligibility date, have questions about whether your residence qualifies, or want to understand how the C permit fits into your long-term plans in Switzerland, we are ready to advise.
 
@@ -338,4 +338,4 @@ If you are approaching your C permit eligibility date, have questions about whet
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

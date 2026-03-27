@@ -1,6 +1,6 @@
 ---
 title: "VAT Registration Switzerland: MWST Guide (2026)"
-description: "VAT registration in Switzerland for foreign companies: CHF 100'000 threshold, 8.1% standard rate, fiscal representative rules, and ESTV filing. Lawsupport, Zug."
+description: "VAT registration in Switzerland for foreign companies: CHF 100'000 threshold, 8.1% standard rate, fiscal representative rules, and ESTV filing. Morgan Hartley Consulting, Zug."
 date: "15.08.2026"
 publishDate: "2026-08-15"
 category: "Tax & Accounting"
@@ -51,7 +51,7 @@ tocItems:
   - id: "practical-tips-for-newly-formed-swiss-companies"
     title: "Practical Tips for Newly Formed Swiss Companies"
   - id: "lawsupports-swiss-vat-services"
-    title: "Lawsupport's Swiss VAT Services"
+    title: "Morgan Hartley Consulting's Swiss VAT Services"
   - id: "register-for-swiss-vat-with-confidence"
     title: "Register for Swiss VAT With Confidence"
 relatedArticles:
@@ -170,7 +170,7 @@ Foreign companies without a permanent establishment in Switzerland must appoint 
 - Takes joint liability for outstanding VAT obligations
 - Must be resident or established in Switzerland
 
-Lawsupport provides fiscal representative services for foreign companies registering for Swiss VAT. This is one of the first steps we handle after [company formation in Switzerland](/company-formation/company-formation-switzerland/).
+Morgan Hartley Consulting provides fiscal representative services for foreign companies registering for Swiss VAT. This is one of the first steps we handle after [company formation in Switzerland](/company-formation/company-formation-switzerland/).
 
 ### 3. Register via the ESTV SuisseTax Portal
 
@@ -204,7 +204,7 @@ A German GmbH sells consumer electronics through its own website. In 2025, Swiss
 
 At this point, the obligation to register arises — not when the CHF 100'000 mark is actually crossed, but when it becomes **foreseeable** that it will be crossed. The company has no Swiss office, so a fiscal representative must be appointed before the ESTV application is submitted.
 
-The company engages Lawsupport as fiscal representative. The registration application is filed in March 2026. The VAT number is issued within three weeks. The company begins charging 8.1% Swiss VAT on deliveries to Swiss customers and files its first quarterly return covering January to March 2026.
+The company engages Morgan Hartley Consulting as fiscal representative. The registration application is filed in March 2026. The VAT number is issued within three weeks. The company begins charging 8.1% Swiss VAT on deliveries to Swiss customers and files its first quarterly return covering January to March 2026.
 
 Failure to register would have exposed the company to retroactive VAT assessments, interest charges, and potential penalties — all payable in addition to the VAT that should have been collected from customers but was not.
 
@@ -280,9 +280,9 @@ If your company operates in one of these sectors, you may have no entitlement to
 
 ---
 
-## Lawsupport's Swiss VAT Services
+## Morgan Hartley Consulting's Swiss VAT Services
 
-Lawsupport (Morgan Hartley Consulting) has assisted companies from over 40 countries with Swiss tax registration and compliance for more than 18 years. Our VAT service offering covers the full lifecycle:
+Morgan Hartley Consulting (Morgan Hartley Consulting) has assisted companies from over 40 countries with Swiss tax registration and compliance for more than 18 years. Our VAT service offering covers the full lifecycle:
 
 - **Registration assessment:** We determine whether and when your company must or should register, including analysis of supply types and place-of-supply rules.
 - **Fiscal representative services:** We act as your appointed fiscal representative with the ESTV, taking formal responsibility for your VAT compliance.
@@ -345,9 +345,9 @@ Swiss VAT numbers follow the format CHE-XXX.XXX.XXX MWST (or TVA/IVA depending o
 
 VAT registration in Switzerland is a mandatory step for any business exceeding the CHF 100'000 worldwide turnover threshold with Swiss-nexus supplies. Getting it right from the start — correct rate application, proper fiscal representative appointment, and timely filing — prevents the retroactive assessments and penalty interest that catch unprepared businesses.
 
-**Request a Free Assessment** — contact Morgan Hartley at Lawsupport to determine your Swiss VAT registration obligations and timeline.
+**Request a Free Assessment** — contact Morgan Hartley at Morgan Hartley Consulting to determine your Swiss VAT registration obligations and timeline.
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: [+41 44 51 52 592](tel:+41445152592)
 Email: [info@lawsupport.ch](mailto:info@lawsupport.ch)

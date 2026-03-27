@@ -202,10 +202,10 @@ Some cantonal banks have private banking divisions — notably ZKB, BCGE, and BC
 
 <div class="cta-block" style="background:#f5f7fa;border-left:4px solid #003087;padding:1.5rem 2rem;margin:2rem 0;border-radius:4px;">
   <strong>Need help choosing the right bank for your Swiss company?</strong><br>
-  Morgan Hartley and the Lawsupport team advise on bank selection, account opening support, and corporate structuring for international companies in Switzerland.<br><br>
+  Morgan Hartley and the Morgan Hartley Consulting team advise on bank selection, account opening support, and corporate structuring for international companies in Switzerland.<br><br>
   <a href="/contacts/" style="background:#003087;color:#fff;padding:0.75rem 1.5rem;border-radius:4px;text-decoration:none;font-weight:600;display:inline-block;">Request a Free Assessment</a>
 </div>
 
 ---
 
-*Morgan Hartley, Senior Corporate Lawyer & Partner — Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley, Senior Corporate Lawyer & Partner — Morgan Hartley Consulting (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

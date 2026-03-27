@@ -1,6 +1,6 @@
 ---
 title: "Lump-Sum Taxation Switzerland: Full Guide (2026)"
-description: "Switzerland's lump-sum taxation for wealthy foreign residents: eligibility, how tax is calculated, available cantons, and how to apply. Lawsupport, Zug."
+description: "Switzerland's lump-sum taxation for wealthy foreign residents: eligibility, how tax is calculated, available cantons, and how to apply. Morgan Hartley Consulting, Zug."
 date: "01.05.2026"
 publishDate: "2026-05-01"
 category: "Tax & Accounting"
@@ -45,7 +45,7 @@ tocItems:
   - id: "steps-to-establish-lump-sum-taxation"
     title: "Steps to Establish Lump-Sum Taxation"
   - id: "lawsupports-service"
-    title: "Lawsupport's Service"
+    title: "Morgan Hartley Consulting's Service"
 relatedArticles:
   - title: "Swiss Tax Incentives: IP Box, R&D, NID (2026)"
     href: "/tax-accounting/swiss-tax-incentives/"
@@ -200,11 +200,11 @@ Before applying: choice of canton (different minimums and rates), interaction wi
 
 **Request a Free Assessment**
 
-Considering lump-sum taxation as part of your move to Switzerland? Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
+Considering lump-sum taxation as part of your move to Switzerland? Morgan Hartley, Senior Corporate Lawyer & Partner at Morgan Hartley Consulting, reviews your situation and sets out the steps needed — without obligation.
 
 [Request a Free Assessment](/contacts/)
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch

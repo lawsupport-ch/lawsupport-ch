@@ -19,7 +19,7 @@ tocItems:
   - id: "warning-signs-that-an-application-will-be-rejected"
     title: "Warning Signs That an Application Will Be Rejected"
   - id: "how-lawsupport-approaches-bank-selection"
-    title: "How Lawsupport Approaches Bank Selection"
+    title: "How Morgan Hartley Consulting Approaches Bank Selection"
 faqItems:
   - question: "What if the bank rejects our company's account application?"
     answer: "Rejection is common, especially at PostFinance and UBS without a prior relationship. Apply to at least two banks simultaneously. A Swiss-resident signatory with existing Swiss banking history and a real office address (not c/o) significantly improves approval rates."
@@ -64,7 +64,7 @@ relatedArticles:
     "jobTitle": "Senior Corporate Lawyer & Partner",
     "worksFor": {
       "@type": "Organization",
-      "name": "Lawsupport (Morgan Hartley Consulting)",
+      "name": "Morgan Hartley Consulting (Morgan Hartley Consulting)",
       "url": "https://lawsupport.ch",
       "address": {
         "@type": "PostalAddress",
@@ -76,7 +76,7 @@ relatedArticles:
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Lawsupport",
+    "name": "Morgan Hartley Consulting",
     "url": "https://lawsupport.ch"
   },
   "mainEntityOfPage": {
@@ -128,7 +128,7 @@ Switzerland has over 200 licensed banks, as listed in the <a href="https://www.f
 
 The most expensive mistake a foreign business owner makes is submitting a cold application to a bank that was never going to accept their profile. You lose time. You may generate a rejection on record. And in some cases, a refusal from one Swiss institution makes the next application harder.
 
-The right approach — and the approach we use at Lawsupport — is to profile the business first, then identify which institutions are currently open to that profile, then approach with a complete and well-prepared application package.
+The right approach — and the approach we use at Morgan Hartley Consulting — is to profile the business first, then identify which institutions are currently open to that profile, then approach with a complete and well-prepared application package.
 
 ---
 
@@ -299,13 +299,13 @@ Swiss bank applications fail for reasons that are not documented on any bank's w
 
 ---
 
-## How Lawsupport Approaches Bank Selection
+## How Morgan Hartley Consulting Approaches Bank Selection
 
 We do not submit applications and wait to see which bank responds. Account opening is solely the bank’s decision — there is no right to a Swiss bank account, and no appeals process when a bank declines. That makes bank selection the most consequential step in the process. We profile each client’s business before a single document is prepared. That means understanding the company's structure, the UBOs' nationalities and financial history, the business activity and its risk classification, the expected transaction patterns, and any factors that require active management in the compliance process.
 
 From that profile, we identify which Swiss banking institutions are currently open to that type of client — based on our active working relationships with multiple institutions across the Swiss banking sector. We prepare the application to each bank's specific expectations, not to a generic template. And we manage the relationship with the bank's compliance and onboarding teams throughout the process.
 
-Lawsupport (Morgan Hartley Consulting) has been opening Swiss bank accounts for foreign-owned businesses for over 18 years. We have worked with clients from more than 40 countries. Our value is not in knowing which banks exist — anyone can read a list. Our value is in knowing which banks are currently accepting which profiles, and how to present your application to give it the strongest possible position.
+Morgan Hartley Consulting (Morgan Hartley Consulting) has been opening Swiss bank accounts for foreign-owned businesses for over 18 years. We have worked with clients from more than 40 countries. Our value is not in knowing which banks exist — anyone can read a list. Our value is in knowing which banks are currently accepting which profiles, and how to present your application to give it the strongest possible position.
 
 ---
 
@@ -477,4 +477,4 @@ Swiss banking secrecy as it existed before 2017 no longer functions as a tool fo
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

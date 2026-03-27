@@ -244,7 +244,7 @@ VAT-registered companies must file returns on a quarterly or semi-annual cycle w
 
 If your company has missing accounts, open tax years, or you are trying to wind up a company that cannot obtain tax clearance, speak with Morgan Hartley directly.
 
-**Morgan Hartley** — Senior Corporate Lawyer & Partner, Lawsupport (Morgan Hartley Consulting)
+**Morgan Hartley** — Senior Corporate Lawyer & Partner, Morgan Hartley Consulting (Morgan Hartley Consulting)
 Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: [+41 44 51 52 592](tel:+41445152592)
 Email: [info@lawsupport.ch](mailto:info@lawsupport.ch)
@@ -253,4 +253,4 @@ Email: [info@lawsupport.ch](mailto:info@lawsupport.ch)
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

@@ -356,4 +356,4 @@ Yes. EU trademarks registered with EUIPO do not extend to Switzerland because Sw
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

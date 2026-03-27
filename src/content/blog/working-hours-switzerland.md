@@ -234,7 +234,7 @@ Senior management (Kadermitarbeiter) with genuine decision-making authority are 
 Swiss [employment law](/employment-law/employment-law-switzerland/) sets clear rules on working hours, overtime, and rest periods — but the interaction between statutory provisions, contractual terms, and collective labour agreements requires careful analysis for each employer's situation. Whether you are setting up [payroll](/tax-accounting/payroll-switzerland/) for a new Swiss entity or reviewing existing employment terms, we can advise on compliance.
 
 **Morgan Hartley — Senior Corporate Lawyer & Partner**
-Lawsupport (Morgan Hartley Consulting)
+Morgan Hartley Consulting (Morgan Hartley Consulting)
 Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 
@@ -242,4 +242,4 @@ Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 
 ---
 
-*This article reflects Swiss employment law and practice as of March 2026. Statutory provisions, GAV terms, and cantonal practices are subject to revision. Nothing in this article constitutes legal advice. Contact Lawsupport at info@lawsupport.ch for advice specific to your situation.*
+*This article reflects Swiss employment law and practice as of March 2026. Statutory provisions, GAV terms, and cantonal practices are subject to revision. Nothing in this article constitutes legal advice. Contact Morgan Hartley Consulting at info@lawsupport.ch for advice specific to your situation.*

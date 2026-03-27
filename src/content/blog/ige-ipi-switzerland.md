@@ -278,11 +278,11 @@ For a broader look at protecting your intellectual property across all categorie
 
 **Request a Free Assessment**
 
-Protecting your intellectual property in Switzerland starts with the right filing strategy at IGE/IPI. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
+Protecting your intellectual property in Switzerland starts with the right filing strategy at IGE/IPI. Morgan Hartley, Senior Corporate Lawyer & Partner at Morgan Hartley Consulting, reviews your situation and sets out the steps needed — without obligation.
 
 [Request a Free Assessment](/contacts/)
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch

@@ -1,6 +1,6 @@
 ---
 title: "Corporate Tax Return Switzerland: Filing Guide"
-description: "Corporate tax return Switzerland: deadlines, required documents, cantonal differences, and common errors. Get expert filing support from Lawsupport, Zug."
+description: "Corporate tax return Switzerland: deadlines, required documents, cantonal differences, and common errors. Get expert filing support from Morgan Hartley Consulting, Zug."
 date: "19.03.2026"
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"
@@ -23,12 +23,12 @@ tocItems:
   - id: "electronic-filing-in-zug"
     title: "Electronic Filing in Zug"
   - id: "what-lawsupport-handles"
-    title: "What Lawsupport Handles"
+    title: "What Morgan Hartley Consulting Handles"
 faqItems:
   - question: "When is the Swiss corporate tax return due?"
     answer: "The return is due within 6 months of the financial year end. For a calendar-year company, this means 30 June of the following year. Extensions are available on request and are routinely granted with professional representation."
   - question: "Can I file the Swiss corporate tax return in English?"
-    answer: "No. Swiss cantonal tax returns must be completed in the official language of the canton — German in Zug and most German-speaking cantons. The accompanying financial statements may be in any language, but the return form itself must be in the cantonal language. Lawsupport handles this for all clients regardless of the client's language."
+    answer: "No. Swiss cantonal tax returns must be completed in the official language of the canton — German in Zug and most German-speaking cantons. The accompanying financial statements may be in any language, but the return form itself must be in the cantonal language. Morgan Hartley Consulting handles this for all clients regardless of the client's language."
   - question: "What happens if my Swiss company makes a loss?"
     answer: "Losses are carried forward and offset against taxable profits in future years. Swiss law allows loss carryforward for 7 years from the year the loss was incurred. There is no loss carryback provision in Swiss federal tax law (some cantons have limited exceptions)."
   - question: "Does a dormant Swiss company still need to file a tax return?"
@@ -197,7 +197,7 @@ Once an assessment is issued, you have **30 days** to file an objection (Einspra
 
 ---
 
-## What Lawsupport Handles
+## What Morgan Hartley Consulting Handles
 
 We prepare and file corporate tax returns for Zug-based companies as part of our ongoing accounting and tax service. This includes:
 
@@ -208,7 +208,7 @@ We prepare and file corporate tax returns for Zug-based companies as part of our
 - Handling tax authority queries and correspondence
 - Objection filings if assessments differ from expectations
 
-**Morgan Hartley** | Senior Corporate Lawyer & Partner, Lawsupport (Morgan Hartley Consulting GmbH)
+**Morgan Hartley** | Senior Corporate Lawyer & Partner, Morgan Hartley Consulting (Morgan Hartley Consulting GmbH)
 Phone: +41 44 51 52 592 | Email: info@lawsupport.ch | Address: Baarerstrasse 135, 6300 Zug
 
 [Request a Free Assessment →](/contacts/)
@@ -228,7 +228,7 @@ The return is due within 6 months of the financial year end. For a calendar-year
 
 **Can I file the Swiss corporate tax return in English?**
 
-No. Swiss cantonal tax returns must be completed in the official language of the canton — German in Zug and most German-speaking cantons. The accompanying financial statements may be in any language, but the return form itself must be in the cantonal language. Lawsupport handles this for all clients regardless of the client's language.
+No. Swiss cantonal tax returns must be completed in the official language of the canton — German in Zug and most German-speaking cantons. The accompanying financial statements may be in any language, but the return form itself must be in the cantonal language. Morgan Hartley Consulting handles this for all clients regardless of the client's language.
 
 **What happens if my Swiss company makes a loss?**
 
@@ -272,4 +272,4 @@ You have 30 days from the date of the assessment notice to file a written object
 
 ---
 
-*Morgan Hartley | Senior Corporate Lawyer & Partner, Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley | Senior Corporate Lawyer & Partner, Morgan Hartley Consulting (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

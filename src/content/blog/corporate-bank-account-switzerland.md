@@ -250,7 +250,7 @@ Missing any single item restarts the review clock. Rejections arrive after 3-4 w
 
 ## Our Banking Introduction Service
 
-At Lawsupport, we open corporate bank accounts for clients every week. We have done so for over 1,000 companies formed for clients from more than 40 countries over 18 years of practice. Here is exactly what our banking introduction service includes.
+At Morgan Hartley Consulting, we open corporate bank accounts for clients every week. We have done so for over 1,000 companies formed for clients from more than 40 countries over 18 years of practice. Here is exactly what our banking introduction service includes.
 
 **KYC package preparation.** We prepare the complete documentation package — business plan, ownership chart, source of funds narrative with supporting evidence, AML questionnaire, and all corporate documents — to the standard Swiss banks expect. We do not submit incomplete packages.
 
@@ -266,7 +266,7 @@ At Lawsupport, we open corporate bank accounts for clients every week. We have d
 
 If you are forming a Swiss company or need a corporate bank account for an existing Swiss entity, speak with us before you approach any bank directly. The preparation stage is where applications are won or lost.
 
-**Morgan Hartley** | Senior Corporate Lawyer & Partner, Lawsupport (Morgan Hartley Consulting GmbH)
+**Morgan Hartley** | Senior Corporate Lawyer & Partner, Morgan Hartley Consulting (Morgan Hartley Consulting GmbH)
 Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592
 Email: info@lawsupport.ch
@@ -321,4 +321,4 @@ Most Swiss banks support multi-currency sub-accounts covering CHF, EUR, USD, GBP
 
 ---
 
-*Morgan Hartley | Senior Corporate Lawyer & Partner, Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley | Senior Corporate Lawyer & Partner, Morgan Hartley Consulting (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

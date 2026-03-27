@@ -28,7 +28,7 @@ tocItems:
   - id: "registering-with-authorities"
     title: "Registering with Authorities"
   - id: "how-lawsupport-can-help"
-    title: "How Lawsupport Can Help"
+    title: "How Morgan Hartley Consulting Can Help"
 faqItems:
   - question: "Do I need a visa to move to Switzerland?"
     answer: "EU/EFTA nationals do not need a visa — they enter freely and apply for a residence permit after arrival. Non-EU nationals from visa-exempt countries (USA, Canada, UK, Australia, Japan, etc.) can enter visa-free for 90 days but must obtain a permit before starting work. Nationals of visa-required countries must obtain a D visa from the Swiss embassy before entry."
@@ -62,7 +62,7 @@ relatedArticles:
 
 Moving to Switzerland requires a visa or entry permit, a residence permit once you arrive, mandatory health insurance, and registration with cantonal and municipal authorities. EU/EFTA nationals face fewer hurdles than non-EU nationals, but both groups must follow a structured process. This guide covers every practical step: visa requirements, family reunification, cost of living, property purchase rules, and the Lex Koller restrictions that limit foreign property ownership.
 
-For personalised relocation planning, [contact Lawsupport](/contacts/) for a free initial assessment.
+For personalised relocation planning, [contact Morgan Hartley Consulting](/contacts/) for a free initial assessment.
 
 ---
 
@@ -225,9 +225,9 @@ Registration triggers your health insurance obligation and establishes your tax 
 
 ---
 
-## How Lawsupport Can Help
+## How Morgan Hartley Consulting Can Help
 
-Relocating to Switzerland involves coordinating permits, housing, insurance, banking, and registration — often within tight deadlines. Lawsupport, based in Zug, provides end-to-end relocation support:
+Relocating to Switzerland involves coordinating permits, housing, insurance, banking, and registration — often within tight deadlines. Morgan Hartley Consulting, based in Zug, provides end-to-end relocation support:
 
 - [Visa](/immigration/swiss-visa/) and permit applications for all nationalities
 - [Family reunification](/immigration/family-reunification-switzerland/) filing and documentation

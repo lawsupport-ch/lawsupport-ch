@@ -320,12 +320,12 @@ Companies must have genuine economic substance in their registered canton. Opera
 
 ## Ready to Establish Your Swiss Company in the Right Canton?
 
-Lawsupport (Morgan Hartley Consulting) has assisted clients from over 40 countries with company formations in Switzerland. We advise on canton selection, legal structure, substance requirements, tax rulings, and ongoing compliance — integrating legal, tax, and [accounting](/tax-accounting/accounting-switzerland/) expertise in a single practice.
+Morgan Hartley Consulting (Morgan Hartley Consulting) has assisted clients from over 40 countries with company formations in Switzerland. We advise on canton selection, legal structure, substance requirements, tax rulings, and ongoing compliance — integrating legal, tax, and [accounting](/tax-accounting/accounting-switzerland/) expertise in a single practice.
 
 **[Request a Free Assessment](/contacts/)**
 
 **Morgan Hartley** — Senior Corporate Lawyer & Partner
-Lawsupport (Morgan Hartley Consulting)
+Morgan Hartley Consulting (Morgan Hartley Consulting)
 Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592
 Email: info@lawsupport.ch

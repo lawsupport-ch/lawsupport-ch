@@ -328,7 +328,7 @@ Most FINMA-regulated entities use an AG (Aktiengesellschaft) structure due to it
 
 FINMA licence applications are among the most document-intensive and technically demanding regulatory processes in Switzerland. Pre-application structuring — entity form, capital planning, governance framework, and AML compliance design — determines whether an application succeeds and how long it takes.
 
-Morgan Hartley and the Lawsupport team have advised clients on FINMA licensing, VASP registration, SRO membership, and crypto/blockchain legal structuring since Crypto Valley's earliest years.
+Morgan Hartley and the Morgan Hartley Consulting team have advised clients on FINMA licensing, VASP registration, SRO membership, and crypto/blockchain legal structuring since Crypto Valley's earliest years.
 
 **Request a Free Assessment** — contact us to discuss your FINMA licensing requirements:
 
@@ -344,4 +344,4 @@ Related guides: [Crypto license Switzerland](/licensing/crypto-license-switzerla
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

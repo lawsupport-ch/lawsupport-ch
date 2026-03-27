@@ -326,10 +326,10 @@ No. Switzerland is not part of the EU single market for financial services. A Sw
 
 ## Request a Free Assessment
 
-Lawsupport (Morgan Hartley Consulting) advises independent asset managers, family offices, and fintech firms on FINMA licensing from initial scoping through licence grant. We prepare complete application packages, coordinate AO onboarding, and manage FINMA correspondence throughout the review period.
+Morgan Hartley Consulting (Morgan Hartley Consulting) advises independent asset managers, family offices, and fintech firms on FINMA licensing from initial scoping through licence grant. We prepare complete application packages, coordinate AO onboarding, and manage FINMA correspondence throughout the review period.
 
 **Morgan Hartley**, Senior Corporate Lawyer & Partner
-Lawsupport (Morgan Hartley Consulting)
+Morgan Hartley Consulting (Morgan Hartley Consulting)
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 · info@lawsupport.ch
 

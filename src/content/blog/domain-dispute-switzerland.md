@@ -1,6 +1,6 @@
 ---
 title: "Domain Dispute Switzerland: .ch & WIPO (2026)"
-description: "Resolve a .ch domain dispute in Switzerland: SWITCH-DRP, WIPO arbitration, cybersquatting recovery, and court proceedings. Expert guide from Lawsupport, Zug."
+description: "Resolve a .ch domain dispute in Switzerland: SWITCH-DRP, WIPO arbitration, cybersquatting recovery, and court proceedings. Expert guide from Morgan Hartley Consulting, Zug."
 date: "19.03.2026"
 category: "IP & Commercial Law"
 categoryHref: "/intellectual-property/"
@@ -311,12 +311,12 @@ Typosquatting involves registering slightly misspelled versions of well-known br
 
 ## Request a Free Assessment
 
-If your trademark or company name has been registered as a .ch domain by a third party, Lawsupport can advise on your strongest route to recovery — whether through SWITCH-DRP, Swiss court proceedings, or direct negotiation.
+If your trademark or company name has been registered as a .ch domain by a third party, Morgan Hartley Consulting can advise on your strongest route to recovery — whether through SWITCH-DRP, Swiss court proceedings, or direct negotiation.
 
 [Request a Free Assessment](/contacts/)
 
 **Morgan Hartley | Senior Corporate Lawyer & Partner**
-Lawsupport (Morgan Hartley Consulting GmbH)
+Morgan Hartley Consulting (Morgan Hartley Consulting GmbH)
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch
@@ -327,4 +327,4 @@ info@lawsupport.ch
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug, Switzerland | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug, Switzerland | +41 44 51 52 592 | info@lawsupport.ch*

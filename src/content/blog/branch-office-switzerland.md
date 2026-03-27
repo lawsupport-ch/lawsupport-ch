@@ -32,7 +32,7 @@ faqItems:
   - question: "What if the bank rejects our branch's account application?"
     answer: "This happens frequently. PostFinance rejects most branch applications outright. UBS requires the branch to be registered for at least 30 days before accepting an application. Apply to at least two banks simultaneously — cantonal banks like Zuger Kantonalbank are sometimes faster."
   - question: "Do we need a Swiss-resident representative for the branch?"
-    answer: "Yes. Under Art. 935 CO, every branch must have at least one authorised representative domiciled in Switzerland with individual signatory authority. This person is named in the Commercial Register and publicly visible. Lawsupport provides this service from CHF 1'500/year."
+    answer: "Yes. Under Art. 935 CO, every branch must have at least one authorised representative domiciled in Switzerland with individual signatory authority. This person is named in the Commercial Register and publicly visible. Morgan Hartley Consulting provides this service from CHF 1'500/year."
   - question: "How is a branch taxed differently from a subsidiary?"
     answer: "The branch pays Swiss tax on attributable Swiss profit only. Key advantage: profit remittances to the parent are not subject to Swiss withholding tax (35%), unlike dividends from a subsidiary. The branch must file a Swiss corporate tax return for every year of activity."
   - question: "How long does branch registration actually take?"
@@ -101,7 +101,7 @@ A certified copy of the parent company's statutes or articles of association.
 A board resolution or equivalent decision authorising the establishment of the Swiss branch, signed by an authorised officer of the parent company.
 
 **5. Appointment of a Swiss-resident representative**
-Switzerland requires every branch to have at least one authorised representative (Zeichnungsberechtigter) domiciled in Switzerland with individual signatory authority. This person must be named in the register and their appointment is publicly visible. Lawsupport provides Swiss-resident representative services for branch offices where clients do not have a suitable local person.
+Switzerland requires every branch to have at least one authorised representative (Zeichnungsberechtigter) domiciled in Switzerland with individual signatory authority. This person must be named in the register and their appointment is publicly visible. Morgan Hartley Consulting provides Swiss-resident representative services for branch offices where clients do not have a suitable local person.
 
 **6. Branch purpose and Swiss address**
 The branch must have a [registered Swiss address](/corporate-services/registered-address-switzerland/) and a defined business purpose consistent with — or a subset of — the parent company's activities.
@@ -230,7 +230,7 @@ Branch registration in Switzerland typically costs:
 |---|---|
 | Apostille and translation of foreign documents | 300–800 |
 | Commercial Register fee | 600–800 |
-| Lawsupport registration coordination | 1,500–2,500 |
+| Morgan Hartley Consulting registration coordination | 1,500–2,500 |
 | Swiss-resident representative (annual) | 1,500–2,500 |
 | **Total (first year, all-in)** | **~4,000–6,500** |
 
@@ -252,11 +252,11 @@ A US employer-of-record company registered a Swiss branch in Zurich to serve thr
 
 ## Register Your Swiss Branch Office
 
-Morgan Hartley and the Lawsupport team register Swiss branch offices for foreign companies in Zug, Zurich, and other cantons. We handle document apostille coordination, Commercial Register filing, and provide Swiss-resident representative services for existing branches.
+Morgan Hartley and the Morgan Hartley Consulting team register Swiss branch offices for foreign companies in Zug, Zurich, and other cantons. We handle document apostille coordination, Commercial Register filing, and provide Swiss-resident representative services for existing branches.
 
 **[Request a Free Assessment →](/contacts/)**
 
-Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch
+Morgan Hartley Consulting (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch
 
 </div>
 <!-- /CTA -->
@@ -287,7 +287,7 @@ You need: (1) an apostilled extract from the foreign company's home register, (2
 
 **Does a Swiss branch office need a Swiss-resident representative?**
 
-Yes. Under Article 935 CO, every Swiss branch must have at least one authorised representative (Zeichnungsberechtigter) domiciled in Switzerland with individual signatory authority. This person is named in the register and publicly visible. Lawsupport provides this service for branches where the parent company has no suitable local person.
+Yes. Under Article 935 CO, every Swiss branch must have at least one authorised representative (Zeichnungsberechtigter) domiciled in Switzerland with individual signatory authority. This person is named in the register and publicly visible. Morgan Hartley Consulting provides this service for branches where the parent company has no suitable local person.
 
 ---
 
@@ -323,7 +323,7 @@ Yes, if the branch's Swiss-sourced turnover exceeds CHF 100,000 per year, it mus
 
 **How much does it cost to register a branch office in Switzerland?**
 
-Total all-in registration costs are approximately CHF 4,000–6,500. This includes: apostille and translation of foreign documents (CHF 300–800), Commercial Register fee (CHF 600–800), and Lawsupport's professional coordination fee (CHF 1,500–2,500). The ongoing annual Swiss-resident representative fee is CHF 1,500–2,500.
+Total all-in registration costs are approximately CHF 4,000–6,500. This includes: apostille and translation of foreign documents (CHF 300–800), Commercial Register fee (CHF 600–800), and Morgan Hartley Consulting's professional coordination fee (CHF 1,500–2,500). The ongoing annual Swiss-resident representative fee is CHF 1,500–2,500.
 
 ---
 
@@ -351,4 +351,4 @@ In almost all cases, yes. A registered branch with a fixed place of business in 
 
 ---
 
-*Morgan Hartley | Senior Corporate Lawyer & Partner | Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley | Senior Corporate Lawyer & Partner | Morgan Hartley Consulting (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

@@ -26,7 +26,7 @@ tocItems:
   - id: "common-mistakes-in-swiss-ip-registration"
     title: "Common Mistakes in Swiss IP Registration"
   - id: "work-with-lawsupport-on-ip-protection"
-    title: "Work With Lawsupport on IP Protection"
+    title: "Work With Morgan Hartley Consulting on IP Protection"
 faqItems:
   - question: "How much does it cost to register a trademark in Switzerland?"
     answer: "The IGE/IPI official fee for an online trademark application covering one to three Nice classes is CHF 550. Each additional class costs CHF 100. If you file on paper, the fee is CHF 700. Accelerated examination costs an additional CHF 400. Professional fees for a trademark attorney to conduct prior art searches, prepare the application, and handle correspondence typically add CHF 800-2,000. Total first-registration cost for a standard mark in three classes: approximately CHF 1,350-2,550."
@@ -218,7 +218,7 @@ Intentional trademark infringement is a criminal offence punishable by imprisonm
 Trademark owners can file an application with the Federal Customs Administration (FCA) to have counterfeit goods detained at the Swiss border. The FCA holds suspect goods for 10 working days, during which the rights holder must initiate civil or criminal proceedings.
 
 **Practical enforcement approach:**
-Most infringement matters begin with a cease-and-desist letter from a trademark attorney. In Lawsupport's experience, approximately 70% of infringement cases are resolved at this stage without court proceedings.
+Most infringement matters begin with a cease-and-desist letter from a trademark attorney. In Morgan Hartley Consulting's experience, approximately 70% of infringement cases are resolved at this stage without court proceedings.
 
 ---
 
@@ -248,16 +248,16 @@ Most infringement matters begin with a cease-and-desist letter from a trademark 
 
 ---
 
-## Work With Lawsupport on IP Protection
+## Work With Morgan Hartley Consulting on IP Protection
 
-Lawsupport (Morgan Hartley Consulting) assists foreign and domestic businesses with Swiss intellectual property registration and enforcement. Our IP services include trademark searches, application filing, opposition proceedings, and enforcement strategy.
+Morgan Hartley Consulting (Morgan Hartley Consulting) assists foreign and domestic businesses with Swiss intellectual property registration and enforcement. Our IP services include trademark searches, application filing, opposition proceedings, and enforcement strategy.
 
 For the broader IP framework, see our guides on [IP protection in Switzerland](/intellectual-property/ip-protection-switzerland/), [patent registration](/intellectual-property/patent-registration-switzerland/), and the [IGE/IPI office guide](/intellectual-property/ige-ipi-switzerland/).
 
 **[Request a Free Assessment](/contacts/)** — or contact us directly:
 
 **Morgan Hartley, Senior Corporate Lawyer & Partner**
-Lawsupport (Morgan Hartley Consulting GmbH)
+Morgan Hartley Consulting (Morgan Hartley Consulting GmbH)
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 
@@ -307,4 +307,4 @@ A trademark protects signs that distinguish goods or services of one enterprise 
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

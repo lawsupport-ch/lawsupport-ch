@@ -1,6 +1,6 @@
 ---
 title: "Doing Business in Switzerland: Investor's Guide"
-description: "Doing business in Switzerland in 2026: entity types, cantonal taxes, banking, employment, IP, and dispute resolution. Practical guide from Lawsupport, Zug."
+description: "Doing business in Switzerland in 2026: entity types, cantonal taxes, banking, employment, IP, and dispute resolution. Practical guide from Morgan Hartley Consulting, Zug."
 date: "19.03.2026"
 category: "Company Formation"
 categoryHref: "/company-formation/"
@@ -35,16 +35,16 @@ tocItems:
   - id: "key-practical-challenges-for-international-companies"
     title: "Key Practical Challenges for International Companies"
   - id: "how-lawsupport-supports-international-investors"
-    title: "How Lawsupport Supports International Investors"
+    title: "How Morgan Hartley Consulting Supports International Investors"
   - id: "request-a-free-assessment"
     title: "Request a Free Assessment"
 faqItems:
   - question: "Ready to establish your business in Switzerland?"
-    answer: "Whether you are at the initial evaluation stage or ready to incorporate, Morgan Hartley and the Lawsupport team are available for a no-obligation consultation. We advise on entity selection, canton selection, banking, tax, and regulatory compliance — and we manage the entire formation process."
+    answer: "Whether you are at the initial evaluation stage or ready to incorporate, Morgan Hartley and the Morgan Hartley Consulting team are available for a no-obligation consultation. We advise on entity selection, canton selection, banking, tax, and regulatory compliance — and we manage the entire formation process."
   - question: "How long does it take to incorporate a company in Switzerland?"
     answer: "A GmbH or AG can typically be incorporated within 5–10 business days once all documentation is in order and the notarial appointment is scheduled. The Commercial Register processes applications within 1–3 business days in most cantons. The practical constraint is usually assembling certified identity documents and paying in the share capital, which requires a temporary bank account or notarial capital deposit arrangement."
   - question: "Do I need to be a Swiss resident to own a Swiss company?"
-    answer: "No. Non-residents can own 100% of a Swiss GmbH or AG. However, at least one manager (GmbH) or one board member (AG) who is authorised to represent the company must be domiciled in Switzerland. For non-residents without a Swiss director in their network, Lawsupport provides qualified nominee director services."
+    answer: "No. Non-residents can own 100% of a Swiss GmbH or AG. However, at least one manager (GmbH) or one board member (AG) who is authorised to represent the company must be domiciled in Switzerland. For non-residents without a Swiss director in their network, Morgan Hartley Consulting provides qualified nominee director services."
   - question: "What is the most tax-efficient canton for a holding company?"
     answer: "Zug is the most widely used canton for holding companies, combining the lowest effective corporate tax rates in Switzerland (approximately 11.8%), a well-developed ecosystem of service providers, and proximity to Zurich's financial infrastructure. Nidwalden and Lucerne offer comparable rates. The optimal canton depends on the specific business model, substance requirements, and the location of key personnel."
   - question: "Is Switzerland subject to global minimum tax (BEPS Pillar Two)?"
@@ -58,7 +58,7 @@ faqItems:
   - question: "Does Switzerland have a patent box (IP Box) regime?"
     answer: "Yes. All Swiss cantons are required to offer a Patent Box under the 2020 STAF corporate tax reform. Net income from qualifying intellectual property — patents, supplementary protection certificates, and certain other rights — can receive up to a 90% tax reduction, resulting in effective rates as low as 1.2% in the most favourable cantons."
   - question: "Do I need a resident director for a Swiss company?"
-    answer: "Yes. At least one manager of a GmbH, or one board member of an AG, who is authorised to represent the company individually or jointly must be domiciled in Switzerland. Lawsupport provides qualified nominee director services for international clients who do not have a Swiss-resident director available."
+    answer: "Yes. At least one manager of a GmbH, or one board member of an AG, who is authorised to represent the company individually or jointly must be domiciled in Switzerland. Morgan Hartley Consulting provides qualified nominee director services for international clients who do not have a Swiss-resident director available."
 relatedArticles:
   - title: "How to Start a Business in Switzerland: Full Guide (2026)"
     href: "/company-formation/start-business-switzerland/"
@@ -73,7 +73,7 @@ Doing business in Switzerland offers a stable, predictable environment where com
 
 This guide is written for international investors, CFOs, and founders evaluating Switzerland as a place to incorporate, operate, or expand. It covers the full business lifecycle — from choosing a legal entity to opening a bank account, hiring employees, protecting intellectual property, and resolving disputes. Where relevant, it points to dedicated guides that go deeper on each topic.
 
-Lawsupport has assisted with [1,000+ company formations](/company-formation/company-formation-switzerland/) for clients from over 40 countries, managing 300+ companies under active fiduciary services. Approximately 80% of our clients are foreign nationals or foreign-owned entities — the observations in this guide are grounded in 18+ years of daily practice serving international businesses, not theoretical commentary.
+Morgan Hartley Consulting has assisted with [1,000+ company formations](/company-formation/company-formation-switzerland/) for clients from over 40 countries, managing 300+ companies under active fiduciary services. Approximately 80% of our clients are foreign nationals or foreign-owned entities — the observations in this guide are grounded in 18+ years of daily practice serving international businesses, not theoretical commentary.
 
 ---
 
@@ -355,9 +355,9 @@ Operating a business in Switzerland as a foreign national or foreign-owned entit
 
 ---
 
-## How Lawsupport Supports International Investors
+## How Morgan Hartley Consulting Supports International Investors
 
-Lawsupport (Morgan Hartley Consulting GmbH), based in Zug — Switzerland's foremost business canton — provides end-to-end legal and compliance support for international businesses entering or operating in Switzerland. With 18+ years of experience, over 1,000 company formations for clients from 40+ countries, and 300+ companies under active fiduciary management, we provide:
+Morgan Hartley Consulting (Morgan Hartley Consulting GmbH), based in Zug — Switzerland's foremost business canton — provides end-to-end legal and compliance support for international businesses entering or operating in Switzerland. With 18+ years of experience, over 1,000 company formations for clients from 40+ countries, and 300+ companies under active fiduciary management, we provide:
 
 - **Company formation**: GmbH and AG incorporation, Commercial Register filing, notarial coordination — see our [company formation guide](/company-formation/company-formation-switzerland/)
 - **Banking introductions**: Managed introductions to Swiss banks, preparation of due diligence packages, optimisation of account opening timelines
@@ -394,11 +394,11 @@ The lesson: plan for twelve months of nominee service, even if you expect six. T
 
 **Ready to establish your business in Switzerland?**
 
-Whether you are at the initial evaluation stage or ready to incorporate, Morgan Hartley and the Lawsupport team are available for a no-obligation consultation. We advise on entity selection, canton selection, banking, tax, and regulatory compliance — and we manage the entire formation process.
+Whether you are at the initial evaluation stage or ready to incorporate, Morgan Hartley and the Morgan Hartley Consulting team are available for a no-obligation consultation. We advise on entity selection, canton selection, banking, tax, and regulatory compliance — and we manage the entire formation process.
 
 [Request a Free Assessment](/contacts/)
 
-**Lawsupport (Morgan Hartley Consulting GmbH)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting GmbH)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch
@@ -417,7 +417,7 @@ A GmbH or AG can typically be incorporated within 5–10 business days once all 
 
 **Q: Do I need to be a Swiss resident to own a Swiss company?**
 
-No. Non-residents can own 100% of a Swiss GmbH or AG. However, at least one manager (GmbH) or one board member (AG) who is authorised to represent the company must be domiciled in Switzerland. For non-residents without a Swiss director in their network, Lawsupport provides qualified nominee director services.
+No. Non-residents can own 100% of a Swiss GmbH or AG. However, at least one manager (GmbH) or one board member (AG) who is authorised to represent the company must be domiciled in Switzerland. For non-residents without a Swiss director in their network, Morgan Hartley Consulting provides qualified nominee director services.
 
 **Q: What is the most tax-efficient canton for a holding company?**
 
@@ -445,7 +445,7 @@ Yes. All Swiss cantons are required to offer a Patent Box under the 2020 STAF co
 
 **Q: Do I need a resident director for a Swiss company?**
 
-Yes. At least one manager of a GmbH, or one board member of an AG, who is authorised to represent the company individually or jointly must be domiciled in Switzerland. Lawsupport provides qualified nominee director services for international clients who do not have a Swiss-resident director available.
+Yes. At least one manager of a GmbH, or one board member of an AG, who is authorised to represent the company individually or jointly must be domiciled in Switzerland. Morgan Hartley Consulting provides qualified nominee director services for international clients who do not have a Swiss-resident director available.
 
 **Q: Can a foreign company open a branch in Switzerland instead of incorporating a subsidiary?**
 
@@ -453,4 +453,4 @@ Yes. A [branch office in Switzerland](/company-formation/branch-office-switzerla
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug, Switzerland | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug, Switzerland | +41 44 51 52 592 | info@lawsupport.ch*

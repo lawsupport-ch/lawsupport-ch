@@ -110,7 +110,7 @@ No official form exists for most cantonal rulings. The request is a letter to th
 4. The applicant's own legal analysis and proposed treatment
 5. Supporting documents: draft contracts, structure charts, financial projections
 
-**Pre-submission meeting:** For complex matters, an informal discussion with the cantonal tax inspector before filing is productive. Zug's Steuerverwaltung is accessible and willing to engage pre-filing — typically a 30-60 minute call or meeting at no cost from the authority's side. This step is not mandatory but is strongly recommended for novel structures (crypto treasury management, complex IP migrations, multi-jurisdictional restructurings). It allows the applicant to test the authority's appetite for the proposed treatment before committing the structure to a formal written submission. Lawsupport regularly prepares and submits ruling requests to the Steuerverwaltung Zug and can manage the entire process.
+**Pre-submission meeting:** For complex matters, an informal discussion with the cantonal tax inspector before filing is productive. Zug's Steuerverwaltung is accessible and willing to engage pre-filing — typically a 30-60 minute call or meeting at no cost from the authority's side. This step is not mandatory but is strongly recommended for novel structures (crypto treasury management, complex IP migrations, multi-jurisdictional restructurings). It allows the applicant to test the authority's appetite for the proposed treatment before committing the structure to a formal written submission. Morgan Hartley Consulting regularly prepares and submits ruling requests to the Steuerverwaltung Zug and can manage the entire process.
 
 ---
 
@@ -211,13 +211,13 @@ The practical consequence is worse than the financial penalty suggests. A retros
 
 For any non-standard Swiss tax structure — holding companies, IP arrangements, international restructurings, or individual relocations — an advance tax ruling is the most effective way to secure certainty before you commit.
 
-Lawsupport prepares and submits ruling requests to the Steuerverwaltung Zug and other cantonal authorities. We handle the full process: initial analysis, drafting the ruling request, pre-submission discussions with the tax inspector, and follow-up until the ruling is issued.
+Morgan Hartley Consulting prepares and submits ruling requests to the Steuerverwaltung Zug and other cantonal authorities. We handle the full process: initial analysis, drafting the ruling request, pre-submission discussions with the tax inspector, and follow-up until the ruling is issued.
 
 [Request a Free Assessment →](/contacts/)
 
 ---
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 

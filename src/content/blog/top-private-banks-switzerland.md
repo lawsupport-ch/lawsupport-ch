@@ -262,13 +262,13 @@ Portfolio transfers are standard. The receiving Swiss bank coordinates the in-sp
 
 ## Next Steps: Request a Free Assessment
 
-Choosing the right Swiss private bank depends on your wealth level, investment objectives, and personal circumstances. Lawsupport advises clients on the practical aspects of Swiss banking relationships — including entity structuring, tax residency planning, and coordinating with the bank's onboarding team.
+Choosing the right Swiss private bank depends on your wealth level, investment objectives, and personal circumstances. Morgan Hartley Consulting advises clients on the practical aspects of Swiss banking relationships — including entity structuring, tax residency planning, and coordinating with the bank's onboarding team.
 
 [Request a Free Assessment →](/contacts/)
 
 ---
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 

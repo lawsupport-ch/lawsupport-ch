@@ -198,7 +198,7 @@ For a broader overview, see our guide to [Corporate Infrastructure in Switzerlan
 Yes. Standard practice. The Commercial Register requires only that the address is in Switzerland and mail reaches the company.
 
 **Is a registered address the same as a virtual office?**
-A registered address is the legal domicile in the Commercial Register. A "[virtual office](/corporate-services/virtual-office-switzerland/)" typically includes additional services — phone answering, meeting rooms, secretarial support. Lawsupport offers both.
+A registered address is the legal domicile in the Commercial Register. A "[virtual office](/corporate-services/virtual-office-switzerland/)" typically includes additional services — phone answering, meeting rooms, secretarial support. Morgan Hartley Consulting offers both.
 
 **Does the address affect taxation?**
 Yes. The canton of the domicile determines the primary taxing authority.
@@ -224,11 +224,11 @@ Yes. Identical domicile requirements for both entity types. See [AG formation](/
 
 **Request a Free Assessment**
 
-If you are forming a Swiss company or need a registered address in Zug, we handle all Commercial Register formalities. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation — without obligation.
+If you are forming a Swiss company or need a registered address in Zug, we handle all Commercial Register formalities. Morgan Hartley, Senior Corporate Lawyer & Partner at Morgan Hartley Consulting, reviews your situation — without obligation.
 
 [Request a Free Assessment](/contacts/)
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch

@@ -341,12 +341,12 @@ For EU/EEA nationals working up to 90 days per year in Switzerland, no residence
 
 ## Get Expert Guidance on Swiss Work Permits and Immigration
 
-Whether you are an EU national relocating to Switzerland for employment, a self-employed professional establishing a Swiss presence, or an employer hiring EU staff, Morgan Hartley and the Lawsupport team provide practical guidance on permits, registration, and compliance.
+Whether you are an EU national relocating to Switzerland for employment, a self-employed professional establishing a Swiss presence, or an employer hiring EU staff, Morgan Hartley and the Morgan Hartley Consulting team provide practical guidance on permits, registration, and compliance.
 
 **[Request a Free Assessment](/contacts/)**
 
 **Morgan Hartley** — Senior Corporate Lawyer & Partner
-Lawsupport (Morgan Hartley Consulting)
+Morgan Hartley Consulting (Morgan Hartley Consulting)
 Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592
 Email: info@lawsupport.ch

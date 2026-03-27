@@ -21,7 +21,7 @@ tocItems:
   - id: "ongoing-compliance-after-formation"
     title: "Ongoing Compliance After Formation"
   - id: "why-lawsupport-for-your-swiss-company-formation"
-    title: "Why Lawsupport for Your Swiss Company Formation"
+    title: "Why Morgan Hartley Consulting for Your Swiss Company Formation"
   - id: "start-your-swiss-company-formation"
     title: "Start Your Swiss Company Formation"
 faqItems:
@@ -171,7 +171,7 @@ For guidance on the banking process, see our [Swiss bank account opening](/banki
 
 The incorporation must be executed before a Swiss notary public. The notary authenticates the articles of association, verifies the identity of the founders, confirms the capital deposit, and records the Stampa Declaration. The Stampa Declaration is a statutory confirmation in which the founders declare that there are no contributions in kind (Sacheinlage), no acquisition of assets, and no special privileges not disclosed in the articles. This declaration is mandatory and cannot be waived.
 
-A critical point for international founders: you do not need to travel to Switzerland. Incorporation can be completed via a notarised and apostilled power of attorney, allowing a Swiss representative to sign on your behalf before the notary. Lawsupport handles this regularly for clients in Asia, the Middle East, the Americas, and across Europe. Notary fees typically range from CHF 1,000 to CHF 2,500 depending on the canton, notary, and complexity.
+A critical point for international founders: you do not need to travel to Switzerland. Incorporation can be completed via a notarised and apostilled power of attorney, allowing a Swiss representative to sign on your behalf before the notary. Morgan Hartley Consulting handles this regularly for clients in Asia, the Middle East, the Americas, and across Europe. Notary fees typically range from CHF 1,000 to CHF 2,500 depending on the canton, notary, and complexity.
 
 **Step 6: Commercial Register Filing**
 
@@ -191,7 +191,7 @@ Upon registration, the Federal Tax Administration automatically issues a Unterne
 
 Once the UID is issued and registration is confirmed, the capital deposit account is unblocked and the funds transfer to the company's operating account. If the company expects to exceed CHF 100,000 in annual taxable turnover, [VAT registration](/tax-accounting/vat-registration-switzerland/) with the Federal Tax Administration (ESTV) is mandatory. Voluntary registration is possible below that threshold and may be advantageous if the company incurs significant Swiss VAT on its inputs.
 
-Ready to start? Lawsupport handles every step from name check to bank account. Call us at +41 44 51 52 592.
+Ready to start? Morgan Hartley Consulting handles every step from name check to bank account. Call us at +41 44 51 52 592.
 
 ---
 
@@ -199,7 +199,7 @@ Ready to start? Lawsupport handles every step from name check to bank account. C
 
 The canton of incorporation determines the applicable cantonal and communal tax rates, the local Commercial Register office, and the registered office requirement. You must have a verifiable registered address in the chosen canton.
 
-**Zug** is the preferred canton for holding companies, international trading companies, and IP-holding structures. The effective combined corporate tax rate of approximately 11.8% is among the lowest in Switzerland. The Zug Commercial Register is efficient, the cantonal administration is experienced with international structures, and the local infrastructure — law firms, fiduciaries, and banks — is well-developed for corporate services. Lawsupport's office is at Baarerstrasse 135, 6300 Zug. For a [registered address in Switzerland](/corporate-services/registered-address-switzerland/) or [virtual office in Zug](/corporate-services/virtual-office-switzerland/), we can arrange this directly.
+**Zug** is the preferred canton for holding companies, international trading companies, and IP-holding structures. The effective combined corporate tax rate of approximately 11.8% is among the lowest in Switzerland. The Zug Commercial Register is efficient, the cantonal administration is experienced with international structures, and the local infrastructure — law firms, fiduciaries, and banks — is well-developed for corporate services. Morgan Hartley Consulting's office is at Baarerstrasse 135, 6300 Zug. For a [registered address in Switzerland](/corporate-services/registered-address-switzerland/) or [virtual office in Zug](/corporate-services/virtual-office-switzerland/), we can arrange this directly.
 
 **Zurich** carries a higher effective rate of approximately 19.7% but offers unmatched access to financial institutions, a deep talent pool, and the prestige of Switzerland's largest city. It is the natural choice for companies whose primary activity involves the Zurich financial ecosystem or companies that need to hire locally at scale.
 
@@ -306,7 +306,7 @@ The realistic timeline breaks down into four distinct phases, each with its own 
 
 **Do I need to travel to Switzerland to incorporate?**
 
-No. Swiss law expressly permits incorporation via power of attorney. The founding documents are executed by a Swiss-resident representative before the notary, acting under authority granted by the foreign founder. The power of attorney must be notarised in the founder's jurisdiction and, for most countries, apostilled under the Hague Convention. Lawsupport prepares the power of attorney documents and provides precise instructions for local notarisation.
+No. Swiss law expressly permits incorporation via power of attorney. The founding documents are executed by a Swiss-resident representative before the notary, acting under authority granted by the foreign founder. The power of attorney must be notarised in the founder's jurisdiction and, for most countries, apostilled under the Hague Convention. Morgan Hartley Consulting prepares the power of attorney documents and provides precise instructions for local notarisation.
 
 **What is the difference between a GmbH and an AG in Switzerland?**
 
@@ -350,9 +350,9 @@ A shelf company is an already-incorporated, dormant entity available for immedia
 
 ---
 
-## Why Lawsupport for Your Swiss Company Formation
+## Why Morgan Hartley Consulting for Your Swiss Company Formation
 
-Lawsupport, operating as Morgan Hartley Consulting, is a Swiss law practice based at Baarerstrasse 135, 6300 Zug. Over 18 years of practice and more than 1,000 company formations give us a detailed understanding of the practical requirements at every stage of the Swiss incorporation process: from name selection and articles drafting through to bank account activation and post-formation compliance.
+Morgan Hartley Consulting, operating as Morgan Hartley Consulting, is a Swiss law practice based at Baarerstrasse 135, 6300 Zug. Over 18 years of practice and more than 1,000 company formations give us a detailed understanding of the practical requirements at every stage of the Swiss incorporation process: from name selection and articles drafting through to bank account activation and post-formation compliance.
 
 We manage over 300 companies under fiduciary services with a team of 7, and specialise in financial companies, holding structures, and formations for international clients who need a Swiss entity but are not based in Switzerland. We work in English, German, and French, and we maintain relationships with Swiss banks, notaries, and Commercial Register offices in the key cantons.
 
@@ -368,7 +368,7 @@ The full statutory framework for Swiss company formation is available via the <a
 
 [**Request a Free Assessment**](/contacts/)
 
-Register your Swiss company in 2-4 weeks. Contact Lawsupport:
+Register your Swiss company in 2-4 weeks. Contact Morgan Hartley Consulting:
 
 **Phone:** [+41 44 51 52 592](tel:+41445152592)
 **Email:** [info@lawsupport.ch](mailto:info@lawsupport.ch)
@@ -378,4 +378,4 @@ We respond to enquiries within 1-2 hours during Swiss business hours. First cons
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting) is a law practice licensed in the Canton of Zurich. This article is for general information purposes and does not constitute legal advice. Swiss law is subject to change; please verify current requirements with a qualified Swiss lawyer before relying on this information for a specific transaction.*
+*Morgan Hartley Consulting (Morgan Hartley Consulting) is a law practice licensed in the Canton of Zurich. This article is for general information purposes and does not constitute legal advice. Swiss law is subject to change; please verify current requirements with a qualified Swiss lawyer before relying on this information for a specific transaction.*

@@ -28,7 +28,7 @@ tocItems:
   - id: "common-reasons-for-rejection"
     title: "Common Reasons for Rejection"
   - id: "how-lawsupport-can-help"
-    title: "How Lawsupport Can Help"
+    title: "How Morgan Hartley Consulting Can Help"
 faqItems:
   - question: "How long does the FINMA licensing process take?"
     answer: "From initial application to licence grant: 6 to 18 months depending on licence category and application quality. Banking licences take 12 to 18 months. Asset management licences under FinIA take 6 to 12 months. Pre-application consultations with FINMA can add 2 to 3 months but significantly improve approval likelihood."
@@ -62,7 +62,7 @@ relatedArticles:
 
 The Swiss Financial Market Supervisory Authority (FINMA) issues licences for banks, securities firms, asset managers, fund management companies, and insurance companies operating in or from Switzerland. The licensing framework is built on three primary laws: the Banking Act (BankG), the Financial Institutions Act (FinIA), and the Financial Services Act (FinSA). Each licence category has distinct capital requirements, organisational standards, and ongoing reporting obligations. This guide explains each category, the application process, and realistic costs and timelines.
 
-For a direct assessment of your licensing requirements, [contact Lawsupport](/contacts/).
+For a direct assessment of your licensing requirements, [contact Morgan Hartley Consulting](/contacts/).
 
 ---
 
@@ -222,9 +222,9 @@ Pre-application consultation with FINMA reduces rejection risk substantially. FI
 
 ---
 
-## How Lawsupport Can Help
+## How Morgan Hartley Consulting Can Help
 
-FINMA licensing requires legal, regulatory, and organisational expertise. Lawsupport assists with:
+FINMA licensing requires legal, regulatory, and organisational expertise. Morgan Hartley Consulting assists with:
 
 - Licence category assessment: determining which [FINMA licence](/licensing/finma-license-switzerland/) your business requires
 - Business plan and regulatory concept preparation

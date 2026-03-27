@@ -351,11 +351,11 @@ Corporate and personal tax optima are not always the same canton. Zug offers bot
 
 Choosing the right canton for your company or personal tax domicile requires analysis of your specific income structure, asset base, and operational requirements.
 
-**Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, advises on cantonal tax planning from the firm's Zug office.**
+**Morgan Hartley, Senior Corporate Lawyer & Partner at Morgan Hartley Consulting, advises on cantonal tax planning from the firm's Zug office.**
 
 [Request a Free Assessment →](/contacts/)
 
-Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug, Switzerland | +41 44 51 52 592 | info@lawsupport.ch
+Morgan Hartley Consulting (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug, Switzerland | +41 44 51 52 592 | info@lawsupport.ch
 
 ---
 

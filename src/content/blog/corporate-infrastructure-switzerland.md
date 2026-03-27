@@ -26,7 +26,7 @@ tocItems:
   - id: "cost-summary-and-budgeting"
     title: "Cost Summary and Budgeting"
   - id: "work-with-lawsupport-on-corporate-infrastructure"
-    title: "Work With Lawsupport on Corporate Infrastructure"
+    title: "Work With Morgan Hartley Consulting on Corporate Infrastructure"
 faqItems:
   - question: "Do I need a Swiss address to register a company?"
     answer: "Yes. Every Swiss company (AG, GmbH, branch office) must have a registered address (Sitz) in Switzerland that is entered in the commercial register. This address must be a real physical location — PO boxes are not accepted. If you do not have your own office space, you can use a domicile service (c/o address) provided by a law firm, fiduciary, or virtual office provider. The domicile provider acts as the company's official address for legal correspondence and commercial register purposes."
@@ -282,16 +282,16 @@ These figures exclude operational costs (rent, salaries, insurance) and apply to
 
 ---
 
-## Work With Lawsupport on Corporate Infrastructure
+## Work With Morgan Hartley Consulting on Corporate Infrastructure
 
-Lawsupport (Morgan Hartley Consulting) provides full corporate infrastructure services for Swiss companies owned by foreign entrepreneurs. Our packages include registered address, nominee director, bookkeeping, tax compliance, and corporate secretarial services — managed under a single point of contact.
+Morgan Hartley Consulting (Morgan Hartley Consulting) provides full corporate infrastructure services for Swiss companies owned by foreign entrepreneurs. Our packages include registered address, nominee director, bookkeeping, tax compliance, and corporate secretarial services — managed under a single point of contact.
 
 For company formation, see our [formation guide](/company-formation/company-formation-switzerland/). For banking, see our [bank account guide](/banking/opening-swiss-bank-account-guide/).
 
 **[Request a Free Assessment](/contacts/)** — or contact us directly:
 
 **Morgan Hartley, Senior Corporate Lawyer & Partner**
-Lawsupport (Morgan Hartley Consulting GmbH)
+Morgan Hartley Consulting (Morgan Hartley Consulting GmbH)
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 
@@ -343,4 +343,4 @@ Swiss companies must: maintain proper books and records under OR Art. 957-963; f
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

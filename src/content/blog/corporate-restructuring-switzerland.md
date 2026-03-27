@@ -21,7 +21,7 @@ tocItems:
   - id: "tax-treatment-of-swiss-restructurings"
     title: "Tax Treatment of Swiss Restructurings"
   - id: "work-with-lawsupport-on-your-swiss-restructuring"
-    title: "Work with Lawsupport on Your Swiss Restructuring"
+    title: "Work with Morgan Hartley Consulting on Your Swiss Restructuring"
   - id: "decision-tree-which-restructuring-route"
     title: "Decision Tree: Which Restructuring Route?"
   - id: "friction-block-what-actually-goes-wrong"
@@ -265,11 +265,11 @@ The merger plan and shareholder resolutions for mergers and demergers must be no
 
 ---
 
-## Work with Lawsupport on Your Swiss Restructuring
+## Work with Morgan Hartley Consulting on Your Swiss Restructuring
 
 Restructuring a Swiss company involves coordinating company law, tax law, auditor requirements, and Commercial Register filings across multiple cantons. A procedural error — a missing board resolution, an incomplete merger plan, or a creditor call that was not properly published — can invalidate the transaction and require it to be restarted from scratch.
 
-**Morgan Hartley** | Senior Corporate Lawyer & Partner, Lawsupport (Morgan Hartley Consulting GmbH), advises Swiss and international clients on the full range of FusG transactions: mergers, spin-offs, divisions, conversions, and asset transfers. We coordinate the legal documentation, the auditor engagement, the SHAB publication, and the Commercial Register filings, and we work with your tax advisers to structure each transaction for maximum tax efficiency.
+**Morgan Hartley** | Senior Corporate Lawyer & Partner, Morgan Hartley Consulting (Morgan Hartley Consulting GmbH), advises Swiss and international clients on the full range of FusG transactions: mergers, spin-offs, divisions, conversions, and asset transfers. We coordinate the legal documentation, the auditor engagement, the SHAB publication, and the Commercial Register filings, and we work with your tax advisers to structure each transaction for maximum tax efficiency.
 
 For simpler restructurings — share transfers, board changes, founder exits — legal advisory is typically billed at CHF 350/hour. A straightforward founder exit with share transfer can be completed in 3-4 weeks. Shelf company modifications (changing the name, board, and business purpose of an existing entity) typically cost approximately CHF 1'700 in notary and Commercial Register fees, plus legal advisory time.
 
@@ -285,4 +285,4 @@ For related topics, see:
 
 ---
 
-**Morgan Hartley | Senior Corporate Lawyer & Partner, Lawsupport (Morgan Hartley Consulting GmbH)** | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch
+**Morgan Hartley | Senior Corporate Lawyer & Partner, Morgan Hartley Consulting (Morgan Hartley Consulting GmbH)** | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch

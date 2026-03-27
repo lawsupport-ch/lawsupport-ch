@@ -46,13 +46,13 @@ tocItems:
   - id: "common-mistakes-and-how-to-avoid-them"
     title: "Common Mistakes and How to Avoid Them"
   - id: "why-work-with-lawsupport"
-    title: "Why Work With Lawsupport"
+    title: "Why Work With Morgan Hartley Consulting"
 ---
 
 
 Switzerland admits roughly 170,000 new immigrants per year, making it one of the highest per-capita immigration countries in Europe. Yet the process is anything but simple: a federal system split across 26 cantons, separate rules for EU and non-EU nationals, annual quotas, and integration requirements that vary by municipality. This guide brings together the three pillars of Swiss immigration — permits, citizenship and relocation — so you can see the full picture before making decisions.
 
-For a direct assessment of your situation, [contact Lawsupport](/contacts/) for a free initial consultation.
+For a direct assessment of your situation, [contact Morgan Hartley Consulting](/contacts/) for a free initial consultation.
 
 ---
 
@@ -80,7 +80,7 @@ The 26 cantons also set their own citizenship requirements on top of the federal
 
 Immigration advisers in Switzerland are not regulated by a single licensing body. Anyone can call themselves an immigration consultant. For legal representation before authorities and courts, however, you need a lawyer admitted to a cantonal bar. For permit applications, professional advisers with demonstrated expertise in Swiss immigration law offer the most reliable guidance.
 
-[Lawsupport](/contacts/) provides immigration advisory services from Zug, one of Switzerland's most international cantons, with direct experience across EU and non-EU permit categories.
+[Morgan Hartley Consulting](/contacts/) provides immigration advisory services from Zug, one of Switzerland's most international cantons, with direct experience across EU and non-EU permit categories.
 
 ---
 
@@ -318,11 +318,11 @@ Years of immigration casework reveal recurring errors that delay or derail appli
 
 ---
 
-## Why Work With Lawsupport
+## Why Work With Morgan Hartley Consulting
 
 Immigration to Switzerland sits at the intersection of federal law, cantonal administration, and municipal requirements. The rules are clear in principle but variable in application. A permit application that sails through in one canton may stall in another. A citizenship application that meets federal requirements may fail at the municipal interview stage.
 
-Lawsupport provides immigration advisory services from Zug, with practical experience across:
+Morgan Hartley Consulting provides immigration advisory services from Zug, with practical experience across:
 
 - **B, C, L and G permit applications** for both EU and non-EU nationals
 - **Citizenship applications** through ordinary and simplified naturalisation
@@ -333,4 +333,4 @@ Lawsupport provides immigration advisory services from Zug, with practical exper
 
 We work with individuals, families, and employers. Our location in Zug — a canton with efficient migration procedures and competitive tax rates — gives us direct experience with one of Switzerland's most popular immigration destinations.
 
-[Contact Lawsupport](/contacts/) for a free initial assessment of your immigration case.
+[Contact Morgan Hartley Consulting](/contacts/) for a free initial assessment of your immigration case.

@@ -1,6 +1,6 @@
 ---
 title: "Buy a Company in Switzerland: Process & Legal Guide"
-description: "How to buy a Swiss company: finding targets, LOI, due diligence, SPA structuring, financing, and closing. Practical guide from Lawsupport, Zug."
+description: "How to buy a Swiss company: finding targets, LOI, due diligence, SPA structuring, financing, and closing. Practical guide from Morgan Hartley Consulting, Zug."
 date: "19.03.2026"
 category: "Corporate Transactions"
 categoryHref: "/corporate-transactions/"
@@ -75,7 +75,7 @@ SCHEMA: Article
     "jobTitle": "Senior Corporate Lawyer & Partner",
     "worksFor": {
       "@type": "LegalService",
-      "name": "Lawsupport (Morgan Hartley Consulting)",
+      "name": "Morgan Hartley Consulting (Morgan Hartley Consulting)",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Baarerstrasse 135",
@@ -88,7 +88,7 @@ SCHEMA: Article
   },
   "publisher": {
     "@type": "LegalService",
-    "name": "Lawsupport (Morgan Hartley Consulting)",
+    "name": "Morgan Hartley Consulting (Morgan Hartley Consulting)",
     "url": "https://lawsupport.ch"
   },
   "mainEntityOfPage": {
@@ -312,9 +312,9 @@ Switzerland levies a **securities transfer tax (Umsatzabgabe)** on the transfer 
 
 ## Request a Free Assessment
 
-Buying a company in Switzerland involves legal, tax, and regulatory considerations that interact in ways that are not always obvious until a deal is already advanced. Lawsupport advises buyers at every stage of the acquisition process — from initial target assessment and LOI negotiation through to SPA drafting, regulatory filings, and post-closing integration.
+Buying a company in Switzerland involves legal, tax, and regulatory considerations that interact in ways that are not always obvious until a deal is already advanced. Morgan Hartley Consulting advises buyers at every stage of the acquisition process — from initial target assessment and LOI negotiation through to SPA drafting, regulatory filings, and post-closing integration.
 
-**[Request a Free Assessment](/contacts/)** — Morgan Hartley and the Lawsupport team, Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch
+**[Request a Free Assessment](/contacts/)** — Morgan Hartley and the Morgan Hartley Consulting team, Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch
 
 ---
 
@@ -491,4 +491,4 @@ Swiss law governs the SPA, the share transfer, and the Commercial Register filin
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

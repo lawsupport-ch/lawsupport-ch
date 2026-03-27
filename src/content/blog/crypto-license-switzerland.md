@@ -39,7 +39,7 @@ tocItems:
   - id: "zug-as-the-base-for-crypto-licensing"
     title: "Zug as the Base for Crypto Licensing"
   - id: "how-lawsupport-helps-crypto-clients"
-    title: "How Lawsupport Helps Crypto Clients"
+    title: "How Morgan Hartley Consulting Helps Crypto Clients"
   - id: "take-the-first-step"
     title: "Take the First Step"
 faqItems:
@@ -477,9 +477,9 @@ Every component of a successful Swiss crypto business is easier from Zug than fr
 
 ---
 
-## How Lawsupport Helps Crypto Clients
+## How Morgan Hartley Consulting Helps Crypto Clients
 
-Lawsupport (Morgan Hartley Consulting GmbH), based at Baarerstrasse 135, 6300 Zug, has been advising crypto and blockchain clients since 2013. We are not a general commercial law firm that has added a crypto practice group. This has been our work since the beginning of Crypto Valley.
+Morgan Hartley Consulting (Morgan Hartley Consulting GmbH), based at Baarerstrasse 135, 6300 Zug, has been advising crypto and blockchain clients since 2013. We are not a general commercial law firm that has added a crypto practice group. This has been our work since the beginning of Crypto Valley.
 
 We provide:
 
@@ -506,7 +506,7 @@ If you are planning a crypto business in Switzerland, the most important first s
 [Request a Free Assessment](/contacts/) and we will respond within one business day.
 
 **Morgan Hartley | Senior Corporate Lawyer & Partner**
-Lawsupport (Morgan Hartley Consulting GmbH)
+Morgan Hartley Consulting (Morgan Hartley Consulting GmbH)
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 

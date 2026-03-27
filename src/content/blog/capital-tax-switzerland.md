@@ -1,6 +1,6 @@
 ---
 title: "Capital Tax Switzerland: Rates & Calculation (2026)"
-description: "Swiss cantonal capital tax (Kapitalsteuer) on company equity: how it's calculated, current cantonal rates, and planning approaches. From Lawsupport, Zug."
+description: "Swiss cantonal capital tax (Kapitalsteuer) on company equity: how it's calculated, current cantonal rates, and planning approaches. From Morgan Hartley Consulting, Zug."
 date: "19.03.2026"
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"
@@ -232,11 +232,11 @@ In cantons where capital tax is deductible from income tax, the net cost in prof
 
 ## Request a Free Assessment
 
-Capital tax exposure depends on your company's domicile canton, equity structure, and whether participations qualify for the holding reduction. Lawsupport advises on cantonal selection, holding structures, and annual compliance for Swiss companies.
+Capital tax exposure depends on your company's domicile canton, equity structure, and whether participations qualify for the holding reduction. Morgan Hartley Consulting advises on cantonal selection, holding structures, and annual compliance for Swiss companies.
 
 **[Request a Free Assessment →](/contacts/)**
 
-Morgan Hartley | Senior Corporate Lawyer & Partner, Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch
+Morgan Hartley | Senior Corporate Lawyer & Partner, Morgan Hartley Consulting (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch
 
 For a broader overview, see our guide to [Swiss Corporate Tax](/tax-accounting/corporate-tax-overview-switzerland/).
 
@@ -308,4 +308,4 @@ In several cantons — including Zug — the capital tax paid is deductible from
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

@@ -31,7 +31,7 @@ faqItems:
   - question: "Do shelf companies come with a bank account?"
     answer: "Some do, most do not. A pre-existing bank account is a significant value-add given Swiss corporate banking timelines."
   - question: "Can I buy a shelf company in any Swiss canton?"
-    answer: "Lawsupport maintains inventory in Zug. For other cantons, availability depends on current stock."
+    answer: "Morgan Hartley Consulting maintains inventory in Zug. For other cantons, availability depends on current stock."
   - question: "What taxes apply when buying a shelf company?"
     answer: "Securities transfer stamp may apply if a Swiss securities dealer is involved. Direct private share transfers typically do not attract stamp duty."
   - question: "Can I change the canton of a shelf company after purchase?"
@@ -43,7 +43,7 @@ faqItems:
   - question: "Is a shelf company suitable for obtaining a FINMA licence?"
     answer: "A shelf company can serve as the legal vehicle for a FINMA licence application, but FINMA assesses substance independently. The entity must demonstrate qualified management, adequate capitalisation, and proper organisational structure. The shelf company's age or registration history carries no weight in FINMA's assessment."
   - question: "What is the oldest shelf company typically available?"
-    answer: "Lawsupport's inventory includes entities dating back to the 1930s. A 1933 vintage AG, for example, is priced at CHF 47'500. Older entities command higher prices because registration dates cannot be manufactured — they represent genuine decades of unbroken Commercial Register history."
+    answer: "Morgan Hartley Consulting's inventory includes entities dating back to the 1930s. A 1933 vintage AG, for example, is priced at CHF 47'500. Older entities command higher prices because registration dates cannot be manufactured — they represent genuine decades of unbroken Commercial Register history."
 relatedArticles:
   - title: "Company Formation Switzerland: Complete Guide (2026)"
     href: "/company-formation/company-formation-switzerland/"
@@ -104,7 +104,7 @@ Unlike a Sukzessivgründung (successive formation), where a company is incorpora
 
 **Custom share structure.** If you require a specific share class arrangement, preferred shares, or a non-standard capital structure, you will not find that in a shelf company's existing articles. Amending a shelf company's structure post-acquisition is possible but adds cost and notarial time, often negating the speed advantage.
 
-**Specific canton not in current inventory.** Lawsupport maintains shelf companies in Zug. If your business rationale requires incorporation in Geneva, Basel, or another canton, and no shelf inventory exists there, a fresh formation in your target canton is the practical path. See our dedicated page on [company formation in Zug](/company-formation/company-formation-zug/) if Zug is your preferred location.
+**Specific canton not in current inventory.** Morgan Hartley Consulting maintains shelf companies in Zug. If your business rationale requires incorporation in Geneva, Basel, or another canton, and no shelf inventory exists there, a fresh formation in your target canton is the practical path. See our dedicated page on [company formation in Zug](/company-formation/company-formation-zug/) if Zug is your preferred location.
 
 **Purpose clause significantly different from existing articles.** A shelf company's articles will state a general commercial purpose. If your intended business activity is highly regulated — financial intermediation, for example — the articles amendment process becomes more complex, and regulatory pre-approval may be required before the amendment can be filed.
 
@@ -114,13 +114,13 @@ Unlike a Sukzessivgründung (successive formation), where a company is incorpora
 
 ## How to Acquire a Swiss Shelf Company: Step by Step
 
-Lawsupport maintains a current inventory of AG and GmbH shelf companies in Zug. The acquisition process runs as follows.
+Morgan Hartley Consulting maintains a current inventory of AG and GmbH shelf companies in Zug. The acquisition process runs as follows.
 
 **Step 1 — Select from available inventory.**
-Lawsupport presents you with the available shelf companies matching your requirements: entity type (AG or GmbH), registration date, and share capital structure. You select the company that best fits your needs.
+Morgan Hartley Consulting presents you with the available shelf companies matching your requirements: entity type (AG or GmbH), registration date, and share capital structure. You select the company that best fits your needs.
 
 **Step 2 — Due diligence.**
-Before any agreement is signed, Lawsupport conducts a formal due diligence review. This includes a <a href="https://www.zefix.ch/" target="_blank" rel="nofollow noopener">ZEFIX</a> extract confirming the Commercial Register history, confirmation that no liabilities exist, verification that no contracts have been entered into, and review of the company's tax status.
+Before any agreement is signed, Morgan Hartley Consulting conducts a formal due diligence review. This includes a <a href="https://www.zefix.ch/" target="_blank" rel="nofollow noopener">ZEFIX</a> extract confirming the Commercial Register history, confirmation that no liabilities exist, verification that no contracts have been entered into, and review of the company's tax status.
 
 **Step 3 — Share purchase agreement signed.**
 A share purchase agreement is prepared, reviewed, and executed by both parties. For a GmbH, this step precedes the mandatory notarial deed. For an AG, share transfer may not require notarisation, depending on the articles.
@@ -129,7 +129,7 @@ A share purchase agreement is prepared, reviewed, and executed by both parties. 
 A Swiss notary executes the share transfer and simultaneously records the amendments to the articles of association: new purpose clause, new company name if required, updated share capital details if applicable.
 
 **Step 5 — New directors appointed.**
-Outgoing directors resign; your nominated directors or a Lawsupport-appointed director is formally appointed. This is recorded in the same notarial deed where practicable.
+Outgoing directors resign; your nominated directors or a Morgan Hartley Consulting-appointed director is formally appointed. This is recorded in the same notarial deed where practicable.
 
 **Step 6 — Commercial Register update.**
 The amended deed is submitted to the Commercial Register of Zug. Processing time is typically 5-10 business days. Upon registration, the updated entry reflects the new directors, new articles, and any name change.
@@ -192,7 +192,7 @@ This case illustrates the two scenarios where shelf companies justify their prem
 
 ## Important Checks Before Buying a Swiss Shelf Company
 
-Whether you are acquiring a shelf company through Lawsupport or independently, the following due diligence checklist for shelf companies is non-negotiable.
+Whether you are acquiring a shelf company through Morgan Hartley Consulting or independently, the following due diligence checklist for shelf companies is non-negotiable.
 
 **ZEFIX extract.** The federal commercial register database (<a href="https://www.zefix.ch/" target="_blank" rel="nofollow noopener">zefix.ch</a>) provides the full registration history of any Swiss company. Review it for any historical entries, cancellations, or encumbrances that may not be immediately visible.
 
@@ -266,7 +266,7 @@ Yes. Acquiring a dormant Swiss company via a share transfer and amending its art
 
 **How old are the shelf companies you have available?**
 
-Lawsupport's current inventory includes shelf companies ranging from fifteen to over ninety years old. Prices range from CHF 15'000 for entities in the 15-17 year range up to CHF 47'500 for a 1933 vintage. All are debt-free with balance sheets and share certificates. The specific available companies, their formation dates, and their entity types (AG or GmbH) change as inventory is acquired and sold. Contact us directly for a current inventory list.
+Morgan Hartley Consulting's current inventory includes shelf companies ranging from fifteen to over ninety years old. Prices range from CHF 15'000 for entities in the 15-17 year range up to CHF 47'500 for a 1933 vintage. All are debt-free with balance sheets and share certificates. The specific available companies, their formation dates, and their entity types (AG or GmbH) change as inventory is acquired and sold. Contact us directly for a current inventory list.
 
 **Can I keep the company's original name?**
 
@@ -274,7 +274,7 @@ In most cases, no — unless the original name happens to suit your business and
 
 **Do shelf companies have a bank account?**
 
-Some do; most do not. When a shelf company in Lawsupport's inventory holds an active, clean bank account, we will flag that explicitly — it is a significant value-add given Swiss corporate banking timelines. If no account exists, bank account opening proceeds in parallel with the Commercial Register update after acquisition. Full details on the Swiss corporate banking process are available on our [corporate bank account Switzerland](/banking/corporate-bank-account-switzerland/) page.
+Some do; most do not. When a shelf company in Morgan Hartley Consulting's inventory holds an active, clean bank account, we will flag that explicitly — it is a significant value-add given Swiss corporate banking timelines. If no account exists, bank account opening proceeds in parallel with the Commercial Register update after acquisition. Full details on the Swiss corporate banking process are available on our [corporate bank account Switzerland](/banking/corporate-bank-account-switzerland/) page.
 
 **What taxes apply when buying a shelf company?**
 
@@ -282,7 +282,7 @@ The share transfer itself may attract [stamp duty](/tax-accounting/stamp-duty-sw
 
 **Can I buy a shelf company in any Swiss canton?**
 
-Lawsupport maintains its shelf company inventory in Zug. If you require a shelf company registered in another canton, availability depends on current stock. For cantons where no shelf company is available, a fresh [company formation](/company-formation/company-formation-switzerland/) is the practical alternative.
+Morgan Hartley Consulting maintains its shelf company inventory in Zug. If you require a shelf company registered in another canton, availability depends on current stock. For cantons where no shelf company is available, a fresh [company formation](/company-formation/company-formation-switzerland/) is the practical alternative.
 
 **How long does the full transfer process take?**
 
@@ -294,7 +294,7 @@ Yes. A shelf company can be restructured as a [holding company](/company-formati
 
 **Do I need a Swiss resident director for the shelf company?**
 
-Under Swiss law, at least one person authorised to represent the company must be resident in Switzerland. This can be one of your own directors (if Swiss-resident) or a [nominee director](/corporate-services/nominee-director-switzerland/) provided by Lawsupport. This requirement applies to both AG and GmbH entities.
+Under Swiss law, at least one person authorised to represent the company must be resident in Switzerland. This can be one of your own directors (if Swiss-resident) or a [nominee director](/corporate-services/nominee-director-switzerland/) provided by Morgan Hartley Consulting. This requirement applies to both AG and GmbH entities.
 
 **What happens to the shelf company's original directors after I buy it?**
 
@@ -306,11 +306,11 @@ The original directors resign as part of the acquisition process. Their resignat
 
 **Request a Free Assessment**
 
-Whether a shelf company or fresh formation is right for your situation depends on your timeline, budget, and specific requirements. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
+Whether a shelf company or fresh formation is right for your situation depends on your timeline, budget, and specific requirements. Morgan Hartley, Senior Corporate Lawyer & Partner at Morgan Hartley Consulting, reviews your situation and sets out the steps needed — without obligation.
 
 [Request a Free Assessment](/contacts/)
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch

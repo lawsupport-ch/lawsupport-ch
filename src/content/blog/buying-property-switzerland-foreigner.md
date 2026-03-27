@@ -214,10 +214,10 @@ Legal ownership only transfers upon Grundbuch entry. The register records title,
 
 ## Request a Free Assessment
 
-Morgan Hartley and the Lawsupport team advise international clients on Lex Koller compliance, commercial property acquisition, Swiss company formation for property holding, and the full transaction process.
+Morgan Hartley and the Morgan Hartley Consulting team advise international clients on Lex Koller compliance, commercial property acquisition, Swiss company formation for property holding, and the full transaction process.
 
 **[Request a Free Assessment](/contacts/)**
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug, Switzerland | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug, Switzerland | +41 44 51 52 592 | info@lawsupport.ch*

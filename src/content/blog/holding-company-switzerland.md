@@ -337,7 +337,7 @@ For a complete overview of Swiss corporate tax compliance requirements, see our 
 
 ## Request a Free Assessment
 
-Lawsupport (Morgan Hartley Consulting) has structured holding companies in Zug for clients from over 40 countries since 2007. We have completed more than 1,000 company formations and advised on holding structures ranging from straightforward single-subsidiary pure holdings to complex multi-layer IP and treasury arrangements for listed multinationals.
+Morgan Hartley Consulting (Morgan Hartley Consulting) has structured holding companies in Zug for clients from over 40 countries since 2007. We have completed more than 1,000 company formations and advised on holding structures ranging from straightforward single-subsidiary pure holdings to complex multi-layer IP and treasury arrangements for listed multinationals.
 
 Every holding structure we advise on begins with an analysis of your specific shareholder profile, source jurisdiction treaty position, intended income flows, and exit horizon.
 
@@ -395,4 +395,4 @@ Yes. The combination of the participation exemption (0–3% effective rate on qu
 
 ---
 
-*This article reflects Swiss tax law and corporate law as in force on 19 March 2026. It is provided for informational purposes only and does not constitute legal or tax advice. Engage qualified Swiss legal counsel before implementing any holding company structure. Lawsupport (Morgan Hartley Consulting), Baarerstrasse 135, 6300 Zug, Switzerland — info@lawsupport.ch — +41 44 51 52 592.*
+*This article reflects Swiss tax law and corporate law as in force on 19 March 2026. It is provided for informational purposes only and does not constitute legal or tax advice. Engage qualified Swiss legal counsel before implementing any holding company structure. Morgan Hartley Consulting (Morgan Hartley Consulting), Baarerstrasse 135, 6300 Zug, Switzerland — info@lawsupport.ch — +41 44 51 52 592.*

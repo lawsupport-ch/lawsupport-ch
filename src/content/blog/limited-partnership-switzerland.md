@@ -231,11 +231,11 @@ The KG is generally not the best choice for a technology startup seeking venture
 
 **Request a Free Assessment**
 
-Considering a limited partnership for your Swiss fund structure, family business, or joint venture? Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed -- without obligation.
+Considering a limited partnership for your Swiss fund structure, family business, or joint venture? Morgan Hartley, Senior Corporate Lawyer & Partner at Morgan Hartley Consulting, reviews your situation and sets out the steps needed -- without obligation.
 
 [Request a Free Assessment](/contacts/)
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch

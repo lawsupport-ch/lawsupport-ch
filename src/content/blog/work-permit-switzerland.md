@@ -232,7 +232,7 @@ It depends on your permit type and nationality. EU/EFTA B permit holders can app
 
 **How much money do I need to move to Switzerland for work?**
 
-For employed workers: relocation deposit (three months' rent = CHF 4'500-9'000), first month living expenses (CHF 3'000-5'000), health insurance (CHF 400-700/month). Many employers provide relocation packages. For self-employed/entrepreneurs: see our guide on [residence permits for business owners](/immigration/residence-permit-business-owner-switzerland/) — the financial threshold is substantially higher. Residence permit legal support with Lawsupport starts with a CHF 3'500 retainer.
+For employed workers: relocation deposit (three months' rent = CHF 4'500-9'000), first month living expenses (CHF 3'000-5'000), health insurance (CHF 400-700/month). Many employers provide relocation packages. For self-employed/entrepreneurs: see our guide on [residence permits for business owners](/immigration/residence-permit-business-owner-switzerland/) — the financial threshold is substantially higher. Residence permit legal support with Morgan Hartley Consulting starts with a CHF 3'500 retainer.
 
 For a broader overview, see our guide to [Swiss Work & Residence Permits](/immigration/swiss-work-residence-permits/).
 
@@ -287,7 +287,7 @@ EU/EFTA nationals qualify for a C permit after 5 years of continuous, lawful res
 Work permit applications in Switzerland reward precision and penalise delay. A quota missed in Q3, a priority check that does not satisfy the cantonal labour office, or a salary figure that falls below the equivalence benchmark can set a transfer back by a quarter or more — or result in outright refusal.
 
 **Morgan Hartley — Senior Corporate Lawyer & Partner**
-Lawsupport (Morgan Hartley Consulting)
+Morgan Hartley Consulting (Morgan Hartley Consulting)
 Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 
@@ -297,4 +297,4 @@ We handle employer-sponsored work permit applications, intracompany transfer fil
 
 ---
 
-*This article reflects Swiss immigration law and practice as of March 2026. Federal quotas, cantonal procedures, and salary benchmarks are subject to annual revision. Nothing in this article constitutes legal advice. Contact Lawsupport at info@lawsupport.ch for advice specific to your situation.*
+*This article reflects Swiss immigration law and practice as of March 2026. Federal quotas, cantonal procedures, and salary benchmarks are subject to annual revision. Nothing in this article constitutes legal advice. Contact Morgan Hartley Consulting at info@lawsupport.ch for advice specific to your situation.*

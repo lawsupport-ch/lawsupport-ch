@@ -262,7 +262,7 @@ If you are a financial service provider — whether Swiss-based or foreign-domic
 **[Request a Free Assessment](/contacts/)** — or reach us directly:
 
 **Morgan Hartley, Senior Corporate Lawyer & Partner**
-Lawsupport (Morgan Hartley Consulting GmbH)
+Morgan Hartley Consulting (Morgan Hartley Consulting GmbH)
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 
@@ -314,4 +314,4 @@ Individual client advisors who serve retail clients must be registered in the Fi
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

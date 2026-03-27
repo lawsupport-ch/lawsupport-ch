@@ -84,7 +84,7 @@ Swiss banks do open corporate accounts for companies with non-resident sharehold
 
 [Forming a Swiss GmbH or AG](/company-formation/company-formation-switzerland/) creates the legal foundation that unlocks corporate banking. Once the company exists, the bank relationship is with a Swiss legal entity — not with a foreign individual. The compliance calculus is entirely different.
 
-This is the path we facilitate regularly at Lawsupport. We provide the registered address in Zug, the Swiss-resident director service through our [nominee director arrangements](/corporate-services/nominee-director-switzerland/), and the company formation itself — simultaneously coordinating the bank account opening process so that both happen in a structured, efficient sequence.
+This is the path we facilitate regularly at Morgan Hartley Consulting. We provide the registered address in Zug, the Swiss-resident director service through our [nominee director arrangements](/corporate-services/nominee-director-switzerland/), and the company formation itself — simultaneously coordinating the bank account opening process so that both happen in a structured, efficient sequence.
 
 Non-resident shareholders and directors are accepted at Swiss banks for corporate accounts, but the KYC requirements are extensive — and certain profiles are categorically excluded. Companies with US nexus at the UBO or shareholder level face near-universal rejection. Relio AG, a Zurich-based digital banking provider that is otherwise one of the most accessible options for foreign-owned companies, states explicitly that it is unable to onboard companies with US nexus. In one case, a US-owned Swiss company (an employer of record with three Swiss employees) was rejected by Relio and forced to operate through its UK parent company's Ebury account — creating compliance problems because Swiss regulators view operations through another entity's bank account as questionable.
 
@@ -182,7 +182,7 @@ Consider a common profile: a Singapore-based entrepreneur who runs an internatio
 
 **What about Wise or Revolut?** She likely already has access to these. They will give her CHF functionality but not a Swiss IBAN or a Swiss bank relationship.
 
-**The realistic path for her situation:** Incorporate a Swiss GmbH through Lawsupport. The GmbH is registered in Zug with a Lawsupport address and a Swiss-resident director provided through our [nominee director service](/corporate-services/nominee-director-switzerland/). The company has a legitimate business purpose — her consulting work can genuinely be structured through a Swiss entity. We simultaneously open a corporate bank account for the GmbH. She is the 100% shareholder and beneficial owner. The account is opened at a Swiss bank, with a Swiss IBAN, capable of receiving and sending EUR and CHF payments.
+**The realistic path for her situation:** Incorporate a Swiss GmbH through Morgan Hartley Consulting. The GmbH is registered in Zug with a Morgan Hartley Consulting address and a Swiss-resident director provided through our [nominee director service](/corporate-services/nominee-director-switzerland/). The company has a legitimate business purpose — her consulting work can genuinely be structured through a Swiss entity. We simultaneously open a corporate bank account for the GmbH. She is the 100% shareholder and beneficial owner. The account is opened at a Swiss bank, with a Swiss IBAN, capable of receiving and sending EUR and CHF payments.
 
 This is not a workaround. It is the correct legal and commercial structure for what she is trying to achieve. The account is fully compliant, the company is genuine, and she has a functional Swiss banking relationship within approximately two to three months.
 
@@ -276,11 +276,11 @@ Cantonal banks in internationally oriented cantons — particularly Zug and Zuri
 
 **Request a Free Assessment**
 
-If you are a non-resident seeking a Swiss bank account for your business, we can assess your situation and outline the realistic options. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
+If you are a non-resident seeking a Swiss bank account for your business, we can assess your situation and outline the realistic options. Morgan Hartley, Senior Corporate Lawyer & Partner at Morgan Hartley Consulting, reviews your situation and sets out the steps needed — without obligation.
 
 [Request a Free Assessment](/contacts/)
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch

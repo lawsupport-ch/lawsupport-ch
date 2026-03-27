@@ -258,12 +258,12 @@ Required documents include a valid passport (minimum 3 months beyond departure),
 
 ## Get Expert Guidance on Swiss Visa and Immigration Matters
 
-Whether you need a short-stay Schengen visa, a D visa for employment, or guidance on the full pathway from entry to Swiss residence, Morgan Hartley and the Lawsupport team provide practical immigration support for individuals and businesses.
+Whether you need a short-stay Schengen visa, a D visa for employment, or guidance on the full pathway from entry to Swiss residence, Morgan Hartley and the Morgan Hartley Consulting team provide practical immigration support for individuals and businesses.
 
 **[Request a Free Assessment](/contacts/)**
 
 **Morgan Hartley** — Senior Corporate Lawyer & Partner
-Lawsupport (Morgan Hartley Consulting)
+Morgan Hartley Consulting (Morgan Hartley Consulting)
 Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592
 Email: info@lawsupport.ch

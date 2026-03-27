@@ -1,6 +1,6 @@
 ---
 title: "Company Formation Zurich: Full Guide (2026)"
-description: "Form a company in Zurich: AG and GmbH registration, tax rates, and honest Zurich vs Zug comparison. Free assessment from Lawsupport. Learn how we can help."
+description: "Form a company in Zurich: AG and GmbH registration, tax rates, and honest Zurich vs Zug comparison. Free assessment from Morgan Hartley Consulting. Learn how we can help."
 date: "19.03.2026"
 category: "Company Formation"
 categoryHref: "/company-formation/"
@@ -29,7 +29,7 @@ tocItems:
   - id: "real-world-scenario-tech-startup-evaluates-zurich-vs-zug"
     title: "Real-World Scenario: Tech Startup Evaluates Zurich vs. Zug"
   - id: "how-lawsupport-can-help"
-    title: "How Lawsupport Can Help"
+    title: "How Morgan Hartley Consulting Can Help"
 faqItems:
   - question: "Can I register a company in Zurich if I do not live in Switzerland?"
     answer: "Yes. Non-residents can own and direct Swiss companies. The legal requirement is that at least one person authorised to represent the company (a director with signatory power) is resident in Switzerland."
@@ -331,7 +331,7 @@ He registered in Zug. The tax saving over five years will exceed CHF 300'000 —
 
 ---
 
-## How Lawsupport Can Help
+## How Morgan Hartley Consulting Can Help
 
 We are a Zug-based company formation and corporate services firm managing over 300 companies under fiduciary services with a team of 7. Over 18 years and more than 1,000 formations for clients from more than 40 countries. We handle formations in Zurich, Zug, and across Switzerland.
 
@@ -421,6 +421,6 @@ Zurich is more expensive and more heavily taxed than some European locations (no
 
 ---
 
-*Morgan Hartley, Senior Corporate Lawyer & Partner — Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley, Senior Corporate Lawyer & Partner — Morgan Hartley Consulting (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
 
 *[Request a Free Assessment](/contacts/)*

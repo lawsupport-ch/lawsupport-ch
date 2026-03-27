@@ -229,11 +229,11 @@ FINMA (the Swiss Financial Market Supervisory Authority) supervises all banks op
 
 **Request a Free Assessment**
 
-Whether you are establishing a new private banking relationship or reviewing your existing arrangements, we can introduce you to suitable Swiss private banks based on your requirements. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
+Whether you are establishing a new private banking relationship or reviewing your existing arrangements, we can introduce you to suitable Swiss private banks based on your requirements. Morgan Hartley, Senior Corporate Lawyer & Partner at Morgan Hartley Consulting, reviews your situation and sets out the steps needed — without obligation.
 
 [Request a Free Assessment](/contacts/)
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch

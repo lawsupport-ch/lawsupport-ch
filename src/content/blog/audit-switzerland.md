@@ -15,7 +15,7 @@ faqItems:
   - question: "What are the thresholds for an ordinary audit in Switzerland?"
     answer: "Under Art. 727 CO, an ordinary audit is required if a company meets at least two of the following three thresholds in two consecutive financial years: more than 250 full-time equivalent employees, turnover exceeding CHF 40 million, or total assets exceeding CHF 20 million. Listed companies and those that have publicly issued bonds are subject to ordinary audit regardless of size."
   - question: "How does the opting-out process work in Switzerland?"
-    answer: "Under Art. 727a(2) CO, companies with 10 or fewer FTE employees can waive the limited audit if all shareholders consent unanimously. The resolution must be passed at — or before — the AGM and recorded in the meeting minutes. There is no requirement to file the opt-out with the commercial register, but the resolution should be renewed annually unless shareholders pass a standing instruction. Lawsupport prepares the required AGM documents as part of its annual corporate housekeeping service."
+    answer: "Under Art. 727a(2) CO, companies with 10 or fewer FTE employees can waive the limited audit if all shareholders consent unanimously. The resolution must be passed at — or before — the AGM and recorded in the meeting minutes. There is no requirement to file the opt-out with the commercial register, but the resolution should be renewed annually unless shareholders pass a standing instruction. Morgan Hartley Consulting prepares the required AGM documents as part of its annual corporate housekeeping service."
   - question: "Does a Swiss subsidiary of a foreign group need a Swiss statutory audit?"
     answer: "Yes — Swiss statutory audit obligations under Art. 727–727a CO apply to Swiss-incorporated companies independently of any group audit conducted abroad. Whether you need an audit depends on the Swiss size thresholds and the opt-out conditions. Even if you qualify to opt out under Swiss law, your group's internal policy or the requirements of your group auditor may require audited Swiss accounts as input to the consolidated financial statements."
   - question: "What are the auditor independence rules under Art. 728 CO?"
@@ -56,7 +56,7 @@ tocItems:
   - id: "international-group-structures-and-swiss-statutory-audit"
     title: "International Group Structures and Swiss Statutory Audit"
   - id: "lawsupports-audit-coordination-service"
-    title: "Lawsupport's Audit Coordination Service"
+    title: "Morgan Hartley Consulting's Audit Coordination Service"
   - id: "get-a-free-assessment-of-your-audit-obligations"
     title: "Get a Free Assessment of Your Audit Obligations"
 relatedArticles:
@@ -188,7 +188,7 @@ The <a href="https://www.rab-asr.ch/en" target="_blank" rel="nofollow noopener">
 
 Both categories require that the auditor — or the audit firm — be registered in the FAOA's public register. Companies are legally prohibited from appointing an unlicensed person as their statutory auditor. Always verify the auditor's FAOA registration number before appointment.
 
-At Lawsupport, we maintain working relationships with licensed auditors based in Zug and across German-speaking Switzerland. We can recommend an appropriate auditor for your company's structure and size.
+At Morgan Hartley Consulting, we maintain working relationships with licensed auditors based in Zug and across German-speaking Switzerland. We can recommend an appropriate auditor for your company's structure and size.
 
 ---
 
@@ -275,15 +275,15 @@ Key points for international groups:
 - Where the Swiss entity is a holding company with no operational employees and limited transactions, the opt-out may still be available; however, many groups require audited accounts for all subsidiaries as a matter of internal policy
 - Where the group consolidates under IFRS, additional reconciliation between Swiss GAAP (Swiss CO / True and Fair View) and the group reporting framework may be required — this is a coordination matter between the local Swiss auditor and the group engagement team
 
-Lawsupport assists clients in coordinating these arrangements, identifying a suitable Swiss-licensed auditor familiar with IFRS reporting environments, and ensuring the statutory filing timeline aligns with the group's consolidation calendar.
+Morgan Hartley Consulting assists clients in coordinating these arrangements, identifying a suitable Swiss-licensed auditor familiar with IFRS reporting environments, and ensuring the statutory filing timeline aligns with the group's consolidation calendar.
 
 If you are setting up the Swiss entity, see our guides on [company formation in Switzerland](/company-formation/company-formation-switzerland/) and [AG formation in Switzerland](/company-formation/ag-formation-switzerland/).
 
 ---
 
-## Lawsupport's Audit Coordination Service
+## Morgan Hartley Consulting's Audit Coordination Service
 
-Lawsupport does not itself perform statutory audits — audit work must be conducted by FAOA-licensed professionals who are independent of the company. What we do is:
+Morgan Hartley Consulting does not itself perform statutory audits — audit work must be conducted by FAOA-licensed professionals who are independent of the company. What we do is:
 
 - Advise you on which audit category applies to your company under Art. 727–727a CO
 - Guide you through the opt-out process and prepare the required AGM resolutions
@@ -299,15 +299,15 @@ For guidance on internal controls and risk-based reviews separate from the statu
 
 ## Get a Free Assessment of Your Audit Obligations
 
-If you are unsure whether your Swiss company requires an audit, whether you qualify to opt out, or how to coordinate a Swiss statutory audit within your group structure, contact Lawsupport directly.
+If you are unsure whether your Swiss company requires an audit, whether you qualify to opt out, or how to coordinate a Swiss statutory audit within your group structure, contact Morgan Hartley Consulting directly.
 
 <div class="cta-block">
 
 **Request a Free Assessment**
 
-Morgan Hartley and the Lawsupport team will assess your situation and give you a clear, practical answer — at no charge.
+Morgan Hartley and the Morgan Hartley Consulting team will assess your situation and give you a clear, practical answer — at no charge.
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: [+41 44 51 52 592](tel:+41445152592)
 Email: [info@lawsupport.ch](mailto:info@lawsupport.ch)
@@ -372,4 +372,4 @@ A limited audit for a simple GmbH with straightforward accounts typically costs 
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug, Switzerland | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug, Switzerland | +41 44 51 52 592 | info@lawsupport.ch*

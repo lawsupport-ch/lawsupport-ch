@@ -1,6 +1,6 @@
 ---
 title: "Swiss VAT (MWST): Rates, Registration & Compliance (2026)"
-description: "Swiss VAT rates for 2026: standard 8.1%, reduced 2.6%, accommodation 3.8%. Registration threshold CHF 100'000 filing obligations and compliance. Lawsupport."
+description: "Swiss VAT rates for 2026: standard 8.1%, reduced 2.6%, accommodation 3.8%. Registration threshold CHF 100'000 filing obligations and compliance. Morgan Hartley Consulting."
 date: "17.08.2026"
 publishDate: "2026-08-17"
 category: "Tax & Accounting"
@@ -299,11 +299,11 @@ Yes. Closely related entities under common ownership can register as a VAT group
 
 ## Get Your Swiss VAT Right From Day One
 
-VAT in Switzerland is manageable, but it rewards precision. Errors compound — a missed reverse-charge assessment or a blocked input VAT deduction creates a liability that attracts interest from day one. Lawsupport's practitioners work with Swiss-based and internationally operating businesses on VAT registration, structuring, ongoing compliance, ESTV audit support, and error correction.
+VAT in Switzerland is manageable, but it rewards precision. Errors compound — a missed reverse-charge assessment or a blocked input VAT deduction creates a liability that attracts interest from day one. Morgan Hartley Consulting's practitioners work with Swiss-based and internationally operating businesses on VAT registration, structuring, ongoing compliance, ESTV audit support, and error correction.
 
-**Request a Free Assessment** — contact Morgan Hartley at Lawsupport to review your Swiss VAT position and compliance obligations.
+**Request a Free Assessment** — contact Morgan Hartley at Morgan Hartley Consulting to review your Swiss VAT position and compliance obligations.
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: [+41 44 51 52 592](tel:+41445152592)
 Email: [info@lawsupport.ch](mailto:info@lawsupport.ch)

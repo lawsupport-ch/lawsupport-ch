@@ -171,7 +171,7 @@ A British entrepreneur with significant liquidity approached a London-based "cit
 
 He arrived in Switzerland in 2023, established lump-sum taxation in canton Vaud, and formed a Swiss AG with the CHF 2 million investment. Two years in, he discovered the truth: no amount of investment shortens the ten-year ordinary naturalisation timeline. He had been misadvised. His lump-sum taxation arrangement was valid, his residence was valid, and his company was operational — but he faced eight more years before he could apply for citizenship.
 
-He subsequently relocated to canton Zug (lower tax rates) and engaged Lawsupport for the long-term residency and naturalisation planning that should have been done from the start. The two years in Vaud counted toward his ten-year total, so the move did not reset his clock — but the cantonal change required a new cantonal residence period for naturalisation purposes, adding complexity.
+He subsequently relocated to canton Zug (lower tax rates) and engaged Morgan Hartley Consulting for the long-term residency and naturalisation planning that should have been done from the start. The two years in Vaud counted toward his ten-year total, so the move did not reset his clock — but the cantonal change required a new cantonal residence period for naturalisation purposes, adding complexity.
 
 **The lesson:** legitimate residency in Switzerland is entirely achievable for wealthy individuals. Citizenship is not. Anyone promising otherwise is selling something that does not exist under Swiss law.
 
@@ -255,7 +255,7 @@ If you are considering relocating to Switzerland as a high-net-worth individual,
 
 ---
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch

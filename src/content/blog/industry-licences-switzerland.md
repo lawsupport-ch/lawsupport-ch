@@ -26,7 +26,7 @@ tocItems:
   - id: "penalties-for-unlicensed-operation"
     title: "Penalties for Unlicensed Operation"
   - id: "how-lawsupport-can-help"
-    title: "How Lawsupport Can Help"
+    title: "How Morgan Hartley Consulting Can Help"
 faqItems:
   - question: "Do I need a general business licence to operate in Switzerland?"
     answer: "Most commercial activities in Switzerland do not require a general business licence. You register your company in the Commercial Register, and that registration is your authorisation to trade. However, specific industries — hospitality, healthcare, financial services, security, transport, food production — require activity-specific permits from cantonal or federal authorities."
@@ -60,7 +60,7 @@ relatedArticles:
 
 Most businesses in Switzerland can operate with just a Commercial Register entry — no general trading licence is required. However, specific industries need activity-specific permits: hospitality requires a cantonal Wirtepatent, gold trading requires SRO membership for AML compliance, pharmaceutical activities need Swissmedic authorisation, and exports of controlled goods need SECO approval. This guide covers the main non-financial licence categories, explains which authority issues each permit, and sets out the costs and timelines involved.
 
-For a direct assessment of your licensing requirements, [contact Lawsupport](/contacts/).
+For a direct assessment of your licensing requirements, [contact Morgan Hartley Consulting](/contacts/).
 
 ---
 
@@ -223,9 +223,9 @@ The principle is consistent: the more sensitive the regulated activity (health, 
 
 ---
 
-## How Lawsupport Can Help
+## How Morgan Hartley Consulting Can Help
 
-Industry licensing in Switzerland requires navigating federal and cantonal authorities, meeting sector-specific requirements, and maintaining ongoing compliance. Lawsupport assists with:
+Industry licensing in Switzerland requires navigating federal and cantonal authorities, meeting sector-specific requirements, and maintaining ongoing compliance. Morgan Hartley Consulting assists with:
 
 - Identifying which [licences](/licensing/swiss-business-licenses/) your business needs
 - Application preparation and filing for [gold trading](/licensing/gold-trading-license-switzerland/), [hospitality](/licensing/hotel-restaurant-license-switzerland/), [healthcare](/licensing/swissmedic-license-switzerland/), and [export](/licensing/seco-export-controls-switzerland/) licences

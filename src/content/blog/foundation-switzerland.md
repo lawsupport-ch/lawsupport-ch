@@ -199,12 +199,12 @@ For the full regulatory picture, see our guides on [FINMA licensing in Switzerla
 
 A foundation is an irrevocable commitment of assets to a defined purpose. The charter, once registered and approved, cannot be changed without supervisory authority consent — and purpose changes are refused where the original purpose remains achievable. The drafting of the charter and the choice of supervisory canton are consequential decisions.
 
-Lawsupport advises on Swiss foundation formation, charter drafting, tax-exempt status applications, and the regulatory aspects of crypto protocol foundations.
+Morgan Hartley Consulting advises on Swiss foundation formation, charter drafting, tax-exempt status applications, and the regulatory aspects of crypto protocol foundations.
 
 **[Request a Free Assessment](/contacts/)** — or reach us directly:
 
 **Morgan Hartley, Senior Corporate Lawyer & Partner**
-Lawsupport (Morgan Hartley Consulting GmbH)
+Morgan Hartley Consulting (Morgan Hartley Consulting GmbH)
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 
@@ -256,4 +256,4 @@ A foundation (Stiftung) has no owners or members — it exists solely to fulfil 
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

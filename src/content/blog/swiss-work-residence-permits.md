@@ -1,6 +1,6 @@
 ---
 title: "Swiss Work & Residence Permits: B, C, L, G Permit Guide"
-description: "Compare Swiss B, C, L and G permits — eligibility, duration, costs and switching between permit types. Expert guidance from Lawsupport in Zug."
+description: "Compare Swiss B, C, L and G permits — eligibility, duration, costs and switching between permit types. Expert guidance from Morgan Hartley Consulting in Zug."
 date: "26.03.2026"
 pageLevel: 2
 category: "Immigration"
@@ -28,7 +28,7 @@ tocItems:
   - id: "permit-comparison-table"
     title: "Permit Comparison Table"
   - id: "how-lawsupport-can-help"
-    title: "How Lawsupport Can Help"
+    title: "How Morgan Hartley Consulting Can Help"
 faqItems:
   - question: "Which Swiss permit do I need if I am employed by a Swiss company?"
     answer: "If your contract is 12 months or longer, you need a B permit. For contracts under 12 months, you receive an L permit. EU/EFTA nationals benefit from simplified procedures under the free movement agreement. Non-EU nationals face quota restrictions and the employer must prove no suitable local candidate was available."
@@ -62,7 +62,7 @@ relatedArticles:
 
 Switzerland operates a dual-track permit system: EU/EFTA nationals benefit from the Agreement on Free Movement of Persons (AFMP), whilst non-EU nationals are subject to quotas and stricter eligibility criteria under the Federal Act on Foreign Nationals and Integration (AIG). The four main permit types — B, C, L and G — each serve a distinct purpose. This guide explains who qualifies for each permit, what each costs, how long they last, and how to move from one permit category to another.
 
-For personalised guidance on your permit application, [contact Lawsupport](/contacts/) for a free initial assessment.
+For personalised guidance on your permit application, [contact Morgan Hartley Consulting](/contacts/) for a free initial assessment.
 
 ---
 
@@ -198,11 +198,11 @@ Cantons actively competing for business — Zug, Zurich, Schwyz — tend to proc
 
 ---
 
-## How Lawsupport Can Help
+## How Morgan Hartley Consulting Can Help
 
 Permit applications involve cantonal authorities, federal oversight, employer documentation and tight deadlines. A single missing document can delay your application by weeks.
 
-Lawsupport, based in Zug, handles the full permit process: initial eligibility assessment, document preparation, cantonal filing, follow-up with SEM, and — if needed — appeal of unfavourable decisions. Our team works across all cantons and handles both [EU/EFTA](/immigration/swiss-work-permit-eu-nationals/) and [non-EU](/immigration/work-permit-non-eu-switzerland/) applications.
+Morgan Hartley Consulting, based in Zug, handles the full permit process: initial eligibility assessment, document preparation, cantonal filing, follow-up with SEM, and — if needed — appeal of unfavourable decisions. Our team works across all cantons and handles both [EU/EFTA](/immigration/swiss-work-permit-eu-nationals/) and [non-EU](/immigration/work-permit-non-eu-switzerland/) applications.
 
 [Request a free initial assessment](/contacts/) to determine which permit category fits your situation and how long the process will take.
 

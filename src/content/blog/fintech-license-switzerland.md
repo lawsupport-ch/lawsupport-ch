@@ -41,7 +41,7 @@ tocItems:
   - id: "finmas-approach-rigorous-but-reachable"
     title: "FINMA's Approach: Rigorous but Reachable"
   - id: "working-with-lawsupport-on-your-swiss-fintech-license"
-    title: "Working with Lawsupport on Your Swiss Fintech License"
+    title: "Working with Morgan Hartley Consulting on Your Swiss Fintech License"
 relatedArticles:
   - title: "SRO Membership Switzerland: Requirements & Costs"
     href: "/licensing/sro-membership-switzerland/"
@@ -261,7 +261,7 @@ The <a href="https://www.seco.admin.ch/seco/en/home/Standortfoerderung/Wirtschaf
 
 ---
 
-## Working with Lawsupport on Your Swiss Fintech License
+## Working with Morgan Hartley Consulting on Your Swiss Fintech License
 
 Regulatory structuring for fintech companies is one of our core practice areas. We help founders and compliance teams identify the correct regulatory pathway, prepare FINMA application packages, and manage the dialogue with FINMA or the relevant SRO from first contact through to authorisation.
 
@@ -270,7 +270,7 @@ Whether you are launching a payment platform, a crypto custody service, or a cro
 **[Request a Free Assessment](/contacts/)** — or reach us directly:
 
 **Morgan Hartley, Senior Corporate Lawyer & Partner**
-Lawsupport (Morgan Hartley Consulting GmbH)
+Morgan Hartley Consulting (Morgan Hartley Consulting GmbH)
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 
@@ -326,4 +326,4 @@ The sandbox (Art. 6 BankG) permits deposits up to CHF 1 million with no license 
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

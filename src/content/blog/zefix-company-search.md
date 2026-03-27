@@ -84,7 +84,7 @@ The ZEFIX database is updated continuously as cantonal registers process new fil
 
 ZEFIX allows search by:
 
-- **Company name** (Firma): full name or partial name. ZEFIX supports wildcard search — searching "Lawsupport" will return "Lawsupport AG", "Lawsupport GmbH", etc.
+- **Company name** (Firma): full name or partial name. ZEFIX supports wildcard search — searching "Morgan Hartley Consulting" will return "Morgan Hartley Consulting AG", "Morgan Hartley Consulting GmbH", etc.
 - **UID number** (Unternehmens-Identifikationsnummer): the unique Swiss business identification number in format CHE-XXX.XXX.XXX
 - **Canton**: filter results by the 26 Swiss cantons
 - **Legal form**: [AG](/company-formation/ag-formation-switzerland/), [GmbH](/company-formation/gmbh-formation-switzerland/), Einzelfirma, Genossenschaft, Stiftung, etc.
@@ -276,7 +276,7 @@ Swiss companies designate individual or collective signatory authority for their
 Whether you are conducting due diligence on a Swiss counterparty, verifying a company's registration status, or planning to [form your own Swiss company](/company-formation/company-formation-switzerland/), our team can assist with the process.
 
 **Morgan Hartley — Senior Corporate Lawyer & Partner**
-Lawsupport (Morgan Hartley Consulting)
+Morgan Hartley Consulting (Morgan Hartley Consulting)
 Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 
@@ -284,4 +284,4 @@ Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 
 ---
 
-*This article reflects Swiss commercial register law and practice as of March 2026. Nothing in this article constitutes legal advice. Contact Lawsupport at info@lawsupport.ch for advice specific to your situation.*
+*This article reflects Swiss commercial register law and practice as of March 2026. Nothing in this article constitutes legal advice. Contact Morgan Hartley Consulting at info@lawsupport.ch for advice specific to your situation.*

@@ -1,6 +1,6 @@
 ---
 title: "Trademark Registration Switzerland: Costs & Process"
-description: "Register a trademark in Switzerland: official fees from CHF 550, timelines, Nice classes, and enforcement. Practitioner guide by Lawsupport, Zug."
+description: "Register a trademark in Switzerland: official fees from CHF 550, timelines, Nice classes, and enforcement. Practitioner guide by Morgan Hartley Consulting, Zug."
 date: "09.08.2026"
 publishDate: "2026-08-09"
 category: "IP & Commercial Law"
@@ -343,9 +343,9 @@ For businesses building an IP portfolio in Switzerland, trademark registration i
 
 Trademark registration in Switzerland secures exclusive commercial rights for your brand in one of Europe's most competitive markets. Whether you are filing a first Swiss mark or extending international protection through the Madrid Protocol, the process rewards preparation and professional guidance.
 
-**Request a Free Assessment** — contact Morgan Hartley at Lawsupport to discuss your trademark registration requirements.
+**Request a Free Assessment** — contact Morgan Hartley at Morgan Hartley Consulting to discuss your trademark registration requirements.
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: [+41 44 51 52 592](tel:+41445152592)
 Email: [info@lawsupport.ch](mailto:info@lawsupport.ch)

@@ -34,7 +34,7 @@ tocItems:
   - id: "swiss-corporate-bank-account"
     title: "Swiss Corporate Bank Account"
   - id: "what-lawsupport-does"
-    title: "What Lawsupport Does"
+    title: "What Morgan Hartley Consulting Does"
 faqItems:
   - question: "Can I form a Swiss company without visiting Switzerland?"
     answer: "Yes. Swiss law permits formation by power of attorney for both GmbH and AG. The process can be completed fully remotely."
@@ -76,7 +76,7 @@ This is the hub page for our [company formation in Switzerland](/company-formati
 
 You have heard the reputation. Here are the facts that matter operationally:
 
-**Tax rates.** Effective [corporate tax rates](/tax-accounting/corporate-tax-switzerland/) in the lowest-tax cantons run between 11–12%. The canton of Zug, where Lawsupport is headquartered, has an effective rate of approximately 11.8% — among the lowest in Europe for a stable, OECD-compliant jurisdiction.
+**Tax rates.** Effective [corporate tax rates](/tax-accounting/corporate-tax-switzerland/) in the lowest-tax cantons run between 11–12%. The canton of Zug, where Morgan Hartley Consulting is headquartered, has an effective rate of approximately 11.8% — among the lowest in Europe for a stable, OECD-compliant jurisdiction.
 
 **Legal system.** Switzerland operates under a civil law system codified in the <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en" target="_blank" rel="nofollow noopener">Swiss Code of Obligations (CO)</a>. Company law is predictable, courts are efficient, and contract enforcement is strong. There is no political risk to speak of.
 
@@ -263,7 +263,7 @@ Registration with the Commercial Register creates the legal entity. Running a bu
 
 ## Costs: What to Budget
 
-The following figures are current Lawsupport pricing for 2026, not estimates.
+The following figures are current Morgan Hartley Consulting pricing for 2026, not estimates.
 
 **GmbH registration (including notary):** CHF 1’900
 **AG registration (including notary):** CHF 2’500
@@ -333,7 +333,7 @@ Key facts from actual experience:
 
 **US persons:** Swiss banks almost universally reject US-owned companies. Relio’s policy is explicit: “unable to onboard companies with US nexus at UBO/shareholders level.” The exception is narrow: a US person who holds a Swiss residence permit, physically lives in Switzerland, and can demonstrate tax compliance in both jurisdictions may find a willing bank. For everyone else, the options are limited to UK-based EMIs or the parent company’s existing banking relationships — both of which create downstream compliance complications.
 
-Lawsupport manages banking introductions as part of our formation service. We work with banks that understand the profile of internationally owned Swiss companies and present your application in the format they require. The difference between a professional introduction and a cold application is measurable: rejection rates drop from 30%+ to under 10%.
+Morgan Hartley Consulting manages banking introductions as part of our formation service. We work with banks that understand the profile of internationally owned Swiss companies and present your application in the format they require. The difference between a professional introduction and a cold application is measurable: rejection rates drop from 30%+ to under 10%.
 
 [Corporate bank account opening in Switzerland](/banking/corporate-bank-account-switzerland/)
 ---
@@ -345,7 +345,7 @@ A French entrepreneur approached us to start a cryptocurrency mining business in
 **The decision path:**
 - Entity type: AG (shareholder privacy — his name does not appear in the public register)
 - Canton: Zug (11.8% effective tax rate versus 19.7% in Zurich, saving approximately CHF 63'000/year on projected CHF 800'000 profit)
-- Swiss-resident director: nominee from Lawsupport (CHF 5'900/year)
+- Swiss-resident director: nominee from Morgan Hartley Consulting (CHF 5'900/year)
 
 **The actual cost breakdown:**
 
@@ -365,9 +365,9 @@ Plus CHF 100'000 share capital (CHF 50'000 minimum paid in), which remains in th
 
 ---
 
-## What Lawsupport Does
+## What Morgan Hartley Consulting Does
 
-Lawsupport (Morgan Hartley Consulting) is a Swiss company formation and legal support firm based in Zug, Switzerland. We have been forming Swiss companies for international clients for over 18 years, with more than 1'000 formations completed and clients from over 40 countries.
+Morgan Hartley Consulting (Morgan Hartley Consulting) is a Swiss company formation and legal support firm based in Zug, Switzerland. We have been forming Swiss companies for international clients for over 18 years, with more than 1'000 formations completed and clients from over 40 countries.
 
 Our full formation service covers:
 
@@ -396,7 +396,7 @@ Yes. Swiss law permits formation by power of attorney for both GmbH and AG. You 
 
 **Do I need a Swiss address for my company?**
 
-Yes. Every Swiss company must have a registered domicile address in Switzerland — a postal address or virtual office is not sufficient; it must be a genuine business address in the canton of registration. Lawsupport provides domicile services at our Zug office for companies that do not yet have their own Swiss premises.
+Yes. Every Swiss company must have a registered domicile address in Switzerland — a postal address or virtual office is not sufficient; it must be a genuine business address in the canton of registration. Morgan Hartley Consulting provides domicile services at our Zug office for companies that do not yet have their own Swiss premises.
 
 **Can a non-Swiss person be the sole shareholder of a Swiss GmbH or AG?**
 
@@ -412,7 +412,7 @@ CHF 20'000, which must be fully paid up at formation. For a Swiss AG, the author
 
 **Can I open a Swiss company as a US citizen?**
 
-Yes. US citizens can own and direct Swiss companies without restriction. The formation process is identical. However, US persons face additional banking compliance under FATCA, which means bank account opening may take longer and fewer banks accept US-owned structures. Lawsupport routinely handles formations for US citizens and manages the banking introduction with FATCA-compliant institutions.
+Yes. US citizens can own and direct Swiss companies without restriction. The formation process is identical. However, US persons face additional banking compliance under FATCA, which means bank account opening may take longer and fewer banks accept US-owned structures. Morgan Hartley Consulting routinely handles formations for US citizens and manages the banking introduction with FATCA-compliant institutions.
 
 **What ongoing compliance obligations does a Swiss company have?**
 
@@ -436,11 +436,11 @@ Yes. A GmbH can be converted into an AG (and vice versa) through a formal transf
 
 **Request a Free Assessment**
 
-Planning to start a business in Switzerland? Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
+Planning to start a business in Switzerland? Morgan Hartley, Senior Corporate Lawyer & Partner at Morgan Hartley Consulting, reviews your situation and sets out the steps needed — without obligation.
 
 [Request a Free Assessment](/contacts/)
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch

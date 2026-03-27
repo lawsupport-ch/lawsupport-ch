@@ -49,7 +49,7 @@ tocItems:
   - id: "facilitated-vs-ordinary-naturalisation-decision-tree"
     title: "Facilitated vs. Ordinary Naturalisation: Decision Tree"
   - id: "how-lawsupport-assists"
-    title: "How Lawsupport Assists"
+    title: "How Morgan Hartley Consulting Assists"
 relatedArticles:
   - title: "Swiss Citizenship: Requirements, Process & Timeline (2026)"
     href: "/immigration/swiss-citizenship/"
@@ -212,9 +212,9 @@ This compares favourably with ordinary naturalisation, which can total CHF 1'500
 
 ---
 
-## How Lawsupport Assists
+## How Morgan Hartley Consulting Assists
 
-Lawsupport (Morgan Hartley Consulting) advises clients on the full spectrum of Swiss immigration and citizenship matters from our office in Zug. For facilitated naturalisation mandates, we:
+Morgan Hartley Consulting (Morgan Hartley Consulting) advises clients on the full spectrum of Swiss immigration and citizenship matters from our office in Zug. For facilitated naturalisation mandates, we:
 
 - Assess eligibility and identify the earliest possible application date
 - Review language certification requirements and refer clients to appropriate testing providers
@@ -274,7 +274,7 @@ Yes. Since 1 July 2022, same-sex spouses have the same access as opposite-sex sp
 
 ---
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch

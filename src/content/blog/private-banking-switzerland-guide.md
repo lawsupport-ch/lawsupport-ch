@@ -26,7 +26,7 @@ tocItems:
   - id: "choosing-the-right-private-bank"
     title: "Choosing the Right Private Bank"
   - id: "work-with-lawsupport-on-private-banking"
-    title: "Work With Lawsupport on Private Banking"
+    title: "Work With Morgan Hartley Consulting on Private Banking"
 faqItems:
   - question: "What is the minimum amount for private banking in Switzerland?"
     answer: "Minimum thresholds vary by institution: CHF 250,000-500,000 at the entry level (e.g. Vontobel, EFG International), CHF 1-2 million at mid-tier banks (Julius Baer, Lombard Odier), and CHF 5-10 million at exclusive institutions (Pictet, Union Bancaire Privee). Some banks have lower entry points for clients with growth potential or those referred by existing clients."
@@ -225,16 +225,16 @@ For clients also forming a Swiss company, the [best Swiss banks for foreigners](
 
 ---
 
-## Work With Lawsupport on Private Banking
+## Work With Morgan Hartley Consulting on Private Banking
 
-Lawsupport (Morgan Hartley Consulting) provides introductions to Swiss private banks matched to the client's specific profile, asset level, and requirements. Our relationships with major and boutique private banks allow us to facilitate onboarding and ensure clients are placed with the institution best suited to their needs.
+Morgan Hartley Consulting (Morgan Hartley Consulting) provides introductions to Swiss private banks matched to the client's specific profile, asset level, and requirements. Our relationships with major and boutique private banks allow us to facilitate onboarding and ensure clients are placed with the institution best suited to their needs.
 
 For an overview of Swiss banking options beyond private banking, see our guides on [opening a Swiss bank account](/banking/opening-swiss-bank-account-guide/) and the [Swiss banking system](/banking/swiss-banking-landscape/).
 
 **[Request a Free Assessment](/contacts/)** — or contact us directly:
 
 **Morgan Hartley, Senior Corporate Lawyer & Partner**
-Lawsupport (Morgan Hartley Consulting GmbH)
+Morgan Hartley Consulting (Morgan Hartley Consulting GmbH)
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 
@@ -286,4 +286,4 @@ Private banking is primarily designed for individuals and families. However, pri
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

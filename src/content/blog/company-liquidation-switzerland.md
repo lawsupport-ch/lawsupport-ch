@@ -1,6 +1,6 @@
 ---
 title: "Company Liquidation Switzerland: Process & Costs (2026)"
-description: "How to liquidate a Swiss GmbH or AG. Voluntary dissolution, tax clearance, timeline, and costs explained. Request a free assessment from Lawsupport."
+description: "How to liquidate a Swiss GmbH or AG. Voluntary dissolution, tax clearance, timeline, and costs explained. Request a free assessment from Morgan Hartley Consulting."
 date: "19.03.2026"
 category: "Company Formation"
 categoryHref: "/company-formation/"
@@ -19,7 +19,7 @@ tocItems:
   - id: "alternatives-to-full-liquidation"
     title: "Alternatives to Full Liquidation"
   - id: "what-lawsupport-handles"
-    title: "What Lawsupport Handles"
+    title: "What Morgan Hartley Consulting Handles"
   - id: "case-study-remote-liquidation-of-a-dormant-zug-gmbh"
     title: "Case Study: Remote Liquidation of Dormant GmbH"
   - id: "decision-tree-liquidate-sell-or-maintain"
@@ -32,9 +32,9 @@ faqItems:
   - question: "What if my Swiss company has no assets?"
     answer: "Even a company with zero assets must go through the formal dissolution process. The steps are the same: resolution, notarial deed, creditor notice, tax clearance, deletion. The absence of assets makes the process simpler (no distribution to organise) but does not shorten it significantly — the 3-month creditor notice period still applies."
   - question: "Can I liquidate a Swiss company remotely?"
-    answer: "Yes. The dissolution deed can be executed via power of attorney — the shareholder(s) grant a Swiss representative (such as Lawsupport) authority to execute the notarial deed on their behalf. The PoA must be notarised and apostilled in the shareholder's home country."
+    answer: "Yes. The dissolution deed can be executed via power of attorney — the shareholder(s) grant a Swiss representative (such as Morgan Hartley Consulting) authority to execute the notarial deed on their behalf. The PoA must be notarised and apostilled in the shareholder's home country."
   - question: "Does the existing director have to be the liquidator?"
-    answer: "By default, existing directors become liquidators at dissolution. It is also possible to appoint a separate liquidator (e.g., Lawsupport) at the dissolution stage. This is common where the existing director is abroad or unavailable for Swiss-based liquidation tasks."
+    answer: "By default, existing directors become liquidators at dissolution. It is also possible to appoint a separate liquidator (e.g., Morgan Hartley Consulting) at the dissolution stage. This is common where the existing director is abroad or unavailable for Swiss-based liquidation tasks."
   - question: "How is the 35% withholding tax on liquidation distributions handled?"
     answer: "When the company distributes assets to shareholders upon liquidation, any amount above the nominal share capital is treated as a taxable dividend. The company must withhold 35% of that amount and pay it to the Swiss Federal Tax Administration (ESTV). Shareholders resident in treaty countries can apply for a refund of all or part of the withholding tax via their local tax authority."
   - question: "How long does a Swiss company liquidation take in total?"
@@ -133,7 +133,7 @@ The tax clearance from the cantonal authority is usually the longest single step
 |---|---|
 | Notarial fee (dissolution deed) | 800–1,500 |
 | Commercial Register fees (dissolution + deletion) | 600–800 |
-| Lawsupport professional fee (liquidation management) | 2,000–5,000 |
+| Morgan Hartley Consulting professional fee (liquidation management) | 2,000–5,000 |
 | Tax clearance coordination | Included in above |
 | Accounting / final accounts preparation | 500–2,000 |
 | **Total** | **~4,000–10,000** |
@@ -166,11 +166,11 @@ Before proceeding with full liquidation, it is worth considering whether a diffe
 
 **Dormancy.** A company can be put into a dormant state — ceasing active trading while maintaining its registration and filing obligations — without liquidating. This preserves the entity for future use but involves ongoing minimal costs. Note that annual tax returns must still be filed.
 
-If you are uncertain which route is appropriate, [request a free assessment from Lawsupport](/contacts/) before starting any process.
+If you are uncertain which route is appropriate, [request a free assessment from Morgan Hartley Consulting](/contacts/) before starting any process.
 
 ---
 
-## What Lawsupport Handles
+## What Morgan Hartley Consulting Handles
 
 We manage the complete liquidation process for Zug-based companies: dissolution resolution, notarial deed, Register filing, creditor notice management, tax clearance coordination, final accounts preparation, and deletion. Clients do not need to interact directly with the Register, the tax authority, or the notary.
 
@@ -198,8 +198,8 @@ A US-based founder had incorporated a Swiss GmbH in Zug three years earlier to h
 - Founder was based in San Francisco and could not travel to Switzerland
 
 **Remote liquidation process:**
-1. **Power of attorney:** The founder signed a PoA (notarised and apostilled in California) granting Lawsupport authority to execute the notarial dissolution deed — 2 weeks for notarisation and apostille
-2. **Dissolution deed:** Executed by Lawsupport on behalf of the founder before a Zug notary — 1 day
+1. **Power of attorney:** The founder signed a PoA (notarised and apostilled in California) granting Morgan Hartley Consulting authority to execute the notarial dissolution deed — 2 weeks for notarisation and apostille
+2. **Dissolution deed:** Executed by Morgan Hartley Consulting on behalf of the founder before a Zug notary — 1 day
 3. **Commercial Register filing + SHAB publication:** Filed within 3 days of the deed
 4. **Creditor notice period:** 3 months (no creditors came forward — the company had never traded)
 5. **Tax clearance:** Steuerverwaltung Zug issued clearance within 7 weeks
@@ -207,7 +207,7 @@ A US-based founder had incorporated a Swiss GmbH in Zug three years earlier to h
 7. **Deletion:** Commercial Register entry deleted, published in SHAB
 
 **Timeline:** 5.5 months from engagement to deletion.
-**Total cost:** CHF 5'800 (notarial fees CHF 1'200, register fees CHF 700, Lawsupport professional fee CHF 3'200, California notarisation/apostille CHF 700).
+**Total cost:** CHF 5'800 (notarial fees CHF 1'200, register fees CHF 700, Morgan Hartley Consulting professional fee CHF 3'200, California notarisation/apostille CHF 700).
 
 **The economic calculation:** The founder had been paying CHF 9'700/year to maintain a dormant company. The one-time liquidation cost of CHF 5'800 paid for itself in 7 months. Over the next three years, the saving was CHF 23'300 (three years of avoided maintenance costs minus the liquidation fee).
 
@@ -277,11 +277,11 @@ Even a company with zero assets must go through the formal dissolution process. 
 
 **Can I liquidate a Swiss company remotely?**
 
-Yes. The dissolution deed can be executed via power of attorney — the shareholder(s) grant a Swiss representative (such as Lawsupport) authority to execute the notarial deed on their behalf. The PoA must be notarised and apostilled in the shareholder's home country. All subsequent steps are handled by Lawsupport in Switzerland.
+Yes. The dissolution deed can be executed via power of attorney — the shareholder(s) grant a Swiss representative (such as Morgan Hartley Consulting) authority to execute the notarial deed on their behalf. The PoA must be notarised and apostilled in the shareholder's home country. All subsequent steps are handled by Morgan Hartley Consulting in Switzerland.
 
 **Does the existing director have to be the liquidator?**
 
-By default, existing directors become liquidators at dissolution. It is also possible to appoint a separate liquidator (e.g., Lawsupport) at the dissolution stage. This is common where the existing director is abroad or unavailable for Swiss-based liquidation tasks.
+By default, existing directors become liquidators at dissolution. It is also possible to appoint a separate liquidator (e.g., Morgan Hartley Consulting) at the dissolution stage. This is common where the existing director is abroad or unavailable for Swiss-based liquidation tasks.
 
 **How is the 35% withholding tax on liquidation distributions handled?**
 
@@ -317,6 +317,6 @@ For certain simple structures, where the company has no creditors, no outstandin
 
 ---
 
-*Morgan Hartley, Senior Corporate Lawyer & Partner — Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley, Senior Corporate Lawyer & Partner — Morgan Hartley Consulting (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
 
 *[Request a Free Assessment](/contacts/)*

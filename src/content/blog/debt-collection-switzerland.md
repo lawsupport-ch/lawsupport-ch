@@ -1,6 +1,6 @@
 ---
 title: "Debt Collection Switzerland: SchKG Process Guide"
-description: "Swiss debt collection (SchKG): Betreibung, payment order, objection, and bankruptcy steps with timelines. Contact Lawsupport for creditor advice."
+description: "Swiss debt collection (SchKG): Betreibung, payment order, objection, and bankruptcy steps with timelines. Contact Morgan Hartley Consulting for creditor advice."
 date: "19.03.2026"
 category: "Company Formation"
 categoryHref: "/company-formation/"
@@ -221,12 +221,12 @@ The company files a Rechtsvorschlag (objection) within 10 days. This suspends th
 
 ## Need Advice on Debt Enforcement or Swiss Company Obligations?
 
-Whether you are pursuing a claim through the SchKG or defending against a Betreibung, the procedural steps and timing require careful attention. Morgan Hartley and the team at Lawsupport advise creditors and companies across Switzerland on enforcement, corporate insolvency, and commercial disputes.
+Whether you are pursuing a claim through the SchKG or defending against a Betreibung, the procedural steps and timing require careful attention. Morgan Hartley and the team at Morgan Hartley Consulting advise creditors and companies across Switzerland on enforcement, corporate insolvency, and commercial disputes.
 
 [Request a Free Assessment](/contacts/) to discuss your specific situation.
 
 **Morgan Hartley | Senior Corporate Lawyer & Partner**
-Lawsupport (Morgan Hartley Consulting GmbH)
+Morgan Hartley Consulting (Morgan Hartley Consulting GmbH)
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 

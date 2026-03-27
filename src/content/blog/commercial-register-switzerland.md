@@ -1,6 +1,6 @@
 ---
 title: "Swiss Commercial Register: What It Is & How to File"
-description: "Swiss Handelsregister explained: public data, search methods, filing triggers, and registration timelines. Get expert filing support from Lawsupport."
+description: "Swiss Handelsregister explained: public data, search methods, filing triggers, and registration timelines. Get expert filing support from Morgan Hartley Consulting."
 date: "19.03.2026"
 category: "Company Formation"
 categoryHref: "/company-formation/"
@@ -243,7 +243,7 @@ Yes. Branches of foreign companies must register in the Swiss Commercial Registe
 
 The register is straightforward once you know its logic. The filing requirements, notarial steps, and cantonal variations create friction for those unfamiliar with Swiss corporate procedure. Errors in filed documents, incomplete resolutions, or missed filing deadlines generate corrections, delays, and additional cost.
 
-Lawsupport handles the full process: initial registration, certified extracts, director changes, purpose amendments, capital transactions, and dissolution filings across all major Swiss cantons. If you need the register to reflect your company's current structure — quickly and correctly — that is what we do.
+Morgan Hartley Consulting handles the full process: initial registration, certified extracts, director changes, purpose amendments, capital transactions, and dissolution filings across all major Swiss cantons. If you need the register to reflect your company's current structure — quickly and correctly — that is what we do.
 
 [**Request a Free Assessment**](/contacts/)
 
@@ -253,4 +253,4 @@ Lawsupport handles the full process: initial registration, certified extracts, d
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

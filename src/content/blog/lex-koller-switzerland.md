@@ -210,11 +210,11 @@ If the intended use is residential, Lex Koller applies. If commercial or industr
 
 **Request a Free Assessment**
 
-If you are a foreign national considering property purchase in Switzerland, understanding your Lex Koller position before making offers avoids wasted time and legal costs. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
+If you are a foreign national considering property purchase in Switzerland, understanding your Lex Koller position before making offers avoids wasted time and legal costs. Morgan Hartley, Senior Corporate Lawyer & Partner at Morgan Hartley Consulting, reviews your situation and sets out the steps needed — without obligation.
 
 [Request a Free Assessment](/contacts/)
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch

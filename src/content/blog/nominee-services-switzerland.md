@@ -50,7 +50,7 @@ relatedArticles:
 ---
 
 
-Swiss nominee services allow company owners to meet Swiss legal requirements -- particularly the Swiss-resident director requirement -- while maintaining operational flexibility. This guide explains what Swiss law permits, what disclosures are required, and what Lawsupport provides.
+Swiss nominee services allow company owners to meet Swiss legal requirements -- particularly the Swiss-resident director requirement -- while maintaining operational flexibility. This guide explains what Swiss law permits, what disclosures are required, and what Morgan Hartley Consulting provides.
 
 ---
 
@@ -81,7 +81,7 @@ The annual fee (typically CHF 5'900 standard, CHF 7'400 premium) covers the dire
 
 **Disclosure:** Swiss law (AMLA and the company's bank's KYC) requires that the **beneficial owner** (Wirtschaftlich Berechtigter) of the company be identified and documented. The existence of a nominee director does not make the owner anonymous -- the owner is fully identified in the internal records of the nominee and in the bank's KYC file (Form A). What the nominee arrangement does is keep the owner's name out of the public Commercial Register while meeting the Swiss legal requirement for a Swiss-resident signatory.
 
-**Lawsupport's nominee director service:** We provide Swiss-resident director services for companies domiciled in Zug. The beneficial owner retains full operational control; we handle the formal director function, including signing power of attorney for specific transactions as instructed.
+**Morgan Hartley Consulting's nominee director service:** We provide Swiss-resident director services for companies domiciled in Zug. The beneficial owner retains full operational control; we handle the formal director function, including signing power of attorney for specific transactions as instructed.
 
 ---
 
@@ -89,7 +89,7 @@ The annual fee (typically CHF 5'900 standard, CHF 7'400 premium) covers the dire
 
 Every Swiss company must have a registered address (Domizil) in Switzerland -- a physical address in the canton of registration that appears in the Commercial Register. This does not need to be operational office space.
 
-Lawsupport provides registered address services at Baarerstrasse 135, 6300 Zug -- the company's mail is received and forwarded; the Zug address appears in the Commercial Register. The registered address in Zug is CHF 2'400 per year; a Zurich address costs CHF 3'000 per year. The registered address in Zug is CHF 2'400 per year; a Zurich address costs CHF 3'000 per year.
+Morgan Hartley Consulting provides registered address services at Baarerstrasse 135, 6300 Zug -- the company's mail is received and forwarded; the Zug address appears in the Commercial Register. The registered address in Zug is CHF 2'400 per year; a Zurich address costs CHF 3'000 per year. The registered address in Zug is CHF 2'400 per year; a Zurich address costs CHF 3'000 per year.
 
 **What a registered address is not:** A registered address is not an operational office. If the company employs staff, has client meetings, or stores inventory in Switzerland, it needs separate commercial premises. A registered address is only for the legal domicile requirement.
 
@@ -183,7 +183,7 @@ In Swiss practice, the terms are often used interchangeably. Both refer to a Swi
 
 **Do I need a nominee director for a branch office?**
 
-Swiss branch offices of foreign companies must appoint a person domiciled in Switzerland who is authorised to represent the branch. This person serves a similar function to a nominee director and must be entered in the [Commercial Register](/company-formation/commercial-register-switzerland/). Lawsupport provides this service for branch offices as well.
+Swiss branch offices of foreign companies must appoint a person domiciled in Switzerland who is authorised to represent the branch. This person serves a similar function to a nominee director and must be entered in the [Commercial Register](/company-formation/commercial-register-switzerland/). Morgan Hartley Consulting provides this service for branch offices as well.
 
 **Can a company act as a nominee director in Switzerland?**
 
@@ -213,11 +213,11 @@ Swiss nominee arrangements are governed by the <a href="https://www.fedlex.admin
 
 **Request a Free Assessment**
 
-Whether you need a Swiss-resident nominee director, a registered address in Zug, or a nominee shareholder arrangement, we can set out the options that apply to your situation. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed -- without obligation.
+Whether you need a Swiss-resident nominee director, a registered address in Zug, or a nominee shareholder arrangement, we can set out the options that apply to your situation. Morgan Hartley, Senior Corporate Lawyer & Partner at Morgan Hartley Consulting, reviews your situation and sets out the steps needed -- without obligation.
 
 [Request a Free Assessment](/contacts/)
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch

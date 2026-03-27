@@ -197,7 +197,7 @@ Yes. Standard practice. Each company has its own Commercial Register entry and m
 If you need a Swiss business address or want to relocate your company's domicile to Zug, contact Morgan Hartley for a free initial assessment.
 
 **Morgan Hartley — Senior Corporate Lawyer & Partner**
-Lawsupport (Morgan Hartley Consulting)
+Morgan Hartley Consulting (Morgan Hartley Consulting)
 Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 
@@ -205,4 +205,4 @@ Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 
 ---
 
-*This article reflects Swiss commercial law and practice as of March 2026. Nothing in this article constitutes legal advice. Contact Lawsupport at info@lawsupport.ch for advice specific to your situation.*
+*This article reflects Swiss commercial law and practice as of March 2026. Nothing in this article constitutes legal advice. Contact Morgan Hartley Consulting at info@lawsupport.ch for advice specific to your situation.*

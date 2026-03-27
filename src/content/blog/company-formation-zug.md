@@ -267,7 +267,7 @@ Total cost: CHF 2'500 for AG registration including notary, plus CHF 2'400/year 
 
 ## Step-by-Step: Company Formation in Zug
 
-Here is the practical sequence for a standard GmbH or AG formation with Lawsupport in Zug:
+Here is the practical sequence for a standard GmbH or AG formation with Morgan Hartley Consulting in Zug:
 
 1. **Initial consultation:** We confirm the optimal structure (AG, GmbH, or Foundation), share capital, governance, and tax considerations. We provide a fixed-fee engagement letter.
 2. **KYC/AML:** We collect identification documents, proof of address, and source of funds documentation for all founders, directors, and beneficial owners. This is a regulatory requirement under Swiss law.
@@ -308,7 +308,7 @@ For relocation assistance, see our [work permit and immigration guides](/immigra
 
 ## Work With Us
 
-Lawsupport (Morgan Hartley Consulting) has been forming companies in Zug since 2007. We have completed more than 1,000 formations for clients from over 40 countries. Our office is at Baarerstrasse 135, 6300 Zug — a five-minute walk from the Zug Commercial Register.
+Morgan Hartley Consulting (Morgan Hartley Consulting) has been forming companies in Zug since 2007. We have completed more than 1,000 formations for clients from over 40 countries. Our office is at Baarerstrasse 135, 6300 Zug — a five-minute walk from the Zug Commercial Register.
 
 We manage over 300 companies under fiduciary services with a team of 7, and advise on the full lifecycle of a Zug company: formation, structuring, tax ruling, banking, directorship, registered agent services, and eventual restructuring or dissolution.
 
@@ -386,7 +386,7 @@ Both are separate legal entities with limited liability, but they differ in capi
 
 **Can a non-Swiss citizen be the sole director of a Zug company?**
 
-Swiss law requires that at least one person authorised to represent the company is resident in Switzerland. That person may be a Swiss national or a foreign national with Swiss residency. If no director is resident in Switzerland, a nominee director service is required. Lawsupport provides Swiss-resident nominee director services. [Learn more about nominee director services](/corporate-services/nominee-director-switzerland/).
+Swiss law requires that at least one person authorised to represent the company is resident in Switzerland. That person may be a Swiss national or a foreign national with Swiss residency. If no director is resident in Switzerland, a nominee director service is required. Morgan Hartley Consulting provides Swiss-resident nominee director services. [Learn more about nominee director services](/corporate-services/nominee-director-switzerland/).
 
 **What happens after my Zug company is registered?**
 
@@ -394,6 +394,6 @@ After registration, the company's bank account is activated, VAT registration sh
 
 ---
 
-*Morgan Hartley, Senior Corporate Lawyer & Partner — Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley, Senior Corporate Lawyer & Partner — Morgan Hartley Consulting (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
 
 *For company formation enquiries, [Request a Free Assessment](/contacts/).*

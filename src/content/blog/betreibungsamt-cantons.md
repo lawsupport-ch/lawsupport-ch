@@ -70,7 +70,7 @@ SCHEMA: Article
     "jobTitle": "Senior Corporate Lawyer & Partner",
     "worksFor": {
       "@type": "Organization",
-      "name": "Lawsupport (Morgan Hartley Consulting)",
+      "name": "Morgan Hartley Consulting (Morgan Hartley Consulting)",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Baarerstrasse 135",
@@ -83,7 +83,7 @@ SCHEMA: Article
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Lawsupport",
+    "name": "Morgan Hartley Consulting",
     "url": "https://lawsupport.ch"
   },
   "mainEntityOfPage": "https://lawsupport.ch/betreibungsamt-cantons/"
@@ -358,11 +358,11 @@ For a canton-by-canton company registration comparison, see the [commercial regi
 
 **Received a Zahlungsbefehl or need to pursue a debtor in Switzerland?**
 
-Morgan Hartley and the Lawsupport team advise creditors and debtors on SchKG proceedings, Rechtsöffnung strategy, and cross-border enforcement. We work from Zug with clients across all Swiss cantons and internationally.
+Morgan Hartley and the Morgan Hartley Consulting team advise creditors and debtors on SchKG proceedings, Rechtsöffnung strategy, and cross-border enforcement. We work from Zug with clients across all Swiss cantons and internationally.
 
 [Request a Free Assessment →](/contacts/)
 
-*Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
 
 For a broader overview, see our guide to [Corporate Infrastructure in Switzerland](/corporate-services/corporate-infrastructure-switzerland/).
 
@@ -475,4 +475,4 @@ The correct office is the Betreibungsamt of the debtor's domicile commune (indiv
 
 ---
 
-*Article by Morgan Hartley, Senior Corporate Lawyer & Partner, Lawsupport (Morgan Hartley Consulting), Baarerstrasse 135, 6300 Zug, Switzerland. Last reviewed: 19 March 2026.*
+*Article by Morgan Hartley, Senior Corporate Lawyer & Partner, Morgan Hartley Consulting (Morgan Hartley Consulting), Baarerstrasse 135, 6300 Zug, Switzerland. Last reviewed: 19 March 2026.*

@@ -1,6 +1,6 @@
 ---
 title: "Double Tax Treaties Switzerland: Key Rates (2026)"
-description: "Switzerland's 100+ double tax treaties explained: withholding rates, LOB, PPT, PE rules, and relief procedures. Practitioner guide from Lawsupport, Zug."
+description: "Switzerland's 100+ double tax treaties explained: withholding rates, LOB, PPT, PE rules, and relief procedures. Practitioner guide from Morgan Hartley Consulting, Zug."
 date: "19.03.2026"
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"
@@ -23,7 +23,7 @@ tocItems:
   - id: "tiebreaker-rules-for-dual-residents"
     title: "Tiebreaker Rules for Dual Residents"
   - id: "how-lawsupport-advises-on-swiss-dta-planning"
-    title: "How Lawsupport Advises on Swiss DTA Planning"
+    title: "How Morgan Hartley Consulting Advises on Swiss DTA Planning"
 faqItems:
   - question: "What happens if I distribute a dividend without applying for treaty relief first?"
     answer: "The Swiss company withholds the full 35% and remits it to the ESTV. You can reclaim the excess (the difference between 35% and the treaty rate) through a formal refund application, but processing takes 6-18 months. On a CHF 1 million dividend to a German shareholder, that is CHF 200'000 locked up as dead capital for over a year."
@@ -286,20 +286,20 @@ For individuals, treaties use a sequential cascade: permanent home, centre of vi
 
 ---
 
-## How Lawsupport Advises on Swiss DTA Planning
+## How Morgan Hartley Consulting Advises on Swiss DTA Planning
 
-Lawsupport (Morgan Hartley Consulting GmbH), based in Zug, advises international clients on all aspects of Swiss treaty planning: determining applicable treaty rates, structuring qualifying holding and IP companies, preparing refund applications to the ESTV, obtaining advance tax rulings, and building the substance documentation needed to withstand PPT and LOB scrutiny. Our work spans the full Swiss tax lifecycle — from initial structuring through to annual compliance and [withholding tax refund](/tax-accounting/withholding-tax-switzerland/) management.
+Morgan Hartley Consulting (Morgan Hartley Consulting GmbH), based in Zug, advises international clients on all aspects of Swiss treaty planning: determining applicable treaty rates, structuring qualifying holding and IP companies, preparing refund applications to the ESTV, obtaining advance tax rulings, and building the substance documentation needed to withstand PPT and LOB scrutiny. Our work spans the full Swiss tax lifecycle — from initial structuring through to annual compliance and [withholding tax refund](/tax-accounting/withholding-tax-switzerland/) management.
 
 If you are assessing a Swiss structure, expanding into Switzerland, or reviewing an existing arrangement in light of BEPS changes, contact us for a focused advisory consultation.
 
 [Request a Free Assessment](/contacts/)
 
 **Morgan Hartley | Senior Corporate Lawyer & Partner**
-Lawsupport (Morgan Hartley Consulting GmbH)
+Morgan Hartley Consulting (Morgan Hartley Consulting GmbH)
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug, Switzerland | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug, Switzerland | +41 44 51 52 592 | info@lawsupport.ch*

@@ -45,7 +45,7 @@ tocItems:
   - id: "applying-for-the-passport-itself"
     title: "Applying for the Passport Itself"
   - id: "how-lawsupport-can-help"
-    title: "How Lawsupport Can Help"
+    title: "How Morgan Hartley Consulting Can Help"
 relatedArticles:
   - title: "Swiss Citizenship: Requirements, Process & Timeline (2026)"
     href: "/immigration/swiss-citizenship/"
@@ -211,14 +211,14 @@ No explicit minimum. Minor children can be included in a parent's application.
 
 ---
 
-## How Lawsupport Can Help
+## How Morgan Hartley Consulting Can Help
 
-Lawsupport (Morgan Hartley Consulting) advises on Swiss residency structure, permit pathways, and naturalization planning from our Zug office. Swiss citizenship is a long-term goal that requires decisions made years earlier — at first residence registration, permit type selection, and ongoing Swiss ties — to pay off at the naturalization stage.
+Morgan Hartley Consulting (Morgan Hartley Consulting) advises on Swiss residency structure, permit pathways, and naturalization planning from our Zug office. Swiss citizenship is a long-term goal that requires decisions made years earlier — at first residence registration, permit type selection, and ongoing Swiss ties — to pay off at the naturalization stage.
 
 **[Request a Free Assessment](/contacts/)**
 
 **Morgan Hartley** — Senior Corporate Lawyer & Partner
-Lawsupport (Morgan Hartley Consulting)
+Morgan Hartley Consulting (Morgan Hartley Consulting)
 Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592
 Email: info@lawsupport.ch

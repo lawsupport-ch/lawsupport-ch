@@ -1,6 +1,6 @@
 ---
 title: "Design Registration Switzerland: Process & Costs"
-description: "Register a design in Switzerland: IPI process, fees from CHF 300, protection up to 25 years. Learn design vs copyright vs trademark. Contact Lawsupport."
+description: "Register a design in Switzerland: IPI process, fees from CHF 300, protection up to 25 years. Learn design vs copyright vs trademark. Contact Morgan Hartley Consulting."
 date: "19.03.2026"
 category: "IP & Commercial Law"
 categoryHref: "/intellectual-property/"
@@ -29,7 +29,7 @@ tocItems:
   - id: "enforcement"
     title: "Enforcement"
   - id: "work-with-lawsupport-on-design-registration"
-    title: "Work with Lawsupport on Design Registration"
+    title: "Work with Morgan Hartley Consulting on Design Registration"
   - id: "case-study-watch-component-manufacturer--design-vs-patent"
     title: "Case Study: Watch Component Manufacturer"
   - id: "decision-tree-design-patent-trademark-or-copyright"
@@ -335,14 +335,14 @@ The IPI conducts only a formal examination, so registration is typically complet
 
 ---
 
-## Work with Lawsupport on Design Registration
+## Work with Morgan Hartley Consulting on Design Registration
 
-Design registration is administratively straightforward, but the commercial strategy around it — what to register, when to file, how to combine design rights with copyright and trademark protection, and how to enforce — requires legal judgment. Lawsupport advises businesses across Switzerland on intellectual property registration and enforcement, from single-design filings to coordinated international IP strategies via the Hague and Madrid systems.
+Design registration is administratively straightforward, but the commercial strategy around it — what to register, when to file, how to combine design rights with copyright and trademark protection, and how to enforce — requires legal judgment. Morgan Hartley Consulting advises businesses across Switzerland on intellectual property registration and enforcement, from single-design filings to coordinated international IP strategies via the Hague and Madrid systems.
 
 [Request a Free Assessment](/contacts/) to discuss your design portfolio and the protection that makes sense for your business.
 
 **Morgan Hartley | Senior Corporate Lawyer & Partner**
-Lawsupport (Morgan Hartley Consulting GmbH)
+Morgan Hartley Consulting (Morgan Hartley Consulting GmbH)
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 

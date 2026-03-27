@@ -1,6 +1,6 @@
 ---
 title: "Due Diligence Switzerland: Process & Risks (2026)"
-description: "Swiss due diligence for M&A: legal, financial, tax, regulatory, and IP streams. Red flags, timelines, and Swiss-specific risks. Lawsupport, Zug."
+description: "Swiss due diligence for M&A: legal, financial, tax, regulatory, and IP streams. Red flags, timelines, and Swiss-specific risks. Morgan Hartley Consulting, Zug."
 date: "15.04.2026"
 publishDate: "2026-04-15"
 category: "Corporate Transactions"
@@ -213,16 +213,16 @@ Under Swiss law, a buyer who could reasonably have discovered a risk during due 
 
 ## Request a Free Assessment
 
-For Swiss M&A transactions, [company structuring advice](/company-formation/company-formation-switzerland/), or detailed due diligence support, contact Lawsupport directly.
+For Swiss M&A transactions, [company structuring advice](/company-formation/company-formation-switzerland/), or detailed due diligence support, contact Morgan Hartley Consulting directly.
 
 [Request a Free Assessment](/contacts/)
 
 **Morgan Hartley | Senior Corporate Lawyer & Partner**
-Lawsupport (Morgan Hartley Consulting GmbH)
+Morgan Hartley Consulting (Morgan Hartley Consulting GmbH)
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug, Switzerland | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug, Switzerland | +41 44 51 52 592 | info@lawsupport.ch*

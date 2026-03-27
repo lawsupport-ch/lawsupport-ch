@@ -1,6 +1,6 @@
 ---
 title: "Swiss Banking Licence: FINMA Requirements (2026)"
-description: "Swiss banking licence from FINMA: CHF 10M capital, fit & proper criteria, 12-24 month timeline. Get expert guidance from Lawsupport, Zug. Learn how we can help."
+description: "Swiss banking licence from FINMA: CHF 10M capital, fit & proper criteria, 12-24 month timeline. Get expert guidance from Morgan Hartley Consulting, Zug. Learn how we can help."
 date: "19.03.2026"
 category: "Licensing & Permits"
 categoryHref: "/licensing/"
@@ -373,7 +373,7 @@ The detail that surprises banking licence applicants most: FINMA requires a full
 
 A Swiss banking licence is achievable — but only with the right preparation and precise execution. The difference between a 12-month and a 24-month application is almost always the quality of preparation at the outset.
 
-Morgan Hartley and the Lawsupport team advise on Swiss financial market authorisations from Zug — the jurisdiction with the highest concentration of financial and crypto businesses in Switzerland.
+Morgan Hartley and the Morgan Hartley Consulting team advise on Swiss financial market authorisations from Zug — the jurisdiction with the highest concentration of financial and crypto businesses in Switzerland.
 
 We assist with:
 
@@ -388,7 +388,7 @@ We assist with:
 
 ---
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch

@@ -49,7 +49,7 @@ tocItems:
   - id: "how-to-verify-whether-you-hold-swiss-citizenship"
     title: "How to Verify Whether You Hold Swiss Citizenship"
   - id: "how-lawsupport-helps"
-    title: "How Lawsupport Helps"
+    title: "How Morgan Hartley Consulting Helps"
   - id: "take-the-next-step"
     title: "Take the Next Step"
 relatedArticles:
@@ -66,7 +66,7 @@ Switzerland does not grant citizenship based on where you were born. It grants c
 
 But here is the part that most online guides leave out: there is a hard deadline that has already extinguished thousands of valid claims, and most people only discover it after it has passed. If you were born abroad to a Swiss parent on or after 1 June 1985 and did not register your citizenship before your 25th birthday, you have very likely lost it.
 
-If you believe you may have a claim, contact [Lawsupport](/contacts/) before doing anything else. The rules are generation-specific and fact-sensitive. Acting on incorrect assumptions — or missing a deadline — can permanently extinguish a valid claim.
+If you believe you may have a claim, contact [Morgan Hartley Consulting](/contacts/) before doing anything else. The rules are generation-specific and fact-sensitive. Acting on incorrect assumptions — or missing a deadline — can permanently extinguish a valid claim.
 
 ---
 
@@ -220,11 +220,11 @@ In practice, the Heimatgemeinde search can be slow. Smaller communes may take we
 
 ---
 
-## How Lawsupport Helps
+## How Morgan Hartley Consulting Helps
 
 Swiss citizenship by descent is one of the most fact-intensive areas of Swiss immigration law. The outcome depends on dates, registrations, and family history details that are not always easy to reconstruct.
 
-At Lawsupport, we:
+At Morgan Hartley Consulting, we:
 
 - Assess your specific family history against the relevant legal rules for each generation
 - Identify whether a valid citizenship claim exists, has lapsed, or may be resurrected through a facilitated route
@@ -276,7 +276,7 @@ A child adopted by a Swiss citizen acquires Swiss citizenship through adoption i
 
 If you have a Swiss parent or ancestor and are uncertain about your citizenship status, the time to act is now — particularly if you are approaching age 25 or have children who may be affected by the registration deadline.
 
-Lawsupport provides a focused assessment of citizenship by descent claims. We review your family history, identify the applicable rules, and tell you clearly where you stand. If a claim exists and can be pursued, we manage the process from start to finish.
+Morgan Hartley Consulting provides a focused assessment of citizenship by descent claims. We review your family history, identify the applicable rules, and tell you clearly where you stand. If a claim exists and can be pursued, we manage the process from start to finish.
 
 **[Request a Free Assessment](/contacts/)**
 
@@ -290,4 +290,4 @@ Lawsupport provides a focused assessment of citizenship by descent claims. We re
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

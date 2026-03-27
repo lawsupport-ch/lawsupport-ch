@@ -287,13 +287,13 @@ Consequences vary by sector. Operating a financial service without FINMA authori
 
 Identifying whether your business requires a Swiss licence — and which type — is the first question to answer before incorporation or market entry. The answer depends on your specific business model, not just your industry label. A technology company providing analytics to banks is not a bank; but a technology company accepting client funds, executing trades, or providing regulated investment advice may trigger FINMA requirements regardless of how it describes itself.
 
-Lawsupport works with founders, CFOs, and legal teams to identify licensing requirements, prepare applications, and manage ongoing regulatory compliance across Swiss federal and cantonal frameworks.
+Morgan Hartley Consulting works with founders, CFOs, and legal teams to identify licensing requirements, prepare applications, and manage ongoing regulatory compliance across Swiss federal and cantonal frameworks.
 
 **[Request a Free Assessment](/contacts/)**
 
 ---
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch

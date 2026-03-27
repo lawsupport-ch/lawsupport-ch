@@ -1,6 +1,6 @@
 ---
 title: "AG Formation Switzerland: Aktiengesellschaft Guide"
-description: "Form a Swiss AG (Aktiengesellschaft) with CHF 100,000 capital. Shareholder anonymity, board requirements, notarisation steps. Expert guide by Lawsupport, Zug."
+description: "Form a Swiss AG (Aktiengesellschaft) with CHF 100,000 capital. Shareholder anonymity, board requirements, notarisation steps. Expert guide by Morgan Hartley Consulting, Zug."
 date: "19.03.2026"
 category: "Company Formation"
 categoryHref: "/company-formation/"
@@ -343,7 +343,7 @@ For a [shelf company](/company-formation/shelf-company-switzerland/) approach, c
 
 **Request a Free Assessment**
 
-Lawsupport (Morgan Hartley Consulting) has been forming Swiss companies for over 18 years from our office at Baarerstrasse 135, 6300 Zug. We have completed more than 1,000 formations for founders and companies in over 40 countries. For AG formation Switzerland, we manage every step: articles of association, share structure planning, capital deposit coordination, notarisation by power of attorney, Commercial Register filing, and post-formation banking introduction.
+Morgan Hartley Consulting (Morgan Hartley Consulting) has been forming Swiss companies for over 18 years from our office at Baarerstrasse 135, 6300 Zug. We have completed more than 1,000 formations for founders and companies in over 40 countries. For AG formation Switzerland, we manage every step: articles of association, share structure planning, capital deposit coordination, notarisation by power of attorney, Commercial Register filing, and post-formation banking introduction.
 
 No travel is required.
 
@@ -423,4 +423,4 @@ Excluding the share capital deposit (which is returned to the company on registr
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

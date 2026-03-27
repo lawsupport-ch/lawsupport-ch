@@ -37,7 +37,7 @@ tocItems:
   - id: "faq-employment-law-switzerland"
     title: "FAQ: Employment Law Switzerland"
   - id: "how-lawsupport-can-help"
-    title: "How Lawsupport Can Help"
+    title: "How Morgan Hartley Consulting Can Help"
 faqItems:
   - question: "What are the statutory notice periods for terminating an employee in Switzerland?"
     answer: "During probation (first 1-3 months): 7 days' notice with no end-of-month requirement. After probation: 1 month in year 1, 2 months in years 2-9, and 3 months from year 10 onwards (Art. 335c OR). Notice must be given for the end of a calendar month. Longer periods can be agreed contractually."
@@ -423,9 +423,9 @@ Yes. Swiss-resident employees working for a foreign company trigger Swiss AHV/BV
 
 ---
 
-## How Lawsupport Can Help
+## How Morgan Hartley Consulting Can Help
 
-Setting up employment compliance correctly from the start is far less expensive than fixing it retroactively. Lawsupport works with newly formed Swiss companies and foreign employers expanding into Switzerland to establish compliant employment structures from day one.
+Setting up employment compliance correctly from the start is far less expensive than fixing it retroactively. Morgan Hartley Consulting works with newly formed Swiss companies and foreign employers expanding into Switzerland to establish compliant employment structures from day one.
 
 Our services for Swiss employers include:
 
@@ -453,4 +453,4 @@ Whether you have just completed [company formation in Switzerland](/company-form
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

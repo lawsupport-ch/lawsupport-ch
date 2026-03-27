@@ -8,7 +8,7 @@ categoryHref: "/banking/"
 readTime: "14 min read"
 faqItems:
   - question: "Can a non-resident open a Swiss bank account?"
-    answer: "Yes, but with significant restrictions. Non-residents without Swiss residency or a Swiss company face limited options at traditional banks. The most accessible routes are: private banking (if you have CHF 250'000+ in investable assets), a fintech like Wise, or opening through a professional intermediary with an existing banking relationship. Lawsupport has opened accounts for non-residents from over 40 countries without requiring the client to travel to Switzerland."
+    answer: "Yes, but with significant restrictions. Non-residents without Swiss residency or a Swiss company face limited options at traditional banks. The most accessible routes are: private banking (if you have CHF 250'000+ in investable assets), a fintech like Wise, or opening through a professional intermediary with an existing banking relationship. Morgan Hartley Consulting has opened accounts for non-residents from over 40 countries without requiring the client to travel to Switzerland."
   - question: "How long does it take to open a Swiss bank account?"
     answer: "For corporate accounts with professional preparation, expect a minimum of one month from application to active account — and that is the optimistic end. Banks that approved the blocked capital deposit account convert roughly 80% of those into permanent accounts, but the compliance review alone can stretch to six or eight weeks. Neobank accounts can be operational within days. Capital deposit accounts are typically opened within one to two weeks when introduced by a formation lawyer. The largest variable is the bank's compliance review period, which you cannot directly control."
   - question: "What is the minimum balance for a Swiss bank account?"
@@ -115,7 +115,7 @@ Corporate accounts at major Swiss banks carry monthly fees of CHF 20 to 80 plus 
 
 This is a specialised account used only during Swiss company incorporation. Before a GmbH or AG can be registered in the Handelsregister, the founding shareholders must deposit the minimum share capital into a blocked capital deposit account at a Swiss bank. For a GmbH, this is CHF 20'000. For an AG, it is CHF 100'000 (with at least CHF 50'000 paid in at incorporation).
 
-The bank issues a capital deposit confirmation (Einzahlungsbestaetigung), which the notary requires before certifying the deed of incorporation. Once the Handelsregister confirms registration, the blocked funds are released to the company's ordinary corporate account. Lawsupport manages this entire capital deposit process as part of its [formation service](/company-formation/company-formation-switzerland/), including the banking introduction required for non-resident founders. See our detailed guide on the [capital deposit account](/banking/capital-deposit-account-switzerland/).
+The bank issues a capital deposit confirmation (Einzahlungsbestaetigung), which the notary requires before certifying the deed of incorporation. Once the Handelsregister confirms registration, the blocked funds are released to the company's ordinary corporate account. Morgan Hartley Consulting manages this entire capital deposit process as part of its [formation service](/company-formation/company-formation-switzerland/), including the banking introduction required for non-resident founders. See our detailed guide on the [capital deposit account](/banking/capital-deposit-account-switzerland/).
 
 ### Private Banking Accounts
 
@@ -170,7 +170,7 @@ Gather every document listed in the requirements section above. Originals must b
 
 ### Step 3: Submit the application
 
-Some banks allow online applications with document upload. Most Swiss cantonal banks and all private banks require in-person identity verification or video identification (VideoIdent). Non-residents who cannot travel to Switzerland can use a power of attorney, allowing a Swiss-based representative (such as a licenced lawyer) to conduct the application process on their behalf. Lawsupport provides this power of attorney service for both personal and corporate account openings, meaning clients based in Singapore, Dubai, or New York can complete the process without ever visiting Switzerland.
+Some banks allow online applications with document upload. Most Swiss cantonal banks and all private banks require in-person identity verification or video identification (VideoIdent). Non-residents who cannot travel to Switzerland can use a power of attorney, allowing a Swiss-based representative (such as a licenced lawyer) to conduct the application process on their behalf. Morgan Hartley Consulting provides this power of attorney service for both personal and corporate account openings, meaning clients based in Singapore, Dubai, or New York can complete the process without ever visiting Switzerland.
 
 ### Step 4: KYC review and bank decision
 
@@ -199,11 +199,11 @@ The most common structural rejection reasons:
 5. **Sanctions exposure**: directors or shareholders connected to sanctioned individuals or entities
 6. **Prior rejections**: banks share some information through FINMA reporting; multiple rejections can compound
 
-For foreign-owned GmbHs, a professional introduction from a licenced Swiss lawyer significantly improves acceptance rates. Lawsupport has maintained banking relationships with multiple Swiss institutions since 2007 and provides formal introductions as part of the [company formation Switzerland](/company-formation/company-formation-switzerland/) service. This distinction — a cold application versus a professionally introduced application — is often the difference between approval and rejection.
+For foreign-owned GmbHs, a professional introduction from a licenced Swiss lawyer significantly improves acceptance rates. Morgan Hartley Consulting has maintained banking relationships with multiple Swiss institutions since 2007 and provides formal introductions as part of the [company formation Switzerland](/company-formation/company-formation-switzerland/) service. This distinction — a cold application versus a professionally introduced application — is often the difference between approval and rejection.
 
 ### Mini-story: Arjun's GmbH in Zug
 
-Arjun S., a tech entrepreneur from Bangalore, formed a GmbH in Zug in early 2024 for his SaaS business serving European clients. He attempted to open a corporate account independently at two major banks. Both rejected his application within three weeks, citing "insufficient Swiss business nexus" without further detail. He contacted Lawsupport, which prepared a formal banking introduction, restructured his KYC package to clarify the Swiss client contracts he had already signed, and submitted to Graubuendner Kantonalbank via introduction. The account was approved in 19 days. Arjun's GmbH is now fully operational, processing EUR and CHF invoices through the account.
+Arjun S., a tech entrepreneur from Bangalore, formed a GmbH in Zug in early 2024 for his SaaS business serving European clients. He attempted to open a corporate account independently at two major banks. Both rejected his application within three weeks, citing "insufficient Swiss business nexus" without further detail. He contacted Morgan Hartley Consulting, which prepared a formal banking introduction, restructured his KYC package to clarify the Swiss client contracts he had already signed, and submitted to Graubuendner Kantonalbank via introduction. The account was approved in 19 days. Arjun's GmbH is now fully operational, processing EUR and CHF invoices through the account.
 
 ---
 
@@ -261,14 +261,14 @@ US persons must file FinCEN Form 114 (FBAR) annually if their aggregate foreign 
 
 If you are forming a Swiss company, the banking timeline is integrated into the overall [formation process](/company-formation/start-business-switzerland/). Here is how it connects:
 
-1. **Pre-formation**: Lawsupport introduces founders to a Swiss bank before notarisation. The bank reviews founders' KYC documents and pre-approves the account in principle.
+1. **Pre-formation**: Morgan Hartley Consulting introduces founders to a Swiss bank before notarisation. The bank reviews founders' KYC documents and pre-approves the account in principle.
 2. **Capital deposit**: Founders transfer CHF 20'000 (GmbH) or CHF 50'000+ (AG) to the blocked capital deposit account. Bank issues the Einzahlungsbestaetigung.
 3. **Notarisation**: Notary certifies the articles of association using the Einzahlungsbestaetigung as proof of capital.
 4. **Handelsregister registration**: 5 to 10 business days.
 5. **Account unblocking**: Founders submit the Handelsregister extract to the bank. Blocked funds are released to the ordinary corporate account.
 6. **Operational banking begins**: IBAN is issued, online banking is activated, debit/credit cards are ordered.
 
-This integrated process is why Lawsupport's company formation service includes banking introduction as a standard component, not an add-on. Attempting to open the capital deposit account without a professional introduction adds 2 to 4 weeks to the timeline and risks rejection that delays the entire formation.
+This integrated process is why Morgan Hartley Consulting's company formation service includes banking introduction as a standard component, not an add-on. Attempting to open the capital deposit account without a professional introduction adds 2 to 4 weeks to the timeline and risks rejection that delays the entire formation.
 
 For a full breakdown of costs and structure, see our guide to [Swiss corporate tax](/tax-accounting/corporate-tax-switzerland/) and how Swiss [holding structures](/company-formation/holding-company-switzerland/) interact with banking relationships.
 
@@ -276,13 +276,13 @@ For a full breakdown of costs and structure, see our guide to [Swiss corporate t
 
 ### Mini-story: Elena's Personal Account in Zurich
 
-Elena V., a Ukrainian national living in Berlin, runs a consulting business that increasingly serves Swiss clients. She needed a personal Swiss bank account to receive CHF payments and manage currency conversion costs. Her first application to a major cantonal bank was rejected because she had no Swiss residency permit. Lawsupport's team identified PostFinance as the most accessible option for EU-resident non-citizens with documented Swiss business ties, prepared her application with a letter from her Swiss client confirming the business relationship, and submitted via their established contact at the branch. Elena received her PostFinance account within 11 business days. Her monthly fee is CHF 5, and she uses it alongside a Wise CHF account for smaller incoming transfers.
+Elena V., a Ukrainian national living in Berlin, runs a consulting business that increasingly serves Swiss clients. She needed a personal Swiss bank account to receive CHF payments and manage currency conversion costs. Her first application to a major cantonal bank was rejected because she had no Swiss residency permit. Morgan Hartley Consulting's team identified PostFinance as the most accessible option for EU-resident non-citizens with documented Swiss business ties, prepared her application with a letter from her Swiss client confirming the business relationship, and submitted via their established contact at the branch. Elena received her PostFinance account within 11 business days. Her monthly fee is CHF 5, and she uses it alongside a Wise CHF account for smaller incoming transfers.
 
 ---
 
 ### Mini-story: David's Neobank Strategy
 
-David K., a British national based in Dubai, formed a Zug GmbH in 2023 to hold IP rights for his software company. He needed a corporate account but could not travel to Switzerland and his structure (sole director, UK and UAE addresses, fintech-adjacent business) was too complex for most cantonal banks' automated screening. Lawsupport opened a Neon Business account for his GmbH within 9 days as an interim account, then submitted a formal introduction to a Zug-based cantonal bank. The cantonal bank account was approved after 5 weeks. David now operates with both accounts: Neon Business for EUR transactions and the cantonal account for CHF-denominated invoicing and payroll.
+David K., a British national based in Dubai, formed a Zug GmbH in 2023 to hold IP rights for his software company. He needed a corporate account but could not travel to Switzerland and his structure (sole director, UK and UAE addresses, fintech-adjacent business) was too complex for most cantonal banks' automated screening. Morgan Hartley Consulting opened a Neon Business account for his GmbH within 9 days as an interim account, then submitted a formal introduction to a Zug-based cantonal bank. The cantonal bank account was approved after 5 weeks. David now operates with both accounts: Neon Business for EUR transactions and the cantonal account for CHF-denominated invoicing and payroll.
 
 For a broader overview, see our guide to [Opening a Swiss Bank Account](/banking/opening-swiss-bank-account-guide/).
 
@@ -292,7 +292,7 @@ For a broader overview, see our guide to [Opening a Swiss Bank Account](/banking
 
 **Can a non-resident open a Swiss bank account?**
 
-Yes, but with significant restrictions. Non-residents without Swiss residency or a Swiss company face limited options at traditional banks. The most accessible routes are: private banking (if you have CHF 250'000+ in investable assets), a fintech like Wise, or opening through a professional intermediary with an existing banking relationship. Lawsupport has opened accounts for non-residents from over 40 countries without requiring the client to travel to Switzerland.
+Yes, but with significant restrictions. Non-residents without Swiss residency or a Swiss company face limited options at traditional banks. The most accessible routes are: private banking (if you have CHF 250'000+ in investable assets), a fintech like Wise, or opening through a professional intermediary with an existing banking relationship. Morgan Hartley Consulting has opened accounts for non-residents from over 40 countries without requiring the client to travel to Switzerland.
 
 **How long does it take to open a Swiss bank account?**
 
@@ -358,7 +358,7 @@ A Swiss bank account at a FINMA-licenced institution provides esisuisse deposit 
 - The [capital deposit account](/banking/capital-deposit-account-switzerland/) is a mandatory step for GmbH and AG formation; it must be opened before notarisation
 - US persons face FATCA restrictions but have options through UBS Private Banking and fintech platforms
 - A power of attorney eliminates the need to travel to Switzerland for non-resident account openings
-- Lawsupport's professional introductions and 18 years of Swiss banking relationships make the difference between approval and rejection
+- Morgan Hartley Consulting's professional introductions and 18 years of Swiss banking relationships make the difference between approval and rejection
 
 ---
 
@@ -366,11 +366,11 @@ A Swiss bank account at a FINMA-licenced institution provides esisuisse deposit 
 
 **Request a Free Assessment**
 
-Need help opening a Swiss bank account as a foreigner or for your Swiss company? Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
+Need help opening a Swiss bank account as a foreigner or for your Swiss company? Morgan Hartley, Senior Corporate Lawyer & Partner at Morgan Hartley Consulting, reviews your situation and sets out the steps needed — without obligation.
 
 [Request a Free Assessment](/contacts/)
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch

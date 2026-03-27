@@ -197,12 +197,12 @@ For businesses forming or operating a Swiss entity, the SNB policy rate affects 
 
 ## Get Expert Guidance on Swiss Banking and Corporate Matters
 
-Understanding the SNB's role is one part of operating successfully within the Swiss financial system. Whether you are opening a corporate bank account, forming a company, or structuring your Swiss operations, Morgan Hartley and the Lawsupport team provide practical guidance grounded in years of Swiss corporate and banking experience.
+Understanding the SNB's role is one part of operating successfully within the Swiss financial system. Whether you are opening a corporate bank account, forming a company, or structuring your Swiss operations, Morgan Hartley and the Morgan Hartley Consulting team provide practical guidance grounded in years of Swiss corporate and banking experience.
 
 **[Request a Free Assessment](/contacts/)**
 
 **Morgan Hartley** — Senior Corporate Lawyer & Partner
-Lawsupport (Morgan Hartley Consulting)
+Morgan Hartley Consulting (Morgan Hartley Consulting)
 Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592
 Email: info@lawsupport.ch

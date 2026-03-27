@@ -1,6 +1,6 @@
 ---
 title: "Cost of Living Switzerland: Realistic Numbers for 2026"
-description: "Cost of living Switzerland 2026: rent, health insurance, groceries, tax in Zug, Zurich, Geneva. Real CHF figures. Plan your move with Lawsupport."
+description: "Cost of living Switzerland 2026: rent, health insurance, groceries, tax in Zug, Zurich, Geneva. Real CHF figures. Plan your move with Morgan Hartley Consulting."
 date: "19.03.2026"
 category: "Immigration"
 categoryHref: "/immigration/"
@@ -254,7 +254,7 @@ CHF 200'000–300'000 for a comfortable family lifestyle with international scho
 
 ---
 
-For next steps on relocating, contact **Morgan Hartley**, Senior Corporate Lawyer & Partner at Lawsupport:
+For next steps on relocating, contact **Morgan Hartley**, Senior Corporate Lawyer & Partner at Morgan Hartley Consulting:
 
 Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 
@@ -264,4 +264,4 @@ Related guides: [Immigrate to Switzerland](/immigration/immigrate-to-switzerland
 
 ---
 
-*Morgan Hartley | Senior Corporate Lawyer & Partner, Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley | Senior Corporate Lawyer & Partner, Morgan Hartley Consulting (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

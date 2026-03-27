@@ -259,12 +259,12 @@ The OECD DEMPE analysis (Development, Enhancement, Maintenance, Protection, Expl
 
 ## Structure Your Swiss Tax Incentives With Expert Guidance
 
-The interaction between IP box, R&D super-deduction, NID, and the relief cap requires precise structuring to achieve optimal results. Morgan Hartley and the Lawsupport team advise on cantonal selection, incentive qualification, advance tax rulings, and ongoing compliance for IP-intensive and R&D-driven businesses.
+The interaction between IP box, R&D super-deduction, NID, and the relief cap requires precise structuring to achieve optimal results. Morgan Hartley and the Morgan Hartley Consulting team advise on cantonal selection, incentive qualification, advance tax rulings, and ongoing compliance for IP-intensive and R&D-driven businesses.
 
 **[Request a Free Assessment](/contacts/)**
 
 **Morgan Hartley** — Senior Corporate Lawyer & Partner
-Lawsupport (Morgan Hartley Consulting)
+Morgan Hartley Consulting (Morgan Hartley Consulting)
 Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592
 Email: info@lawsupport.ch

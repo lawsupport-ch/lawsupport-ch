@@ -276,7 +276,7 @@ If a binding GAV applies, its terms override any less favourable contract terms.
 
 ## Get Expert Advice on Your Swiss Employment Contracts
 
-Swiss employment contracts carry obligations that are easy to miss — from GAV coverage to the precise wording of non-compete clauses. Morgan Hartley and the Lawsupport team advise employers on compliant contract drafting, probation periods, and termination provisions tailored to Swiss law.
+Swiss employment contracts carry obligations that are easy to miss — from GAV coverage to the precise wording of non-compete clauses. Morgan Hartley and the Morgan Hartley Consulting team advise employers on compliant contract drafting, probation periods, and termination provisions tailored to Swiss law.
 
 **Request a Free Assessment** — contact us to discuss your employment contract requirements:
 
@@ -292,4 +292,4 @@ Related guides: [Employment law Switzerland](/employment-law/employment-law-swit
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

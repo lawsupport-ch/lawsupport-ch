@@ -39,7 +39,7 @@ tocItems:
   - id: "outsourcing-bookkeeping-in-switzerland-what-it-costs"
     title: "Outsourcing Bookkeeping in Switzerland: What It Costs"
   - id: "lawsupports-bookkeeping-service"
-    title: "Lawsupport's Bookkeeping Service"
+    title: "Morgan Hartley Consulting's Bookkeeping Service"
 faqItems:
   - question: "Do I need double-entry bookkeeping for a GmbH with minimal activity?"
     answer: "Yes. All AG and GmbH must use double-entry bookkeeping under Art. 957 OR, regardless of size or activity level. Only sole traders and partnerships below CHF 500'000 annual revenue qualify for simplified bookkeeping."
@@ -76,7 +76,7 @@ relatedArticles:
 <!-- schema_author: Morgan Hartley -->
 <!-- schema_datePublished: 2026-03-19 -->
 <!-- schema_dateModified: 2026-03-22 -->
-<!-- schema_publisher: Lawsupport (Morgan Hartley Consulting) -->
+<!-- schema_publisher: Morgan Hartley Consulting (Morgan Hartley Consulting) -->
 <!-- schema_image: /assets/images/bookkeeping-switzerland-og.jpg -->
 
 <!-- SCHEMA: BreadcrumbList -->
@@ -318,9 +318,9 @@ For companies that have fallen behind on their accounts, see our [accounting rec
 
 ---
 
-## Lawsupport's Bookkeeping Service
+## Morgan Hartley Consulting's Bookkeeping Service
 
-At Lawsupport, we provide end-to-end bookkeeping and accounting services for Swiss AG and GmbH structures, with particular expertise in foreign-owned companies.
+At Morgan Hartley Consulting, we provide end-to-end bookkeeping and accounting services for Swiss AG and GmbH structures, with particular expertise in foreign-owned companies.
 
 Our bookkeeping service includes:
 
@@ -344,7 +344,7 @@ Unsure whether your Swiss company's bookkeeping meets Art. 957–963 CO requirem
 
 [Request a Free Assessment](/contacts/){: .btn .btn-primary}
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592
 Email: info@lawsupport.ch
@@ -443,4 +443,4 @@ The ordinary statute of limitations for Swiss tax assessments is five years. In 
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

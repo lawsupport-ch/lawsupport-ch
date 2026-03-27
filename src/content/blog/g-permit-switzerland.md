@@ -204,12 +204,12 @@ For a detailed breakdown of B permit rules and requirements, see our guide to th
 
 The G permit is procedurally lighter than many Swiss residence categories, but the tax and social insurance consequences are substantial and jurisdiction-specific. Getting the analysis wrong — particularly on the Germany-Switzerland DTA or the French frontier worker protocol — can result in double taxation or missed compliance obligations.
 
-Lawsupport assists individuals and employers with G permit applications, cross-border commuter tax analysis, and the full range of Swiss immigration and residence matters.
+Morgan Hartley Consulting assists individuals and employers with G permit applications, cross-border commuter tax analysis, and the full range of Swiss immigration and residence matters.
 
 **[Request a Free Assessment](/contacts/)** — or reach us directly:
 
 **Morgan Hartley, Senior Corporate Lawyer & Partner**
-Lawsupport (Morgan Hartley Consulting GmbH)
+Morgan Hartley Consulting (Morgan Hartley Consulting GmbH)
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 
@@ -309,4 +309,4 @@ Yes. If a G permit holder moves to Switzerland and establishes genuine Swiss res
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

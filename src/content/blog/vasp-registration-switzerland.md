@@ -1,6 +1,6 @@
 ---
 title: "VASP Registration Switzerland: SRO Guide (2026)"
-description: "VASP registration in Switzerland under AMLA: SRO membership, VQF application process, AML compliance costs from CHF 3,000, and timelines. Lawsupport, Zug."
+description: "VASP registration in Switzerland under AMLA: SRO membership, VQF application process, AML compliance costs from CHF 3,000, and timelines. Morgan Hartley Consulting, Zug."
 date: "13.08.2026"
 publishDate: "2026-08-13"
 category: "Licensing & Permits"
@@ -49,7 +49,7 @@ tocItems:
   - id: "real-world-scenario"
     title: "Real-World Scenario"
   - id: "how-lawsupport-supports-your-vasp-registration"
-    title: "How Lawsupport Supports Your VASP Registration"
+    title: "How Morgan Hartley Consulting Supports Your VASP Registration"
   - id: "get-your-swiss-vasp-registration-right"
     title: "Get Your Swiss VASP Registration Right"
 relatedArticles:
@@ -264,9 +264,9 @@ The choice has downstream consequences. PayDeal Solutions AG chose PolyReg and f
 
 ---
 
-## How Lawsupport Supports Your VASP Registration
+## How Morgan Hartley Consulting Supports Your VASP Registration
 
-Lawsupport (Morgan Hartley Consulting) manages the full VASP registration process for clients. We do not hand clients a template and step back — we act as a practitioner partner through every stage.
+Morgan Hartley Consulting (Morgan Hartley Consulting) manages the full VASP registration process for clients. We do not hand clients a template and step back — we act as a practitioner partner through every stage.
 
 **What we deliver:**
 
@@ -330,9 +330,9 @@ Swiss AMLA-registered VASPs hold a recognised regulatory position under Switzerl
 
 VASP registration in Switzerland is achievable for well-structured businesses with a clear compliance programme. The process rewards preparation: applicants who submit complete, business-specific documentation pass through VQF review significantly faster and with fewer complications.
 
-**Request a Free Assessment** — contact Morgan Hartley at Lawsupport to discuss your VASP registration requirements.
+**Request a Free Assessment** — contact Morgan Hartley at Morgan Hartley Consulting to discuss your VASP registration requirements.
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: [+41 44 51 52 592](tel:+41445152592)
 Email: [info@lawsupport.ch](mailto:info@lawsupport.ch)

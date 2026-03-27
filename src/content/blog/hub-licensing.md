@@ -46,13 +46,13 @@ tocItems:
   - id: "maintaining-your-licence"
     title: "Maintaining Your Licence"
   - id: "why-work-with-lawsupport"
-    title: "Why Work With Lawsupport"
+    title: "Why Work With Morgan Hartley Consulting"
 ---
 
 
 Switzerland separates economic freedom from regulatory oversight with unusual clarity. The Federal Constitution guarantees the right to conduct business (Art. 27 BV), and most commercial activities need nothing more than a Commercial Register entry. But where public safety, financial stability or market integrity is at stake, Swiss regulators — FINMA, Swissmedic, SECO, and cantonal authorities — impose licensing requirements that are rigorous, specific, and enforced. This guide covers the three main licensing domains: financial market regulation through FINMA, the fast-evolving crypto and fintech framework, and industry-specific permits for sectors from healthcare to gold trading.
 
-For a direct assessment of your licensing needs, [contact Lawsupport](/contacts/) for a free initial consultation.
+For a direct assessment of your licensing needs, [contact Morgan Hartley Consulting](/contacts/) for a free initial consultation.
 
 ---
 
@@ -389,11 +389,11 @@ Cantonal licences (hospitality, healthcare) may have fixed terms requiring perio
 
 ---
 
-## Why Work With Lawsupport
+## Why Work With Morgan Hartley Consulting
 
 Swiss licensing sits at the intersection of federal law, regulatory practice, and cantonal administration. The written rules tell part of the story; how regulators actually apply those rules tells the rest. A FINMA application that meets every published requirement can still stall if the fit and proper documentation does not address the specific concerns FINMA raises for your type of business, or if the compliance framework uses templates from another jurisdiction without adaptation to Swiss standards.
 
-Lawsupport provides licensing advisory services from Zug, with practical experience across:
+Morgan Hartley Consulting provides licensing advisory services from Zug, with practical experience across:
 
 - **FINMA licence applications** — banking, fintech, asset management, securities firms
 - **Crypto and DLT regulatory setup** — SRO membership, FINMA authorisation, token classification
@@ -404,4 +404,4 @@ Lawsupport provides licensing advisory services from Zug, with practical experie
 
 Our location in Zug places us at the centre of Switzerland's financial and crypto ecosystem, with direct access to FINMA, SROs, and cantonal authorities.
 
-[Contact Lawsupport](/contacts/) for a free initial assessment of your licensing requirements.
+[Contact Morgan Hartley Consulting](/contacts/) for a free initial assessment of your licensing requirements.

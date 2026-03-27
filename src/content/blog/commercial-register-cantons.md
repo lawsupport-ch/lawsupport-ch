@@ -1,6 +1,6 @@
 ---
 title: "Commercial Register Switzerland: Cantonal Offices (2026)"
-description: "Swiss Commercial Register by canton: search Zefix, obtain extracts, register a company. All 26 cantonal offices listed. Contact Lawsupport for help."
+description: "Swiss Commercial Register by canton: search Zefix, obtain extracts, register a company. All 26 cantonal offices listed. Contact Morgan Hartley Consulting for help."
 date: "19.03.2026"
 category: "Company Formation"
 categoryHref: "/company-formation/"
@@ -19,7 +19,7 @@ tocItems:
   - id: "registering-a-new-company"
     title: "Registering a New Company"
   - id: "how-lawsupport-can-help"
-    title: "How Lawsupport Can Help"
+    title: "How Morgan Hartley Consulting Can Help"
 faqItems:
   - question: "Is the Swiss Commercial Register in English?"
     answer: "The Commercial Register is maintained in the official cantonal language (German, French, or Italian). Company entries are in the cantonal language. Zefix provides search in all national languages."
@@ -299,9 +299,9 @@ More significantly, the register can now **void transfers** it considers lacking
 
 ---
 
-## How Lawsupport Can Help
+## How Morgan Hartley Consulting Can Help
 
-Whether you need a [commercial register Switzerland](/company-formation/commercial-register-switzerland/) filing, certified extracts for banking or legal transactions, or guidance on registering a new Swiss entity, Lawsupport handles the full process across all major cantons. We work with the Zug, Zurich, Geneva, and other cantonal offices regularly and understand the practical requirements at each step.
+Whether you need a [commercial register Switzerland](/company-formation/commercial-register-switzerland/) filing, certified extracts for banking or legal transactions, or guidance on registering a new Swiss entity, Morgan Hartley Consulting handles the full process across all major cantons. We work with the Zug, Zurich, Geneva, and other cantonal offices regularly and understand the practical requirements at each step.
 
 [**Request a Free Assessment**](/contacts/)
 
@@ -311,4 +311,4 @@ Whether you need a [commercial register Switzerland](/company-formation/commerci
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

@@ -1,6 +1,6 @@
 ---
 title: "Bankruptcy Switzerland: Corporate Insolvency Guide"
-description: "Swiss corporate bankruptcy (Konkurs): triggers, creditor priority, director liability, and alternatives. Free assessment from Lawsupport. Learn how we can help."
+description: "Swiss corporate bankruptcy (Konkurs): triggers, creditor priority, director liability, and alternatives. Free assessment from Morgan Hartley Consulting. Learn how we can help."
 date: "19.03.2026"
 category: "Company Formation"
 categoryHref: "/company-formation/"
@@ -258,7 +258,7 @@ Swiss corporate insolvency law — from Art. 725 CO overindebtedness triggers to
 
 **[Request a Free Assessment →](/contacts/)**
 
-Morgan Hartley and the Lawsupport team advise AG and GmbH directors on insolvency triggers, restructuring options, and creditor negotiations from our office in Zug.
+Morgan Hartley and the Morgan Hartley Consulting team advise AG and GmbH directors on insolvency triggers, restructuring options, and creditor negotiations from our office in Zug.
 
 ---
 
@@ -272,4 +272,4 @@ Morgan Hartley and the Lawsupport team advise AG and GmbH directors on insolvenc
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

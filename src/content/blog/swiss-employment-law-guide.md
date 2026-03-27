@@ -26,7 +26,7 @@ tocItems:
   - id: "social-insurance-obligations"
     title: "Social Insurance Obligations"
   - id: "work-with-lawsupport-on-employment-matters"
-    title: "Work With Lawsupport on Employment Matters"
+    title: "Work With Morgan Hartley Consulting on Employment Matters"
 faqItems:
   - question: "What is the minimum notice period for termination in Switzerland?"
     answer: "During the probationary period (first 1-3 months): 7 days. After the probationary period: 1 month during the first year of employment, 2 months from the second to ninth year, and 3 months from the tenth year onwards. Notice must be given to the end of a calendar month (unless the contract or applicable GAV provides otherwise). These are statutory minimums — contracts and collective agreements may provide for longer notice periods."
@@ -287,16 +287,16 @@ Swiss employers must register with and contribute to several social insurance sc
 
 ---
 
-## Work With Lawsupport on Employment Matters
+## Work With Morgan Hartley Consulting on Employment Matters
 
-Lawsupport (Morgan Hartley Consulting) advises employers on Swiss employment law matters including contract drafting, termination procedures, social insurance registration, and compliance with collective labour agreements. We work with both newly established companies setting up their first Swiss employment and established businesses managing complex employee situations.
+Morgan Hartley Consulting (Morgan Hartley Consulting) advises employers on Swiss employment law matters including contract drafting, termination procedures, social insurance registration, and compliance with collective labour agreements. We work with both newly established companies setting up their first Swiss employment and established businesses managing complex employee situations.
 
 For related topics, see our guides on [employment contracts](/employment-law/employment-contract-switzerland/), [termination](/employment-law/termination-employment-switzerland/), and [working hours](/employment-law/working-hours-switzerland/).
 
 **[Request a Free Assessment](/contacts/)** — or contact us directly:
 
 **Morgan Hartley, Senior Corporate Lawyer & Partner**
-Lawsupport (Morgan Hartley Consulting GmbH)
+Morgan Hartley Consulting (Morgan Hartley Consulting GmbH)
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 
@@ -348,4 +348,4 @@ No. Swiss employment contracts can be concluded orally, in writing, or by implie
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

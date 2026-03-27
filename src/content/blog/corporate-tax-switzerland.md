@@ -1,6 +1,6 @@
 ---
 title: "Corporate Tax Switzerland: Rates, Cantons & Planning (2026)"
-description: "Swiss corporate tax rates by canton 2026. Zug 11.8%, Zurich 19.7%, Geneva 14%. IP Box, holding exemption, tax rulings. Expert guide by Lawsupport."
+description: "Swiss corporate tax rates by canton 2026. Zug 11.8%, Zurich 19.7%, Geneva 14%. IP Box, holding exemption, tax rulings. Expert guide by Morgan Hartley Consulting."
 date: "19.03.2026"
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"
@@ -21,7 +21,7 @@ tocItems:
   - id: "three-planning-scenarios"
     title: "Three Planning Scenarios"
   - id: "why-work-with-lawsupport"
-    title: "Why Work With Lawsupport"
+    title: "Why Work With Morgan Hartley Consulting"
 faqItems:
   - question: "What is the corporate tax rate in Switzerland in 2026?"
     answer: "Switzerland does not have a single corporate tax rate. The federal corporate income tax is 8.5% on profit after tax (effective approximately 7.83%). Cantonal and communal taxes are added on top, giving combined effective rates ranging from approximately 11.85% (Zug) to approximately 20.7% (Bern). The rate that applies to your company depends on where it is registered and where it conducts its business."
@@ -110,7 +110,7 @@ The table below shows the combined effective corporate income tax rate for each 
 | Bern | Bern | ~20.7% |
 | Zurich | Zurich | ~20.0% |
 
-Zug is consistently the benchmark low-tax canton. Its proximity to Zurich (a 30-minute train journey), well-developed financial and legal services infrastructure, and strong track record with international companies make it the most popular Swiss location for holding companies, finance companies, and IP holding structures. [Company formation in Zug](/company-formation/company-formation-zug/) is the single most common request Lawsupport receives from internationally structured groups.
+Zug is consistently the benchmark low-tax canton. Its proximity to Zurich (a 30-minute train journey), well-developed financial and legal services infrastructure, and strong track record with international companies make it the most popular Swiss location for holding companies, finance companies, and IP holding structures. [Company formation in Zug](/company-formation/company-formation-zug/) is the single most common request Morgan Hartley Consulting receives from internationally structured groups.
 
 Basel-City achieves a rate of approximately 13% despite being a major city with an international airport and headquarters of several of the world's largest pharmaceutical companies. Its research and development infrastructure makes it attractive for life sciences businesses that can combine a low effective rate with access to deep scientific talent.
 
@@ -201,7 +201,7 @@ Under the IP Box, 90% of the net IP income was relieved from cantonal and commun
 
 Dieter, the majority shareholder of a German GmbH valued at EUR 45 million, was planning a trade sale within three years. A direct sale from his German holding would incur combined German tax approaching 30%, generating a liability exceeding EUR 7 million.
 
-Lawsupport advised on a Swiss interposition structure using a Basel-City AG. The Swiss AG held the GmbH shares for more than one year. On sale of the GmbH for EUR 47 million (net gain of EUR 38 million), the Swiss participation exemption applied in full. Swiss corporate tax on the capital gain was negligible. The net tax saving compared with a direct German sale was estimated at EUR 6.5 million.
+Morgan Hartley Consulting advised on a Swiss interposition structure using a Basel-City AG. The Swiss AG held the GmbH shares for more than one year. On sale of the GmbH for EUR 47 million (net gain of EUR 38 million), the Swiss participation exemption applied in full. Swiss corporate tax on the capital gain was negligible. The net tax saving compared with a direct German sale was estimated at EUR 6.5 million.
 
 ### Scenario 3: US Entrepreneur Chooses Between Zug and Zurich
 
@@ -211,7 +211,7 @@ In Zug at 11.85%: corporate tax liability CHF 59,250.
 In Zurich at 20%: corporate tax liability CHF 100,000.
 Annual difference: CHF 40,750.
 
-Over five years with 15% annual profit growth, the cumulative additional tax cost of Zurich over Zug exceeded CHF 280,000. Alexandra chose Zug. Lawsupport handled the [company formation in Zug](/company-formation/company-formation-zug/) and connected her with ongoing [accounting services Switzerland](/tax-accounting/accounting-switzerland/).
+Over five years with 15% annual profit growth, the cumulative additional tax cost of Zurich over Zug exceeded CHF 280,000. Alexandra chose Zug. Morgan Hartley Consulting handled the [company formation in Zug](/company-formation/company-formation-zug/) and connected her with ongoing [accounting services Switzerland](/tax-accounting/accounting-switzerland/).
 
 > **Edge case: the hidden costs that change the calculation for small companies.** The tax rate comparison above assumes pure profit tax. In practice, a non-resident founder also needs a registered address (CHF 2,400/year in Zug, CHF 3,000 in Zurich), a nominee director if not Swiss-resident (CHF 5,900/year standard), and accounting services (CHF 1,400/year dormant, or approximately CHF 3,800/year for up to 100 transactions). These fixed costs total roughly CHF 9,700–12,000 per year regardless of profit. At CHF 50,000 annual profit, the fixed infrastructure costs exceed the tax bill. The tax rate only becomes the dominant factor once annual profit passes approximately CHF 200,000 — below that, the cost of maintaining the Swiss structure is a larger consideration than the cantonal rate differential.
 
@@ -299,9 +299,9 @@ The corporate tax rate is the headline number — but it is not the total cost o
 
 ---
 
-## Why Work With Lawsupport
+## Why Work With Morgan Hartley Consulting
 
-Lawsupport (Morgan Hartley Consulting GmbH) is a Swiss law firm based at Baarerstrasse 135, 6300 Zug, specialising in corporate formation, tax structuring, and international business law. **Morgan Hartley**, Senior Corporate Lawyer & Partner, holds an Anwaltspatent (bar admission) in the Canton of Zurich. Over 18 years of practice, we have completed more than 1,000 corporate formations, with particular depth in financial companies, IP holding structures, and internationally owned Swiss groups.
+Morgan Hartley Consulting (Morgan Hartley Consulting GmbH) is a Swiss law firm based at Baarerstrasse 135, 6300 Zug, specialising in corporate formation, tax structuring, and international business law. **Morgan Hartley**, Senior Corporate Lawyer & Partner, holds an Anwaltspatent (bar admission) in the Canton of Zurich. Over 18 years of practice, we have completed more than 1,000 corporate formations, with particular depth in financial companies, IP holding structures, and internationally owned Swiss groups.
 
 To speak with a Swiss law and tax adviser:
 
@@ -313,4 +313,4 @@ To speak with a Swiss law and tax adviser:
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) is a law practice licensed in the Canton of Zurich. This article is for general information purposes and does not constitute legal or tax advice.*
+*Morgan Hartley Consulting (Morgan Hartley Consulting GmbH) is a law practice licensed in the Canton of Zurich. This article is for general information purposes and does not constitute legal or tax advice.*

@@ -311,7 +311,7 @@ The offered salary must match or exceed Swiss market standards for the equivalen
 Work permit applications for non-EU nationals require structuring the employer's recruitment process correctly from the start, preparing documentation that will withstand cantonal and federal scrutiny, and managing the application timeline against quota availability.
 
 **Morgan Hartley — Senior Corporate Lawyer & Partner**
-Lawsupport (Morgan Hartley Consulting)
+Morgan Hartley Consulting (Morgan Hartley Consulting)
 Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 
@@ -319,4 +319,4 @@ Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 
 ---
 
-*This article reflects Swiss immigration law and practice as of March 2026. Federal quotas, cantonal procedures, and salary benchmarks are subject to annual revision. Nothing in this article constitutes legal advice. Contact Lawsupport at info@lawsupport.ch for advice specific to your situation.*
+*This article reflects Swiss immigration law and practice as of March 2026. Federal quotas, cantonal procedures, and salary benchmarks are subject to annual revision. Nothing in this article constitutes legal advice. Contact Morgan Hartley Consulting at info@lawsupport.ch for advice specific to your situation.*

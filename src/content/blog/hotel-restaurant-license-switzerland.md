@@ -303,7 +303,7 @@ Yes. Most cantons and communes require hotels to register for the local tourism 
 
 ## Request a Free Assessment
 
-Lawsupport (Morgan Hartley Consulting) advises founders, operators, and investors on the full licensing process for Swiss hospitality businesses — from initial zoning checks through to employment contract compliance and VAT registration.
+Morgan Hartley Consulting (Morgan Hartley Consulting) advises founders, operators, and investors on the full licensing process for Swiss hospitality businesses — from initial zoning checks through to employment contract compliance and VAT registration.
 
 [Request a Free Assessment](/contacts/) to discuss your hotel or restaurant project.
 

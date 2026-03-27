@@ -1,6 +1,6 @@
 ---
 title: "Swiss Cooperative (Genossenschaft): Formation Guide (2026)"
-description: "Swiss Genossenschaft: formation steps, member liability, governance, and when a cooperative is right for you. Get expert advice from Lawsupport."
+description: "Swiss Genossenschaft: formation steps, member liability, governance, and when a cooperative is right for you. Get expert advice from Morgan Hartley Consulting."
 date: "19.03.2026"
 category: "Company Formation"
 categoryHref: "/company-formation/"
@@ -25,7 +25,7 @@ tocItems:
   - id: "dissolution"
     title: "Dissolution"
   - id: "work-with-lawsupport"
-    title: "Work with Lawsupport"
+    title: "Work with Morgan Hartley Consulting"
 faqItems:
   - question: "Can a single company be the sole member of a Swiss cooperative?"
     answer: "No. A cooperative requires a minimum of seven members at formation. A sole-member cooperative is not permissible under Swiss law."
@@ -216,13 +216,13 @@ The cooperative saves on formation costs (no notary required), but the seven-mem
 
 ---
 
-## Work with Lawsupport
+## Work with Morgan Hartley Consulting
 
 Choosing the right entity type is a foundational decision. The cooperative is the correct structure for a specific and well-defined set of use cases — housing, agricultural collectives, member-benefit organisations with democratic governance requirements. For most commercial ventures, a GmbH or AG will serve better.
 
 **A pattern we see:** International founders occasionally request a cooperative formation because they want democratic governance without minimum capital requirements. The inquiry usually ends when they learn three things: (1) seven members are required at formation, not one or two; (2) the one-member-one-vote rule means no investor can control the entity regardless of capital contribution; and (3) Swiss tax authorities examine cooperative structures carefully — if the cooperative functions as a disguised investor vehicle, it attracts standard corporate tax treatment. For most commercial ventures, the GmbH at CHF 1,900 registration cost or the AG at CHF 2,500 is the correct structure.
 
-If you are assessing whether a Genossenschaft fits your project, or if you need to form a cooperative and register it in the Swiss Commercial Register, Lawsupport’s legal team works with founders and organisations at every stage of the process.
+If you are assessing whether a Genossenschaft fits your project, or if you need to form a cooperative and register it in the Swiss Commercial Register, Morgan Hartley Consulting’s legal team works with founders and organisations at every stage of the process.
 
 [Request a Free Assessment](/contacts/)
 
@@ -278,6 +278,6 @@ Both are membership-based organisations with one-member-one-vote governance. The
 
 ---
 
-*Morgan Hartley, Senior Corporate Lawyer & Partner — Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley, Senior Corporate Lawyer & Partner — Morgan Hartley Consulting (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
 
 *[Request a Free Assessment](/contacts/)*

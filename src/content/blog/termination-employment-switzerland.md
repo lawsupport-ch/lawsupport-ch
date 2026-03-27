@@ -233,13 +233,13 @@ Mass redundancy rules apply when an employer dismisses more than 10 employees in
 
 Whether you are an employer planning a termination, restructuring your workforce, or an individual facing dismissal, the rules are specific and the consequences of getting them wrong are material.
 
-Lawsupport advises on all aspects of Swiss [employment law](/employment-law/employment-law-switzerland/), including termination procedures, severance negotiations, abusive dismissal claims, mass redundancy processes, and exit agreements. We work from Zug with clients across Switzerland.
+Morgan Hartley Consulting advises on all aspects of Swiss [employment law](/employment-law/employment-law-switzerland/), including termination procedures, severance negotiations, abusive dismissal claims, mass redundancy processes, and exit agreements. We work from Zug with clients across Switzerland.
 
 [Request a Free Assessment →](/contacts/)
 
 ---
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 

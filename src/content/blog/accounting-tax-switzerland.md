@@ -1,6 +1,6 @@
 ---
 title: "Accounting Services Switzerland: Tax & Audit Guide"
-description: "Swiss accounting for AG and GmbH: bookkeeping rules, annual accounts, audit thresholds, VAT reporting and corporate tax. Free assessment from Lawsupport, Zug."
+description: "Swiss accounting for AG and GmbH: bookkeeping rules, annual accounts, audit thresholds, VAT reporting and corporate tax. Free assessment from Morgan Hartley Consulting, Zug."
 date: "19.03.2026"
 category: "Swiss Corporate Law"
 categoryHref: "/tax-accounting/"
@@ -31,7 +31,7 @@ tocItems:
   - id: "payroll-and-ahv-social-insurance-administration"
     title: "Payroll and AHV / Social Insurance Administration"
   - id: "what-lawsupports-accounting-services-include"
-    title: "What Lawsupport's Accounting Services Include"
+    title: "What Morgan Hartley Consulting's Accounting Services Include"
   - id: "typical-costs-accounting-services-for-swiss-companies"
     title: "Typical Costs: Accounting Services for Swiss Companies"
   - id: "real-world-scenario-foreign-owned-gmbh-needing-accounting-ca"
@@ -91,7 +91,7 @@ Based on Goldblum und Partner AG's experience managing accounts for 300+ Swiss c
 
 > **From practice:** A dormant holding company's founder assumed zero-turnover meant zero filings. The cantonal tax office disagreed — CHF 2'000 in penalties plus CHF 1'200 in accrued interest. Total bill: CHF 7'400. Annual maintenance would have cost CHF 1'400 per year.
 
-This article explains what Swiss law requires, what the common pitfalls are for foreign-owned companies, how audits work, and what Lawsupport's accounting service covers. If you are running a Swiss company from abroad — or you have just incorporated one and are trying to understand your obligations — this is the practical reference you need.
+This article explains what Swiss law requires, what the common pitfalls are for foreign-owned companies, how audits work, and what Morgan Hartley Consulting's accounting service covers. If you are running a Swiss company from abroad — or you have just incorporated one and are trying to understand your obligations — this is the practical reference you need.
 
 ---
 
@@ -179,7 +179,7 @@ Swiss law establishes three levels of audit obligation, governed by **Art. 727�
 
 **Audit opt-out** is by far the most common outcome for foreign-owned SMEs with a lean structure. If your Swiss GmbH has two shareholders, no local staff, and turnover under CHF 10M, you can opt out entirely. This must be documented in the articles of association or by a unanimous shareholder resolution — and it must be renewed if ownership changes.
 
-If you are unsure which tier applies to your company, this is something Lawsupport determines during the initial accounting setup.
+If you are unsure which tier applies to your company, this is something Morgan Hartley Consulting determines during the initial accounting setup.
 
 ---
 
@@ -237,7 +237,7 @@ Switzerland has its own software ecosystem. The most common platforms are:
 - **Sage 50 / Sage 200** — popular in the SME segment, well-integrated with Swiss payroll and HR modules.
 - **Banana Accounting** — lightweight double-entry software, strong following among small NGOs, associations, and very small companies.
 
-Lawsupport uses Abacus for client work. If a client already uses Bexio, we can work within that environment. We do not require clients to purchase or manage software themselves — our fee includes the bookkeeping environment.
+Morgan Hartley Consulting uses Abacus for client work. If a client already uses Bexio, we can work within that environment. We do not require clients to purchase or manage software themselves — our fee includes the bookkeeping environment.
 
 ---
 
@@ -271,15 +271,15 @@ If your Swiss company employs staff — including directors domiciled in Switzer
 - Handle source tax (Quellensteuer) for foreign employees without a Swiss C permit
 - Submit annual salary statements (Lohnausweis) to the cantonal tax authority
 
-Payroll in Switzerland is more administratively intensive than in many other jurisdictions. Lawsupport handles payroll administration as part of its full-service accounting package.
+Payroll in Switzerland is more administratively intensive than in many other jurisdictions. Morgan Hartley Consulting handles payroll administration as part of its full-service accounting package.
 
 ---
 
 <!-- VIDEO PLACEHOLDER: Embed a short walkthrough (3–4 min) on how Swiss payroll and AHV contributions work for a foreign-owned GmbH with no local employees. -->
 
-## What Lawsupport's Accounting Services Include
+## What Morgan Hartley Consulting's Accounting Services Include
 
-Lawsupport (Morgan Hartley Consulting) provides end-to-end accounting support for Swiss AG and GmbH companies, with a particular focus on foreign-owned entities where the shareholders are not based in Switzerland.
+Morgan Hartley Consulting (Morgan Hartley Consulting) provides end-to-end accounting support for Swiss AG and GmbH companies, with a particular focus on foreign-owned entities where the shareholders are not based in Switzerland.
 
 Our standard accounting service covers:
 
@@ -298,7 +298,7 @@ We do not outsource bookkeeping work offshore. All work is done by qualified sta
 
 ## Typical Costs: Accounting Services for Swiss Companies
 
-Accounting costs in Switzerland vary considerably by company size, transaction volume, and whether payroll is included. The following are indicative ranges for Lawsupport's services:
+Accounting costs in Switzerland vary considerably by company size, transaction volume, and whether payroll is included. The following are indicative ranges for Morgan Hartley Consulting's services:
 
 **Dormant company** (zero turnover, no transactions):
 - Annual statements + tax filing: **approximately CHF 1'400 per year**. This is the irreducible minimum for maintaining a Swiss company in good standing.
@@ -321,9 +321,9 @@ One point that surprises many founders: most Swiss fiduciaries do not offer fixe
 
 ## Real-World Scenario: Foreign-Owned GmbH Needing Accounting Catch-Up
 
-A common situation we handle at Lawsupport: a UK-based entrepreneur incorporated a Swiss GmbH in Zug three years ago as part of a restructuring. The company holds a software licence and invoices a related UK entity. For the first two years, the entrepreneur assumed the Swiss accountant at the formation agent was handling the books. It turned out only bank reconciliations were being done — no annual accounts were prepared, no tax returns were filed, and VAT registration had lapsed.
+A common situation we handle at Morgan Hartley Consulting: a UK-based entrepreneur incorporated a Swiss GmbH in Zug three years ago as part of a restructuring. The company holds a software licence and invoices a related UK entity. For the first two years, the entrepreneur assumed the Swiss accountant at the formation agent was handling the books. It turned out only bank reconciliations were being done — no annual accounts were prepared, no tax returns were filed, and VAT registration had lapsed.
 
-In Zug, where the company was registered, corporate tax runs at approximately 11.85% — among the lowest in Switzerland. But no tax rate helps if you have not filed. By the time the client contacted Lawsupport, the company had:
+In Zug, where the company was registered, corporate tax runs at approximately 11.85% — among the lowest in Switzerland. But no tax rate helps if you have not filed. By the time the client contacted Morgan Hartley Consulting, the company had:
 - Three years of unfiled tax returns (late-filing penalties accumulate in most cantons)
 - No approved annual accounts (meaning distributions or formal closure were blocked)
 - An expired VAT registration, creating a retroactive registration obligation
@@ -367,7 +367,7 @@ A Swiss company without its own bank account is viewed with suspicion. Banks req
 
 ## Get Your Swiss Accounting in Order
 
-Whether you are setting up a new Swiss company, taking over accounting from a previous provider, or dealing with a backlog, Lawsupport can help. We work with foreign-owned Swiss companies across all industries and have been doing so for over 18 years, with more than 1,000 company formations completed for clients from 40+ countries.
+Whether you are setting up a new Swiss company, taking over accounting from a previous provider, or dealing with a backlog, Morgan Hartley Consulting can help. We work with foreign-owned Swiss companies across all industries and have been doing so for over 18 years, with more than 1,000 company formations completed for clients from 40+ countries.
 
 **Related services:**
 - [Company formation in Switzerland](/company-formation/company-formation-switzerland/)
@@ -383,7 +383,7 @@ Whether you are setting up a new Swiss company, taking over accounting from a pr
 
 ## Request a Free Assessment
 
-Speak with Morgan Hartley and the Lawsupport team about your Swiss accounting obligations. We offer a complimentary initial assessment for new accounting clients — no commitment required.
+Speak with Morgan Hartley and the Morgan Hartley Consulting team about your Swiss accounting obligations. We offer a complimentary initial assessment for new accounting clients — no commitment required.
 
 **[Request a Free Assessment](/contacts/)**
 
@@ -437,7 +437,7 @@ Yes. Under Art. 67 DBG, losses can be carried forward for up to seven years. The
 
 <div class="author-block">
 
-**Morgan Hartley** is a Senior Corporate Lawyer and Partner at Lawsupport (Morgan Hartley Consulting), Baarerstrasse 135, 6300 Zug, Switzerland. He has advised foreign-owned Swiss companies on accounting, tax, and corporate law for over 18 years. Contact: +41 44 51 52 592 | info@lawsupport.ch
+**Morgan Hartley** is a Senior Corporate Lawyer and Partner at Morgan Hartley Consulting (Morgan Hartley Consulting), Baarerstrasse 135, 6300 Zug, Switzerland. He has advised foreign-owned Swiss companies on accounting, tax, and corporate law for over 18 years. Contact: +41 44 51 52 592 | info@lawsupport.ch
 
 </div>
 

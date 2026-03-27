@@ -24,7 +24,7 @@ tocItems:
   - id: "consequences-of-operating-without-sro-membership"
     title: "Consequences of Operating Without SRO Membership"
   - id: "how-lawsupport-supports-your-sro-application"
-    title: "How Lawsupport Supports Your SRO Application"
+    title: "How Morgan Hartley Consulting Supports Your SRO Application"
 faqItems:
   - question: "Do I need SRO membership if my company is abroad but serves Swiss clients?"
     answer: "If your company conducts financial intermediary activities from within Switzerland, the AMLA obligation applies regardless of incorporation."
@@ -204,7 +204,7 @@ The lesson: budget for the full CHF 25'000+ from the outset. Clients who budget 
 **AML officer — the hidden bottleneck**
 - If an internal person is appointed, there is no incremental external cost, though training and qualification costs apply
 - Finding a qualified AML officer is genuinely difficult. The person must have demonstrable AML/CFT experience, understand the specific business model, and be prepared to bear personal regulatory responsibility. For crypto businesses in particular, the pool of qualified candidates willing to take on this role is small.
-- An external AML officer — including Lawsupport's external AML officer service — is a recognised and accepted structure for early-stage or smaller intermediaries. External AML officer engagement typically costs **CHF 3'000-8'000 annually** depending on the scope of ongoing responsibilities
+- An external AML officer — including Morgan Hartley Consulting's external AML officer service — is a recognised and accepted structure for early-stage or smaller intermediaries. External AML officer engagement typically costs **CHF 3'000-8'000 annually** depending on the scope of ongoing responsibilities
 
 **Total first-year budget estimate**
 - Simple business model, internal AML officer: **CHF 15'000-25'000** (professional fees + SRO admission and first-year fee)
@@ -312,16 +312,16 @@ FINMA actively monitors for unlicensed activity, including through referrals fro
 
 ---
 
-## How Lawsupport Supports Your SRO Application
+## How Morgan Hartley Consulting Supports Your SRO Application
 
-Lawsupport (Morgan Hartley Consulting) manages the full SRO membership process for financial intermediaries across the spectrum — from forex dealers and payment processors to crypto exchanges, fund distributors, and fiduciary businesses.
+Morgan Hartley Consulting (Morgan Hartley Consulting) manages the full SRO membership process for financial intermediaries across the spectrum — from forex dealers and payment processors to crypto exchanges, fund distributors, and fiduciary businesses.
 
 Our service covers:
 
 - **Business model analysis** to determine whether SRO membership or a [FINMA licence](/licensing/finma-licensing-switzerland/) (or both) is required, and which SRO is the right fit
 - **AML compliance programme design**: drafting a bespoke, SRO-ready policy, KYC procedures, transaction monitoring framework, and MROS reporting workflow
 - **Dossier preparation and submission**: compiling and submitting the complete application, managing the SRO committee correspondence, and responding to follow-up questions
-- **AML officer services**: Lawsupport provides external AML officer services for intermediaries that do not have a qualified in-house candidate — a formally accepted structure under AMLA
+- **AML officer services**: Morgan Hartley Consulting provides external AML officer services for intermediaries that do not have a qualified in-house candidate — a formally accepted structure under AMLA
 - **Ongoing annual reporting**: preparing the annual SRO compliance report and maintaining the AML programme as the business evolves
 
 For businesses that also need to [form a Swiss company](/company-formation/company-formation-switzerland/) before applying, or that require a [corporate bank account](/banking/corporate-bank-account-switzerland/) alongside SRO membership, we handle the full sequence.
@@ -338,7 +338,7 @@ If your company is incorporated outside Switzerland but conducts financial inter
 
 **Can the AML officer be an external person or does it have to be an employee?**
 
-AMLA and the SRO regulations permit the appointment of an external AML officer. This is a formally recognised and widely used arrangement, particularly for smaller intermediaries and start-ups where a full-time internal compliance hire is not commercially viable. The external AML officer must meet the same qualification and experience requirements as an internal appointee, and the appointment must be documented in writing. Lawsupport provides external AML officer services to SRO members.
+AMLA and the SRO regulations permit the appointment of an external AML officer. This is a formally recognised and widely used arrangement, particularly for smaller intermediaries and start-ups where a full-time internal compliance hire is not commercially viable. The external AML officer must meet the same qualification and experience requirements as an internal appointee, and the appointment must be documented in writing. Morgan Hartley Consulting provides external AML officer services to SRO members.
 
 **Is SRO membership sufficient for a crypto business, or do I also need a FINMA licence?**
 
@@ -378,11 +378,11 @@ The three most frequent causes of delay are: (1) an incomplete AML compliance pr
 
 **Request a Free Assessment**
 
-Whether you need SRO membership, a FINMA licence, or both depends on your specific business model and activities. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
+Whether you need SRO membership, a FINMA licence, or both depends on your specific business model and activities. Morgan Hartley, Senior Corporate Lawyer & Partner at Morgan Hartley Consulting, reviews your situation and sets out the steps needed — without obligation.
 
 [Request a Free Assessment](/contacts/)
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch

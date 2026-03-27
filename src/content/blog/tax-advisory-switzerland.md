@@ -1,6 +1,6 @@
 ---
 title: "Tax Advisory Switzerland: Corporate Planning"
-description: "Swiss corporate tax advisory for international clients: tax structuring, advance rulings, IP Box, holding structures, and treaty planning from Lawsupport, Zug."
+description: "Swiss corporate tax advisory for international clients: tax structuring, advance rulings, IP Box, holding structures, and treaty planning from Morgan Hartley Consulting, Zug."
 date: "30.07.2026"
 publishDate: "2026-07-30"
 category: "Tax & Accounting"
@@ -22,7 +22,7 @@ faqItems:
   - question: "What is the typical return on investment for Swiss tax advisory?"
     answer: "For companies with CHF 500,000 or more in annual profit, the return is typically 5 to 20 times the advisory cost within the first year. A cantonal selection analysis costing CHF 3,000 that saves CHF 40,000 per year in tax represents a return exceeding 13 times the investment."
   - question: "Do I need separate advisers for tax and legal matters in Switzerland?"
-    answer: "Not necessarily. Swiss law firms frequently combine tax and legal advisory under one roof, which reduces coordination costs and ensures that legal structuring decisions account for tax consequences from the outset. Lawsupport provides both corporate legal and tax advisory services from a single practice."
+    answer: "Not necessarily. Swiss law firms frequently combine tax and legal advisory under one roof, which reduces coordination costs and ensures that legal structuring decisions account for tax consequences from the outset. Morgan Hartley Consulting provides both corporate legal and tax advisory services from a single practice."
   - question: "How does Swiss tax advisory differ for crypto and blockchain companies?"
     answer: "Crypto companies face distinct classification issues: payment tokens, utility tokens, and asset tokens each carry different tax consequences. Staking income, DeFi treasury management, and token issuance require specific structuring. The Steuerverwaltung Zug has more developed expertise in these matters than most other cantonal authorities."
   - question: "What is the thin capitalisation safe harbour in Switzerland?"
@@ -35,7 +35,7 @@ tocItems:
   - id: "our-approach-to-tax-advisory"
     title: "Our Approach to Tax Advisory"
   - id: "contact-lawsupport-for-tax-advisory-request-a-free-assessmen"
-    title: "Contact Lawsupport for Tax Advisory: Request a Free Assessment"
+    title: "Contact Morgan Hartley Consulting for Tax Advisory: Request a Free Assessment"
 relatedArticles:
   - title: "Advance Tax Ruling Switzerland: Process & Costs"
     href: "/tax-accounting/tax-ruling-switzerland/"
@@ -46,7 +46,7 @@ relatedArticles:
 ---
 
 
-Tax advisory in Switzerland covers the strategic planning of your company's structure, financing, and operations to minimise tax liability within the law. The effective combined corporate tax rate varies from 11.85% in Zug to roughly 20% in Zurich — for a company generating CHF 1 million in taxable profit, the difference between cantons alone can exceed CHF 80,000 per year. This guide explains what Swiss corporate tax advisory covers, what it delivers, and how Lawsupport advises clients on Swiss tax matters.
+Tax advisory in Switzerland covers the strategic planning of your company's structure, financing, and operations to minimise tax liability within the law. The effective combined corporate tax rate varies from 11.85% in Zug to roughly 20% in Zurich — for a company generating CHF 1 million in taxable profit, the difference between cantons alone can exceed CHF 80,000 per year. This guide explains what Swiss corporate tax advisory covers, what it delivers, and how Morgan Hartley Consulting advises clients on Swiss tax matters.
 
 ---
 
@@ -178,11 +178,11 @@ Answer these questions to identify whether your current structure is leaving mon
 
 ---
 
-## Contact Lawsupport for Tax Advisory: Request a Free Assessment
+## Contact Morgan Hartley Consulting for Tax Advisory: Request a Free Assessment
 
 If you are forming a Swiss company, restructuring an existing Swiss entity, planning a dividend distribution, or seeking advice on IP Box eligibility, [request a free assessment](/contacts/).
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 

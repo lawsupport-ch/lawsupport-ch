@@ -1,6 +1,6 @@
 ---
 title: "Swiss Bank Account Requirements & Minimum Balance (2026)"
-description: "What Swiss banks require to open an account in 2026: documents, minimum balances, KYC rules, and common rejection reasons. Practical guide from Lawsupport, Zug."
+description: "What Swiss banks require to open an account in 2026: documents, minimum balances, KYC rules, and common rejection reasons. Practical guide from Morgan Hartley Consulting, Zug."
 date: "22.06.2026"
 publishDate: "2026-06-22"
 category: "Banking & Finance"
@@ -37,7 +37,7 @@ tocItems:
   - id: "capital-deposit-account-special-requirements"
     title: "Capital Deposit Account: Special Requirements"
   - id: "how-lawsupport-helps"
-    title: "How Lawsupport Helps"
+    title: "How Morgan Hartley Consulting Helps"
 relatedArticles:
   - title: "Swiss Bank Account: Guide for Foreigners (2026)"
     href: "/banking/swiss-bank-account/"
@@ -54,7 +54,7 @@ Opening a Swiss bank account — whether personal or corporate — requires spec
 
 ## Corporate Bank Account Requirements
 
-Corporate accounts for Swiss AG and GmbH companies are the primary service Lawsupport assists with. Here is what Swiss banks require for a newly formed Swiss company owned by foreign nationals.
+Corporate accounts for Swiss AG and GmbH companies are the primary service Morgan Hartley Consulting assists with. Here is what Swiss banks require for a newly formed Swiss company owned by foreign nationals.
 
 ### Mandatory Documents
 
@@ -144,7 +144,7 @@ Timeline for Kapitaleinzahlungskonto: 2–6 weeks depending on the bank and owne
 
 ---
 
-## How Lawsupport Helps
+## How Morgan Hartley Consulting Helps
 
 We prepare the complete KYC documentation package — business plan, ownership chart, source of funds narrative, AML questionnaire, and all corporate documents — and match your business profile to the banking institution best positioned to approve your application. We have established relationships with cantonal banks, private banks, and specialist crypto banking institutions in Zug and Zurich.
 
@@ -230,11 +230,11 @@ A capital deposit account (Kapitaleinzahlungskonto) is a temporary blocked accou
 
 **Request a Free Assessment**
 
-Unsure whether your business profile meets Swiss banking requirements? Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
+Unsure whether your business profile meets Swiss banking requirements? Morgan Hartley, Senior Corporate Lawyer & Partner at Morgan Hartley Consulting, reviews your situation and sets out the steps needed — without obligation.
 
 [Request a Free Assessment](/contacts/)
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch

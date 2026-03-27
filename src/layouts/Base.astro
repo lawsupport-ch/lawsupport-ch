@@ -27,7 +27,7 @@ const canonicalURL = new URL(Astro.url.pathname, "https://lawsupport.ch");
 const organizationSchema = {
   "@type": ["LegalService", "LocalBusiness"],
   "@id": "https://lawsupport.ch/#organization",
-  "name": "Lawsupport",
+  "name": "Morgan Hartley Consulting",
   "url": "https://lawsupport.ch",
   "logo": {
     "@type": "ImageObject",
@@ -61,7 +61,7 @@ const organizationSchema = {
 const websiteSchema = {
   "@type": "WebSite",
   "@id": "https://lawsupport.ch/#website",
-  "name": "Lawsupport",
+  "name": "Morgan Hartley Consulting",
   "url": "https://lawsupport.ch",
   "publisher": {"@id": "https://lawsupport.ch/#organization"}
 };
@@ -109,7 +109,7 @@ const graphSchema = {
   <meta property="og:url" content={canonicalURL} />
   <meta property="og:type" content={ogType} />
   <meta property="og:image" content={ogImage} />
-  <meta property="og:site_name" content="Lawsupport" />
+  <meta property="og:site_name" content="Morgan Hartley Consulting" />
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image" />

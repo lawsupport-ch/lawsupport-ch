@@ -26,7 +26,7 @@ tocItems:
   - id: "deposit-protection-and-esisuisse"
     title: "Deposit Protection and esisuisse"
   - id: "work-with-lawsupport-on-swiss-banking-matters"
-    title: "Work With Lawsupport on Swiss Banking Matters"
+    title: "Work With Morgan Hartley Consulting on Swiss Banking Matters"
 faqItems:
   - question: "How many banks operate in Switzerland?"
     answer: "As of 2026, approximately 240 banks hold FINMA licences in Switzerland. This includes 24 cantonal banks, 1 large universal bank (UBS, following the Credit Suisse merger), around 90 private banks and asset managers with banking licences, and over 100 foreign-controlled banks. The number has declined steadily from over 350 in 2008 due to consolidation, increased regulatory costs, and the end of banking secrecy for international clients."
@@ -221,16 +221,16 @@ For foreign clients placing large sums in Swiss banks, the combination of esisui
 
 ---
 
-## Work With Lawsupport on Swiss Banking Matters
+## Work With Morgan Hartley Consulting on Swiss Banking Matters
 
-Lawsupport (Morgan Hartley Consulting) assists foreign entrepreneurs, companies, and investors with Swiss banking relationships. Our services include bank introductions, account opening support, corporate banking structuring, and liaison with banks on complex KYC requirements.
+Morgan Hartley Consulting (Morgan Hartley Consulting) assists foreign entrepreneurs, companies, and investors with Swiss banking relationships. Our services include bank introductions, account opening support, corporate banking structuring, and liaison with banks on complex KYC requirements.
 
 For an overview of the practical account opening process, see our [guide to opening a Swiss bank account](/banking/opening-swiss-bank-account-guide/). For private banking services, see our [private banking guide](/banking/private-banking-switzerland-guide/).
 
 **[Request a Free Assessment](/contacts/)** — or contact us directly:
 
 **Morgan Hartley, Senior Corporate Lawyer & Partner**
-Lawsupport (Morgan Hartley Consulting GmbH)
+Morgan Hartley Consulting (Morgan Hartley Consulting GmbH)
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 
@@ -282,4 +282,4 @@ The Swiss Bankers Association (SBA/SBVg) is the industry body representing Swiss
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

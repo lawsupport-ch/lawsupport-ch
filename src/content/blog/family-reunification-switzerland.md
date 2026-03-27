@@ -227,7 +227,7 @@ Family reunification applications involve documents from multiple countries, inc
 
 A refusal is not always the end. Appeals are possible. But a well-prepared initial application is always preferable to remedying a refusal. If you are planning ahead or facing a complex case — a child over 12, a cohabiting partner, an income situation close to the threshold — take specialist advice before filing.
 
-**Request a Free Assessment** — contact Morgan Hartley and the Lawsupport team:
+**Request a Free Assessment** — contact Morgan Hartley and the Morgan Hartley Consulting team:
 
 - Phone: +41 44 51 52 592
 - Email: info@lawsupport.ch
@@ -241,4 +241,4 @@ Related guides: [Immigrate to Switzerland](/immigration/immigrate-to-switzerland
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

@@ -230,7 +230,7 @@ Cantonal banks with a state guarantee (Staatsgarantie) offer an additional layer
 
 **Which Swiss banks offer corporate accounts for foreign-owned companies?**
 
-Most cantonal banks in internationally oriented cantons (Zug, Zurich, Geneva) accept [corporate accounts](/banking/corporate-bank-account-switzerland/) for foreign-owned Swiss companies. The specific bank selection depends on the business type, ownership structure, and countries involved. Lawsupport matches each client to the most suitable institution.
+Most cantonal banks in internationally oriented cantons (Zug, Zurich, Geneva) accept [corporate accounts](/banking/corporate-bank-account-switzerland/) for foreign-owned Swiss companies. The specific bank selection depends on the business type, ownership structure, and countries involved. Morgan Hartley Consulting matches each client to the most suitable institution.
 
 **Do Swiss private banks accept new clients?**
 
@@ -246,7 +246,7 @@ Yes. AMINA Bank (formerly SEBA Bank) in Zug and Sygnum Bank in Zurich are both F
 
 **Which Swiss bank should I choose for my business?**
 
-The right bank depends on your business type, ownership structure, expected transaction volumes, and the countries you operate in. Cantonal banks suit most SMEs with Swiss operations. Specialist banks serve niche sectors. Lawsupport helps clients identify and apply to the most appropriate institution based on their specific profile.
+The right bank depends on your business type, ownership structure, expected transaction volumes, and the countries you operate in. Cantonal banks suit most SMEs with Swiss operations. Specialist banks serve niche sectors. Morgan Hartley Consulting helps clients identify and apply to the most appropriate institution based on their specific profile.
 
 ---
 
@@ -254,11 +254,11 @@ The right bank depends on your business type, ownership structure, expected tran
 
 **Request a Free Assessment**
 
-Looking for the right Swiss bank for your company? Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed — without obligation.
+Looking for the right Swiss bank for your company? Morgan Hartley, Senior Corporate Lawyer & Partner at Morgan Hartley Consulting, reviews your situation and sets out the steps needed — without obligation.
 
 [Request a Free Assessment](/contacts/)
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch

@@ -26,7 +26,7 @@ tocItems:
   - id: "common-ip-strategy-mistakes"
     title: "Common IP Strategy Mistakes"
   - id: "work-with-lawsupport-on-ip-strategy"
-    title: "Work With Lawsupport on IP Strategy"
+    title: "Work With Morgan Hartley Consulting on IP Strategy"
 faqItems:
   - question: "How much does a Swiss patent cost?"
     answer: "IGE/IPI filing fees start at CHF 200 for an electronic application. Examination fees add CHF 500. Annual maintenance fees range from CHF 100 (years 1-3) to CHF 900 (year 20). Professional fees for a patent attorney to draft the application, conduct prior art searches, and handle prosecution typically range from CHF 5,000-15,000. Total cost through grant: approximately CHF 8,000-20,000 for a straightforward invention. Complex applications with multiple claims can exceed CHF 30,000."
@@ -284,16 +284,16 @@ For companies with significant R&D and patented technology, the patent box can s
 
 ---
 
-## Work With Lawsupport on IP Strategy
+## Work With Morgan Hartley Consulting on IP Strategy
 
-Lawsupport (Morgan Hartley Consulting) assists businesses with Swiss and international IP strategy, working with specialised patent and trademark attorneys to provide a full-service IP solution. Our services include IP audits, filing strategy, portfolio management, and enforcement coordination.
+Morgan Hartley Consulting (Morgan Hartley Consulting) assists businesses with Swiss and international IP strategy, working with specialised patent and trademark attorneys to provide a full-service IP solution. Our services include IP audits, filing strategy, portfolio management, and enforcement coordination.
 
 For trademark and design protection, see our [trademark and design guide](/intellectual-property/trademark-design-protection-switzerland/). For the IGE/IPI filing process, see our [IGE/IPI office guide](/intellectual-property/ige-ipi-switzerland/).
 
 **[Request a Free Assessment](/contacts/)** — or contact us directly:
 
 **Morgan Hartley, Senior Corporate Lawyer & Partner**
-Lawsupport (Morgan Hartley Consulting GmbH)
+Morgan Hartley Consulting (Morgan Hartley Consulting GmbH)
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 
@@ -345,4 +345,4 @@ The Patent Cooperation Treaty (PCT) allows filing a single international patent 
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

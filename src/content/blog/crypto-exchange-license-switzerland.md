@@ -1,6 +1,6 @@
 ---
 title: "Crypto Exchange Licence Switzerland: FINMA Guide"
-description: "Crypto exchange licence Switzerland: FINMA FinTech vs banking licence, VQF/SRO membership, AML rules, DLT Act. Contact Lawsupport for expert guidance."
+description: "Crypto exchange licence Switzerland: FINMA FinTech vs banking licence, VQF/SRO membership, AML rules, DLT Act. Contact Morgan Hartley Consulting for expert guidance."
 date: "19.03.2026"
 category: "Licensing & Permits"
 categoryHref: "/licensing/"
@@ -288,12 +288,12 @@ Zug is the preferred location. It has the lowest effective corporate tax rate in
 
 ## Ready to Start Your Swiss Crypto Exchange Application?
 
-Establishing a regulated Swiss crypto exchange is a substantial undertaking — but it is one of the most credible and legally secure regulatory positions in the world. Morgan Hartley and the team at Lawsupport have been advising crypto businesses from Zug since 2013. We know FINMA's expectations, VQF's application standards, and the practical realities of launching a regulated exchange.
+Establishing a regulated Swiss crypto exchange is a substantial undertaking — but it is one of the most credible and legally secure regulatory positions in the world. Morgan Hartley and the team at Morgan Hartley Consulting have been advising crypto businesses from Zug since 2013. We know FINMA's expectations, VQF's application standards, and the practical realities of launching a regulated exchange.
 
 [Request a Free Assessment](/contacts/) to discuss your specific licence pathway, timeline, and cost expectations.
 
 **Morgan Hartley | Senior Corporate Lawyer & Partner**
-Lawsupport (Morgan Hartley Consulting GmbH)
+Morgan Hartley Consulting (Morgan Hartley Consulting GmbH)
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 

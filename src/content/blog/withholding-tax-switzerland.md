@@ -1,6 +1,6 @@
 ---
 title: "Swiss Withholding Tax: Rates, Treaties & Refunds"
-description: "Swiss withholding tax at 35% on dividends and interest. Treaty reductions, refund process via ESTV Form 65, and holding structure planning from Lawsupport, Zug."
+description: "Swiss withholding tax at 35% on dividends and interest. Treaty reductions, refund process via ESTV Form 65, and holding structure planning from Morgan Hartley Consulting, Zug."
 date: "23.08.2026"
 publishDate: "2026-08-23"
 category: "Tax & Accounting"
@@ -246,7 +246,7 @@ In most jurisdictions, Swiss withholding tax qualifies for a foreign tax credit 
 Withholding tax planning is an integral part of structuring Swiss companies for international clients. We advise on dividend distribution timing, treaty analysis, refund procedures, and holding structure design to minimise withholding costs.
 
 **Morgan Hartley — Senior Corporate Lawyer & Partner**
-Lawsupport (Morgan Hartley Consulting)
+Morgan Hartley Consulting (Morgan Hartley Consulting)
 Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 
@@ -254,4 +254,4 @@ Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 
 ---
 
-*This article reflects Swiss withholding tax law and practice as of March 2026. Tax rates and treaty provisions are subject to revision. Nothing in this article constitutes legal or tax advice. Contact Lawsupport at info@lawsupport.ch for advice specific to your situation.*
+*This article reflects Swiss withholding tax law and practice as of March 2026. Tax rates and treaty provisions are subject to revision. Nothing in this article constitutes legal or tax advice. Contact Morgan Hartley Consulting at info@lawsupport.ch for advice specific to your situation.*

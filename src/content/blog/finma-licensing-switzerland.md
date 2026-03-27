@@ -25,7 +25,7 @@ tocItems:
   - id: "crypto-valley-and-switzerlands-competitive-advantage"
     title: "Crypto Valley and Switzerland's Competitive Advantage"
   - id: "work-with-lawsupport-on-your-finma-application"
-    title: "Work With Lawsupport on Your FINMA Application"
+    title: "Work With Morgan Hartley Consulting on Your FINMA Application"
 faqItems:
   - question: "What is the fastest FINMA licensing pathway for a crypto startup?"
     answer: "SRO membership for AML compliance is the fastest route — typically 2-5 months. Annual fees are approximately CHF 10'000. This covers crypto-to-crypto trading, wallet services, and token issuance where no deposit-taking or securities dealing occurs. If your business model requires holding client fiat funds, you need a FinTech licence (3-6 months, CHF 300'000 capital)."
@@ -60,7 +60,7 @@ relatedArticles:
 
 Switzerland's Financial Market Supervisory Authority (FINMA) is one of the world's most respected financial regulators. For crypto businesses, fintech companies, fund managers, and financial service providers, Switzerland offers a clear licensing pathway — but the requirements are demanding and the process takes 3–24 months depending on the license type. This guide explains every major FINMA license category in 2026, including capital requirements, timelines, and the practical steps required to obtain authorisation.
 
-Whether you are structuring a crypto exchange, establishing an asset management company in Zug, or launching a Swiss-domiciled fund, understanding the FINMA regulatory framework before you incorporate is essential. Acting on incomplete information is the single most common and costly mistake we see at Lawsupport.
+Whether you are structuring a crypto exchange, establishing an asset management company in Zug, or launching a Swiss-domiciled fund, understanding the FINMA regulatory framework before you incorporate is essential. Acting on incomplete information is the single most common and costly mistake we see at Morgan Hartley Consulting.
 
 ---
 
@@ -350,7 +350,7 @@ Failure to notify FINMA of material changes is one of the most common compliance
 ## Real-World Case Study 1: Crypto Exchange SRO Membership in 5 Months
 
 
-A crypto exchange incorporated as a Swiss AG in Zug engaged Lawsupport at the point of incorporation. The client operated a spot exchange with fiat on-ramp and off-ramp services, handling Bitcoin, Ether, and a range of ERC-20 tokens. Their activities clearly constituted financial intermediary activity under AMLA, requiring SRO membership before commencing operations.
+A crypto exchange incorporated as a Swiss AG in Zug engaged Morgan Hartley Consulting at the point of incorporation. The client operated a spot exchange with fiat on-ramp and off-ramp services, handling Bitcoin, Ether, and a range of ERC-20 tokens. Their activities clearly constituted financial intermediary activity under AMLA, requiring SRO membership before commencing operations.
 
 **What the application included:**
 
@@ -376,7 +376,7 @@ A Dubai-based asset management firm with USD 400 million in AUM — managing alt
 
 1. Pre-application engagement with the SO to confirm the applicable category and documentation requirements
 2. Local compliance officer appointment: a Zug-based compliance officer with FinIA and AMLA experience was identified and engaged prior to application submission
-3. Business plan and governance documents prepared by Lawsupport, including an organisational regulations document adapted to reflect the dual-jurisdiction structure
+3. Business plan and governance documents prepared by Morgan Hartley Consulting, including an organisational regulations document adapted to reflect the dual-jurisdiction structure
 4. Fit & proper process for all board members and the senior manager responsible for the Swiss entity
 5. SO application submitted, reviewed over approximately 7 months with two rounds of questions
 6. Authorisation obtained: the Swiss entity commenced operations 11 months after initial engagement
@@ -414,9 +414,9 @@ The <a href="https://www.admin.ch/gov/en/start/documentation/media-releases.msg-
 
 ---
 
-## Work With Lawsupport on Your FINMA Application
+## Work With Morgan Hartley Consulting on Your FINMA Application
 
-Lawsupport (Morgan Hartley Consulting) has been advising on Swiss corporate and regulatory matters since 2007. Over 18 years and 1,000+ formations later, we work with clients from more than 40 countries — including crypto exchanges, DeFi operators, fund managers, and payment institutions — on every aspect of Swiss regulatory structure, from initial structuring through to FINMA authorisation and ongoing compliance.
+Morgan Hartley Consulting (Morgan Hartley Consulting) has been advising on Swiss corporate and regulatory matters since 2007. Over 18 years and 1,000+ formations later, we work with clients from more than 40 countries — including crypto exchanges, DeFi operators, fund managers, and payment institutions — on every aspect of Swiss regulatory structure, from initial structuring through to FINMA authorisation and ongoing compliance.
 
 Every FINMA application we support is built around the specific business model, the applicable regulatory category, and the practical constraints of the client's timeline and budget.
 
@@ -425,7 +425,7 @@ If you are considering a FINMA license in 2026, the first step is a structured p
 **[Request a Free Assessment](/contacts/)** — or contact us directly:
 
 **Morgan Hartley, Senior Corporate Lawyer & Partner**
-Lawsupport (Morgan Hartley Consulting GmbH)
+Morgan Hartley Consulting (Morgan Hartley Consulting GmbH)
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 
@@ -477,4 +477,4 @@ Post-authorisation obligations include an annual regulatory audit by a FINMA-app
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

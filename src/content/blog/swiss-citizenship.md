@@ -47,7 +47,7 @@ tocItems:
   - id: "steps-to-take-now-if-you-want-swiss-citizenship"
     title: "Steps to Take Now If You Want Swiss Citizenship"
   - id: "start-your-journey-with-lawsupport-in-zug"
-    title: "Start Your Journey with Lawsupport in Zug"
+    title: "Start Your Journey with Morgan Hartley Consulting in Zug"
 relatedArticles:
   - title: "Swiss Naturalization: Requirements & Process (2026)"
     href: "/immigration/swiss-naturalization/"
@@ -60,7 +60,7 @@ relatedArticles:
 
 Swiss citizenship is among the most valuable in the world. A Swiss passport grants visa-free or visa-on-arrival access to over 190 countries, full political participation in one of the world's most stable democracies, and access to a banking and financial system built on centuries of institutional integrity. But acquiring it is not fast, not easy, and not something you can engineer with a single investment. It requires years of legal residence, demonstrable integration into Swiss society, and — in most cases — a clean financial and legal record going back years.
 
-This guide explains every route to Swiss citizenship in 2026: the legal framework under the <a href="https://www.fedlex.admin.ch/eli/cc/2016/404/en" target="_blank" rel="nofollow noopener">Bürgerrechtsgesetz (BüG — Federal Act on Swiss Citizenship)</a>, the requirements at federal, cantonal, and communal level, realistic processing timelines, and the practical steps you can begin taking today. Lawsupport has guided internationally mobile clients through Swiss residency and corporate structuring from Zug for over 18 years. The naturalisation journey often starts much earlier than most people realise — typically on the day they first register their residence in Switzerland.
+This guide explains every route to Swiss citizenship in 2026: the legal framework under the <a href="https://www.fedlex.admin.ch/eli/cc/2016/404/en" target="_blank" rel="nofollow noopener">Bürgerrechtsgesetz (BüG — Federal Act on Swiss Citizenship)</a>, the requirements at federal, cantonal, and communal level, realistic processing timelines, and the practical steps you can begin taking today. Morgan Hartley Consulting has guided internationally mobile clients through Swiss residency and corporate structuring from Zug for over 18 years. The naturalisation journey often starts much earlier than most people realise — typically on the day they first register their residence in Switzerland.
 
 ---
 
@@ -98,7 +98,7 @@ Of those ten total years, the **most recent three years must be continuous and u
 
 ### Permit Requirement
 
-Ordinary naturalisation requires a **[C permit](/immigration/c-permit-switzerland/) (Niederlassungsbewilligung — settlement permit)**. You cannot apply without one. A C permit is generally available to EU/EFTA nationals after five years of legal residence and to non-EU/EFTA nationals after ten years, though the exact threshold varies by nationality and bilateral agreements. Lawsupport regularly advises clients on the pathway from [B permit](/immigration/b-permit-switzerland/) to C permit as part of long-term residency planning.
+Ordinary naturalisation requires a **[C permit](/immigration/c-permit-switzerland/) (Niederlassungsbewilligung — settlement permit)**. You cannot apply without one. A C permit is generally available to EU/EFTA nationals after five years of legal residence and to non-EU/EFTA nationals after ten years, though the exact threshold varies by nationality and bilateral agreements. Morgan Hartley Consulting regularly advises clients on the pathway from [B permit](/immigration/b-permit-switzerland/) to C permit as part of long-term residency planning.
 
 ### Language Requirements
 
@@ -134,7 +134,7 @@ The <a href="https://www.sem.admin.ch" target="_blank" rel="nofollow noopener">S
 
 ### Cantonal Level
 
-Each of Switzerland's 26 cantons sets its own additional requirements on top of the federal minimum. These may include additional years of cantonal residence (typically two to five years), cantonal-specific integration assessments, and fees that vary substantially from one canton to another. Some cantons require a formal interview. Others rely primarily on documentation. Canton Zug is known for a clear, structured application process and transparent integration criteria — a key reason why many of Lawsupport's internationally mobile clients choose Zug as their base.
+Each of Switzerland's 26 cantons sets its own additional requirements on top of the federal minimum. These may include additional years of cantonal residence (typically two to five years), cantonal-specific integration assessments, and fees that vary substantially from one canton to another. Some cantons require a formal interview. Others rely primarily on documentation. Canton Zug is known for a clear, structured application process and transparent integration criteria — a key reason why many of Morgan Hartley Consulting's internationally mobile clients choose Zug as their base.
 
 ### Communal Level
 
@@ -182,17 +182,17 @@ However, whether you can hold dual citizenship depends critically on **your othe
 - **Many Middle Eastern states:** Countries including Saudi Arabia, UAE, Kuwait, and others do not permit dual citizenship for their nationals. Acquiring Swiss citizenship would, under those countries' laws, result in automatic loss of the original nationality.
 - **India:** India does not permit dual citizenship. Indian nationals naturalising in Switzerland must renounce their Indian passport.
 
-This is a legal question that requires country-specific advice. Lawsupport works with international clients and can coordinate with counsel in the relevant home jurisdiction on citizenship compatibility.
+This is a legal question that requires country-specific advice. Morgan Hartley Consulting works with international clients and can coordinate with counsel in the relevant home jurisdiction on citizenship compatibility.
 
 ---
 
 ## The Zug Path to Citizenship
 
-Canton Zug holds a particular significance for internationally mobile professionals and entrepreneurs. Its combination of low cantonal and communal [tax rates](/tax-accounting/corporate-tax-switzerland/), a highly developed financial and corporate infrastructure, and proximity to Zurich has made it Switzerland's premier address for international business. It is also home to Lawsupport's offices at Baarerstrasse 135, 6300 Zug.
+Canton Zug holds a particular significance for internationally mobile professionals and entrepreneurs. Its combination of low cantonal and communal [tax rates](/tax-accounting/corporate-tax-switzerland/), a highly developed financial and corporate infrastructure, and proximity to Zurich has made it Switzerland's premier address for international business. It is also home to Morgan Hartley Consulting's offices at Baarerstrasse 135, 6300 Zug.
 
 From a naturalisation perspective, Zug is regarded as one of Switzerland's more efficient and predictable cantons. The cantonal integration requirements are clearly communicated. The communal naturalisation process in municipalities such as Zug city, Baar, and Steinhausen is structured and administratively competent. For applicants who have been resident in Zug throughout their qualifying period, the communal stage — while still requiring genuine integration — is not characterised by unpredictable discretion.
 
-Many of Lawsupport's clients begin their Swiss journey in Zug by [forming a company](/company-formation/company-formation-switzerland/) and establishing residence. For those with naturalisation as a long-term goal, establishing residence from day one — registering at the Einwohneramt immediately upon arrival, maintaining uninterrupted residence, and building genuine ties to the local community — is the only reliable strategy. The ten-year clock starts on the date of first registered legal residence in Switzerland, not on the date you first think about citizenship.
+Many of Morgan Hartley Consulting's clients begin their Swiss journey in Zug by [forming a company](/company-formation/company-formation-switzerland/) and establishing residence. For those with naturalisation as a long-term goal, establishing residence from day one — registering at the Einwohneramt immediately upon arrival, maintaining uninterrupted residence, and building genuine ties to the local community — is the only reliable strategy. The ten-year clock starts on the date of first registered legal residence in Switzerland, not on the date you first think about citizenship.
 
 ---
 
@@ -212,7 +212,7 @@ The [Swiss passport](/immigration/swiss-passport/) consistently ranks among the 
 
 ### The Zug Entrepreneur: Ten Years from Arrival to Passport
 
-A US technology entrepreneur relocated to Zug in March 2016. His first act on arrival was registering his residence at the Einwohnerkontrolle in Zug — on the same day — and incorporating his company through Lawsupport — see our [company formation Switzerland](/company-formation/company-formation-switzerland/) service. He held a B permit initially, transitioning to a C permit after five years of residence. He attended German language courses, joined a local sports association, and participated consistently in local political life. He submitted his naturalisation application in early 2025, one year before the ten-year threshold, to begin the administrative queue. In March 2026, following successful communal, cantonal, and federal approval, he received his Swiss citizenship. Total elapsed time from first residence registration: ten years and nine days.
+A US technology entrepreneur relocated to Zug in March 2016. His first act on arrival was registering his residence at the Einwohnerkontrolle in Zug — on the same day — and incorporating his company through Morgan Hartley Consulting — see our [company formation Switzerland](/company-formation/company-formation-switzerland/) service. He held a B permit initially, transitioning to a C permit after five years of residence. He attended German language courses, joined a local sports association, and participated consistently in local political life. He submitted his naturalisation application in early 2025, one year before the ten-year threshold, to begin the administrative queue. In March 2026, following successful communal, cantonal, and federal approval, he received his Swiss citizenship. Total elapsed time from first residence registration: ten years and nine days.
 
 ### The EU National Spouse: Facilitated Naturalisation in Eighteen Months
 
@@ -220,7 +220,7 @@ A French national living in Zug married her Swiss husband in 2021. She had been 
 
 ### Citizenship by Descent: Born Abroad to a Swiss Mother
 
-A person born in Canada in 1988 to a Swiss mother and Canadian father discovered their Swiss citizenship entitlement only in 2024, through consultation with Lawsupport. Their mother had been Swiss at the time of their birth — a fact sufficient under ius sanguinis to convey Swiss citizenship at birth. The process required registration of the birth with the Swiss consulate and submission of documentary evidence of the mother's citizenship status at the time of birth. No residence in Switzerland was required. Within fourteen months of initiating the registration process, the applicant held a Swiss passport — having lived their entire life outside Switzerland. For more, see [Swiss citizenship by descent](/immigration/swiss-citizenship-by-descent/).
+A person born in Canada in 1988 to a Swiss mother and Canadian father discovered their Swiss citizenship entitlement only in 2024, through consultation with Morgan Hartley Consulting. Their mother had been Swiss at the time of their birth — a fact sufficient under ius sanguinis to convey Swiss citizenship at birth. The process required registration of the birth with the Swiss consulate and submission of documentary evidence of the mother's citizenship status at the time of birth. No residence in Switzerland was required. Within fourteen months of initiating the registration process, the applicant held a Swiss passport — having lived their entire life outside Switzerland. For more, see [Swiss citizenship by descent](/immigration/swiss-citizenship-by-descent/).
 
 ---
 
@@ -248,15 +248,15 @@ One procedural detail that catches people off guard: work permit renewals must b
 
 ---
 
-## Start Your Journey with Lawsupport in Zug
+## Start Your Journey with Morgan Hartley Consulting in Zug
 
-Lawsupport (Morgan Hartley Consulting) has assisted clients from over 40 countries in establishing Swiss residency, forming Swiss companies, and working through the legal framework for long-term life in Switzerland. Since 2007, we have completed over 1,000 formations for internationally mobile clients — many of whom began their relationship with us at the residency stage and have since become Swiss citizens.
+Morgan Hartley Consulting (Morgan Hartley Consulting) has assisted clients from over 40 countries in establishing Swiss residency, forming Swiss companies, and working through the legal framework for long-term life in Switzerland. Since 2007, we have completed over 1,000 formations for internationally mobile clients — many of whom began their relationship with us at the residency stage and have since become Swiss citizens.
 
 If Swiss citizenship is part of your long-term plan, the right time to begin structuring your approach is now — not in year nine.
 
 **[Request a Free Assessment](/contacts/)**
 
-**Contact Lawsupport**
+**Contact Morgan Hartley Consulting**
 Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592
 Email: info@lawsupport.ch
@@ -365,4 +365,4 @@ There is no single national test. However, most cantons assess civic knowledge t
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

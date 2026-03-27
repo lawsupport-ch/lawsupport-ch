@@ -313,13 +313,13 @@ Yes. Even if you are registering a company name rather than a trademark, a Swiss
 
 Whether you are preparing a trademark filing, monitoring competitor registrations, or assessing infringement risk, a professional search goes beyond what Swissreg alone provides.
 
-Lawsupport advises on [trademark registration in Switzerland](/intellectual-property/trademark-registration-switzerland/), clearance searches, opposition proceedings, and broader [IP protection strategies](/intellectual-property/ip-protection-switzerland/). We work with IGE/IPI regularly and can assess your position before you file.
+Morgan Hartley Consulting advises on [trademark registration in Switzerland](/intellectual-property/trademark-registration-switzerland/), clearance searches, opposition proceedings, and broader [IP protection strategies](/intellectual-property/ip-protection-switzerland/). We work with IGE/IPI regularly and can assess your position before you file.
 
 For a direct conversation about your trademark situation, [request a free assessment](/contacts/).
 
 ---
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 Phone: +41 44 51 52 592 | Email: info@lawsupport.ch
 

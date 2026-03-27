@@ -26,7 +26,7 @@ tocItems:
   - id: "cross-border-m-and-a-considerations"
     title: "Cross-Border M&A Considerations"
   - id: "work-with-lawsupport-on-m-and-a"
-    title: "Work With Lawsupport on M&A"
+    title: "Work With Morgan Hartley Consulting on M&A"
 faqItems:
   - question: "How long does a typical Swiss M&A transaction take?"
     answer: "A straightforward SME acquisition takes 3-6 months from initial contact to closing. Larger transactions involving regulatory approvals, competition law filings, or complex due diligence can take 6-12 months. Cross-border transactions with multiple jurisdictions and regulatory requirements may extend to 12-18 months. The timeline is driven primarily by due diligence complexity, financing arrangements, and any required regulatory approvals."
@@ -305,16 +305,16 @@ Foreign buyers acquiring Swiss companies should be aware of:
 
 ---
 
-## Work With Lawsupport on M&A
+## Work With Morgan Hartley Consulting on M&A
 
-Lawsupport (Morgan Hartley Consulting) advises on Swiss M&A transactions from initial structuring through closing and post-merger integration. Our services include target screening, due diligence coordination, transaction documentation, and regulatory filings.
+Morgan Hartley Consulting (Morgan Hartley Consulting) advises on Swiss M&A transactions from initial structuring through closing and post-merger integration. Our services include target screening, due diligence coordination, transaction documentation, and regulatory filings.
 
 For related topics, see our guides on [buying a company in Switzerland](/corporate-transactions/buy-company-switzerland/), [due diligence](/corporate-transactions/due-diligence-switzerland/), and [corporate restructuring](/corporate-transactions/corporate-restructuring-switzerland/).
 
 **[Request a Free Assessment](/contacts/)** — or contact us directly:
 
 **Morgan Hartley, Senior Corporate Lawyer & Partner**
-Lawsupport (Morgan Hartley Consulting GmbH)
+Morgan Hartley Consulting (Morgan Hartley Consulting GmbH)
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592 | info@lawsupport.ch
 
@@ -366,4 +366,4 @@ Switzerland does not have specific venture capital legislation. VC investments a
 
 ---
 
-*Lawsupport (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+*Morgan Hartley Consulting (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*

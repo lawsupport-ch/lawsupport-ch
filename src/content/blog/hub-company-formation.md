@@ -43,7 +43,7 @@ tocItems:
   - id: "company-lifecycle-what-happens-after-formation"
     title: "Company Lifecycle: What Happens After Formation"
   - id: "why-businesses-choose-lawsupport"
-    title: "Why Businesses Choose Lawsupport"
+    title: "Why Businesses Choose Morgan Hartley Consulting"
 ---
 
 Switzerland remains one of the most attractive jurisdictions for company formation in Europe. Whether you are establishing a new entity, acquiring a ready-made shell or restructuring an existing business, the country offers political stability, moderate taxation, robust legal protections and direct access to European markets. This guide covers every stage of the process — from selecting the right entity type to understanding what happens years after incorporation.
@@ -340,9 +340,9 @@ If a company cannot pay its debts, the board has a legal duty to notify the cour
 
 For detailed coverage of lifecycle events including liquidation procedures, bankruptcy rules and debt enforcement, see our guide to the [company lifecycle in Switzerland](/company-formation/company-lifecycle-switzerland/).
 
-## Why Businesses Choose Lawsupport
+## Why Businesses Choose Morgan Hartley Consulting
 
-Lawsupport operates from Zug — one of Switzerland's most established corporate jurisdictions. The firm handles company formations, restructurings, shelf company transactions and ongoing corporate services for clients ranging from single-owner startups to international holding groups.
+Morgan Hartley Consulting operates from Zug — one of Switzerland's most established corporate jurisdictions. The firm handles company formations, restructurings, shelf company transactions and ongoing corporate services for clients ranging from single-owner startups to international holding groups.
 
 ### Practical experience
 
@@ -350,7 +350,7 @@ The team has processed hundreds of formations across multiple cantons. This volu
 
 ### Full-service approach
 
-Rather than handling incorporation in isolation, Lawsupport provides integrated support covering:
+Rather than handling incorporation in isolation, Morgan Hartley Consulting provides integrated support covering:
 
 - Entity selection and structuring advice
 - Nominee director and registered office services
@@ -369,4 +369,4 @@ Many clients are forming Swiss companies as part of a cross-border structure. Th
 
 Fees are quoted upfront. There are no hidden charges for standard services. Complex structures receive detailed cost estimates before work begins. This approach reflects the Swiss business culture of precision and reliability.
 
-If you are considering forming a company in Switzerland — whether a new entity, a shelf company acquisition or a branch office — Lawsupport can provide a concrete proposal within 48 hours. Contact the team to discuss your specific requirements.
+If you are considering forming a company in Switzerland — whether a new entity, a shelf company acquisition or a branch office — Morgan Hartley Consulting can provide a concrete proposal within 48 hours. Contact the team to discuss your specific requirements.

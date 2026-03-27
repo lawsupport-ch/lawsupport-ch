@@ -47,7 +47,7 @@ tocItems:
   - id: "real-world-scenario-software-patent-held-in-zug"
     title: "Real-World Scenario: Software Patent Held in Zug"
   - id: "how-lawsupport-helps"
-    title: "How Lawsupport Helps"
+    title: "How Morgan Hartley Consulting Helps"
   - id: "friction-block-why-patent-box-applications-fail"
     title: "Friction Block: Why Patent Box Applications Fail"
   - id: "case-study-dempe-analysis-failure"
@@ -266,9 +266,9 @@ Annual saving: approximately **CHF 163'000**. Over a five-year horizon, this exc
 
 ---
 
-## How Lawsupport Helps
+## How Morgan Hartley Consulting Helps
 
-At Lawsupport (Morgan Hartley Consulting), we have worked with technology, pharma, and IP-intensive businesses from over 40 countries for more than 18 years. Our Zug base gives us direct working relationships with the cantonal tax authorities and deep familiarity with the Patent Box process.
+At Morgan Hartley Consulting (Morgan Hartley Consulting), we have worked with technology, pharma, and IP-intensive businesses from over 40 countries for more than 18 years. Our Zug base gives us direct working relationships with the cantonal tax authorities and deep familiarity with the Patent Box process.
 
 We provide:
 
@@ -371,11 +371,11 @@ The cantonal tax authority expects detailed records of: the patent registration 
 
 **Request a Free Assessment**
 
-If your company holds patents or patent-equivalent IP rights, we can assess whether the Swiss Patent Box applies to your situation and estimate the potential tax saving. Morgan Hartley, Senior Corporate Lawyer & Partner at Lawsupport, reviews your situation and sets out the steps needed -- without obligation.
+If your company holds patents or patent-equivalent IP rights, we can assess whether the Swiss Patent Box applies to your situation and estimate the potential tax saving. Morgan Hartley, Senior Corporate Lawyer & Partner at Morgan Hartley Consulting, reviews your situation and sets out the steps needed -- without obligation.
 
 [Request a Free Assessment](/contacts/)
 
-**Lawsupport (Morgan Hartley Consulting)**
+**Morgan Hartley Consulting (Morgan Hartley Consulting)**
 Baarerstrasse 135, 6300 Zug, Switzerland
 +41 44 51 52 592
 info@lawsupport.ch
