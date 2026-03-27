@@ -2,6 +2,7 @@
 title: "Company Lifecycle in Switzerland: Liquidation, Bankruptcy & Debt Collection"
 description: "Swiss company liquidation, bankruptcy proceedings, and debt collection (Betreibung). Timelines, costs, director liability, and practical steps explained."
 date: "26.03.2026"
+pageLevel: 2
 category: "Company Formation"
 categoryHref: "/company-formation/"
 readTime: "11 min read"

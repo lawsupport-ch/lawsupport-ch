@@ -2,6 +2,7 @@
 title: "FINMA Licensing in Switzerland: Banking, Asset Management & FinSA"
 description: "FINMA licence categories explained: banking, asset management, securities firms and FinSA obligations. Application process, timeline and costs."
 date: "26.03.2026"
+pageLevel: 2
 category: "Licensing & Permits"
 categoryHref: "/licensing/"
 readTime: "13 min read"

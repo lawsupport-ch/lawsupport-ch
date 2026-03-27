@@ -12,6 +12,7 @@ const blog = defineCollection({
     categoryHref: z.string().default("/blog/"),
     readTime: z.string().default("5 min read"),
     heroImage: z.string().optional(),
+    pageLevel: z.number().default(3),
     faqItems: z
       .array(
         z.object({
@@ -25,6 +26,15 @@ const blog = defineCollection({
         z.object({
           id: z.string(),
           title: z.string(),
+        })
+      )
+      .default([]),
+    relatedArticles: z
+      .array(
+        z.object({
+          title: z.string(),
+          href: z.string(),
+          image: z.string().optional(),
         })
       )
       .default([]),

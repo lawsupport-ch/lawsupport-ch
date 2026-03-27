@@ -2,6 +2,7 @@
 title: "Trademark & Design Protection in Switzerland: Registration & Enforcement"
 description: "Register a trademark or design in Switzerland: IGE/IPI process, costs from CHF 550, Madrid Protocol, Swissreg search, and dispute resolution explained."
 date: "26.03.2026"
+pageLevel: 2
 category: "IP & Commercial Law"
 categoryHref: "/intellectual-property/"
 readTime: "14 min read"

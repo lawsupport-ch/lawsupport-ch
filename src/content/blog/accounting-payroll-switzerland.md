@@ -2,6 +2,7 @@
 title: "Accounting, Payroll & Social Insurance in Switzerland"
 description: "Swiss accounting standards, payroll obligations, social insurance contributions, audit thresholds and employer registration. Full back-office guide."
 date: "26.03.2026"
+pageLevel: 2
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"
 readTime: "15 min read"

@@ -5,13 +5,15 @@ import { getCocoon } from "../../lib/cocoon-map";
 
 export async function getStaticPaths() {
   const posts = await getCollection("blog");
-  return posts.map((post) => {
-    const cocoon = getCocoon(post.data.category);
-    return {
-      params: { cocoon, slug: post.id },
-      props: { post },
-    };
-  });
+  return posts
+    .filter((post) => (post.data.pageLevel || 3) !== 1)
+    .map((post) => {
+      const cocoon = getCocoon(post.data.category);
+      return {
+        params: { cocoon, slug: post.id },
+        props: { post },
+      };
+    });
 }
 
 const { post } = Astro.props;
@@ -31,6 +33,7 @@ const isScheduled = post.data.publishDate && new Date(post.data.publishDate) > n
   heroImage={post.data.heroImage}
   faqItems={post.data.faqItems}
   tocItems={post.data.tocItems}
+  relatedArticles={post.data.relatedArticles}
   robots={isScheduled ? "noindex, follow" : undefined}
 >
   <Content />

@@ -2,6 +2,7 @@
 title: "Crypto & Fintech Licensing in Switzerland: VASP, SRO & DLT"
 description: "Swiss crypto and fintech licensing: VASP registration, SRO membership, DLT trading facilities, ICO rules and fintech sandbox. Requirements and costs."
 date: "26.03.2026"
+pageLevel: 2
 category: "Licensing & Permits"
 categoryHref: "/licensing/"
 readTime: "14 min read"

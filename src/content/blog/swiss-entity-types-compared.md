@@ -2,6 +2,7 @@
 title: "Swiss Entity Types Compared: AG vs GmbH vs Sole Proprietorship"
 description: "Compare Swiss legal entity types — AG, GmbH, sole proprietorship, cooperative, foundation, Verein. Decision framework for choosing the right structure."
 date: "26.03.2026"
+pageLevel: 2
 category: "Company Formation"
 categoryHref: "/company-formation/"
 readTime: "12 min read"

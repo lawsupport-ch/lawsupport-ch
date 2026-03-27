@@ -2,6 +2,7 @@
 title: "Industry-Specific Licences in Switzerland: Trade, Healthcare & Export"
 description: "Non-financial licences in Switzerland: trade permits, healthcare authorisations, export controls, gold trading and hospitality. Federal vs cantonal requirements."
 date: "26.03.2026"
+pageLevel: 2
 category: "Licensing & Permits"
 categoryHref: "/licensing/"
 readTime: "12 min read"

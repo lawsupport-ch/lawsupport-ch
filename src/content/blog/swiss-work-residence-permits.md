@@ -2,6 +2,7 @@
 title: "Swiss Work & Residence Permits: B, C, L, G Permit Guide"
 description: "Compare Swiss B, C, L and G permits — eligibility, duration, costs and switching between permit types. Expert guidance from Lawsupport in Zug."
 date: "26.03.2026"
+pageLevel: 2
 category: "Immigration"
 categoryHref: "/immigration/"
 readTime: "12 min read"

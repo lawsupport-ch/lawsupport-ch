@@ -2,6 +2,7 @@
 title: "Swiss Corporate Tax: Rates, Returns & Cantonal Comparison"
 description: "Swiss corporate tax rates by canton, filing requirements, capital tax and cantonal differences. Federal and cantonal system explained for 2026."
 date: "26.03.2026"
+pageLevel: 2
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"
 readTime: "12 min read"

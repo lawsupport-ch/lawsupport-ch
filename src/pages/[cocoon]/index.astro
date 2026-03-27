@@ -1,6 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 import { COCOON_META, getCocoon } from '../../lib/cocoon-map';
 
 export async function getStaticPaths() {
@@ -18,8 +18,19 @@ const allPosts = await getCollection('blog', ({ data }) => {
   return new Date(data.publishDate) <= new Date();
 });
 
-const articles = allPosts
-  .filter(post => getCocoon(post.data.category) === cocoon)
+const cocoonPosts = allPosts.filter(post => getCocoon(post.data.category) === cocoon);
+
+// Find L1 hub content for this cocoon
+const hubPost = cocoonPosts.find(post => (post.data.pageLevel || 3) === 1);
+let HubContent: any = null;
+if (hubPost) {
+  const rendered = await render(hubPost);
+  HubContent = rendered.Content;
+}
+
+// Get L2 (Mixed) pages only for card grid
+const l2Articles = cocoonPosts
+  .filter(post => (post.data.pageLevel || 3) === 2)
   .sort((a, b) => {
     const dateA = a.data.date.split('.').reverse().join('-');
     const dateB = b.data.date.split('.').reverse().join('-');
@@ -28,8 +39,6 @@ const articles = allPosts
   .map(post => ({
     title: post.data.title,
     href: `/${cocoon}/${post.id}/`,
-    category: post.data.category,
-    date: post.data.date,
     description: post.data.description,
   }));
 
@@ -51,7 +60,7 @@ const schema = [
 ];
 ---
 
-<Base title={`${meta.title} — Guides & Articles`} description={meta.description} schema={schema}>
+<Base title={`${meta.title} — Guides & Articles`} description={hubPost?.data.description || meta.description} schema={schema}>
 
   <div class="container">
     <nav class="breadcrumb">
@@ -59,36 +68,52 @@ const schema = [
     </nav>
   </div>
 
-  <section class="section">
+  <section class="section hub-hero">
     <div class="container">
       <h1>{meta.title}</h1>
-      <p class="cocoon-lead">{meta.description}</p>
-      <div class="grid-3">
-        {articles.map(article => (
-          <a href={article.href} class="card">
-            <div class="card-body">
-              <span class="blog-card-category">{article.category}</span>
-              <h3>{article.title}</h3>
-              <span class="blog-card-date">{article.date}</span>
-            </div>
-          </a>
-        ))}
-      </div>
+      {hubPost ? (
+        <div class="hub-content">
+          <HubContent />
+        </div>
+      ) : (
+        <p class="cocoon-lead">{meta.description}</p>
+      )}
     </div>
   </section>
+
+  {l2Articles.length > 0 && (
+    <section class="section">
+      <div class="container">
+        <h2 class="section-title">Explore by Topic</h2>
+        <div class="grid-3">
+          {l2Articles.map(article => (
+            <a href={article.href} class="card l2-card">
+              <div class="card-body">
+                <h3>{article.title}</h3>
+                <p class="l2-desc">{article.description}</p>
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
 
 </Base>
 
 <style>
+  .hub-content { max-width: 800px; line-height: 1.75; }
+  .hub-content :global(h2) { margin-top: 48px; margin-bottom: 16px; font-size: 1.5rem; }
+  .hub-content :global(h3) { margin-top: 32px; margin-bottom: 12px; font-size: 1.2rem; }
+  .hub-content :global(p) { margin-bottom: 16px; color: var(--gray-text); }
+  .hub-content :global(a) { color: var(--red); text-decoration: underline; }
+  .hub-content :global(table) { width: 100%; border-collapse: collapse; margin: 24px 0; }
+  .hub-content :global(th), .hub-content :global(td) { padding: 10px 14px; border: 1px solid #ddd; text-align: left; font-size: 0.9rem; }
+  .hub-content :global(th) { background: #f5f5f5; font-weight: 600; }
+  .hub-content :global(ul), .hub-content :global(ol) { margin: 16px 0; padding-left: 24px; }
+  .hub-content :global(li) { margin-bottom: 8px; color: var(--gray-text); }
   .cocoon-lead { color: var(--gray-text); margin: 12px 0 40px; max-width: 700px; }
-  .blog-card-category {
-    display: inline-block;
-    font-size: 0.75rem;
-    font-weight: 600;
-    color: var(--red);
-    margin-bottom: 8px;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-  }
-  .blog-card-date { font-size: 0.8rem; color: var(--gray-text); margin-top: 8px; display: block; }
+  .l2-card { border-left: 4px solid var(--red); }
+  .l2-desc { font-size: 0.85rem; color: var(--gray-text); margin-top: 8px; }
+  .section-title { margin-bottom: 32px; }
 </style>
