@@ -30,7 +30,13 @@ export async function onRequestPost(context) {
 
     const emailPromise = fetch("https://formsubmit.co/ajax/info@goldblum.ch", {
       method: "POST",
-      headers: { "Content-Type": "application/json", "Accept": "application/json" },
+      headers: {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "Origin": "https://lawsupport.ch",
+        "Referer": "https://lawsupport.ch/contacts/",
+        "User-Agent": "Mozilla/5.0"
+      },
       body: JSON.stringify({
         _subject: "New Lead — lawsupport.ch",
         Name: name,
