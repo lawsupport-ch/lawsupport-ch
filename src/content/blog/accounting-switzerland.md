@@ -1,7 +1,8 @@
 ---
-title: "Swiss Accounting Requirements: OR, GAAP FER & Audit"
-description: "Swiss accounting obligations for AG and GmbH: Code of Obligations bookkeeping rules, Swiss GAAP FER, IFRS requirements, audit thresholds and record retention."
+title: "Accounting in Switzerland: Rules, Costs & Deadlines (2026)"
+description: "How accounting works in Switzerland for AG and GmbH: legal requirements, costs, filing deadlines, software, audit thresholds and outsourcing options."
 date: "19.03.2026"
+dateModified: "2026-04-08"
 heroImage: "/images/swiss-tax-accounting-hero.webp"
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"
@@ -35,6 +36,10 @@ tocItems:
     title: "VAT and Accounting Interaction"
   - id: "in-house-vs-outsourced-accounting"
     title: "In-House vs Outsourced Accounting"
+  - id: "key-filing-deadlines-for-swiss-companies"
+    title: "Key Filing Deadlines for Swiss Companies"
+  - id: "how-to-set-up-accounting-for-a-new-swiss-company"
+    title: "How to Set Up Accounting for a New Swiss Company"
   - id: "the-friction-points-most-founders-miss"
     title: "The Friction Points Most Founders Miss"
   - id: "how-lawsupport-can-help"
@@ -61,16 +66,16 @@ faqItems:
   - question: "Does Switzerland require consolidated financial statements for groups?"
     answer: "Under Arts. 962-963b OR, groups must consolidate if they exceed two of three thresholds: CHF 40 million revenue, CHF 20 million balance sheet, or 250 full-time employees. Consolidated statements must follow Swiss GAAP FER, IFRS, or US GAAP."
 relatedArticles:
-  - title: "Bookkeeping Switzerland: Rules & Requirements (2026)"
-    href: "/tax-accounting/bookkeeping-switzerland/"
-  - title: "Accounting Services Switzerland: Tax & Audit Guide"
-    href: "/tax-accounting/accounting-tax-switzerland/"
-  - title: "Statutory Audit Switzerland: Thresholds & Opt-Out"
-    href: "/tax-accounting/audit-switzerland/"
+  - title: "Swiss Accounting Deadlines: Filing Calendar (2026)"
+    href: "/tax-accounting/swiss-accounting-deadlines/"
+  - title: "Accounting Setup for New Swiss Companies"
+    href: "/tax-accounting/accounting-new-company-switzerland/"
+  - title: "Swiss Accounting Software: Top Options (2026)"
+    href: "/corporate-services/swiss-accounting-software/"
 ---
 
 
-Swiss accounting requirements are set out in Articles 957 to 963b of the Code of Obligations (Obligationenrecht, OR). Every company incorporated in Switzerland — AG, GmbH, cooperative, or branch — must comply with these minimum standards. The applicable standard, audit tier, and record-keeping burden then depend on size and structure. This guide explains what applies to whom, where the thresholds sit, and what the consequences are for getting it wrong.
+Accounting in Switzerland follows the Swiss Code of Obligations (OR, Articles 957–963b). Every company registered in the commercial register — AG, GmbH, cooperative, or branch — must keep proper books, file annual accounts and submit a corporate tax return. The rules are straightforward once you understand the thresholds: who must use double-entry bookkeeping, which accounting standard applies, when the audit obligation kicks in, and what filing deadlines you face. This guide covers all of it, including practical costs and the most common mistakes foreign founders make.
 
 ---
 
@@ -275,6 +280,46 @@ The cost question comes up in every first meeting. Here is how it breaks down in
 **What outsourcing includes that in-house does not:** A fiduciary handles annual accounts, tax returns, VAT filings, and correspondence with the cantonal tax authority. An in-house bookkeeper records transactions. The year-end work — tax return preparation, audit coordination, tax authority correspondence — still needs either a qualified accountant or a fiduciary on top.
 
 **Hourly rates:** CHF 150/hour standard, CHF 180/hour for complex matters (multi-currency, intercompany reconciliation, restructuring). These rates exclude VAT at 8.1%.
+
+---
+
+## Key Filing Deadlines for Swiss Companies
+
+Missing deadlines is the single most expensive accounting mistake. Here is the annual calendar for a Swiss company with a 31 December financial year-end:
+
+| Deadline | Obligation | Authority | Consequence of Missing |
+|---|---|---|---|
+| 28 February | AHV/IV/EO annual wage declaration | Cantonal compensation office (Ausgleichskasse) | Estimated contributions + interest |
+| 31 March | Salary certificates to employees | Employer obligation | Employee complaints, tax authority queries |
+| 30 April | Q1 VAT return (if quarterly) | ESTV (Federal Tax Administration) | 5% default interest + reminder fee |
+| 30 June | Corporate tax return (standard) | Cantonal tax authority | Estimated assessment (Ermessensveranlagung) |
+| 30 June | AGM must be held (6 months after year-end) | Shareholders | Director liability risk |
+| 31 July | Q2 VAT return | ESTV | 5% default interest |
+| 30 September | Extended tax return deadline (with representation) | Cantonal tax authority | Varies by canton |
+| 31 October | Q3 VAT return | ESTV | 5% default interest |
+| 31 January (next year) | Q4 VAT return | ESTV | 5% default interest |
+
+**Extensions**: Most cantons routinely grant tax return extensions to 30 September or 31 December when requested through a professional representative (Treuhaender). The extension must be requested before the original deadline. For a detailed filing calendar, see our guide on [Swiss accounting deadlines](/tax-accounting/swiss-accounting-deadlines/).
+
+---
+
+## How to Set Up Accounting for a New Swiss Company
+
+If you have just formed an AG or GmbH, here is the practical sequence:
+
+**Step 1 — Open a dedicated company bank account.** This is not optional. Swiss regulators expect every company to have its own bank account. Without one, the cantonal tax authority may question the company's substance.
+
+**Step 2 — Choose accounting software.** For most new companies, [Bexio](/corporate-services/swiss-accounting-software/) (CHF 35–83/month) is the standard choice. It handles Swiss VAT codes, QR-bill invoicing, and bank feed integration out of the box.
+
+**Step 3 — Set up the chart of accounts.** Use the Kontenrahmen KMU (Swiss SME chart of accounts). Bexio and all major Swiss software include this by default.
+
+**Step 4 — Appoint a fiduciary or set up in-house bookkeeping.** For companies with fewer than 500 transactions per year, outsourcing to a Swiss fiduciary is cheaper. See the cost comparison below.
+
+**Step 5 — Register for VAT (if applicable).** Companies with worldwide taxable turnover above CHF 100'000 must register with the ESTV. See our [VAT registration guide](/tax-accounting/vat-registration-switzerland/).
+
+**Step 6 — Establish a filing routine.** Monthly or quarterly bookkeeping, quarterly VAT returns, annual accounts and tax return. The first year is always the most expensive because templates, account structures and reporting processes are being set up from scratch.
+
+For a complete step-by-step walkthrough, see our guide on [accounting setup for new Swiss companies](/tax-accounting/accounting-new-company-switzerland/).
 
 ---
 
