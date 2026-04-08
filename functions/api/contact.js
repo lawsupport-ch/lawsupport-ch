@@ -35,8 +35,7 @@ export async function onRequestPost(context) {
         "Content-Type": "application/json",
         "Accept": "application/json",
         "Origin": "https://lawsupport.ch",
-        "Referer": "https://lawsupport.ch/contacts/",
-        "User-Agent": "Mozilla/5.0"
+        "Referer": "https://lawsupport.ch/contacts/"
       },
       body: JSON.stringify({
         _subject: "New Lead — lawsupport.ch",
@@ -46,9 +45,10 @@ export async function onRequestPost(context) {
         Message: message,
         _template: "table"
       })
-    }).catch(() => {});
+    }).then(r => r.json().catch(() => ({}))).catch(() => ({}));
 
-    const [tgRes] = await Promise.all([tgPromise, emailPromise]);
+    const [tgRes, emailRes] = await Promise.all([tgPromise, emailPromise]);
+    console.log("formsubmit response:", JSON.stringify(emailRes));
 
     if (!tgRes.ok) {
       return new Response(JSON.stringify({ error: "Telegram error" }), {
