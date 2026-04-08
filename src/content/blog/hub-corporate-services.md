@@ -76,7 +76,7 @@ For a complete overview of infrastructure options including virtual offices, nom
 
 ## Registered Address and Domicile
 
-Every Swiss company must have a registered address (Sitz) that appears in the commercial register. This address defines the company's legal domicile, determines which cantonal tax authority has jurisdiction, and serves as the official address for legal correspondence.
+Every Swiss company must have a registered address (Sitz) that appears in the <a href="https://www.zefix.ch/en/search/entity/welcome" target="_blank" rel="nofollow noopener">commercial register</a>. This address defines the company's legal domicile, determines which cantonal tax authority has jurisdiction, and serves as the official address for legal correspondence.
 
 ### Requirements
 

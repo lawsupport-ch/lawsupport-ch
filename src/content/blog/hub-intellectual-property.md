@@ -89,7 +89,7 @@ Switzerland is also party to all major international IP treaties: the Paris Conv
 
 ## IGE/IPI: The Swiss IP Office
 
-The Swiss Federal Institute of Intellectual Property (IGE/IPI) is the national authority for trademarks, patents, and designs. Based in Bern, it serves as the single point of contact for all IP registration matters in Switzerland.
+The <a href="https://www.ige.ch/en/" target="_blank" rel="nofollow noopener">Swiss Federal Institute of Intellectual Property (IGE/IPI)</a> is the national authority for trademarks, patents, and designs. Based in Bern, it serves as the single point of contact for all IP registration matters in Switzerland.
 
 IGE/IPI's functions include:
 

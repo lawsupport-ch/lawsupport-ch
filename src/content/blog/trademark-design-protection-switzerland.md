@@ -73,7 +73,7 @@ Swiss intellectual property law provides two distinct forms of protection releva
 
 **Design protection** under the **Design Act (Designgesetz/DesG)** protects the visual appearance of products — shape, configuration, patterns, and ornamentation. Registration provides exclusive rights for 5 years, renewable up to 25 years.
 
-Both forms of protection are administered by [IGE/IPI](/intellectual-property/ige-ipi-switzerland/) (Institut fuer Geistiges Eigentum / Swiss Federal Institute of Intellectual Property), based in Bern.
+Both forms of protection are administered by [IGE/IPI](/intellectual-property/ige-ipi-switzerland/) (Institut fuer Geistiges Eigentum / <a href="https://www.ige.ch/en/" target="_blank" rel="nofollow noopener">Swiss Federal Institute of Intellectual Property</a>), based in Bern.
 
 Key distinctions:
 - **Trademarks** protect commercial identity — they tell consumers who provides the goods or services

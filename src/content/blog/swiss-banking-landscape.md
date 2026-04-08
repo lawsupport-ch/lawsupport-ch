@@ -83,7 +83,7 @@ The [full list of Swiss banks](/banking/swiss-banks-list/) includes institutions
 
 ## FINMA: The Financial Market Supervisory Authority
 
-FINMA (Eidgenoessische Finanzmarktaufsicht) was established on 1 January 2009 under the **Financial Market Supervision Act (FINMAG)**, consolidating three predecessor authorities: the Federal Banking Commission (EBK), the Federal Office of Private Insurance (BPV), and the Anti-Money Laundering Control Authority.
+<a href="https://www.finma.ch/en/" target="_blank" rel="nofollow noopener">FINMA</a> (Eidgenoessische Finanzmarktaufsicht) was established on 1 January 2009 under the **Financial Market Supervision Act (FINMAG)**, consolidating three predecessor authorities: the Federal Banking Commission (EBK), the Federal Office of Private Insurance (BPV), and the Anti-Money Laundering Control Authority.
 
 FINMA's responsibilities include:
 
@@ -100,7 +100,7 @@ For businesses requiring financial licences, the FINMA application process is th
 
 ## The Swiss National Bank
 
-The [Swiss National Bank (SNB)](/banking/swiss-national-bank/) is Switzerland's central bank, established in 1907. Unlike most central banks, the SNB is organised as a joint-stock company listed on the SIX Swiss Exchange, with the Confederation and cantons holding the majority of shares.
+The [Swiss National Bank (SNB)](/banking/swiss-national-bank/) is Switzerland's central bank, established in 1907. Full details on its mandate, policy decisions, and publications are available on the <a href="https://www.snb.ch/en/" target="_blank" rel="nofollow noopener">SNB official website</a>. Unlike most central banks, the SNB is organised as a joint-stock company listed on the SIX Swiss Exchange, with the Confederation and cantons holding the majority of shares.
 
 The SNB's core functions:
 

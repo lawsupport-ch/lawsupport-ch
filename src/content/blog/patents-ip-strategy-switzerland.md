@@ -88,7 +88,7 @@ This layered approach ensures that competitors cannot replicate the product, the
 
 ## Patent Registration in Switzerland
 
-[Patent registration in Switzerland](/intellectual-property/patent-registration-switzerland/) is administered by IGE/IPI under the **Federal Act on Patents for Inventions (PatG/LBI)**.
+[Patent registration in Switzerland](/intellectual-property/patent-registration-switzerland/) is administered by <a href="https://www.ige.ch/en/" target="_blank" rel="nofollow noopener">IGE/IPI</a> under the **Federal Act on Patents for Inventions (PatG/LBI)**.
 
 ### Patentability Requirements
 
@@ -154,7 +154,7 @@ The EU Unitary Patent (in force since June 2023) provides single-filing protecti
 **Services:**
 - **Registration** — processes trademark, patent, and design applications
 - **Information** — maintains the Swissreg online database and provides IP consultations
-- **International liaison** — represents Switzerland at WIPO, EPO, and in international IP treaty negotiations
+- **International liaison** — represents Switzerland at <a href="https://www.wipo.int/portal/en/" target="_blank" rel="nofollow noopener">WIPO</a>, EPO, and in international IP treaty negotiations
 - **Policy advice** — advises the Federal Council on IP legislation and policy
 
 **Contact and filing:**

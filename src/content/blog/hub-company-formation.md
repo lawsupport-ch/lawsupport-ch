@@ -56,11 +56,11 @@ Three factors consistently draw entrepreneurs and international groups to Switze
 
 Switzerland operates a three-tier tax system — federal, cantonal and municipal. The federal corporate income tax rate sits at 8.5% (effective rate on profit before tax). Cantonal and municipal rates vary significantly, creating genuine opportunities for tax planning through location choice alone. Cantons such as Zug, Nidwalden and Appenzell Innerrhoden have effective combined rates below 12%, while Zurich and Geneva sit closer to 19-21%.
 
-This is not a secrecy jurisdiction. Switzerland participates in the OECD Common Reporting Standard (CRS), exchanges tax information under bilateral agreements and maintains a transparent Commercial Register (Handelsregister) accessible to the public. The advantage lies in legitimate rate arbitrage between cantons — a feature built into the constitutional structure of the confederation.
+This is not a secrecy jurisdiction. Switzerland participates in the OECD Common Reporting Standard (CRS), exchanges tax information under bilateral agreements and maintains a transparent Commercial Register (<a href="https://www.zefix.ch/en/search/entity/welcome" target="_blank" rel="nofollow noopener">Handelsregister</a>) accessible to the public. The advantage lies in legitimate rate arbitrage between cantons — a feature built into the constitutional structure of the confederation.
 
 ### Legal predictability
 
-The Swiss Code of Obligations (Obligationenrecht, OR) governs company law. It has been refined over more than a century and provides clear rules on incorporation, governance, shareholder rights and dissolution. Court decisions are published and reasoned. Regulatory changes are introduced through democratic processes, often preceded by multi-year consultation periods. Businesses can plan with confidence that the rules will not shift overnight.
+The <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en" target="_blank" rel="nofollow noopener">Swiss Code of Obligations</a> (Obligationenrecht, OR) governs company law. It has been refined over more than a century and provides clear rules on incorporation, governance, shareholder rights and dissolution. Court decisions are published and reasoned. Regulatory changes are introduced through democratic processes, often preceded by multi-year consultation periods. Businesses can plan with confidence that the rules will not shift overnight.
 
 ### International reputation
 

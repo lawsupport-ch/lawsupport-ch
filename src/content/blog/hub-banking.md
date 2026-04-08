@@ -78,13 +78,13 @@ The current structure includes several distinct bank categories, each serving di
 
 ### The Swiss National Bank
 
-The Swiss National Bank (SNB) sits at the centre of the financial system. It conducts monetary policy, issues banknotes, manages Switzerland's foreign exchange reserves, and acts as lender of last resort. The SNB sets the policy rate (currently 1.50% as of early 2026) and intervenes in currency markets when necessary to manage the value of the Swiss franc.
+The <a href="https://www.snb.ch/en/" target="_blank" rel="nofollow noopener">Swiss National Bank (SNB)</a> sits at the centre of the financial system. It conducts monetary policy, issues banknotes, manages Switzerland's foreign exchange reserves, and acts as lender of last resort. The SNB sets the policy rate (currently 1.50% as of early 2026) and intervenes in currency markets when necessary to manage the value of the Swiss franc.
 
 The SNB is organised as a joint-stock company with the Confederation and cantons as majority shareholders — an unusual structure for a central bank. Its independence from government is constitutionally guaranteed.
 
 ### FINMA
 
-FINMA (Eidgenoessische Finanzmarktaufsicht) is Switzerland's integrated financial market supervisor, established in 2009 to replace three predecessor authorities. It licences and supervises banks, insurance companies, securities dealers, collective investment schemes, and financial market infrastructures. FINMA operates independently from the federal government and is funded entirely by fees levied on supervised institutions.
+<a href="https://www.finma.ch/en/" target="_blank" rel="nofollow noopener">FINMA</a> (Eidgenoessische Finanzmarktaufsicht) is Switzerland's integrated financial market supervisor, established in 2009 to replace three predecessor authorities. It licences and supervises banks, insurance companies, securities dealers, collective investment schemes, and financial market infrastructures. FINMA operates independently from the federal government and is funded entirely by fees levied on supervised institutions.
 
 FINMA's role extends beyond banking. It also oversees anti-money laundering compliance, capital adequacy, and systemic risk management. For anyone establishing a financial services business in Switzerland, understanding FINMA's requirements is the first step. Our [Swiss banking system guide](/banking/swiss-banking-landscape/) covers FINMA's structure and regulatory approach in detail.
 

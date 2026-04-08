@@ -62,8 +62,8 @@ Swiss employment law balances employer flexibility with employee protection thro
 
 Employment relationships in Switzerland are governed primarily by federal law. There is no single employment code — the rules are spread across multiple statutes, each addressing different aspects of the relationship:
 
-- **Code of Obligations (OR) Art. 319-362**: Core employment law — contract formation, notice periods, termination, non-compete clauses, overtime, and employee protections
-- **Labour Act (ArG)**: Working hours, rest periods, night work, Sunday work, and health/safety requirements
+- **<a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en" target="_blank" rel="nofollow noopener">Code of Obligations (OR)</a> Art. 319-362**: Core employment law — contract formation, notice periods, termination, non-compete clauses, overtime, and employee protections
+- **Labour Act (ArG)**: Working hours, rest periods, night work, Sunday work, and health/safety requirements. The <a href="https://www.seco.admin.ch/seco/en/home/Arbeit/Arbeitsbedingungen.html" target="_blank" rel="nofollow noopener">State Secretariat for Economic Affairs (SECO)</a> publishes detailed guidance on working conditions and labour standards
 - **Federal Act on Gender Equality (GlG)**: Prohibition of gender-based discrimination in employment
 - **Social insurance acts**: AHV/IV, ALV, BVG, UVG, and other mandatory insurance schemes
 

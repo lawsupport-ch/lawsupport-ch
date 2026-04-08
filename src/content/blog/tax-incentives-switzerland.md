@@ -66,7 +66,7 @@ This page explains each incentive, who qualifies, and how they interact. A decis
 
 ## Swiss Tax Incentives Overview
 
-The 2020 Federal Act on Tax Reform and AHV Financing (TRAF/STAF) replaced Switzerland's legacy holding, mixed company, and domiciliary regimes with a new set of OECD-compliant incentives. These are available to all qualifying companies regardless of the origin of their shareholders.
+The 2020 Federal Act on Tax Reform and AHV Financing (TRAF/STAF) replaced Switzerland's legacy holding, mixed company, and domiciliary regimes with a new set of OECD-compliant incentives. The <a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">Federal Tax Administration (ESTV)</a> administers the federal tax component, while cantons implement the incentive tools. These are available to all qualifying companies regardless of the origin of their shareholders.
 
 The current incentive toolkit includes:
 
@@ -82,7 +82,7 @@ The current incentive toolkit includes:
 
 Each incentive operates independently but is subject to a combined relief cap — the total reduction from patent box, R&D deduction, and NID cannot exceed 70% of cantonal taxable income.
 
-For an overview of the broader [Swiss tax incentives](/tax-accounting/swiss-tax-incentives/) environment, including cantonal implementation differences, see our dedicated article.
+For an overview of the broader [Swiss tax incentives](/tax-accounting/swiss-tax-incentives/) environment, including cantonal implementation differences, see our dedicated article. The <a href="https://www.kmu.admin.ch/kmu/en/home.html" target="_blank" rel="nofollow noopener">Swiss SME Portal</a> also provides guidance on tax tools available to small and medium-sized enterprises.
 
 ---
 

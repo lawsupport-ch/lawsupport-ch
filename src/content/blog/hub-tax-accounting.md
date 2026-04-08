@@ -158,7 +158,7 @@ For full coverage of treaties, holding structures, transfer pricing and cross-bo
 
 ## VAT Obligations
 
-Value Added Tax (Mehrwertsteuer, MWST) is a federal consumption tax administered by the Federal Tax Administration (FTA). It applies to most supplies of goods and services within Switzerland.
+Value Added Tax (Mehrwertsteuer, MWST) is a federal consumption tax administered by the <a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">Federal Tax Administration (FTA)</a>. It applies to most supplies of goods and services within Switzerland.
 
 ### Registration threshold
 

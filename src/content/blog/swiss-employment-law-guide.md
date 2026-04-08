@@ -69,11 +69,11 @@ This guide covers the key elements of Swiss employment law: [employment contract
 
 [Swiss employment law](/employment-law/employment-law-switzerland/) is governed by three main sources:
 
-**1. Code of Obligations (OR) — Art. 319-362:**
+**1. <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en" target="_blank" rel="nofollow noopener">Code of Obligations (OR)</a> — Art. 319-362:**
 The primary statute governing individual employment relationships. Covers contract formation, rights and obligations of employer and employee, termination, and protection against abusive dismissal. The OR provisions are partly mandatory (cannot be contracted away) and partly dispositive (can be modified by agreement).
 
 **2. Labour Act (Arbeitsgesetz/ArG) and Ordinances:**
-Regulates health and safety, working hours, rest periods, night and Sunday work, and protection of young workers and pregnant employees. The ArG is public law — its provisions are mandatory and cannot be reduced by contract.
+Regulates health and safety, working hours, rest periods, night and Sunday work, and protection of young workers and pregnant employees. The ArG is public law — its provisions are mandatory and cannot be reduced by contract. <a href="https://www.seco.admin.ch/seco/en/home/Arbeit/Arbeitsbedingungen.html" target="_blank" rel="nofollow noopener">SECO</a> publishes guidance and commentary on working conditions.
 
 **3. Collective Labour Agreements (GAV/CCT):**
 Sector-specific agreements between employer associations and trade unions. Where a GAV applies (either by employer membership in the association or by declaration of general binding force), its terms override less favourable contract provisions.

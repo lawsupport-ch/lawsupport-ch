@@ -159,7 +159,7 @@ For practical guidance on conducting due diligence in Swiss M&A, see our [M&A gu
 
 ## Corporate Restructuring
 
-The Federal Merger Act (FusG/LFus) provides four types of corporate restructuring:
+The <a href="https://www.fedlex.admin.ch/eli/cc/2004/320/en" target="_blank" rel="nofollow noopener">Federal Merger Act (FusG/LFus)</a> provides four types of corporate restructuring:
 
 ### Merger (Fusion)
 
@@ -189,7 +189,7 @@ A company transfers assets, liabilities, and contractual relationships to anothe
 
 ### WEKO/COMCO Merger Control
 
-The Swiss Competition Commission (WEKO/COMCO) reviews mergers and acquisitions that meet the notification thresholds:
+The <a href="https://www.weko.admin.ch/weko/en/home.html" target="_blank" rel="nofollow noopener">Swiss Competition Commission (WEKO/COMCO)</a> reviews mergers and acquisitions that meet the notification thresholds:
 
 - Combined worldwide turnover exceeds CHF 2 billion, **or** combined Swiss turnover exceeds CHF 500 million
 - **And** at least two parties individually have Swiss turnover exceeding CHF 100 million

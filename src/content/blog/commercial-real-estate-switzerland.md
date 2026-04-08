@@ -65,7 +65,7 @@ This guide covers office rental prices by city, lease structures, the VAT questi
 
 ## The Key Advantage: No Lex Koller Restriction
 
-No foreign ownership restrictions apply to commercial or industrial property acquired for genuine business activity. Lex Koller explicitly excludes it from its authorisation requirements under BewG Article 7(1)(b). A foreign-controlled company can buy an office building in Zurich or a warehouse in Basel without any permit, provided the property serves a genuine business purpose.
+No foreign ownership restrictions apply to commercial or industrial property acquired for genuine business activity. Lex Koller explicitly excludes it from its authorisation requirements under <a href="https://www.fedlex.admin.ch/eli/cc/1984/1148_1148_1148/en" target="_blank" rel="nofollow noopener">BewG Article 7(1)(b)</a>. A foreign-controlled company can buy an office building in Zurich or a warehouse in Basel without any permit, provided the property serves a genuine business purpose.
 
 This is the single most important distinction in Swiss property law for foreign investors. While residential property remains locked behind permit requirements and quotas, commercial property is open.
 

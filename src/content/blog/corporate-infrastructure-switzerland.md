@@ -67,7 +67,7 @@ This guide covers every element of Swiss corporate infrastructure: [registered a
 
 ## What Is Corporate Infrastructure?
 
-Corporate infrastructure refers to the physical, administrative, and compliance framework required to operate a Swiss company lawfully. Swiss law imposes specific requirements on all registered entities:
+Corporate infrastructure refers to the physical, administrative, and compliance framework required to operate a Swiss company lawfully. Swiss law — principally the <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en" target="_blank" rel="nofollow noopener">Code of Obligations</a> — imposes specific requirements on all registered entities:
 
 1. **Registered address (Sitz)** — a physical address in Switzerland entered in the commercial register
 2. **Swiss-resident representative** — at least one person with signatory authority domiciled in Switzerland

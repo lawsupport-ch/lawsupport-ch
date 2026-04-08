@@ -83,7 +83,7 @@ These obligations begin from the date of incorporation and continue until the co
 
 ## Accounting Standards and Legal Requirements
 
-Swiss [accounting requirements](/tax-accounting/accounting-switzerland/) are set out in the Code of Obligations (Art. 957-963b). The level of complexity depends on the company's size:
+Swiss [accounting requirements](/tax-accounting/accounting-switzerland/) are set out in the <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en" target="_blank" rel="nofollow noopener">Code of Obligations (Art. 957-963b)</a>. The level of complexity depends on the company's size:
 
 **All companies** must:
 - Maintain books and records
@@ -167,7 +167,7 @@ The [Swiss social insurance system](/tax-accounting/social-insurance-switzerland
 - Mandatory for all employed and self-employed persons
 - Combined contribution: 10.6% of gross salary (split equally)
 - No upper salary cap — contributions apply to the full salary
-- Administered by cantonal compensation offices (Ausgleichskassen)
+- Administered by cantonal compensation offices (<a href="https://www.ahv-iv.ch/en/Social-insurances/Old-age-and-survivors-insurance-OASI" target="_blank" rel="nofollow noopener">Ausgleichskassen</a>)
 
 **Second pillar — BVG** (occupational pension):
 - Mandatory for employees earning above the entry threshold (CHF 22'050 in 2026)

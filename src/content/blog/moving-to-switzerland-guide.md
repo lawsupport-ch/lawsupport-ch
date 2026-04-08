@@ -68,7 +68,7 @@ For personalised relocation planning, [contact Morgan Hartley Consulting](/conta
 
 ## Before You Move: Visa and Entry Requirements
 
-Your first step depends on your nationality. The [Swiss visa](/immigration/swiss-visa/) system distinguishes three categories:
+Your first step depends on your nationality. The [Swiss visa](/immigration/swiss-visa/) system, administered by the <a href="https://www.sem.admin.ch/sem/en/home.html" target="_blank" rel="nofollow noopener">State Secretariat for Migration (SEM)</a>, distinguishes three categories:
 
 **EU/EFTA nationals**: no visa required. Enter Switzerland freely, then apply for a residence permit (B or L) within 14 days of arrival. You need an employment contract or proof of sufficient financial means.
 
@@ -194,7 +194,7 @@ Cantons enforce Lex Koller with varying strictness. Tourist cantons (Valais, Gra
 
 **Social security**: Switzerland operates a three-pillar pension system. The first pillar (AHV/AVS) is mandatory and deducted from salary. The second pillar (BVG/LPP) is employer-sponsored pension. The third pillar (3a) is voluntary personal savings with tax benefits.
 
-Bilateral social security agreements with over 40 countries prevent double contributions and allow combining work periods for benefit calculations.
+Bilateral social security agreements with over 40 countries prevent double contributions and allow combining work periods for benefit calculations. The <a href="https://www.ch.ch/en/" target="_blank" rel="nofollow noopener">ch.ch</a> portal provides practical guides on registration, insurance, and daily life for new residents.
 
 ---
 

@@ -68,7 +68,7 @@ For a personalised assessment of your eligibility, [contact Morgan Hartley Consu
 
 ## Routes to Swiss Citizenship
 
-The Swiss Citizenship Act (Buergerrechtsgesetz, BueG) of 2018 establishes three formal routes to [Swiss citizenship](/immigration/swiss-citizenship/):
+The Swiss Citizenship Act (Buergerrechtsgesetz, BueG) of 2018, administered by the <a href="https://www.sem.admin.ch/sem/en/home/themen/buergerrecht.html" target="_blank" rel="nofollow noopener">State Secretariat for Migration (SEM)</a>, establishes three formal routes to [Swiss citizenship](/immigration/swiss-citizenship/):
 
 1. **Ordinary naturalisation** — for long-term residents who meet residence, language and integration criteria
 2. **Facilitated naturalisation** — for spouses of Swiss citizens and certain other categories
@@ -87,7 +87,7 @@ Ordinary [naturalisation](/immigration/swiss-naturalization/) is the standard pa
 - **10 years of residence** in Switzerland (years between ages 8-18 count double)
 - **C permit** or proof of C permit eligibility
 - **3 of the last 5 years** before application spent in Switzerland
-- **Language proficiency**: B1 oral, A2 written in a national language
+- **Language proficiency**: B1 oral, A2 written in a national language (requirements set out in the <a href="https://www.fedlex.admin.ch/eli/cc/2016/404/en" target="_blank" rel="nofollow noopener">Swiss Citizenship Act</a>)
 - **Integration**: participation in economic life, respect for public order, familiarity with Swiss customs and traditions
 - **No threat to internal or external security**
 - **Financial independence**: no social welfare dependency in the 3 years before application

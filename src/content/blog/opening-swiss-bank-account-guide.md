@@ -69,7 +69,7 @@ For the broader context of how [Swiss banking](/banking/) works, see our compani
 
 ## Who Can Open a Swiss Bank Account?
 
-Swiss law does not restrict bank account ownership to Swiss residents. Any natural person or legal entity can open an account, subject to the bank's own acceptance criteria and Swiss anti-money laundering (AML) regulations under the **Anti-Money Laundering Act (AMLA/GwG)**.
+Swiss law does not restrict bank account ownership to Swiss residents. Any natural person or legal entity can open an account, subject to the bank's own acceptance criteria and Swiss anti-money laundering (AML) regulations under the **Anti-Money Laundering Act (AMLA/GwG)**. All banks must hold a licence from <a href="https://www.finma.ch/en/" target="_blank" rel="nofollow noopener">FINMA</a>, the Swiss Financial Market Supervisory Authority.
 
 In practice, banks assess four factors:
 
