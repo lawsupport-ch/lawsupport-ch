@@ -21,6 +21,16 @@ const { Content } = await render(post);
 const cocoon = getCocoon(post.data.category);
 
 const isScheduled = post.data.publishDate && new Date(post.data.publishDate) > new Date();
+
+// Enrich relatedArticles with heroImage from linked posts
+const allPosts = await getCollection("blog");
+const enrichedRelated = (post.data.relatedArticles || []).map((ra: {title: string; href: string; image?: string}) => {
+  if (ra.image) return ra;
+  // Extract slug from href like /tax-accounting/accounting-switzerland/ → accounting-switzerland
+  const slug = ra.href.replace(/\/$/, "").split("/").pop();
+  const linked = allPosts.find((p) => p.id === slug);
+  return { ...ra, image: linked?.data.heroImage || undefined };
+});
 ---
 
 <Article
@@ -34,7 +44,7 @@ const isScheduled = post.data.publishDate && new Date(post.data.publishDate) > n
   dateModified={post.data.dateModified}
   faqItems={post.data.faqItems}
   tocItems={post.data.tocItems}
-  relatedArticles={post.data.relatedArticles}
+  relatedArticles={enrichedRelated}
   robots={isScheduled ? "noindex, follow" : undefined}
 >
   <Content />
