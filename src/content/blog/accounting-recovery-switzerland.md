@@ -2,6 +2,7 @@
 title: "Accounting Recovery Switzerland: Fix Missing Accounts"
 description: "Missing Swiss company accounts? How to reconstruct records, file overdue tax returns, and obtain tax clearance for liquidation. Free assessment available."
 date: "19.03.2026"
+heroImage: "/images/swiss-tax-accounting-hero.webp"
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"
 readTime: "10 min read"

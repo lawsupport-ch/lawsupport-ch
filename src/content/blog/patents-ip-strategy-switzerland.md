@@ -2,6 +2,7 @@
 title: "Patents & IP Strategy in Switzerland"
 description: "Swiss patent registration via IGE/IPI: costs, timelines, PCT route, copyright basics, and building an IP strategy for your Swiss business."
 date: "26.03.2026"
+heroImage: "/images/legal-scales-justice-hero.webp"
 pageLevel: 2
 category: "IP & Commercial Law"
 categoryHref: "/intellectual-property/"

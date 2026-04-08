@@ -2,6 +2,7 @@
 title: "Company Liquidation Switzerland: Process & Costs (2026)"
 description: "How to liquidate a Swiss GmbH or AG. Voluntary dissolution, tax clearance, commercial register deletion, timeline and costs explained."
 date: "19.03.2026"
+heroImage: "/images/swiss-building-flags-hero.webp"
 category: "Company Formation"
 categoryHref: "/company-formation/"
 readTime: "8 min read"

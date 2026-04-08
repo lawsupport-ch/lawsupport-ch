@@ -2,6 +2,7 @@
 title: "Swiss Accounting Requirements: OR, GAAP FER & Audit"
 description: "Swiss accounting obligations for AG and GmbH: Code of Obligations bookkeeping rules, Swiss GAAP FER, IFRS requirements, audit thresholds and record retention."
 date: "19.03.2026"
+heroImage: "/images/swiss-tax-accounting-hero.webp"
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"
 readTime: "14 min read"

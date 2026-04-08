@@ -2,6 +2,7 @@
 title: "Employer Registration Switzerland: AHV & VAT (2026)"
 description: "Registering as an employer in Switzerland: AHV, accident insurance, pension fund, VAT. Steps, timelines, and ongoing obligations. Learn how we can help."
 date: "19.03.2026"
+heroImage: "/images/swiss-tax-accounting-hero.webp"
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"
 readTime: "8 min read"

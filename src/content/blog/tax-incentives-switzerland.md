@@ -2,6 +2,7 @@
 title: "Swiss Tax Incentives: Patent Box & Rulings"
 description: "All Swiss tax incentives in one place. Patent box, R&D deduction, lump-sum taxation, tax rulings and advisory. Decision matrix for each tool."
 date: "26.03.2026"
+heroImage: "/images/swiss-tax-accounting-hero.webp"
 pageLevel: 2
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"

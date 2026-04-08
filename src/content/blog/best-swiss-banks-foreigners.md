@@ -2,6 +2,7 @@
 title: "Best Swiss Banks for Foreigners (2026)"
 description: "Which Swiss bank accepts foreigners? UBS, cantonal banks, Relio compared. Based on 18+ years opening accounts for 40+ nationalities."
 date: "08.04.2026"
+heroImage: "/images/zurich-waterfront-hero.webp"
 category: "Banking & Finance"
 categoryHref: "/banking/"
 readTime: "9 min read"

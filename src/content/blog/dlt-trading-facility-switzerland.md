@@ -2,6 +2,7 @@
 title: "DLT Trading Facility Switzerland: Licence Guide"
 description: "Switzerland's DLT Trading Facility licence under the DLT Act 2021: who needs it, FINMA requirements, capital, and how it differs from a traditional exchange."
 date: "19.03.2026"
+heroImage: "/images/crypto-blockchain-hero.webp"
 category: "Licensing & Permits"
 categoryHref: "/licensing/"
 readTime: "8 min read"

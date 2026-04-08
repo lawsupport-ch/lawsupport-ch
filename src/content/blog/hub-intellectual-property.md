@@ -2,6 +2,7 @@
 title: "Intellectual Property in Switzerland: IP Guide"
 description: "Swiss IP protection: trademark registration, patent filing, design rights, copyright law, IGE/IPI procedures, costs, and enforcement strategies."
 date: "27.03.2026"
+heroImage: "/images/legal-scales-justice-hero.webp"
 pageLevel: 1
 category: "IP & Commercial Law"
 categoryHref: "/intellectual-property/"

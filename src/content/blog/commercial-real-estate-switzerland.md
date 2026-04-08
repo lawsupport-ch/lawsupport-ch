@@ -2,6 +2,7 @@
 title: "Commercial Real Estate Switzerland: Office Space Guide"
 description: "Leasing office space in Switzerland: Zug, Zurich, Geneva prices, lease terms, Lex Koller rules for commercial property. Free assessment. Learn how we can help."
 date: "19.03.2026"
+heroImage: "/images/zurich-skyline-hero.webp"
 category: "Company Formation"
 categoryHref: "/company-formation/"
 readTime: "9 min read"

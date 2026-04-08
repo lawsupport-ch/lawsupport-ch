@@ -2,6 +2,7 @@
 title: "Accounting Services Switzerland: Tax & Audit Guide"
 description: "Swiss accounting for AG and GmbH: bookkeeping rules, annual accounts, audit thresholds, VAT reporting and corporate tax filing obligations."
 date: "19.03.2026"
+heroImage: "/images/swiss-tax-accounting-hero.webp"
 category: "Swiss Corporate Law"
 categoryHref: "/tax-accounting/"
 readTime: "13 min read"

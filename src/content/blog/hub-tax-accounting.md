@@ -2,6 +2,7 @@
 title: "Tax & Accounting in Switzerland: Complete Business Guide"
 description: "Swiss corporate tax, VAT, international planning, incentives, accounting and payroll obligations for businesses. Rates, deadlines and compliance explained."
 date: "27.03.2026"
+heroImage: "/images/swiss-tax-accounting-hero.webp"
 pageLevel: 1
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"

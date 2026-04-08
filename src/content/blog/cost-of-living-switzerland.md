@@ -2,6 +2,7 @@
 title: "Cost of Living Switzerland: Realistic Numbers for 2026"
 description: "Cost of living Switzerland 2026: rent, health insurance, groceries, tax in Zug, Zurich, Geneva. Real CHF figures. Plan your move with Morgan Hartley Consulting."
 date: "19.03.2026"
+heroImage: "/images/swiss-alps-landscape-hero.webp"
 category: "Immigration"
 categoryHref: "/immigration/"
 readTime: "8 min read"

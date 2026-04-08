@@ -2,6 +2,7 @@
 title: "FINMA Licensing: Banking & Asset Management"
 description: "FINMA licence categories explained: banking, asset management, securities firms and FinSA obligations. Application process, timeline and costs."
 date: "26.03.2026"
+heroImage: "/images/legal-scales-justice-hero.webp"
 pageLevel: 2
 category: "Licensing & Permits"
 categoryHref: "/licensing/"

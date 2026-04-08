@@ -2,6 +2,7 @@
 title: "Swiss Work & Residence Permits: B, C, L, G Permit Guide"
 description: "Compare Swiss B, C, L and G permits — eligibility, duration, costs and switching between permit types. Expert guidance from Morgan Hartley Consulting in Zug."
 date: "26.03.2026"
+heroImage: "/images/swiss-immigration-hero.webp"
 pageLevel: 2
 category: "Immigration"
 categoryHref: "/immigration/"

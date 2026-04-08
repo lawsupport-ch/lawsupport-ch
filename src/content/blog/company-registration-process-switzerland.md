@@ -2,6 +2,7 @@
 title: "Swiss Company Registration: Process & Requirements"
 description: "Step-by-step guide to Swiss company registration. Commercial register requirements, cantonal differences, ZEFIX verification, and required documents."
 date: "26.03.2026"
+heroImage: "/images/swiss-building-flags-hero.webp"
 pageLevel: 2
 category: "Company Formation"
 categoryHref: "/company-formation/"

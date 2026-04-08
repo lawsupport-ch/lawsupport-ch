@@ -2,6 +2,7 @@
 title: "Branch Office Switzerland: Registration & Requirements"
 description: "Register a branch office (Zweigniederlassung) in Switzerland: requirements, costs, timelines, tax rules, and when a subsidiary is better. Free assessment."
 date: "19.03.2026"
+heroImage: "/images/swiss-building-flags-hero.webp"
 category: "Company Formation"
 categoryHref: "/company-formation/"
 readTime: "11 min read"

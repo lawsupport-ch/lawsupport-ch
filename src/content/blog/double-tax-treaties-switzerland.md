@@ -2,6 +2,7 @@
 title: "Double Tax Treaties Switzerland: Key Rates (2026)"
 description: "Switzerland's 100+ double tax treaties explained: withholding rates, LOB, PPT, permanent establishment rules, and treaty relief procedures."
 date: "19.03.2026"
+heroImage: "/images/swiss-tax-accounting-hero.webp"
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"
 readTime: "10 min read"

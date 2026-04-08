@@ -2,6 +2,7 @@
 title: "FINMA License Switzerland: Licensing Guide (2026)"
 description: "FINMA licensing in Switzerland: banking, securities, asset manager, FinTech, and crypto licences. Requirements and process. Contact us for a consultation."
 date: "19.03.2026"
+heroImage: "/images/legal-scales-justice-hero.webp"
 category: "Licensing & Permits"
 categoryHref: "/licensing/"
 readTime: "8 min read"

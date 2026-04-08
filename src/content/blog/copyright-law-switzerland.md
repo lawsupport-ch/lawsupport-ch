@@ -2,6 +2,7 @@
 title: "Copyright Law Switzerland: Protection & Enforcement (2026)"
 description: "Swiss copyright law (URG/LDA): what is protected, moral rights, software copyright, and enforcement. Get expert IP advice from Morgan Hartley Consulting, Zug."
 date: "19.03.2026"
+heroImage: "/images/legal-scales-justice-hero.webp"
 category: "IP & Commercial Law"
 categoryHref: "/intellectual-property/"
 readTime: "7 min read"

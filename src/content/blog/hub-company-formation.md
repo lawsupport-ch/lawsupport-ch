@@ -2,6 +2,7 @@
 title: "Company Formation in Switzerland: The Definitive Guide"
 description: "How to form a company in Switzerland: entity types, registration process, ready-made companies, costs, timelines and cantonal differences explained."
 date: "27.03.2026"
+heroImage: "/images/swiss-flag-building-hero.webp"
 pageLevel: 1
 category: "Company Formation"
 categoryHref: "/company-formation/"

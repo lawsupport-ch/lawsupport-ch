@@ -2,6 +2,7 @@
 title: "Corporate Transactions in Switzerland: M&A Guide"
 description: "Swiss corporate transactions: mergers and acquisitions, due diligence, corporate restructuring, venture capital, and deal structures under Swiss law."
 date: "27.03.2026"
+heroImage: "/images/business-handshake-hero.webp"
 pageLevel: 1
 category: "Corporate Transactions"
 categoryHref: "/corporate-transactions/"

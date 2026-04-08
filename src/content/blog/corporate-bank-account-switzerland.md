@@ -2,6 +2,7 @@
 title: "Corporate Bank Account Switzerland: How to Open One in 2026"
 description: "Open a corporate bank account in Switzerland. What Swiss banks require, which bank fits, and how to avoid rejection. Free assessment available."
 date: "19.03.2026"
+heroImage: "/images/zurich-waterfront-hero.webp"
 category: "Banking & Finance"
 categoryHref: "/banking/"
 readTime: "10 min read"

@@ -2,6 +2,7 @@
 title: "Starting a Business in Switzerland: Complete Setup Guide"
 description: "Practical guide to starting a business in Switzerland. Location choice, entity formation, branch vs subsidiary, and step-by-step setup from idea to operation."
 date: "26.03.2026"
+heroImage: "/images/swiss-flag-building-hero.webp"
 pageLevel: 2
 category: "Company Formation"
 categoryHref: "/company-formation/"

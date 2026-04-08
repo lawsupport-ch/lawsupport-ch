@@ -2,6 +2,7 @@
 title: "Capital Deposit Account Switzerland: How It Works"
 description: "Swiss Kapitaleinzahlungskonto (capital deposit account): required for AG and GmbH formation, which banks open them, documents needed, and typical timeline."
 date: "19.03.2026"
+heroImage: "/images/zurich-waterfront-hero.webp"
 category: "Banking & Finance"
 categoryHref: "/banking/"
 readTime: "7 min read"

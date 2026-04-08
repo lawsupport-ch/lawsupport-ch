@@ -2,6 +2,7 @@
 title: "Licensing & Permits in Switzerland: Overview"
 description: "Swiss licensing explained: FINMA authorisation, crypto and fintech permits, industry-specific licences, regulatory costs, timelines and common pitfalls."
 date: "27.03.2026"
+heroImage: "/images/asset-management-license-switzerland-hero.webp"
 pageLevel: 1
 category: "Licensing & Permits"
 categoryHref: "/licensing/"

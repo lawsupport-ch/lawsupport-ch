@@ -2,6 +2,7 @@
 title: "Corporate Tax Return Switzerland: Filing Guide"
 description: "Corporate tax return Switzerland: filing deadlines, required documents, cantonal differences, and common errors that trigger audits."
 date: "19.03.2026"
+heroImage: "/images/swiss-tax-accounting-hero.webp"
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"
 readTime: "8 min read"

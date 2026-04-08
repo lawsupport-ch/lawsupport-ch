@@ -2,6 +2,7 @@
 title: "Business for Sale in Switzerland: How to Buy (2026)"
 description: "Find a business for sale in Switzerland and buy it right. Where to search, how to structure the deal, due diligence, SPA, financing, and closing — from Zug."
 date: "08.04.2026"
+heroImage: "/images/business-handshake-hero.webp"
 category: "Corporate Transactions"
 categoryHref: "/corporate-transactions/"
 readTime: "13 min read"

@@ -2,6 +2,7 @@
 title: "Employment Law in Switzerland: Key Rules"
 description: "Swiss employment law: contract types, termination rules, notice periods, working hours, overtime, social insurance, and employee rights under the OR and ArG."
 date: "27.03.2026"
+heroImage: "/images/business-contract-signing-hero.webp"
 pageLevel: 1
 category: "Employment Law"
 categoryHref: "/employment-law/"

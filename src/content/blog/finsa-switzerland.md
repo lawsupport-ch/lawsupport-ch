@@ -2,6 +2,7 @@
 title: "Swiss FinSA (FIDLEG): Obligations for 2026"
 description: "Swiss FinSA (FIDLEG) obligations: client classification, suitability rules, prospectus requirements, and advisor registration for 2026. Get expert advice today."
 date: "19.03.2026"
+heroImage: "/images/asset-management-license-switzerland-hero.webp"
 category: "Licensing & Permits"
 categoryHref: "/licensing/"
 readTime: "8 min read"

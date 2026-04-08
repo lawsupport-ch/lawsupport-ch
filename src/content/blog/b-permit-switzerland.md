@@ -2,6 +2,7 @@
 title: "B Permit Switzerland: Requirements & How to Apply (2026)"
 description: "Swiss B permit (Aufenthaltsbewilligung): requirements for EU and non-EU nationals, duration, renewal, and the path to a C permit. Free assessment."
 date: "19.03.2026"
+heroImage: "/images/swiss-immigration-hero.webp"
 category: "Immigration"
 categoryHref: "/immigration/"
 readTime: "13 min read"

@@ -2,6 +2,7 @@
 title: "Capital Tax Switzerland: Rates & Calculation (2026)"
 description: "Swiss cantonal capital tax (Kapitalsteuer) on company equity: how it is calculated, current cantonal rates, and tax planning approaches."
 date: "19.03.2026"
+heroImage: "/images/swiss-tax-accounting-hero.webp"
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"
 readTime: "11 min read"

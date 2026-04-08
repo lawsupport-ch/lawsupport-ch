@@ -2,6 +2,7 @@
 title: "Employment Law Switzerland: Employer's Complete Guide (2026)"
 description: "A complete employer's guide to employment law in Switzerland: contracts, notice periods, social insurance, BVG, work permits, and compliance for 2026."
 date: "19.03.2026"
+heroImage: "/images/business-contract-signing-hero.webp"
 category: "Employment Law"
 categoryHref: "/employment-law/"
 readTime: "14 min read"

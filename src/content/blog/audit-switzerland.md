@@ -2,6 +2,7 @@
 title: "Statutory Audit Switzerland: Thresholds & Opt-Out"
 description: "Swiss statutory audit: ordinary vs limited revision, opting-out thresholds, FAOA licensing, and costs for AG and GmbH. Get a free assessment."
 date: "19.03.2026"
+heroImage: "/images/swiss-tax-accounting-hero.webp"
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"
 readTime: "9 min read"

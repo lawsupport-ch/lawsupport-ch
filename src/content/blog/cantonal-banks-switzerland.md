@@ -2,6 +2,7 @@
 title: "Cantonal Banks Switzerland: Full List & Guide (2026)"
 description: "Switzerland has 24 cantonal banks — state-owned, state-guaranteed, regionally focused. Full list, key banks, and how to open a corporate account."
 date: "19.03.2026"
+heroImage: "/images/swiss-banking-vault-hero.webp"
 category: "Banking & Finance"
 categoryHref: "/banking/"
 readTime: "7 min read"

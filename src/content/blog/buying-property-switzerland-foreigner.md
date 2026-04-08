@@ -2,6 +2,7 @@
 title: "Buying Property in Switzerland as a Foreigner (2026)"
 description: "Can foreigners buy property in Switzerland? Lex Koller rules, permit exemptions, commercial exceptions, transfer taxes & mortgage rules explained."
 date: "19.03.2026"
+heroImage: "/images/swiss-mountain-lake-hero.webp"
 category: "Immigration"
 categoryHref: "/immigration/"
 readTime: "12 min read"

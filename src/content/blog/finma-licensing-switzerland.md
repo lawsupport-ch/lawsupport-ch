@@ -2,6 +2,7 @@
 title: "FINMA Licensing Switzerland: Crypto & Banking (2026)"
 description: "FINMA licensing in Switzerland: banking, crypto (VASP), FinIA securities, fund management. Capital requirements and process. Learn how we can help."
 date: "19.03.2026"
+heroImage: "/images/legal-scales-justice-hero.webp"
 category: "Licensing & Permits"
 categoryHref: "/licensing/"
 readTime: "12 min read"

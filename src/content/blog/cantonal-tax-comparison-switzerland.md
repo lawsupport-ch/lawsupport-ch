@@ -2,6 +2,7 @@
 title: "Cantonal Tax Comparison Switzerland: All 26 Cantons (2026)"
 description: "Compare corporate and individual tax rates across all 26 Swiss cantons. Zug ~11.8%, Lucerne ~12.3%, Zurich ~19.7%. Find the best canton. Learn how we can help."
 date: "19.03.2026"
+heroImage: "/images/swiss-tax-accounting-hero.webp"
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"
 readTime: "8 min read"

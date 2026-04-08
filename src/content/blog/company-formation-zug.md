@@ -2,6 +2,7 @@
 title: "Company Formation Zug: Tax-Efficient Canton (2026)"
 description: "Form a company in Zug at 11.8% tax rate. AG, GmbH and foundation formation. 1,000+ incorporations. Request a free assessment. Start with a free assessment."
 date: "19.03.2026"
+heroImage: "/images/swiss-flag-building-hero.webp"
 category: "Company Formation"
 categoryHref: "/company-formation/"
 readTime: "10 min read"

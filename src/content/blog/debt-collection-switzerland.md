@@ -2,6 +2,7 @@
 title: "Debt Collection Switzerland: SchKG Process Guide"
 description: "Swiss debt collection (SchKG): Betreibung, payment order, objection, and bankruptcy steps with timelines. Contact Morgan Hartley Consulting for creditor advice."
 date: "19.03.2026"
+heroImage: "/images/swiss-building-flags-hero.webp"
 category: "Company Formation"
 categoryHref: "/company-formation/"
 readTime: "7 min read"

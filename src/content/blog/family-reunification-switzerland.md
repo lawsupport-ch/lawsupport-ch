@@ -2,6 +2,7 @@
 title: "Family Reunification Switzerland: Permits (2026)"
 description: "Bringing family to Switzerland: spouse, partner, and children reunification rules, income thresholds, permit types, and application process for 2026."
 date: "19.03.2026"
+heroImage: "/images/swiss-mountain-lake-hero.webp"
 category: "Immigration"
 categoryHref: "/immigration/"
 readTime: "8 min read"

@@ -2,6 +2,7 @@
 title: "Domain Dispute Switzerland: .ch & WIPO (2026)"
 description: "Resolve a .ch domain dispute in Switzerland: SWITCH-DRP, WIPO arbitration, cybersquatting recovery, and court proceedings explained."
 date: "19.03.2026"
+heroImage: "/images/legal-scales-justice-hero.webp"
 category: "IP & Commercial Law"
 categoryHref: "/intellectual-property/"
 readTime: "7 min read"

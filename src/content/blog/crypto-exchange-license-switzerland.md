@@ -2,6 +2,7 @@
 title: "Crypto Exchange Licence Switzerland: FINMA Guide"
 description: "Crypto exchange licence in Switzerland: FINMA FinTech vs banking licence, VQF/SRO membership, AML rules, and the DLT Act framework."
 date: "19.03.2026"
+heroImage: "/images/crypto-blockchain-hero.webp"
 category: "Licensing & Permits"
 categoryHref: "/licensing/"
 readTime: "7 min read"

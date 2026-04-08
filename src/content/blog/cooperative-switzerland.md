@@ -2,6 +2,7 @@
 title: "Swiss Cooperative (Genossenschaft): Formation Guide (2026)"
 description: "Swiss Genossenschaft: formation steps, member liability, governance, and when a cooperative is right for you. Get expert advice from Morgan Hartley Consulting."
 date: "19.03.2026"
+heroImage: "/images/swiss-village-flag-hero.webp"
 category: "Company Formation"
 categoryHref: "/company-formation/"
 readTime: "6 min read"

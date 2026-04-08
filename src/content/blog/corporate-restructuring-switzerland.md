@@ -2,6 +2,7 @@
 title: "Corporate Restructuring Switzerland: Full Guide (2026)"
 description: "Swiss corporate restructuring under the Merger Act (FusG): mergers, demergers, conversions. Process, timeline, and tax treatment. Free assessment."
 date: "19.03.2026"
+heroImage: "/images/business-handshake-hero.webp"
 category: "Corporate Transactions"
 categoryHref: "/corporate-transactions/"
 readTime: "8 min read"

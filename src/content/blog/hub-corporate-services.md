@@ -2,6 +2,7 @@
 title: "Corporate Services in Switzerland: Overview"
 description: "Swiss corporate services: registered address, virtual office, nominee directors, audit requirements, accounting obligations, and ongoing compliance."
 date: "27.03.2026"
+heroImage: "/images/swiss-building-flags-hero.webp"
 pageLevel: 1
 category: "Company Administration"
 categoryHref: "/corporate-services/"

@@ -2,6 +2,7 @@
 title: "Crypto Licence Switzerland: FINMA & VASP Guide"
 description: "Get a crypto licence in Switzerland in 2026. Covers FINMA licensing, VASP registration, DLT Act, SRO membership via VQF, FinTech and banking licences."
 date: "19.03.2026"
+heroImage: "/images/crypto-blockchain-hero.webp"
 category: "Licensing & Permits"
 categoryHref: "/licensing/"
 readTime: "21 min read"

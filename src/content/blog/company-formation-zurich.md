@@ -2,6 +2,7 @@
 title: "Company Formation Zurich: Full Guide (2026)"
 description: "Form a company in Zurich: AG and GmbH registration, corporate tax rates, and an honest Zurich vs Zug comparison for business founders."
 date: "19.03.2026"
+heroImage: "/images/swiss-flag-building-hero.webp"
 category: "Company Formation"
 categoryHref: "/company-formation/"
 readTime: "9 min read"

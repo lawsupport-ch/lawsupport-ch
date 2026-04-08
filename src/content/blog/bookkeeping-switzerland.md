@@ -2,6 +2,7 @@
 title: "Bookkeeping Switzerland: Rules & Requirements (2026)"
 description: "Bookkeeping rules for Swiss companies under Art. 957–963 CO: who must keep books, double-entry rules, retention, and outsourcing costs. Get expert help."
 date: "19.03.2026"
+heroImage: "/images/swiss-tax-accounting-hero.webp"
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"
 readTime: "12 min read"
