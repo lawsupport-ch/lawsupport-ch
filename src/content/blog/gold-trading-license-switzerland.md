@@ -55,6 +55,7 @@ relatedArticles:
     href: "/licensing/finma-licensing-switzerland/"
 ---
 
+![Stacked gold bars ready for trading and secure vault storage in Switzerland](/images/gold-trading-license-switzerland-hero.webp)
 
 Switzerland is one of the world's leading centres for gold trading, refining, and storage — and operating a gold trading business here requires specific regulatory compliance from day one. There is no single "gold trading licence" in Switzerland; the obligations depend on the nature of your activity. Physical spot trading requires SRO membership under the Anti-Money Laundering Act. Asset management or derivatives trading triggers FINMA oversight. This guide sets out exactly which rules apply to which activities, and how to structure your Swiss gold operation correctly.
 

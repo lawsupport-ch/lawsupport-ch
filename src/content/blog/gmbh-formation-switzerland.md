@@ -59,6 +59,7 @@ relatedArticles:
     href: "/company-formation/sole-proprietorship-switzerland/"
 ---
 
+![Zurich Prime Tower and modern office buildings in the Swiss business district](/images/gmbh-formation-switzerland-hero.webp)
 
 Most founders who contact us about GmbH formation Switzerland assume the hardest part is choosing a name or opening a bank account. In reality, the step that trips up more than half of first-time applicants is the Stampa Declaration — a document that most advisors forget to mention until the notary appointment is already booked. After 18 years and more than 1,000 formations handled from our office at Baarerstrasse 135, 6300 Zug, we have seen every version of that particular delay. This guide walks you through every stage so that you do not become a cautionary tale.
 
