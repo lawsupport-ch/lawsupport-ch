@@ -1,7 +1,8 @@
 ---
-title: "Company Formation in Switzerland: The Definitive Guide"
-description: "How to form a company in Switzerland: entity types, registration process, ready-made companies, costs, timelines and cantonal differences explained."
+title: "Company Formation in Switzerland: Entity Types & Costs"
+description: "Start a company in Switzerland: AG, GmbH, sole proprietorship compared. Costs from CHF 3,500, tax rates by canton, and shelf company options."
 date: "27.03.2026"
+dateModified: "2026-04-08"
 heroImage: "/images/swiss-flag-building-hero.webp"
 pageLevel: 1
 category: "Company Formation"

@@ -1,7 +1,8 @@
 ---
-title: "Company Formation Switzerland: Complete Guide (2026)"
-description: "Register a company in Switzerland in 2-4 weeks. AG, GmbH, holding, foundation. No travel required. Fixed fees. Request a free assessment today."
+title: "Swiss Company Formation: How to Register (2026)"
+description: "Form a Swiss company in 2-4 weeks: GmbH from CHF 3,500, AG from CHF 5,000. Step-by-step registration, costs by canton, and no travel required."
 date: "19.03.2026"
+dateModified: "2026-04-08"
 heroImage: "/images/swiss-flag-building-hero.webp"
 category: "Company Formation"
 categoryHref: "/company-formation/"
