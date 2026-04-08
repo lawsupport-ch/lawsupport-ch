@@ -197,33 +197,24 @@ document.getElementById("contact-form").addEventListener("submit", async (e) => 
   btn.disabled = true;
   btn.textContent = "Sending...";
 
-  const data = new FormData(e.target);
-  const text = "New contact from lawsupport.ch\n\n"
-    + "Name: " + (data.get("name") || "—") + "\n"
-    + "Email: " + (data.get("email") || "—") + "\n"
-    + "WhatsApp: " + (data.get("whatsapp") || "—") + "\n"
-    + "Message: " + (data.get("message") || "—");
-
+  const fd = new FormData(e.target);
   try {
-    const [tgRes, emailRes] = await Promise.all([
-      fetch(`https://api.telegram.org/bot${import.meta.env.PUBLIC_TG_TOKEN}/sendMessage`, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ chat_id: import.meta.env.PUBLIC_TG_CHAT, text: text })
-      }),
-      fetch("https://formsubmit.co/ajax/info@goldblum.ch", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          name: data.get("name") || "",
-          email: data.get("email") || "",
-          whatsapp: data.get("whatsapp") || "",
-          message: data.get("message") || "",
-          _subject: "New contact from lawsupport.ch"
-        })
+    const res = await fetch("/api/contact", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        name: fd.get("name") || "",
+        email: fd.get("email") || "",
+        whatsapp: fd.get("whatsapp") || "",
+        message: fd.get("message") || "",
+        page: window.location.pathname,
+        referrer: document.referrer || "direct",
+        utm_source: new URLSearchParams(window.location.search).get("utm_source") || "",
+        utm_medium: new URLSearchParams(window.location.search).get("utm_medium") || "",
+        utm_campaign: new URLSearchParams(window.location.search).get("utm_campaign") || ""
       })
-    ]);
-    if (tgRes.ok || emailRes.ok) {
+    });
+    if (res.ok) {
       window.location.href = "/thank-you/";
     } else {
       throw new Error("Send failed");
