@@ -8,6 +8,7 @@ const blog = defineCollection({
     description: z.string().default(""),
     date: z.string(),
     publishDate: z.string().optional(),
+    dateModified: z.string().optional(),
     category: z.string().default("Swiss Corporate Law"),
     categoryHref: z.string().default("/blog/"),
     readTime: z.string().default("5 min read"),

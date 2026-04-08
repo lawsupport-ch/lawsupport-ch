@@ -11,6 +11,7 @@ interface Props {
   tocItems?: { id: string; title: string }[];
   faqItems?: { question: string; answer: string }[];
   heroImage?: string;
+  dateModified?: string;
   relatedArticles?: { title: string; href: string; image?: string }[];
   robots?: string;
 }
@@ -23,6 +24,7 @@ const {
   date = "06.03.2026",
   readTime = "4 min read",
   heroImage = "",
+  dateModified,
   tocItems = [],
   faqItems = [],
   relatedArticles = [],
@@ -38,7 +40,7 @@ const schema = [
     "description": description,
     "image": heroImage ? `https://lawsupport.ch${heroImage}` : "https://lawsupport.ch/images/logo.png",
     "datePublished": date.split(".").reverse().join("-"),
-    "dateModified": date.split(".").reverse().join("-"),
+    "dateModified": dateModified || date.split(".").reverse().join("-"),
     "author": {"@id": "https://lawsupport.ch/#morgan-hartley"},
     "publisher": {"@id": "https://lawsupport.ch/#organization"},
     "mainEntityOfPage": {"@id": `https://lawsupport.ch${Astro.url.pathname}#webpage`}
