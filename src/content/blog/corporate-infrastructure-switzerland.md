@@ -1,5 +1,5 @@
 ---
-title: "Corporate Infrastructure in Switzerland: Registered Address, Virtual Office & Administration"
+title: "Corporate Infrastructure in Switzerland"
 description: "Swiss corporate infrastructure: registered address services, virtual offices, nominee directors, accounting software, audit requirements, and debt enforcement."
 date: "26.03.2026"
 pageLevel: 2

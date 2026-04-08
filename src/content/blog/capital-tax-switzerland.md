@@ -1,6 +1,6 @@
 ---
 title: "Capital Tax Switzerland: Rates & Calculation (2026)"
-description: "Swiss cantonal capital tax (Kapitalsteuer) on company equity: how it's calculated, current cantonal rates, and planning approaches. From Morgan Hartley Consulting, Zug."
+description: "Swiss cantonal capital tax (Kapitalsteuer) on company equity: how it is calculated, current cantonal rates, and tax planning approaches."
 date: "19.03.2026"
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"

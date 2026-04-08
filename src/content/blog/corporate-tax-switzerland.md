@@ -1,6 +1,6 @@
 ---
 title: "Corporate Tax Switzerland: Rates, Cantons & Planning (2026)"
-description: "Swiss corporate tax rates by canton 2026. Zug 11.8%, Zurich 19.7%, Geneva 14%. IP Box, holding exemption, tax rulings. Expert guide by Morgan Hartley Consulting."
+description: "Swiss corporate tax rates by canton in 2026. Zug 11.8%, Zurich 19.7%, Geneva 14%. IP Box, holding exemption, and tax rulings explained."
 date: "19.03.2026"
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"

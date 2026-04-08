@@ -1,6 +1,6 @@
 ---
 title: "Lump-Sum Taxation Switzerland: Full Guide (2026)"
-description: "Switzerland's lump-sum taxation for wealthy foreign residents: eligibility, how tax is calculated, available cantons, and how to apply. Morgan Hartley Consulting, Zug."
+description: "Swiss lump-sum taxation for wealthy foreign residents: eligibility criteria, how tax is calculated, available cantons, and application process."
 date: "01.05.2026"
 publishDate: "2026-05-01"
 category: "Tax & Accounting"

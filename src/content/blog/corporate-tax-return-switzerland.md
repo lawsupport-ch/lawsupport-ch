@@ -1,6 +1,6 @@
 ---
 title: "Corporate Tax Return Switzerland: Filing Guide"
-description: "Corporate tax return Switzerland: deadlines, required documents, cantonal differences, and common errors. Get expert filing support from Morgan Hartley Consulting, Zug."
+description: "Corporate tax return Switzerland: filing deadlines, required documents, cantonal differences, and common errors that trigger audits."
 date: "19.03.2026"
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"

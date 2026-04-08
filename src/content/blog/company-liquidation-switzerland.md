@@ -1,6 +1,6 @@
 ---
 title: "Company Liquidation Switzerland: Process & Costs (2026)"
-description: "How to liquidate a Swiss GmbH or AG. Voluntary dissolution, tax clearance, timeline, and costs explained. Request a free assessment from Morgan Hartley Consulting."
+description: "How to liquidate a Swiss GmbH or AG. Voluntary dissolution, tax clearance, commercial register deletion, timeline and costs explained."
 date: "19.03.2026"
 category: "Company Formation"
 categoryHref: "/company-formation/"

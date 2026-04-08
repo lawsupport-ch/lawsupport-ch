@@ -1,6 +1,6 @@
 ---
 title: "Sole Proprietorship Switzerland: Einzelfirma Guide"
-description: "How to register a Swiss Einzelfirma (sole proprietorship): requirements, tax treatment, liability risks, and when to convert to a GmbH. Morgan Hartley Consulting, Zug."
+description: "How to register a Swiss Einzelfirma (sole proprietorship): requirements, tax treatment, liability risks, and when to convert to a GmbH."
 date: "02.06.2026"
 publishDate: "2026-06-02"
 category: "Company Formation"

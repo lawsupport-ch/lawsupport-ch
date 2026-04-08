@@ -1,6 +1,6 @@
 ---
 title: "C Permit Switzerland: Requirements & How to Get It"
-description: "Swiss C permit: eligibility after 5 or 10 years, conditions, application steps, and the path to citizenship. Get expert advice from Morgan Hartley Consulting, Zug."
+description: "Swiss C permit: eligibility after 5 or 10 years, conditions, application steps, and the path from settlement permit to citizenship."
 date: "19.03.2026"
 category: "Immigration"
 categoryHref: "/immigration/"

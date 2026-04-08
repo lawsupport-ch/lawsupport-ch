@@ -1,5 +1,5 @@
 ---
-title: "The Swiss Banking System: Structure, Regulation & Key Institutions"
+title: "Swiss Banking System: Structure & Regulation"
 description: "How the Swiss banking system works: FINMA regulation, SNB monetary policy, cantonal banks, universal banks, and private banking institutions explained."
 date: "26.03.2026"
 pageLevel: 2

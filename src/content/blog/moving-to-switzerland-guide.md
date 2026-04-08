@@ -1,5 +1,5 @@
 ---
-title: "Moving to Switzerland: Visa, Family Reunification & Practical Guide"
+title: "Moving to Switzerland: Relocation Guide"
 description: "Practical guide to relocating to Switzerland: visa types, family reunification, cost of living, property rules and Lex Koller restrictions for foreigners."
 date: "26.03.2026"
 pageLevel: 2

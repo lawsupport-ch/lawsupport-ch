@@ -9,6 +9,18 @@
 /firma-v-shvejcarii/ /company-formation/company-formation-switzerland/ 301
 /tseny-v-shweizarii/ / 301
 
+# Old indexed /en/ page redirects (DataForSEO 2026-04)
+/en/swiss-company-formation/ /company-formation/company-formation-switzerland/ 301
+/en/accounting-in-switzerland/ /tax-accounting/accounting-switzerland/ 301
+/en/swiss-bank-account/ /banking/swiss-bank-account/ 301
+/en/blog/economic-stability-with-registering-swiss-company/ /company-formation/company-registration-process-switzerland/ 301
+/en/blog/business-opportunities-to-start-a-company-in-switzerland/ /company-formation/start-business-switzerland/ 301
+/en/blog/mastering-payroll-effective-salary-management-strategies/ /tax-accounting/payroll-switzerland/ 301
+/en/blog/opportunity-to-sell-a-business-in-switzerland/ /corporate-transactions/buy-company-switzerland/ 301
+/en/blog/secure-your-wealth-with-a-trusted-fiduciary-in-switzerland/ /corporate-services/nominee-services-switzerland/ 301
+/en/blog/swiss-corporation/ /company-formation/ag-formation-switzerland/ 301
+/en/blog/switzerland-companies/ /company-formation/company-formation-switzerland/ 301
+
 # Old /en/ and /de/ prefix catch-all redirects
 /en/blog/* /blog/:splat 301
 /en/values/* /company-formation/ 301

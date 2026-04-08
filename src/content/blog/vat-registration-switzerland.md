@@ -1,6 +1,6 @@
 ---
 title: "VAT Registration Switzerland: MWST Guide (2026)"
-description: "VAT registration in Switzerland for foreign companies: CHF 100'000 threshold, 8.1% standard rate, fiscal representative rules, and ESTV filing. Morgan Hartley Consulting, Zug."
+description: "VAT registration in Switzerland for foreign companies: CHF 100'000 threshold, 8.1% standard rate, fiscal representative rules, and ESTV filing."
 date: "15.08.2026"
 publishDate: "2026-08-15"
 category: "Tax & Accounting"

@@ -1,6 +1,6 @@
 ---
 title: "Domain Dispute Switzerland: .ch & WIPO (2026)"
-description: "Resolve a .ch domain dispute in Switzerland: SWITCH-DRP, WIPO arbitration, cybersquatting recovery, and court proceedings. Expert guide from Morgan Hartley Consulting, Zug."
+description: "Resolve a .ch domain dispute in Switzerland: SWITCH-DRP, WIPO arbitration, cybersquatting recovery, and court proceedings explained."
 date: "19.03.2026"
 category: "IP & Commercial Law"
 categoryHref: "/intellectual-property/"

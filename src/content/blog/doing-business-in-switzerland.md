@@ -1,6 +1,6 @@
 ---
 title: "Doing Business in Switzerland: Investor's Guide"
-description: "Doing business in Switzerland in 2026: entity types, cantonal taxes, banking, employment, IP, and dispute resolution. Practical guide from Morgan Hartley Consulting, Zug."
+description: "Doing business in Switzerland: entity types, cantonal taxes, banking, employment law, IP protection, and dispute resolution for investors."
 date: "19.03.2026"
 category: "Company Formation"
 categoryHref: "/company-formation/"

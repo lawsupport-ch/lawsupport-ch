@@ -1,5 +1,5 @@
 ---
-title: "Private Banking in Switzerland: Wealth Management & Investment Services"
+title: "Private Banking in Switzerland: Wealth Guide"
 description: "Private banking in Switzerland: minimum thresholds, fee structures, top banks compared. Wealth management, portfolio strategies, and family office services."
 date: "26.03.2026"
 pageLevel: 2

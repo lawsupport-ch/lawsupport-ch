@@ -1,6 +1,6 @@
 ---
 title: "Swiss Commercial Register: What It Is & How to File"
-description: "Swiss Handelsregister explained: public data, search methods, filing triggers, and registration timelines. Get expert filing support from Morgan Hartley Consulting."
+description: "Swiss Handelsregister explained: public data, search methods, filing triggers, and registration timelines for AG, GmbH and other entities."
 date: "19.03.2026"
 category: "Company Formation"
 categoryHref: "/company-formation/"

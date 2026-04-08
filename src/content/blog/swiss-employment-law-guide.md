@@ -1,5 +1,5 @@
 ---
-title: "Swiss Employment Law: Contracts, Termination & Working Conditions"
+title: "Swiss Employment Law: Contracts & Termination"
 description: "Swiss employment law explained: contract types, termination rules, notice periods, working hours, overtime, and employee rights under the Code of Obligations."
 date: "26.03.2026"
 pageLevel: 2

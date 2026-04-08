@@ -6,6 +6,13 @@ pageLevel: 2
 category: "Company Formation"
 categoryHref: "/company-formation/"
 readTime: "11 min read"
+faqItems:
+  - question: "How quickly can I acquire a ready-made Swiss company?"
+    answer: "A shelf company transfer can be completed within 3-5 business days once KYC and due diligence are cleared. This compares to 3-6 weeks for incorporating a new entity. The transfer involves a share purchase, director changes, and updates to the commercial register."
+  - question: "Are Swiss shelf companies legal?"
+    answer: "Yes. Shelf companies are fully legal in Switzerland. They are properly incorporated entities held by formation agents until sold. The buyer acquires clean shares with no hidden liabilities, provided proper due diligence is conducted on the company history and financial statements."
+  - question: "What is the difference between a nominee director and a nominee shareholder?"
+    answer: "A nominee director serves on the board to satisfy the Swiss residency requirement for directors. A nominee shareholder holds shares on behalf of the beneficial owner for privacy. Both are governed by mandate agreements and must comply with Swiss beneficial ownership disclosure rules."
 tocItems:
   - id: "shelf-companies-and-nominee-services-overview"
     title: "Shelf Companies and Nominee Services Overview"

@@ -1,6 +1,6 @@
 ---
 title: "Accounting Services Switzerland: Tax & Audit Guide"
-description: "Swiss accounting for AG and GmbH: bookkeeping rules, annual accounts, audit thresholds, VAT reporting and corporate tax. Free assessment from Morgan Hartley Consulting, Zug."
+description: "Swiss accounting for AG and GmbH: bookkeeping rules, annual accounts, audit thresholds, VAT reporting and corporate tax filing obligations."
 date: "19.03.2026"
 category: "Swiss Corporate Law"
 categoryHref: "/tax-accounting/"

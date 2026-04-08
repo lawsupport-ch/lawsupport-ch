@@ -1,5 +1,5 @@
 ---
-title: "Banking & Finance in Switzerland: Accounts, Private Banking & System Guide"
+title: "Banking & Finance in Switzerland: Full Guide"
 description: "Swiss banking for individuals and businesses: how to open accounts, private banking options, system structure, FINMA regulation, and practical guidance."
 date: "27.03.2026"
 pageLevel: 1

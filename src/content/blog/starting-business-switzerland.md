@@ -6,6 +6,13 @@ pageLevel: 2
 category: "Company Formation"
 categoryHref: "/company-formation/"
 readTime: "13 min read"
+faqItems:
+  - question: "How much does it cost to start a business in Switzerland?"
+    answer: "Formation costs vary by entity type. A GmbH requires CHF 20,000 minimum capital plus roughly CHF 3,000-5,000 in notary fees, commercial register charges, and legal costs. An AG requires CHF 100,000 minimum capital (CHF 50,000 paid in) with similar formation fees. A sole proprietorship has no minimum capital requirement."
+  - question: "Should I set up a branch office or a subsidiary in Switzerland?"
+    answer: "A subsidiary (separate Swiss entity) offers limited liability and local credibility but requires minimum capital. A branch office is simpler and cheaper to establish but the foreign parent bears unlimited liability for branch obligations. Branches must also register in the commercial register and appoint a Swiss-resident representative."
+  - question: "Which Swiss canton is best for starting a business?"
+    answer: "Zug offers the lowest corporate tax rate at around 11.8% and fast commercial register processing. Zurich provides the largest talent pool and business infrastructure. The best choice depends on your industry, workforce needs, and client proximity. Many companies incorporate in Zug while operating from Zurich."
 tocItems:
   - id: "how-to-start-a-business-in-switzerland"
     title: "How to Start a Business in Switzerland"

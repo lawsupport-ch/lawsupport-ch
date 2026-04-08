@@ -1,5 +1,5 @@
 ---
-title: "M&A in Switzerland: Acquisitions, Restructuring & Due Diligence"
+title: "M&A in Switzerland: Acquisitions & Due Diligence"
 description: "M&A in Switzerland: buying companies, due diligence process, corporate restructuring, and venture capital. Legal framework and practical steps explained."
 date: "26.03.2026"
 pageLevel: 2

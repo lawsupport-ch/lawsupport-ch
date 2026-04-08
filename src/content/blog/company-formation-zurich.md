@@ -1,6 +1,6 @@
 ---
 title: "Company Formation Zurich: Full Guide (2026)"
-description: "Form a company in Zurich: AG and GmbH registration, tax rates, and honest Zurich vs Zug comparison. Free assessment from Morgan Hartley Consulting. Learn how we can help."
+description: "Form a company in Zurich: AG and GmbH registration, corporate tax rates, and an honest Zurich vs Zug comparison for business founders."
 date: "19.03.2026"
 category: "Company Formation"
 categoryHref: "/company-formation/"

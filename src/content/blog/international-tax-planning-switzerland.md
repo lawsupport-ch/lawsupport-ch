@@ -1,5 +1,5 @@
 ---
-title: "International Tax Planning from Switzerland: Treaties, Transfer Pricing & Residency"
+title: "International Tax Planning from Switzerland"
 description: "How to use Switzerland for international tax planning. Double tax treaties, transfer pricing rules, holding structures and tax residency explained."
 date: "26.03.2026"
 pageLevel: 2

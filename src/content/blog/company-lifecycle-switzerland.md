@@ -1,11 +1,20 @@
 ---
-title: "Company Lifecycle in Switzerland: Liquidation, Bankruptcy & Debt Collection"
+title: "Company Lifecycle in Switzerland: Exit Pathways"
 description: "Swiss company liquidation, bankruptcy proceedings, and debt collection (Betreibung). Timelines, costs, director liability, and practical steps explained."
 date: "26.03.2026"
 pageLevel: 2
 category: "Company Formation"
 categoryHref: "/company-formation/"
 readTime: "11 min read"
+faqItems:
+  - question: "How long does voluntary liquidation of a Swiss company take?"
+    answer: "Voluntary liquidation typically takes 12 to 18 months. The process includes a shareholder resolution, three debt calls in the SHAB (Swiss Official Gazette of Commerce), settling all liabilities, distributing remaining assets, and deletion from the commercial register."
+  - question: "Can a Swiss director be held personally liable after bankruptcy?"
+    answer: "Yes. Under Art. 754 CO, directors face personal liability for damages caused by intentional or negligent breach of duties. Common grounds include failure to notify the court of overindebtedness under Art. 725b CO, approving misleading financial statements, and neglecting bookkeeping obligations."
+  - question: "What is the difference between debt collection and bankruptcy in Switzerland?"
+    answer: "Debt collection (Betreibung) is a creditor-initiated enforcement procedure to recover specific debts. Bankruptcy (Konkurs) is a court-ordered process that liquidates all company assets for distribution among all creditors. Debt collection can lead to bankruptcy if the debtor is a registered entity."
+  - question: "Can a dormant Swiss company avoid liquidation?"
+    answer: "Yes. A company can remain dormant on the commercial register as long as it files annual accounts, holds annual general meetings, and meets minimum tax obligations. However, the commercial register office may initiate dissolution proceedings if the company fails to maintain a registered address or appoint required officers."
 tocItems:
   - id: "when-a-swiss-company-reaches-its-end"
     title: "When a Swiss Company Reaches Its End"

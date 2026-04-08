@@ -1,6 +1,6 @@
 ---
 title: "Commercial Register Switzerland: Cantonal Offices (2026)"
-description: "Swiss Commercial Register by canton: search Zefix, obtain extracts, register a company. All 26 cantonal offices listed. Contact Morgan Hartley Consulting for help."
+description: "Swiss Commercial Register by canton: search Zefix, obtain extracts, and register a company. All 26 cantonal offices listed with contact details."
 date: "19.03.2026"
 category: "Company Formation"
 categoryHref: "/company-formation/"

@@ -1,11 +1,20 @@
 ---
-title: "Swiss Entity Types Compared: AG vs GmbH vs Sole Proprietorship"
+title: "Swiss Entity Types: AG vs GmbH vs Einzelfirma"
 description: "Compare Swiss legal entity types — AG, GmbH, sole proprietorship, cooperative, foundation, Verein. Decision framework for choosing the right structure."
 date: "26.03.2026"
 pageLevel: 2
 category: "Company Formation"
 categoryHref: "/company-formation/"
 readTime: "12 min read"
+faqItems:
+  - question: "What is the difference between an AG and a GmbH in Switzerland?"
+    answer: "An AG (Aktiengesellschaft) requires CHF 100,000 minimum capital and offers shareholder anonymity through bearer or registered shares. A GmbH requires CHF 20,000 and all shareholders are publicly listed in the commercial register. AGs are preferred for larger businesses, holding structures, and situations where ownership privacy matters."
+  - question: "When should I choose a sole proprietorship over a GmbH?"
+    answer: "A sole proprietorship suits freelancers and small businesses with low liability risk. It has no minimum capital and simpler tax treatment but the owner bears unlimited personal liability. Convert to a GmbH once annual revenue exceeds CHF 100,000 or when the business carries meaningful liability exposure."
+  - question: "Can a foreigner own a Swiss AG or GmbH?"
+    answer: "Yes. There are no restrictions on foreign ownership of Swiss AG or GmbH shares. However, the company must have at least one director who is resident in Switzerland. This requirement can be met through a professional nominee director service."
+  - question: "What is a Swiss Verein and when is it used?"
+    answer: "A Verein (association) is a membership-based entity used for non-profit purposes such as clubs, professional bodies, and charitable organisations. It requires no minimum capital and is formed by at least two members adopting written articles. A Verein cannot distribute profits to members."
 tocItems:
   - id: "choosing-the-right-swiss-entity"
     title: "Choosing the Right Swiss Entity"

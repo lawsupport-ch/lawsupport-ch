@@ -1,6 +1,6 @@
 ---
 title: "Design Registration Switzerland: Process & Costs"
-description: "Register a design in Switzerland: IPI process, fees from CHF 300, protection up to 25 years. Learn design vs copyright vs trademark. Contact Morgan Hartley Consulting."
+description: "Register a design in Switzerland: IPI process, fees from CHF 300, protection up to 25 years. Design vs copyright vs trademark compared."
 date: "19.03.2026"
 category: "IP & Commercial Law"
 categoryHref: "/intellectual-property/"

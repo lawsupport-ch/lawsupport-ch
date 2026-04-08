@@ -1,6 +1,6 @@
 ---
 title: "Crypto Exchange Licence Switzerland: FINMA Guide"
-description: "Crypto exchange licence Switzerland: FINMA FinTech vs banking licence, VQF/SRO membership, AML rules, DLT Act. Contact Morgan Hartley Consulting for expert guidance."
+description: "Crypto exchange licence in Switzerland: FINMA FinTech vs banking licence, VQF/SRO membership, AML rules, and the DLT Act framework."
 date: "19.03.2026"
 category: "Licensing & Permits"
 categoryHref: "/licensing/"

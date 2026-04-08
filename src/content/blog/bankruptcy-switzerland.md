@@ -1,6 +1,6 @@
 ---
 title: "Bankruptcy Switzerland: Corporate Insolvency Guide"
-description: "Swiss corporate bankruptcy (Konkurs): triggers, creditor priority, director liability, and alternatives. Free assessment from Morgan Hartley Consulting. Learn how we can help."
+description: "Swiss corporate bankruptcy (Konkurs): triggers, creditor priority, director liability, and alternatives to insolvency proceedings."
 date: "19.03.2026"
 category: "Company Formation"
 categoryHref: "/company-formation/"

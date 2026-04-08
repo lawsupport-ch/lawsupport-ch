@@ -1,5 +1,5 @@
 ---
-title: "Immigration to Switzerland: Permits, Citizenship & Relocation Guide"
+title: "Immigration to Switzerland: Permits & Visas"
 description: "Swiss immigration explained: work and residence permits, citizenship pathways, relocation practicalities, EU vs non-EU rules, costs and timelines."
 date: "27.03.2026"
 pageLevel: 1

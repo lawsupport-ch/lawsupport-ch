@@ -1,5 +1,5 @@
 ---
-title: "Opening a Swiss Bank Account: Requirements, Process & Options"
+title: "Opening a Swiss Bank Account: Requirements"
 description: "How to open a Swiss bank account as a foreigner: requirements, documents, bank options for personal and corporate accounts. Step-by-step process guide."
 date: "26.03.2026"
 pageLevel: 2

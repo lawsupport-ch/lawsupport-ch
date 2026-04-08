@@ -1,5 +1,5 @@
 ---
-title: "Patents & IP Strategy in Switzerland: Registration, Protection & Enforcement"
+title: "Patents & IP Strategy in Switzerland"
 description: "Swiss patent registration via IGE/IPI: costs, timelines, PCT route, copyright basics, and building an IP strategy for your Swiss business."
 date: "26.03.2026"
 pageLevel: 2

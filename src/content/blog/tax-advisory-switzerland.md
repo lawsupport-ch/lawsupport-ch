@@ -1,6 +1,6 @@
 ---
 title: "Tax Advisory Switzerland: Corporate Planning"
-description: "Swiss corporate tax advisory for international clients: tax structuring, advance rulings, IP Box, holding structures, and treaty planning from Morgan Hartley Consulting, Zug."
+description: "Swiss corporate tax advisory for international clients: tax structuring, advance rulings, IP Box, holding structures, and treaty planning."
 date: "30.07.2026"
 publishDate: "2026-07-30"
 category: "Tax & Accounting"

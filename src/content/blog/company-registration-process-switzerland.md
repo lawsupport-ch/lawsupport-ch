@@ -1,11 +1,20 @@
 ---
-title: "Swiss Company Registration: Commercial Register Process & Requirements"
+title: "Swiss Company Registration: Process & Requirements"
 description: "Step-by-step guide to Swiss company registration. Commercial register requirements, cantonal differences, ZEFIX verification, and required documents."
 date: "26.03.2026"
 pageLevel: 2
 category: "Company Formation"
 categoryHref: "/company-formation/"
 readTime: "10 min read"
+faqItems:
+  - question: "How long does Swiss company registration take?"
+    answer: "Registration typically takes two to four weeks from submission of notarised documents to entry in the cantonal commercial register. Zug is among the fastest cantons at 3-5 business days for processing. Delays arise from incomplete documents, name conflicts, or capital verification issues."
+  - question: "What documents are required to register a Swiss company?"
+    answer: "You need notarised articles of incorporation (Statuten), a bank confirmation of capital deposit, identification documents of founders and directors, a declaration of beneficial ownership, and proof of a registered Swiss address. Foreign documents may require apostille or consular legalisation."
+  - question: "Can a foreigner register a company in Switzerland without living there?"
+    answer: "Yes, but the company must have at least one director or officer with Swiss residence. Non-residents can use a professional nominee director to satisfy this requirement. The founder does not need to be physically present in Switzerland if documents are notarised abroad."
+  - question: "What is the difference between ZEFIX and the cantonal commercial register?"
+    answer: "ZEFIX is a federal search portal that aggregates data from all 26 cantonal registers. It provides basic company information including name, UID number, registered address, and legal form. Cantonal registers hold the full file with articles of incorporation, director details, and signature specimens."
 tocItems:
   - id: "how-swiss-company-registration-works"
     title: "How Swiss Company Registration Works"

@@ -1,6 +1,6 @@
 ---
 title: "Swiss Withholding Tax: Rates, Treaties & Refunds"
-description: "Swiss withholding tax at 35% on dividends and interest. Treaty reductions, refund process via ESTV Form 65, and holding structure planning from Morgan Hartley Consulting, Zug."
+description: "Swiss withholding tax at 35% on dividends and interest. Treaty reductions, refund process via ESTV Form 65, and holding structure planning."
 date: "23.08.2026"
 publishDate: "2026-08-23"
 category: "Tax & Accounting"

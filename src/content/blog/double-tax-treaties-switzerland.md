@@ -1,6 +1,6 @@
 ---
 title: "Double Tax Treaties Switzerland: Key Rates (2026)"
-description: "Switzerland's 100+ double tax treaties explained: withholding rates, LOB, PPT, PE rules, and relief procedures. Practitioner guide from Morgan Hartley Consulting, Zug."
+description: "Switzerland's 100+ double tax treaties explained: withholding rates, LOB, PPT, permanent establishment rules, and treaty relief procedures."
 date: "19.03.2026"
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"

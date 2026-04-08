@@ -1,6 +1,6 @@
 ---
 title: "Transfer Pricing Switzerland: Rules & Compliance"
-description: "Swiss transfer pricing rules explained: arm's length principle, documentation, APAs, and BEPS compliance. 35% withholding tax risk. Morgan Hartley Consulting, Zug."
+description: "Swiss transfer pricing rules: arm's length principle, documentation requirements, APAs, BEPS compliance, and the 35% withholding tax risk."
 date: "11.08.2026"
 publishDate: "2026-08-11"
 category: "Tax & Accounting"
