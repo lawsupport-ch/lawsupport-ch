@@ -106,7 +106,7 @@ Switzerland has concluded over 100 double tax treaties that reduce the 35% withh
 | No treaty | 35% | No reduction |
 
 **How the refund/reduction works:**
-1. The Swiss company withholds 35% at source and remits it to the <a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">ESTV</a>
+1. The Swiss company withholds 35% at source and remits it to the <a href="https://www.estv.admin.ch/en" target="_blank" rel="nofollow noopener">ESTV</a>
 2. The foreign shareholder applies for a refund of the difference between 35% and the treaty rate — e.g., a German corporate shareholder with >=25% stake applies to recover 30 percentage points (35% - 5% = 30%)
 3. The application is filed with the ESTV using ESTV Form 65 or the equivalent procedure in the shareholder's home country under the refund procedure
 

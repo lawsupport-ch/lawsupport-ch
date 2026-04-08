@@ -243,7 +243,7 @@ Swiss entities must file annual corporate tax returns (federal and cantonal), pr
 
 ---
 
-For an overview of Swiss corporate tax rates and how they apply across cantons, see the <a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">Federal Tax Administration (ESTV)</a> website. The <a href="https://www.oecd.org/en/topics/base-erosion-and-profit-shifting.html" target="_blank" rel="nofollow noopener">OECD BEPS framework</a> sets the international standards that Swiss structures must satisfy.
+For an overview of Swiss corporate tax rates and how they apply across cantons, see the <a href="https://www.estv.admin.ch/en" target="_blank" rel="nofollow noopener">Federal Tax Administration (ESTV)</a> website. The <a href="https://www.oecd.org/en/topics/policy-issues/beps.html" target="_blank" rel="nofollow noopener">OECD BEPS framework</a> sets the international standards that Swiss structures must satisfy.
 
 ---
 

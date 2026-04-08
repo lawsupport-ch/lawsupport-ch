@@ -87,7 +87,7 @@ Switzerland's treaties follow the OECD Model Tax Convention as their primary tem
 
 Under Swiss constitutional practice, tax treaties take precedence over conflicting provisions of domestic Swiss law as *lex specialis*. Where a treaty provision is more favourable to a taxpayer than the Swiss Income and Withholding Tax Acts, the treaty applies. Switzerland does not impose a general "subject-to-tax" condition on treaty benefits beyond what is expressly provided in each individual treaty.
 
-The Swiss Federal Tax Administration (ESTV) publishes the current list of treaties in force at <a href="https://www.estv.admin.ch/estv/en/home/international-tax-law/double-taxation-agreements/in-force.html" target="_blank" rel="nofollow noopener">estv.admin.ch</a>.
+The Swiss Federal Tax Administration (ESTV) publishes the current list of treaties in force at <a href="https://www.sif.admin.ch/en/review-international-financial-tax-matters" target="_blank" rel="nofollow noopener">estv.admin.ch</a>.
 
 ---
 
@@ -232,7 +232,7 @@ For a broader overview, see our guide to [International Tax Planning from Switze
 
 **Does Switzerland have a DTA with every country?**
 
-No. Switzerland has concluded over 100 treaties currently in force, covering most major economies and trading partners. Notable gaps include several African and Central Asian countries, and some smaller jurisdictions. Where no treaty exists, the domestic 35% withholding applies in full to outbound dividends. A current list of treaties in force is maintained by the <a href="https://www.estv.admin.ch/estv/en/home/international-tax-law/double-taxation-agreements/in-force.html" target="_blank" rel="nofollow noopener">Swiss Federal Tax Administration (ESTV)</a>.
+No. Switzerland has concluded over 100 treaties currently in force, covering most major economies and trading partners. Notable gaps include several African and Central Asian countries, and some smaller jurisdictions. Where no treaty exists, the domestic 35% withholding applies in full to outbound dividends. A current list of treaties in force is maintained by the <a href="https://www.sif.admin.ch/en/review-international-financial-tax-matters" target="_blank" rel="nofollow noopener">Swiss Federal Tax Administration (ESTV)</a>.
 
 **Can a non-Swiss company use a Swiss holding company to access Swiss treaty rates?**
 
@@ -278,7 +278,7 @@ For individuals, treaties use a sequential cascade: permanent home, centre of vi
 
 **The timing gap on refunds.** The standard withholding-and-refund cycle creates a structural cash flow problem for regular distributions. A Swiss subsidiary paying quarterly dividends of CHF 250'000 to a UK parent (0% treaty rate) withholds CHF 87'500 per quarter. The cumulative refund outstanding at any time: CHF 350'000 or more, depending on ESTV processing speed. Relief at source eliminates this entirely — but requires advance ESTV approval that most newly formed companies do not arrange.
 
-**Treaty rates change.** Switzerland regularly renegotiates its treaties. The Switzerland-India treaty was updated in 2011 with different dividend rates. Companies relying on treaty rates from five years ago without checking the current text may be applying the wrong rate. The ESTV publishes current treaty texts at <a href="https://www.estv.admin.ch/estv/en/home/international-tax-law/double-taxation-agreements/in-force.html" target="_blank" rel="nofollow noopener">estv.admin.ch</a>.
+**Treaty rates change.** Switzerland regularly renegotiates its treaties. The Switzerland-India treaty was updated in 2011 with different dividend rates. Companies relying on treaty rates from five years ago without checking the current text may be applying the wrong rate. The ESTV publishes current treaty texts at <a href="https://www.sif.admin.ch/en/review-international-financial-tax-matters" target="_blank" rel="nofollow noopener">estv.admin.ch</a>.
 
 **No treaty = 35% final.** For shareholders in countries without a Swiss DTA — including several African and Central Asian jurisdictions — the 35% rate is final with no reduction mechanism. A South African holding company (South Africa has a Swiss DTA with 5%/15% rates) is better positioned than a Nigerian one (no treaty: 35% final). This affects cantonal and structural planning for groups with diverse ownership.
 

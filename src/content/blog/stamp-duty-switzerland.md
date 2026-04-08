@@ -46,7 +46,7 @@ relatedArticles:
 ---
 
 
-Switzerland levies three distinct stamp duties (Stempelabgaben) administered by the <a href="https://www.estv.admin.ch/" target="_blank" rel="nofollow noopener">Swiss Federal Tax Administration (ESTV)</a>: the issuance stamp (Emissionsabgabe) on capital contributions, the securities transfer stamp (Umsatzabgabe) on securities transactions, and the insurance premium stamp (Versicherungsabgabe). Each affects different transactions and has its own rate, exemptions, and planning implications.
+Switzerland levies three distinct stamp duties (Stempelabgaben) administered by the <a href="https://www.estv.admin.ch/en" target="_blank" rel="nofollow noopener">Swiss Federal Tax Administration (ESTV)</a>: the issuance stamp (Emissionsabgabe) on capital contributions, the securities transfer stamp (Umsatzabgabe) on securities transactions, and the insurance premium stamp (Versicherungsabgabe). Each affects different transactions and has its own rate, exemptions, and planning implications.
 
 ---
 

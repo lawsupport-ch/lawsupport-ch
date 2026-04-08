@@ -154,7 +154,7 @@ The Zurich Commercial Register (Handelsregisteramt des Kantons Zürich) is one o
 
 **Swiss-resident director requirement.** Under Article 718 of the Swiss Code of Obligations, at least one person authorised to represent the company (typically a director) must be resident in Switzerland. This applies to both AG and GmbH formations. If you do not have a Swiss-resident co-founder or director, you will need a nominee director. We provide this service — see our [nominee director services](/corporate-services/nominee-director-switzerland/) for details.
 
-Company entries in the register can be searched at <a href="https://www.zefix.ch" target="_blank" rel="nofollow noopener">zefix.ch</a>, the official Swiss commercial register portal run by the <a href="https://www.bj.admin.ch" target="_blank" rel="nofollow noopener">Federal Office of Justice</a>.
+Company entries in the register can be searched at <a href="https://www.zefix.ch" target="_blank" rel="nofollow noopener">zefix.ch</a>, the official Swiss commercial register portal run by the <a href="https://www.bj.admin.ch/bj/en/home.html" target="_blank" rel="nofollow noopener">Federal Office of Justice</a>.
 
 ---
 
@@ -417,7 +417,7 @@ In addition to corporate income tax (approximately 19.7% effective in Zurich cit
 
 **How does company formation in Zurich compare to other European cities?**
 
-Zurich is more expensive and more heavily taxed than some European locations (notably Ireland, Luxembourg, and Malta for corporate structures), but Switzerland offers advantages that offset this: political and legal stability, the Swiss franc, strong banking, and an extensive double tax treaty network. The Swiss network covers over 100 countries, including the US, UK, Germany, and most of Asia. See the <a href="https://www.estv.admin.ch" target="_blank" rel="nofollow noopener">Swiss federal tax authority treaty list</a> for the full list.
+Zurich is more expensive and more heavily taxed than some European locations (notably Ireland, Luxembourg, and Malta for corporate structures), but Switzerland offers advantages that offset this: political and legal stability, the Swiss franc, strong banking, and an extensive double tax treaty network. The Swiss network covers over 100 countries, including the US, UK, Germany, and most of Asia. See the <a href="https://www.estv.admin.ch/en" target="_blank" rel="nofollow noopener">Swiss federal tax authority treaty list</a> for the full list.
 
 ---
 

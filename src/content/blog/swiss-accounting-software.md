@@ -98,7 +98,7 @@ Before evaluating software, understand the key Swiss compliance requirements you
 - Hotel/accommodation: 3.8%
 - Reduced rate (food, books, medicines): 2.6%
 
-Quarterly or semi-annual VAT reporting to the <a href="https://www.estv.admin.ch" target="_blank" rel="nofollow noopener">Swiss Federal Tax Administration (ESTV/AFC)</a>. Software must generate MWST/TVA-compliant returns.
+Quarterly or semi-annual VAT reporting to the <a href="https://www.estv.admin.ch/en" target="_blank" rel="nofollow noopener">Swiss Federal Tax Administration (ESTV/AFC)</a>. Software must generate MWST/TVA-compliant returns.
 
 For a full overview of Swiss VAT obligations, see our guide to [VAT in Switzerland](/tax-accounting/vat-switzerland/).
 

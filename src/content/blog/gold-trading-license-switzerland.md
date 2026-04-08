@@ -58,15 +58,9 @@ relatedArticles:
 
 Switzerland is one of the world's leading centres for gold trading, refining, and storage — and operating a gold trading business here requires specific regulatory compliance from day one. There is no single "gold trading licence" in Switzerland; the obligations depend on the nature of your activity. Physical spot trading requires SRO membership under the Anti-Money Laundering Act. Asset management or derivatives trading triggers FINMA oversight. This guide sets out exactly which rules apply to which activities, and how to structure your Swiss gold operation correctly.
 
-![Gold trading license Switzerland — regulatory overview for precious metals dealers](/images/gold-trading-license-switzerland-hero.jpg)
-*Image: 1200×630px hero — Swiss gold trading regulatory framework*
-
 ---
 
 ## Types of Gold Business in Switzerland
-
-![Types of gold business regulated in Switzerland](/images/gold-trading-types-switzerland.jpg)
-*Image: 800×450px — regulatory matrix by business type*
 
 | Business Type | Key Regulation |
 |---|---|
@@ -80,9 +74,6 @@ Switzerland is one of the world's leading centres for gold trading, refining, an
 ---
 
 ## Anti-Money Laundering (AML) Requirements
-
-![AML requirements for gold traders in Switzerland](/images/gold-trading-aml-switzerland.jpg)
-*Image: 800×450px — AMLA obligations for precious metals dealers*
 
 The most important compliance requirement for gold traders is the <a href="https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/en" target="_blank" rel="nofollow noopener">Anti-Money Laundering Act (AMLA / GwG)</a>. Gold trading is classified as a "financial intermediary" activity under AMLA because gold is a high-risk money laundering instrument.
 
@@ -117,9 +108,6 @@ A critical post-approval obligation: **three months after SRO membership is gran
 
 ## Precious Metals Control Act (PMCA / EMKG)
 
-![Precious metals hallmarking requirements Switzerland](/images/precious-metals-control-switzerland.jpg)
-*Image: 800×450px — Swiss hallmarking and assay requirements*
-
 Switzerland's Precious Metals Control Act (Edelmetallkontrollgesetz) governs:
 - The marking and fineness of gold, silver, and platinum articles
 - The use of precious metals hallmarks in Switzerland
@@ -135,9 +123,6 @@ For gold bullion trading (bars and coins at standard fineness), hallmarking requ
 ---
 
 ## VAT Treatment of Gold in Switzerland
-
-![VAT treatment of gold Switzerland — investment gold exemption](/images/gold-vat-switzerland.jpg)
-*Image: 800×450px — VAT exempt vs taxable gold categories*
 
 Switzerland applies special VAT rules to gold, following the EU model:
 
@@ -156,9 +141,6 @@ The VAT exemption for investment gold is a significant commercial advantage for 
 
 ## Gold Import and Export
 
-![Gold import export rules Switzerland customs](/images/gold-import-export-switzerland.jpg)
-*Image: 800×450px — customs declaration and responsible sourcing obligations*
-
 **Import:**
 - Gold imported for investment purposes: generally no import duties (Switzerland has zero tariffs on gold)
 - Gold from conflict zones / OECD Responsible Sourcing: Swiss refineries must conduct supply chain due diligence under the responsible gold sourcing frameworks (LBMA Responsible Gold Guidance)
@@ -176,9 +158,6 @@ The VAT exemption for investment gold is a significant commercial advantage for 
 
 ## Operating a Swiss Gold Refinery
 
-![Operating a Swiss gold refinery — LBMA accreditation](/images/swiss-gold-refinery.jpg)
-*Image: 800×450px — refinery authorisation and LBMA Good Delivery standard*
-
 Switzerland's major gold refineries operate under:
 - **Federal Precious Metals Control Office (EZVO) authorisation**
 - **LBMA (London Bullion Market Association) Good Delivery accreditation** — the global standard for gold bar quality accepted in international markets
@@ -189,9 +168,6 @@ Starting a new gold refinery in Switzerland is capital-intensive and requires LB
 ---
 
 ## Swiss Free Ports and Gold Storage
-
-![Swiss freeport gold storage Geneva Zurich](/images/swiss-freeport-gold-storage.jpg)
-*Image: 800×450px — freeport structure and AML obligations*
 
 Geneva's freeport (Ports Francs) and Zurich freeport are internationally known gold storage locations. Gold stored in Swiss freeports:
 - Is outside Swiss customs territory (import duties and VAT are suspended)

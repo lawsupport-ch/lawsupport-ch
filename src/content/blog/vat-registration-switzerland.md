@@ -94,7 +94,7 @@ VAT compliance is not free. Realistic annual costs for a small company:
 
 Switzerland's value-added tax is called **MWST** (*Mehrwertsteuer*) in German, **TVA** (*taxe sur la valeur ajoutee*) in French, and **IVA** (*imposta sul valore aggiunto*) in Italian. The legal basis is the **Mehrwertsteuergesetz (MWSTG)**, which entered into force in 2010 and was significantly amended in 2018 to bring foreign digital and service providers within the Swiss tax net.
 
-The tax is administered by the **Federal Tax Administration (<a href="https://www.estv.admin.ch" target="_blank" rel="nofollow noopener">ESTV</a> — Eidgenoessische Steuerverwaltung)**. Unlike EU VAT, Swiss VAT is entirely federal — there is no cantonal VAT layer. A single VAT number and a single return covers the whole country.
+The tax is administered by the **Federal Tax Administration (<a href="https://www.estv.admin.ch/en" target="_blank" rel="nofollow noopener">ESTV</a> — Eidgenoessische Steuerverwaltung)**. Unlike EU VAT, Swiss VAT is entirely federal — there is no cantonal VAT layer. A single VAT number and a single return covers the whole country.
 
 Switzerland is not an EU member, so EU VAT Directives do not apply. Companies that are EU VAT-registered still need a separate Swiss VAT number if they meet the registration criteria.
 

@@ -62,15 +62,9 @@ relatedArticles:
 
 Opening a restaurant, hotel, bar, or café in Switzerland requires a cantonal hotel restaurant license — the **Wirtepatent** or **Gastgewerbebewilligung** — before you can legally trade. Without it, you are operating illegally from day one. Every establishment that serves food or beverages for on-site consumption, or provides overnight accommodation, must hold this licence. This guide sets out exactly what you need, where cantonal rules diverge, and the realistic timeline you should plan around.
 
-![Hotel restaurant license Switzerland Wirtepatent — cantonal requirements overview](/images/hotel-restaurant-license-switzerland-hero.jpg)
-*Image: 1200×630px hero — Wirtepatent application process Switzerland*
-
 ---
 
 ## What Is the Wirtepatent?
-
-![Wirtepatent cantonal licensing authorities Switzerland](/images/wirtepatent-switzerland.jpg)
-*Image: 800×450px — map of cantonal licensing authorities*
 
 The Wirtepatent is the core hospitality licence in Switzerland. It authorises a named individual to operate a specific gastronomy or accommodation business at a specific address. The issuing authority differs by canton — in Zurich it is the Amt für Wirtschaft und Arbeit; in Zug it sits with the Volkswirtschaftsdirektion; in Geneva the Service de police du commerce et de lutte contre le travail au noir handles applications. Despite cantonal variation, the substantive requirements follow a consistent federal framework under the <a href="https://www.fedlex.admin.ch/eli/cc/2012/510/en" target="_blank" rel="nofollow noopener">Federal Food Safety Act</a>.
 
@@ -79,9 +73,6 @@ The licence is tied to both the operator and the premises. If management changes
 ---
 
 ## Core Requirements
-
-![Core requirements for hotel restaurant license Switzerland](/images/hotel-restaurant-license-requirements.jpg)
-*Image: 800×450px — four core requirements checklist*
 
 ### 1. Qualified Responsible Manager (Betriebsleiter)
 
@@ -122,9 +113,6 @@ Both extracts must be current — most cantons require them to be no older than 
 
 ## Alcohol Licence
 
-![Alcohol licence requirements Switzerland hospitality](/images/alcohol-licence-switzerland-hospitality.jpg)
-*Image: 800×450px — alcohol serving rules and age verification requirements*
-
 In most Swiss cantons the right to serve alcohol is incorporated into the Wirtepatent rather than being a separate permit — but you must explicitly request it and your premises must be confirmed compliant. Key rules:
 
 - **Beer and wine**: minimum customer age 16
@@ -137,9 +125,6 @@ Some cantons (notably Vaud and Geneva) impose additional conditions on late-nigh
 
 ## Music, Events, and Entertainment
 
-![Music and entertainment permits Switzerland hospitality](/images/music-events-permits-switzerland.jpg)
-*Image: 800×450px — SUISA registration and event permit requirements*
-
 Running a bar or club with amplified music, a dancefloor, or regular events requires additional permissions on top of the Wirtepatent:
 
 - **Musikbewilligung**: cantonal or communal music/performance licence
@@ -151,9 +136,6 @@ These are not optional. <a href="https://www.suisa.ch/en/" target="_blank" rel="
 ---
 
 ## L-GAV: The National Collective Labour Agreement
-
-![L-GAV labour agreement Swiss hospitality industry](/images/lgav-switzerland-hospitality.jpg)
-*Image: 800×450px — L-GAV key provisions: wages, hours, holidays*
 
 The **Landesgesamtarbeitsvertrag des Gastgewerbes (L-GAV)** is the national collective labour agreement for the hospitality industry. It is declared generally binding (allgemeinverbindlich), which means it applies to virtually every hotel, restaurant, bar, and catering business in Switzerland regardless of whether you are a union member. It sets mandatory minimums for:
 
@@ -170,9 +152,6 @@ To ensure your company is properly constituted before applying for the Wirtepate
 
 ## Hotel-Specific Requirements
 
-![Hotel-specific licensing requirements Switzerland](/images/hotel-requirements-switzerland.jpg)
-*Image: 800×450px — hotel fire safety, tourism tax, and star classification*
-
 Hotels face additional layers:
 
 - **Fire safety**: overnight accommodation triggers stricter cantonal fire regulations (Brandschutzrichtlinien VKF), including fire compartmentalisation, emergency lighting, and evacuation plans that must be updated and posted
@@ -183,9 +162,6 @@ Hotels face additional layers:
 ---
 
 ## Costs and Timeline
-
-![Hotel restaurant license Switzerland costs and timeline](/images/wirtepatent-costs-timeline.jpg)
-*Image: 800×450px — cost breakdown table and timeline chart*
 
 | Item | Typical Cost |
 |---|---|
@@ -200,9 +176,6 @@ Hotels face additional layers:
 ---
 
 ## Cantonal Differences Worth Knowing
-
-![Cantonal differences Wirtepatent Zurich Geneva Zug](/images/cantonal-wirtepatent-differences.jpg)
-*Image: 800×450px — canton comparison: Zurich, Geneva, Zug*
 
 The **Bedürfnisnachweis** — the old requirement to prove the neighbourhood needed another restaurant — has been abolished in most cantons and is inconsistent with federal competition law where it survives. Do not let a cantonal official revive it informally.
 
@@ -235,9 +208,6 @@ Restaurant and hotel turnover is subject to Swiss VAT. The reduced VAT rate appl
 ---
 
 ## Step-by-Step Checklist: Opening a Restaurant or Hotel in Switzerland
-
-![Step-by-step checklist hotel restaurant opening Switzerland](/images/hotel-restaurant-opening-checklist.jpg)
-*Image: 800×450px — 13-step opening checklist*
 
 1. Confirm the premises zoning permits gastronomy or accommodation use
 2. Engage an architect or fit-out specialist familiar with cantonal fire and sanitation standards

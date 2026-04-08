@@ -166,7 +166,7 @@ Records may be kept in paper or in a recognised electronic format, provided the 
 
 ## Digital Bookkeeping in Switzerland
 
-Swiss law permits fully digital bookkeeping, provided the system meets the conditions set out in Art. 958f(3) CO and the <a href="https://www.admin.ch/gov/en/start.html" target="_blank" rel="nofollow noopener">Swiss Federal Council's Ordinance on the keeping of books of account</a>. The key requirements are:
+Swiss law permits fully digital bookkeeping, provided the system meets the conditions set out in Art. 958f(3) CO and the <a href="https://www.fedlex.admin.ch/eli/cc/2002/453/en" target="_blank" rel="nofollow noopener">Swiss Federal Council's Ordinance on the keeping of books of account</a>. The key requirements are:
 
 - **Authenticity:** Records must be protected against unauthorised alteration. An audit trail must exist for every change.
 - **Integrity:** The bookkeeping system must ensure that records cannot be deleted or modified without a trace.
@@ -229,7 +229,7 @@ If you are incorporating a new company, discuss the optimal financial year with 
 
 **Currency:** Accounts may be maintained in any currency material to the company's operations. However, for Swiss tax purposes, financial statements must be presented in **Swiss francs (CHF)**. If your functional currency is USD or EUR, you will need to apply a consistent conversion methodology (typically the year-end rate for balance sheet items and average rate for income statement items) and document this approach.
 
-The <a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">Swiss Federal Tax Administration (ESTV)</a> expects CHF-denominated tax accounts, and cantonal tax authorities follow the same requirement.
+The <a href="https://www.estv.admin.ch/en" target="_blank" rel="nofollow noopener">Swiss Federal Tax Administration (ESTV)</a> expects CHF-denominated tax accounts, and cantonal tax authorities follow the same requirement.
 
 ---
 

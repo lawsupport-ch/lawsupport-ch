@@ -157,7 +157,7 @@ From 2024, Switzerland has implemented the OECD/G20 Pillar Two global minimum ta
 
 ### Double Tax Treaties
 
-Switzerland has concluded over 108 double tax treaties with countries around the world. These treaties typically reduce or eliminate withholding tax on dividends, interest, and royalties paid between Switzerland and the treaty partner country. The Federal Tax Administration publishes treaty texts at <a href="https://www.estv.admin.ch" target="_blank" rel="nofollow noopener">estv.admin.ch</a>.
+Switzerland has concluded over 108 double tax treaties with countries around the world. These treaties typically reduce or eliminate withholding tax on dividends, interest, and royalties paid between Switzerland and the treaty partner country. The Federal Tax Administration publishes treaty texts at <a href="https://www.estv.admin.ch/en" target="_blank" rel="nofollow noopener">estv.admin.ch</a>.
 
 Withholding tax on dividends from Swiss companies is levied at the statutory rate of 35% for payments to Swiss resident shareholders. For non-resident shareholders, the DTT network is central. Under many DTTs, the rate on dividends paid by a Swiss subsidiary to a foreign parent company is reduced to 0% or 5% for qualifying corporate shareholders. Under the EU-Switzerland Agreement, dividends between a Swiss subsidiary and an EU parent holding 25% or more may be exempt from withholding, subject to conditions.
 

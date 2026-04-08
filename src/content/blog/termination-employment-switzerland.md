@@ -92,7 +92,7 @@ Parties can agree to longer notice periods (and this is common in management con
 
 ### Collective Labour Agreement (GAV) Notice Periods
 
-Many industries have binding GAVs that set notice periods differing from the statutory minimums. The GAV notice period overrides the statutory period if the GAV applies to the employer. The <a href="https://www.seco.admin.ch" target="_blank" rel="nofollow noopener">State Secretariat for Economic Affairs (SECO)</a> maintains a register of declared binding GAVs.
+Many industries have binding GAVs that set notice periods differing from the statutory minimums. The GAV notice period overrides the statutory period if the GAV applies to the employer. The <a href="https://www.seco.admin.ch/seco/en/home.html" target="_blank" rel="nofollow noopener">State Secretariat for Economic Affairs (SECO)</a> maintains a register of declared binding GAVs.
 
 ---
 

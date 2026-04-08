@@ -117,7 +117,7 @@ Switzerland is a confederation of 26 cantons. This is not a formality. Cantons h
 
 For businesses, **where you incorporate and where you operate** matters in ways that go beyond symbolism. The canton of Zug charges a materially lower corporate tax rate than the canton of Bern. A hospitality business must comply with cantonal licensing requirements. Employment rules can be supplemented by cantonal collective agreements.
 
-Understanding the federal/cantonal distinction is essential to operating in Switzerland efficiently and compliantly. The <a href="https://www.admin.ch/gov/en/start/federal-council/swiss-confederation.html" target="_blank" rel="nofollow noopener">Swiss Confederation's official portal</a> provides an authoritative overview of the federal structure.
+Understanding the federal/cantonal distinction is essential to operating in Switzerland efficiently and compliantly. The <a href="https://www.admin.ch/gov/en/start/federal-council.html" target="_blank" rel="nofollow noopener">Swiss Confederation's official portal</a> provides an authoritative overview of the federal structure.
 
 ---
 
@@ -283,7 +283,7 @@ However, several sectors are subject to dedicated federal regulatory oversight:
 - **Real estate brokerage, legal services, and certain professional activities**: Subject to cantonal or professional body regulation.
 - **Staff leasing (Personalverleih)**: Any company placing temporary workers in Switzerland requires a SECO staff leasing licence — there is no minimum threshold of contracts. The common belief that fewer than ten placements are exempt is **false**. Fines reach CHF 100,000 for unlicensed providers and CHF 40,000 for clients who knowingly use them. The responsible person must be a Swiss resident with relevant qualifications and clean criminal and debt records. Foreign companies using a Master Services Agreement from their parent entity should note that the MSA must be issued by the **Swiss legal entity** — a foreign-issued MSA has no standing for Swiss staff leasing compliance.
 
-The <a href="https://www.seco.admin.ch/seco/en/home/Arbeit/Arbeitsbedingungen/arbeitsrecht.html" target="_blank" rel="nofollow noopener">State Secretariat for Economic Affairs (SECO)</a> publishes guidance on business activities and labour law compliance.
+The <a href="https://www.seco.admin.ch/seco/en/home/Arbeit/Arbeitsbedingungen.html" target="_blank" rel="nofollow noopener">State Secretariat for Economic Affairs (SECO)</a> publishes guidance on business activities and labour law compliance.
 
 ---
 

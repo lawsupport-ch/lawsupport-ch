@@ -79,7 +79,7 @@ The first and most important employer registration in Switzerland is with the ca
 - ALV (unemployment insurance): 2.2% up to CHF 148,200 annual salary (employer 1.1%, employee 1.1%); 1% solidarity surcharge above CHF 148,200
 - FAK (family allowances): cantonal; employer pays approximately 1.5–3.5% of payroll (rate depends on canton)
 
-The Federal Social Insurance Office (FSIO) publishes AHV contribution rates and thresholds at <a href="https://www.admin.ch/gov/en/start/documentation/media-releases.msg-id-92882.html" target="_blank" rel="nofollow noopener">admin.ch</a>.
+The Federal Social Insurance Office (FSIO) publishes AHV contribution rates and thresholds at <a href="https://www.news.admin.ch/en/nsb?id=92882" target="_blank" rel="nofollow noopener">admin.ch</a>.
 
 ---
 
@@ -139,7 +139,7 @@ For employees who require a [work permit in Switzerland](/immigration/work-permi
 
 For new companies expecting to exceed CHF 100,000 in turnover in the first year, voluntary early registration is advisable — it allows input VAT recovery from the start. Registration takes 2–4 weeks.
 
-The ESTV provides VAT registration forms and guidance on <a href="https://www.estv.admin.ch/estv/en/home/value-added-tax/vat-registration.html" target="_blank" rel="nofollow noopener">estv.admin.ch</a>. For a full breakdown of Swiss VAT rates and rules, see our [VAT Switzerland](/tax-accounting/vat-switzerland/) guide.
+The ESTV provides VAT registration forms and guidance on <a href="https://www.estv.admin.ch/en/value-added-tax" target="_blank" rel="nofollow noopener">estv.admin.ch</a>. For a full breakdown of Swiss VAT rates and rules, see our [VAT Switzerland](/tax-accounting/vat-switzerland/) guide.
 
 ---
 

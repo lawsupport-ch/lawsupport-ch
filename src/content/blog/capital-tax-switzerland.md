@@ -75,7 +75,7 @@ Capital tax (Kapitalsteuer) is a cantonal tax on corporate net equity — not pr
 2. **Wrong canton.** A holding company in Basel-Stadt (0.345%) pays 4.6x more capital tax than the same structure in Zug (0.075%). On CHF 20 million equity, that is CHF 54'000 per year wasted.
 3. **Missing the participation reduction.** Most cantons offer reduced capital tax rates for companies whose assets are predominantly subsidiary holdings. Failing to claim this reduction — or structuring the balance sheet so it does not qualify — leaves money on the table every year.
 
-The legal basis is Articles 29 and 30 of the <a href="https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/en" target="_blank" rel="nofollow noopener">Federal Tax Harmonisation Act (StHG)</a>, which require cantons to tax corporate equity. The <a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">Swiss Federal Tax Administration (ESTV)</a> publishes annual cantonal tax burden statistics including capital tax rates.
+The legal basis is Articles 29 and 30 of the <a href="https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/en" target="_blank" rel="nofollow noopener">Federal Tax Harmonisation Act (StHG)</a>, which require cantons to tax corporate equity. The <a href="https://www.estv.admin.ch/en" target="_blank" rel="nofollow noopener">Swiss Federal Tax Administration (ESTV)</a> publishes annual cantonal tax burden statistics including capital tax rates.
 ---
 
 ## Capital Tax Rates by Canton (2026)
@@ -303,8 +303,8 @@ In several cantons — including Zug — the capital tax paid is deductible from
 **Sources**
 
 - Federal Tax Harmonisation Act (StHG), Articles 29–30 — <a href="https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/en" target="_blank" rel="nofollow noopener">fedlex.admin.ch</a>
-- Swiss Federal Tax Administration (ESTV) — <a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">estv.admin.ch</a>
-- Swiss Confederation — cantonal and federal tax information — <a href="https://www.admin.ch/gov/en/start/documentation/media-releases.msg-id-73882.html" target="_blank" rel="nofollow noopener">admin.ch</a>
+- Swiss Federal Tax Administration (ESTV) — <a href="https://www.estv.admin.ch/en" target="_blank" rel="nofollow noopener">estv.admin.ch</a>
+- Swiss Confederation — cantonal and federal tax information — <a href="https://www.news.admin.ch/en/nsb?id=73882" target="_blank" rel="nofollow noopener">admin.ch</a>
 
 ---
 

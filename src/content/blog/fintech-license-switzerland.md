@@ -257,7 +257,7 @@ Consumer protection and AML compliance are FINMA's non-negotiable priorities. Ap
 
 For the corporate structure that underpins any fintech authorisation, see our guides on [AG formation](/company-formation/ag-formation-switzerland/), [GmbH formation](/company-formation/gmbh-formation-switzerland/), and [corporate bank accounts in Switzerland](/banking/corporate-bank-account-switzerland/). For the [capital deposit account](/banking/capital-deposit-account-switzerland/) required at incorporation, see our dedicated guide.
 
-The <a href="https://www.seco.admin.ch/seco/en/home/Standortfoerderung/Wirtschaftspolitik/Finanzmarktpolitik/fintech.html" target="_blank" rel="nofollow noopener">SECO overview of Swiss fintech policy</a> provides context on how the regulatory framework fits within Switzerland's broader economic strategy.
+The <a href="https://www.seco.admin.ch/seco/en/home.html" target="_blank" rel="nofollow noopener">SECO overview of Swiss fintech policy</a> provides context on how the regulatory framework fits within Switzerland's broader economic strategy.
 
 ---
 

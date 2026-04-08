@@ -410,7 +410,7 @@ Many tokens have **hybrid characteristics** — for example, a utility token wit
 - **Treaty network:** Switzerland's bilateral agreements with the EU and its global double tax treaty network facilitate cross-border operations.
 - **Reputation:** A Swiss regulatory license carries weight in investor due diligence, institutional partnership discussions, and regulatory conversations in other jurisdictions.
 
-The <a href="https://www.admin.ch/gov/en/start/documentation/media-releases.msg-id-90520.html" target="_blank" rel="nofollow noopener">Swiss Federal Council's fintech and blockchain policy statements</a> provide official context for Switzerland's approach to digital asset regulation.
+The <a href="https://www.news.admin.ch/en/nsb?id=90520" target="_blank" rel="nofollow noopener">Swiss Federal Council's fintech and blockchain policy statements</a> provide official context for Switzerland's approach to digital asset regulation.
 
 ---
 

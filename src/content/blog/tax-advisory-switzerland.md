@@ -74,7 +74,7 @@ For any non-standard structure — a holding company, an IP holding arrangement,
 Swiss companies transacting with related parties — parent companies, subsidiaries, affiliated entities — must document that those transactions occur at arm's length prices. Tax advisory includes designing [transfer pricing](/tax-accounting/transfer-pricing-switzerland/) policies, preparing documentation, and reviewing intercompany pricing on an ongoing basis. The Steuerverwaltung Zug can issue rulings on transfer pricing for specific intercompany arrangements.
 
 **6. Thin capitalisation management**
-Swiss tax law limits the deductibility of interest on related-party debt exceeding safe harbour debt-to-equity ratios. Advisory work involves structuring the company's financing to stay within these limits, or accepting and managing the consequences where they cannot be met. The safe harbour ratios are published by the <a href="https://www.estv.admin.ch" target="_blank" rel="nofollow noopener">Federal Tax Administration (ESTV)</a> and vary by asset type.
+Swiss tax law limits the deductibility of interest on related-party debt exceeding safe harbour debt-to-equity ratios. Advisory work involves structuring the company's financing to stay within these limits, or accepting and managing the consequences where they cannot be met. The safe harbour ratios are published by the <a href="https://www.estv.admin.ch/en" target="_blank" rel="nofollow noopener">Federal Tax Administration (ESTV)</a> and vary by asset type.
 
 **7. Withholding tax planning**
 Switzerland levies 35% [withholding tax](/tax-accounting/withholding-tax-switzerland/) on dividends paid by Swiss companies to shareholders. For foreign shareholders, this is refundable or creditable under [double tax treaties](/tax-accounting/double-tax-treaties-switzerland/) — but only if the treaty conditions are met and the recipient is the beneficial owner. Planning dividend distributions through the Swiss company, and ensuring treaty entitlement is documented in advance, avoids unnecessary withholding tax costs.
@@ -96,7 +96,7 @@ We do not advise on structures that rely on:
 - Tax positions that have no reasonable legal basis
 - Offshore elements that are misrepresented to Swiss or foreign tax authorities
 
-Switzerland's international reputation — and the credibility of Swiss tax structures — depends on their genuine legal basis. Every structure we advise on must be defensible under Swiss law and consistent with <a href="https://www.admin.ch/gov/en/start.html" target="_blank" rel="nofollow noopener">OECD BEPS standards</a>.
+Switzerland's international reputation — and the credibility of Swiss tax structures — depends on their genuine legal basis. Every structure we advise on must be defensible under Swiss law and consistent with <a href="https://www.sif.admin.ch/en/review-international-financial-tax-matters" target="_blank" rel="nofollow noopener">OECD BEPS standards</a>.
 
 ---
 

@@ -240,7 +240,7 @@ Yes. Switzerland is a Schengen Area member since 2008. Any valid Schengen visa i
 
 **Do EU citizens need a visa for Switzerland?**
 
-No. EU/EFTA citizens can enter and reside in Switzerland freely under the <a href="https://www.admin.ch/gov/en/start.html" target="_blank" rel="nofollow noopener">Agreement on the Free Movement of Persons (AFMP)</a>. They receive a residence permit upon registering with the commune.
+No. EU/EFTA citizens can enter and reside in Switzerland freely under the <a href="https://www.sem.admin.ch/sem/en/home/themen/fza_schweiz-eu-efta.html" target="_blank" rel="nofollow noopener">Agreement on the Free Movement of Persons (AFMP)</a>. They receive a residence permit upon registering with the commune.
 
 **What travel insurance is required for a Swiss Schengen visa?**
 

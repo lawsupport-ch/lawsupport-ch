@@ -108,7 +108,7 @@ A family of 2 adults + 1 child: **CHF 1'200–1'800/month** before any supplemen
 
 On top of premiums: the annual deductible (CHF 300–2'500), 10% retention on costs above the deductible (capped at CHF 700/year), and dental — which basic insurance does not cover (budget CHF 500–2'000/year).
 
-**Premium subsidies:** ~30% of the Swiss population receives cantonal subsidies (Prämienverbilligungen). Guidance at <a href="https://www.bsv.admin.ch" target="_blank" rel="nofollow noopener">bsv.admin.ch</a>.
+**Premium subsidies:** ~30% of the Swiss population receives cantonal subsidies (Prämienverbilligungen). Guidance at <a href="https://www.bsv.admin.ch/en" target="_blank" rel="nofollow noopener">bsv.admin.ch</a>.
 
 ---
 

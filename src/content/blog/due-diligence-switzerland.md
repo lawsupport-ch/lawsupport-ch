@@ -108,7 +108,7 @@ Tax is where Swiss-specific issues are most likely to generate material findings
 
 **International structures.** For targets with foreign subsidiaries or cross-border service flows, assess permanent establishment risk, treaty eligibility, and whether any BEPS-related adjustments are pending. Switzerland's participation in the OECD Pillar Two global minimum tax (applicable from 2024) is relevant for groups with consolidated revenue above EUR 750 million.
 
-For a detailed overview of Swiss [corporate tax](/tax-accounting/corporate-tax-switzerland/) structures, see our dedicated guide. The ESTV publishes tax circular letters and guidance at <a href="https://www.estv.admin.ch" target="_blank" rel="nofollow noopener">estv.admin.ch</a>.
+For a detailed overview of Swiss [corporate tax](/tax-accounting/corporate-tax-switzerland/) structures, see our dedicated guide. The ESTV publishes tax circular letters and guidance at <a href="https://www.estv.admin.ch/en" target="_blank" rel="nofollow noopener">estv.admin.ch</a>.
 
 ### 4. Regulatory and Compliance Due Diligence
 

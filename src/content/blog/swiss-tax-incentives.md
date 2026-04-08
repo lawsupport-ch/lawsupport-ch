@@ -181,13 +181,13 @@ STAF introduced a **relief cap**: the combined cantonal tax relief from IP box, 
 
 ## Advance Tax Ruling
 
-Before implementing IP box or R&D super-deduction structures, companies should obtain an **advance tax ruling** from the cantonal tax authority confirming the treatment. Zug's Steuerverwaltung processes ruling requests and provides certainty — critical for long-term R&D investment decisions. The ruling process in Switzerland is well established and provides binding confirmation of the tax treatment for a defined set of facts, as outlined in the <a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">Federal Tax Administration (ESTV)</a> guidelines.
+Before implementing IP box or R&D super-deduction structures, companies should obtain an **advance tax ruling** from the cantonal tax authority confirming the treatment. Zug's Steuerverwaltung processes ruling requests and provides certainty — critical for long-term R&D investment decisions. The ruling process in Switzerland is well established and provides binding confirmation of the tax treatment for a defined set of facts, as outlined in the <a href="https://www.estv.admin.ch/en" target="_blank" rel="nofollow noopener">Federal Tax Administration (ESTV)</a> guidelines.
 
 ---
 
 ## Swiss Tax Incentives and International Compliance
 
-The STAF incentives were specifically designed to comply with <a href="https://www.admin.ch/gov/en/start.html" target="_blank" rel="nofollow noopener">international standards</a> under the OECD BEPS framework. Unlike the old cantonal regimes, the IP box, R&D super-deduction, and NID do not create harmful ring-fencing of foreign-source income. This means companies using these incentives face no risk of being placed on EU or OECD blacklists, providing long-term certainty for international structures.
+The STAF incentives were specifically designed to comply with <a href="https://www.sif.admin.ch/en/review-international-financial-tax-matters" target="_blank" rel="nofollow noopener">international standards</a> under the OECD BEPS framework. Unlike the old cantonal regimes, the IP box, R&D super-deduction, and NID do not create harmful ring-fencing of foreign-source income. This means companies using these incentives face no risk of being placed on EU or OECD blacklists, providing long-term certainty for international structures.
 
 Companies with cross-border operations should also consider how [double tax treaties](/tax-accounting/double-tax-treaties-switzerland/) interact with these incentives to avoid double taxation on IP income flows.
 

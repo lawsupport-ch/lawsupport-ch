@@ -214,7 +214,7 @@ For a full overview of the legal framework, see our [employment law Switzerland]
 
 If your industry sector has a binding GAV (generally binding / allgemein verbindlich erklärt), its terms override contrary contract terms to the extent they are more favourable to the employee. Key GAV sectors: construction, hospitality (L-GAV), cleaning, healthcare, metalworking, retail.
 
-Before drafting a contract, confirm whether a binding GAV applies. Non-compliance with a binding GAV can result in back-pay claims plus penalties. The State Secretariat for Economic Affairs (SECO) maintains the official register of generally binding collective agreements — search it at <a href="https://www.seco.admin.ch" target="_blank" rel="nofollow noopener">seco.admin.ch</a>.
+Before drafting a contract, confirm whether a binding GAV applies. Non-compliance with a binding GAV can result in back-pay claims plus penalties. The State Secretariat for Economic Affairs (SECO) maintains the official register of generally binding collective agreements — search it at <a href="https://www.seco.admin.ch/seco/en/home.html" target="_blank" rel="nofollow noopener">seco.admin.ch</a>.
 
 You can also verify your obligations on <a href="https://www.admin.ch" target="_blank" rel="nofollow noopener">admin.ch</a>, and consult the statutory framework directly via <a href="https://www.fedlex.admin.ch" target="_blank" rel="nofollow noopener">fedlex.admin.ch</a>.
 

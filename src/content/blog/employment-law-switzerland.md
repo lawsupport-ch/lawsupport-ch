@@ -98,7 +98,7 @@ Cantonal law adds a further layer — particularly for working hour permits, Sun
 
 ### Collective Labour Agreements (GAV / CCT)
 
-Many Swiss industries operate under **Gesamtarbeitsverträge (GAV)** — collective labour agreements negotiated between employer associations and unions. Some are **declared generally binding (allgemeinverbindlich)**, meaning they apply to all employers in that sector even if you are not a member of the relevant employer association. Industries commonly subject to GAV include construction, hospitality, cleaning, logistics, and retail. Check whether a GAV applies to your sector before you draft your first employment contract. Non-compliance can lead to back-payment obligations and union audit rights. The SECO register at <a href="https://www.seco.admin.ch" target="_blank" rel="nofollow noopener">seco.admin.ch</a> lists all currently binding GAVs.
+Many Swiss industries operate under **Gesamtarbeitsverträge (GAV)** — collective labour agreements negotiated between employer associations and unions. Some are **declared generally binding (allgemeinverbindlich)**, meaning they apply to all employers in that sector even if you are not a member of the relevant employer association. Industries commonly subject to GAV include construction, hospitality, cleaning, logistics, and retail. Check whether a GAV applies to your sector before you draft your first employment contract. Non-compliance can lead to back-payment obligations and union audit rights. The SECO register at <a href="https://www.seco.admin.ch/seco/en/home.html" target="_blank" rel="nofollow noopener">seco.admin.ch</a> lists all currently binding GAVs.
 
 ---
 

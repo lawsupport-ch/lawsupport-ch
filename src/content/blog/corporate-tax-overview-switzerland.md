@@ -86,7 +86,7 @@ Key points about federal corporate tax:
 - **Minimum tax**: None at federal level — loss-making companies pay zero
 - **Filing**: Through the cantonal tax authority, which forwards the federal portion
 
-The Federal Tax Administration (<a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">ESTV/AFC</a>) oversees the system, but day-to-day administration happens at cantonal level.
+The Federal Tax Administration (<a href="https://www.estv.admin.ch/en" target="_blank" rel="nofollow noopener">ESTV/AFC</a>) oversees the system, but day-to-day administration happens at cantonal level.
 
 ---
 

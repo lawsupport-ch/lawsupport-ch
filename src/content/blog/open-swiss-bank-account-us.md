@@ -308,7 +308,7 @@ Morgan Hartley Consulting (Morgan Hartley Consulting) works with US entrepreneur
 
 We do not offer tax advice -- you will need a US CPA familiar with foreign account reporting for that -- but we handle the Swiss side: the entity, the address, the banking introduction, and the ongoing registered agent and director services.
 
-For authoritative information on FATCA requirements, see the <a href="https://www.irs.gov/businesses/corporations/foreign-account-tax-compliance-act-fatca" target="_blank" rel="nofollow noopener">IRS FATCA page</a>. For FBAR filing guidance, refer to <a href="https://www.fincen.gov/report-foreign-bank-and-financial-accounts" target="_blank" rel="nofollow noopener">FinCEN's FBAR filing portal</a>. For the Swiss-US FATCA agreement, see the <a href="https://www.sif.admin.ch/sif/en/home/bilateral/usa/fatca.html" target="_blank" rel="nofollow noopener">Swiss State Secretariat for International Finance</a>.
+For authoritative information on FATCA requirements, see the <a href="https://www.irs.gov/businesses/corporations/foreign-account-tax-compliance-act-fatca" target="_blank" rel="nofollow noopener">IRS FATCA page</a>. For FBAR filing guidance, refer to <a href="https://www.fincen.gov/report-foreign-bank-and-financial-accounts" target="_blank" rel="nofollow noopener">FinCEN's FBAR filing portal</a>. For the Swiss-US FATCA agreement, see the <a href="https://www.sif.admin.ch/en/review-international-financial-tax-matters" target="_blank" rel="nofollow noopener">Swiss State Secretariat for International Finance</a>.
 
 ---
 

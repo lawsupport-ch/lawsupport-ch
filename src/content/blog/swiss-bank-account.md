@@ -244,7 +244,7 @@ For most foreign entrepreneurs forming a [GmbH](/company-formation/gmbh-formatio
 
 ## Swiss Bank Account for US Citizens: The FATCA Layer
 
-US citizens and green card holders face an additional compliance layer when opening any foreign bank account: FATCA (Foreign Account Tax Compliance Act). Under FATCA, Swiss banks that accept US persons must report account details annually to the IRS via the <a href="https://www.estv.admin.ch/estv/en/home/international-fiscal-law/automatic-exchange-of-information/fatca.html" target="_blank" rel="nofollow noopener">Swiss Federal Tax Administration</a>. This creates significant compliance cost for banks, and many Swiss retail and cantonal banks simply decline US persons to avoid the reporting obligation.
+US citizens and green card holders face an additional compliance layer when opening any foreign bank account: FATCA (Foreign Account Tax Compliance Act). Under FATCA, Swiss banks that accept US persons must report account details annually to the IRS via the <a href="https://www.sif.admin.ch/en/review-international-financial-tax-matters" target="_blank" rel="nofollow noopener">Swiss Federal Tax Administration</a>. This creates significant compliance cost for banks, and many Swiss retail and cantonal banks simply decline US persons to avoid the reporting obligation.
 
 Banks that do accept US persons include:
 

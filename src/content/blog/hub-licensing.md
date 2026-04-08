@@ -228,13 +228,13 @@ Healthcare regulation is split between Swissmedic (federal) and cantonal health 
 - **Swissmedic**: authorises pharmaceutical manufacturers, approves medicinal products for the Swiss market, regulates medical devices, and oversees clinical trials
 - **Cantonal health departments**: licence healthcare practitioners (doctors, dentists, nurses, physiotherapists), hospitals, clinics, pharmacies, and laboratories
 
-Medical practitioners who qualified abroad must have their qualifications recognised by <a href="https://www.bag.admin.ch/bag/en/home.html" target="_blank" rel="nofollow noopener">MEBEKO</a> (the Swiss medical professions commission) before applying for a cantonal practice authorisation. EU/EFTA qualifications benefit from mutual recognition; non-EU qualifications face a more extensive verification process.
+Medical practitioners who qualified abroad must have their qualifications recognised by <a href="https://www.bag.admin.ch/en" target="_blank" rel="nofollow noopener">MEBEKO</a> (the Swiss medical professions commission) before applying for a cantonal practice authorisation. EU/EFTA qualifications benefit from mutual recognition; non-EU qualifications face a more extensive verification process.
 
 The new Swiss Medical Devices Ordinance (MepV), aligned with EU MDR, imposes additional requirements on medical device manufacturers and distributors, including conformity assessments, post-market surveillance, and Unique Device Identification (UDI).
 
 ### Export Controls
 
-The <a href="https://www.seco.admin.ch/seco/en/home/Aussenwirtschaftspolitik/Wirtschaftliche_Landesversorgung/Exportkontrollen.html" target="_blank" rel="nofollow noopener">State Secretariat for Economic Affairs (SECO)</a> administers export controls on:
+The <a href="https://www.seco.admin.ch/seco/en/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen.html" target="_blank" rel="nofollow noopener">State Secretariat for Economic Affairs (SECO)</a> administers export controls on:
 
 - Dual-use goods (items with both civilian and military applications)
 - Military equipment and weapons

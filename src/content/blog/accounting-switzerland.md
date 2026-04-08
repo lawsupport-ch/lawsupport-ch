@@ -218,7 +218,7 @@ AG and GmbH with **fewer than 10 full-time employees** may dispense with even th
 
 All accounting records — books of account, vouchers, correspondence, and supporting documents — must be retained for **10 years** from the end of the financial year to which they relate (Art. 958f OR). This applies equally to paper and electronic records. Electronic retention is permitted provided the records remain legible and retrievable throughout the retention period. Destruction before the 10-year deadline exposes directors to personal liability and can create serious complications in the event of a tax audit or dispute.
 
-The <a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">Swiss Federal Tax Administration (ESTV)</a> can demand production of records at any time within the retention window. Gaps in the record are typically resolved in the authority's favour.
+The <a href="https://www.estv.admin.ch/en" target="_blank" rel="nofollow noopener">Swiss Federal Tax Administration (ESTV)</a> can demand production of records at any time within the retention window. Gaps in the record are typically resolved in the authority's favour.
 
 ---
 
@@ -232,7 +232,7 @@ Swiss companies are not required to maintain accounts in Swiss francs. Where a c
 
 A point that surprises many founders coming from the UK or Germany: **Swiss private companies do not file financial statements with the Commercial Register**. There is no public filing obligation for AG or GmbH. Accounts are submitted to the cantonal tax authority as part of the annual [corporate tax return Switzerland](/tax-accounting/corporate-tax-return-switzerland/) and remain confidential. Only the basic company data — directors, share capital, registered office — appears in the public register.
 
-This means a Swiss company's financial position is entirely private unless the company chooses to publish its accounts or is subject to special regulatory reporting (for example, as a bank or insurance company). For listed companies on SIX, public financial reporting is mandatory under the exchange's listing rules. More information on cantonal tax procedures is available via the <a href="https://www.admin.ch/gov/en/start/documentation/links/federal-authorities/federal-department-of-finance.html" target="_blank" rel="nofollow noopener">Federal Department of Finance</a>.
+This means a Swiss company's financial position is entirely private unless the company chooses to publish its accounts or is subject to special regulatory reporting (for example, as a bank or insurance company). For listed companies on SIX, public financial reporting is mandatory under the exchange's listing rules. More information on cantonal tax procedures is available via the <a href="https://www.efd.admin.ch/en" target="_blank" rel="nofollow noopener">Federal Department of Finance</a>.
 
 For the broader tax implications of your accounting results, see our guide on [corporate tax Switzerland](/tax-accounting/corporate-tax-switzerland/).
 
@@ -250,7 +250,7 @@ If your accounting records are incomplete or in disarray, see how we handle [acc
 
 ## VAT and Accounting Interaction
 
-Swiss VAT obligations interact directly with accounting records. Companies with annual turnover above CHF 100'000 — a threshold that includes worldwide taxable turnover, not just Swiss revenue — are required to register for VAT with the <a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">ESTV</a> and submit periodic returns. The VAT method chosen — effective method or flat-rate method — affects how the income statement is presented and how input tax is tracked. Failure to reconcile VAT accounts with the general ledger is a common source of errors in Swiss tax audits. For registration requirements, see our [VAT registration Switzerland](/tax-accounting/vat-registration-switzerland/) guide.
+Swiss VAT obligations interact directly with accounting records. Companies with annual turnover above CHF 100'000 — a threshold that includes worldwide taxable turnover, not just Swiss revenue — are required to register for VAT with the <a href="https://www.estv.admin.ch/en" target="_blank" rel="nofollow noopener">ESTV</a> and submit periodic returns. The VAT method chosen — effective method or flat-rate method — affects how the income statement is presented and how input tax is tracked. Failure to reconcile VAT accounts with the general ledger is a common source of errors in Swiss tax audits. For registration requirements, see our [VAT registration Switzerland](/tax-accounting/vat-registration-switzerland/) guide.
 
 ---
 

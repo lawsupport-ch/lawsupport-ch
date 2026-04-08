@@ -140,7 +140,7 @@ Registration below CHF 100'000 is permitted and often worth considering. The mai
 
 ### Registration Process
 
-Registration is completed online via the <a href="https://www.estv.admin.ch" target="_blank" rel="nofollow noopener">ESTV portal</a>. The business receives a **UID number with the MWST suffix** and is assigned ESTV reference numbers for correspondence and filing (e.g., CHE-123.456.789 MWST), which must appear on all VAT invoices. Processing takes **one to four weeks** in standard cases. Foreign businesses may need to appoint a Swiss fiscal representative.
+Registration is completed online via the <a href="https://www.estv.admin.ch/en" target="_blank" rel="nofollow noopener">ESTV portal</a>. The business receives a **UID number with the MWST suffix** and is assigned ESTV reference numbers for correspondence and filing (e.g., CHE-123.456.789 MWST), which must appear on all VAT invoices. Processing takes **one to four weeks** in standard cases. Foreign businesses may need to appoint a Swiss fiscal representative.
 
 ---
 

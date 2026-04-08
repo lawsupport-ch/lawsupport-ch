@@ -66,7 +66,7 @@ This page synthesises the key aspects of Swiss VAT: who must register, how rates
 
 ## Swiss VAT at a Glance
 
-The Swiss VAT system is governed by the Federal Act on Value Added Tax (MWSTG/LTVA) and administered centrally by the <a href="https://www.estv.admin.ch/estv/en/home/value-added-tax.html" target="_blank" rel="nofollow noopener">Federal Tax Administration (ESTV)</a>. Unlike corporate income tax, which is split across federal and cantonal levels, VAT is a purely federal tax.
+The Swiss VAT system is governed by the Federal Act on Value Added Tax (MWSTG/LTVA) and administered centrally by the <a href="https://www.estv.admin.ch/en/value-added-tax" target="_blank" rel="nofollow noopener">Federal Tax Administration (ESTV)</a>. Unlike corporate income tax, which is split across federal and cantonal levels, VAT is a purely federal tax.
 
 Key characteristics:
 

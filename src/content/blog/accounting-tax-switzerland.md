@@ -198,7 +198,7 @@ Switzerland uses a **one-layer system** for corporate tax — there is no separa
 
 For more detail on Swiss corporate income tax rates and the cantonal comparison, see our article on [corporate tax in Switzerland](/tax-accounting/corporate-tax-switzerland/) and the [cantonal tax comparison](/tax-accounting/cantonal-tax-comparison-switzerland/).
 
-The Federal Tax Administration (ESTV) publishes the official corporate tax rates and guidance at <a href="https://www.estv.admin.ch" target="_blank" rel="nofollow noopener">estv.admin.ch</a>.
+The Federal Tax Administration (ESTV) publishes the official corporate tax rates and guidance at <a href="https://www.estv.admin.ch/en" target="_blank" rel="nofollow noopener">estv.admin.ch</a>.
 
 ---
 
@@ -443,4 +443,4 @@ Yes. Under Art. 67 DBG, losses can be carried forward for up to seven years. The
 
 ---
 
-*Sources: Swiss Code of Obligations (OR/CO), Art. 620–964; Federal Act on Direct Federal Tax (DBG); Federal Act on Withholding Tax (VStG); Federal Act on VAT (MWSTG). Full texts at <a href="https://www.fedlex.admin.ch" target="_blank" rel="nofollow noopener">fedlex.admin.ch</a>. ESTV guidance at <a href="https://www.estv.admin.ch" target="_blank" rel="nofollow noopener">estv.admin.ch</a>. Swiss confederation general information at <a href="https://www.admin.ch" target="_blank" rel="nofollow noopener">admin.ch</a>.*
+*Sources: Swiss Code of Obligations (OR/CO), Art. 620–964; Federal Act on Direct Federal Tax (DBG); Federal Act on Withholding Tax (VStG); Federal Act on VAT (MWSTG). Full texts at <a href="https://www.fedlex.admin.ch" target="_blank" rel="nofollow noopener">fedlex.admin.ch</a>. ESTV guidance at <a href="https://www.estv.admin.ch/en" target="_blank" rel="nofollow noopener">estv.admin.ch</a>. Swiss confederation general information at <a href="https://www.admin.ch" target="_blank" rel="nofollow noopener">admin.ch</a>.*

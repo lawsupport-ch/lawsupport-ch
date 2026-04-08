@@ -119,7 +119,7 @@ When this article refers to "effective corporate tax rate," it means the **combi
 | 25 | Zurich | ~19.7% | City of Zurich |
 | 26 | Bern | ~20.7% | City of Bern |
 
-**Key observation:** The five lowest-tax cantons (Zug, Nidwalden, Lucerne, Obwalden, Vaud) form the most competitive corridor for corporate taxation. Geneva and Vaud have dramatically reduced their rates following the 2020 <a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">Swiss tax reform (STAF/TRAF)</a>.
+**Key observation:** The five lowest-tax cantons (Zug, Nidwalden, Lucerne, Obwalden, Vaud) form the most competitive corridor for corporate taxation. Geneva and Vaud have dramatically reduced their rates following the 2020 <a href="https://www.estv.admin.ch/en" target="_blank" rel="nofollow noopener">Swiss tax reform (STAF/TRAF)</a>.
 
 > **Disclaimer:** All rates are estimates based on publicly available cantonal tax data and standard communal multipliers as of early 2026. Rates can differ by commune and by specific deductions available to your company. Always verify with a qualified Swiss tax adviser.
 

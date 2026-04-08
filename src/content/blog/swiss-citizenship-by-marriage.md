@@ -68,7 +68,7 @@ This guide sets out the precise legal requirements under Article 21 of the <a hr
 
 ## The Shortcut and the Catch
 
-Ordinary naturalisation requires ten years of residence, a C permit, and approvals from three levels of government. Facilitated naturalisation under Art. 21 BüG operates at the federal level only — the <a href="https://www.sem.admin.ch" target="_blank" rel="nofollow noopener">State Secretariat for Migration (SEM)</a> decides the case — and bypasses the cantonal and communal stages entirely.
+Ordinary naturalisation requires ten years of residence, a C permit, and approvals from three levels of government. Facilitated naturalisation under Art. 21 BüG operates at the federal level only — the <a href="https://www.sem.admin.ch/sem/en/home.html" target="_blank" rel="nofollow noopener">State Secretariat for Migration (SEM)</a> decides the case — and bypasses the cantonal and communal stages entirely.
 
 The catch: the SEM does not simply accept your marriage certificate as proof of a genuine relationship. They investigate. And they have rejected applications from couples who could not independently describe the same details of their daily life together.
 

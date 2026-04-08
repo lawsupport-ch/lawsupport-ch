@@ -282,7 +282,7 @@ You lose the ability to claim priority from your first filing. If you disclosed 
 - [Copyright law in Switzerland](/intellectual-property/copyright-law-switzerland/) -- creative works protection
 - [Company formation in Switzerland](/company-formation/company-formation-switzerland/) -- incorporating to hold IP
 
-For official information on Swiss patent procedures, see the <a href="https://www.ige.ch/en/intellectual-property/patents" target="_blank" rel="nofollow noopener">Swiss Federal Institute of Intellectual Property (IPI)</a>. For European patent applications, the <a href="https://www.epo.org/en/applying/how-to-apply" target="_blank" rel="nofollow noopener">European Patent Office application guide</a> provides detailed procedural guidance. PCT applications are administered by the <a href="https://www.wipo.int/pct/en/" target="_blank" rel="nofollow noopener">World Intellectual Property Organisation (WIPO)</a>.
+For official information on Swiss patent procedures, see the <a href="https://www.ige.ch/en/intellectual-property/patents" target="_blank" rel="nofollow noopener">Swiss Federal Institute of Intellectual Property (IPI)</a>. For European patent applications, the <a href="https://www.epo.org/en/applying" target="_blank" rel="nofollow noopener">European Patent Office application guide</a> provides detailed procedural guidance. PCT applications are administered by the <a href="https://www.wipo.int/en/web/pct-system/" target="_blank" rel="nofollow noopener">World Intellectual Property Organisation (WIPO)</a>.
 
 ---
 

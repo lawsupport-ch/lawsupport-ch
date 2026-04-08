@@ -120,7 +120,7 @@ Establish a genuine business presence in Switzerland, create Swiss jobs, and sup
 - Buy a Swiss passport
 - Grant preferential treatment in the naturalisation process
 
-The Swiss Federal Chancellery, the <a href="https://www.sem.admin.ch" target="_blank" rel="nofollow noopener">State Secretariat for Migration (SEM)</a>, and the cantonal civil status offices have no mechanism that allows investment to influence citizenship outcomes. There is no legal basis for any such arrangement.
+The Swiss Federal Chancellery, the <a href="https://www.sem.admin.ch/sem/en/home.html" target="_blank" rel="nofollow noopener">State Secretariat for Migration (SEM)</a>, and the cantonal civil status offices have no mechanism that allows investment to influence citizenship outcomes. There is no legal basis for any such arrangement.
 
 ---
 

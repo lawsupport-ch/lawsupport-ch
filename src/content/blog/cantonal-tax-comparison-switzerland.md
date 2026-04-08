@@ -264,7 +264,7 @@ These regimes, combined with Switzerland's [tax incentives framework](/tax-accou
 
 Switzerland is unusual globally in that its cantons compete actively for taxpayers. Federal law imposes minimum standards (including the STAF reforms) but cantons can cut rates and offer legal incentives to attract businesses and residents.
 
-This competition has driven average effective CIT rates across Swiss cantons from approximately 20–25% in 2008 to 11–16% in most low-tax cantons by 2026. The <a href="https://www.estv.admin.ch" target="_blank" rel="nofollow noopener">Federal Tax Administration (ESTV)</a> publishes annual tax burden statistics that track this across cantons and communes.
+This competition has driven average effective CIT rates across Swiss cantons from approximately 20–25% in 2008 to 11–16% in most low-tax cantons by 2026. The <a href="https://www.estv.admin.ch/en" target="_blank" rel="nofollow noopener">Federal Tax Administration (ESTV)</a> publishes annual tax burden statistics that track this across cantons and communes.
 
 The <a href="https://www.bfs.admin.ch" target="_blank" rel="nofollow noopener">Federal Statistical Office (BFS)</a> publishes the Fiscal Equalisation data showing how the federal government redistributes revenue from high-revenue cantons (Zurich, Geneva, Basel) to lower-revenue cantons — meaning the system functions as a whole even as cantons compete on rates.
 

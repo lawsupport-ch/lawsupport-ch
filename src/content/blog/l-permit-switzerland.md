@@ -235,7 +235,7 @@ No. The L permit is tied to a single sponsoring employer. Taking additional empl
 
 **Do I need health insurance on an L permit?**
 
-Yes. All residents in Switzerland, including L permit holders, must obtain basic health insurance (Grundversicherung) within three months of arrival. The obligation is mandatory under the <a href="https://www.bag.admin.ch/bag/en/home/versicherungen/krankenversicherung.html" target="_blank" rel="nofollow noopener">Federal Health Insurance Act (KVG)</a>. Failure to obtain coverage results in the cantonal authority assigning an insurer and potentially imposing a surcharge.
+Yes. All residents in Switzerland, including L permit holders, must obtain basic health insurance (Grundversicherung) within three months of arrival. The obligation is mandatory under the <a href="https://www.bag.admin.ch/en/health-insurance" target="_blank" rel="nofollow noopener">Federal Health Insurance Act (KVG)</a>. Failure to obtain coverage results in the cantonal authority assigning an insurer and potentially imposing a surcharge.
 
 **What is the processing time for a non-EU/EFTA L permit application?**
 

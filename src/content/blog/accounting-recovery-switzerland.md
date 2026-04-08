@@ -107,7 +107,7 @@ Accounting recovery is not a creative exercise. It is a methodical reconstructio
 
 **Step 3 — Prepare year-end financial statements.** For each missing year, a full balance sheet and profit and loss statement must be prepared in accordance with Swiss accounting standards. These are the accounts that will be presented to the tax authority and, where required, to the bank.
 
-**Step 4 — File overdue corporate tax returns.** Once the accounts exist, corporate tax returns can be prepared and submitted for each open year. In most Swiss cantons this means both cantonal and communal tax and direct federal tax. The <a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">Federal Tax Administration (ESTV)</a> treats voluntary proactive filing materially differently from non-compliance discovered by the authority. For a full overview of what is owed, see our guide to [corporate tax returns in Switzerland](/tax-accounting/corporate-tax-return-switzerland/).
+**Step 4 — File overdue corporate tax returns.** Once the accounts exist, corporate tax returns can be prepared and submitted for each open year. In most Swiss cantons this means both cantonal and communal tax and direct federal tax. The <a href="https://www.estv.admin.ch/en" target="_blank" rel="nofollow noopener">Federal Tax Administration (ESTV)</a> treats voluntary proactive filing materially differently from non-compliance discovered by the authority. For a full overview of what is owed, see our guide to [corporate tax returns in Switzerland](/tax-accounting/corporate-tax-return-switzerland/).
 
 **Step 5 — Settle outstanding tax and obtain clearance.** The tax authority assesses the returns and issues demands for outstanding tax with accrued interest. Once settled, the cantonal authority issues the tax clearance certificate needed for liquidation or continued operation without open liability.
 
@@ -224,7 +224,7 @@ Completing accounting recovery proactively reduces — but does not automaticall
 
 **What are the tax penalties for missing accounts in Switzerland?**
 
-Swiss cantonal tax law does not impose fixed statutory fines purely for late filing in the way some jurisdictions do, but the practical consequences are significant. Cantonal authorities issue estimated assessments — often substantially overstated — on which tax interest accrues at approximately 3% per annum. At the federal level, the <a href="https://www.admin.ch/opc/en/classified-compilation/19930076/index.html" target="_blank" rel="nofollow noopener">Direct Federal Tax Act (DBG)</a> also provides for surcharges on non-compliant taxpayers. Voluntary filing before the authority raises the matter is treated considerably more favourably than discovered non-compliance.
+Swiss cantonal tax law does not impose fixed statutory fines purely for late filing in the way some jurisdictions do, but the practical consequences are significant. Cantonal authorities issue estimated assessments — often substantially overstated — on which tax interest accrues at approximately 3% per annum. At the federal level, the <a href="https://www.fedlex.admin.ch/eli/cc/1993/1271_1271_1271/en" target="_blank" rel="nofollow noopener">Direct Federal Tax Act (DBG)</a> also provides for surcharges on non-compliant taxpayers. Voluntary filing before the authority raises the matter is treated considerably more favourably than discovered non-compliance.
 
 **Can I do accounting recovery myself or do I need a professional?**
 

@@ -94,7 +94,7 @@ A Steuerruling is a formal request for the tax authority's position on how exist
 
 **Federal direct tax:** Cantonal authority (assessment is delegated).
 
-**VAT (MWST):** <a href="https://www.estv.admin.ch" target="_blank" rel="nofollow noopener">ESTV</a> in Bern.
+**VAT (MWST):** <a href="https://www.estv.admin.ch/en" target="_blank" rel="nofollow noopener">ESTV</a> in Bern.
 
 **Withholding tax:** ESTV.
 
@@ -131,7 +131,7 @@ Complex or novel questions take longer. Straightforward holding or IP Box confir
 
 A ruling is valid as long as the described facts remain in place and the underlying law does not change. If material facts change or Swiss law changes, the ruling may no longer apply — request a new ruling.
 
-Under OECD BEPS Action 5, Switzerland exchanges advance rulings with treaty partners where rulings have cross-border implications. This exchange is government-to-government through the <a href="https://www.admin.ch/gov/en/start.html" target="_blank" rel="nofollow noopener">spontaneous exchange of information framework</a> and does not make rulings public.
+Under OECD BEPS Action 5, Switzerland exchanges advance rulings with treaty partners where rulings have cross-border implications. This exchange is government-to-government through the <a href="https://www.sif.admin.ch/en/review-international-financial-tax-matters" target="_blank" rel="nofollow noopener">spontaneous exchange of information framework</a> and does not make rulings public.
 
 ---
 

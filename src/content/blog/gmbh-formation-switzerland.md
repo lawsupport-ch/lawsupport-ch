@@ -62,15 +62,9 @@ relatedArticles:
 
 Most founders who contact us about GmbH formation Switzerland assume the hardest part is choosing a name or opening a bank account. In reality, the step that trips up more than half of first-time applicants is the Stampa Declaration — a document that most advisors forget to mention until the notary appointment is already booked. After 18 years and more than 1,000 formations handled from our office at Baarerstrasse 135, 6300 Zug, we have seen every version of that particular delay. This guide walks you through every stage so that you do not become a cautionary tale.
 
-![GmbH Formation Switzerland — Morgan Hartley Consulting Zug office and Swiss Commercial Register process overview](/images/gmbh-formation-switzerland-hero.jpg)
-*Image: 1200×630px hero — Swiss Commercial Register filing process*
-
 ---
 
 ## When the GmbH Is the Wrong Choice
-
-![Swiss GmbH corporate structure diagram](/images/swiss-gmbh-structure.jpg)
-*Image: 800×450px — GmbH structure vs AG comparison*
 
 The GmbH (Gesellschaft mit beschränkter Haftung) is Switzerland's equivalent of a limited liability company — the right structure for most SMEs, service businesses, and foreign subsidiaries. But it is the wrong structure in three specific situations, and choosing it when you should not costs real money to fix:
 
@@ -85,9 +79,6 @@ If none of these apply, the GmbH is almost certainly correct. It requires only C
 ---
 
 ## Key Characteristics of the Swiss GmbH
-
-![Key characteristics of the Swiss GmbH](/images/swiss-gmbh-characteristics.jpg)
-*Image: 800×450px — GmbH key facts infographic*
 
 Before starting the formation process, you need to understand what you are building.
 
@@ -104,9 +95,6 @@ Before starting the formation process, you need to understand what you are build
 ---
 
 ## Step-by-Step: How GmbH Formation Switzerland Works in 2026
-
-![Step-by-step GmbH formation process Switzerland](/images/gmbh-formation-steps.jpg)
-*Image: 800×450px — formation timeline from name check to register entry*
 
 ### Step 1: Name Check and Reservation
 
@@ -191,9 +179,6 @@ One important detail most guides omit: **the company can start operating from th
 
 ## Real-World Story: The Logistics Startup That Almost Filed Twice
 
-![GmbH registration rejection case study](/images/gmbh-stampa-case-study.jpg)
-*Image: 800×450px — document preparation and Commercial Register filing*
-
 In early 2026, a founder named Tobias Reiner contacted us after a previous advisor had submitted his GmbH registration application to the Zug Commercial Register without the correct Stampa Declaration. The Register rejected the filing and required a complete re-submission with notarisation. By the time Tobias reached us, he had already paid one set of notary fees and was facing a second appointment — an unnecessary delay of three weeks and roughly CHF 1,200 in duplicated costs.
 
 We coordinated directly with the notary's office, prepared a corrected Stampa Declaration the same day, and filed a clean application within 72 hours. His GmbH was entered in the register nine business days later.
@@ -203,9 +188,6 @@ The lesson: GmbH formation Switzerland is not difficult, but it is precise. One 
 ---
 
 ## GmbH Formation Costs in Switzerland (2026)
-
-![GmbH formation costs Switzerland 2026](/images/gmbh-formation-costs.jpg)
-*Image: 800×450px — cost breakdown table visual*
 
 Here is a realistic cost breakdown for a standard GmbH with no contributions in kind and a single class of shares:
 
@@ -242,9 +224,6 @@ The nominee director fee of CHF 5,900 covers the directorship itself. What it do
 
 ## GmbH vs AG: When the GmbH Is the Right Choice
 
-![GmbH vs AG comparison Switzerland](/images/gmbh-vs-ag-switzerland.jpg)
-*Image: 800×450px — comparison chart GmbH vs AG key criteria*
-
 The GmbH suits you if:
 
 - You want the simplest compliant Swiss corporate structure
@@ -269,9 +248,6 @@ Speed was only possible because every document was prepared correctly the first 
 
 ## Swiss Resident Director Requirement
 
-![Swiss resident director requirement for GmbH](/images/swiss-resident-director-requirement.jpg)
-*Image: 800×450px — Article 718 CO requirement explained*
-
 This is the single most common practical obstacle for foreign founders. Article 718 CO requires that at least one managing director with individual signatory rights be domiciled in Switzerland. If you and your co-founders are all based outside Switzerland, you must either:
 
 1. Appoint a Swiss-resident employee as managing director
@@ -293,9 +269,6 @@ Learn more on our [Swiss nominee director page](/corporate-services/nominee-dire
 
 ## Tax Considerations for the Swiss GmbH
 
-![Corporate tax rates for Swiss GmbH by canton](/images/gmbh-corporate-tax-switzerland.jpg)
-*Image: 800×450px — cantonal corporate tax rate comparison*
-
 GmbH taxation in Switzerland operates at three levels: federal, cantonal, and municipal. The effective combined corporate tax rate varies significantly by canton. Zug, for example, has one of the lowest cantonal rates in the country, which is why a disproportionate share of Swiss GmbH formations by international founders happen here.
 
 GmbH profits are subject to corporate income tax. Distributions to shareholders are taxed as dividend income at the shareholder level, creating economic double taxation, though participation relief (Beteiligungsabzug) may apply when a GmbH holds significant stakes in subsidiaries.
@@ -305,9 +278,6 @@ For a full breakdown of rates, cantonal variations, and holding structures, see 
 ---
 
 ## Common Mistakes in GmbH Formation Switzerland
-
-![Common mistakes GmbH formation Switzerland](/images/gmbh-formation-mistakes.jpg)
-*Image: 800×450px — checklist of common errors and how to avoid them*
 
 **1. Incomplete Stampa Declaration.** As noted above, this alone accounts for a large share of registration rejections.
 

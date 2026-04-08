@@ -347,7 +347,7 @@ Yes. A foreign company may register branches in more than one Swiss canton. Each
 
 **Is a Swiss branch office a permanent establishment for the parent's home-country tax?**
 
-In almost all cases, yes. A registered branch with a fixed place of business in Switzerland constitutes a permanent establishment (PE) under Swiss law and under virtually all of Switzerland's <a href="https://www.admin.ch/gov/en/start/documentation/media-releases.msg-id-83433.html" target="_blank" rel="nofollow noopener">100+ double tax treaties</a>. The parent's home country will therefore need to account for Swiss-source PE income. How that income is taxed in the home country depends on the applicable treaty and the home country's PE rules.
+In almost all cases, yes. A registered branch with a fixed place of business in Switzerland constitutes a permanent establishment (PE) under Swiss law and under virtually all of Switzerland's <a href="https://www.news.admin.ch/en/nsb?id=83433" target="_blank" rel="nofollow noopener">100+ double tax treaties</a>. The parent's home country will therefore need to account for Swiss-source PE income. How that income is taxed in the home country depends on the applicable treaty and the home country's PE rules.
 
 ---
 

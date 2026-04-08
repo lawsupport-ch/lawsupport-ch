@@ -235,4 +235,4 @@ info@lawsupport.ch
 
 </div>
 
-For the legal basis, see <a href="https://www.fedlex.admin.ch/eli/cc/2007/686/en" target="_blank" rel="nofollow noopener">Art. 2 HRegV on Fedlex</a>. The Zug Commercial Register: <a href="https://www.zg.ch/behoerden/volkswirtschaftsdirektion/handelsregisteramt" target="_blank" rel="nofollow noopener">zg.ch Handelsregisteramt</a>. Federal tax rates: <a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">ESTV</a>.
+For the legal basis, see <a href="https://www.fedlex.admin.ch/eli/cc/2007/686/en" target="_blank" rel="nofollow noopener">Art. 2 HRegV on Fedlex</a>. The Zug Commercial Register: <a href="https://www.zg.ch/behoerden/volkswirtschaftsdirektion/handelsregisteramt" target="_blank" rel="nofollow noopener">zg.ch Handelsregisteramt</a>. Federal tax rates: <a href="https://www.estv.admin.ch/en" target="_blank" rel="nofollow noopener">ESTV</a>.

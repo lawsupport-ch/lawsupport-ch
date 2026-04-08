@@ -62,15 +62,9 @@ relatedArticles:
 
 A holding company Switzerland structure offers one of the most efficient combinations of tax treatment, treaty access, and legal stability available in any OECD jurisdiction. The federal participation exemption reduces the effective tax rate on qualifying dividend and capital-gain income to between zero and three percent. The IP Box adds relief on qualifying royalty income. A 108-treaty double tax network covers every major investor country. And the canton of Zug sits at an 11.9% ordinary combined rate — one of the lowest in Europe — before the exemptions are applied. This is not aggressive tax planning; it is the deliberate result of Swiss tax policy designed to attract genuine corporate group headquarters. This guide explains exactly how the Swiss holding company works, what it costs, and how to set one up.
 
-![Swiss holding company structure — Zug AG with participation exemption and IP Box](/images/holding-company-switzerland-hero.jpg)
-*Image: 1200×630px hero — Swiss holding AG structure diagram*
-
 ---
 
 ## What Is a Swiss Holding Company?
-
-![Swiss holding company legal structure AG vs GmbH](/images/swiss-holding-legal-structure.jpg)
-*Image: 800×450px — pure holding vs mixed holding diagram*
 
 A Swiss holding company is a legal entity whose predominant purpose — as defined in its articles of association — is to hold and manage long-term equity participations in other companies. Under Swiss corporate law (Obligationenrecht / Code des Obligations, hereinafter "CO"), there is no separate statutory form called a "holding company." The designation describes a function, not a legal type. In practice, the vehicle of choice is the Aktiengesellschaft (AG), Switzerland's joint-stock company equivalent, governed by <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en" target="_blank" rel="nofollow noopener">Articles 620–763 CO</a>.
 
@@ -113,9 +107,6 @@ For a deeper analysis of Zug as a formation jurisdiction, see our dedicated guid
 
 ## The Participation Exemption (Beteiligungsabzug)
 
-![Swiss participation exemption mechanics — Beteiligungsabzug](/images/swiss-participation-exemption.jpg)
-*Image: 800×450px — participation exemption calculation diagram*
-
 This is the cornerstone of every Swiss holding company structure. The Beteiligungsabzug — "participation deduction" — is a proportional reduction of tax that, in practice, eliminates most of the tax liability on qualifying participation income.
 
 ### Legal Basis
@@ -149,9 +140,6 @@ The same proportional logic applies at cantonal level under Art. 28 StHG. In Zug
 
 ## Combined Tax Rate for a Swiss Holding AG in Zug
 
-![Swiss holding AG tax rates Zug 2026](/images/swiss-holding-tax-rates-zug.jpg)
-*Image: 800×450px — tax rate table: ordinary vs effective after participation exemption*
-
 | Component | Rate | Notes |
 |---|---|---|
 | Federal corporate income tax | 8.5% (statutory) / ~7.83% (effective on profit) | Applied after deductions |
@@ -166,9 +154,6 @@ There is no federal capital tax in Switzerland. The cantonal capital tax in Zug 
 
 ## IP Box for Swiss Holdings
 
-![Swiss IP Box regime for holding companies](/images/swiss-ip-box-holding.jpg)
-*Image: 800×450px — IP Box nexus fraction and effective rate calculation*
-
 If the Swiss holding company also owns intellectual property — patents, supplementary protection certificates, and equivalent rights — it can combine the participation exemption with the IP Box regime introduced under the 2020 corporate tax reform (STAF / RFFA).
 
 **Legal basis:** Article 24a StHG (cantonal implementation required; all cantons have now implemented).
@@ -180,9 +165,6 @@ Qualifying income includes royalties, licensing fees, and gains from the disposa
 ---
 
 ## Double Tax Treaty Network
-
-![Swiss double tax treaty network — 108 treaties](/images/swiss-dtt-network.jpg)
-*Image: 800×450px — treaty network map and withholding tax rates*
 
 Switzerland has concluded **108 bilateral double tax treaties (DTTs)** in force as of 2026, covering every major trade partner, investor country, and capital-exporting jurisdiction. This network is a critical component of the holding company value proposition.
 
@@ -206,9 +188,6 @@ The Switzerland-US DTT (1996, as amended) provides for 5% WHT on dividends where
 ---
 
 ## Substance Requirements in 2026 (Post-BEPS)
-
-![Substance requirements Swiss holding company post-BEPS](/images/swiss-holding-substance-requirements.jpg)
-*Image: 800×450px — substance checklist: board meetings, records, management functions*
 
 The era of the Swiss letterbox holding — a registered address, a forwarding service, and a nominee director — ended with the OECD/G20 BEPS project and Switzerland's resulting legislative changes. In 2026, a credible Swiss holding company must demonstrate genuine economic substance:
 
@@ -246,9 +225,6 @@ For multinational groups with global consolidated revenue exceeding **EUR 750 mi
 
 ## Real-World Story 1: Private Equity Exit via Swiss Holding AG
 
-![Private equity exit via Swiss holding AG Zug](/images/pe-exit-swiss-holding.jpg)
-*Image: 800×450px — PE fund structure with Swiss holding AG intermediary*
-
 A Luxembourg-based private equity fund manager structured the acquisition of three Central European manufacturing businesses in 2021 through a newly formed Swiss holding AG in Zug. The holding AG, capitalised at CHF 500,000, acquired 100% of each target through leveraged debt from the fund. The fund held 100% of the Swiss AG's registered shares.
 
 By 2025, following operational improvements, the portfolio was sold to a strategic buyer for a combined enterprise value of CHF 180 million. The Swiss AG had held each participation for more than four years — well above the one-year threshold under Art. 69 LIFD. The capital gain of approximately CHF 72 million qualified entirely for the participation exemption. Federal tax liability on the gain: CHF 0. Cantonal liability: CHF 0. The gain was repatriated to the Luxembourg fund via a dividend distribution from the Swiss AG; the Switzerland-Luxembourg DTT capped WHT at 5% on the dividend.
@@ -278,9 +254,6 @@ The solution: a professional nominee director with genuine investment management
 ---
 
 ## Formation Steps for a Swiss Holding AG
-
-![Formation steps Swiss holding AG — timeline](/images/swiss-holding-formation-steps.jpg)
-*Image: 800×450px — step-by-step formation timeline*
 
 Forming a Swiss AG is a structured but efficient process. The key steps are:
 
@@ -313,9 +286,6 @@ Regarding directors: Swiss law does not require Swiss-national directors, but at
 ---
 
 ## Ongoing Compliance for a Swiss Holding AG
-
-![Ongoing compliance obligations Swiss holding AG](/images/swiss-holding-compliance.jpg)
-*Image: 800×450px — annual compliance calendar for Swiss holding*
 
 Formation is the beginning. A Swiss holding AG carries the following recurring obligations:
 

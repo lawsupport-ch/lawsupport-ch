@@ -76,7 +76,7 @@ The legal basis is Article 7 of the AFMP. The permit is issued by the Swiss cant
 
 The permit is colloquially called a "frontalier" permit in French-speaking Switzerland and the border regions of France — a label that reflects the economic reality: hundreds of thousands of cross-border workers enter Geneva, Basel, Zurich, and other Swiss economic centres every working day.
 
-The official framework governing cross-border commuters is described on the <a href="https://www.sem.admin.ch/sem/en/home/themen/fza_schweiz-eu-efta/eu-efta_buerger_schweiz/grenzgaenger.html" target="_blank" rel="nofollow noopener">State Secretariat for Migration (SEM) website</a>.
+The official framework governing cross-border commuters is described on the <a href="https://www.sem.admin.ch/sem/en/home/themen/fza_schweiz-eu-efta/eu-efta_buerger_schweiz.html" target="_blank" rel="nofollow noopener">State Secretariat for Migration (SEM) website</a>.
 
 ---
 
@@ -154,7 +154,7 @@ Under the France-Switzerland frontier worker protocol, cross-border commuters li
 
 Italian-resident G permit holders are taxed in Switzerland. Swiss Quellensteuer (withholding tax) applies at source. A portion of the tax revenue is transferred annually to the Italian border communes under a bilateral compensation arrangement. Italian tax obligations may still arise for worldwide income disclosure.
 
-Tax treaty details for Switzerland's bilateral agreements are published by the <a href="https://www.estv.admin.ch/estv/en/home/international-fiscal-law/double-taxation-agreements/dba-liste.html" target="_blank" rel="nofollow noopener">Federal Tax Administration (ESTV)</a>.
+Tax treaty details for Switzerland's bilateral agreements are published by the <a href="https://www.sif.admin.ch/en/review-international-financial-tax-matters" target="_blank" rel="nofollow noopener">Federal Tax Administration (ESTV)</a>.
 
 ---
 

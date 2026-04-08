@@ -204,7 +204,7 @@ Yes. Foreign companies can hold shares in a Swiss JV GmbH or AG without having t
 
 **How are profits distributed in a Swiss JV company?**
 
-Profits are distributed as dividends, subject to Swiss withholding tax of 35%. The shareholders' agreement typically specifies the dividend policy — whether profits are distributed annually, reinvested, or distributed according to a formula. Treaty-resident JV partners can reclaim the withholding tax in full or in part under the applicable <a href="https://www.sif.admin.ch/sif/en/home/bilateral-relations/tax-agreements/double-taxation-agreements.html" target="_blank" rel="nofollow noopener">double tax treaty</a>.
+Profits are distributed as dividends, subject to Swiss withholding tax of 35%. The shareholders' agreement typically specifies the dividend policy — whether profits are distributed annually, reinvested, or distributed according to a formula. Treaty-resident JV partners can reclaim the withholding tax in full or in part under the applicable <a href="https://www.sif.admin.ch/en/double-taxation-agreements-dtas" target="_blank" rel="nofollow noopener">double tax treaty</a>.
 
 **What due diligence should JV partners conduct before forming a Swiss JV?**
 

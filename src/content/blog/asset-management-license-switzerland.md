@@ -56,9 +56,6 @@ relatedArticles:
 
 <!-- SCHEMA: FAQPage (see FAQ section below) -->
 
-![FINMA asset management licence Switzerland — overview of requirements](/assets/images/asset-management-license-switzerland-hero.jpg)
-
-
 Switzerland is one of the world's leading locations for independent asset management. Since the FinSA/FinIA reform came into force on 1 January 2020, any person or entity that professionally manages third-party assets on a discretionary basis in Switzerland requires a **FINMA licence under the Financial Institutions Act (FinIA — Art. 17–26)**. This article sets out exactly what that requires, what it costs, and how long it takes — based on current FINMA practice as at March 2026.
 
 For a broader overview of the Swiss regulatory licensing framework, see our guide on [FINMA licensing in Switzerland](/licensing/finma-licensing-switzerland/).

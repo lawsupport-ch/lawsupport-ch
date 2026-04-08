@@ -112,7 +112,7 @@ Switzerland does not have a statutory transfer pricing documentation obligation 
 
 **In practice:** Swiss tax authorities can request transfer pricing documentation during a tax audit. Without documentation, the taxpayer has a weaker position in defending the prices applied. Swiss-headquartered multinationals in scope for BEPS Action 13 must file:
 
-**Country-by-Country Reporting (CbCR):** Swiss groups with annual consolidated revenue above CHF 900 million must file a CbCR with the <a href="https://www.estv.admin.ch" target="_blank" rel="nofollow noopener">ESTV</a>. The ESTV exchanges CbCRs with treaty partner jurisdictions.
+**Country-by-Country Reporting (CbCR):** Swiss groups with annual consolidated revenue above CHF 900 million must file a CbCR with the <a href="https://www.estv.admin.ch/en" target="_blank" rel="nofollow noopener">ESTV</a>. The ESTV exchanges CbCRs with treaty partner jurisdictions.
 
 **Master File / Local File:** Switzerland does not mandate a statutory Master File or Local File. However, large Swiss entities in multinational groups are strongly advised to maintain OECD-compliant transfer pricing documentation as their first line of defence in audits. Many Swiss subsidiaries of foreign groups maintain a Local File as a matter of group policy. Companies should coordinate this with their [accounting and financial reporting obligations](/tax-accounting/accounting-switzerland/).
 

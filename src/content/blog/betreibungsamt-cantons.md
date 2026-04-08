@@ -252,7 +252,7 @@ If you are a creditor seeking to enforce an unpaid claim, the SchKG process runs
 
 **Step 1 — Identify the correct Betreibungsamt**
 
-The Betreibungsamt of the debtor's domicile (for individuals, Art. 46 SchKG) or registered seat (for companies, Art. 51 SchKG). Use the federal <a href="https://www.bj.admin.ch/bj/en/home/wirtschaft/schkg.html" target="_blank" rel="nofollow noopener">Federal Justice office's SchKG resources (bj.admin.ch)</a> or the cantonal court website to locate the correct office.
+The Betreibungsamt of the debtor's domicile (for individuals, Art. 46 SchKG) or registered seat (for companies, Art. 51 SchKG). Use the federal <a href="https://www.bj.admin.ch/bj/en/home/wirtschaft.html" target="_blank" rel="nofollow noopener">Federal Justice office's SchKG resources (bj.admin.ch)</a> or the cantonal court website to locate the correct office.
 
 **Step 2 — File a Betreibungsbegehren (Art. 67 SchKG)**
 
@@ -317,7 +317,7 @@ The <a href="https://www.fedlex.admin.ch/eli/cc/11/529_488_529/en" target="_blan
 - **Art. 89–150** — Pfändung and Verwertung (seizure and realisation)
 - **Art. 159–270** — Konkurs (bankruptcy) proceedings
 
-The <a href="https://www.admin.ch/gov/en/start/documentation/media-releases.msg-id-79000.html" target="_blank" rel="nofollow noopener">Federal Administration (admin.ch)</a> publishes updates to the SchKG and related ordinances.
+The <a href="https://www.news.admin.ch/en/nsb?id=79000" target="_blank" rel="nofollow noopener">Federal Administration (admin.ch)</a> publishes updates to the SchKG and related ordinances.
 
 ---
 

@@ -164,7 +164,7 @@ A schedule computing taxable equity (share capital + retained earnings + hidden 
 
 ## Common Adjustments and Traps
 
-**Thin capitalisation:** Swiss tax authorities apply safe harbour debt-to-equity ratios. If your company is financed above these limits by related-party loans, interest on the excess is not deductible. The safe harbour ratios depend on the asset category — for instance, 70% debt financing is permitted for real estate assets; 85% for intercompany loans receivable. Exceeding these ratios triggers a reclassification of excess interest as a deemed dividend, with 35% withholding tax consequences. The federal guidance on safe harbour ratios is published annually by <a href="https://www.estv.admin.ch" target="_blank" rel="nofollow noopener">estv.admin.ch</a>.
+**Thin capitalisation:** Swiss tax authorities apply safe harbour debt-to-equity ratios. If your company is financed above these limits by related-party loans, interest on the excess is not deductible. The safe harbour ratios depend on the asset category — for instance, 70% debt financing is permitted for real estate assets; 85% for intercompany loans receivable. Exceeding these ratios triggers a reclassification of excess interest as a deemed dividend, with 35% withholding tax consequences. The federal guidance on safe harbour ratios is published annually by <a href="https://www.estv.admin.ch/en" target="_blank" rel="nofollow noopener">estv.admin.ch</a>.
 
 **Non-deductible expenses:** Entertainment expenses are 50% deductible. Fines and penalties are fully non-deductible. Certain provisions are deductible only if they meet strict criteria.
 

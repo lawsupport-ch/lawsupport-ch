@@ -107,7 +107,7 @@ A Swiss subsidiary that has opted out of the statutory audit under Swiss law may
 
 Statutory audit requirements in Switzerland are set out in the **Swiss Code of Obligations (Obligationenrecht, OR/CO)**, <a href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/en#part_3/tit_26/chap_3/sec_9" target="_blank" rel="nofollow noopener">Articles 727 to 731a CO</a>. These provisions apply to Swiss stock corporations (AG/SA) and limited liability companies (GmbH/Sàrl), and establish three distinct categories of audit obligation depending on company size and shareholder structure.
 
-The oversight of auditors themselves falls to the **Financial Audit Oversight Authority (FAOA)** — in German, the *Eidgenössische Revisionsaufsichtsbehörde (RAB)* — a federal body responsible for licensing and supervising auditors performing statutory revisions in Switzerland. You can verify any auditor's registration on the <a href="https://www.rab-asr.ch/en/register" target="_blank" rel="nofollow noopener">RAB public register</a>.
+The oversight of auditors themselves falls to the **Financial Audit Oversight Authority (FAOA)** — in German, the *Eidgenössische Revisionsaufsichtsbehörde (RAB)* — a federal body responsible for licensing and supervising auditors performing statutory revisions in Switzerland. You can verify any auditor's registration on the <a href="https://erab.rab-asr.ch/#/publicregister" target="_blank" rel="nofollow noopener">RAB public register</a>.
 
 For a broader view of the accounting and tax obligations that sit alongside your audit requirements, see our overview of [accounting services in Switzerland](/tax-accounting/accounting-switzerland/).
 

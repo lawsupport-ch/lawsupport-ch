@@ -280,7 +280,7 @@ We provide:
 
 We are not a large law firm. We are a focused Swiss corporate and tax advisory firm, and our clients value the direct access to senior advisers and the clear, straightforward approach.
 
-For the legal basis of the Patent Box, see <a href="https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/en" target="_blank" rel="nofollow noopener">the Federal Tax Harmonisation Act (StHG) on Fedlex</a>. For the OECD nexus approach guidance, see the <a href="https://www.oecd.org/en/topics/sub-issues/harmful-tax-practices.html" target="_blank" rel="nofollow noopener">OECD Action 5 documentation</a>. The <a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">Swiss Federal Tax Administration (ESTV)</a> publishes circulars on federal-cantonal coordination of the IP Box.
+For the legal basis of the Patent Box, see <a href="https://www.fedlex.admin.ch/eli/cc/1991/1256_1256_1256/en" target="_blank" rel="nofollow noopener">the Federal Tax Harmonisation Act (StHG) on Fedlex</a>. For the OECD nexus approach guidance, see the <a href="https://www.oecd.org/en/topics/sub-issues/harmful-tax-practices.html" target="_blank" rel="nofollow noopener">OECD Action 5 documentation</a>. The <a href="https://www.estv.admin.ch/en" target="_blank" rel="nofollow noopener">Swiss Federal Tax Administration (ESTV)</a> publishes circulars on federal-cantonal coordination of the IP Box.
 
 
 ---

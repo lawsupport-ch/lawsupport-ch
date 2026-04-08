@@ -130,7 +130,7 @@ Switzerland's federal structure means naturalisation is not a single-track proce
 
 ### Federal Level
 
-The <a href="https://www.sem.admin.ch" target="_blank" rel="nofollow noopener">State Secretariat for Migration (SEM)</a> administers the federal dimension of ordinary naturalisation. At this level, the focus is primarily on whether the applicant meets the residence and integration requirements set out in the BüG. The SEM issues a federal authorisation (Bundespräsidium), which is a prerequisite for cantonal and communal proceedings in most cases. Note that for facilitated naturalisation, the federal level handles the entire procedure.
+The <a href="https://www.sem.admin.ch/sem/en/home.html" target="_blank" rel="nofollow noopener">State Secretariat for Migration (SEM)</a> administers the federal dimension of ordinary naturalisation. At this level, the focus is primarily on whether the applicant meets the residence and integration requirements set out in the BüG. The SEM issues a federal authorisation (Bundespräsidium), which is a prerequisite for cantonal and communal proceedings in most cases. Note that for facilitated naturalisation, the federal level handles the entire procedure.
 
 ### Cantonal Level
 
