@@ -29,26 +29,7 @@ export async function onRequestPost(context) {
       body: JSON.stringify({ chat_id: CHAT_ID, text, parse_mode: "HTML" })
     });
 
-    const emailPromise = fetch("https://formsubmit.co/ajax/info@goldblum.ch", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        "Accept": "application/json",
-        "Origin": "https://lawsupport.ch",
-        "Referer": "https://lawsupport.ch/contacts/"
-      },
-      body: JSON.stringify({
-        _subject: "New Lead — lawsupport.ch",
-        Name: name,
-        Email: email,
-        WhatsApp: whatsapp || "—",
-        Message: message,
-        _template: "table"
-      })
-    }).then(r => r.json().catch(() => ({}))).catch(() => ({}));
-
-    const [tgRes, emailRes] = await Promise.all([tgPromise, emailPromise]);
-    console.log("formsubmit response:", JSON.stringify(emailRes));
+    const tgRes = await tgPromise;
 
     if (!tgRes.ok) {
       return new Response(JSON.stringify({ error: "Telegram error" }), {
