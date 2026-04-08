@@ -1,13 +1,15 @@
 ---
-title: "Buy a Company in Switzerland: Process & Legal Guide"
-description: "How to buy a Swiss company: finding targets, LOI, due diligence, SPA structuring, financing, and closing. Practical guide from Morgan Hartley Consulting, Zug."
-date: "19.03.2026"
+title: "Business for Sale in Switzerland: How to Buy (2026)"
+description: "Find a business for sale in Switzerland and buy it right. Where to search, how to structure the deal, due diligence, SPA, financing, and closing — from Zug."
+date: "08.04.2026"
 category: "Corporate Transactions"
 categoryHref: "/corporate-transactions/"
 readTime: "13 min read"
 tocItems:
   - id: "why-buy-rather-than-form"
     title: "Why Buy Rather Than Form?"
+  - id: "swiss-businesses-for-sale-where-to-find-them"
+    title: "Swiss Businesses for Sale: Where to Find Them"
   - id: "finding-a-swiss-company-to-buy"
     title: "Finding a Swiss Company to Buy"
   - id: "letter-of-intent-and-term-sheet"
@@ -65,10 +67,10 @@ SCHEMA: Article
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Buy a Company in Switzerland: Process & Legal Guide",
-  "description": "Step-by-step guide to buying a Swiss company: finding targets, letter of intent, due diligence, SPA negotiation, financing, and Commercial Register formalities.",
+  "headline": "Business for Sale in Switzerland: How to Buy (2026)",
+  "description": "Find a business for sale in Switzerland and buy it right. Where to search, how to structure the deal, due diligence, SPA, financing, and closing.",
   "datePublished": "2026-03-19",
-  "dateModified": "2026-03-22",
+  "dateModified": "2026-04-08",
   "author": {
     "@type": "Person",
     "name": "Morgan Hartley",
@@ -125,9 +127,42 @@ SCHEMA: BreadcrumbList
 -->
 
 
-Buying an existing Swiss company is often the faster, more commercially rational route into the Swiss market. You inherit an operational business — clients, contracts, permits, staff, and a track record. Formation of a new entity gives you a clean slate but zero traction on day one. For most buyers with a clear target sector and timeline, acquisition wins.
+If you are searching for a business for sale in Switzerland, the market is active but not always visible. Most Swiss businesses change hands off-market, through brokers, direct approaches, or advisory networks rather than public listings. Buying an existing Swiss company is often the faster, more commercially rational route into the market. You inherit an operational business — clients, contracts, permits, staff, and a track record. Formation of a new entity gives you a clean slate but zero traction on day one.
 
-This guide covers every stage of a Swiss company acquisition: finding the target, structuring the letter of intent, running due diligence, negotiating and signing the share purchase agreement, financing the deal, and completing the Commercial Register formalities. Where relevant, we flag the legal provisions that matter and the points where Swiss law diverges from what buyers accustomed to UK or US deals might expect.
+This guide covers where to find Swiss businesses for sale, then walks through every stage of acquisition: structuring the letter of intent, running due diligence, negotiating the share purchase agreement, financing the deal, and completing the Commercial Register formalities. Where relevant, we flag the legal provisions that matter and the points where Swiss law diverges from what buyers accustomed to UK or US deals might expect.
+
+---
+
+## Swiss Businesses for Sale: Where to Find Them
+
+The first challenge when looking for a business for sale in Switzerland is sourcing. Unlike the US or UK, Switzerland has no dominant marketplace listing thousands of operating businesses. The market is fragmented across platforms, brokers, and private networks. Here is where to look.
+
+### Online Platforms
+
+| Platform | Focus | Listings | Price Range | Language |
+|---|---|---|---|---|
+| <a href="https://www.companymarket.ch" target="_blank" rel="nofollow noopener">Companymarket.ch</a> | Swiss SMEs, successions | 800+ active | CHF 50'000 – 50M+ | DE/FR/EN |
+| <a href="https://www.dealstream.com" target="_blank" rel="nofollow noopener">DealStream.com</a> | Cross-border, mid-market | 200+ Swiss | USD 100K – 100M+ | EN |
+| <a href="https://www.bizbuysell.com" target="_blank" rel="nofollow noopener">BizBuySell.com</a> | International, US-centric | Limited Swiss | Varies | EN |
+| <a href="https://www.businessbroker.ch" target="_blank" rel="nofollow noopener">BusinessBroker.ch</a> | Swiss-focused | 300+ | CHF 100'000 – 20M | DE/EN |
+
+**Companymarket.ch** is the primary platform. Run by the Swiss chambers of commerce network, it lists genuine operating businesses — restaurants, manufacturing firms, retail operations, service companies — with verified sellers. Most listings include turnover, staff count, and asking price. Registration is free for buyers.
+
+**DealStream** serves cross-border buyers and lists Swiss opportunities alongside European deals. Useful if you are screening multiple jurisdictions simultaneously.
+
+**BizBuySell** has limited Swiss coverage but can surface opportunities from US-based sellers with Swiss subsidiaries or from international franchise operations entering the Swiss market.
+
+### Brokers and M&A Advisors
+
+For businesses valued above CHF 1 million, the majority of deals are brokered privately. Swiss M&A advisory firms maintain proprietary deal pipelines that never appear on public platforms. Typical broker fees: retainer of CHF 5'000–15'000 plus a success fee of 3–5% of enterprise value.
+
+Sector-specific brokers are particularly active in hospitality (hotel and restaurant sales), healthcare (medical practices, pharmacies), and manufacturing. If you are looking for a Swiss business for sale in a specific industry, a specialised broker will have access to opportunities months before they reach any listing site.
+
+### Direct Approach and Networking
+
+Approximately 70'000 Swiss SME owners will reach retirement age by 2030 (<a href="https://www.kmu.admin.ch" target="_blank" rel="nofollow noopener">SECO/KMU data</a>), many without a family successor. Identifying a target and approaching the owner directly is standard practice. Cantonal chambers of commerce maintain business succession databases — particularly in Zurich, Bern, and the Romandie cantons — matching retiring owners with prospective buyers.
+
+Trade associations and industry events are another source. For sector-specific acquisitions, the relevant trade body often knows which businesses are quietly available before any formal listing appears.
 
 ---
 
@@ -161,7 +196,7 @@ For comparison, a genuine operating company acquisition in Switzerland typically
 
 ## Finding a Swiss Company to Buy
 
-The Swiss SME market is large and relatively illiquid. Most deals happen off-market. Channels worth working:
+Once you have identified where businesses for sale in Switzerland are listed, the next step is working the channels effectively. The Swiss SME market is large and relatively illiquid. Most deals happen off-market. Channels worth working:
 
 - **M&A advisors and business brokers.** Firms specialising in Swiss mid-market transactions maintain proprietary deal flow. Fees are typically a retainer plus a success fee of 3–5% of enterprise value, sometimes structured on a Lehman scale.
 - **SHAB (Swiss Official Gazette of Commerce).** The *Schweizerisches Handelsamtsblatt* publishes insolvency notices, composition proceedings, and liquidation orders. Distressed acquisitions from administrators or liquidators follow a different process but can offer value.
@@ -171,7 +206,7 @@ The Swiss SME market is large and relatively illiquid. Most deals happen off-mar
 
 If speed of market entry is the priority, a [shelf company in Switzerland](/company-formation/shelf-company-switzerland/) — a dormant, already-registered entity — offers an alternative to a full acquisition process and can be operational within days.
 
-**A pattern we see repeatedly:** Founders approach us wanting to “buy a company” when what they actually need is a shelf company with modifications. The distinction matters. Buying an operating company means inheriting clients, contracts, staff, and liabilities — plus months of due diligence. Buying a shelf company means acquiring a clean corporate shell with zero trading history, modifiable in 2-3 weeks. The price difference is also significant: a shelf runs CHF 15,000-47,500; an operating company acquisition involves enterprise value multiples, earn-outs, and legal fees that dwarf the shell cost.
+**A pattern we see repeatedly:** Founders browse Swiss business for sale listings wanting to “buy a company” when what they actually need is a shelf company with modifications. The distinction matters. Buying an operating company means inheriting clients, contracts, staff, and liabilities — plus months of due diligence. Buying a shelf company means acquiring a clean corporate shell with zero trading history, modifiable in 2-3 weeks. The price difference is also significant: a shelf runs CHF 15,000-47,500; an operating company acquisition involves enterprise value multiples, earn-outs, and legal fees that dwarf the shell cost.
 
 ---
 
@@ -312,7 +347,7 @@ Switzerland levies a **securities transfer tax (Umsatzabgabe)** on the transfer 
 
 ## Request a Free Assessment
 
-Buying a company in Switzerland involves legal, tax, and regulatory considerations that interact in ways that are not always obvious until a deal is already advanced. Morgan Hartley Consulting advises buyers at every stage of the acquisition process — from initial target assessment and LOI negotiation through to SPA drafting, regulatory filings, and post-closing integration.
+Whether you have found a specific business for sale in Switzerland or are still evaluating targets, the acquisition involves legal, tax, and regulatory considerations that interact in ways that are not always obvious until a deal is already advanced. Morgan Hartley Consulting advises buyers at every stage of the acquisition process — from initial target assessment and LOI negotiation through to SPA drafting, regulatory filings, and post-closing integration.
 
 **[Request a Free Assessment](/contacts/)** — Morgan Hartley and the Morgan Hartley Consulting team, Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch
 

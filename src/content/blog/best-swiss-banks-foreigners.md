@@ -1,7 +1,7 @@
 ---
-title: "Best Swiss Banks for Foreigners: Business Guide"
-description: "Match your company profile to the right Swiss bank. Based on 18+ years of account openings for 40+ nationalities. Free assessment available."
-date: "19.03.2026"
+title: "Best Swiss Banks for Foreigners (2026)"
+description: "Which Swiss bank accepts foreigners? UBS, cantonal banks, Relio compared. Based on 18+ years opening accounts for 40+ nationalities."
+date: "08.04.2026"
 category: "Banking & Finance"
 categoryHref: "/banking/"
 readTime: "9 min read"
@@ -54,10 +54,10 @@ relatedArticles:
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Best Swiss Banks for Foreigners: Which Bank Is Right for Your Business (2026)",
+  "headline": "Best Swiss Banks for Foreigners (2026)",
   "description": "Not every Swiss bank accepts every foreign business. This guide matches your company profile to the right Swiss bank — based on 18+ years of account openings for 40+ nationalities.",
   "datePublished": "2026-03-19",
-  "dateModified": "2026-03-22",
+  "dateModified": "2026-04-08",
   "author": {
     "@type": "Person",
     "name": "Morgan Hartley",
