@@ -1,12 +1,13 @@
 ---
-title: "Banking & Finance in Switzerland: Full Guide"
-description: "Swiss banking for individuals and businesses: how to open accounts, private banking options, system structure, FINMA regulation, and practical guidance."
+title: "Banking in Switzerland: Accounts, Fees & Requirements (2026)"
+description: "Open a Swiss bank account as a resident, non-resident or company. Account types, KYC documents, fees, deposit protection and private banking thresholds explained."
 date: "27.03.2026"
+dateModified: "2026-04-10"
 heroImage: "/images/swiss-banking-vault-hero.webp"
 pageLevel: 1
 category: "Banking & Finance"
 categoryHref: "/banking/"
-readTime: "18 min read"
+readTime: "14 min read"
 faqItems:
   - question: "Can a foreigner open a bank account in Switzerland?"
     answer: "Yes. Both residents and non-residents can open personal and corporate bank accounts in Switzerland. Non-residents face stricter KYC requirements and may need to provide additional documentation such as proof of source of funds, a reference letter from their current bank, and a clear explanation of why they require a Swiss banking relationship. Some banks accept remote onboarding via video identification, though corporate accounts typically require an in-person meeting."
@@ -28,6 +29,10 @@ faqItems:
     answer: "A Kapitaleinzahlungskonto is a blocked account required during Swiss company formation. Share capital — CHF 20,000 for a GmbH, minimum CHF 50,000 paid in for an AG — must be deposited before registration with the commercial register. Once the company is registered, the funds are released to the operating account. The bank issues a confirmation that the notary requires for the formation deed."
   - question: "Can US persons open Swiss bank accounts?"
     answer: "Yes, though the number of banks accepting US persons has decreased since FATCA implementation. UBS, several cantonal banks, and private banks such as Julius Baer and Lombard Odier accept US clients above certain thresholds. All banks must report account information to the IRS under FATCA. Compliance costs are passed to the client through higher fees."
+  - question: "Which Swiss bank is best for a new company?"
+    answer: "For a standard GmbH or AG with Swiss-resident directors, cantonal banks (ZKB, Luzerner Kantonalbank, Zuger Kantonalbank) offer competitive corporate fees and pragmatic onboarding within 2-3 weeks. UBS suits companies needing multi-currency accounts and international payment rails from day one. Digital banks like Relio accept corporate clients with faster onboarding but limited credit facilities."
+  - question: "Do I need to visit Switzerland to open a bank account?"
+    answer: "For personal accounts, several banks (Dukascopy, Alpian, Yuh) offer fully remote onboarding via video identification. For corporate accounts, most traditional banks still require at least one in-person meeting with a signatory, though some cantonal banks and digital banks have relaxed this requirement for low-risk structures with Swiss-resident directors."
 tocItems:
   - id: "how-swiss-banking-works"
     title: "How Swiss Banking Works"
@@ -55,19 +60,17 @@ tocItems:
     title: "Swiss Banking for International Clients"
   - id: "choosing-the-right-bank"
     title: "Choosing the Right Bank"
-  - id: "frequently-asked-questions"
-    title: "Frequently Asked Questions"
 ---
 
-Switzerland holds roughly a quarter of the world's cross-border private wealth and hosts around 240 FINMA-licenced banks. Whether you need a personal current account, a corporate relationship for your newly formed GmbH, or a discretionary private banking mandate, the Swiss system offers a structured path — but each path has its own requirements, costs, and timelines. This guide synthesises the key information across our detailed banking resources: how the [Swiss banking system](/banking/swiss-banking-landscape/) is structured, how to go about [opening a Swiss bank account](/banking/opening-swiss-bank-account-guide/), and what [private banking in Switzerland](/banking/private-banking-switzerland-guide/) actually involves in practice.
+Opening a bank account in Switzerland requires a passport, proof of address, proof of source of funds and a completed beneficial ownership declaration. Residents with a Swiss permit (B, C, L or G) can open personal accounts at virtually any bank in 1-2 weeks. Non-residents face stricter KYC and a smaller selection of banks. Corporate accounts for a standard GmbH or AG take 2-3 weeks; complex structures with foreign beneficial owners can take 6-8 weeks. Fees range from CHF 20-60 per quarter for personal retail accounts to CHF 50-200 per quarter for corporate accounts.
+
+Switzerland hosts around 240 FINMA-licenced banks and manages roughly a quarter of the world's cross-border private wealth. This guide covers how the [Swiss banking system](/banking/swiss-banking-landscape/) works, the practical steps for [opening a Swiss bank account](/banking/opening-swiss-bank-account-guide/), and what [private banking in Switzerland](/banking/private-banking-switzerland-guide/) actually involves.
 
 ## How Swiss Banking Works
 
-The Swiss financial centre is built on three pillars: political stability, a strong legal framework, and deep institutional expertise in wealth management. Banks in Switzerland operate under the Federal Banking Act (Bankengesetz) of 1934, the Financial Market Supervision Act (FINMAG) of 2007, and a web of ordinances that together create one of the most tightly regulated banking environments in the world.
+Banks in Switzerland operate under the Federal Banking Act (Bankengesetz) of 1934, the Financial Market Supervision Act (FINMAG) of 2007 and a web of ordinances. Domestic client confidentiality remains in force — a bank employee who discloses client data to an unauthorised third party within Switzerland faces criminal prosecution under Article 47 of the Banking Act. Internationally, Switzerland participates in AEOI (Automatic Exchange of Information) with over 100 countries, so banking secrecy no longer shields accounts from foreign tax authorities.
 
-What sets Switzerland apart is the combination of strict regulation with a tradition of client confidentiality. While international information exchange has replaced the old model of absolute secrecy, Swiss banks still maintain high standards of data protection domestically. A bank employee who discloses client information to an unauthorised third party within Switzerland faces criminal prosecution under Article 47 of the Banking Act.
-
-For businesses, the banking system provides essential infrastructure. Every Swiss company needs a bank account — there is no alternative for receiving payments, paying salaries, or settling tax obligations. The choice of bank affects everything from onboarding speed to the fees you pay over the company's lifetime.
+Every Swiss company needs a bank account. There is no alternative for receiving payments, paying salaries or settling tax obligations. The choice of bank affects onboarding speed, ongoing fees and the quality of support when compliance requests arise.
 
 ## The Swiss Banking System
 
@@ -79,7 +82,7 @@ The current structure includes several distinct bank categories, each serving di
 
 ### The Swiss National Bank
 
-The <a href="https://www.snb.ch/en/" target="_blank" rel="nofollow noopener">Swiss National Bank (SNB)</a> sits at the centre of the financial system. It conducts monetary policy, issues banknotes, manages Switzerland's foreign exchange reserves, and acts as lender of last resort. The SNB sets the policy rate (currently 1.50% as of early 2026) and intervenes in currency markets when necessary to manage the value of the Swiss franc.
+The <a href="https://www.snb.ch/en/" target="_blank" rel="nofollow noopener">Swiss National Bank (SNB)</a> sits at the centre of the financial system. It conducts monetary policy, issues banknotes, manages Switzerland's foreign exchange reserves, and acts as lender of last resort. The SNB sets the policy rate (0.25% as of March 2025, with further adjustments possible) and intervenes in currency markets when necessary to manage the value of the Swiss franc.
 
 The SNB is organised as a joint-stock company with the Confederation and cantons as majority shareholders — an unusual structure for a central bank. Its independence from government is constitutionally guaranteed.
 
@@ -267,48 +270,4 @@ The right bank depends on your specific needs:
 
 The starting point for any banking relationship is understanding the requirements. Our [account opening guide](/banking/opening-swiss-bank-account-guide/) walks through every step of the process, from initial documentation to account activation, for both personal and corporate accounts.
 
-## Frequently Asked Questions
-
-**Can a foreigner open a bank account in Switzerland?**
-
-Yes. Both residents and non-residents can open personal and corporate bank accounts in Switzerland. Non-residents face stricter KYC requirements and may need to provide additional documentation such as proof of source of funds, a reference letter from their current bank, and a clear explanation of why they require a Swiss banking relationship. Some banks accept remote onboarding via video identification, though corporate accounts typically require an in-person meeting.
-
-**What types of banks operate in Switzerland?**
-
-Switzerland has approximately 240 licensed banks: 24 cantonal banks (state-owned, regional focus), 1 large universal bank (UBS, following the Credit Suisse merger), around 90 private banks and asset managers with banking licences, over 100 foreign-controlled bank branches and subsidiaries, and a growing number of digital banks and fintech providers. Each category serves different client segments with distinct fee structures and service models.
-
-**What is the minimum deposit for Swiss private banking?**
-
-Entry-level private banking starts at CHF 250,000-500,000 at institutions such as Vontobel and EFG International. Mid-tier banks like Julius Baer and Lombard Odier typically require CHF 1-2 million. Exclusive banks including Pictet and Union Bancaire Privee set thresholds at CHF 5-10 million. Some digital private banks have reduced minimums to CHF 50,000, though with fewer bespoke services.
-
-**Is Swiss banking secrecy still in effect?**
-
-Domestically, yes. Article 47 of the Banking Act still imposes criminal penalties on bank employees who disclose client information to unauthorised parties within Switzerland. Internationally, Switzerland participates in the Automatic Exchange of Information (AEOI) with over 100 countries, sharing account data with foreign tax authorities. Banking secrecy no longer provides protection against international tax transparency.
-
-**How is the Swiss banking system regulated?**
-
-FINMA (Swiss Financial Market Supervisory Authority) is the integrated regulator overseeing banks, insurance companies, securities dealers, and financial market infrastructure. The Swiss National Bank (SNB) sets monetary policy and manages financial system stability. The Swiss Bankers Association (SBA) issues self-regulatory guidelines including the Agreement on Due Diligence (VSB), which carries quasi-regulatory force through FINMA recognition.
-
-**What fees do Swiss banks charge?**
-
-Fee structures vary by bank type. Retail bank account maintenance runs CHF 20-60 per quarter for personal accounts and CHF 50-200 per quarter for corporate accounts. Private banking all-in fees range from 0.8-1.5% annually on assets under management. Additional charges include custody fees (0.1-0.5% annually), international transfer fees (CHF 5-30), and card fees (CHF 50-100 per year).
-
-**Are Swiss bank deposits protected?**
-
-Yes. The esisuisse deposit protection scheme covers deposits up to CHF 100,000 per depositor per bank. This includes savings accounts, current accounts, and fixed-term deposits held by natural persons and legal entities. Investment assets (securities, funds) held in custody are segregated from the bank balance sheet and are not part of the bankruptcy estate if a bank fails.
-
-**How long does it take to open a corporate bank account in Switzerland?**
-
-A straightforward Swiss GmbH or AG with Swiss-resident directors typically opens a corporate account within 2-3 weeks. Complex structures involving foreign beneficial owners, multi-layered ownership, or high-risk jurisdictions can take 6-8 weeks due to enhanced KYC/AML checks. Digital banks may process simpler applications faster, but established banks remain the standard for corporate relationships.
-
-**What is a capital deposit account?**
-
-A Kapitaleinzahlungskonto is a blocked account required during Swiss company formation. Share capital — CHF 20,000 for a GmbH, minimum CHF 50,000 paid in for an AG — must be deposited before registration with the commercial register. Once the company is registered, the funds are released to the operating account. The bank issues a confirmation that the notary requires for the formation deed.
-
-**Can US persons open Swiss bank accounts?**
-
-Yes, though the number of banks accepting US persons has decreased since FATCA implementation. UBS, several cantonal banks, and private banks such as Julius Baer and Lombard Odier accept US clients above certain thresholds. All banks must report account information to the IRS under FATCA. Compliance costs are passed to the client through higher fees.
-
----
-
-*Morgan Hartley Consulting (Morgan Hartley Consulting GmbH) | Baarerstrasse 135, 6300 Zug | +41 44 51 52 592 | info@lawsupport.ch*
+If you are forming a Swiss company and need to coordinate bank account opening with the registration process, [contact us](/contacts/) — Morgan Hartley Consulting handles both in parallel to avoid delays.
