@@ -31,7 +31,33 @@ function getScheduledSlugs() {
   return slugs;
 }
 
+function getSlugLastmod() {
+  const blogDir = path.resolve("./src/content/blog");
+  const map = new Map();
+  if (!fs.existsSync(blogDir)) return map;
+
+  for (const file of fs.readdirSync(blogDir)) {
+    if (!file.endsWith(".md")) continue;
+    const content = fs.readFileSync(path.join(blogDir, file), "utf-8");
+
+    const modMatch = content.match(/^dateModified:\s*"?(\d{4}-\d{2}-\d{2})"?/m);
+    const dateMatch = content.match(/^date:\s*"?(\d{2})\.(\d{2})\.(\d{4})"?/m);
+
+    let iso = null;
+    if (modMatch) {
+      iso = new Date(modMatch[1]).toISOString();
+    } else if (dateMatch) {
+      iso = new Date(`${dateMatch[3]}-${dateMatch[2]}-${dateMatch[1]}`).toISOString();
+    }
+    if (iso) {
+      map.set(file.replace(/\.md$/, ""), iso);
+    }
+  }
+  return map;
+}
+
 const scheduledSlugs = getScheduledSlugs();
+const slugLastmod = getSlugLastmod();
 
 export default defineConfig({
   output: "static",
@@ -56,6 +82,15 @@ export default defineConfig({
         }
         if (page.includes("/thank-you/")) return false;
         return true;
+      },
+      serialize: (item) => {
+        for (const [slug, iso] of slugLastmod) {
+          if (item.url.includes(`/${slug}/`)) {
+            item.lastmod = iso;
+            break;
+          }
+        }
+        return item;
       },
     }),
   ],

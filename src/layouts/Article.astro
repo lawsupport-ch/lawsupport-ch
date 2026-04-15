@@ -41,8 +41,19 @@ const schema = [
     "image": heroImage ? `https://lawsupport.ch${heroImage}` : "https://lawsupport.ch/images/logo.png",
     "datePublished": date.split(".").reverse().join("-"),
     "dateModified": dateModified || date.split(".").reverse().join("-"),
-    "author": {"@id": "https://lawsupport.ch/#morgan-hartley"},
-    "publisher": {"@id": "https://lawsupport.ch/#organization"},
+    "author": {
+      "@id": "https://lawsupport.ch/#morgan-hartley",
+      "@type": "Person",
+      "name": "Morgan Hartley",
+      "url": "https://lawsupport.ch/team/morgan-hartley/",
+      "jobTitle": "Senior Corporate Lawyer & Partner"
+    },
+    "publisher": {
+      "@id": "https://lawsupport.ch/#organization",
+      "@type": "Organization",
+      "name": "Morgan Hartley Consulting",
+      "url": "https://lawsupport.ch/"
+    },
     "mainEntityOfPage": {"@id": `https://lawsupport.ch${Astro.url.pathname}#webpage`}
   },
   {
@@ -102,7 +113,11 @@ const schema = [
           {description && <p class="article-desc">{description}</p>}
         </div>
         <div class="article-hero-image">
-          {heroImage ? <img src={heroImage.replace(".png",".webp")} srcset={heroImage.replace(".png","-375.webp") + " 375w, " + heroImage.replace(".png",".webp") + " 750w"} sizes="(max-width: 640px) 375px, 640px" alt={title} class="article-hero-img" width="750" height="419" fetchpriority="high" /> : <div class="article-hero-placeholder"></div>}
+          {heroImage ? (() => {
+            const webp = heroImage.replace(/\.(png|jpg|jpeg)$/i, ".webp");
+            const small = webp.replace(/\.webp$/, "-375.webp");
+            return <img src={webp} srcset={`${small} 375w, ${webp} 750w`} sizes="(max-width: 640px) 375px, 640px" alt={title} class="article-hero-img" width="750" height="419" fetchpriority="high" />;
+          })() : <div class="article-hero-placeholder"></div>}
         </div>
       </div>
     </div>
