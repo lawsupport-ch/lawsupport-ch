@@ -355,7 +355,7 @@ We respond to all enquiries within one business day.
 
 ## The Five Bookkeeping Errors That Trigger Swiss Tax Authority Reviews
 
-From Goldblum und Partner AG's experience with 300+ client companies:
+From Morgan Hartley Consulting's experience with 300+ client companies:
 
 1. **Failing to reconcile VAT with the general ledger.** The ESTV cross-checks VAT returns against annual accounts. Discrepancies trigger audits. Quarterly reconciliation is not optional.
 

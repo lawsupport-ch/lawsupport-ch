@@ -10,14 +10,12 @@ const tocItems = [
 
 const schema = [
   {
-    "@context": "https://schema.org",
     "@type": "WebPage",
     "name": "SECO Work Permits Switzerland — Staff Leasing & EOR",
     "description": "Obtain SECO work permits for personnel leasing, outstaffing, headhunting, and employer of record services in Switzerland. Full regulatory compliance.",
     "url": "https://lawsupport.ch/services/seco-permits/"
   },
   {
-    "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://lawsupport.ch/" },
@@ -25,7 +23,6 @@ const schema = [
     ]
   },
   {
-    "@context": "https://schema.org",
     "@type": "FAQPage",
     "mainEntity": [
       {"@type": "Question", "name": "What is a SECO personnel leasing permit?", "acceptedAnswer": {"@type": "Answer", "text": "Any business that supplies temporary workers to client companies in Switzerland must hold a personnel leasing permit (Personalverleihbewilligung) issued by SECO or the cantonal labour authority. This applies to staffing agencies, outstaffing providers, and employer of record (EOR) services. Operating without a permit carries fines and potential criminal liability under the Employment Services Act (AVG)."}},
@@ -34,6 +31,15 @@ const schema = [
       {"@type": "Question", "name": "What is the difference between personnel leasing and employment placement?", "acceptedAnswer": {"@type": "Answer", "text": "Personnel leasing (Personalverleih) means a staffing agency employs workers and assigns them to work at a client company. The agency remains the employer. Employment placement (Arbeitsvermittlung) means a recruiter connects a candidate with an employer, but the employment relationship is directly between the candidate and the hiring company."}},
       {"@type": "Question", "name": "Can a foreign company obtain a SECO permit?", "acceptedAnswer": {"@type": "Answer", "text": "A foreign company cannot hold a Swiss SECO permit directly. It must establish a Swiss legal entity (AG, GmbH, or branch) with a registered office in Switzerland. The Swiss entity then applies for the permit. We assist with both company formation and the subsequent SECO application."}}
     ]
+  },
+  {
+    "@type": "Service",
+    "name": "SECO Work Permits Switzerland",
+    "description": "Obtain SECO work permits for personnel leasing, outstaffing, headhunting, and employer of record services in Switzerland.",
+    "provider": { "@type": "LegalService", "@id": "https://lawsupport.ch/#organization" },
+    "areaServed": { "@type": "Country", "name": "Switzerland" },
+    "serviceType": "Legal Services — Regulatory Permits",
+    "url": "https://lawsupport.ch/services/seco-permits/"
   }
 ];
 ---

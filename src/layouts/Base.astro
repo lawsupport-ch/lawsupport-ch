@@ -46,7 +46,7 @@ const organizationSchema = {
     "addressCountry": "CH"
   },
   "knowsAbout": ["Swiss corporate law", "company formation", "shelf companies", "financial services licensing", "SECO permits", "residence permits", "Swiss bank accounts", "accounting"],
-  "sameAs": ["https://x.com/Law_Switzerland", "https://www.facebook.com/goldblum.and.partners", "https://www.instagram.com/law_support.switzerland"],
+  "sameAs": ["https://x.com/Law_Switzerland", "https://www.instagram.com/law_support.switzerland"],
   "foundingDate": "2003",
   "numberOfEmployees": {"@type": "QuantitativeValue", "value": 12},
   "priceRange": "$$$",
@@ -55,6 +55,13 @@ const organizationSchema = {
     "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
     "opens": "09:00",
     "closes": "18:00"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+41445152592",
+    "contactType": "Customer Service",
+    "areaServed": "CH",
+    "availableLanguage": ["English", "German"]
   }
 };
 
@@ -81,7 +88,12 @@ const personSchema = {
     {"@type": "Organization", "name": "Swiss Bar Association"},
     {"@type": "Organization", "name": "Zurich Bar Association"}
   ],
-  "email": "m.hartley@lawsupport.ch"
+  "email": "m.hartley@lawsupport.ch",
+  "areaServed": [
+    { "@type": "AdministrativeArea", "name": "Zurich" },
+    { "@type": "AdministrativeArea", "name": "Zug" }
+  ],
+  "availableLanguage": ["English", "German", "French", "Russian"]
 };
 
 const graphSchema = {

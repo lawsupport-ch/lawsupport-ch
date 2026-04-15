@@ -30,13 +30,11 @@ const categories = [...new Set(articles.map(a => a.category))].sort();
 
 const schema = [
   {
-    "@context": "https://schema.org",
     "@type": "WebPage",
-    "name": "Blog — Swiss Corporate Law & Company Formation Guides",
+    "name": "Swiss Corporate Law Blog & Guides | Morgan Hartley",
     "url": "https://lawsupport.ch/blog/"
   },
   {
-    "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://lawsupport.ch/" },
@@ -46,7 +44,7 @@ const schema = [
 ];
 ---
 
-<Base title="Blog — Swiss Corporate Law & Company Formation Guides" description="Expert guides on Swiss company formation, corporate law, tax planning, and business setup. Practical advice from experienced Swiss lawyers." schema={schema}>
+<Base title="Swiss Corporate Law Blog & Guides | Morgan Hartley" description="Expert guides on Swiss company formation, corporate law, tax planning, and business setup. Practical advice from experienced Swiss lawyers." schema={schema}>
 
   <div class="container">
     <nav class="breadcrumb">

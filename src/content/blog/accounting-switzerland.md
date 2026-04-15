@@ -81,7 +81,7 @@ Accounting in Switzerland follows the Swiss Code of Obligations (OR, Articles 95
 
 ## Five Accounting Mistakes That Trigger Swiss Tax Audits
 
-Before getting into the legal framework, here are the five errors we see most frequently at Goldblum und Partner AG across 300+ client companies — and each one can trigger a cantonal tax authority review:
+Before getting into the legal framework, here are the five errors we see most frequently at Morgan Hartley Consulting across 300+ client companies — and each one can trigger a cantonal tax authority review:
 
 1. **Skipping annual filings for dormant companies.** A dormant holding company with zero turnover still needs annual financial statements and a corporate tax return. Skip two years and the cantonal authority issues estimated assessments — typically overstated — plus 3% annual interest. Annual maintenance cost: approximately CHF 1'400. Catch-up cost after three missed years: CHF 8'000-12'000.
 
@@ -262,7 +262,7 @@ Swiss VAT obligations interact directly with accounting records. Companies with 
 
 ## In-House vs Outsourced Accounting
 
-The cost question comes up in every first meeting. Here is how it breaks down in practice, based on Goldblum und Partner AG's experience with 300+ Swiss companies:
+The cost question comes up in every first meeting. Here is how it breaks down in practice, based on Morgan Hartley Consulting's experience with 300+ Swiss companies:
 
 ### Cost Comparison by Transaction Volume
 

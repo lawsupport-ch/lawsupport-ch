@@ -10,14 +10,12 @@ const tocItems = [
 
 const schema = [
   {
-    "@context": "https://schema.org",
     "@type": "WebPage",
     "name": "Shelf Companies in Switzerland — Buy a Ready-Made AG or GmbH",
     "description": "Purchase a pre-registered Swiss shelf company and start operating within days. AG and GmbH available with clean history and no liabilities.",
     "url": "https://lawsupport.ch/services/shelf-companies/"
   },
   {
-    "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://lawsupport.ch/" },
@@ -25,7 +23,6 @@ const schema = [
     ]
   },
   {
-    "@context": "https://schema.org",
     "@type": "FAQPage",
     "mainEntity": [
       {"@type": "Question", "name": "What is a shelf company?", "acceptedAnswer": {"@type": "Answer", "text": "A shelf company is a pre-registered legal entity (AG or GmbH) that has been incorporated but never traded. It has no assets, liabilities, or operational history. Buyers acquire all shares and change the board of directors to gain immediate control of a fully registered Swiss company."}},
@@ -33,6 +30,15 @@ const schema = [
       {"@type": "Question", "name": "Is a shelf company more expensive than forming a new company?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, shelf companies carry a premium above the share capital and formation costs because they offer immediate availability. The premium varies depending on the company type and age. However, the time saved — weeks rather than months — often justifies the additional cost for urgent projects."}},
       {"@type": "Question", "name": "Can I rename a shelf company after purchase?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. After acquiring a shelf company, you may change its name, registered office, purpose clause, and board composition. Name changes require a general meeting resolution, notarial deed amendment, and re-registration with the commercial register — typically completed within 1 to 2 weeks."}}
     ]
+  },
+  {
+    "@type": "Service",
+    "name": "Shelf Companies in Switzerland",
+    "description": "Purchase a pre-registered Swiss shelf company and start operating within days. AG and GmbH available with clean history and no liabilities.",
+    "provider": { "@type": "LegalService", "@id": "https://lawsupport.ch/#organization" },
+    "areaServed": { "@type": "Country", "name": "Switzerland" },
+    "serviceType": "Legal Services — Corporate Formation",
+    "url": "https://lawsupport.ch/services/shelf-companies/"
   }
 ];
 ---

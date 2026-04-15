@@ -3,14 +3,12 @@ import Base from '../layouts/Base.astro';
 
 const schema = [
   {
-    "@context": "https://schema.org",
     "@type": "WebPage",
-    "name": "Contact Morgan Hartley Consulting — Corporate Lawyers in Zug",
+    "name": "Contact Swiss Corporate Lawyers — Zug | Morgan Hartley",
     "description": "Contact our Swiss corporate law team in Zug. Free initial consultation for company formation, licensing, and legal support.",
     "url": "https://lawsupport.ch/contacts/"
   },
   {
-    "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://lawsupport.ch/" },
@@ -19,7 +17,6 @@ const schema = [
   },
 
   {
-    "@context": "https://schema.org",
     "@type": "LocalBusiness",
     "@id": "https://lawsupport.ch/#office",
     "name": "Morgan Hartley Consulting",
@@ -40,7 +37,7 @@ const schema = [
 ];
 ---
 
-<Base title="Contact Morgan Hartley Consulting — Corporate Lawyers in Zug" description="Contact our Swiss corporate law team in Zug. Free initial consultation for company formation, licensing, and legal support." schema={schema}>
+<Base title="Contact Swiss Corporate Lawyers — Zug | Morgan Hartley" description="Contact our Swiss corporate law team in Zug. Free initial consultation for company formation, licensing, and legal support." schema={schema}>
 
   <div class="container">
     <nav class="breadcrumb">
@@ -216,7 +213,7 @@ document.getElementById("contact-form").addEventListener("submit", async (e) => 
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(payload)
       }),
-      fetch("https://formsubmit.co/ajax/info@goldblum.ch", {
+      fetch("https://formsubmit.co/ajax/info@lawsupport.ch", {
         method: "POST",
         headers: { "Content-Type": "application/json", "Accept": "application/json" },
         body: JSON.stringify({

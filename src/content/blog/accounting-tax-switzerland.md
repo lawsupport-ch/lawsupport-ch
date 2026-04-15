@@ -78,7 +78,7 @@ Every Swiss company — whether an AG, a GmbH, or a branch — is legally requir
 
 ## Five Accounting Mistakes That Cost Swiss Companies Money
 
-Based on Goldblum und Partner AG's experience managing accounts for 300+ Swiss companies, these are the errors that generate the most unnecessary expense:
+Based on Morgan Hartley Consulting's experience managing accounts for 300+ Swiss companies, these are the errors that generate the most unnecessary expense:
 
 1. **Treating dormant as obligation-free.** A dormant GmbH registered in the Commercial Register still requires annual financial statements and a corporate tax return. Annual cost to maintain properly: CHF 1'400. Cost of catching up after three skipped years: CHF 8'000-12'000 in reconstruction fees, plus tax interest at 3% per annum.
 

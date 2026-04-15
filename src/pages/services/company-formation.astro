@@ -10,14 +10,12 @@ const tocItems = [
 
 const schema = [
   {
-    "@context": "https://schema.org",
     "@type": "WebPage",
     "name": "Swiss Company Formation — AG, GmbH & Branch Offices",
     "description": "Register an AG or GmbH in Switzerland with full legal support. From articles of incorporation to commercial register entry in 2-4 weeks.",
     "url": "https://lawsupport.ch/services/company-formation/"
   },
   {
-    "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://lawsupport.ch/" },
@@ -25,7 +23,6 @@ const schema = [
     ]
   },
   {
-    "@context": "https://schema.org",
     "@type": "FAQPage",
     "mainEntity": [
       {"@type": "Question", "name": "How long does Swiss company formation take?", "acceptedAnswer": {"@type": "Answer", "text": "A standard AG or GmbH formation takes 2 to 4 weeks from notarial deed execution to entry in the cantonal commercial register. Pre-formation steps such as name checks and capital deposits may add another week."}},
@@ -34,6 +31,15 @@ const schema = [
       {"@type": "Question", "name": "Which canton should I register my company in?", "acceptedAnswer": {"@type": "Answer", "text": "Canton selection depends on your tax situation, industry, and operational needs. Zug offers corporate tax rates around 11.85%, while Zurich provides access to a larger talent pool. We advise on optimal canton selection based on your business model."}},
       {"@type": "Question", "name": "Do I need a Swiss bank account before incorporating?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, for an AG or GmbH you must open a capital deposit account at a Swiss bank before the notarial deed is executed. We assist with bank account opening and coordinate the deposit process."}}
     ]
+  },
+  {
+    "@type": "Service",
+    "name": "Swiss Company Formation",
+    "description": "Register an AG or GmbH in Switzerland with full legal support. From articles of incorporation to commercial register entry in 2–4 weeks.",
+    "provider": { "@type": "LegalService", "@id": "https://lawsupport.ch/#organization" },
+    "areaServed": { "@type": "Country", "name": "Switzerland" },
+    "serviceType": "Legal Services — Corporate Formation",
+    "url": "https://lawsupport.ch/services/company-formation/"
   }
 ];
 ---

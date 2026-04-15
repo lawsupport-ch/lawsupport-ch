@@ -73,7 +73,7 @@ Switzerland applies a standard VAT rate of 8.1% (MWST), a reduced rate of 2.6% f
 
 ## The Five VAT Errors That Trigger ESTV Audits
 
-From Goldblum und Partner AG's experience managing VAT compliance for 300+ companies:
+From Morgan Hartley Consulting's experience managing VAT compliance for 300+ companies:
 
 1. **Applying the wrong rate.** The reduced rate (2.6%) applies to a defined list. When in doubt, the standard rate (8.1%) applies by default. Getting this wrong on hundreds of invoices creates a liability that compounds quarterly.
 
