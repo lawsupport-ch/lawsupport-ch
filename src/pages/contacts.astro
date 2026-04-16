@@ -206,32 +206,37 @@ document.getElementById("contact-form").addEventListener("submit", async (e) => 
     utm_medium: new URLSearchParams(window.location.search).get("utm_medium") || "",
     utm_campaign: new URLSearchParams(window.location.search).get("utm_campaign") || ""
   };
-  try {
-    const [tgRes, emailRes] = await Promise.all([
-      fetch("/api/contact", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(payload)
-      }),
-      fetch("https://formsubmit.co/ajax/info@lawsupport.ch", {
-        method: "POST",
-        headers: { "Content-Type": "application/json", "Accept": "application/json" },
-        body: JSON.stringify({
-          name: payload.name,
-          email: payload.email,
-          whatsapp: payload.whatsapp,
-          message: payload.message,
-          _subject: "New Lead — lawsupport.ch",
-          _template: "table"
-        })
+  const results = await Promise.allSettled([
+    fetch("/api/contact", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(payload)
+    }),
+    fetch("https://formsubmit.co/ajax/info@lawsupport.ch", {
+      method: "POST",
+      headers: { "Content-Type": "application/json", "Accept": "application/json" },
+      body: JSON.stringify({
+        name: payload.name,
+        email: payload.email,
+        whatsapp: payload.whatsapp,
+        message: payload.message,
+        _subject: "New Lead — lawsupport.ch",
+        _template: "table"
       })
-    ]);
-    if (tgRes.ok || emailRes.ok) {
-      window.location.href = "/thank-you/";
-    } else {
-      throw new Error("Send failed");
-    }
-  } catch (err) {
+    })
+  ]);
+
+  const tgOk = results[0].status === "fulfilled" && results[0].value.ok;
+  const emailOk = results[1].status === "fulfilled" && results[1].value.ok;
+
+  console.log("[contact-form]", {
+    telegram: results[0].status === "fulfilled" ? results[0].value.status : results[0].reason?.message,
+    email: results[1].status === "fulfilled" ? results[1].value.status : results[1].reason?.message
+  });
+
+  if (tgOk || emailOk) {
+    window.location.href = "/thank-you/";
+  } else {
     btn.disabled = false;
     btn.textContent = originalText;
     alert("Something went wrong. Please try again or call us directly at +41 44 51 52 592.");
