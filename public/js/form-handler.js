@@ -6,13 +6,13 @@
       form.appendChild(hp);
     }
     form.addEventListener("submit",function(e){
-      e.preventDefault();
-      if(form.querySelector("[name=\"_honey\"]").value) return;
+      if(form.querySelector("[name=\"_honey\"]").value){e.preventDefault();return}
       var btn=form.querySelector("button[type=\"submit\"]");
       btn.textContent="Sending...";btn.disabled=true;
       var fd=new FormData(form);
       var data={};fd.forEach(function(v,k){if(k!=="_honey")data[k]=v});
-      var tg=fetch("/api/contact",{
+      // Fire Telegram notification (non-blocking)
+      fetch("/api/contact",{
         method:"POST",
         headers:{"Content-Type":"application/json"},
         body:JSON.stringify({
@@ -26,16 +26,8 @@
           utm_medium:new URLSearchParams(window.location.search).get("utm_medium")||"",
           utm_campaign:new URLSearchParams(window.location.search).get("utm_campaign")||""
         })
-      });
-      var em=fetch("https://formsubmit.co/ajax/info@goldblum.ch",{
-        method:"POST",
-        headers:{"Content-Type":"application/json","Accept":"application/json"},
-        body:JSON.stringify({name:data.name,email:data.email,whatsapp:data.whatsapp||"",message:data.message||"",_subject:"New Lead \u2014 lawsupport.ch",_template:"table"})
-      });
-      Promise.all([tg,em]).then(function(r){
-        if(r[0].ok||r[1].ok){window.location="/thank-you/"}
-        else{btn.textContent="Error \u2014 please try again";btn.disabled=false}
-      }).catch(function(){btn.textContent="Error \u2014 please try again";btn.disabled=false});
+      }).catch(function(){});
+      // Let the form submit natively to FormSubmit.co (set via form action)
     });
   });
 })();
