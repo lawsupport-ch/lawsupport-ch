@@ -84,6 +84,34 @@ export default defineConfig({
         return true;
       },
       serialize: (item) => {
+        // Static pages — set lastmod to last known update
+        const staticLastmod = {
+          "https://lawsupport.ch/": "2026-04-27T00:00:00.000Z",
+          "https://lawsupport.ch/about/": "2026-04-08T00:00:00.000Z",
+          "https://lawsupport.ch/blog/": "2026-04-27T00:00:00.000Z",
+          "https://lawsupport.ch/contacts/": "2026-04-08T00:00:00.000Z",
+          "https://lawsupport.ch/team/morgan-hartley/": "2026-04-27T00:00:00.000Z",
+          "https://lawsupport.ch/services/company-formation/": "2026-04-08T00:00:00.000Z",
+          "https://lawsupport.ch/services/shelf-companies/": "2026-04-08T00:00:00.000Z",
+          "https://lawsupport.ch/services/financial-licensing/": "2026-04-08T00:00:00.000Z",
+          "https://lawsupport.ch/services/seco-permits/": "2026-04-08T00:00:00.000Z",
+          "https://lawsupport.ch/company-formation/": "2026-04-27T00:00:00.000Z",
+          "https://lawsupport.ch/banking/": "2026-04-08T00:00:00.000Z",
+          "https://lawsupport.ch/tax-accounting/": "2026-04-08T00:00:00.000Z",
+          "https://lawsupport.ch/licensing/": "2026-04-08T00:00:00.000Z",
+          "https://lawsupport.ch/immigration/": "2026-04-27T00:00:00.000Z",
+          "https://lawsupport.ch/intellectual-property/": "2026-04-08T00:00:00.000Z",
+          "https://lawsupport.ch/corporate-transactions/": "2026-04-08T00:00:00.000Z",
+          "https://lawsupport.ch/corporate-services/": "2026-04-17T00:00:00.000Z",
+          "https://lawsupport.ch/employment-law/": "2026-04-08T00:00:00.000Z",
+          "https://lawsupport.ch/privacy-policy/": "2026-04-08T00:00:00.000Z",
+          "https://lawsupport.ch/terms/": "2026-04-08T00:00:00.000Z",
+        };
+        if (staticLastmod[item.url]) {
+          item.lastmod = staticLastmod[item.url];
+          return item;
+        }
+        // Content pages — use dateModified from frontmatter
         for (const [slug, iso] of slugLastmod) {
           if (item.url.includes(`/${slug}/`)) {
             item.lastmod = iso;
