@@ -1,6 +1,6 @@
 ---
 title: "How to Set Up Accounting for a New Swiss Company"
-description: "Step-by-step guide to setting up accounting for a new Swiss AG or GmbH: bank account, software, fiduciary, VAT registration, chart of accounts and first-year costs."
+description: "Step-by-step guide to setting up accounting for a new Swiss AG or GmbH: bank account, software, VAT registration, chart of accounts and first-year costs."
 date: "08.04.2026"
 publishDate: "2026-04-18"
 heroImage: "/images/swiss-tax-accounting-hero.webp"

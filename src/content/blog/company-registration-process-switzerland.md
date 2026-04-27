@@ -109,7 +109,7 @@ For AG and GmbH formations, the share/quota capital must be deposited in a block
 
 In-kind contributions (Sacheinlagen) require a licensed auditor's report confirming the value of contributed assets.
 
-Bank account opening can take 5–10 business days due to KYC/AML compliance checks, particularly for foreign founders. See our [capital deposit account guide](/company-formation/capital-deposit-account-switzerland/) for bank-specific requirements.
+Bank account opening can take 5–10 business days due to KYC/AML compliance checks, particularly for foreign founders. See our [capital deposit account guide](/banking/capital-deposit-account-switzerland/) for bank-specific requirements.
 
 ### Step 4: Notarise the Deed of Incorporation
 
@@ -192,7 +192,7 @@ Swiss law requires that at least one person authorised to represent the company 
 
 Foreign founders who do not plan to relocate have two options:
 - Appoint a Swiss-resident co-director or board member
-- Use a professional [nominee director service](/company-formation/nominee-director-switzerland/)
+- Use a professional [nominee director service](/corporate-services/nominee-director-switzerland/)
 
 ### Document Legalisation
 
@@ -212,7 +212,7 @@ Swiss banks apply enhanced due diligence for foreign-owned companies. Expect:
 
 ### Work Permits
 
-Registering a company does not automatically grant the right to work in Switzerland. Foreign founders who intend to work for their Swiss company must obtain a [work permit](/company-formation/residence-permit-business-owner-switzerland/). EU/EFTA nationals benefit from bilateral agreements; third-country nationals face quota restrictions.
+Registering a company does not automatically grant the right to work in Switzerland. Foreign founders who intend to work for their Swiss company must obtain a [work permit](/immigration/residence-permit-business-owner-switzerland/). EU/EFTA nationals benefit from bilateral agreements; third-country nationals face quota restrictions.
 
 ## Cantonal Differences in Registration
 
@@ -259,7 +259,7 @@ For sole proprietorships, the requirements are minimal: an application form, pro
 
 **Incomplete capital deposit**: The bank confirmation must match the articles exactly — same currency, same amount, same entity name. Discrepancies require correction before the notary can proceed.
 
-**Missing resident director**: AG and GmbH must have at least one person authorised to represent the company who is resident in Switzerland. Foreign founders must arrange a Swiss-resident director or [nominee](/company-formation/nominee-director-switzerland/) before notarisation.
+**Missing resident director**: AG and GmbH must have at least one person authorised to represent the company who is resident in Switzerland. Foreign founders must arrange a Swiss-resident director or [nominee](/corporate-services/nominee-director-switzerland/) before notarisation.
 
 **Purpose clause too narrow or too broad**: The register may reject a purpose clause that is either overly vague ("all commercial activities") or so narrow it restricts future business. Finding the right balance requires experience with register practice.
 

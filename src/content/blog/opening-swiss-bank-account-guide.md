@@ -161,7 +161,7 @@ Yes. Swiss law permits it. But banks apply stricter criteria to non-residents th
 
 **Restricted bank selection.** Not all Swiss banks accept non-residents. Major universal banks (UBS), several cantonal banks, and private banks generally do. Smaller regional banks and online-only banks often restrict accounts to Swiss residents.
 
-**Tax reporting under AEOI.** The bank reports your account details to the Swiss Federal Tax Administration (ESTV/AFC), which transmits them to the tax authority in your country of residence. You must declare the account to your local tax authority. Switzerland exchanges information with over 100 countries under the <a href="https://www.sif.admin.ch/sif/en/home/multilateral/exchanges-information/automatic-exchange-information.html" target="_blank" rel="nofollow noopener">AEOI framework</a>.
+**Tax reporting under AEOI.** The bank reports your account details to the Swiss Federal Tax Administration (ESTV/AFC), which transmits them to the tax authority in your country of residence. You must declare the account to your local tax authority. Switzerland exchanges information with over 100 countries under the <a href="https://www.sif.admin.ch/en/home/multilateral/exchanges-of-information/automatic-exchange-of-information.html" target="_blank" rel="nofollow noopener">AEOI framework</a>.
 
 ### Best banks for non-residents
 

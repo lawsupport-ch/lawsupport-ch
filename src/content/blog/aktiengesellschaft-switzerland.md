@@ -118,7 +118,7 @@ The board of directors (Verwaltungsrat) is the mandatory governing body of every
 4. **Annual report** — preparing the annual report and the general meeting
 5. **Notification of insolvency** — notifying the court if half the share capital and reserves are no longer covered
 
-**Swiss residence requirement.** At least one board member with individual signatory authority must be domiciled in Switzerland. This person must be a natural person — a corporate director is not permitted (unlike in the UK). For foreign-owned AGs, this requirement is commonly satisfied through a [nominee director](/company-formation/nominee-director-switzerland/) arrangement.
+**Swiss residence requirement.** At least one board member with individual signatory authority must be domiciled in Switzerland. This person must be a natural person — a corporate director is not permitted (unlike in the UK). For foreign-owned AGs, this requirement is commonly satisfied through a [nominee director](/corporate-services/nominee-director-switzerland/) arrangement.
 
 **Signatory authority (Zeichnungsberechtigung).** The board decides who can bind the company legally. Common configurations include sole signatory authority (Einzelunterschrift) for senior officers and collective authority (Kollektivunterschrift zu zweien) requiring two signatures for significant transactions. These are recorded in the Commercial Register.
 

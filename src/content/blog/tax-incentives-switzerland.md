@@ -67,7 +67,7 @@ This page explains each incentive, who qualifies, and how they interact. A decis
 
 ## Swiss Tax Incentives Overview
 
-The 2020 Federal Act on Tax Reform and AHV Financing (TRAF/STAF) replaced Switzerland's legacy holding, mixed company, and domiciliary regimes with a new set of OECD-compliant incentives. The <a href="https://www.estv.admin.ch/estv/en/home.html" target="_blank" rel="nofollow noopener">Federal Tax Administration (ESTV)</a> administers the federal tax component, while cantons implement the incentive tools. These are available to all qualifying companies regardless of the origin of their shareholders.
+The 2020 Federal Act on Tax Reform and AHV Financing (TRAF/STAF) replaced Switzerland's legacy holding, mixed company, and domiciliary regimes with a new set of OECD-compliant incentives. The <a href="https://www.estv.admin.ch/en/home.html" target="_blank" rel="nofollow noopener">Federal Tax Administration (ESTV)</a> administers the federal tax component, while cantons implement the incentive tools. These are available to all qualifying companies regardless of the origin of their shareholders.
 
 The current incentive toolkit includes:
 
