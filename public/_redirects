@@ -162,6 +162,11 @@
 /blog/trademark-registration-switzerland/ /intellectual-property/trademark-registration-switzerland/ 301
 /blog/cantonal-tax-comparison-switzerland/ /tax-accounting/cantonal-tax-comparison-switzerland/ 301
 
+# Deleted duplicate articles (2026-04-27) — had noindex, redirect to canonical
+/tax-accounting/swiss-vat-registration/ /tax-accounting/vat-registration-switzerland/ 301
+/corporate-services/swiss-nominee-director-guide/ /corporate-services/nominee-director-switzerland/ 301
+/company-formation/sole-proprietorship-switzerland-guide/ /company-formation/sole-proprietorship-switzerland/ 301
+
 # Services to cocoon redirects
 /services/company-formation/ /company-formation/ 301
 /services/financial-licensing/ /licensing/ 301
