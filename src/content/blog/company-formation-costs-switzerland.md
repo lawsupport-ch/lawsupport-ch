@@ -1,6 +1,6 @@
 ---
 title: "Company Formation Costs in Switzerland: Full 2026 Breakdown"
-description: "Exact costs to form a GmbH or AG in Switzerland: notary fees, register charges, share capital, nominee director, registered address, and accounting — all in CHF."
+description: "Exact 2026 costs to form a Swiss GmbH or AG: notary, register, share capital, nominee director, and accounting — all in CHF. Get a fixed-fee quote."
 date: "06.05.2026"
 publishDate: "2026-05-06"
 heroImage: "/images/company-formation-costs-switzerland.webp"

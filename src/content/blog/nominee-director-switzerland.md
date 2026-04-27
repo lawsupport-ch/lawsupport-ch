@@ -51,6 +51,8 @@ tocItems:
     title: "Combined Service: Nominee Director and Registered Address"
   - id: "the-appointment-process"
     title: "The Appointment Process"
+  - id: "how-to-choose-a-nominee-director-provider"
+    title: "How to Choose a Nominee Director Provider"
   - id: "termination-of-a-nominee-directorship"
     title: "Termination of a Nominee Directorship"
   - id: "real-world-example"
@@ -243,6 +245,20 @@ A nominee director can be appointed at two stages:
 The Commercial Register processes director appointments within standard cantonal timeframes -- typically one to three weeks in Zug, depending on current workload.
 
 For a complete walkthrough of the formation process, see our [company formation Switzerland](/company-formation/company-formation-switzerland/) guide.
+
+---
+
+## How to Choose a Nominee Director Provider
+
+**1. Regulatory status.** The nominee should be a licensed Swiss fiduciary or a Swiss lawyer operating under regulatory supervision. Regulated status means professional liability insurance and a supervisory body to whom complaints can be addressed.
+
+**2. Written nominee agreement.** Any provider who cannot produce a clear, written mandate agreement defining the scope and limits of their authority should not be used. The agreement is the legal foundation of the arrangement — its absence is a serious red flag.
+
+**3. Transparency on additional costs.** Ask specifically what is and is not covered in the annual base fee. Vague answers — or a blanket assurance that "everything is included" — are a warning sign. Out-of-scope work will arise; the question is how it is priced.
+
+**4. Experience with your business type.** Nominees specialising in holding companies have different risk profiles than nominees serving fintech startups, licensed financial intermediaries, or trading companies with complex supply chains. Match the nominee's experience to your specific industry and transaction type.
+
+**5. Portfolio size and capacity.** A nominee who is director of 50 or more companies simultaneously may have insufficient capacity for your company's specific needs. Ask how many mandates they currently hold and how they manage high-volume signing or compliance requests.
 
 ---
 

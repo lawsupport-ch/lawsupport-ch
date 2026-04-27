@@ -1,6 +1,6 @@
 ---
-title: "Opening a Company in Switzerland as a Foreigner: Requirements (2026)"
-description: "Can foreigners open a company in Switzerland? Yes — here is how. Ownership rules, resident director requirement, banking, permits, and what the process costs."
+title: "Opening a Swiss Company as a Foreigner: Full Guide (2026)"
+description: "Foreigners can own 100% of a Swiss company. Learn the rules, costs, and step-by-step process — no travel required. Request a free quote from our Zug office."
 date: "13.05.2026"
 publishDate: "2026-05-13"
 heroImage: "/images/open-company-in-switzerland-foreigners.webp"

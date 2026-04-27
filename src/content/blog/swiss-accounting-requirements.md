@@ -1,6 +1,6 @@
 ---
-title: "Swiss Accounting Requirements: What Every Company Must Do (2026)"
-description: "Swiss accounting obligations for GmbH and AG: financial statements, filing deadlines, audit thresholds, accounting principles, and penalties for non-compliance."
+title: "Swiss Accounting Requirements for GmbH and AG (2026)"
+description: "Swiss accounting obligations: financial statements, audit thresholds, filing deadlines, and penalties. Every GmbH and AG must comply — even if dormant. Get help now."
 date: "16.05.2026"
 publishDate: "2026-05-16"
 heroImage: "/images/swiss-accounting-requirements.webp"
@@ -37,7 +37,7 @@ tocItems:
     title: "Penalties for Non-Compliance"
 relatedArticles:
   - title: "Swiss VAT Registration: When Required and How to Register"
-    href: "/tax-accounting/swiss-vat-registration/"
+    href: "/tax-accounting/vat-registration-switzerland/"
   - title: "Corporate Tax in Switzerland"
     href: "/tax-accounting/corporate-tax-switzerland/"
   - title: "GmbH Formation Switzerland: Complete Guide"
@@ -197,7 +197,7 @@ Morgan Hartley Consulting provides accounting, bookkeeping, and corporate tax se
 - **Email:** info@lawsupport.ch
 - **Address:** Baarerstrasse 135, 6300 Zug, Switzerland
 
-For the corporate tax picture, see our guide to [corporate tax in Switzerland](/tax-accounting/corporate-tax-switzerland/). For VAT obligations, see our [Swiss VAT registration guide](/tax-accounting/swiss-vat-registration/).
+For the corporate tax picture, see our guide to [corporate tax in Switzerland](/tax-accounting/corporate-tax-switzerland/). For VAT obligations, see our [Swiss VAT registration guide](/tax-accounting/vat-registration-switzerland/).
 
 ---
 

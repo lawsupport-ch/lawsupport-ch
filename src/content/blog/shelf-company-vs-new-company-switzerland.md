@@ -1,6 +1,6 @@
 ---
-title: "Shelf Company vs New Company in Switzerland: Which Is Faster and Cheaper?"
-description: "Swiss shelf company vs new formation: costs, speed, risks, and when each makes sense. Includes real 2026 pricing for ready-made GmbH and AG transfers."
+title: "Shelf Company vs New Formation in Switzerland (2026)"
+description: "Shelf company or new GmbH? Compare costs, speed, and risks with real 2026 CHF pricing for ready-made and new Swiss company formation. Request a free quote."
 date: "23.05.2026"
 publishDate: "2026-05-23"
 heroImage: "/images/shelf-company-vs-new-company-switzerland.webp"

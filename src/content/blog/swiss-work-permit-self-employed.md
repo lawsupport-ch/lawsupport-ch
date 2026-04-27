@@ -1,6 +1,6 @@
 ---
-title: "Swiss Work Permit for the Self-Employed: Requirements and Process (2026)"
-description: "Self-employed work permit in Switzerland: who qualifies, the permit types (B and C), income and business plan requirements, application process, and realistic timelines."
+title: "Swiss Work Permit for the Self-Employed (2026)"
+description: "Self-employed work permit in Switzerland: who qualifies, permit types (B and C), income requirements, and how to apply. EU and non-EU rules explained. Get expert advice."
 date: "27.05.2026"
 publishDate: "2026-05-27"
 heroImage: "/images/swiss-work-permit-self-employed.webp"

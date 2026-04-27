@@ -1,6 +1,6 @@
 ---
-title: "How to Open a Swiss Bank Account in 2026: Requirements, Steps, and Best Options"
-description: "Open a Swiss bank account as a non-resident, foreigner, or foreign company. Requirements, document checklist, which banks accept non-residents, and realistic timelines."
+title: "How to Open a Swiss Bank Account (2026 Guide)"
+description: "Open a Swiss bank account as a non-resident or foreign company. Requirements, document checklist, which banks accept non-residents, and realistic timelines. Get expert help."
 date: "02.05.2026"
 publishDate: "2026-05-02"
 heroImage: "/images/how-to-open-swiss-bank-account.webp"
