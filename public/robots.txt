@@ -15,5 +15,9 @@ Allow: /
 
 Sitemap: https://lawsupport.ch/sitemap-index.xml
 
+# IndexNow key
+# https://www.indexnow.org/
+# Key file: https://lawsupport.ch/3cebbd9d53394dbeb1fb672d151c8c6c.txt
+
 User-agent: GPTBot
 Allow: /
