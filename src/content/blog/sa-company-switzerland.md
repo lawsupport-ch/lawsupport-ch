@@ -87,7 +87,7 @@ The formation process for an SA follows the same federal procedure as an [AG for
 
 3. **Notarial deed (acte authentique)** — a licensed notary in the canton of registration conducts the constituent assembly. The notary verifies the Déclaration Stampa (confirming no hidden contributions in kind) and prepares the procès-verbal (minutes).
 
-4. **File with the <a href="https://www.ge.ch/connaitre-systeme-judiciaire-genevois/office-registre-du-commerce" target="_blank" rel="nofollow noopener">Registre du Commerce</a>** — the cantonal register processes the application. Geneva typically completes registration within 5–10 business days after submission. Vaud averages 7–12 business days.
+4. **File with the <a href="https://www.zefix.ch/en/" target="_blank" rel="nofollow noopener">Registre du Commerce</a>** — the cantonal register processes the application. Geneva typically completes registration within 5–10 business days after submission. Vaud averages 7–12 business days.
 
 5. **Receive the extrait du registre du commerce** — the official extract confirming the SA's existence. Equivalent to the German Handelsregisterauszug.
 

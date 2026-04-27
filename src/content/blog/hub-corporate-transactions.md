@@ -190,7 +190,7 @@ A company transfers assets, liabilities, and contractual relationships to anothe
 
 ### WEKO/COMCO Merger Control
 
-The <a href="https://www.weko.admin.ch/en/home.html" target="_blank" rel="nofollow noopener">Swiss Competition Commission (WEKO/COMCO)</a> reviews mergers and acquisitions that meet the notification thresholds:
+The <a href="https://www.weko.admin.ch/en/" target="_blank" rel="nofollow noopener">Swiss Competition Commission (WEKO/COMCO)</a> reviews mergers and acquisitions that meet the notification thresholds:
 
 - Combined worldwide turnover exceeds CHF 2 billion, **or** combined Swiss turnover exceeds CHF 500 million
 - **And** at least two parties individually have Swiss turnover exceeding CHF 100 million

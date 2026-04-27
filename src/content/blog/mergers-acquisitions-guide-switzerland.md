@@ -81,7 +81,7 @@ Switzerland's [M&A market](/corporate-transactions/mergers-acquisitions-switzerl
 Swiss M&A is governed by:
 - **Swiss Code of Obligations (OR)** — general contract law, corporate governance, employee transfer rules
 - **<a href="https://www.fedlex.admin.ch/eli/cc/2004/320/en" target="_blank" rel="nofollow noopener">Federal Merger Act (FusG/LFus)</a>** — mergers, demergers, conversions, and asset transfers
-- **Federal Act on Cartels (KG)** — competition law and merger control, supervised by <a href="https://www.weko.admin.ch/en/home.html" target="_blank" rel="nofollow noopener">WEKO/COMCO</a>
+- **Federal Act on Cartels (KG)** — competition law and merger control, supervised by <a href="https://www.weko.admin.ch/en/" target="_blank" rel="nofollow noopener">WEKO/COMCO</a>
 - **Financial Market Infrastructure Act (FinfraG)** — mandatory tender offers for listed companies
 - **Lex Koller** — restrictions on foreign acquisition of residential real estate
 
