@@ -145,7 +145,7 @@ The key practical points:
 - Major Swiss banks (UBS, other private banks) typically require CHF 500,000+ in assets for non-resident corporate clients.
 - Cantonal banks may be more flexible if the company has a local connection (Swiss employees, Swiss clients, Swiss activity).
 
-For a full comparison, see our guide to [how to open a Swiss bank account](/banking/how-to-open-swiss-bank-account/).
+For a full comparison, see our guide to [how to open a Swiss bank account](/corporate-services/how-to-open-swiss-bank-account/).
 
 ---
 
@@ -163,7 +163,7 @@ The Lex Koller (Bundesgesetz über den Erwerb von Grundstücken durch Personen i
 
 If your Swiss company's purpose involves real estate acquisition, cantonal authorisation may be required before the purchase can proceed. Most commercial Swiss companies with no real estate holdings are unaffected.
 
-For a full analysis, see our [Lex Koller guide](/company-formation/lex-koller-switzerland/).
+For a full analysis, see our [Lex Koller guide](/immigration/lex-koller-switzerland/).
 
 ### Regulated Financial Activities
 
