@@ -2,6 +2,7 @@
 title: "Due Diligence Switzerland: Process & Risks (2026)"
 description: "Swiss due diligence for M&A: legal, financial, tax, regulatory, and IP streams. Red flags, timelines, and Swiss-specific risks. Morgan Hartley Consulting, Zug."
 date: "15.04.2026"
+dateModified: "2026-05-08"
 publishDate: "2026-04-15"
 heroImage: "/images/business-handshake-hero.webp"
 category: "Corporate Transactions"

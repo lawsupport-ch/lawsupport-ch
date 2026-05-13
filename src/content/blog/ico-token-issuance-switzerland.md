@@ -2,6 +2,7 @@
 title: "ICO & Token Issuance Switzerland: FINMA Rules"
 description: "Issuing tokens in Switzerland requires FINMA token classification as payment, utility, or asset. Learn prospectus rules, DLT Act provisions, and Zug setup."
 date: "09.04.2026"
+dateModified: "2026-05-06"
 publishDate: "2026-04-09"
 heroImage: "/images/crypto-blockchain-hero.webp"
 category: "Licensing & Permits"

@@ -2,6 +2,7 @@
 title: "Swiss Holding Company: Tax Benefits & Setup"
 description: "Swiss holding company: participation exemption, Zug tax rates, IP Box, treaty network, substance rules, and formation steps explained. Get expert advice today."
 date: "05.04.2026"
+dateModified: "2026-05-12"
 publishDate: "2026-04-05"
 heroImage: "/images/holding-company-switzerland-hero.webp"
 category: "Company Formation"

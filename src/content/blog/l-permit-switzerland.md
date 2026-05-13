@@ -2,6 +2,7 @@
 title: "L Permit Switzerland: Rules & Requirements (2026)"
 description: "Swiss L permit explained: who qualifies, maximum duration, renewal rules, source tax, and how it differs from the B permit. Start with a free assessment."
 date: "25.04.2026"
+dateModified: "2026-05-09"
 publishDate: "2026-04-25"
 heroImage: "/images/swiss-immigration-hero.webp"
 category: "Immigration"

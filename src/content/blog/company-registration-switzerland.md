@@ -2,6 +2,7 @@
 title: "Swiss Company Registration: Step-by-Step Guide (2026)"
 description: "Register a Swiss company in 2–4 weeks. Costs, legal requirements, and exact steps from name check to Commercial Register entry. Request a free quote."
 date: "29.04.2026"
+dateModified: "2026-05-08"
 publishDate: "2026-04-29"
 heroImage: "/images/company-registration-switzerland.webp"
 category: "Company Formation"

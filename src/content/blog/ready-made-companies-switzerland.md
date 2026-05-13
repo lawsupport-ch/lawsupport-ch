@@ -2,6 +2,7 @@
 title: "Ready-Made Companies & Nominee Services in Switzerland"
 description: "Swiss shelf companies, nominee directors and shareholders, holding structures. When to use ready-made companies vs fresh formation in Switzerland."
 date: "26.03.2026"
+dateModified: "2026-05-04"
 heroImage: "/images/business-contract-signing-hero.webp"
 pageLevel: 2
 category: "Company Formation"

@@ -2,7 +2,7 @@
 title: "Company Registration in Switzerland: Step-by-Step (2026)"
 description: "How to register a company in Switzerland: costs from CHF 3,000, timeline of 2–4 weeks, required documents, and cantonal differences explained step by step."
 date: "26.03.2026"
-dateModified: "2026-04-08"
+dateModified: "2026-05-02"
 heroImage: "/images/swiss-building-flags-hero.webp"
 pageLevel: 2
 category: "Company Formation"

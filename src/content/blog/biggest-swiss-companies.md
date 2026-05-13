@@ -2,6 +2,7 @@
 title: "Biggest Swiss Companies: Top 20 by Revenue (2026)"
 description: "The 20 largest Swiss companies ranked by revenue. Nestlé, Roche, Glencore, Novartis, and more — with headquarters, sector, and key figures."
 date: "08.04.2026"
+dateModified: "2026-05-08"
 publishDate: "2026-04-10"
 heroImage: "/images/zurich-skyline-hero.webp"
 category: "Company Formation"

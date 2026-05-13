@@ -2,7 +2,7 @@
 title: "Accounting in Switzerland: Rules, Costs & Deadlines (2026)"
 description: "How accounting works in Switzerland for AG and GmbH: legal requirements, costs, filing deadlines, software, audit thresholds and outsourcing options."
 date: "19.03.2026"
-dateModified: "2026-04-08"
+dateModified: "2026-05-06"
 heroImage: "/images/swiss-tax-accounting-hero.webp"
 category: "Tax & Accounting"
 categoryHref: "/tax-accounting/"

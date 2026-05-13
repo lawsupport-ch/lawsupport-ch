@@ -2,7 +2,7 @@
 title: "How to Open a Swiss Bank Account (2026)"
 description: "How to open a Swiss bank account as a foreigner or non-resident. Documents, bank comparison, timelines, fees, and rejection reasons explained."
 date: "26.03.2026"
-dateModified: "2026-04-08"
+dateModified: "2026-05-05"
 heroImage: "/images/zurich-waterfront-hero.webp"
 pageLevel: 2
 category: "Banking & Finance"

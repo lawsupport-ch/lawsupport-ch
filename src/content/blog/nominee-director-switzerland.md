@@ -2,6 +2,7 @@
 title: "Nominee Director Switzerland: Services & Costs (2026)"
 description: "Swiss AG and GmbH companies need a Swiss-resident director. Professional nominee director services from Zug: legally structured, KYC-verified, fully compliant."
 date: "07.05.2026"
+dateModified: "2026-05-11"
 publishDate: "2026-05-07"
 heroImage: "/images/business-contract-signing-hero.webp"
 category: "Company Administration"

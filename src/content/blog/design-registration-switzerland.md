@@ -2,6 +2,7 @@
 title: "Design Registration Switzerland: Process & Costs"
 description: "Register a design in Switzerland: IPI process, fees from CHF 300, protection up to 25 years. Design vs copyright vs trademark compared."
 date: "19.03.2026"
+dateModified: "2026-05-11"
 heroImage: "/images/legal-scales-justice-hero.webp"
 category: "IP & Commercial Law"
 categoryHref: "/intellectual-property/"

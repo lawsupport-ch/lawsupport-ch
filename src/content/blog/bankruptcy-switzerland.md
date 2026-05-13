@@ -2,6 +2,7 @@
 title: "Bankruptcy Switzerland: Corporate Insolvency Guide"
 description: "Swiss corporate bankruptcy (Konkurs): triggers, creditor priority, director liability, and alternatives to insolvency proceedings."
 date: "19.03.2026"
+dateModified: "2026-04-30"
 heroImage: "/images/swiss-building-flags-hero.webp"
 category: "Company Formation"
 categoryHref: "/company-formation/"

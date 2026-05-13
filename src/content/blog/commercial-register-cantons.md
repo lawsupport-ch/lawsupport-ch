@@ -2,6 +2,7 @@
 title: "Commercial Register Switzerland: Cantonal Offices (2026)"
 description: "Swiss Commercial Register by canton: search Zefix, obtain extracts, and register a company. All 26 cantonal offices listed with contact details."
 date: "19.03.2026"
+dateModified: "2026-04-30"
 heroImage: "/images/swiss-building-flags-hero.webp"
 category: "Company Formation"
 categoryHref: "/company-formation/"

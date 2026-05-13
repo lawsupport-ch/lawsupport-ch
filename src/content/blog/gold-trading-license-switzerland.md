@@ -2,6 +2,7 @@
 title: "Gold Trading License Switzerland: Rules (2026)"
 description: "Gold trading in Switzerland: AML/SRO obligations, FINMA rules, VAT on investment gold, import/export controls, and freeport storage requirements explained."
 date: "03.04.2026"
+dateModified: "2026-05-07"
 publishDate: "2026-04-03"
 heroImage: "/images/gold-trading-license-switzerland-hero.webp"
 category: "Licensing & Permits"

@@ -2,6 +2,7 @@
 title: "M&A in Switzerland: Acquisitions & Due Diligence"
 description: "M&A in Switzerland: buying companies, due diligence process, corporate restructuring, and venture capital. Legal framework and practical steps explained."
 date: "26.03.2026"
+dateModified: "2026-05-02"
 heroImage: "/images/business-handshake-hero.webp"
 pageLevel: 2
 category: "Corporate Transactions"

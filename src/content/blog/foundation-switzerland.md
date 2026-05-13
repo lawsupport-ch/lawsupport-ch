@@ -2,6 +2,7 @@
 title: "Swiss Foundation (Stiftung): Formation & Tax"
 description: "Swiss Stiftung (foundation): formation requirements, governance, tax-exempt status, supervisory authority, and uses in philanthropy and crypto."
 date: "28.03.2026"
+dateModified: "2026-05-10"
 publishDate: "2026-03-28"
 heroImage: "/images/swiss-village-flag-hero.webp"
 category: "Company Formation"

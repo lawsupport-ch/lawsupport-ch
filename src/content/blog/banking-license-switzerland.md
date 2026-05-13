@@ -2,6 +2,7 @@
 title: "Swiss Banking Licence: FINMA Requirements (2026)"
 description: "Swiss banking licence from FINMA: CHF 10M minimum capital, fit and proper criteria, 12-24 month timeline. Application process and requirements."
 date: "19.03.2026"
+dateModified: "2026-05-11"
 heroImage: "/images/asset-management-license-switzerland-hero.webp"
 category: "Licensing & Permits"
 categoryHref: "/licensing/"

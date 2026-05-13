@@ -2,7 +2,7 @@
 title: "Banking in Switzerland: Accounts, Fees & Requirements (2026)"
 description: "Open a Swiss bank account as a resident, non-resident or company. Account types, KYC documents, fees, deposit protection and private banking."
 date: "27.03.2026"
-dateModified: "2026-04-10"
+dateModified: "2026-05-03"
 heroImage: "/images/swiss-banking-vault-hero.webp"
 pageLevel: 1
 category: "Banking & Finance"

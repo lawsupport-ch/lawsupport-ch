@@ -2,6 +2,7 @@
 title: "SA Company in Switzerland: Société Anonyme Guide"
 description: "What is an SA (Société Anonyme) in Switzerland? The French-language equivalent of the AG, used in Geneva, Vaud, and Romandie. Formation, costs, structure."
 date: "08.04.2026"
+dateModified: "2026-05-03"
 publishDate: "2026-04-14"
 heroImage: "/images/swiss-flag-building-hero.webp"
 category: "Company Formation"

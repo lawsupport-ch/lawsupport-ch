@@ -2,6 +2,7 @@
 title: "Swiss Limited Partnership (KG): Structure & Uses"
 description: "Swiss Kommanditgesellschaft (KG): partner roles, liability rules, tax treatment, and use in private equity fund structures. Get expert advice today."
 date: "29.04.2026"
+dateModified: "2026-05-08"
 publishDate: "2026-04-29"
 heroImage: "/images/swiss-village-flag-hero.webp"
 category: "Company Formation"

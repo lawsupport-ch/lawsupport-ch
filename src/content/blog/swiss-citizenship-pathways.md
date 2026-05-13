@@ -2,6 +2,7 @@
 title: "Swiss Citizenship: Naturalisation & Pathways"
 description: "Every route to Swiss citizenship compared: ordinary naturalisation, descent, marriage, and investment options. Timelines, costs and requirements."
 date: "26.03.2026"
+dateModified: "2026-05-09"
 heroImage: "/images/swiss-alps-landscape-hero.webp"
 pageLevel: 2
 category: "Immigration"

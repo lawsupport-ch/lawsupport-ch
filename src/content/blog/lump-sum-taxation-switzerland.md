@@ -2,6 +2,7 @@
 title: "Lump-Sum Taxation Switzerland: Full Guide (2026)"
 description: "Swiss lump-sum taxation for wealthy foreign residents: eligibility criteria, how tax is calculated, available cantons, and application process."
 date: "01.05.2026"
+dateModified: "2026-05-08"
 publishDate: "2026-05-01"
 heroImage: "/images/swiss-tax-accounting-hero.webp"
 category: "Tax & Accounting"

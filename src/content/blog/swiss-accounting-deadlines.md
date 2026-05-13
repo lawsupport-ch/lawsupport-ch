@@ -2,6 +2,7 @@
 title: "Swiss Accounting Deadlines: Filing Calendar (2026)"
 description: "All Swiss accounting and tax filing deadlines for 2026: corporate tax returns, VAT, payroll, AGM and annual accounts. Canton-specific dates included."
 date: "08.04.2026"
+dateModified: "2026-05-06"
 publishDate: "2026-04-16"
 heroImage: "/images/swiss-tax-accounting-hero.webp"
 category: "Tax & Accounting"

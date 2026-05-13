@@ -2,6 +2,7 @@
 title: "IGE / IPI Switzerland: IP Office Guide (2026)"
 description: "The Swiss IP office IGE/IPI handles trademark, patent, and design registration. Learn how to file, official fees, Swissreg searches, and processing times."
 date: "11.04.2026"
+dateModified: "2026-05-07"
 publishDate: "2026-04-11"
 heroImage: "/images/legal-scales-justice-hero.webp"
 category: "IP & Commercial Law"

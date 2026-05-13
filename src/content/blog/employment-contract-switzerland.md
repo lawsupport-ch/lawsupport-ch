@@ -2,6 +2,7 @@
 title: "Employment Contract Switzerland: Key Clauses (2026)"
 description: "Swiss employment contracts: what must be included, probation, notice, non-compete clauses, fixed-term vs open-ended, and collective agreement obligations."
 date: "19.03.2026"
+dateModified: "2026-05-10"
 heroImage: "/images/business-contract-signing-hero.webp"
 category: "Employment Law"
 categoryHref: "/employment-law/"
