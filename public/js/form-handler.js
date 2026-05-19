@@ -12,6 +12,7 @@
       btn.textContent="Sending...";btn.disabled=true;
       var fd=new FormData(form);
       var data={};fd.forEach(function(v,k){if(k!=="_honey")data[k]=v});
+      var tsField=form.querySelector("[name=\"cf-turnstile-response\"]");
       fetch("/api/contact",{
         method:"POST",
         headers:{"Content-Type":"application/json"},
@@ -24,13 +25,15 @@
           referrer:document.referrer||"direct",
           utm_source:new URLSearchParams(window.location.search).get("utm_source")||"",
           utm_medium:new URLSearchParams(window.location.search).get("utm_medium")||"",
-          utm_campaign:new URLSearchParams(window.location.search).get("utm_campaign")||""
+          utm_campaign:new URLSearchParams(window.location.search).get("utm_campaign")||"",
+          "cf-turnstile-response":tsField?tsField.value:""
         })
       }).then(function(r){
         if(r.ok){window.location="/thank-you/"}
-        else{btn.textContent="Error \u2014 try again";btn.disabled=false}
+        else{btn.textContent="Error \u2014 try again";btn.disabled=false;if(window.turnstile)try{window.turnstile.reset()}catch(e){}}
       }).catch(function(){
         btn.textContent="Error \u2014 try again";btn.disabled=false;
+        if(window.turnstile)try{window.turnstile.reset()}catch(e){}
       });
     });
   });

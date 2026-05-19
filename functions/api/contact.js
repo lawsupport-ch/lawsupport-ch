@@ -16,11 +16,33 @@ export async function onRequestPost(context) {
     const data = await context.request.json();
     const { name, email, whatsapp, message, page, referrer, utm_source, utm_medium, utm_campaign } = data;
 
+    if (data._honey) {
+      return new Response(JSON.stringify({ success: true }), { status: 200, headers: corsHeaders });
+    }
+
     if (!name || !email || !message) {
       return new Response(JSON.stringify({ error: "Missing fields" }), {
         status: 400,
         headers: corsHeaders
       });
+    }
+
+    if (context.env.TURNSTILE_SECRET_KEY) {
+      const token = data["cf-turnstile-response"] || "";
+      if (!token) return new Response(JSON.stringify({ error: "Captcha missing" }), { status: 400, headers: corsHeaders });
+      try {
+        const tsBody = new FormData();
+        tsBody.append("secret", context.env.TURNSTILE_SECRET_KEY);
+        tsBody.append("response", token);
+        const ip = context.request.headers.get("CF-Connecting-IP");
+        if (ip) tsBody.append("remoteip", ip);
+        const tsResp = await fetch("https://challenges.cloudflare.com/turnstile/v0/siteverify", { method: "POST", body: tsBody });
+        const tsData = await tsResp.json();
+        if (!tsData.success) return new Response(JSON.stringify({ error: "Captcha verification failed" }), { status: 400, headers: corsHeaders });
+      } catch (e) {
+        console.error("Turnstile verify error:", e);
+        return new Response(JSON.stringify({ error: "Captcha unavailable" }), { status: 500, headers: corsHeaders });
+      }
     }
 
     const esc = (s) => String(s || "").replace(/[<>&]/g, (c) => ({ "<": "&lt;", ">": "&gt;", "&": "&amp;" }[c]));
